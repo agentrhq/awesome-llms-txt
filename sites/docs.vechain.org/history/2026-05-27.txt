@@ -1,0 +1,218 @@
+# VeChain Docs
+
+## VeChain Docs
+
+- [Welcome to VeChain](https://docs.vechain.org/readme.md): VeChain, a sustainable, public and enterprise-grade blockchain
+- [Blockchain Basics](https://docs.vechain.org/blockchain-basics.md): A basic introduction and overview of blockchains.
+- [Introduction to blockchain](https://docs.vechain.org/blockchain-basics/introduction-to-blockchain.md): A concise guide to the essence, mechanics, applications, and significance of blockchain technology.
+- [Introduction to digital property](https://docs.vechain.org/blockchain-basics/introduction-to-digital-property.md): An overview of digital property types and their blockchain implementation.
+- [The evolution of the internet](https://docs.vechain.org/blockchain-basics/the-evolution-of-the-internet.md): The evolution from Web1 to Web3, a paradigm shift in internet technology.
+- [Introduction to VeChain](https://docs.vechain.org/introduction-to-vechain.md): An introduction to VeChain and the VeChainThor blockchain ecosystem.
+- [About the VeChain blockchain](https://docs.vechain.org/introduction-to-vechain/about-the-vechain-blockchain.md): An in-depth look at the VeChainThor blockchain powering the VeChain ecosystem.
+- [Consensus Deep Dive](https://docs.vechain.org/introduction-to-vechain/about-the-vechain-blockchain/consensus-deep-dive.md): A deeper dive into our PoA consensus mechanism.
+- [Governance](https://docs.vechain.org/introduction-to-vechain/about-the-vechain-blockchain/governance.md): Introduction to blockchain governance and VeChain's implementation.
+- [Dual-Token Economic Model](https://docs.vechain.org/introduction-to-vechain/dual-token-economic-model.md): Understanding VeChain's innovative dual-token economic model.
+- [VeChain (VET)](https://docs.vechain.org/introduction-to-vechain/dual-token-economic-model/vechain-vet.md): Understanding VeChain's utility token, VET
+- [VeThor (VTHO)](https://docs.vechain.org/introduction-to-vechain/dual-token-economic-model/vethor-vtho.md): Understanding VeChain's transaction/gas token, VTHO
+- [Acquire VeChain Assets](https://docs.vechain.org/introduction-to-vechain/acquire-vechain-assets.md): A comprehensive guide to acquiring VeChain assets.
+- [Sustainability](https://docs.vechain.org/introduction-to-vechain/sustainability.md): VeChain's role in fostering global sustainability.
+- [Core Concepts](https://docs.vechain.org/core-concepts.md): Core concepts relating to blockchain systems and the VeChainThor blockchain.
+- [Networks](https://docs.vechain.org/core-concepts/networks.md): A section dedicated to the VeChainThor network and supporting nodes.
+- [Thor Solo Node](https://docs.vechain.org/core-concepts/networks/thor-solo-node.md): An introduction to the Thor solo node and its purpose.
+- [Testnet](https://docs.vechain.org/core-concepts/networks/testnet.md): Defining a blockchain testnet and it's purposes.
+- [Mainnet](https://docs.vechain.org/core-concepts/networks/mainnet.md): Public nodes which can be leveraged to interact with the VeChainThor blockchain.
+- [Nodes](https://docs.vechain.org/core-concepts/nodes.md): Defining the different types of nodes who support the VeChain ecosystem.
+- [Node Rewards Programme](https://docs.vechain.org/core-concepts/nodes/node-rewards-programme.md): Economic and X-Node interactions with the official node rewards dApp.
+- [Blocks](https://docs.vechain.org/core-concepts/blocks.md): Introduction to what a block represents and what block finality is.
+- [Block Model](https://docs.vechain.org/core-concepts/blocks/block-model.md): An introduction and overview of the VeChainThor blockchain block model.
+- [Transactions](https://docs.vechain.org/core-concepts/transactions.md): Learn about VeChain's novel transaction features.
+- [Transaction Model](https://docs.vechain.org/core-concepts/transactions/transaction-model.md): An introduction and overview of the VeChainThor blockchain transaction model.
+- [Transaction Fees](https://docs.vechain.org/core-concepts/transactions/transaction-fees.md): An introduction to transaction fees and why they are essential to all blockchains.
+- [Transaction Calculation](https://docs.vechain.org/core-concepts/transactions/transaction-calculation.md): The math behind gas fee calculation on the VeChainThor blockchain.
+- [Meta Transaction Features](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features.md): Overview of transaction features.
+- [Transaction Uniqueness](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/transaction-uniqueness.md): A unique transaction id for each transaction on the VeChainThor blockchain.
+- [Controllable Transaction Lifecycle](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/controllable-transaction-lifecycle.md): Configure your transaction lifecycle on the VeChainThor blockchain.
+- [Clauses (Multi-Task Transaction)](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/clauses-multi-task-transaction.md): A native approach to scale transaction throughput on the VeChainThor blockchain.
+- [Fee Delegation](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/fee-delegation.md): VeChain provides two approaches for fee delegation on the VeChainThor blockchain.
+- [Multi-Party Payment (MPP)](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/fee-delegation/multi-party-payment-mpp.md): The native VeChainThor fee delegation protocol.
+- [Designated Gas Payer (VIP-191)](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/fee-delegation/designated-gas-payer-vip-191.md): An extension of MPP which offers a more flexible version of fee delegation.
+- [Transaction Dependency](https://docs.vechain.org/core-concepts/transactions/meta-transaction-features/transaction-dependency.md): Enforce a transaction order on the VeChainThor blockchain.
+- [Block Explorers](https://docs.vechain.org/core-concepts/block-explorers.md): An essential tool which enhances the readability of the blockchain.
+- [Wallets](https://docs.vechain.org/core-concepts/wallets.md): An intro and taxonomy of the different types of wallets.
+- [VeWorld](https://docs.vechain.org/core-concepts/wallets/veworld.md): A browser plugin wallet
+- [User Guide](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide.md): VeWorld user guide
+- [Setup](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide/setup.md): How to setup VeWorld
+- [Wallet](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide/wallet.md): How to create, import and export wallets on VeWorld
+- [Signing](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide/signing.md): How to sign a transaction on VeWorld
+- [Activities](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide/activities.md): How to access your history
+- [Settings](https://docs.vechain.org/core-concepts/wallets/veworld/user-guide/settings.md): How to customize your wallet
+- [FAQ](https://docs.vechain.org/core-concepts/wallets/veworld/faq.md): FAQ on VeWorld
+- [VeChain Kit](https://docs.vechain.org/core-concepts/wallets/vechain-kit.md)
+- [Sync2 (Legacy)](https://docs.vechain.org/core-concepts/wallets/sync2.md): A mobile and browser plugin wallet
+- [User Guide](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide.md): Sync2 user guide
+- [Setup](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide/setup.md)
+- [Wallet](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide/wallet.md)
+- [Signing](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide/signing.md)
+- [Activities](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide/activities.md)
+- [Settings](https://docs.vechain.org/core-concepts/wallets/sync2/user-guide/settings.md)
+- [FAQ](https://docs.vechain.org/core-concepts/wallets/sync2/faq.md)
+- [EVM Compatibility](https://docs.vechain.org/core-concepts/evm-compatibility.md): Ethereum virtual machine (EVM) compatibility with the VeChainThor blockchain
+- [VeChain Modifications](https://docs.vechain.org/core-concepts/evm-compatibility/vechain-modifications.md): A developers guide to the main modifications implemented in VeChain when compared to Ethereum.
+- [Methodology](https://docs.vechain.org/core-concepts/evm-compatibility/methodology.md)
+- [Test Coverage](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage.md)
+- [Gas model](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/gas-model.md)
+- [Raw transaction](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/raw-transaction.md)
+- [Chain id](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/chain_id.md)
+- [hardhat specific](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/hardhat-specific.md)
+- [Ganache failures](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/hardhat-specific/ganache-failures.md)
+- [evm\_increaseTime](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/hardhat-specific/evm_increasetime.md)
+- [Failures in constructor](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/failures-in-constructor.md)
+- [eth\_sign](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/eth_sign.md)
+- [Contract address prediction](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/contract-address-prediction.md)
+- [BadBeacon proxy address at 0x1](https://docs.vechain.org/core-concepts/evm-compatibility/test-coverage/badbeacon-proxy-address-at-0x1.md)
+- [How to Recreate](https://docs.vechain.org/core-concepts/evm-compatibility/how-to-recreate.md): A tutorial on how to recreate the OpenZeppelin tests locally using a Thor Solo node.
+- [How to run a node](https://docs.vechain.org/how-to-run-a-node.md)
+- [Nodes](https://docs.vechain.org/how-to-run-a-node/nodes.md): RESTful API to access the VeChainThor blockchain
+- [How to run a Thor Solo Node](https://docs.vechain.org/how-to-run-a-node/how-to-run-a-thor-solo-node.md): A thor solo node is a VeChainThor blockchain node running in a sandbox, particularly useful for developers who might need to wait for a specific condition to be met, that in a living environment would
+- [Custom Network](https://docs.vechain.org/how-to-run-a-node/custom-network.md)
+- [Connect Sync2 to a Thor Solo Node](https://docs.vechain.org/how-to-run-a-node/connect-sync2-to-thor.md)
+- [Developer Resources](https://docs.vechain.org/developer-resources.md)
+- [Getting Started](https://docs.vechain.org/developer-resources/getting-started.md): Your gateway to developing VeChain dApps
+- [How to build on VeChain](https://docs.vechain.org/developer-resources/how-to-build-on-vechain.md)
+- [Connect to the Network](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/connect-to-the-network.md): How to connect with to VeChainThor blockchain using @vechain/sdk-network
+- [Read Data](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data.md)
+- [Read Blocks](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/read-blocks.md)
+- [Read Transactions](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/read-transactions.md)
+- [Read Accounts](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/read-accounts.md)
+- [States & Views](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/states-and-views.md)
+- [Events & Logs](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/events-and-logs.md)
+- [VET Transfers](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/read-data/vet-transfers.md)
+- [Write Data](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/write-data.md)
+- [Transactions](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/write-data/transactions.md)
+- [Fee Delegation](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/write-data/fee-delegation.md)
+- [Listen to Changes](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes.md)
+- [Events](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes/events.md)
+- [VET Transfers](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes/vet-transfers.md)
+- [Transactions](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes/transactions.md)
+- [Blocks](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes/blocks.md)
+- [Beats](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/listen-to-changes/beats.md)
+- [Build with Hardhat](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/build-with-hardhat.md)
+- [Utilities](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/utilities.md)
+- [BigInt and Unit-Handling](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/utilities/bigint-and-unit-handling.md)
+- [Name Service Lookups](https://docs.vechain.org/developer-resources/how-to-build-on-vechain/utilities/name-service-lookups.md)
+- [Example dApps](https://docs.vechain.org/developer-resources/example-dapps.md)
+- [Buy me a Coffee](https://docs.vechain.org/developer-resources/example-dapps/buy-me-a-coffee.md)
+- [Token Bound Accounts](https://docs.vechain.org/developer-resources/example-dapps/token-bound-accounts.md)
+- [PWA with Privy and Account Abstraction](https://docs.vechain.org/developer-resources/example-dapps/pwa-with-privy-and-account-abstraction.md)
+- [EVM Compatibility for Developers](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers.md): This document provides an overview of VeChainThor's compatibility with the Ethereum Virtual Machine (EVM), highlighting differences, benefits, supported RPC methods, and considerations for developers
+- [Key Architectural Differences and Optimizations](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/key-architectural-differences-and-optimizations.md)
+- [Practical Implications for Developers: Key Considerations](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/practical-implications-for-developers-key-considerations.md)
+- [RPC Methods (Detailed Breakdown)](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/rpc-methods-detailed-breakdown.md)
+- [Frequently Asked Questions (FAQs)](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/frequently-asked-questions-faqs.md)
+- [VeChain Blockchain Specifications](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/vechain-blockchain-specifications.md): A list of key blockchain specifications
+- [Key Differences Between VeChain and Ethereum (Summary)](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/key-differences-between-vechain-and-ethereum-summary.md)
+- [Best Practices for Developing on VeChainThor](https://docs.vechain.org/developer-resources/evm-compatibility-for-developers/best-practices-for-developing-on-vechainthor.md)
+- [How to verify Address-Ownership](https://docs.vechain.org/developer-resources/how-to-verify-address-ownership.md)
+- [Next.js Session Verification](https://docs.vechain.org/developer-resources/how-to-verify-address-ownership/next.js-session-verification.md): By using certificate signing, you can implement stateless session management in applications like Next.js.
+- [Debug Reverted Transactions](https://docs.vechain.org/developer-resources/debug-reverted-transactions.md)
+- [Account Abstraction](https://docs.vechain.org/developer-resources/account-abstraction.md): Smart Contract Wallets on the VeChainThor blockchain.
+- [VIP-191: Designated Gas Payer](https://docs.vechain.org/developer-resources/vip-191-designated-gas-payer.md)
+- [How to Integrate VIP-191 (I)](https://docs.vechain.org/developer-resources/vip-191-designated-gas-payer/how-to-integrate-vip-191-i.md)
+- [How to Integrate VIP-191 (II)](https://docs.vechain.org/developer-resources/vip-191-designated-gas-payer/how-to-integrate-vip-191-ii.md)
+- [How to Integrate VIP-191 (III)](https://docs.vechain.org/developer-resources/vip-191-designated-gas-payer/how-to-integrate-vip-191-iii.md)
+- [Index with Graph Node](https://docs.vechain.org/developer-resources/index-with-graph-node.md)
+- [Setup with Docker](https://docs.vechain.org/developer-resources/index-with-graph-node/setup-with-docker.md)
+- [Index with OpenZeppelin](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin.md)
+- [Create Subgraph Project](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/create-subgraph-project.md)
+- [Configure Contracts](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/configure-contracts.md)
+- [Deploy Subgraph and start Indexing](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/deploy-subgraph-and-start-indexing.md)
+- [Track Subgraph Indexing](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/track-subgraph-indexing.md)
+- [Access Subgraph](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/access-subgraph.md)
+- [Update Subgraph](https://docs.vechain.org/developer-resources/index-with-graph-node/index-with-openzeppelin/update-subgraph.md)
+- [SDKs & Providers](https://docs.vechain.org/developer-resources/sdks-and-providers.md)
+- [SDK](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk.md)
+- [Architecture](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/architecture.md)
+- [Accounts](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/accounts.md): Handling of mnemonics and keystore.
+- [Bloom Filter](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/bloom-filter.md): Handling of the bloom filter data structure.
+- [Certificates](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/certificates.md): Certificate related functions.
+- [Contracts](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/contracts.md)
+- [Cryptography](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/cryptography.md): Main cryptography related functions.
+- [Debug](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/debug.md): Thor debug functionalities.
+- [Encoding](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/encoding.md): Transaction and contract encoding
+- [Polls](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/polls.md)
+- [Subscriptions](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/subscriptions.md): Subscriptions URLs
+- [Thor Client](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/thor-client.md): Thor-client
+- [Transactions](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk/transactions.md): Transactions related functions.
+- [DApp Kit](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit.md)
+- [v2](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2.md)
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/installation.md)
+- [React](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/react.md): Use dApp-kit with React
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/react/installation.md)
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/react/usage.md)
+- [Vanilla JS](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/vanilla.md): Use dApp-kit with Vanilla JS
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/vanilla/installation.md): How to install \`@vechain/dapp-kit-ui\` in order to use it with TypeScript or Javascript.
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/vanilla/usage.md): Using the VeChain dApp kit UI components
+- [Core](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/core.md): the dApp-kit can be used also without the UI
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/core/installation.md): The dApp-kit can be used also without the UI
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/core/usage.md): Using the VeChain dApp kit
+- [Theme Variables](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/theme.md): use variables to customise your components
+- [i18n](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-2/i18n.md): Multi language support
+- [v1](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1.md)
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/installation.md)
+- [React](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/react.md): Use dApp-kit with React
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/react/installation.md)
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/react/usage.md)
+- [Vanilla JS](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/vanilla.md): Use dApp-kit with Vanilla JS
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/vanilla/installation.md): How to install \`@vechain/dapp-kit-ui\` in order to use it with TypeScript or Javascript.
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/vanilla/usage.md): Using the VeChain dApp kit UI components
+- [Core](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/core.md): the dApp-kit can be used also without the UI
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/core/installation.md): The dApp-kit can be used also without the UI
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/core/usage.md): Using the VeChain dApp kit
+- [Theme Variables](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/theme.md): use variables to customise your components
+- [i18n](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/i18n.md): Multi language support
+- [Node Polyfills](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/node-polyfills.md): dApp-kit has been built on top of Connex, which will require crypto, buffer, http, https and some other node polyfills, check example app configuration files if you are stuck.
+- [V0 to V1](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit-1/v0-to-v1.md): this are the most important changes between v0 and v1:
+- [v0](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit.md)
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/installation.md): How to install \`@vechain/dapp-kit\` in order to use it with TypeScript or Javascript.
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/usage.md): Using the VeChain dApp kit
+- [React](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/react.md)
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/react/installation.md): How to install @vechain/dapp-kit-react in order to use it with TypeScript or Javascript.
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/react/usage.md)
+- [Vanilla (UI)](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/vanilla.md)
+- [Installation](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/vanilla/installation.md): How to install \`@vechain/dapp-kit-ui\` in order to use it with TypeScript or Javascript.
+- [Usage](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/vanilla/usage.md): Using the VeChain dApp kit UI components
+- [Styles (UI)](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/theme.md): use variables to customise your components
+- [i18n](https://docs.vechain.org/developer-resources/sdks-and-providers/dapp-kit/dapp-kit/i18n.md): Multi language support
+- [React-Native-Wallet-Link](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link.md)
+- [Getting Started](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/getting-started.md)
+- [Integration Guide](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/integration-guide.md)
+- [The useVeWorldWallet Hook](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/wallet-hook.md)
+- [Event Handlers](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/event-handlers.md)
+- [Error Handling & Security](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/error-handling.md)
+- [Network Configuration](https://docs.vechain.org/developer-resources/sdks-and-providers/react-native-wallet-link/network-configuration.md)
+- [DevPal](https://docs.vechain.org/developer-resources/sdks-and-providers/devpal.md): A combination of tools to assist in developing and testing when using a Thor Solo Node.
+- [Frameworks & IDEs](https://docs.vechain.org/developer-resources/frameworks-and-ides.md): Frameworks and integration development environments (IDEs) that are supported by the VeChainThor blockchain.
+- [Hardhat](https://docs.vechain.org/developer-resources/frameworks-and-ides/hardhat.md)
+- [Remix](https://docs.vechain.org/developer-resources/frameworks-and-ides/remix.md)
+- [Built-in Contracts](https://docs.vechain.org/developer-resources/built-in-contracts.md)
+- [VORJ](https://docs.vechain.org/developer-resources/vorj.md): A no code Web3 as a service platform based on the VeChainThor blockchain.
+- [Useful Links](https://docs.vechain.org/developer-resources/useful-links.md): A collection of useful links and resources.
+- [How to contribute](https://docs.vechain.org/how-to-contribute.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.vechain.org/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

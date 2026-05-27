@@ -1,0 +1,285 @@
+# LLMS.txt - Information for Large Language Models
+
+## About Doc2Lang
+
+Doc2Lang is an AI-powered document translation service that enables users to translate various document formats using advanced ChatGPT technology. The platform provides fast, accurate, and context-aware translations while preserving original document formatting and layouts.
+
+## Website Purpose
+
+This website serves as a document translation platform offering:
+
+1. **Multi-format Support**: Excel (XLSX, XLS, XLAM, XLSM, XLTM, XLTX), Word (DOCX), PDF, PowerPoint (PPTX), CSV, TSV, SRT subtitle files, WebVTT video captions, ASS/SSA subtitle files, EPUB e-books, Images (JPG, PNG, GIF, BMP, WEBP), Videos (MP4, AVI, MOV, MKV, WebM, FLV, WMV, M4V), Audio (MP3, WAV, M4A, FLAC, AAC, OGG, WMA), IDML (InDesign), HTML (web pages), ODT (OpenDocument Text), ODS (OpenDocument Spreadsheet)
+2. **AI Translation**: Powered by OpenAI's ChatGPT API for high-quality, contextually accurate translations
+3. **100+ Languages**: Support for over 100 languages including major and minor languages
+4. **OCR Support**: Optical Character Recognition for scanned documents and image-based PDFs
+5. **Layout Preservation**: Maintains original document formatting, fonts, charts, and structure
+6. **Pay-per-use Model**: Flexible pricing without subscriptions or monthly fees
+
+## Key Features
+
+- **Security & Privacy**: HTTPS encryption, optional file deletion, automatic cleanup after 14 days
+- **Preview Before Payment**: Free sample translation before full purchase
+- **User-friendly Interface**: No registration required, simple upload-translate-download process
+- **Professional Quality**: Context-aware translations suitable for business, academic, and personal use
+- **Real-time Processing**: Fast translation with progress tracking for larger documents
+
+## Main Pages and Services
+
+### Core Translation Services
+- `/` - Homepage with service overview
+- `/excel-translate/` - Excel spreadsheet translation
+- `/word-translate/` - Word document translation  
+- `/pdf-translate/` - PDF document translation
+- `/ppt-translate/` - PowerPoint presentation translation
+- `/csv-translate/` - CSV data file translation
+- `/srt-translate/` - SRT subtitle file translation
+- `/webvtt-translate/` - WebVTT video caption translation
+- `/ass-translate/` - ASS/SSA subtitle file translation with style preservation
+- `/ocr-translate/` - OCR-enabled translation for scanned documents
+- `/paper-translate/` - Academic paper translation
+- `/pdf-to-text/` - PDF text extraction tool
+- `/epub-translate/` - EPUB e-book translation with formatting preservation
+- `/image-translate/` - AI image-to-image translation with text replacement (JPG, PNG, BMP, WEBP)
+- `/video-translate/` - Video file translation with subtitle extraction
+- `/audio-translate/` - Audio transcription and translation
+- `/subtitle-translate/` - General subtitle translation page
+- `/video-to-wav/` - Video to audio extraction tool
+- `/idml-translate/` - InDesign IDML file translation
+- `/html-translate/` - HTML web page translation with structure preservation
+- `/odt-translate/` - OpenDocument Text (ODT) translation for LibreOffice Writer
+- `/ods-translate/` - OpenDocument Spreadsheet (ODS) translation for LibreOffice Calc
+
+### Informational Pages
+- `/translate-document-free/` - Guide on free document translation methods
+- `/privacy/` - Privacy policy and data protection information
+- `/legaljp/` - Legal terms and specified commercial transactions
+
+### User Features
+- Preview system for translation quality assessment
+- Dashboard for registered users
+- File management and history
+- Credit-based payment system
+- Referral program
+
+## Target Audience
+
+1. **Business Professionals**: International companies needing document localization
+2. **Students & Researchers**: Academic paper translation and research material access
+3. **Content Creators**: Video subtitle (SRT/WebVTT/ASS) translation and content localization for global audiences, including anime fansub groups and karaoke creators
+4. **Video Content Creators & YouTubers**: Video translation with automatic subtitle extraction and synchronization
+5. **Podcast Producers**: Audio transcription and translation for international distribution
+6. **Multimedia Educators**: Translation of educational videos, lectures, and audio materials
+7. **General Users**: Personal document translation needs across multiple formats
+
+## Technical Specifications
+
+- **Framework**: Next.js 14 with App Router and TypeScript
+- **Internationalization**: Support for multiple UI languages
+- **File Processing**: Handles documents up to 50MB
+- **Payment Processing**: Secure payment via Stripe
+- **Translation Engine**: OpenAI ChatGPT API integration
+- **OCR Technology**: Advanced text extraction from images and scanned documents
+- **Media Processing**: FFmpeg integration for audio/video format conversion and subtitle extraction
+- **Audio Codecs**: Support for MP3, AAC, Opus, Vorbis, FLAC, PCM, and more
+- **Video Codecs**: Support for H.264, H.265/HEVC, VP8, VP9, AV1, and legacy formats
+- **Queue Management**: Dual-queue SQS architecture for priority processing (paid vs. free translations)
+- **Caching**: Redis v2 with password authentication and persistent storage
+- **Worker Architecture**: Scalable worker cluster deployment for distributed document processing
+
+## Data Handling
+
+- All file transfers are encrypted via HTTPS
+- Users can delete uploaded files immediately after translation
+- Automatic file deletion after 14 days if not manually removed
+- No data retention by OpenAI for translation processing
+- Strict privacy policy with no public model training on user data
+
+## Use Cases
+
+### Business
+- Contract and legal document translation
+- International communication and correspondence
+- Marketing material localization
+- Technical documentation translation
+- Video content localization with subtitle/caption translation (SRT/WebVTT/ASS formats)
+- Corporate training video and presentation translation
+- Podcast and webinar transcription for global teams
+- Anime and entertainment content translation with style preservation
+- Website localization with HTML translation for international markets
+- Open-source document workflows using ODT/ODS for cost-effective collaboration
+
+### Education
+- Academic paper and research translation
+- Course material localization
+- Student assignment support
+- Cross-language learning resources
+- Lecture recording transcription and translation
+- Educational video content translation
+- Multimedia learning material localization
+- LibreOffice document translation (ODT/ODS) for budget-conscious institutions
+- HTML-based learning content and course material translation
+
+### Personal
+- Travel document translation
+- Personal correspondence
+- Certificate and official document translation
+- Content consumption in preferred languages
+- Video subtitle and caption translation for accessibility (including styled ASS subtitles)
+- Personal video and home movie translation
+- Voice memo and audio note transcription
+- Music and podcast translation
+- Anime and karaoke subtitle translation with timing preservation
+- E-book library translation for reading in preferred languages
+- Photo and image translation with AI-powered text replacement for travel and social media
+- Personal website and blog translation using HTML format
+- Cross-platform document translation with ODT/ODS for LibreOffice/OpenOffice users
+
+## Supported File Formats
+
+**Documents**: PDF, DOCX, DOC, ODT (OpenDocument Text)
+**Spreadsheets**: XLSX, XLS, XLAM, XLSM, XLTM, XLTX, CSV, TSV, ODS (OpenDocument Spreadsheet)
+**Presentations**: PPTX, PPT
+**Subtitles**: SRT, WebVTT, ASS/SSA (Advanced SubStation Alpha with style preservation)
+**E-books**: EPUB (Electronic Publication with formatting preservation)
+**Images**: JPG/JPEG, PNG, GIF, BMP, WEBP, TIFF
+**Videos**: MP4, AVI, MOV, MKV, WebM, FLV, WMV, M4V
+**Audio**: MP3, WAV, M4A, FLAC, AAC, OGG, WMA
+**Publishing**: IDML (InDesign Markup Language)
+**Web**: HTML (HTML5 web pages)
+**Text**: TXT and other text-based formats
+
+## Language Support
+
+The platform supports over 100 languages including but not limited to:
+- Major languages: English, Spanish, Chinese (Simplified/Traditional), Japanese, German, French, Italian, Russian, Portuguese, Arabic, Hindi, Korean
+- Regional languages and dialects
+- Specialized technical and academic terminology across various fields
+
+## Quality Assurance
+
+- Context-aware translation using advanced AI models
+- Terminology consistency across documents
+- Layout and formatting preservation
+- Professional-grade output suitable for business and academic use
+- Preview system for quality verification before payment
+
+## Advanced Subtitle Features (ASS/SSA)
+
+- **Style Preservation**: Maintains fonts, colors, borders, shadows, positioning, and motion effects
+- **Karaoke Timing**: Preserves \k, \K, \kf, \ko timing markers for frame-accurate karaoke
+- **Layer Management**: Maintains proper layer stacking (Layer 0-9) and z-order
+- **Smart Font Handling**: Automatic font fallback and character set detection
+- **Batch Processing**: Multi-file translation with style template application
+- **Tag Compatibility**: Preserves all ASS styling tags (\Style, \Fontname, \Pos, \Move, \Fade, etc.)
+- **Preview Rendering**: Built-in ASS renderer for real-time preview with effects
+
+## EPUB E-book Translation Features
+
+- **Chapter Structure**: Preserves book structure including chapters, sections, and navigation
+- **Formatting Retention**: Maintains text styles, fonts, and layout across pages
+- **Metadata Preservation**: Keeps book metadata including author, title, and publication info
+- **Interactive Elements**: Preserves hyperlinks, footnotes, and cross-references
+- **Image Support**: Translates text within embedded images using OCR
+- **Multi-language Support**: Handles mixed-language content within single EPUB
+- **DRM-free Processing**: Works with non-DRM protected EPUB files
+
+## IDML (InDesign) Translation Features
+
+- **Complex Layout Preservation**: Maintains professional InDesign layouts including master pages and spreads
+- **Typography Retention**: Preserves fonts, character styles, paragraph styles, and text effects
+- **Design Element Support**: Keeps graphics, images, shapes, and vector artwork intact
+- **Style Mapping**: Intelligent style preservation across language changes
+- **Text Flow Management**: Handles text reflow for languages with different text lengths
+- **Linked Asset Support**: Maintains links to external images and resources
+- **Multi-layer Support**: Preserves layer structure and visibility settings
+- **Print-Ready Output**: Produces translation-ready files for professional publishing
+
+## Image Translation Features
+
+- **Image-to-Image Translation**: AI replaces original text with translated text directly on the image
+- **Gemini 3 Pro (Nano Banana Pro) Integration**: Uses Gemini 3 Pro for intelligent text replacement with background inpainting
+- **Layout Preservation**: Maintains original image layout, design, and visual elements
+- **Typography Matching**: Matches original font style, color, size, and alignment
+- **OCR Technology**: Advanced ChatGPT Vision for accurate text detection and extraction
+- **Dual Output**: Provides both translated image and extracted translated text
+- **Multi-language Detection**: Automatically detects source language in images
+- **Format Support**: JPG/JPEG, PNG, GIF, BMP, WEBP, TIFF
+- **Batch Processing**: Upload and translate multiple images simultaneously
+
+## HTML Translation Features
+
+- **Structure Preservation**: Maintains HTML tags, nested elements, and document hierarchy
+- **Attribute Translation**: Intelligently translates text in title, alt, placeholder, and aria-label attributes
+- **Smart Content Detection**: Automatically identifies translatable text content vs. code elements
+- **CSS and JavaScript Preservation**: Keeps inline styles, external stylesheets, and scripts intact
+- **Encoding Support**: Handles UTF-8 and other character encodings correctly
+- **SEO Optimization**: Preserves meta tags, structured data, and semantic HTML elements
+- **Responsive Design**: Maintains responsive layouts and media queries
+- **Accessibility**: Preserves ARIA attributes and accessibility features
+
+## ODT/ODS Translation Features (LibreOffice/OpenOffice)
+
+- **OpenDocument Standard**: Full compatibility with ODT (Text) and ODS (Spreadsheet) formats
+- **LibreOffice Compatibility**: Seamless integration with LibreOffice Writer and Calc
+- **Style Preservation**: Maintains fonts, colors, text styles, paragraph formatting, and character styles
+- **Formula Retention**: Preserves spreadsheet formulas and calculations in ODS files
+- **Multi-sheet Support**: Handles complex workbooks with multiple sheets and cross-references
+- **Table Formatting**: Maintains table structures, borders, and cell formatting in both ODT and ODS
+- **Embedded Content**: Preserves embedded images, charts, and drawing objects
+- **Conditional Formatting**: Retains conditional formatting rules in ODS spreadsheets
+- **Pivot Tables**: Maintains pivot table structures and data sources in ODS files
+- **Master Pages**: Preserves document templates and master page layouts
+- **Open Source Friendly**: Works with free, open-source document formats for cross-platform compatibility
+
+## Video Translation Features
+
+- **Automatic Subtitle Extraction**: Extracts embedded subtitles from video files
+- **Multi-format Support**: MP4, AVI, MOV, MKV, WebM, FLV, WMV, M4V formats
+- **Timing Preservation**: Maintains exact subtitle timing and synchronization
+- **Codec Compatibility**: Supports H.264, H.265/HEVC, VP8, VP9, AV1
+- **Batch Processing**: Translate multiple video files in sequence
+- **Preview System**: Preview translated subtitles before full processing
+- **Export Options**: Download translated subtitles separately or embedded
+- **Quality Retention**: Preserves original video quality during processing
+
+## Audio Translation Features
+
+- **Speech-to-Text Transcription**: Accurate transcription using advanced AI
+- **Multi-format Support**: MP3, WAV, M4A, FLAC, AAC, OGG, WMA formats
+- **Language Detection**: Automatic detection of spoken language
+- **Timestamp Generation**: Creates time-coded transcripts
+- **Noise Handling**: Effective transcription even with background noise
+- **Speaker Diarization**: Identifies different speakers in conversations
+- **Export Formats**: SRT, VTT, or plain text transcript output
+- **Long-form Support**: Handles podcasts, interviews, and lectures up to several hours
+
+## Contact and Support
+
+- Email support available
+- Comprehensive FAQ sections
+- User guides and best practices
+- Responsive customer service for translation quality concerns
+
+## Compliance and Security
+
+- HTTPS/SSL encryption for all data transmission
+- GDPR-compliant data handling
+- Secure payment processing through Stripe
+- No unauthorized data sharing or public model training
+- User-controlled data retention and deletion
+
+---
+
+## Version Information
+
+- **Platform Version**: Based on git commit a60d8ca (feat: html lp)
+- **Last Updated**: October 2025
+- **Frontend**: Next.js 14 with App Router
+- **Translation API**: Compatible with OpenAI GPT-4 and later models
+- **Queue System**: Dual-queue SQS architecture (paid/free priority)
+- **Cache Layer**: Redis v2 with persistent storage
+- **Recent Features**: HTML translation, ODT/ODS OpenDocument format support
+
+---
+
+This website is designed to be helpful for users seeking professional document translation services with AI-powered accuracy and convenience. The platform prioritizes user privacy, translation quality, and ease of use while supporting a wide range of document formats and languages.

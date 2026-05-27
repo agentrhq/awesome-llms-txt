@@ -1,0 +1,99 @@
+# ACRCloud
+
+## ACRCloud
+
+- [Introduction](https://docs.acrcloud.com/readme.md): View reference documentation to learn about the resources available in the ACRCloud  API/SDK.
+- [Console Tutorials](https://docs.acrcloud.com/get-started/tutorials.md): Find a tutorial fits your scenario and get started to test the service.
+- [Recognize Music](https://docs.acrcloud.com/get-started/tutorials/recognize-music.md): Identify music via line-in audio source or microphone with ACRCloud Music database.
+- [Recognize Custom Content](https://docs.acrcloud.com/get-started/tutorials/recognize-custom-content.md): Identify your custom content via media files or microphone with internet connections.
+- [Broadcast Monitoring for Music](https://docs.acrcloud.com/get-started/tutorials/broadcast-monitoring-for-music.md): Monitor live streams, radio or TV stations with ACRCloud Music database.
+- [Broadcast Monitoring for Custom Content](https://docs.acrcloud.com/get-started/tutorials/broadcast-monitoring-for-custom-content.md): Monitor live streams, radio or TV stations with your custom database.
+- [Detect Live & Timeshift TV Channels](https://docs.acrcloud.com/get-started/tutorials/detect-live-and-timeshift-tv-channels.md): Detect which live channels or timeshifting content the audiences are watching on the app/device.
+- [Recognize Custom Content Offline](https://docs.acrcloud.com/get-started/tutorials/recognize-custom-content-offline.md): Identify your custom content on the mobile apps without internet connections
+- [Recognize Live Channels and Custom Content](https://docs.acrcloud.com/get-started/tutorials/recognize-tv-channels-and-custom-content.md): Identify both custom files you uploaded and live channels you ingested.
+- [Find Potential Detections in Unknown Content Filter](https://docs.acrcloud.com/get-started/tutorials/find-potential-detections-in-unknown-content-filter.md): Unknown Content Filter (UCF) is a feature that helps customers to find potential detections in repeated content but not detected in audio recognition.
+- [Mobile SDK](https://docs.acrcloud.com/sdk-reference/mobile-sdk.md)
+- [iOS](https://docs.acrcloud.com/sdk-reference/mobile-sdk/ios.md)
+- [Android](https://docs.acrcloud.com/sdk-reference/mobile-sdk/android.md)
+- [Unity](https://docs.acrcloud.com/sdk-reference/mobile-sdk/unity.md)
+- [Backend SDK](https://docs.acrcloud.com/sdk-reference/backend-sdk.md)
+- [Python](https://docs.acrcloud.com/sdk-reference/backend-sdk/python.md)
+- [PHP](https://docs.acrcloud.com/sdk-reference/backend-sdk/php.md)
+- [Go](https://docs.acrcloud.com/sdk-reference/backend-sdk/go.md): Go SDK installation and usage
+- [Java](https://docs.acrcloud.com/sdk-reference/backend-sdk/java.md)
+- [C/C++](https://docs.acrcloud.com/sdk-reference/backend-sdk/c-c++.md)
+- [C#](https://docs.acrcloud.com/sdk-reference/backend-sdk/c_sharp.md)
+- [Error Codes](https://docs.acrcloud.com/sdk-reference/error-codes.md)
+- [Identification API](https://docs.acrcloud.com/reference/identification-api.md)
+- [Reference](https://docs.acrcloud.com/reference/identification-api/identification-api.md)
+- [Metadata](https://docs.acrcloud.com/reference/identification-api/metadata.md)
+- [Music](https://docs.acrcloud.com/reference/identification-api/metadata/music.md): An example of music metadata for Audio & Video Recognition project
+- [Custom Files](https://docs.acrcloud.com/reference/identification-api/metadata/custom-files.md): An example of custom-defined metadata for Audio & Video Recognition, Broadcast Monitoring, Hybrid Recognition and Offline Recognition projects.
+- [Live Channels](https://docs.acrcloud.com/reference/identification-api/metadata/live-channels.md): An example of live channels detection metadata for Live Channel Detection and Hybrid Recognition projects
+- [Humming](https://docs.acrcloud.com/reference/identification-api/metadata/humming.md): An example of humming metadata for Audio & Video Recognition project
+- [Music/Speech Detection](https://docs.acrcloud.com/reference/identification-api/metadata/music-speech-detection.md): An example of music/speech detection metadata for FS project.
+- [Console API](https://docs.acrcloud.com/reference/console-api.md)
+- [Access Token](https://docs.acrcloud.com/reference/console-api/accesstoken.md)
+- [Buckets](https://docs.acrcloud.com/reference/console-api/buckets.md)
+- [Audio Files](https://docs.acrcloud.com/reference/console-api/buckets/audio-files.md)
+- [Live Channels](https://docs.acrcloud.com/reference/console-api/buckets/live-channels.md)
+- [Dedup Files](https://docs.acrcloud.com/reference/console-api/buckets/dedup-files.md)
+- [Base Projects](https://docs.acrcloud.com/reference/console-api/base-projects.md)
+- [OfflineDBs](https://docs.acrcloud.com/reference/console-api/offlinedbs.md)
+- [BM Projects](https://docs.acrcloud.com/reference/console-api/bm-projects.md)
+- [Custom Streams Projects](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects.md)
+- [Streams](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/streams.md)
+- [Streams Results](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/streams-results.md)
+- [Streams State](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/streams-status.md)
+- [Recordings](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/recordings.md): Please make sure that your channels have enabled Timemap before getting the recording.
+- [Analytics](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/analytics.md): This api is only applicable to projects bound to ACRCloud Music
+- [User Reports](https://docs.acrcloud.com/reference/console-api/bm-projects/custom-streams-projects/user-reports.md)
+- [Broadcast Database Projects](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects.md)
+- [Channels](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/channels.md)
+- [Channels Results](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/channels-results.md)
+- [Channels State](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/channels-state.md)
+- [Recordings](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/recordings.md): Please make sure that your channels have enabled Timemap before getting the recording.
+- [Analytics](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/analytics.md): This api is only applicable to projects bound to ACRCloud Music
+- [User Reports](https://docs.acrcloud.com/reference/console-api/bm-projects/broadcast-database-projects/user-reports.md)
+- [Historical Results Projects](https://docs.acrcloud.com/reference/console-api/bm-projects/historical-results-projects.md)
+- [Channels Results](https://docs.acrcloud.com/reference/console-api/bm-projects/historical-results-projects/channels-results.md)
+- [METADATA](https://docs.acrcloud.com/reference/console-api/bm-projects/metadata.md)
+- [Music (Broadcast Monitoring with Broadcast Database)](https://docs.acrcloud.com/reference/console-api/bm-projects/metadata/music-broadcast-monitoring-with-broadcast-database.md): Example of JSON result with ACRCloud Music bucket in Broadcast Database of Broadcast Monitoring service.
+- [Custom Files](https://docs.acrcloud.com/reference/console-api/bm-projects/metadata/custom-files.md): An example of custom-defined metadata for Audio & Video Recognition, Broadcast Monitoring, Hybrid Recognition and Offline Recognition projects.
+- [File Scanning](https://docs.acrcloud.com/reference/console-api/file-scanning.md)
+- [FsFiles](https://docs.acrcloud.com/reference/console-api/file-scanning/file-scanning.md)
+- [Metadata](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata.md)
+- [Music](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata/music.md): An example of music metadata for Audio & Video Recognition project
+- [Custom Files](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata/custom-files.md): An example of custom-defined metadata for Audio & Video Recognition, Broadcast Monitoring, Hybrid Recognition and Offline Recognition projects.
+- [Cover Songs](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata/cover-songs.md): An example cover songs metadata  for FS project.
+- [AI Music Detection](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata/ai-music-detection.md): An example of ai detection metadata for FS project.
+- [Music/Speech Detection](https://docs.acrcloud.com/reference/console-api/file-scanning/metadata/music-speech-detection.md): An example of music/speech detection metadata for FS project.
+- [UCF Projects](https://docs.acrcloud.com/reference/console-api/ucf-projects.md)
+- [BM Streams](https://docs.acrcloud.com/reference/console-api/ucf-projects/bm-streams.md)
+- [UCF Results](https://docs.acrcloud.com/reference/console-api/ucf-projects/ucf-results.md)
+- [Metadata API](https://docs.acrcloud.com/reference/metadata-api.md)
+- [Audio File Fingerprinting Tool](https://docs.acrcloud.com/tools/fingerprinting-tool.md)
+- [Local Monitoring Tool](https://docs.acrcloud.com/tools/local-monitoring-tool.md)
+- [Live Channel Fingerprinting Tool](https://docs.acrcloud.com/tools/live-channel-fingerprinting-tool.md)
+- [File Scan Tool](https://docs.acrcloud.com/tools/file-scan-tool.md)
+- [Definition of Terms](https://docs.acrcloud.com/faq/definition-of-terms.md)
+- [Service Usage](https://docs.acrcloud.com/faq/service-usage.md)
+- [AI Music Detection](https://docs.acrcloud.com/faq/ai-music-detection.md): This FAQ explains how ACRCloud's AI Music Detection feature works for audio content, including prediction thresholds, output interpretation, supported source categories, and performance notes.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.acrcloud.com/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

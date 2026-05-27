@@ -1,0 +1,98 @@
+# llms.txt – Parcelcube
+
+> Parcelcube develops intelligent dimensioning and weighing systems for logistics, warehousing, and e-commerce.  
+> This file provides structured, multilingual links to official product pages, comparison guides, and blog content, optimized for AI and LLM indexing.
+
+## ENGLISH VERSION
+
+### Homepage and Overview
+- [Homepage](https://parcelcube.com/)
+- [Products overview](https://parcelcube.com/products/)
+- [Buying guide](https://parcelcube.com/buying-guide/)
+
+### Products
+- [Parcelcube 1000](https://parcelcube.com/product/parcelcube-1000/) – Parcel dimensioning and weighing system
+- [Parcelcube Vision](https://parcelcube.com/product/parcelcube-vision/) – Visual scanner for warehouse automation
+- [Parcelcube 900](https://parcelcube.com/product/parcelcube-900/) – Compact parcel measurement system
+- [Parcelcube 900XL](https://parcelcube.com/product/parcelcube-900xl/) – XL-capacity dimensioning device
+
+### Blog Posts
+- [Driving sustainability in modern logistics](https://parcelcube.com/2024/08/07/driving-sustainability-in-modern-logistics/)
+- [Parcelcube 1000 – New product release](https://parcelcube.com/2024/05/15/parcelcube-1000-new-product/)
+
+---
+
+## SUOMENKIELINEN VERSIO
+
+### Etusivu ja Yleiskatsaus
+- [Etusivu](https://parcelcube.com/fi/etusivu/)
+- [Tuotteiden yleiskatsaus](https://parcelcube.com/fi/tuotteet/)
+- [Valintaopas](https://parcelcube.com/fi/valintaopas/)
+
+### Tuotteet
+- [Parcelcube 1000](https://parcelcube.com/fi/product/parcelcube-1000/) – Pakettien mittaus- ja punnituslaite
+- [Parcelcube Vision](https://parcelcube.com/fi/product/parcelcube-vision/) – Näköpohjainen mittausjärjestelmä
+- [Parcelcube 900](https://parcelcube.com/fi/product/parcelcube-900/) – Kompakti mittalaite
+- [Parcelcube 900XL](https://parcelcube.com/fi/product/parcelcube-900xl/) – Suurten pakettien mittauslaite
+
+### Blogikirjoitukset
+- [Mittaustekniikka logistiikassa](https://parcelcube.com/fi/2025/06/14/mittaustekniikka-logistiikassa/)
+- [Parcelcube 1000 – mittauslaite](https://parcelcube.com/fi/2025/06/13/parcelcube-1000-mittauslaite/)
+
+---
+
+## VERSION FRANÇAISE
+
+### Page d’accueil et Aperçu
+- [Page d’accueil](https://parcelcube.com/fr/page-daccueil/)
+- [Aperçu des produits](https://parcelcube.com/fr/produits/)
+- [Guide d’achat](https://parcelcube.com/fr/guide-d-achat/)
+
+### Produits
+- [Parcelcube 1000](https://parcelcube.com/fr/product/parcelcube-1000/) – Système de dimensionnement et de pesée
+- [Parcelcube Vision](https://parcelcube.com/fr/product/parcelcube-vision/) – Système de mesure visuelle
+- [Parcelcube 900](https://parcelcube.com/fr/product/parcelcube-900/) – Appareil de mesure compact
+- [Parcelcube 900XL](https://parcelcube.com/fr/product/parcelcube-900xl/) – Dispositif haute capacité
+
+### Articles de blog
+- [Systèmes de dimensionnement et durabilité](https://parcelcube.com/fr/2024/10/03/systemes-de-dimensionnement-favoriser-la-durabilite-dans-la-logistique-moderne/)
+- [Parcelcube 1000 – Nouveau produit](https://parcelcube.com/fr/2024/10/03/parcelcube-1000-nouveau-produit/)
+
+---
+
+## VERSIONE ITALIANA
+
+### Pagina Iniziale e Panoramica
+- [Pagina iniziale](https://parcelcube.com/it/pagina-iniziale/)
+- [Panoramica dei prodotti](https://parcelcube.com/it/prodotti/)
+- [Guida all’acquisto](https://parcelcube.com/it/guida-all-acquisto/)
+
+### Prodotti
+- [Parcelcube 1000](https://parcelcube.com/it/product/parcelcube-1000/) – Sistema di misurazione e pesatura
+- [Parcelcube Vision](https://parcelcube.com/it/product/parcelcube-vision/) – Sistema di scansione visiva
+- [Parcelcube 900](https://parcelcube.com/it/product/parcelcube-900/) – Dispositivo compatto
+- [Parcelcube 900XL](https://parcelcube.com/it/product/parcelcube-900xl/) – Soluzione per grandi colli
+
+### Articoli del Blog
+- [Dati principali accurati](https://parcelcube.com/it/2025/03/17/il-ruolo-cruciale-dei-dati-principali-accurati-nelle-operazioni-aziendali/)
+- [Parcelcube – Nuovo sistema](https://parcelcube.com/it/2025/03/18/parcelcube-nuovo-sistema-di-dimensionamento/)
+
+---
+
+## VERSIÓN ESPAÑOLA
+
+### Inicio y Visión General
+- [Inicio](https://parcelcube.com/es/inicio/)
+- [Resumen de productos](https://parcelcube.com/es/productos/)
+- [Guía de compra](https://parcelcube.com/es/guia-de-compra/)
+
+### Productos
+- [Parcelcube 1000](https://parcelcube.com/es/product/parcelcube-1000/) – Sistema de medición y pesaje
+- [Parcelcube Vision](https://parcelcube.com/es/product/parcelcube-vision/) – Escáner visual inteligente
+- [Parcelcube 900](https://parcelcube.com/es/product/parcelcube-900/) – Sistema compacto
+- [Parcelcube 900XL](https://parcelcube.com/es/product/parcelcube-900xl/) – Para paquetes grandes
+
+### Entradas de Blog
+- [Datos maestros precisos](https://parcelcube.com/es/2024/12/17/el-papel-crucial-de-los-datos-maestros-precisos-en-las-operaciones-comerciales/)
+- [Parcelcube 1000 – Nuevo producto](https://parcelcube.com/es/2024/12/20/parcelcube-1000-nuevo-producto/)
+

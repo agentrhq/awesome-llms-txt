@@ -1,0 +1,46 @@
+# Underrun Customer Onboarding Plans
+
+
+Liberating Customer Onboarding
+
+
+Convince Customers from Day One with Public Onboarding Plans
+
+
+Send Onboarding Plans Directly To Your Customers' Task Management Tools
+
+
+## underrun
+
+
+https://underrun.io/vendors/underrun.md
+- [Complete AI Onboarding Plan for Enterprises](https://underrun.io/vendors/underrun/complete-ai-onboarding-plan-enterprises.md): A comprehensive, cross-departmental AI-as-a-Service (AIaaS) onboarding plan for enterprises. It covers the full lifecycle from strategic AI use case definition, rigorous AI vendor due diligence (including model capabilities, ethics, and data governance), complex technical integration, robust security and compliance for AI, enterprise-wide change management, and ongoing AI service governance and optimization.
+- [Complete SaaS Onboarding Plan for Enterprises](https://underrun.io/vendors/underrun/complete-saas-onboarding-plan-enterprises.md): A comprehensive, cross-departmental SaaS onboarding plan for enterprises, covering the full lifecycle from strategic evaluation and deep due diligence through to enterprise-wide deployment, robust security and compliance, extensive change management, and ongoing vendor governance. Designed for complex organizational structures.
+- [Essential SaaS Onboarding Plan for Startups](https://underrun.io/vendors/underrun/essential-saas-onboarding-plan-startups.md): A streamlined yet comprehensive SaaS onboarding plan for startups, focusing on essential checks, core technical setup, security basics, team readiness, and administrative essentials. Designed for agile teams needing an actionable guide.
+- [Essential AI Onboarding Plan for Startups](https://underrun.io/vendors/underrun/essential-ai-onboarding-plan-startups.md): A streamlined AI-as-a-Service (AIaaS) onboarding plan for startups, focusing on defining the AI use case, essential data preparation, core AI service integration, basic ethical checks, and managing AI-specific costs and performance.
+## stripe
+
+
+https://underrun.io/vendors/stripe.md
+- [Stripe Merchant Onboarding Plan](https://underrun.io/vendors/stripe/stripe-merchant-onboarding.md): Onboarding plan based on Stripe's merchant onboarding explanation.
+## cloudflare
+
+
+https://underrun.io/vendors/cloudflare.md
+- [Cloudflare One Onboarding Plan for Startups](https://underrun.io/vendors/cloudflare/cloudflare-one-onboarding-for-startups.md): A streamlined onboarding plan for startups adopting Cloudflare One, focusing on essential security and access configurations.
+## fabric
+
+
+https://underrun.io/vendors/fabric.md
+- [Essential Fabric Onboarding Plan](https://underrun.io/vendors/fabric/essential-fabric-onboarding-plan.md): A comprehensive plan for onboarding onto the Fabric Composable Commerce Platform, covering key tasks from initial setup and authentication to API integration and go-live.
+- [Streamlined Fabric Onboarding Plan for Startups](https://underrun.io/vendors/fabric/streamlined-fabric-onboarding-plan-startups.md): A focused SaaS onboarding plan for startups and small teams integrating with Fabric, covering essential setup, core API integration, and basic security.
+## hyperline
+
+
+https://underrun.io/vendors/hyperline.md
+- [Hyperline Essential SaaS Onboarding Plan for Startups](https://underrun.io/vendors/hyperline/hyperline-essential-saas-onboarding-plan-startups.md): A streamlined SaaS onboarding plan for startups adopting Hyperline, focusing on essential checks, core technical setup using Hyperline's APIs and platform features, security basics, team readiness, and administrative essentials for billing management.
+## aisquared
+
+
+https://underrun.io/vendors/aisquared.md
+- [Complete AI Squared Onboarding Plan for Enterprises](https://underrun.io/vendors/aisquared/complete-ai-squared-onboarding-plan-enterprises.md): A comprehensive, cross-departmental plan for enterprises to onboard AI Squared's AI Activation platform. It covers strategic AI use case definition using AI Squared, rigorous due diligence of AI Squared's capabilities (including model integration, ethics, and data governance), complex technical integration with AI Squared for AI-powered insights in business applications, robust security and compliance, enterprise-wide change management for adopting AI Squared, and ongoing AI service governance and optimization of AI Squared solutions.

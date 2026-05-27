@@ -1,0 +1,58 @@
+# Kintsu - Liquid Staking on Monad
+
+## Kintsu
+
+- [Introduction](https://docs.kintsu.xyz/overview/introduction.md): Welcome to Kintsu!
+- [Proof-of-Stake Blockchains](https://docs.kintsu.xyz/overview/proof-of-stake-blockchains.md)
+- [Liquid Staking](https://docs.kintsu.xyz/overview/liquid-staking.md)
+- [Kintsu on Monad](https://docs.kintsu.xyz/supported-blockchains/kintsu-on-monad.md)
+- [Kintsu on Hyperliquid](https://docs.kintsu.xyz/supported-blockchains/kintsu-on-hyperliquid.md)
+- [How It Works](https://docs.kintsu.xyz/the-kintsu-protocol/how-it-works.md): Protocol Architecture & Functionality
+- [Staking and Unstaking with Kintsu](https://docs.kintsu.xyz/the-kintsu-protocol/staking-and-unstaking-with-kintsu.md): How to Stake, Un-stake, and earn yield with Kintsu
+- [Earning Yield](https://docs.kintsu.xyz/the-kintsu-protocol/earning-yield.md): How Kintsu's reward-bearing sMON token facilitates yield back to stakers.
+- [Definitions](https://docs.kintsu.xyz/the-kintsu-protocol/definitions.md): Terminology for the Kintsu Protocol
+- [Architecture & Integration](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration.md): Technical architecture, core pieces, and system processes of Kintsu on Aleph Zero
+- [Monad LST Architecture](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture.md)
+- [StakedMonad Contract](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture/stakedmonad-contract.md): This is the core contract for the protocol, and implements the Vault (a.k.a. the Kintsu stake pool).
+- [Staking and Un-staking Mechanisms](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture/staking-and-un-staking-mechanisms.md): What happens behind the scenes when a user stakes or unstakes with Kintsu
+- [3rd Party Integration Guide](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture/3rd-party-integration-guide.md)
+- [Contract Interface, ABI, & Functions](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture/contract-interface-abi-and-functions.md): Details on select functions, including previous versions when relevant.
+- [Community Actions](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/monad-lst-architecture/community-actions.md)
+- [Hyperliquid LST Architecture](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture.md)
+- [StakedHype Contract](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture/stakedhype-contract.md): This is the core contract for the protocol on HyperEVM, and implements the Kintsu Vault (a.k.a. the Kintsu stake pool on Hyperliquid).
+- [Staking and Un-staking Mechanisms](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture/staking-and-un-staking-mechanisms.md): What happens behind the scenes when a user stakes or unstakes with Kintsu
+- [3rd Party Integration Guide](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture/3rd-party-integration-guide.md)
+- [Contract Interface, ABI, & Functions](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture/contract-interface-abi-and-functions.md): Details on select functions, along with the full StakedHype contract interface.
+- [Community Actions](https://docs.kintsu.xyz/the-kintsu-protocol/architecture-and-integration/hyperliquid-lst-architecture/community-actions.md)
+- [DAO & Governance](https://docs.kintsu.xyz/the-kintsu-protocol/dao-and-governance.md)
+- [Governance Activities & Participation](https://docs.kintsu.xyz/the-kintsu-protocol/dao-and-governance/governance-activities-and-participation.md)
+- [Official Contract Addresses](https://docs.kintsu.xyz/the-kintsu-protocol/official-contract-addresses.md)
+- [Points](https://docs.kintsu.xyz/public-api/points.md)
+- [APY](https://docs.kintsu.xyz/public-api/apy.md)
+- [Community & Social Media](https://docs.kintsu.xyz/community/community-and-social-media.md)
+- [Contribute to Open Source](https://docs.kintsu.xyz/community/contribute-to-open-source.md)
+- [Hackathons and Meetups](https://docs.kintsu.xyz/community/hackathons-and-meetups.md)
+- [Our Philosophy](https://docs.kintsu.xyz/development-team/our-philosophy.md): The team, mission, and values
+- [Why We Build](https://docs.kintsu.xyz/development-team/why-we-build.md): The motivation
+- [FAQs](https://docs.kintsu.xyz/resources/faqs.md)
+- [Bug Reports](https://docs.kintsu.xyz/resources/bug-reports.md)
+- [Feature Requests](https://docs.kintsu.xyz/resources/feature-requests.md)
+- [Support](https://docs.kintsu.xyz/resources/support.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.kintsu.xyz/overview/introduction.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

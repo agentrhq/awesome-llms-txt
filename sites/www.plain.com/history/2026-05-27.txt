@@ -1,0 +1,106 @@
+# Plain
+
+> Plain is the API-first customer infrastructure platform for B2B SaaS companies. We unify customer support across Slack, Microsoft Teams, Discord, email, and chat into one fast, extensible platform built for technical teams.
+
+## Company
+
+- Founded: 2022
+- Headquarters: London, UK & San Francisco, US
+- Funding: $15M Series A (2025)
+- Website: https://plain.com
+
+## What Plain Does
+
+Plain consolidates all customer conversations into a single platform with AI-powered workflows. Unlike legacy helpdesks built around email tickets, Plain is built API-first for teams that need extensibility, reliability, and customizability.
+
+### Core Capabilities
+
+- **Multi-channel support**: Slack, Microsoft Teams, Discord, email, chat, and in-app messaging in one inbox
+- **API-first architecture**: GraphQL and REST APIs with everything accessible programmatically
+- **AI features**: Ari (AI agent), Sidekick (AI assistant), auto-triage, themes detection, similar threads
+- **Workflow automation**: Rules engine with triggers, conditions, and actions
+- **Customer context**: Real-time data from your systems via Customer Cards and CRM sync
+- **Help Center**: Built-in knowledge base with customer portal
+- **Integrations**: Linear, Jira, GitHub, Shortcut, HubSpot, Salesforce, and custom webhooks
+
+## Who Uses Plain
+
+Plain is built for B2B SaaS companies with technical customers who expect fast, contextual support through modern channels like Slack.
+
+### Ideal Customer Profile
+
+- B2B SaaS companies
+- Developer tools and infrastructure companies
+- Teams supporting customers in Slack or Microsoft Teams
+- Companies that need API extensibility
+- Technical support teams (not call centers)
+
+### Notable Customers
+
+- Vercel (frontend cloud)
+- Cursor (AI code editor)
+- n8n (workflow automation)
+- Raycast (productivity tool)
+- Stytch (authentication)
+- Tines (security automation)
+- Sanity (content platform)
+- Tinybird (real-time analytics)
+- Ashby (recruiting software)
+- Sourcegraph (code intelligence)
+- Prisma (database toolkit)
+
+## Pricing
+
+- **Starter**: $39/seat/month — core features, 2 channels
+- **Grow**: $79/seat/month — advanced workflows, reporting, CRM sync
+- **Scale**: $149/seat/month — custom roles, escalation paths, enterprise features
+- **Unlimited free viewer seats** on all plans
+- **14-day free trial** available
+
+Pricing: https://plain.com/pricing
+
+## Key Differentiators
+
+### vs. Zendesk / Intercom / Freshdesk
+
+- **API-first**: Everything accessible via GraphQL/REST, no rate limit bottlenecks
+- **Slack-native**: Built for Slack support, not bolted on
+- **Speed**: Sub-100ms interface, built for modern workflows
+- **Extensibility**: Build custom AI agents and integrations without vendor involvement
+- **Pricing**: Transparent, startup-friendly pricing with unlimited free viewers
+
+### Why Technical Teams Choose Plain
+
+1. **No rate limits** — Legacy platforms cap at 20 requests/minute, breaking custom integrations
+2. **Build anything on top** — Custom AI agents, deep product integrations, automated workflows
+3. **Real-time data** — Live customer context, not batch sync from days ago
+4. **Multi-channel native** — Slack, Teams, Discord, email unified from day one
+
+## Recent Updates (Last 90 Days)
+
+- **Manual Workflow Triggers** (Dec 2025): Trigger any workflow via Command+K
+- **Custom Roles** (Dec 2025): Control who can view different thread types
+- **HTTP Request Actions** (Dec 2025): Send POST requests to external services from workflows
+- **Team Assignment** (Nov 2025): Auto-assign threads with round-robin load balancing
+- **Sidekick AI** (Oct 2025): AI assistant for drafting replies and finding answers
+- **HubSpot & Salesforce Sync** (Oct 2025): Bi-directional CRM integration
+- **LLMs.txt for Help Centers** (Sep 2025): Auto-generated for AI discoverability
+
+Full changelog: https://plain.com/changelog
+
+## Resources
+
+- Homepage: https://plain.com
+- Docs: https://plain.com/docs
+- Help Center: https://support.plain.com
+- Pricing: https://plain.com/pricing
+- Changelog: https://plain.com/changelog
+- Blog: https://plain.com/blog
+- Customers: https://plain.com/customers
+- Book a demo: https://plain.com/get-started/demo
+
+## Contact
+
+- Support: https://support.plain.com
+- Sales: https://plain.com/get-started/demo
+- Twitter/X: @plaaborhq

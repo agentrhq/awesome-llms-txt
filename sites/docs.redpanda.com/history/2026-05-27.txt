@@ -1,0 +1,228 @@
+# Redpanda Documentation
+
+> For the complete documentation index, see [llms.txt](https://docs.redpanda.com/llms.txt). Component-specific: [home-full.txt](https://docs.redpanda.com/home-full.txt)
+
+---
+title: Redpanda Documentation
+latest-operator-version: v26.1.4
+latest-console-tag: v3.7.3
+latest-connect-version: 4.93.0
+latest-redpanda-tag: v26.1.9
+docname: llms
+page-component-name: home
+page-version: master
+page-component-version: master
+page-component-title: Home
+page-relative-src-path: llms.adoc
+page-edit-url: https://github.com/redpanda-data/docs-site/edit/HEAD/home/modules/ROOT/pages/llms.adoc
+page-git-created-date: "2026-03-05"
+page-git-modified-date: "2026-05-26"
+---
+
+> **Redpanda** is a high-performance streaming data platform and Agentic Data Plane that is fully compatible with the Apache Kafka® API. It enables real-time data streaming, event-driven architectures, and data pipelines with simple single-binary deployment and sub-millisecond latency. The Agentic Data Plane provides enterprise-grade governance and observability for AI agents, including audit trails, compliance controls, and visibility into agent behavior. Available as self-managed software or as a fully-managed cloud service.
+
+## [](#discovery)Discovery
+
+**For AI agents and LLMs:** This documentation is optimized for AI consumption. If you’re an AI agent trying to help with Redpanda, start here.
+
+### [](#find-redpanda-documentation)Find Redpanda documentation
+
+**Primary discovery methods:**
+
+1.  **This file**: `[https://docs.redpanda.com/llms.txt](https://docs.redpanda.com/llms.txt)` - You’re reading it! This follows the llms.txt standard and provides a curated overview with links to comprehensive resources.
+
+2.  **Sitemap**: `[https://docs.redpanda.com/sitemap.md](https://docs.redpanda.com/sitemap.md)` - Contains all documentation pages including this file and all exports. The sitemap index includes `[https://docs.redpanda.com/sitemap-llms.md](https://docs.redpanda.com/sitemap-llms.md)` with all AI-optimized exports.
+
+3.  **MCP server**: [https://docs.redpanda.com/home/mcp-setup.md](https://docs.redpanda.com/home/mcp-setup.md) - For Claude Code and MCP-compatible agents, this provides interactive documentation tools.
+
+
+### [](#static-documentation-exports)Static documentation exports
+
+**For agents without MCP support**, we provide comprehensive static exports:
+
+-   **[https://docs.redpanda.com/llms-full.txt](https://docs.redpanda.com/llms-full.txt)**: Complete documentation export with all components and versions (25MB+)
+
+-   **Component-specific exports**: Focused documentation for individual products:
+
+    -   **[https://docs.redpanda.com/streaming-full.txt](https://docs.redpanda.com/streaming-full.txt)**: Redpanda Streaming documentation
+
+    -   **[https://docs.redpanda.com/cloud-data-platform-full.txt](https://docs.redpanda.com/cloud-data-platform-full.txt)**: Redpanda Cloud documentation
+
+    -   **[https://docs.redpanda.com/connect-full.txt](https://docs.redpanda.com/connect-full.txt)**: Redpanda Connect documentation
+
+    -   **[https://docs.redpanda.com/labs-full.txt](https://docs.redpanda.com/labs-full.txt)**: Labs and tutorials
+
+
+
+### [](#individual-markdown-pages)Individual Markdown pages
+
+**Every HTML page has a markdown equivalent:**
+
+1.  **Direct access**: Replace `.html` with `.md` in any URL
+
+    -   Example: `[https://docs.redpanda.com/streaming/home.html](https://docs.redpanda.com/streaming/home.html)` → `[https://docs.redpanda.com/streaming/home.md](https://docs.redpanda.com/streaming/home.md)`
+
+
+2.  **Content negotiation**: Request any URL with `Accept: text/markdown` header
+
+
+**Markdown features:**
+
+-   YAML frontmatter with page metadata (title, description, categories, topic type, personas)
+
+-   Git dates (accurate created/modified dates from commit history)
+
+-   GitHub-Flavored Markdown format
+
+
+## [](#overview)Overview
+
+Redpanda docs serve both new and experienced users, offering detailed technical resources across Redpanda’s product suite.
+
+-   **[Redpanda Streaming](https://docs.redpanda.com/streaming.md):** Deploy and manage Redpanda in your environment for ultimate control, high performance, and fault tolerance with Kafka compatibility and advanced enterprise features like Tiered Storage.
+
+-   **[Redpanda Cloud](https://docs.redpanda.com/cloud-data-platform.md):** Simplify streaming with a fully-managed service: Serverless, Bring Your Own Cloud (BYOC), or Dedicated. Serverless is the fastest and easiest way to start data streaming. Choose BYOC for full data sovereignty.
+
+-   **[Redpanda Connect](https://docs.redpanda.com/connect.md):** Effortlessly integrate data across systems with hundreds of prebuilt connectors, change data capture (CDC) capabilities, and YAML-configurable workflows. Available as a standalone solution or as part of Redpanda Streaming, Redpanda Connect empowers organizations to build scalable, high-performance data pipelines with minimal complexity.
+
+-   **[Redpanda Agentic Data Plane](https://docs.redpanda.com/cloud-data-platform/ai-agents.md):** Enterprise-grade infrastructure for building, deploying, and governing AI agents at scale. Provides Model Context Protocol (MCP) integration, declarative agent configuration, and compliance-grade audit trails for AI agents that need direct access to databases, queues, and business systems.
+
+-   **[Redpanda Console](https://docs.redpanda.com/streaming/current/console.md):** Streamline operations with an intuitive Kafka UI for managing topics, partitions, and consumer groups, providing visibility and control over your data pipeline.
+
+
+## [](#core-documentation)Core documentation
+
+-   [Get started](https://docs.redpanda.com/streaming/current/get-started/quickstarts.md): Fast-track your journey with Redpanda Streaming by deploying a complete example in Docker.
+
+-   [Redpanda concepts](https://docs.redpanda.com/streaming/current/get-started/architecture.md): Deep-dive into key concepts like Tiered Storage, partitions, replication, and data streaming architecture.
+
+
+## [](#deployment-guides)Deployment guides
+
+-   [Redpanda Streaming](https://docs.redpanda.com/streaming/current/deploy.md): Install and configure Redpanda and Redpanda Console in self-hosted environments, including production best practices. Choose from Linux (bare-metal) or Kubernetes deployment instructions.
+
+-   [Redpanda Cloud](https://docs.redpanda.com/cloud-data-platform/get-started/cluster-types.md): Guides for using Redpanda Cloud across Serverless, BYOC, and Dedicated options.
+
+-   [Redpanda Connect](https://docs.redpanda.com/connect.md): Standalone documentation for deploying and managing Redpanda Connect, with or without Redpanda.
+
+
+## [](#redpanda-cli)Redpanda CLI
+
+Learn about `rpk`, the comprehensive command-line interface tool for managing Redpanda clusters.
+
+-   [rpk documentation for Redpanda Streaming](https://docs.redpanda.com/streaming/current/reference/rpk/rpk-commands.md)
+
+-   [rpk documentation for Redpanda Cloud](https://docs.redpanda.com/cloud-data-platform/reference/rpk/rpk-commands.md)
+
+
+## [](#redpanda-console)Redpanda Console
+
+-   [About Redpanda Console](https://docs.redpanda.com/streaming/console.md): Learn about Redpanda’s Kafka UI for managing topics, partitions, and consumer groups.
+
+-   [Configure Redpanda Console](https://docs.redpanda.com/streaming/manage/console.md): Learn how to configure Redpanda Console for your needs.
+
+
+## [](#ai-agents-and-agentic-data-plane)AI agents and Agentic Data Plane
+
+Build and deploy production-ready AI agents with enterprise governance and compliance.
+
+-   [Agentic Data Plane Overview](https://docs.redpanda.com/cloud-data-platform/ai-agents/adp-overview.md): Enterprise infrastructure for AI agents with built-in governance, observability, and compliance.
+
+-   [Model Context Protocol (MCP)](https://docs.redpanda.com/cloud-data-platform/ai-agents/mcp.md): Give AI agents direct access to databases, queues, CRMs, and business systems without custom integration code.
+
+-   [AI Gateway](https://docs.redpanda.com/cloud-data-platform/ai-agents/ai-gateway.md): Centralized gateway for AI agent interactions with intelligent routing, caching, and cost controls.
+
+-   [Building AI Agents](https://docs.redpanda.com/cloud-data-platform/ai-agents/agents.md): Declarative agent configuration using Redpanda Connect connectors - no custom agent code required.
+
+-   [Agent Observability](https://docs.redpanda.com/cloud-data-platform/ai-agents/observability.md): Track agent decisions, costs, and compliance with comprehensive audit trails.
+
+
+## [](#api-references)API references
+
+-   [Admin API](https://docs.redpanda.com/api/doc/admin.md): Manage and monitor Redpanda clusters using this REST API, including operations for configuration, partitions, and node health.
+
+-   [Schema Registry API](https://docs.redpanda.com/api/doc/schema-registry.md): Use Redpanda’s Kafka-compatible schema registry for managing and evolving schemas in your data streams.
+
+-   [HTTP Proxy API](https://docs.redpanda.com/api/doc/http-proxy.md): Simplify interactions with Kafka topics and partitions with Redpanda’s HTTP Proxy API, enabling easier data production and consumption over HTTP.
+
+-   [Cloud API](https://docs.redpanda.com/api/doc/cloud-controlplane.md): Access and manage Redpanda Cloud resources programmatically, including provisioning clusters, monitoring usage, and configuring deployments.
+
+
+## [](#troubleshooting)Troubleshooting
+
+-   [Troubleshooting guide](https://docs.redpanda.com/streaming/current/troubleshoot.md): Resolve common issues with installation, configuration, and performance.
+
+-   [Debug bundles](https://docs.redpanda.com/streaming/current/troubleshoot/debug-bundle.md): Generate and analyze debug bundles for diagnosing cluster issues.
+
+## Complete documentation index
+
+For comprehensive page listings, use the sitemaps:
+
+- [sitemap.md](https://docs.redpanda.com/sitemap.md) - Main sitemap index with all documentation
+- [sitemap-all.md](https://docs.redpanda.com/sitemap-all.md) - Combined listing of all documentation pages
+
+### Component sitemaps
+
+- [Data Platform](https://docs.redpanda.com/sitemap-data-platform.md)
+- [Self-Managed](https://docs.redpanda.com/sitemap-self-managed.md)
+- [Streaming](https://docs.redpanda.com/sitemap-streaming.md)
+- [Labs](https://docs.redpanda.com/sitemap-labs.md)
+- [Cloud](https://docs.redpanda.com/sitemap-cloud-data-platform.md)
+- [Connect](https://docs.redpanda.com/sitemap-connect.md)
+
+### Key documentation sections
+
+**Data Platform:**
+- [Overview](https://docs.redpanda.com/data-platform.md)
+- [How to Use These Docs](https://docs.redpanda.com/data-platform/how-to-use-these-docs.md)
+
+**Self-Managed:**
+- [Overview](https://docs.redpanda.com/self-managed.md)
+
+**Streaming:**
+- [Overview](https://docs.redpanda.com/streaming/current/home.md)
+- [Get Started](https://docs.redpanda.com/streaming/current/get-started.md)
+- [Develop](https://docs.redpanda.com/streaming/current/develop.md)
+- [Deploy](https://docs.redpanda.com/streaming/current/deploy.md)
+- [Manage](https://docs.redpanda.com/streaming/current/manage.md)
+- [Upgrade](https://docs.redpanda.com/streaming/current/upgrade.md)
+- [Migrate](https://docs.redpanda.com/streaming/current/migrate.md)
+- [Troubleshoot](https://docs.redpanda.com/streaming/current/troubleshoot.md)
+- [Reference](https://docs.redpanda.com/streaming/current/reference.md)
+
+**Labs:**
+- [Build a Chat Room Application with Redpanda and Golang](https://docs.redpanda.com/labs/clients/docker-go.md)
+- [Build a Chat Room Application with Redpanda and Java](https://docs.redpanda.com/labs/clients/docker-java.md)
+- [Build a Chat Room Application with Redpanda and Node.js](https://docs.redpanda.com/labs/clients/docker-nodejs.md)
+- [Build a Chat Room Application with Redpanda and Python](https://docs.redpanda.com/labs/clients/docker-python.md)
+- [Build a Chat Room Application with Redpanda and Rust](https://docs.redpanda.com/labs/clients/docker-rust.md)
+- [Build a Chat Room Application with Redpanda Cloud and Golang](https://docs.redpanda.com/labs/clients/cloud-go.md)
+- [Build a Chat Room Application with Redpanda Cloud and Java](https://docs.redpanda.com/labs/clients/cloud-java.md)
+- [Build a Chat Room Application with Redpanda Cloud and Node.js](https://docs.redpanda.com/labs/clients/cloud-nodejs.md)
+- [Build a Chat Room Application with Redpanda Cloud and Python](https://docs.redpanda.com/labs/clients/cloud-python.md)
+- [Build a Chat Room Application with Redpanda Cloud and Rust](https://docs.redpanda.com/labs/clients/cloud-rust.md)
+
+**Cloud:**
+- [Overview](https://docs.redpanda.com/cloud-data-platform/home.md)
+- [Get Started](https://docs.redpanda.com/cloud-data-platform/get-started.md)
+- [Deploy](https://docs.redpanda.com/cloud-data-platform/get-started/cluster-types.md)
+- [Agentic AI](https://docs.redpanda.com/cloud-data-platform/ai-agents.md)
+- [Redpanda Connect](https://docs.redpanda.com/cloud-data-platform/develop/connect/about.md)
+- [Redpanda SQL](https://docs.redpanda.com/cloud-data-platform/sql.md)
+- [Develop](https://docs.redpanda.com/cloud-data-platform/develop.md)
+- [Manage](https://docs.redpanda.com/cloud-data-platform/manage.md)
+- [Networking](https://docs.redpanda.com/cloud-data-platform/networking.md)
+- [Security](https://docs.redpanda.com/cloud-data-platform/security.md)
+
+**Connect:**
+- [Overview](https://docs.redpanda.com/connect/home.md)
+- [Get Started](https://docs.redpanda.com/connect/get-started.md)
+- [Install and Upgrade](https://docs.redpanda.com/connect/install.md)
+- [Configuration](https://docs.redpanda.com/connect/configuration/about.md)
+- [Components Catalog](https://docs.redpanda.com/connect/components/about.md)
+- [Plugins](https://docs.redpanda.com/connect/plugins/about.md)
+- [Bloblang](https://docs.redpanda.com/connect/guides/bloblang/about.md)
+- [Guides](https://docs.redpanda.com/connect/guides.md)
+- [Cookbooks](https://docs.redpanda.com/connect/cookbooks.md)
+- [Reference](https://docs.redpanda.com/connect/reference.md)
+

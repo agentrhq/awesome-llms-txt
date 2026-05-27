@@ -1,0 +1,79 @@
+# Inspector
+
+## Inspector
+
+- [Introduction](https://docs.inspector.dev/concepts/master.md): Welcome to the Inspector developer documentation.
+- [Metrics](https://docs.inspector.dev/concepts/metrics.md): How metrics are calculated and presented in the dashboard.
+- [Notification Channels](https://docs.inspector.dev/concepts/notifications.md): Routes important alerts to your preferred communication services.
+- [Email](https://docs.inspector.dev/concepts/notifications/email-channel.md): Send notifications to the users email addresses.
+- [Slack](https://docs.inspector.dev/concepts/notifications/slack-channel.md): Send notifications to your Slack workspace.
+- [Telegram](https://docs.inspector.dev/concepts/notifications/telegram.md): Send notifications to Telegram users.
+- [Microsoft Teams](https://docs.inspector.dev/concepts/notifications/microsoft-teams.md): Send notifications to Microsoft Teams channels.
+- [Google Chat](https://docs.inspector.dev/concepts/notifications/google-chat.md): Send notifications to your Google Chat space.
+- [Webhook](https://docs.inspector.dev/concepts/notifications/webhook-channel.md): Send http POST requests to specified endpoints.
+- [Discord](https://docs.inspector.dev/concepts/notifications/discord.md): Send notifications to your Discord channel.
+- [Pushover](https://docs.inspector.dev/concepts/notifications/pushover.md): Send notifications to your Pushover mobile application.
+- [PagerDuty](https://docs.inspector.dev/concepts/notifications/pagerduty.md): Send notifications to your PagerDuty service.
+- [Twilio - SMS](https://docs.inspector.dev/concepts/notifications/twilio-sms.md): Send SMS notifications through your Twilio account.
+- [Filtering Syntax](https://docs.inspector.dev/concepts/filtering-syntax.md): Apply filters with an intuitive, human-friendly search.
+- [Alerts](https://docs.inspector.dev/concepts/alerts.md): Create alerts to monitor your application processes.
+- [Grouping Patterns](https://docs.inspector.dev/concepts/grouping-patterns.md): How to customize the transactions and errors grouping strategy
+- [Custom Segments](https://docs.inspector.dev/concepts/custom-segments.md): Monitor custom code blocks inside your application.
+- [Billing](https://docs.inspector.dev/concepts/billing.md): Inspector pricing was designed for transparency and scalability.
+- [AI Bug Fix](https://docs.inspector.dev/concepts/ai-bug-fix.md): Real-Time bug fix proposals to immediately get solutions from emerging errors.
+- [MCP Server](https://docs.inspector.dev/concepts/mcp-server.md): Let AI coding agents access your application monitoring data to help them debug your application.
+- [Agentic Integration](https://docs.inspector.dev/concepts/agentic-integration.md): Connect the documentation to coding agents for AI Assisted Development
+- [Access control](https://docs.inspector.dev/security-and-access/permissions.md): Explore roles, permissions, and access control options at an organization and application level.
+- [Two-factor authentication](https://docs.inspector.dev/security-and-access/two-factor-authentication.md): Enable multi-factor authentication (MFA) to keep your Inspector account secure.
+- [PHP](https://docs.inspector.dev/guides/raw-php.md): Code Execution Monitoring for PHP scripts and applications.
+- [Installation & Set Up](https://docs.inspector.dev/guides/raw-php/installation.md): Connect your application with Inspector.
+- [Custom Segments](https://docs.inspector.dev/guides/raw-php/custom-segments.md): Monitor custom code blocks inside your application.
+- [Exceptions Monitoring](https://docs.inspector.dev/guides/raw-php/exceptions-monitoring.md): Catch a real-time diagnosis of your application's exceptions.
+- [Configuration](https://docs.inspector.dev/guides/raw-php/configuration.md): Customize the package behaviour.
+- [Laravel / Lumen](https://docs.inspector.dev/guides/laravel.md): Code Execution Monitoring for Laravel applications.
+- [Upgrade Guide](https://docs.inspector.dev/guides/laravel/upgrade-guide.md): Upgrading to 4.0 from 2.x or 3.x
+- [Installation & Set-up](https://docs.inspector.dev/guides/laravel/installation.md): Connect your Laravel application with Inspector.
+- [Http Requests Monitoring](https://docs.inspector.dev/guides/laravel/http-requests-monitoring.md): Monitor your application behaviour during incoming http requests.
+- [Configuration](https://docs.inspector.dev/guides/laravel/configuration.md): Customize the monitoring strategy in your Laravel application.
+- [Exception Monitoring](https://docs.inspector.dev/guides/laravel/exception-monitoring.md): Laravel error tracking
+- [Livewire](https://docs.inspector.dev/guides/laravel/livewire.md): Monitor Livewire components execution and state
+- [Laravel Vapor](https://docs.inspector.dev/guides/laravel/laravel-vapor.md): How to make Inspector works on Laravel Vapor.
+- [Laravel Octane](https://docs.inspector.dev/guides/laravel/laravel-octane.md): Monitor a Laravel application served by Octane
+- [Laravel Nova Tool](https://docs.inspector.dev/guides/laravel/laravel-nova-tool.md): Direct link to the Inspector dashboard in your Laravel Nova administration panel.
+- [Group by service name](https://docs.inspector.dev/guides/laravel/group-by-service-name.md): Monitor your Laravel application by service name instead of single hostname.
+- [Symfony](https://docs.inspector.dev/guides/symfony.md): Code Execution Monitoring for Symfony applications.
+- [Installation](https://docs.inspector.dev/guides/symfony/installation.md): Connect your Symfony application to Inspector.
+- [Configuration](https://docs.inspector.dev/guides/symfony/configuration.md): Customize the monitoring strategy in your Symfony application.
+- [Exception Monitoring](https://docs.inspector.dev/guides/symfony/exception-monitoring.md): Symfony error tracking
+- [Tempest](https://docs.inspector.dev/guides/tempest.md): Code Execution Monitoring for Tempest applications
+- [CodeIgniter](https://docs.inspector.dev/guides/codeigniter.md): Code Execution Monitoring for CodeIgniter applications.
+- [Installation](https://docs.inspector.dev/guides/codeigniter/installation.md): How to connect your CodeIgniter application to Inspector.
+- [Configuration](https://docs.inspector.dev/guides/codeigniter/configuration.md): Fine tune the CodeInginter monitoring strategy on your needs.
+- [Exception Monitoring](https://docs.inspector.dev/guides/codeigniter/exception-monitoring.md): CodeIgniter error tracking
+- [Drupal](https://docs.inspector.dev/guides/drupal.md): Connect Drupal instances to the Inspector monitoring dashboard.
+- [Slim](https://docs.inspector.dev/guides/slim.md): Code Execution Monitoring for Slim based applications.
+- [Neuron AI](https://docs.inspector.dev/guides/neuron-ai.md): Monitor your AI Agents, RAGs, and Workflows in real-time.
+- [Authentication](https://docs.inspector.dev/rest-api/authentication.md)
+- [Apps](https://docs.inspector.dev/rest-api/application.md): Create and retrieve Projects is needed to get the ingestion key.
+- [Platforms](https://docs.inspector.dev/rest-api/platform.md)
+- [Transactions](https://docs.inspector.dev/rest-api/transactions.md): Access transactions metrics.
+- [Segments](https://docs.inspector.dev/rest-api/segments.md): Access Segments metrics
+- [Analytics](https://docs.inspector.dev/rest-api/analytics.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.inspector.dev/concepts/master.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

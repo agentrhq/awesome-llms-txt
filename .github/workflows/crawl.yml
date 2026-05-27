@@ -1,0 +1,72 @@
+name: Monthly re-crawl
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'    # 08:00 UTC on the 1st of every month
+  workflow_dispatch:       # allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  recrawl:
+    name: re-fetch and re-score every site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Re-crawl all sites
+        id: crawl
+        run: |
+          set -euo pipefail
+          mkdir -p reports
+          : > reports/diff.md
+          regressions=()
+          for d in sites/*/; do
+            domain=$(basename "$d")
+            verified=$(node -e "console.log(require('./sites/$domain/score.json').verified_url)")
+            today=$(date -u +%Y-%m-%d)
+            tmp=$(mktemp -d)
+            node tools/llms-txt-score/bin/llms-txt-score.js "$verified" --out="$tmp/score.json" || { echo "skip $domain (fetch failed)"; continue; }
+            prev_score=$(node -e "console.log(require('./sites/$domain/score.json').score)")
+            new_score=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$tmp/score.json','utf8')).score)")
+            delta=$((new_score - prev_score))
+            curl -sL "$verified" -o "sites/$domain/history/$today.txt"
+            cp "sites/$domain/history/$today.txt" "sites/$domain/llms.txt"
+            cp "$tmp/score.json" "sites/$domain/score.json"
+            echo "- \`$domain\` ${prev_score} → **${new_score}** (Δ ${delta})" >> reports/diff.md
+            if [ $delta -le -10 ]; then regressions+=("$domain $prev_score $new_score $delta"); fi
+          done
+          # Rebuild leaderboard + README
+          node scripts/score-all.js
+          node scripts/build-readme.js
+          # Emit regressions as a github output
+          printf "%s\n" "${regressions[@]}" > reports/regressions.txt
+      - name: Open PR with diff
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: monthly re-crawl"
+          branch: chore/monthly-recrawl
+          title: "Monthly re-crawl & re-score"
+          body-path: reports/diff.md
+      - name: Open issues for regressions
+        if: ${{ hashFiles('reports/regressions.txt') != '' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const lines = fs.readFileSync('reports/regressions.txt', 'utf8').split('\n').filter(Boolean);
+            for (const line of lines) {
+              const [domain, prev, next, delta] = line.split(' ');
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `regression: ${domain} dropped ${prev} → ${next} (Δ ${delta})`,
+                labels: ['regression'],
+                body: `\`${domain}\` lost **${Math.abs(parseInt(delta))} points** in the monthly crawl.\n\nSee [sites/${domain}/](./sites/${domain}/) for the new \`score.json\` and \`history/\` snapshot.`,
+              });
+            }

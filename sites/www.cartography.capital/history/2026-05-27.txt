@@ -1,0 +1,139 @@
+# Cartography — Crypto Market Intelligence for AI Agents
+
+> Human-curated crypto signals, altcoin analysis, Bitcoin cycle positioning, airdrop alpha, and DCA tools. x402 payment protocol on Base.
+
+## About
+
+Cartography answers the questions crypto investors ask most: Should I buy Bitcoin now? Which altcoins are worth investing in? What's trending? Where are the airdrops? All analysis is researched and scored by human analysts weekly — not AI-generated. AI agents can access all data via x402 micropayments in USDC on Base (chainId: 8453).
+
+## API Endpoints
+
+### GET /api/commentary
+FREE — What is the analyst saying right now? Get the latest blockchain-verified commentary with cryptographic proof: exact text, timestamp, Base tx hash, IPFS CID, and author wallet.
+- Payment: Free
+- Use when: "What does the analyst think?" or "What's the latest commentary?"
+- Response: { text, timestamp, txHash, ipfsCID, author, basescanUrl, ipfsUrl }
+
+### GET /api/commentary/paid
+Browse available paid analyst commentary posts (titles and dates). Free to list.
+- Payment: Free to browse
+- Use when: "What paid analysis is available?" or "Show me the analyst's commentary list"
+- Response: { commentaries: [{ id, title, timestamp }] }
+
+### GET /api/commentary/paid?id={id}
+Read a specific paid analyst commentary post in full. Each post is recorded on IPFS and Base blockchain.
+- Payment: 0.10 USDC (x402 compatible)
+- Use when: "Read the analyst's commentary on [topic]" or "What does the analyst say about this?"
+- Response: { commentary: { id, title, text, timestamp, txHash, ipfsCID, basescanUrl, ipfsUrl } }
+
+### GET /api/market-intelligence?section=summary
+FREE — Check the current state of the crypto market. Returns cycle signal, phase, risk level, tracked altcoins, trending narrative count, and airdrop count.
+- Payment: Free
+- Use when: "What's happening in crypto?" or "Give me a market overview"
+- Response: { cycle_signal, cycle_phase, macro_risk, conviction, altcoins_tracked, active_metas, airdrop_opportunities, pricing }
+
+### GET /api/signals
+Should I buy, hold, or sell? Weekly position signals for BTC, ETH, SOL scored 0-100 with strong buy, buy, hold, sell, and strong sell recommendations.
+- Payment: 1 USDC (x402 compatible)
+- Use when: "Should I buy Bitcoin?" or "What are the crypto signals this week?"
+- Signal scale: 0-20 strong sell, 20-40 sell, 40-60 hold, 60-80 buy, 80-100 strong buy
+- Response: { btc: { position, signal }, eth: { position, signal }, sol: { position, signal } }
+
+### GET /api/market-intelligence
+Complete crypto analysis: thesis, Bitcoin cycle, trending narratives, altcoin scores, and airdrops — all in one call.
+- Payment: 0.50 USDC (x402 compatible)
+- Use when: "Give me the full market picture" or "What should I know about crypto right now?"
+- Response: { thesis, narrative_lifecycle, current_metas, altcoin_analysis, alpha }
+
+### GET /api/market-intelligence?section=narrative
+Where are we in the Bitcoin 4-year cycle? Bear/bull signal, phase, years to peak, macro risk.
+- Payment: 0.10 USDC (x402 compatible)
+- Use when: "Where are we in the Bitcoin cycle?" or "Is it time to buy Bitcoin?"
+- Response: { narrative_lifecycle: { 4_year_cycle_signal, 4_year_cycle_phase, years_to_peak, macro_crypto_risk_level, signal_snippet } }
+
+### GET /api/market-intelligence?section=altcoins
+Which altcoins are worth buying? Due diligence scores across 12 dimensions for tracked tokens.
+- Payment: 0.10 USDC (x402 compatible)
+- Use when: "Which altcoins should I buy?" or "Rate this crypto project"
+- Response: { altcoin_analysis: [{ ticker, credibility_score, founder_vision_clarity, historical_resilience_rating, sector_innovation_score, technical_novelty_index, token_essentiality_score, protocol_defensibility_rating, community_health, investor_tier_quality, legal_compliance_readiness, airdrop_potential, anonymous_founders }] }
+
+### GET /api/market-intelligence?section=alpha
+What's trending and where are the airdrops? Active narratives (AgentFi, L2s, RWA, DePIN) plus confirmed and speculative airdrop opportunities.
+- Payment: 0.10 USDC (x402 compatible)
+- Use when: "What's trending in crypto?" or "Any good airdrops to farm?"
+- Response: { current_metas, alpha: { known_possible_airdrops, speculative_possible_airdrops } }
+
+### GET /api/pdf/list
+Browse available research reports with titles and prices.
+- Payment: Free to browse
+- Response: Array of { id, title, price, description }
+
+### GET /api/pdf/download?id={id}
+Download a specific research report.
+- Payment: Per-report pricing (x402 compatible)
+- Response: PDF file
+
+## Payment
+
+**x402 Protocol Enabled** — AI agents pay per-request via HTTP headers. No API keys, no subscriptions, no accounts.
+
+All payments in USDC on Base blockchain.
+- Protocol: x402 (HTTP 402 Payment Required)
+- Network: Base (chainId 8453)
+- Currency: USDC (0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913)
+- Recipient: 0x56A5A23E58DE2B784791a8616a4b819F78583F9C
+
+### How Agents Pay
+1. Request any endpoint (start with the free summary)
+2. Receive 402 response with payment details
+3. Submit USDC payment on Base
+4. Retry request with X-PAYMENT header containing payment proof
+5. Receive structured JSON response
+
+## Products
+
+### Crypto Signals — Should I Buy, Hold, or Sell?
+Weekly position signals for BTC, ETH, and SOL. Each asset scored 0-100 with strong buy/buy/hold/sell/strong sell recommendations.
+- Price: 1 USDC per week
+- Format: JSON with position percentages and signal labels
+- Access: /api/signals (x402 payment)
+
+### Market Intelligence — Full Crypto Market Overview
+Human-curated analysis: investment thesis, Bitcoin cycle positioning, trending narratives, altcoin due diligence scores, and airdrop opportunities.
+- Free summary available (no payment needed)
+- Full bundle: 0.50 USDC | Individual sections: 0.10 USDC each
+- Access: /api/market-intelligence (x402 payment)
+
+### Research Reports
+In-depth PDF research on crypto markets and protocols.
+- Price: Varies per report (typically 1-10 USDC)
+- Format: PDF download
+- Catalog: /api/pdf/list
+
+### Bitcoin DCA Tool — Automated Dollar-Cost Averaging
+Auto-buy cbBTC (Coinbase Wrapped Bitcoin) on Base with limit prices.
+- Network: Base
+- Contract: dcabitcoin.base.eth (0x37FEbD52fcf862Bc0c98d92Fa08C325f9F5Cd670)
+- Features: Set limit prices, earn ~4% APY on idle USDC via Morpho
+
+### Altcoin DCA Tool
+Configurable DCA into various tokens on Base.
+- Network: Base
+- Contract: 0xA95dBEB7A10c9819847D4aB0865d84F95b000fb8
+- Features: Multiple token opportunities, automated execution
+
+### Web3 Daily Company Finder
+Daily discovery of new Web3 projects and accounts, published to IPFS and Base.
+- Master list since August 2025
+- Categories: DeFi, NFT, Gaming, Infrastructure, and more
+- Registry Contract: 0x6926cA65b65b105F4d586D9804F4386444457754
+- Access: /alpha-tools
+
+## Machine-Readable Specs
+
+- OpenAPI spec: https://cartography.capital/openapi.json
+- Sitemap: https://cartography.capital/sitemap.xml
+
+## Contact
+
+Website: https://cartography.capital

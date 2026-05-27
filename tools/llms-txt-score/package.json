@@ -1,0 +1,28 @@
+{
+  "name": "llms-txt-score",
+  "version": "0.1.0",
+  "description": "Score an llms.txt file against the public awesome-llms-txt rubric.",
+  "main": "lib/score.js",
+  "bin": {
+    "llms-txt-score": "bin/llms-txt-score.js"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "files": [
+    "lib/",
+    "bin/",
+    "README.md"
+  ],
+  "keywords": ["llms.txt", "agents", "ai", "scoring", "lighthouse", "awesome-list"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "homepage": "https://github.com/agentrhq/awesome-llms-txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agentrhq/awesome-llms-txt.git",
+    "directory": "tools/llms-txt-score"
+  }
+}

@@ -1,0 +1,53 @@
+# Trigger.dev
+
+> Open source platform for AI agents and long-running workflows. Apache 2.0 licensed. Self-host or let us run it for you.
+
+Trigger.dev is an open source platform for building AI agents and background jobs in TypeScript. Run tasks for hours without timeouts. Automatic retries, queues, observability, and elastic scaling built-in. No servers to manage.
+
+## Core Benefits
+
+- **Open Source**: Apache 2.0 license - view source, contribute, self-host
+- **No Timeouts**: Tasks run for hours without serverless limits
+- **No Server Management**: Deploy code, we handle infrastructure
+- **Build Extensions**: Run Python, FFmpeg, Puppeteer, system packages
+- **Built-in Observability**: OpenTelemetry, real-time alerts, detailed logs
+- **Elastic Scaling**: Auto-scales from zero to thousands of tasks
+
+## Primary Use Cases
+
+- AI agents and autonomous workflows
+- Long-running LLM operations and prompt chaining
+- Video, audio, and document processing
+- Scheduled tasks and cron jobs
+- Multi-tenant SaaS background jobs
+
+## Documentation
+
+- [Getting Started](https://trigger.dev/docs): Quick start guide and tutorials
+- [AI Agents](https://trigger.dev/docs/guides/ai-agents): Building AI agents with Trigger.dev
+- [Self-Hosting](https://trigger.dev/docs/open-source-self-hosting): Deploy on your own infrastructure
+- [API Reference](https://trigger.dev/docs/management/overview): Full API documentation
+
+## Product
+
+- [AI Agents](https://trigger.dev/product/ai-agents): Drop-in AI agent infrastructure
+- [Realtime](https://trigger.dev/product/realtime): Stream task progress to your frontend
+- [Scheduled Tasks](https://trigger.dev/product/scheduled-tasks): Reliable cron without timeouts
+- [Concurrency](https://trigger.dev/product/concurrency): Fair queues and rate limiting
+
+## Resources
+
+- [GitHub](https://github.com/triggerdotdev/trigger.dev): Source code and issues
+- [Pricing](https://trigger.dev/pricing): Free tier available, pay-as-you-go
+- [Blog](https://trigger.dev/blog): Tutorials and updates
+- [Changelog](https://trigger.dev/changelog): Latest releases
+- [Discord](https://trigger.dev/discord): Community support
+
+## Comparisons
+
+- [Trigger.dev vs Temporal](https://trigger.dev/vs/temporal): How Trigger.dev compares to Temporal for workflow orchestration
+- [Trigger.dev vs BullMQ](https://trigger.dev/vs/bullmq): How Trigger.dev compares to BullMQ for TypeScript background jobs
+
+## Optional
+
+- [llms-full.txt](https://trigger.dev/llms-full.txt): Extended documentation with technical details

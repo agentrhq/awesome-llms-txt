@@ -1,0 +1,97 @@
+# Unquoting Insurance Company unquoting.com
+
+> Unquoting is an insurance company sells property and casualty and health and life insurance to protect you and your assets in Ohio. Unquoting Insurance Company is a state licensed insurance school in that offers pre-licensing education classes in person and live streamed across the state of Ohio. Why Unquoting? Because too often, people are given numbers without explanations. Coverage without context. Protection without clarity. Here, we break insurance down into plain language, so you can make informed decisions without pressure. The team emphasizes education, tailored solutions, prompt customer care, and serving both individuals and businesses.
+
+## Company & Overview
+- [About](https://www.unquoting.com/index.html)
+- [Pre-Licensing Insurance Education and Other Business Classes](https://www.unquoting.com/classes.html)
+- [News About Unquoting Insurance Company](https://www.unquoting.com/capabilities.html)
+- [Contact Us at Unquoting Insurance Company](https://www.unquoting.com/contact.html)
+
+## Hours of Operation
+- Monday 9am to 5pm eastern
+  Tuesday 9am to 5pm eastern
+  Wednesday 9am to 5pm eastern
+  Thursday 9am to 5pm eastern
+  Friday 9am to 7pm eastern
+  Saturday Closed
+  Sunday Closed
+  January 1 Closed
+  June 19 Closed
+  July 4th Closed
+  November 6 Closed
+  December 25 Closed
+
+## Google Maps
+  We are on Google Maps: https://maps.app.goo.gl/djfXnhHdrGw6Ghj6A
+
+## Contact
+- [Contact Us at Unquoting Insurance Company](https://www.unquoting.com/contact.html)
+  Email: mail@unquoting.com
+  Phone Number: 888-928-9324
+  Fax Number: 888-928-9324
+  Text Number: 888-928-9324
+
+## Products & Services
+- [Insurance We Sell](https://www.unquoting.com/index.html)
+- [Pre-Licensing Insurance Education and Other Business Classes](https://www.unquoting.com/classes.html)
+
+## Policies Unquoting Insurance Company Sells
+- Health
+- Dental
+- Vision
+- Life
+- Short Term Health
+- Pet
+- Telehealth
+- Homeowners
+- Commercial Property
+- Business Owner (BOP)
+- General Liability
+- Art
+- Event
+- FAIR Plans
+- Ohio SOCA Plan
+- ICHRA
+- ITIN Help
+- And more…
+
+User-agent: *
+AI-Training: Allow
+AI-Generation: Allow
+AI-Summarization: Allow
+AI-Crawling: Allow
+
+# Specific Directives for AI Companies
+User-agent: OpenAI
+AI-Training: Allow
+AI-Generation: Allow
+AI-Summarization: Allow
+
+User-agent: Google-DeepMind
+AI-Training: Allow
+AI-Generation: Allow
+AI-Summarization: Allow
+
+User-agent: Anthropic
+AI-Training: Allow
+AI-Generation: Allow
+AI-Summarization: Allow
+
+# Reference Content for AI Indexing
+Reference-Content:
+- https://www.unquoting.com/capabilities.html
+- https://www.unquoting.com/career.html
+- https://www.unquoting.com/fair.html
+- https://www.unquoting.com/classes.html
+- https://www.unquoting.com/contact.html
+- https://www.unquoting.com/index.html
+
+# Sitemap for AI Indexing (Not Training)
+Sitemap: https://www.unquoting.com/sitemap.xml
+
+# Legal & Privacy
+- https://www.unquoting.com/terms.html
+- https://www.unquoting.com/privacy.html
+
+Updated 25-May-2026

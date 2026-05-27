@@ -1,0 +1,149 @@
+# Lottielab Docs
+
+## Lottielab Docs
+
+- [Welcome to Lottielab](https://docs.lottielab.com/getting-started/welcome-to-lottielab.md)
+- [Tutorials](https://docs.lottielab.com/getting-started/tutorials.md)
+- [Design vs Animate mode](https://docs.lottielab.com/getting-started/design-vs-animate-mode.md)
+- [Keyboard Shortcuts](https://docs.lottielab.com/getting-started/keyboard-shortcuts.md)
+- [FAQ](https://docs.lottielab.com/getting-started/faq.md)
+- [Dashboard UI Overview](https://docs.lottielab.com/file-management/dashboard-ui-overview.md)
+- [Files](https://docs.lottielab.com/file-management/files.md): Your animations are saved as Files in Lottielab. Here are a few actions you can take with your Files to better work with or manage them.
+- [Create a file](https://docs.lottielab.com/file-management/files/create-a-file.md)
+- [Import a file](https://docs.lottielab.com/file-management/files/import-a-file.md)
+- [Duplicate a file](https://docs.lottielab.com/file-management/files/duplicate-a-file.md)
+- [Export a file](https://docs.lottielab.com/file-management/files/export-a-file.md)
+- [Move a file](https://docs.lottielab.com/file-management/files/move-a-file.md)
+- [Share link to file](https://docs.lottielab.com/file-management/files/share-link-to-file.md)
+- [Rename a file](https://docs.lottielab.com/file-management/files/rename-a-file.md)
+- [Teams](https://docs.lottielab.com/file-management/teams.md)
+- [Create a team](https://docs.lottielab.com/file-management/teams/create-a-team.md)
+- [Invite team members](https://docs.lottielab.com/file-management/teams/invite-team-members.md)
+- [Rename a team](https://docs.lottielab.com/file-management/teams/rename-a-team.md)
+- [Folders](https://docs.lottielab.com/file-management/folders.md)
+- [Create a folder](https://docs.lottielab.com/file-management/folders/create-a-folder.md)
+- [Rename a folder](https://docs.lottielab.com/file-management/folders/rename-a-folder.md)
+- [Delete a folder](https://docs.lottielab.com/file-management/folders/delete-a-folder.md)
+- [Editor UI Overview](https://docs.lottielab.com/editor/editor-ui-overview.md)
+- [Tools](https://docs.lottielab.com/editor/tools.md): Your animations are saved as Files in Lottielab. Here are a few actions you can take with your Files"
+- [Selection Tools](https://docs.lottielab.com/editor/tools/selection-tools.md): The selection tools allow you to interact with your canvas and the layers on it in various ways.
+- [Shape Tools](https://docs.lottielab.com/editor/tools/shape-tools.md): The shape tools allow you to create basic shapes like the Rectangle or Ellipse on your artboard, so you can further edit or animate them.
+- [Pen tool and paths](https://docs.lottielab.com/editor/tools/pen-tool-and-paths.md): Already have assets you'd like to get started with, you can import a Lottie or SVG file directly from your dashboard
+- [Create a path](https://docs.lottielab.com/editor/tools/pen-tool-and-paths/create-a-path.md)
+- [Curve a path](https://docs.lottielab.com/editor/tools/pen-tool-and-paths/curve-a-path.md)
+- [Add a point on a path](https://docs.lottielab.com/editor/tools/pen-tool-and-paths/add-a-point-on-a-path.md)
+- [Delete a point on a path](https://docs.lottielab.com/editor/tools/pen-tool-and-paths/delete-a-point-on-a-path.md)
+- [Convert shape to path](https://docs.lottielab.com/editor/tools/pen-tool-and-paths/convert-shape-to-path.md)
+- [Import](https://docs.lottielab.com/editor/tools/import.md)
+- [Layer mask](https://docs.lottielab.com/editor/tools/layer-mask.md)
+- [Animating](https://docs.lottielab.com/editor/animating.md)
+- [Design vs Animate mode](https://docs.lottielab.com/editor/animating/design-vs-animate-mode.md)
+- [Auto-animate](https://docs.lottielab.com/editor/animating/auto-animate.md)
+- [Timeline](https://docs.lottielab.com/editor/animating/timeline.md)
+- [Duration and playback](https://docs.lottielab.com/editor/animating/timeline/duration-and-playback.md)
+- [Playhead and controls](https://docs.lottielab.com/editor/animating/timeline/playhead-and-controls.md)
+- [Keyframes](https://docs.lottielab.com/editor/animating/timeline/keyframes.md)
+- [Add a keyframe](https://docs.lottielab.com/editor/animating/timeline/keyframes/add-a-keyframe.md)
+- [Duplicate keyframes](https://docs.lottielab.com/editor/animating/timeline/keyframes/duplicate-keyframes.md)
+- [Keyframe thumbnails](https://docs.lottielab.com/editor/animating/timeline/keyframes/keyframe-thumbnails.md)
+- [Transition bar](https://docs.lottielab.com/editor/animating/timeline/transition-bar.md)
+- [Layers and properties](https://docs.lottielab.com/editor/animating/timeline/layers-and-properties.md)
+- [Easing](https://docs.lottielab.com/editor/animating/easing.md)
+- [Add easing](https://docs.lottielab.com/editor/animating/easing/add-easing.md)
+- [Custom easing](https://docs.lottielab.com/editor/animating/easing/custom-easing.md)
+- [Speed Graph](https://docs.lottielab.com/editor/animating/easing/custom-easing/speed-graph.md)
+- [Anticipation](https://docs.lottielab.com/editor/animating/easing/custom-easing/anticipation.md)
+- [Overshoot](https://docs.lottielab.com/editor/animating/easing/custom-easing/overshoot.md)
+- [Easing presets](https://docs.lottielab.com/editor/animating/easing/easing-presets.md)
+- [Organising Layers](https://docs.lottielab.com/editor/organising-layers.md): Your animations are saved as Files in Lottielab. Here are a few actions you can take with your Files"
+- [Layer actions](https://docs.lottielab.com/editor/organising-layers/layer-actions.md)
+- [Select/ Multi-select layers](https://docs.lottielab.com/editor/organising-layers/layer-actions/select-multi-select-layers.md)
+- [Rename a layer](https://docs.lottielab.com/editor/organising-layers/layer-actions/rename-a-layer.md)
+- [Align layers on canvas](https://docs.lottielab.com/editor/organising-layers/layer-actions/align-layers-on-canvas.md)
+- [Re-order layers](https://docs.lottielab.com/editor/organising-layers/layer-actions/re-order-layers.md)
+- [Delete a layer](https://docs.lottielab.com/editor/organising-layers/layer-actions/delete-a-layer.md)
+- [Hide a layer](https://docs.lottielab.com/editor/organising-layers/layer-actions/hide-a-layer.md)
+- [Lock a layer](https://docs.lottielab.com/editor/organising-layers/layer-actions/lock-a-layer.md)
+- [Groups](https://docs.lottielab.com/editor/organising-layers/groups.md)
+- [Grouping layers](https://docs.lottielab.com/editor/organising-layers/groups/grouping-layers.md)
+- [Ungroup layers](https://docs.lottielab.com/editor/organising-layers/groups/ungroup-layers.md)
+- [Properties](https://docs.lottielab.com/editor/properties.md)
+- [Transform](https://docs.lottielab.com/editor/properties/transform.md)
+- [Position](https://docs.lottielab.com/editor/properties/transform/position.md)
+- [Scale](https://docs.lottielab.com/editor/properties/transform/scale.md)
+- [Size/ Dimensions](https://docs.lottielab.com/editor/properties/transform/size-dimensions.md)
+- [Rotation](https://docs.lottielab.com/editor/properties/transform/rotation.md)
+- [Skew](https://docs.lottielab.com/editor/properties/transform/skew.md)
+- [Anchor Point (Origin)](https://docs.lottielab.com/editor/properties/transform/anchor-point-origin.md)
+- [Corner Radius](https://docs.lottielab.com/editor/properties/transform/corner-radius.md)
+- [Visibility](https://docs.lottielab.com/editor/properties/visibility.md)
+- [Fill/ Color](https://docs.lottielab.com/editor/properties/fill-color.md)
+- [Add/ change fill color](https://docs.lottielab.com/editor/properties/fill-color/add-change-fill-color.md)
+- [Gradient](https://docs.lottielab.com/editor/properties/fill-color/gradient.md)
+- [Linear gradient](https://docs.lottielab.com/editor/properties/fill-color/gradient/linear-gradient.md)
+- [Radial gradient](https://docs.lottielab.com/editor/properties/fill-color/gradient/radial-gradient.md)
+- [Gradient stops](https://docs.lottielab.com/editor/properties/fill-color/gradient/gradient-stops.md)
+- [Gradient handles (width and direction)](https://docs.lottielab.com/editor/properties/fill-color/gradient/gradient-handles-width-and-direction.md)
+- [Eye dropper](https://docs.lottielab.com/editor/properties/fill-color/eye-dropper.md)
+- [Fill Opacity](https://docs.lottielab.com/editor/properties/fill-color/fill-opacity.md)
+- [Document colors](https://docs.lottielab.com/editor/properties/fill-color/document-colors.md)
+- [Color model](https://docs.lottielab.com/editor/properties/fill-color/color-model.md): Hex code, RGB andHSL
+- [Stroke](https://docs.lottielab.com/editor/properties/stroke.md)
+- [Reveal Path (Trim path)](https://docs.lottielab.com/editor/properties/reveal-path-trim-path.md)
+- [Canvas](https://docs.lottielab.com/editor/canvas.md)
+- [Infinite Canvas/ Multiple Artboards](https://docs.lottielab.com/editor/canvas/infinite-canvas-multiple-artboards.md)
+- [Artboard properties](https://docs.lottielab.com/editor/canvas/artboard-properties.md)
+- [Layer controls (HUDs)](https://docs.lottielab.com/editor/canvas/layer-controls-huds.md)
+- [Layer transform controls](https://docs.lottielab.com/editor/canvas/layer-controls-huds/layer-transform-controls.md)
+- [Motion Path](https://docs.lottielab.com/editor/canvas/layer-controls-huds/motion-path.md)
+- [Create a motion path](https://docs.lottielab.com/editor/canvas/layer-controls-huds/motion-path/create-a-motion-path.md)
+- [Curving a motion path](https://docs.lottielab.com/editor/canvas/layer-controls-huds/motion-path/curving-a-motion-path.md)
+- [Motion path easing](https://docs.lottielab.com/editor/canvas/layer-controls-huds/motion-path/motion-path-easing.md)
+- [Zoom](https://docs.lottielab.com/editor/canvas/zoom.md)
+- [Animation Duration](https://docs.lottielab.com/editor/canvas/animation-duration.md)
+- [Interactivity](https://docs.lottielab.com/editor/interactivity.md): An introduction to creating Interactive Lotties with state machines using Lottielab.
+- [Intro to Interactivity](https://docs.lottielab.com/editor/interactivity/intro-to-interactivity.md): A guide on getting started with creating Interactive Lotties using Lottielab.
+- [States](https://docs.lottielab.com/editor/interactivity/states.md): In-depth reference about the basic building block of Lottielab Interactivity.
+- [Interactions](https://docs.lottielab.com/editor/interactivity/interactions.md): In-depth reference on interactions in Interactive Lotties, and how to use them to achieve rich, reactive animations and components.
+- [Formulas](https://docs.lottielab.com/editor/interactivity/formulas.md): Reference manual for the advanced Custom formula feature.
+- [Using Interactive Lotties](https://docs.lottielab.com/editor/interactivity/using-interactive-lotties.md): Options for exporting, embedding and playing Interactive Lotties on your own websites and apps.
+- [Comments](https://docs.lottielab.com/export-and-hand-off/comments.md)
+- [Share link to file](https://docs.lottielab.com/export-and-hand-off/share-link-to-file.md)
+- [Livelink (CDN)](https://docs.lottielab.com/export-and-hand-off/livelink-cdn.md): Everything you need to know about Lottielab's powerful Lottie hosting, versioning and optimisation feature.
+- [Optimisation](https://docs.lottielab.com/export-and-hand-off/livelink-cdn/optimisation.md): A primer on the Livelink displayed size, optimisation percentage, and what it all means.
+- [Customising embed links](https://docs.lottielab.com/export-and-hand-off/livelink-cdn/customising-embed-links.md): The Lottie Embed Link supports several URL (query) parameters which can be used to control how the Lottie will be played when you embed or otherwise use this link.
+- [Code Export Platforms](https://docs.lottielab.com/export-and-hand-off/code-export-platforms.md)
+- [Web](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web.md)
+- [JavaScript (Vanilla)](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/javascript-vanilla.md)
+- [React JS](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/react-js.md)
+- [Angular](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/angular.md)
+- [Vue JS](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/vue-js.md)
+- [Webflow](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/webflow.md)
+- [Framer](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/framer.md): This guide covers three methods: adding static Lottie animations, creating interactive Lotties with custom Framer interactions, and importing interactive Lotties with preserved Lottielab interactions.
+- [Wordpress](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/web/wordpress.md)
+- [Mobile](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/mobile.md): Your animations are saved as Files in Lottielab. Here are a few actions you can take with your Files"
+- [iOS](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/mobile/ios.md)
+- [Android](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/mobile/android.md)
+- [React Native](https://docs.lottielab.com/export-and-hand-off/code-export-platforms/mobile/react-native.md)
+- [File download](https://docs.lottielab.com/export-and-hand-off/file-download.md)
+- [Lottie JSON download](https://docs.lottielab.com/export-and-hand-off/file-download/lottie-json-download.md)
+- [GIF download](https://docs.lottielab.com/export-and-hand-off/file-download/gif-download.md)
+- [MP4 download](https://docs.lottielab.com/export-and-hand-off/file-download/mp4-download.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.lottielab.com/getting-started/welcome-to-lottielab.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

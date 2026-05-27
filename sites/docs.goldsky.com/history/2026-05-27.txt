@@ -1,0 +1,390 @@
+# Goldsky
+
+## Docs
+
+- [AI Skills](https://docs.goldsky.com/ai-skills.md): AI skills for building, deploying, and debugging Goldsky Turbo, Mirror, Subgraphs, Compose, and Edge with Claude Code, Cursor, and other AI coding assistants
+- [Get pipeline error count](https://docs.goldsky.com/api-reference/pipeline-logs/get-pipeline-error-count.md): Get the number of error-level log entries for a pipeline within a configurable time window (default: 6 hours, max: 7 days).
+- [Get pipeline logs](https://docs.goldsky.com/api-reference/pipeline-logs/get-pipeline-logs.md): Retrieve execution logs for a pipeline. Supports cursor-based pagination and filtering.
+- [Get pipeline state](https://docs.goldsky.com/api-reference/pipeline-status/get-pipeline-state.md): Get the internal state information of a pipeline. This endpoint proxies to the upstream Streamling API.
+- [Get pipeline status](https://docs.goldsky.com/api-reference/pipeline-status/get-pipeline-status.md): Get the current runtime status of a pipeline.
+- [Create a pipeline](https://docs.goldsky.com/api-reference/pipelines/create-a-pipeline.md): Create and deploy a new turbo pipeline. The pipeline name must be unique within the project.
+- [Delete a pipeline](https://docs.goldsky.com/api-reference/pipelines/delete-a-pipeline.md): Delete a pipeline by name. This action cannot be undone.
+- [Get a pipeline](https://docs.goldsky.com/api-reference/pipelines/get-a-pipeline.md): Get the details of a specific pipeline by name.
+- [List pipelines](https://docs.goldsky.com/api-reference/pipelines/list-pipelines.md): List all pipelines in the current project. Optionally filter by type.
+- [Pause a pipeline](https://docs.goldsky.com/api-reference/pipelines/pause-a-pipeline.md): Pause a running pipeline. Can be resumed later.
+- [Restart a pipeline](https://docs.goldsky.com/api-reference/pipelines/restart-a-pipeline.md): Restart a pipeline. Optionally clear state to start fresh.
+- [Resume a pipeline](https://docs.goldsky.com/api-reference/pipelines/resume-a-pipeline.md): Resume a paused pipeline.
+- [Validate a pipeline definition](https://docs.goldsky.com/api-reference/pipelines/validate-a-pipeline-definition.md): Validate a pipeline definition without deploying it. Returns validation errors and warnings.
+- [Login troubleshooting](https://docs.goldsky.com/authentication-troubleshooting.md): If you don't see your Goldsky authentication email, try these troubleshooting steps.
+- [Benefits](https://docs.goldsky.com/benefits.md): A quick overview of The Goldsky Advantage.
+- [0G](https://docs.goldsky.com/chains/0g.md)
+- [Abstract Chain](https://docs.goldsky.com/chains/abstract.md)
+- [Align Network](https://docs.goldsky.com/chains/align.md)
+- [ApeChain](https://docs.goldsky.com/chains/apechain.md)
+- [Arbitrum Nova](https://docs.goldsky.com/chains/arbitrum-nova.md)
+- [Arbitrum One](https://docs.goldsky.com/chains/arbitrum-one.md)
+- [Arc](https://docs.goldsky.com/chains/arc.md)
+- [Arena-Z](https://docs.goldsky.com/chains/arena-z.md)
+- [Indexing Arweave with Goldsky](https://docs.goldsky.com/chains/arweave.md)
+- [Automata Network](https://docs.goldsky.com/chains/automata.md)
+- [Avalanche](https://docs.goldsky.com/chains/avalanche.md)
+- [B3](https://docs.goldsky.com/chains/b3.md)
+- [Base](https://docs.goldsky.com/chains/base.md)
+- [Berachain](https://docs.goldsky.com/chains/berachain.md)
+- [Bitcoin](https://docs.goldsky.com/chains/bitcoin.md)
+- [Blast](https://docs.goldsky.com/chains/blast.md)
+- [BOB (Build on Bitcoin)](https://docs.goldsky.com/chains/bob.md)
+- [Boba Network](https://docs.goldsky.com/chains/boba-eth.md)
+- [BNB Smart Chain](https://docs.goldsky.com/chains/bsc.md)
+- [BitTorrent Chain](https://docs.goldsky.com/chains/bttc.md)
+- [Camp Network](https://docs.goldsky.com/chains/camp.md)
+- [Celo](https://docs.goldsky.com/chains/celo.md)
+- [Chiliz Chain](https://docs.goldsky.com/chains/chiliz.md)
+- [Citrea](https://docs.goldsky.com/chains/citrea.md)
+- [Codex](https://docs.goldsky.com/chains/codex.md)
+- [Conflux Espace](https://docs.goldsky.com/chains/conflux-espace.md)
+- [Corn](https://docs.goldsky.com/chains/corn.md)
+- [Cosmos EVM](https://docs.goldsky.com/chains/cosmos-evm.md)
+- [Cronos Chain](https://docs.goldsky.com/chains/cronos-zkevm.md)
+- [Cyber](https://docs.goldsky.com/chains/cyber.md)
+- [Degen](https://docs.goldsky.com/chains/degen.md)
+- [Epic](https://docs.goldsky.com/chains/epic.md)
+- [Ethena](https://docs.goldsky.com/chains/ethena.md)
+- [Ethereal](https://docs.goldsky.com/chains/ethereal.md)
+- [Ethereum](https://docs.goldsky.com/chains/ethereum.md)
+- [Etherlink](https://docs.goldsky.com/chains/etherlink.md)
+- [Everclear](https://docs.goldsky.com/chains/everclear.md)
+- [Filecoin](https://docs.goldsky.com/chains/filecoin.md)
+- [Flare Network](https://docs.goldsky.com/chains/flare.md)
+- [Flow](https://docs.goldsky.com/chains/flow.md)
+- [Fluent](https://docs.goldsky.com/chains/fluent.md)
+- [Fogo](https://docs.goldsky.com/chains/fogo.md)
+- [Forma](https://docs.goldsky.com/chains/forma.md)
+- [Fraxtal](https://docs.goldsky.com/chains/fraxtal.md)
+- [Fuse](https://docs.goldsky.com/chains/fuse.md)
+- [Gensyn](https://docs.goldsky.com/chains/gensyn.md)
+- [Gnosis Chain](https://docs.goldsky.com/chains/gnosis.md)
+- [Gravity](https://docs.goldsky.com/chains/gravity.md)
+- [Ham](https://docs.goldsky.com/chains/ham.md)
+- [HashKey](https://docs.goldsky.com/chains/hashkey.md)
+- [Hedera](https://docs.goldsky.com/chains/hedera.md)
+- [Horizen](https://docs.goldsky.com/chains/horizen.md)
+- [HyperEVM](https://docs.goldsky.com/chains/hyperevm.md)
+- [Immutable zkEVM](https://docs.goldsky.com/chains/immutable-zkevm.md)
+- [Incentiv](https://docs.goldsky.com/chains/incentiv.md)
+- [Ink](https://docs.goldsky.com/chains/ink.md)
+- [Overview](https://docs.goldsky.com/chains/introduction.md): How to use Goldsky across EVM and non-EVM chains.
+- [IOTA](https://docs.goldsky.com/chains/iota.md)
+- [Kaia](https://docs.goldsky.com/chains/kaia.md)
+- [Kava](https://docs.goldsky.com/chains/kava.md)
+- [Indexing Kite AI with Goldsky](https://docs.goldsky.com/chains/kite-ai.md)
+- [Kroma Network](https://docs.goldsky.com/chains/kroma.md)
+- [Linea](https://docs.goldsky.com/chains/linea.md)
+- [Lisk](https://docs.goldsky.com/chains/lisk.md)
+- [Litecoin](https://docs.goldsky.com/chains/litecoin.md)
+- [LitVM](https://docs.goldsky.com/chains/litvm.md)
+- [Lumia](https://docs.goldsky.com/chains/lumia.md)
+- [Derive](https://docs.goldsky.com/chains/lyra.md)
+- [Manta Network](https://docs.goldsky.com/chains/manta.md)
+- [MANTRA](https://docs.goldsky.com/chains/mantra.md)
+- [MegaETH](https://docs.goldsky.com/chains/megaeth.md)
+- [Metal](https://docs.goldsky.com/chains/metal.md)
+- [Metis](https://docs.goldsky.com/chains/metis.md)
+- [Mezo](https://docs.goldsky.com/chains/mezo.md)
+- [Midnight](https://docs.goldsky.com/chains/midnight.md)
+- [Mint Blockchain](https://docs.goldsky.com/chains/mint-blockchain.md)
+- [Mitosis](https://docs.goldsky.com/chains/mitosis.md)
+- [Mode Network](https://docs.goldsky.com/chains/mode.md)
+- [Monad](https://docs.goldsky.com/chains/monad.md)
+- [Moonbeam](https://docs.goldsky.com/chains/moonbeam.md)
+- [Morph](https://docs.goldsky.com/chains/morph.md)
+- [Movement](https://docs.goldsky.com/chains/movement.md)
+- [NEAR](https://docs.goldsky.com/chains/near.md)
+- [Neura](https://docs.goldsky.com/chains/neura.md)
+- [Oasis Network](https://docs.goldsky.com/chains/oasis-sapphire.md)
+- [Oasys](https://docs.goldsky.com/chains/oasys.md)
+- [opBNB](https://docs.goldsky.com/chains/opbnb.md)
+- [Optimism](https://docs.goldsky.com/chains/optimism.md)
+- [Orderly](https://docs.goldsky.com/chains/orderly.md)
+- [Palm Network](https://docs.goldsky.com/chains/palm.md)
+- [Paradex](https://docs.goldsky.com/chains/paradex.md)
+- [Pharos Network](https://docs.goldsky.com/chains/pharos.md)
+- [Plasma](https://docs.goldsky.com/chains/plasma.md)
+- [Plume Network](https://docs.goldsky.com/chains/plume.md)
+- [Polygon PoS](https://docs.goldsky.com/chains/polygon-pos.md)
+- [Polygon zkEVM](https://docs.goldsky.com/chains/polygon-zkevm.md)
+- [Indexing Polymarket with Goldsky](https://docs.goldsky.com/chains/polymarket.md)
+- [Polynomial](https://docs.goldsky.com/chains/polynomial.md)
+- [Public Goods Network](https://docs.goldsky.com/chains/publicgoods.md)
+- [PulseChain](https://docs.goldsky.com/chains/pulsechain.md)
+- [RACE](https://docs.goldsky.com/chains/race.md)
+- [RARI Chain](https://docs.goldsky.com/chains/rari.md)
+- [Redbelly](https://docs.goldsky.com/chains/redbelly.md)
+- [Redstone](https://docs.goldsky.com/chains/redstone.md)
+- [Reya Network](https://docs.goldsky.com/chains/reya.md)
+- [RISE Chain](https://docs.goldsky.com/chains/rise.md)
+- [Robinhood Chain](https://docs.goldsky.com/chains/robinhood-testnet.md)
+- [Ronin](https://docs.goldsky.com/chains/ronin.md)
+- [Rootstock (RSK)](https://docs.goldsky.com/chains/rootstock.md)
+- [Indexing Saga EVM with Goldsky](https://docs.goldsky.com/chains/saga.md)
+- [Sanko](https://docs.goldsky.com/chains/sanko.md)
+- [Scroll](https://docs.goldsky.com/chains/scroll.md)
+- [Sei](https://docs.goldsky.com/chains/sei.md)
+- [Settlus](https://docs.goldsky.com/chains/settlus.md)
+- [Shape Network](https://docs.goldsky.com/chains/shape.md)
+- [Shrapnel](https://docs.goldsky.com/chains/shrapnel.md)
+- [SKALE](https://docs.goldsky.com/chains/skale-calypso.md)
+- [SNAXchain](https://docs.goldsky.com/chains/snaxchain.md)
+- [Solana](https://docs.goldsky.com/chains/solana.md)
+- [Somnia](https://docs.goldsky.com/chains/somnia.md)
+- [Soneium](https://docs.goldsky.com/chains/soneium.md)
+- [Sonic](https://docs.goldsky.com/chains/sonic.md)
+- [Sophon](https://docs.goldsky.com/chains/sophon.md)
+- [Stable](https://docs.goldsky.com/chains/stable.md)
+- [Starknet](https://docs.goldsky.com/chains/starknet.md)
+- [Stellar](https://docs.goldsky.com/chains/stellar.md)
+- [Story](https://docs.goldsky.com/chains/story.md)
+- [Sui](https://docs.goldsky.com/chains/sui.md)
+- [Superseed](https://docs.goldsky.com/chains/superseed.md)
+- [Supported networks](https://docs.goldsky.com/chains/supported-networks.md)
+- [Swan Chain](https://docs.goldsky.com/chains/swan.md)
+- [Swellchain](https://docs.goldsky.com/chains/swellchain.md)
+- [TAC](https://docs.goldsky.com/chains/tac.md)
+- [Taiko](https://docs.goldsky.com/chains/taiko.md)
+- [The Binary Holdings](https://docs.goldsky.com/chains/tbh.md)
+- [Telos EVM](https://docs.goldsky.com/chains/telos-evm.md)
+- [Tempo](https://docs.goldsky.com/chains/tempo.md)
+- [Tenet](https://docs.goldsky.com/chains/tenet.md)
+- [ThunderCore](https://docs.goldsky.com/chains/thundercore.md)
+- [TRON](https://docs.goldsky.com/chains/tron.md)
+- [Unichain](https://docs.goldsky.com/chains/unichain.md)
+- [Vana](https://docs.goldsky.com/chains/vana.md)
+- [Viction](https://docs.goldsky.com/chains/viction.md)
+- [Volmex Finance](https://docs.goldsky.com/chains/volmex.md)
+- [World Chain](https://docs.goldsky.com/chains/worldchain.md)
+- [XDC Network](https://docs.goldsky.com/chains/xdc.md)
+- [X Layer](https://docs.goldsky.com/chains/xlayer.md)
+- [XPLA](https://docs.goldsky.com/chains/xpla.md)
+- [XRADERS](https://docs.goldsky.com/chains/xr.md)
+- [XRPL EVM Sidechain](https://docs.goldsky.com/chains/xrpl-evm.md)
+- [Xterio](https://docs.goldsky.com/chains/xterio.md)
+- [Zero](https://docs.goldsky.com/chains/zero.md)
+- [ZetaChain](https://docs.goldsky.com/chains/zetachain.md)
+- [Zircuit](https://docs.goldsky.com/chains/zircuit.md)
+- [zkLink Nova](https://docs.goldsky.com/chains/zklink-nova.md)
+- [zkSync Era](https://docs.goldsky.com/chains/zksync-era.md)
+- [Zora](https://docs.goldsky.com/chains/zora.md)
+- [App Configuration](https://docs.goldsky.com/compose/app-configuration.md)
+- [App Lifecycle](https://docs.goldsky.com/compose/app-lifecycle.md)
+- [Compose CLI Reference](https://docs.goldsky.com/compose/cli-reference.md)
+- [GitHub repo](https://docs.goldsky.com/compose/compose-github.md)
+- [Task to Task Execution (callTask)](https://docs.goldsky.com/compose/context/call-task.md)
+- [State Management (collections)](https://docs.goldsky.com/compose/context/collections.md)
+- [Environment variables (env)](https://docs.goldsky.com/compose/context/env.md)
+- [evm Chains](https://docs.goldsky.com/compose/context/evm/chains.md)
+- [evm Smart Contracts](https://docs.goldsky.com/compose/context/evm/contracts.md)
+- [evm Overview](https://docs.goldsky.com/compose/context/evm/overview.md)
+- [evm Reorg Handling](https://docs.goldsky.com/compose/context/evm/reorgs.md)
+- [evm Wallets](https://docs.goldsky.com/compose/context/evm/wallets.md)
+- [HTTP Requests (fetch)](https://docs.goldsky.com/compose/context/fetch.md)
+- [Overview](https://docs.goldsky.com/compose/context/overview.md)
+- [Debugging](https://docs.goldsky.com/compose/debugging.md)
+- [Deploying and Monitoring](https://docs.goldsky.com/compose/deploy-monitor.md)
+- [Environments and RPCs](https://docs.goldsky.com/compose/environments.md)
+- [Migrate from Gelato W3F](https://docs.goldsky.com/compose/gelato.md)
+- [Build a Bitcoin price oracle](https://docs.goldsky.com/compose/guides/build-a-bitcoin-oracle.md): Build an on-chain Bitcoin price oracle using Compose, CoinGecko, and contract codegen
+- [Build a corporate-actions distributor](https://docs.goldsky.com/compose/guides/build-a-corporate-actions-distributor.md): Pay N share-token holders pro-rata for a tokenized corporate action (dividend, coupon, rebate, airdrop) using Compose to orchestrate an on-demand Goldsky Turbo pipeline as the snapshot subroutine
+- [Build a multi-chain NAV oracle](https://docs.goldsky.com/compose/guides/build-a-nav-oracle.md): Publish a tokenized fund's Net Asset Value to multiple chains on a schedule, with a Chainlink-compatible on-chain interface and an operator kill-switch
+- [Build a Polymarket copy-trader](https://docs.goldsky.com/compose/guides/build-a-polymarket-copy-trader.md): Mirror Polymarket wallets' trades automatically using Compose and Turbo with a webhook pipeline
+- [Build a binary prediction market](https://docs.goldsky.com/compose/guides/build-a-prediction-market.md): Build a binary prediction market on Gnosis ConditionalTokens using Compose, CoinGecko, and multi-task orchestration
+- [Build a VRF system](https://docs.goldsky.com/compose/guides/build-a-vrf-system.md): Build an on-chain verifiable random function (VRF) system using Compose and drand
+- [Solana Transactions with Gill](https://docs.goldsky.com/compose/guides/solana-transactions.md)
+- [Build Offchain-x-Onchain Systems with Compose](https://docs.goldsky.com/compose/introduction.md)
+- [Using Packages](https://docs.goldsky.com/compose/packages.md)
+- [Deploy a Compose App](https://docs.goldsky.com/compose/quick-start.md): Get up and running with Compose in under 5 minutes.
+- [Wallets and Secrets](https://docs.goldsky.com/compose/secrets.md)
+- [Task Triggers](https://docs.goldsky.com/compose/task-triggers.md)
+- [Task Authoring Basics](https://docs.goldsky.com/compose/tasks.md)
+- [Flashblocks](https://docs.goldsky.com/edge-rpc/capabilities/flashblocks.md): Faster block confirmations on OP Stack chains via Edge RPC
+- [HyperEVM System Tx](https://docs.goldsky.com/edge-rpc/capabilities/hyperevm-system-transactions.md): Route to archive or realtime node pools on HyperEVM via Edge RPC
+- [x402 nanopayments](https://docs.goldsky.com/edge-rpc/capabilities/x402.md): Pay-per-request access to Edge RPC over the x402 HTTP protocol, no account required
+- [Error Codes](https://docs.goldsky.com/edge-rpc/evm/error-codes.md): JSON-RPC error codes returned by Edge RPC
+- [debug_getRawBlock](https://docs.goldsky.com/edge-rpc/evm/methods/debug_getRawBlock.md): Returns RLP-encoded block
+- [debug_getRawHeader](https://docs.goldsky.com/edge-rpc/evm/methods/debug_getRawHeader.md): Returns RLP-encoded block header
+- [debug_getRawReceipts](https://docs.goldsky.com/edge-rpc/evm/methods/debug_getRawReceipts.md): Returns RLP-encoded receipts for a block
+- [debug_getRawTransaction](https://docs.goldsky.com/edge-rpc/evm/methods/debug_getRawTransaction.md): Returns RLP-encoded transaction
+- [debug_traceBlockByHash](https://docs.goldsky.com/edge-rpc/evm/methods/debug_traceBlockByHash.md): Returns traces of all transactions in a block by hash
+- [debug_traceBlockByNumber](https://docs.goldsky.com/edge-rpc/evm/methods/debug_traceBlockByNumber.md): Returns traces of all transactions in a block by number
+- [debug_traceCall](https://docs.goldsky.com/edge-rpc/evm/methods/debug_traceCall.md): Traces a call without creating a transaction
+- [debug_traceTransaction](https://docs.goldsky.com/edge-rpc/evm/methods/debug_traceTransaction.md): Returns execution trace of a transaction
+- [eth_accounts](https://docs.goldsky.com/edge-rpc/evm/methods/eth_accounts.md): Returns a list of addresses owned by client
+- [eth_blobBaseFee](https://docs.goldsky.com/edge-rpc/evm/methods/eth_blobBaseFee.md): Returns the current blob base fee
+- [eth_blockNumber](https://docs.goldsky.com/edge-rpc/evm/methods/eth_blockNumber.md): Returns the current block number
+- [eth_call](https://docs.goldsky.com/edge-rpc/evm/methods/eth_call.md): Executes a new message call without creating a transaction
+- [eth_chainId](https://docs.goldsky.com/edge-rpc/evm/methods/eth_chainId.md): Returns the chain ID of the current network
+- [eth_createAccessList](https://docs.goldsky.com/edge-rpc/evm/methods/eth_createAccessList.md): Creates an access list for a transaction
+- [eth_estimateGas](https://docs.goldsky.com/edge-rpc/evm/methods/eth_estimateGas.md): Estimates the gas needed to execute a transaction
+- [eth_feeHistory](https://docs.goldsky.com/edge-rpc/evm/methods/eth_feeHistory.md): Returns historical gas information
+- [eth_gasPrice](https://docs.goldsky.com/edge-rpc/evm/methods/eth_gasPrice.md): Returns the current gas price in wei
+- [eth_getBalance](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBalance.md): Returns the balance of an account
+- [eth_getBlockByHash](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBlockByHash.md): Returns information about a block by hash
+- [eth_getBlockByNumber](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBlockByNumber.md): Returns information about a block by number
+- [eth_getBlockReceipts](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBlockReceipts.md): Returns all transaction receipts for a block
+- [eth_getBlockTransactionCountByHash](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBlockTransactionCountByHash.md): Returns the number of transactions in a block by hash
+- [eth_getBlockTransactionCountByNumber](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getBlockTransactionCountByNumber.md): Returns the number of transactions in a block by number
+- [eth_getCode](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getCode.md): Returns the bytecode at a given address
+- [eth_getFilterChanges](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getFilterChanges.md): Returns filter changes since last poll
+- [eth_getFilterLogs](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getFilterLogs.md): Returns all logs matching a filter
+- [eth_getLogs](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getLogs.md): Returns logs matching a filter object
+- [eth_getProof](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getProof.md): Returns the account and storage values with Merkle proof
+- [eth_getStorageAt](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getStorageAt.md): Returns the value from a storage position at an address
+- [eth_getTransactionByBlockHashAndIndex](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getTransactionByBlockHashAndIndex.md): Returns transaction by block hash and index
+- [eth_getTransactionByBlockNumberAndIndex](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getTransactionByBlockNumberAndIndex.md): Returns transaction by block number and index
+- [eth_getTransactionByHash](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getTransactionByHash.md): Returns transaction by hash
+- [eth_getTransactionCount](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getTransactionCount.md): Returns the number of transactions sent from an address
+- [eth_getTransactionReceipt](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getTransactionReceipt.md): Returns the receipt of a transaction by hash
+- [eth_getUncleByBlockHashAndIndex](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getUncleByBlockHashAndIndex.md): Returns uncle block by block hash and index
+- [eth_getUncleByBlockNumberAndIndex](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getUncleByBlockNumberAndIndex.md): Returns uncle block by block number and index
+- [eth_getUncleCountByBlockHash](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getUncleCountByBlockHash.md): Returns the number of uncles in a block by hash
+- [eth_getUncleCountByBlockNumber](https://docs.goldsky.com/edge-rpc/evm/methods/eth_getUncleCountByBlockNumber.md): Returns the number of uncles in a block by number
+- [eth_maxPriorityFeePerGas](https://docs.goldsky.com/edge-rpc/evm/methods/eth_maxPriorityFeePerGas.md): Returns the current max priority fee per gas
+- [eth_newBlockFilter](https://docs.goldsky.com/edge-rpc/evm/methods/eth_newBlockFilter.md): Creates a filter for new blocks
+- [eth_newFilter](https://docs.goldsky.com/edge-rpc/evm/methods/eth_newFilter.md): Creates a filter for logs
+- [eth_newPendingTransactionFilter](https://docs.goldsky.com/edge-rpc/evm/methods/eth_newPendingTransactionFilter.md): Creates a filter for pending transactions
+- [eth_pendingTransactions](https://docs.goldsky.com/edge-rpc/evm/methods/eth_pendingTransactions.md): Returns pending transactions in the pool
+- [eth_sendRawTransaction](https://docs.goldsky.com/edge-rpc/evm/methods/eth_sendRawTransaction.md): Submits a signed transaction to the network
+- [trace_block](https://docs.goldsky.com/edge-rpc/evm/methods/trace_block.md): Returns traces for all transactions in a block
+- [trace_call](https://docs.goldsky.com/edge-rpc/evm/methods/trace_call.md): Traces a call at a specific block
+- [trace_callMany](https://docs.goldsky.com/edge-rpc/evm/methods/trace_callMany.md): Traces multiple calls at a specific block
+- [trace_filter](https://docs.goldsky.com/edge-rpc/evm/methods/trace_filter.md): Returns traces matching a filter
+- [trace_get](https://docs.goldsky.com/edge-rpc/evm/methods/trace_get.md): Returns a specific trace by transaction hash and index
+- [trace_rawTransaction](https://docs.goldsky.com/edge-rpc/evm/methods/trace_rawTransaction.md): Traces a raw transaction
+- [trace_replayBlockTransactions](https://docs.goldsky.com/edge-rpc/evm/methods/trace_replayBlockTransactions.md): Replays all transactions in a block
+- [trace_replayTransaction](https://docs.goldsky.com/edge-rpc/evm/methods/trace_replayTransaction.md): Replays a transaction
+- [trace_transaction](https://docs.goldsky.com/edge-rpc/evm/methods/trace_transaction.md): Returns traces for a transaction
+- [web3_clientVersion](https://docs.goldsky.com/edge-rpc/evm/methods/web3_clientVersion.md): Returns the client version
+- [web3_sha3](https://docs.goldsky.com/edge-rpc/evm/methods/web3_sha3.md): Returns Keccak-256 hash of the given data
+- [Edge RPC](https://docs.goldsky.com/edge-rpc/introduction.md): High-performance RPC endpoints for EVM networks
+- [Monitoring](https://docs.goldsky.com/edge-rpc/platform/monitoring.md): Real-time metrics and logs for Edge RPC
+- [Security](https://docs.goldsky.com/edge-rpc/platform/security.md): Authentication and rate limiting for Edge RPC
+- [Quickstart](https://docs.goldsky.com/edge-rpc/quickstart.md): Get your first Edge RPC call working in under 2 minutes
+- [Why Edge RPC](https://docs.goldsky.com/edge-rpc/why-edge.md): Fast, resilient, and accurate blockchain data
+- [Frequently asked questions](https://docs.goldsky.com/faq.md): Collection of frequently (and not-so-frequently) asked questions.
+- [Support](https://docs.goldsky.com/getting-support.md): Our team is on standby to help you get the most out of our products.
+- [Installation](https://docs.goldsky.com/installation.md): Install the Goldsky CLI to deploy and manage your data pipelines
+- [Introduction to Goldsky](https://docs.goldsky.com/introduction.md)
+- [Goldsky MCP Server](https://docs.goldsky.com/mcp-server.md): Connect Goldsky documentation to AI tools with our hosted MCP server
+- [About Mirror pipelines](https://docs.goldsky.com/mirror/about-pipeline.md)
+- [Deploy a Mirror pipeline](https://docs.goldsky.com/mirror/create-a-pipeline.md): Step by step instructions on how to create a Goldsky Mirror pipeline.
+- [Free analytics powered by ClickHouse and Goldsky](https://docs.goldsky.com/mirror/cryptohouse.md)
+- [Data quality](https://docs.goldsky.com/mirror/data-quality.md)
+- [Decode contract events](https://docs.goldsky.com/mirror/guides/decoding-contract-events.md): Sync contract events to a database with the contract ABI using Mirror.
+- [Decode traces](https://docs.goldsky.com/mirror/guides/decoding-traces.md): Sync traces to a database with the contract ABI using Mirror.
+- [Export contract events to Postgres](https://docs.goldsky.com/mirror/guides/export-events-to-database.md)
+- [Operating pipelines](https://docs.goldsky.com/mirror/guides/operating-pipelines.md): Guide to common pipeline operations
+- [Stream DEX trades](https://docs.goldsky.com/mirror/guides/stream-DEX-trades.md): Stream Decentralized Exchange trade events to your database
+- [Sync dataset to Postgres](https://docs.goldsky.com/mirror/guides/sync-dataset-to-postgres.md)
+- [Sync subgraph to postgres](https://docs.goldsky.com/mirror/guides/sync-subgraph-to-postgres.md)
+- [ERC-1155 transfers](https://docs.goldsky.com/mirror/guides/token-transfers/ERC-1155-transfers.md): Create a table containing ERC-1155 Transfers for several, or all token contracts.
+- [ERC-20 transfers](https://docs.goldsky.com/mirror/guides/token-transfers/ERC-20-transfers.md): Create a table containing ERC-20 Transfers for several or all token contracts
+- [ERC-721 transfers](https://docs.goldsky.com/mirror/guides/token-transfers/ERC-721-transfers.md): Create a table containing ERC-721 Transfers for several or all token contracts
+- [Native transfers](https://docs.goldsky.com/mirror/guides/token-transfers/native-transfers.md): Create a table containing transfers for the native token of a chain
+- [Stablecoin contract addresses](https://docs.goldsky.com/mirror/guides/token-transfers/stablecoin-addresses.md): List of stablecoin addresses on major networks
+- [Stablecoin transfers](https://docs.goldsky.com/mirror/guides/token-transfers/stablecoin-transfers.md): Create a stream containing all transfers for stablecoins
+- [Stream onchain data with Mirror](https://docs.goldsky.com/mirror/introduction.md)
+- [Database secrets](https://docs.goldsky.com/mirror/manage-secrets.md)
+- [GitHub repo](https://docs.goldsky.com/mirror/mirror-github.md)
+- [Performance benchmark](https://docs.goldsky.com/mirror/performance-benchmark.md): A test of Mirror's write speeds into a ClickHouse database.
+- [Pipeline configuration](https://docs.goldsky.com/mirror/reference/config-file/pipeline.md): Schema details for pipeline configurations
+- [Event decoding functions](https://docs.goldsky.com/mirror/reference/mirror-functions/decoding-functions.md)
+- [System functions](https://docs.goldsky.com/mirror/reference/mirror-functions/system-functions.md)
+- [EVM Data Schemas](https://docs.goldsky.com/mirror/reference/schema/EVM-schemas.md)
+- [Curated Dataset Schemas](https://docs.goldsky.com/mirror/reference/schema/curated-schemas.md)
+- [Non-EVM Data Schemas](https://docs.goldsky.com/mirror/reference/schema/non-EVM-schemas.md)
+- [AWS SQS](https://docs.goldsky.com/mirror/sinks/aws-sqs.md)
+- [ClickHouse](https://docs.goldsky.com/mirror/sinks/clickhouse.md)
+- [Elasticsearch](https://docs.goldsky.com/mirror/sinks/elasticsearch.md)
+- [Kafka](https://docs.goldsky.com/mirror/sinks/kafka.md)
+- [MySQL](https://docs.goldsky.com/mirror/sinks/mysql.md)
+- [Object Storage (S3/GCS/R2)](https://docs.goldsky.com/mirror/sinks/object-storage.md)
+- [PostgreSQL](https://docs.goldsky.com/mirror/sinks/postgres.md)
+- [Mirror - Supported sinks](https://docs.goldsky.com/mirror/sinks/supported-sinks.md)
+- [Timescale](https://docs.goldsky.com/mirror/sinks/timescale.md)
+- [Webhook](https://docs.goldsky.com/mirror/sinks/webhook.md)
+- [Direct indexing](https://docs.goldsky.com/mirror/sources/direct-indexing.md)
+- [Subgraphs](https://docs.goldsky.com/mirror/sources/subgraphs.md)
+- [Mirror - Supported sources](https://docs.goldsky.com/mirror/sources/supported-sources.md)
+- [Static IPs](https://docs.goldsky.com/mirror/static-ips.md)
+- [External Handler Transforms](https://docs.goldsky.com/mirror/transforms/external-handlers.md): Transforming data with an external HTTP service.
+- [SQL Transforms](https://docs.goldsky.com/mirror/transforms/sql-transforms.md): Transforming blockchain data with Streaming SQL
+- [Overview](https://docs.goldsky.com/mirror/transforms/transforms-overview.md): Learn about Mirror's powerful transformation capabilities.
+- [Pricing](https://docs.goldsky.com/pricing/summary.md): Understand how billing works on Goldsky
+- [Role-based access control](https://docs.goldsky.com/rbac.md): Use RBAC to determine who can do what on your Goldsky project
+- [CLI Reference](https://docs.goldsky.com/reference/cli.md): Goldsky's command line interface reference
+- [Subgraphs vs. pipelines](https://docs.goldsky.com/subgraph-vs-mirror.md): Wondering how to best leverage Goldsky's products? This guide explains the differences between Subgraphs and Mirror and how you can use them individually or together to meet your needs.
+- [Blocks Subgraphs](https://docs.goldsky.com/subgraphs/blocks-subgraphs.md): Access free, pre-indexed blocks subgraphs for supported networks
+- [Deploy a subgraph](https://docs.goldsky.com/subgraphs/deploying-subgraphs.md)
+- [GraphQL Endpoints](https://docs.goldsky.com/subgraphs/graphql-endpoints.md)
+- [Create a cross-chain subgraph](https://docs.goldsky.com/subgraphs/guides/create-a-cross-chain-subgraph.md): Use Mirror to sync multiple subgraphs to one table.
+- [Create low-code subgraphs](https://docs.goldsky.com/subgraphs/guides/create-a-low-code-subgraph.md)
+- [Create no-code subgraphs](https://docs.goldsky.com/subgraphs/guides/create-a-no-code-subgraph.md)
+- [Use declared eth_calls to increase indexing performance](https://docs.goldsky.com/subgraphs/guides/declared-eth-calls.md): Improve your subgraph performance by declaring eth_calls
+- [Send subgraph-driven webhooks](https://docs.goldsky.com/subgraphs/guides/send-subgraph-driven-webhooks.md): Receive real-time HTTP POST requests based on  your subgraphs.
+- [Index onchain data with Subgraphs](https://docs.goldsky.com/subgraphs/introduction.md)
+- [Comparison](https://docs.goldsky.com/subgraphs/migrate-from-alchemy/comparison.md)
+- [Migration FAQ](https://docs.goldsky.com/subgraphs/migrate-from-alchemy/faq.md)
+- [Migrate from Alchemy to Goldsky](https://docs.goldsky.com/subgraphs/migrate-from-alchemy/guide.md)
+- [Migrating subgraph tags](https://docs.goldsky.com/subgraphs/migrate-from-alchemy/tags.md)
+- [Migrate from TheGraph](https://docs.goldsky.com/subgraphs/migrate-from-the-graph.md)
+- [Instant subgraph configuration](https://docs.goldsky.com/subgraphs/reference/instant-subgraph.md)
+- [Stalled subgraph detection](https://docs.goldsky.com/subgraphs/stalled-subgraphs.md): Learn how Goldsky monitors for stalled subgraphs and automatically pauses them to optimize resources
+- [GitHub repo](https://docs.goldsky.com/subgraphs/subgraphs-github.md)
+- [Subgraph tags](https://docs.goldsky.com/subgraphs/tags.md): Learn how to use tags to manage your subgraph endpoints.
+- [Subgraph webhooks](https://docs.goldsky.com/subgraphs/webhooks.md): Create webhooks that trigger on every subgraph entity change
+- [Teams and projects](https://docs.goldsky.com/teams-and-projects.md): Teams and projects help you collaborate with your team to build realtime data pipelines.
+- [API Overview](https://docs.goldsky.com/turbo-pipelines/api/overview.md): Manage Turbo Pipelines programmatically via REST API.
+- [Turbo CLI extension](https://docs.goldsky.com/turbo-pipelines/cli.md): Install and use the Turbo CLI extension to deploy and manage your Turbo pipelines
+- [Turbo CLI Reference](https://docs.goldsky.com/turbo-pipelines/cli-reference.md): Complete reference for all Turbo CLI commands including apply, list, delete, validate, logs, and inspect
+- [Custom alerts](https://docs.goldsky.com/turbo-pipelines/custom-alerts.md): Create custom Slack and email alerts on any pipeline metric using the Goldsky Grafana dashboard
+- [FAQ](https://docs.goldsky.com/turbo-pipelines/faq.md): Frequently asked questions about Turbo pipelines
+- [Health dashboard](https://docs.goldsky.com/turbo-pipelines/health-dashboard.md): Interpret the Turbo health overview dashboard to spot lag, backpressure, and sink performance issues
+- [Stream onchain data with Turbo](https://docs.goldsky.com/turbo-pipelines/introduction.md): Real-time, vectorized, blockchain data processing
+- [Job mode](https://docs.goldsky.com/turbo-pipelines/job-mode.md): Run pipelines as one-time tasks instead of continuous streams
+- [Live inspect](https://docs.goldsky.com/turbo-pipelines/live-inspect.md): Inspect live data flowing through your Turbo pipelines in real-time
+- [Turbo Pipeline Configuration](https://docs.goldsky.com/turbo-pipelines/pipeline-config.md): Complete reference for Turbo pipeline YAML syntax
+- [Prometheus integration](https://docs.goldsky.com/turbo-pipelines/prometheus-integration.md): Scrape Turbo pipeline metrics into Datadog, Grafana Cloud, PagerDuty, New Relic, or any Prometheus-compatible system
+- [Deploy a Turbo pipeline](https://docs.goldsky.com/turbo-pipelines/quickstart.md): Deploy your first Turbo Pipeline in minutes
+- [Turbo SQL Functions Reference](https://docs.goldsky.com/turbo-pipelines/reference/sql-functions.md): Comprehensive guide to custom SQL functions for blockchain data processing
+- [Blackhole](https://docs.goldsky.com/turbo-pipelines/sinks/blackhole.md): Discard data for testing and development purposes
+- [ClickHouse](https://docs.goldsky.com/turbo-pipelines/sinks/clickhouse.md): Write data to ClickHouse for high-performance analytical queries
+- [Kafka](https://docs.goldsky.com/turbo-pipelines/sinks/kafka.md): Publish processed data to Kafka topics with Avro or JSON serialization
+- [MySQL](https://docs.goldsky.com/turbo-pipelines/sinks/mysql.md): Write data to MySQL databases with automatic table creation and upsert support
+- [Turbo - Supported sinks](https://docs.goldsky.com/turbo-pipelines/sinks/overview.md): Write processed data to PostgreSQL, ClickHouse, webhooks, and more
+- [PostgreSQL](https://docs.goldsky.com/turbo-pipelines/sinks/postgres.md): Write data to PostgreSQL databases with automatic table creation and upsert support
+- [PostgreSQL aggregation](https://docs.goldsky.com/turbo-pipelines/sinks/postgres-aggregate.md): Perform real-time aggregations directly in PostgreSQL using database triggers
+- [Google Cloud Pub/Sub](https://docs.goldsky.com/turbo-pipelines/sinks/pubsub.md): Publish processed data to Google Cloud Pub/Sub topics
+- [S2](https://docs.goldsky.com/turbo-pipelines/sinks/s2.md): Publish to S2.dev streams for serverless event streaming
+- [S3](https://docs.goldsky.com/turbo-pipelines/sinks/s3.md): Write data to S3-compatible object storage as Parquet files
+- [SQS](https://docs.goldsky.com/turbo-pipelines/sinks/sqs.md): Send data to Amazon Simple Queue Service (SQS)
+- [Webhook](https://docs.goldsky.com/turbo-pipelines/sinks/webhook.md): Send data to HTTP endpoints as JSON payloads
+- [Bitcoin Sources](https://docs.goldsky.com/turbo-pipelines/sources/bitcoin.md): Build real-time pipelines with Bitcoin blockchain data
+- [EVM Sources](https://docs.goldsky.com/turbo-pipelines/sources/evm.md): Build data pipelines with Ethereum, Polygon, Base, and any other supported EVM chain.
+- [NEAR Sources](https://docs.goldsky.com/turbo-pipelines/sources/near.md): Build real-time pipelines with NEAR blockchain data
+- [Turbo - Supported sources](https://docs.goldsky.com/turbo-pipelines/sources/overview.md): Ingest data from EVM chains, Solana, and more
+- [Solana Sources](https://docs.goldsky.com/turbo-pipelines/sources/solana.md): Build real-time pipelines with Solana blockchain data
+- [Stellar Sources](https://docs.goldsky.com/turbo-pipelines/sources/stellar.md): Build real-time Stellar pipelines with <5s latency
+- [Dynamic Tables](https://docs.goldsky.com/turbo-pipelines/transforms/dynamic-tables.md): Create real-time lookup tables for filtering and enrichment
+- [HTTP Handler](https://docs.goldsky.com/turbo-pipelines/transforms/http-handler.md): Enrich streaming data by calling external HTTP APIs
+- [Overview](https://docs.goldsky.com/turbo-pipelines/transforms/overview.md): Process and transform streaming data with SQL, HTTP handlers, and Typescript
+- [SQL](https://docs.goldsky.com/turbo-pipelines/transforms/sql.md): Filter, project, and transform streaming data with SQL
+- [Throttle](https://docs.goldsky.com/turbo-pipelines/transforms/throttle.md): Limit the throughput of a stream by batching and pacing records
+- [TypeScript](https://docs.goldsky.com/turbo-pipelines/transforms/typescript.md): Execute custom TypeScript code on streaming data
+
+## OpenAPI Specs
+
+- [openapi](https://docs.goldsky.com/turbo-pipelines/api/openapi.json)
+
+## Optional
+
+- [Changelog ↗](https://goldsky.com/changelog)
+- [Blog ↗](https://goldsky.com/blog)

@@ -1,0 +1,64 @@
+# CryptoProcessing
+
+## Docs
+
+- [Authentication](https://docs.cryptoprocessing.com/api-reference/authentication.md)
+- [Callbacks overview](https://docs.cryptoprocessing.com/api-reference/callbacks/callbacks-overview.md)
+- [Deposit callbacks](https://docs.cryptoprocessing.com/api-reference/callbacks/deposit-callbacks.md)
+- [Exchange callbacks](https://docs.cryptoprocessing.com/api-reference/callbacks/exchange-callbacks.md)
+- [Invoice callbacks](https://docs.cryptoprocessing.com/api-reference/callbacks/invoice-payment-callbacks.md)
+- [Withdrawal callbacks](https://docs.cryptoprocessing.com/api-reference/callbacks/withdrawal-callbacks.md)
+- [API currency codes](https://docs.cryptoprocessing.com/api-reference/currency-codes.md): Use these codes in your API requests
+- [List balances](https://docs.cryptoprocessing.com/api-reference/endpoints/accounts-list.md): Get a list of your balances for each cryptocurrency, including zero balances.
+- [Generate a user deposit address](https://docs.cryptoprocessing.com/api-reference/endpoints/addresses-take.md): Generate a deposit address for a user
+- [Withdraw crypto instantly](https://docs.cryptoprocessing.com/api-reference/endpoints/crypto-withdrawal-instant.md): Make an [instant withdrawal](/integration-guide/withdrawals/instant-withdrawals) from a cryptocurrency balance.
+- [Withdraw crypto instantly with conversion](https://docs.cryptoprocessing.com/api-reference/endpoints/crypto-withdrawal-instant-exchange.md): Make an [instant withdrawal](/integration-guide/withdrawals/instant-withdrawals) from a cryptocurrency or fiat balance with conversion to cryptocurrency.
+- [List supported currencies](https://docs.cryptoprocessing.com/api-reference/endpoints/currencies-list.md): Returns a list of available currencies, minimum deposit amounts, and deposit and withdrawal fees.
+- [Get exchange rates](https://docs.cryptoprocessing.com/api-reference/endpoints/currencies-rates.md): Get available currency pairs and exchange rates.
+- [Get a fixed exchange quote](https://docs.cryptoprocessing.com/api-reference/endpoints/exchange-calculate.md): Get a fixed exchange quote for a specific amount, which can then be used with [/exchange/fixed](/api-reference/endpoints/exchange-fixed).
+- [Exchange at a fixed rate](https://docs.cryptoprocessing.com/api-reference/endpoints/exchange-fixed.md): Execute an exchange using a valid fixed quote from [/exchange/calculate](/api-reference/endpoints/exchange-calculate).
+- [Exchange at market rate](https://docs.cryptoprocessing.com/api-reference/endpoints/exchange-now.md): Execute an exchange immediately at the currently available market rate, without requesting a fixed quote.
+- [Create an invoice](https://docs.cryptoprocessing.com/api-reference/endpoints/invoices-create.md)
+- [Cancel an invoice](https://docs.cryptoprocessing.com/api-reference/endpoints/invoices-foreign_id-cancel.md)
+- [Check API status](https://docs.cryptoprocessing.com/api-reference/endpoints/ping.md): Test if your API connection is working.
+- [Get transaction details](https://docs.cryptoprocessing.com/api-reference/endpoints/transactions-info.md): Get transaction details by `id`, `foreign_id`, or `txid`. Include only one of these parameters in your request.
+- [Withdraw crypto](https://docs.cryptoprocessing.com/api-reference/endpoints/withdrawal-crypto.md): Withdraw in crypto to any address.
+- [Errors](https://docs.cryptoprocessing.com/api-reference/errors.md)
+- [Introduction](https://docs.cryptoprocessing.com/api-reference/introduction.md)
+- [Postman API Testing](https://docs.cryptoprocessing.com/api-reference/postman-collection.md)
+- [User data collection](https://docs.cryptoprocessing.com/api-reference/user-data-collection.md)
+- [Change withdrawal limits](https://docs.cryptoprocessing.com/getting-started/change-withdrawal-limits.md)
+- [Create and manage addresses](https://docs.cryptoprocessing.com/getting-started/create-and-manage-addresses.md)
+- [Handle deposits sent in the wrong currency](https://docs.cryptoprocessing.com/getting-started/cross-currency.md)
+- [Introduction](https://docs.cryptoprocessing.com/getting-started/introduction.md)
+- [Manage users](https://docs.cryptoprocessing.com/getting-started/manage-user-permissions.md)
+- [Manage your balance](https://docs.cryptoprocessing.com/getting-started/manage-your-balance.md)
+- [Send mass payouts](https://docs.cryptoprocessing.com/getting-started/send-mass-payouts.md)
+- [Set up limits and cold addresses](https://docs.cryptoprocessing.com/getting-started/set-up-limits-and-cold-addresses.md)
+- [Set up notifications](https://docs.cryptoprocessing.com/getting-started/set-up-notifications.md)
+- [Top up and withdraw from your fiat balance](https://docs.cryptoprocessing.com/getting-started/top-up-and-withdraw-fiat.md)
+- [Track transactions and fees](https://docs.cryptoprocessing.com/getting-started/track-transactions-and-fees.md)
+- [Try out the API](https://docs.cryptoprocessing.com/getting-started/try-out-the-api.md)
+- [Whitelist IP addresses](https://docs.cryptoprocessing.com/getting-started/whitelist-ip-addresses.md)
+- [Get started with Cryptoprocessing](https://docs.cryptoprocessing.com/index.md)
+- [Integration checklist](https://docs.cryptoprocessing.com/integration-guide/checklist.md)
+- [Design a crypto payment form](https://docs.cryptoprocessing.com/integration-guide/deposits/design-payment-form.md)
+- [Crypto deposits integration test cases](https://docs.cryptoprocessing.com/integration-guide/deposits/test-cases.md)
+- [Design a crypto withdrawal form](https://docs.cryptoprocessing.com/integration-guide/withdrawals/design-withdrawal-form.md)
+- [Instant crypto withdrawals](https://docs.cryptoprocessing.com/integration-guide/withdrawals/instant-withdrawals.md)
+- [Crypto withdrawals integration test cases](https://docs.cryptoprocessing.com/integration-guide/withdrawals/test-cases.md)
+- [Drupal](https://docs.cryptoprocessing.com/plugin-integrations/drupal.md)
+- [Joomla](https://docs.cryptoprocessing.com/plugin-integrations/joomla.md)
+- [Magento](https://docs.cryptoprocessing.com/plugin-integrations/magento.md)
+- [OpenCart](https://docs.cryptoprocessing.com/plugin-integrations/opencart.md)
+- [PrestaShop](https://docs.cryptoprocessing.com/plugin-integrations/prestashop.md)
+- [WordPress](https://docs.cryptoprocessing.com/plugin-integrations/wordpress.md)
+- [BTC deposit fee](https://docs.cryptoprocessing.com/reference/btc-deposit-fee.md)
+- [FAQ](https://docs.cryptoprocessing.com/reference/faq.md): Advice and answers from the CoinsPaid team
+- [Get your API key](https://docs.cryptoprocessing.com/reference/get-your-api-key.md)
+- [Network fees](https://docs.cryptoprocessing.com/reference/network-fees.md)
+- [User roles](https://docs.cryptoprocessing.com/reference/user-roles.md)
+
+## OpenAPI Specs
+
+- [openapi](https://docs.cryptoprocessing.com/api-reference/openapi.yaml)

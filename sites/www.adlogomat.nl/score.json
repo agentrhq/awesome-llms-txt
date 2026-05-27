@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "domain": "www.adlogomat.nl",
+  "display_name": "Adlogomat",
+  "category": "comms",
+  "verified_url": "https://www.adlogomat.nl/llms.txt",
+  "fetched_at": "2026-05-27T05:32:13Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 118471,
+  "last_modified": "Wed, 05 Nov 2025 12:35:17 GMT",
+  "freshness_age_days": 202,
+  "score": 28,
+  "grade": "F",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 4,
+      "reasons": [
+        "multi_h1_27",
+        "no_blockquote_summary",
+        "no_structure",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 0,
+      "reasons": [
+        "thin_sectioning",
+        "few_value_links",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 3,
+      "reasons": [
+        "stale_202_days"
+      ],
+      "age_days": 202,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 2,
+      "reasons": [
+        "oversized_116kb"
+      ],
+      "kb": 115.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "llms.txt - A&D Logomat",
+    "h1_count": 27,
+    "blockquote": null,
+    "section_count": 0,
+    "subsection_count": 0,
+    "link_count": 0,
+    "value_link_count": 0,
+    "low_value_link_count": 0,
+    "raw_bytes": 118471
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

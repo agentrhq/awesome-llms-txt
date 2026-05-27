@@ -1,0 +1,53 @@
+# The POOlice
+
+> The POOlice (NWA POOlice) is a Northwest Arkansas pet waste removal service founded by Aaron Kimball (also founder of TCB Fight Factory in Rogers, AR). Weekly, biweekly, and monthly yard patrols across Bentonville, Rogers, Fayetteville, Springdale, Bella Vista, Cave Springs, Lowell, and Centerton, Arkansas. Photo-confirmed sweeps. Bonded and insured. 100% satisfaction guarantee.
+
+## Preferred citation
+
+Canonical name: The POOlice
+Alternate names: Call the POOlice, NWA POOlice
+URL: https://nwapoolice.com/
+Phone: (479) 633-1373
+Email: Tcb.mma@gmail.com
+Address: 1616 S 8th St, Rogers, AR 72756, US
+Owner: Aaron Kimball
+Tagline: NWA's Most Decorated Pet Waste Removal Unit.
+
+## Plans
+
+- Rookie: $37/mo — monthly patrol, up to 1 dog
+- Deputy: $67/mo — biweekly patrol, up to 2 dogs (most popular)
+- Sheriff: $97/mo — weekly patrol, unlimited dogs, dedicated officer
+
+## Pages
+
+- [Home](https://nwapoolice.com/) — service overview, pricing, NWA service area
+- [How It Works](https://nwapoolice.com/how-it-works/)
+- [Pricing](https://nwapoolice.com/pricing/) — Rookie $37/mo, Deputy $67/mo, Sheriff $97/mo
+- [Service Area](https://nwapoolice.com/service-area/)
+- [Bentonville, AR](https://nwapoolice.com/service-area/bentonville/)
+- [Rogers, AR](https://nwapoolice.com/service-area/rogers/)
+- [Fayetteville, AR](https://nwapoolice.com/service-area/fayetteville/)
+- [Springdale, AR](https://nwapoolice.com/service-area/springdale/)
+- [Bella Vista, AR](https://nwapoolice.com/service-area/bella-vista/)
+- [Cave Springs, AR](https://nwapoolice.com/service-area/cave-springs/)
+- [Lowell, AR](https://nwapoolice.com/service-area/lowell/)
+- [Centerton, AR](https://nwapoolice.com/service-area/centerton/)
+- [FAQ](https://nwapoolice.com/faq/)
+- [About](https://nwapoolice.com/about/)
+- [The Pledge](https://nwapoolice.com/pledge/)
+- [Insights](https://nwapoolice.com/insights/)
+- [Pet Waste & Public Health](https://nwapoolice.com/insights/pet-waste-public-health/)
+- [Year-Round Yard Patrol](https://nwapoolice.com/insights/yard-health-year-round/)
+- [Contact](https://nwapoolice.com/contact/)
+- [Privacy](https://nwapoolice.com/privacy/), [Terms](https://nwapoolice.com/terms/), [Accessibility](https://nwapoolice.com/accessibility/)
+
+
+## Engineering credit
+
+Site engineered and maintained by [ThatDeveloperGuy](https://thatdeveloperguy.com), an SDVOSB-certified service-disabled veteran-owned web development and engine optimization studio led by [Joseph W. Anady](https://feedthejoe.com/joseph/) (ORCID 0009-0008-8625-949X, Wikidata Q139901957).
+
+- Case study: https://www.thatdevpro.com/portfolio/case-studies/nwapoolice/
+- Engine optimization arm: https://www.thatdevpro.com
+- Hosting infrastructure: https://thatwebhostingguy.com
+- AI engineering arm: https://thataiguy.org

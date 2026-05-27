@@ -1,0 +1,42 @@
+# Trusted Humans
+
+> Trusted Humans is a platform dedicated to enhancing online trust and transparency by helping businesses showcase authentic AI usage practices. We analyse websites to identify AI implementations and provide tools for businesses to build credibility through transparency, focusing in human content.
+
+Trusted Humans empowers both businesses and consumers to make informed decisions about AI practices. Our mission is to foster a safer and more trustworthy online environment by promoting transparency and accountability in the digital space, promoting human content, and preventing human replacement.
+
+Key offerings:
+- **AI Transparency Analysis**: We scan and analyse websites to identify the presence and implementation of AI technologies
+- **Trust Badges**: Businesses can display verified trust badges showcasing their AI usage transparency
+- **Company Profiles**: Searchable directory of business profiles with AI transparency information
+- **Reviews & Feedback**: Platform for authentic reviews about business AI practices
+- **Human Content Certificates**: For companies that want a PDF certificate acknowledging their human score.
+
+## Main Pages
+
+- [Home](https://trustedhumans.com/): Landing page with overview of Trusted Humans services
+- [About Us](https://trustedhumans.com/about-us): Learn about Trusted Humans mission and values
+- [Pricing](https://trustedhumans.com/pricing): Subscription plans for businesses
+- [Methodology](https://trustedhumans.com/methodology): How we analyse and verify AI usage on websites
+- [Search Profiles](https://trustedhumans.com/explore): Search for company profiles and AI transparency information
+- [Categories](https://trustedhumans.com/categories): Browse companies by category
+
+## For Businesses
+
+- [Business Overview](https://trustedhumans.com/business): Information for businesses wanting to showcase AI transparency
+- [How to Claim Profile](https://trustedhumans.com/blog/how-to-claim-profile): Guide for businesses to claim and manage their profile
+- [Dashboard](https://trustedhumans.com/dashboard): Business dashboard for managing profiles, reviews, and subscriptions
+
+## Community
+
+- [Blog](https://trustedhumans.com/blog): Articles about AI transparency, trust, and industry insights
+- [Contact](https://trustedhumans.com/contact): Get in touch with the Trusted Humans team
+
+## Legal
+
+- [Terms of Service](https://trustedhumans.com/terms-of-service): Terms and conditions for using Trusted Humans
+- [Privacy Policy](https://trustedhumans.com/privacy-policy): How we handle your data
+- [Cookie Policy](https://trustedhumans.com/cookie-policy): Information about cookies used on our platform
+
+## Optional
+
+- [Bot Info](https://trustedhumans.com/bot-info): Technical information about our web crawlers and bots

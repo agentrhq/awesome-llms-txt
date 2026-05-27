@@ -1,0 +1,510 @@
+# Junction
+
+## Docs
+
+- [Junction API](https://docs.junction.com/api-details/junction-api.md): Overview of the Junction API including production and sandbox environments, regional endpoints, authentication methods, and core API capabilities.
+- [Junction Management API](https://docs.junction.com/api-details/junction-management-api.md): Use the Junction Management API to programmatically manage organization resources like teams, members, API keys, and ETL pipelines.
+- [Rate Limiting](https://docs.junction.com/api-details/rate_limiting.md): Learn about Junction API rate limiting behavior, HTTP 429 and 503 responses under server load, and targeted limits on specific endpoints.
+- [Regions](https://docs.junction.com/api-details/regions.md): Understand how Junction stores data regionally in either the US (HIPAA compliant) or EU (GDPR compliant), and how organizations span multiple regions.
+- [Raw](https://docs.junction.com/api-reference/data/activity/get-raw.md): Retrieve raw activity data for a specific user as received from their connected wearable provider.
+- [Summary](https://docs.junction.com/api-reference/data/activity/get-summary.md): Retrieve processed activity summary data for a specific user, including steps, calories, and distance metrics.
+- [Raw](https://docs.junction.com/api-reference/data/body/get-raw.md): Retrieve raw body composition data for a specific user as received from their connected wearable provider.
+- [Summary](https://docs.junction.com/api-reference/data/body/get-summary.md): Retrieve processed body summary data for a specific user, including weight, body fat, and BMI measurements.
+- [Get User Device](https://docs.junction.com/api-reference/data/device/get-device.md): Retrieve user device via the Junction API. Requires authentication with your team API key.
+- [Get User Devices](https://docs.junction.com/api-reference/data/device/get-devices.md): Retrieve user devices via the Junction API. Requires authentication with your team API key.
+- [Summary](https://docs.junction.com/api-reference/data/electrocardiogram/get-summary.md): Retrieve electrocardiogram summary data for a specific user from their connected wearable provider.
+- [Get historical pulls](https://docs.junction.com/api-reference/data/introspection/historical-pulls.md): List historical data pull records to track the progress and status of initial data backfills for connected providers.
+- [Get user resources](https://docs.junction.com/api-reference/data/introspection/user-resources.md): List available data resources for the authenticated user, showing which providers and data types are accessible.
+- [Summary](https://docs.junction.com/api-reference/data/meal/get-summary.md): Retrieve meal and nutrition summary data for a specific user from their connected tracking provider.
+- [Summary](https://docs.junction.com/api-reference/data/menstrual-cycle/get-summary.md): Retrieve menstrual cycle tracking summary data for a specific user from their connected wearable provider.
+- [Raw](https://docs.junction.com/api-reference/data/profile/get-raw.md): Retrieve raw user profile data as received from their connected wearable provider without processing.
+- [Summary](https://docs.junction.com/api-reference/data/profile/get-summary.md): Retrieve the processed user profile data from their connected wearable provider, including demographics and preferences.
+- [Summary](https://docs.junction.com/api-reference/data/sleep-cycle/get-summary.md): Retrieve sleep cycle analysis data for a specific user, including sleep stage breakdowns and cycle metrics.
+- [Raw](https://docs.junction.com/api-reference/data/sleep/get-raw.md): Retrieve raw sleep data for a specific user as received from their connected wearable provider.
+- [Summary](https://docs.junction.com/api-reference/data/sleep/get-summary.md): Retrieve processed sleep summary data for a specific user, including duration, efficiency, and quality scores.
+- [Afib Burden](https://docs.junction.com/api-reference/data/timeseries/afib-burden.md)
+- [Basal Body Temperature](https://docs.junction.com/api-reference/data/timeseries/basal-body-temperature.md)
+- [Blood Oxygen](https://docs.junction.com/api-reference/data/timeseries/blood-oxygen.md)
+- [Blood Pressure](https://docs.junction.com/api-reference/data/timeseries/blood-pressure.md)
+- [Body Fat](https://docs.junction.com/api-reference/data/timeseries/body-fat.md)
+- [Body Mass Index](https://docs.junction.com/api-reference/data/timeseries/body-mass-index.md)
+- [Body Temperature](https://docs.junction.com/api-reference/data/timeseries/body-temperature.md)
+- [Body Temperature Delta](https://docs.junction.com/api-reference/data/timeseries/body-temperature-delta.md)
+- [Body Weight](https://docs.junction.com/api-reference/data/timeseries/body-weight.md)
+- [Caffeine](https://docs.junction.com/api-reference/data/timeseries/caffeine.md)
+- [Calories Active](https://docs.junction.com/api-reference/data/timeseries/calories-active.md)
+- [Calories Basal](https://docs.junction.com/api-reference/data/timeseries/calories-basal.md)
+- [Carbohydrates](https://docs.junction.com/api-reference/data/timeseries/carbohydrates.md)
+- [Daylight Exposure](https://docs.junction.com/api-reference/data/timeseries/daylight-exposure.md)
+- [Distance](https://docs.junction.com/api-reference/data/timeseries/distance.md)
+- [Electrocardiogram Voltage](https://docs.junction.com/api-reference/data/timeseries/electrocardiogram-voltage.md)
+- [Fall](https://docs.junction.com/api-reference/data/timeseries/fall.md)
+- [Floors Climbed](https://docs.junction.com/api-reference/data/timeseries/floors-climbed.md)
+- [Forced Expiratory Volume 1](https://docs.junction.com/api-reference/data/timeseries/forced-expiratory-volume-1.md)
+- [Forced Vital Capacity](https://docs.junction.com/api-reference/data/timeseries/forced-vital-capacity.md)
+- [Glucose](https://docs.junction.com/api-reference/data/timeseries/glucose.md)
+- [Handwashing](https://docs.junction.com/api-reference/data/timeseries/handwashing.md)
+- [Heart Rate Alert](https://docs.junction.com/api-reference/data/timeseries/heart-rate-alert.md)
+- [Heart Rate Recovery One Minute](https://docs.junction.com/api-reference/data/timeseries/heart-rate-recovery-one-minute.md)
+- [Heart Rate](https://docs.junction.com/api-reference/data/timeseries/heartrate.md)
+- [Heart Rate Variability](https://docs.junction.com/api-reference/data/timeseries/hrv.md)
+- [Inhaler Usage](https://docs.junction.com/api-reference/data/timeseries/inhaler-usage.md)
+- [Insulin Injection](https://docs.junction.com/api-reference/data/timeseries/insulin-injection.md)
+- [Lean Body Mass](https://docs.junction.com/api-reference/data/timeseries/lean-body-mass.md)
+- [Mindfulness Minutes](https://docs.junction.com/api-reference/data/timeseries/mindfulness-minutes.md)
+- [Note](https://docs.junction.com/api-reference/data/timeseries/note.md)
+- [Peak Expiratory Flow Rate](https://docs.junction.com/api-reference/data/timeseries/peak-expiratory-flow-rate.md)
+- [Respiratory Rate](https://docs.junction.com/api-reference/data/timeseries/respiratory-rate.md)
+- [Sleep Apnea Alert](https://docs.junction.com/api-reference/data/timeseries/sleep-apnea-alert.md)
+- [Sleep Breathing Disturbance](https://docs.junction.com/api-reference/data/timeseries/sleep-breathing-disturbance.md)
+- [Stand Duration](https://docs.junction.com/api-reference/data/timeseries/stand-duration.md)
+- [Stand Hour](https://docs.junction.com/api-reference/data/timeseries/stand-hour.md)
+- [Steps](https://docs.junction.com/api-reference/data/timeseries/steps.md)
+- [Stress Level](https://docs.junction.com/api-reference/data/timeseries/stress-level.md)
+- [Uv Exposure](https://docs.junction.com/api-reference/data/timeseries/uv-exposure.md)
+- [Vo2 Max](https://docs.junction.com/api-reference/data/timeseries/vo2-max.md)
+- [Waist Circumference](https://docs.junction.com/api-reference/data/timeseries/waist-circumference.md)
+- [Water](https://docs.junction.com/api-reference/data/timeseries/water.md)
+- [Wheelchair Push](https://docs.junction.com/api-reference/data/timeseries/wheelchair-push.md)
+- [Workout Distance](https://docs.junction.com/api-reference/data/timeseries/workout-distance.md)
+- [Workout Duration](https://docs.junction.com/api-reference/data/timeseries/workout-duration.md)
+- [Workout Swimming Stroke](https://docs.junction.com/api-reference/data/timeseries/workout-swimming-stroke.md)
+- [Raw](https://docs.junction.com/api-reference/data/workouts/get-raw.md): Retrieve raw workout data for a specific user as received from their connected wearable provider.
+- [Stream](https://docs.junction.com/api-reference/data/workouts/get-stream.md): Retrieve timeseries workouts stream via the Junction API. Requires authentication with your team API key.
+- [Summary](https://docs.junction.com/api-reference/data/workouts/get-summary.md): Retrieve processed workout summary data for a specific user, including type, duration, and calorie metrics.
+- [Get ABN Form PDF](https://docs.junction.com/api-reference/lab-testing/abn-pdf.md): Retrieve order abn pdf via the Junction API. Requires authentication with your team API key.
+- [Get area info](https://docs.junction.com/api-reference/lab-testing/area-info.md): Retrieve order area info via the Junction API. Requires authentication with your team API key.
+- [Create appointment availability](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-availability.md): Create or submit order phlebotomy appointment availability via the Junction API. Requires authentication with your team API key.
+- [Create appointment book](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-booking.md): Create or submit order phlebotomy appointment book via the Junction API. Requires authentication with your team API key.
+- [Get appointment cancellation reasons](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-cancellation-reasons.md): Retrieve order phlebotomy appointment cancellation reasons via the Junction API. Requires authentication with your team API key.
+- [Cancel appointment](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-cancelling.md): Cancel an order phlebotomy appointment via the Junction API. Requires authentication with your team API key.
+- [Create appointment request](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-request.md): Create or submit order phlebotomy appointment request via the Junction API. Requires authentication with your team API key.
+- [Update appointment reschedule](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/appointment-rescheduling.md): Partially update order phlebotomy appointment reschedule via the Junction API. Requires authentication with your team API key.
+- [Get phlebotomy appointment](https://docs.junction.com/api-reference/lab-testing/at-home-phlebotomy/get-appointment.md): Retrieve order phlebotomy appointment via the Junction API. Requires authentication with your team API key.
+- [Get Available Biomarkers](https://docs.junction.com/api-reference/lab-testing/biomarkers.md): Retrieve lab tests markers via the Junction API. Requires authentication with your team API key.
+- [Cancel order (legacy)](https://docs.junction.com/api-reference/lab-testing/cancel-order.md): Cancel an order via the Junction API. Requires authentication with your team API key.
+- [Compendium Convert](https://docs.junction.com/api-reference/lab-testing/compendium/convert.md): Create or submit compendium convert via the Junction API. Requires authentication with your team API key.
+- [Compendium Search](https://docs.junction.com/api-reference/lab-testing/compendium/search.md): Create or submit compendium search via the Junction API. Requires authentication with your team API key.
+- [Create order](https://docs.junction.com/api-reference/lab-testing/create-order.md): Create or submit order via the Junction API. Requires authentication with your team API key.
+- [Create Unregistered Testkit Order](https://docs.junction.com/api-reference/lab-testing/create-unregistered-order.md): Create or submit order testkit via the Junction API. Requires authentication with your team API key.
+- [Get Lab Test](https://docs.junction.com/api-reference/lab-testing/get-lab-test.md): Retrieve lab tests via the Junction API. Requires authentication with your team API key.
+- [Get order](https://docs.junction.com/api-reference/lab-testing/get-order.md): Retrieve order via the Junction API. Requires authentication with your team API key.
+- [Get orders](https://docs.junction.com/api-reference/lab-testing/get-orders.md): Retrieve orders via the Junction API. Requires authentication with your team API key.
+- [Get Team Physicians](https://docs.junction.com/api-reference/lab-testing/get-team-physicians.md): Retrieve the list of physicians associated with a team. Requires authentication with your team API key.
+- [Import Order](https://docs.junction.com/api-reference/lab-testing/import-order.md): Create or submit order import via the Junction API. Requires authentication with your team API key.
+- [Create Payor](https://docs.junction.com/api-reference/lab-testing/insurance/create-payor.md): Create or submit payor via the Junction API. Requires authentication with your team API key.
+- [Get search diagnosis](https://docs.junction.com/api-reference/lab-testing/insurance/search-diagnosis.md): Retrieve insurance search diagnosis via the Junction API. Requires authentication with your team API key.
+- [Get search payor](https://docs.junction.com/api-reference/lab-testing/insurance/search-payor-get.md): Retrieve insurance search payor via the Junction API. Requires authentication with your team API key.
+- [Get Lab Report Parser Job](https://docs.junction.com/api-reference/lab-testing/lab-report-parsing/get-lab-report-parser-job.md): Retrieve lab report parser job via the Junction API. Requires authentication with your team API key.
+- [Create Lab Report Parser Job](https://docs.junction.com/api-reference/lab-testing/lab-report-parsing/post-lab-report-parser-job.md): Create or submit lab report parser job via the Junction API. Requires authentication with your team API key.
+- [Get Collection Instructions PDF for Lab Test](https://docs.junction.com/api-reference/lab-testing/lab-test-collection-instructions-pdf.md): Retrieve lab test collection instructions PDF via the Junction API. Requires authentication with your team API key.
+- [Get Markers for Lab Test](https://docs.junction.com/api-reference/lab-testing/lab-test-markers.md): Retrieve lab tests markers via the Junction API. Requires authentication with your team API key.
+- [Get Lab Accounts](https://docs.junction.com/api-reference/lab-testing/lab_accounts.md): Retrieve lab test lab account via the Junction API. Requires authentication with your team API key.
+- [Get Labels PDF](https://docs.junction.com/api-reference/lab-testing/labels-pdf.md): Retrieve order labels pdf via the Junction API. Requires authentication with your team API key.
+- [Get All Available Labs](https://docs.junction.com/api-reference/lab-testing/labs.md): Retrieve lab tests labs via the Junction API. Requires authentication with your team API key.
+- [Get Collection Instructions PDF for Order](https://docs.junction.com/api-reference/lab-testing/order-collection-instructions-pdf.md): Retrieve order collection instructions PDF via the Junction API. Requires authentication with your team API key.
+- [Get order PSC info](https://docs.junction.com/api-reference/lab-testing/order-psc-info.md): Retrieve order psc info via the Junction API. Requires authentication with your team API key.
+- [Get Markers for Order Set](https://docs.junction.com/api-reference/lab-testing/order-set-marker.md): Create or submit lab tests list order set markers via the Junction API. Requires authentication with your team API key.
+- [Get order transaction](https://docs.junction.com/api-reference/lab-testing/order-transactions/get-order-transaction.md): Retrieve order transaction via the Junction API. Requires authentication with your team API key.
+- [Update a Test](https://docs.junction.com/api-reference/lab-testing/patch-lab-test.md): Partially update lab tests via the Junction API. Requires authentication with your team API key.
+- [Update an order](https://docs.junction.com/api-reference/lab-testing/patch-order.md): Update an order via the Junction API. Requires authentication with your team API key.
+- [Create a Test](https://docs.junction.com/api-reference/lab-testing/post-test.md): Create or submit lab tests via the Junction API. Requires authentication with your team API key.
+- [Get psc info](https://docs.junction.com/api-reference/lab-testing/psc-info.md): Retrieve order psc info via the Junction API. Requires authentication with your team API key.
+- [PSC Appointment Availability](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/appointment-psc-availability.md): Create or submit order psc appointment availability via the Junction API. Requires authentication with your team API key.
+- [Book PSC Appointment](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/appointment-psc-booking.md): Create or submit order psc appointment book via the Junction API. Requires authentication with your team API key.
+- [PSC Appointment Cancellation Reasons](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/appointment-psc-cancellation-reasons.md): Retrieve order psc appointment cancellation-reasons via the Junction API. Requires authentication with your team API key.
+- [Cancel PSC Appointment](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/appointment-psc-cancelling.md): Partially update order psc appointment cancel via the Junction API. Requires authentication with your team API key.
+- [Reschedule PSC Appointment](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/appointment-psc-rescheduling.md): Partially update order psc appointment reschedule via the Junction API. Requires authentication with your team API key.
+- [Get PSC Appointment](https://docs.junction.com/api-reference/lab-testing/psc-scheduling/get-psc-appointment.md): Retrieve order psc appointment via the Junction API. Requires authentication with your team API key.
+- [Register Testkit Order](https://docs.junction.com/api-reference/lab-testing/register-order.md): Create or submit order testkit register via the Junction API. Requires authentication with your team API key.
+- [Get Requisition Form PDF](https://docs.junction.com/api-reference/lab-testing/requisition-pdf.md): Retrieve order requisition pdf via the Junction API. Requires authentication with your team API key.
+- [Resend order webhooks](https://docs.junction.com/api-reference/lab-testing/resend-order-events.md): Replay the latest webhook event for one or more orders via the Junction API.
+- [Get Order Transaction Results](https://docs.junction.com/api-reference/lab-testing/results/get-order-transaction-results.md): Retrieve order transaction result via the Junction API. Requires authentication with your team API key.
+- [Get Order Transaction Results PDF](https://docs.junction.com/api-reference/lab-testing/results/get-order-transaction-results-pdf.md): Retrieve order transaction result pdf via the Junction API. Requires authentication with your team API key.
+- [Get Results](https://docs.junction.com/api-reference/lab-testing/results/get-results.md): Retrieve order result via the Junction API. Requires authentication with your team API key.
+- [Get Results Metadata](https://docs.junction.com/api-reference/lab-testing/results/get-results-metadata.md): Retrieve order result metadata via the Junction API. Requires authentication with your team API key.
+- [Get Results PDF](https://docs.junction.com/api-reference/lab-testing/results/get-results-pdf.md): Retrieve order result pdf via the Junction API. Requires authentication with your team API key.
+- [Simulate Order](https://docs.junction.com/api-reference/lab-testing/simulate-order.md): Create or submit order test via the Junction API. Requires authentication with your team API key.
+- [Get Available Tests](https://docs.junction.com/api-reference/lab-testing/tests.md): Retrieve lab tests via the Junction API. Requires authentication with your team API key.
+- [Get Available Tests](https://docs.junction.com/api-reference/lab-testing/tests-paginated.md): Retrieve lab test via the Junction API. Requires authentication with your team API key.
+- [Update Order Draw Completed](https://docs.junction.com/api-reference/lab-testing/update-order-draw-completed.md): Partially update order draw completed via the Junction API. Requires authentication with your team API key.
+- [Bulk Export](https://docs.junction.com/api-reference/link/bulk-export.md): Create or submit link bulk export via the Junction API. Requires authentication with your team API key.
+- [Bulk Import](https://docs.junction.com/api-reference/link/bulk-import.md): Create or submit link bulk import via the Junction API. Requires authentication with your team API key.
+- [Bulk Pause](https://docs.junction.com/api-reference/link/bulk-pause.md): Create or submit link bulk pause via the Junction API. Requires authentication with your team API key.
+- [Bulk Trigger Historical Pull](https://docs.junction.com/api-reference/link/bulk-trigger-historical-pull.md): Create or submit link bulk trigger historical pull via the Junction API. Requires authentication with your team API key.
+- [Complete Password Provider MFA](https://docs.junction.com/api-reference/link/complete-password-provider-mfa.md): Create or submit link provider password complete mfa via the Junction API. Requires authentication with your team API key.
+- [Create Code](https://docs.junction.com/api-reference/link/create-code.md): Create or submit link code create via the Junction API. Requires authentication with your team API key.
+- [Generate a link token](https://docs.junction.com/api-reference/link/generate-link-token.md): Create or submit link token via the Junction API. Requires authentication with your team API key.
+- [Link Demo provider](https://docs.junction.com/api-reference/link/link-demo-provider.md): Create or submit link connect demo via the Junction API. Requires authentication with your team API key.
+- [Link Email provider](https://docs.junction.com/api-reference/link/link-email-provider.md): Create or submit link provider email via the Junction API. Requires authentication with your team API key.
+- [Link OAuth provider](https://docs.junction.com/api-reference/link/link-oauth-provider.md): Retrieve link provider OAuth via the Junction API. Requires authentication with your team API key.
+- [Link Password provider](https://docs.junction.com/api-reference/link/link-password-provider.md): Create or submit link provider password via the Junction API. Requires authentication with your team API key.
+- [List Bulk Ops](https://docs.junction.com/api-reference/link/list-bulk-ops.md): Retrieve link bulk op via the Junction API. Requires authentication with your team API key.
+- [Create or Resend Invite](https://docs.junction.com/api-reference/org-management/invite/create-or-resend-invite.md): Post org invite via the Junction API. Requires authentication with your team API key.
+- [List Invites](https://docs.junction.com/api-reference/org-management/invite/list-invites.md): Get org invite via the Junction API. Requires authentication with your team API key.
+- [Revoke Invite](https://docs.junction.com/api-reference/org-management/invite/revoke-invite.md): Delete org invite via the Junction API. Requires authentication with your team API key.
+- [Get Lab Accounts](https://docs.junction.com/api-reference/org-management/lab-accounts/get-lab-accounts.md): Get org lab account via the Junction API. Requires authentication with your team API key.
+- [Update Lab Account Teams](https://docs.junction.com/api-reference/org-management/lab-accounts/update-lab-account-teams.md): Patch org lab account via the Junction API. Requires authentication with your team API key.
+- [Create Management Key](https://docs.junction.com/api-reference/org-management/management-keys/create-management-key.md): Post org management key via the Junction API. Requires authentication with your team API key.
+- [Delete Management Key](https://docs.junction.com/api-reference/org-management/management-keys/delete-management-key.md): Delete org management key via the Junction API. Requires authentication with your team API key.
+- [List Management Keys](https://docs.junction.com/api-reference/org-management/management-keys/list-management-keys.md): Get org management key via the Junction API. Requires authentication with your team API key.
+- [List Members](https://docs.junction.com/api-reference/org-management/member/list-members.md): Get org member via the Junction API. Requires authentication with your team API key.
+- [Delete Member](https://docs.junction.com/api-reference/org-management/member/remove-member.md): Delete org member via the Junction API. Requires authentication with your team API key.
+- [Get Org](https://docs.junction.com/api-reference/org-management/org/get-org.md): Get org via the Junction API. Requires authentication with your team API key.
+- [Patch Org](https://docs.junction.com/api-reference/org-management/org/update-org.md): Patch org via the Junction API. Requires authentication with your team API key.
+- [Create Team API Key](https://docs.junction.com/api-reference/org-management/team-api-keys/create-team-api-key.md): Post org team API keys via the Junction API. Requires authentication with your team API key.
+- [Delete Team API Keys](https://docs.junction.com/api-reference/org-management/team-api-keys/delete-team-api-keys.md): Delete org team API keys via the Junction API. Requires authentication with your team API key.
+- [List Team API Keys](https://docs.junction.com/api-reference/org-management/team-api-keys/list-team-api-keys.md): Get org team API keys via the Junction API. Requires authentication with your team API key.
+- [Delete Org Team Custom Credentials](https://docs.junction.com/api-reference/org-management/team-custom-credentials/delete-team-custom-credentials.md): Delete org team custom credentials via the Junction API. Requires authentication with your team API key.
+- [Get Org Team Custom Credentials](https://docs.junction.com/api-reference/org-management/team-custom-credentials/get-team-custom-credentials.md): Get org team custom credentials via the Junction API. Requires authentication with your team API key.
+- [Create Org Prepare Team Custom Credentials](https://docs.junction.com/api-reference/org-management/team-custom-credentials/prepare-team-custom-credentials.md): Create or submit org prepare team custom credentials via the Junction API. Requires authentication with your team API key.
+- [Set Team Custom Credentials](https://docs.junction.com/api-reference/org-management/team-custom-credentials/upsert-team-custom-credentials.md): Post org team custom credentials via the Junction API. Requires authentication with your team API key.
+- [Delete Team Data Pull Preferences](https://docs.junction.com/api-reference/org-management/team-data-pull-preferences/delete-team-data-pull-preferences.md): Delete org team data pull preferences via the Junction API. Requires authentication with your team API key.
+- [Get Team Data Pull Preferences](https://docs.junction.com/api-reference/org-management/team-data-pull-preferences/get-team-data-pull-preferences.md): Get org team data pull preferences via the Junction API. Requires authentication with your team API key.
+- [Post Team Data Pull Preferences](https://docs.junction.com/api-reference/org-management/team-data-pull-preferences/upsert-team-data-pull-preferences.md): Post org team data pull preferences via the Junction API. Requires authentication with your team API key.
+- [Delete Team ETL Pipelines](https://docs.junction.com/api-reference/org-management/team-etl-pipeline/delete-team-etl-pipelines.md): Delete org team ETL pipelines via the Junction API. Requires authentication with your team API key.
+- [Get Team ETL Pipelines](https://docs.junction.com/api-reference/org-management/team-etl-pipeline/get-team-etl-pipelines.md): Get org team ETL pipelines via the Junction API. Requires authentication with your team API key.
+- [Set Team ETL Pipelines](https://docs.junction.com/api-reference/org-management/team-etl-pipeline/upsert-team-etl-pipelines.md): Post org team ETL pipelines via the Junction API. Requires authentication with your team API key.
+- [Get Team Scope Requirements](https://docs.junction.com/api-reference/org-management/team-scope-requirements/get-team-scope-requirements.md): Get org team scope requirements via the Junction API. Requires authentication with your team API key.
+- [Set Team Scope Requirements](https://docs.junction.com/api-reference/org-management/team-scope-requirements/upsert-team-scope-requirements.md): Post org team scope requirements via the Junction API. Requires authentication with your team API key.
+- [Create Webhook](https://docs.junction.com/api-reference/org-management/team-webhook/create.md): Post org team webhook via the Junction API. Requires authentication with your team API key.
+- [Delete Webhook](https://docs.junction.com/api-reference/org-management/team-webhook/delete.md): Delete org team webhook via the Junction API. Requires authentication with your team API key.
+- [Get Webhook](https://docs.junction.com/api-reference/org-management/team-webhook/get.md): Get org team webhook via the Junction API. Requires authentication with your team API key.
+- [Get Webhook Headers](https://docs.junction.com/api-reference/org-management/team-webhook/get-headers.md): Get org team webhook headers via the Junction API. Requires authentication with your team API key.
+- [Get Webhook Secret](https://docs.junction.com/api-reference/org-management/team-webhook/get-secret.md): Get org team webhook secret via the Junction API. Requires authentication with your team API key.
+- [List Webhooks](https://docs.junction.com/api-reference/org-management/team-webhook/list.md): Get org team webhook via the Junction API. Requires authentication with your team API key.
+- [Patch Webhook](https://docs.junction.com/api-reference/org-management/team-webhook/patch.md): Patch org team webhook via the Junction API. Requires authentication with your team API key.
+- [Rotate Webhook Secret](https://docs.junction.com/api-reference/org-management/team-webhook/rotate-secret.md): Post org team webhook secret rotate via the Junction API. Requires authentication with your team API key.
+- [Update Webhook Headers](https://docs.junction.com/api-reference/org-management/team-webhook/update-headers.md): Put org team webhook headers via the Junction API. Requires authentication with your team API key.
+- [Create Team](https://docs.junction.com/api-reference/org-management/team/create-team.md): Post org team via the Junction API. Requires authentication with your team API key.
+- [Delete Team](https://docs.junction.com/api-reference/org-management/team/delete-team.md): Delete org team via the Junction API. Requires authentication with your team API key.
+- [Get Team](https://docs.junction.com/api-reference/org-management/team/get-team.md): Get org team via the Junction API. Requires authentication with your team API key.
+- [List Teams](https://docs.junction.com/api-reference/org-management/team/list-teams.md): Get org team via the Junction API. Requires authentication with your team API key.
+- [Update Team](https://docs.junction.com/api-reference/org-management/team/update-team.md): Patch org team via the Junction API. Requires authentication with your team API key.
+- [List of Providers](https://docs.junction.com/api-reference/providers.md): Retrieve providers via the Junction API. Requires authentication with your team API key.
+- [Create a Continuous Query](https://docs.junction.com/api-reference/sense/continuous-query/create.md): Post org team continuous query via the Junction API. Requires authentication with your team API key.
+- [Get User Result Table](https://docs.junction.com/api-reference/sense/continuous-query/get-result-table.md): Get aggregate user continuous query result table via the Junction API. Requires authentication with your team API key.
+- [Get Continuous Query Task History](https://docs.junction.com/api-reference/sense/continuous-query/get-task-history.md): Get aggregate user continuous query task history via the Junction API. Requires authentication with your team API key.
+- [List all Continuous Queries](https://docs.junction.com/api-reference/sense/continuous-query/list.md): Get org team continuous queries via the Junction API. Requires authentication with your team API key.
+- [Update a Continuous Query](https://docs.junction.com/api-reference/sense/continuous-query/update.md): Patch org team continuous query via the Junction API. Requires authentication with your team API key.
+- [Query a single user](https://docs.junction.com/api-reference/sense/query-one.md): Post aggregate user query via the Junction API. Requires authentication with your team API key.
+- [Create user insurance](https://docs.junction.com/api-reference/user/create-insurance-beta.md): Create or submit user insurance via the Junction API. Requires authentication with your team API key.
+- [Create Portal URL](https://docs.junction.com/api-reference/user/create-portal-url.md): Create a Portal URL for a user via the Junction API. Requires authentication with your team API key.
+- [Create Sign-In Token](https://docs.junction.com/api-reference/user/create-sign-in-token.md): Create or submit user sign in token via the Junction API. Requires authentication with your team API key.
+- [Create user](https://docs.junction.com/api-reference/user/create-user.md): Create or submit user via the Junction API. Requires authentication with your team API key.
+- [Delete user](https://docs.junction.com/api-reference/user/delete-user.md): Remove user via the Junction API. Requires authentication with your team API key.
+- [Deregister Connection](https://docs.junction.com/api-reference/user/deregister-a-provider.md): Deregister a provider connection via the Junction API. Requires authentication with your team API key.
+- [Get User Demographics](https://docs.junction.com/api-reference/user/get-info-latest.md): Retrieve user info latest via the Junction API. Requires authentication with your team API key.
+- [Get latest insurance](https://docs.junction.com/api-reference/user/get-latest-insurance.md): Retrieve user insurance latest via the Junction API. Requires authentication with your team API key.
+- [Get User](https://docs.junction.com/api-reference/user/get-user.md): Retrieve user via the Junction API. Requires authentication with your team API key.
+- [Get users](https://docs.junction.com/api-reference/user/get-users.md): Retrieve users via the Junction API. Requires authentication with your team API key.
+- [Get User Connections](https://docs.junction.com/api-reference/user/get-users-connected-providers.md): Retrieve user providers via the Junction API. Requires authentication with your team API key.
+- [Update user](https://docs.junction.com/api-reference/user/patch-user.md): Partially update user via the Junction API. Requires authentication with your team API key.
+- [Refresh User Data](https://docs.junction.com/api-reference/user/refresh-user-data.md): Create or submit user refresh via the Junction API. Requires authentication with your team API key.
+- [Get User by Client User ID](https://docs.junction.com/api-reference/user/resolve-user.md): Retrieve user resolve via the Junction API. Requires authentication with your team API key.
+- [Undo User Deletion](https://docs.junction.com/api-reference/user/undo-delete-user.md): Create or submit user undo delete via the Junction API. Requires authentication with your team API key.
+- [Update User Demographics](https://docs.junction.com/api-reference/user/upsert-info.md): Partially update user info via the Junction API. Requires authentication with your team API key.
+- [API](https://docs.junction.com/changelog/core/api.md): Changelog of core Junction API updates including lab test result interpretation, user ingestion bounds, and Sense query improvements.
+- [Dashboard](https://docs.junction.com/changelog/core/dashboard.md): Changelog of Junction Dashboard updates including compendium search, lab account selection, and patient demographics improvements.
+- [API](https://docs.junction.com/changelog/lab-testing/api.md): Changelog of Junction Lab Testing API updates including custom requisition comments, report parsing, and order management enhancements.
+- [Deprecations](https://docs.junction.com/changelog/lab-testing/deprecations.md): Deprecated features in the Junction Lab Testing API, including the lab_test_id field replaced by order_set in order creation.
+- [API](https://docs.junction.com/changelog/wearables/api.md): Changelog of Junction Wearables API updates including Sense readiness scores, WHERE clause support, and derived readiness query tables.
+- [Deprecations](https://docs.junction.com/changelog/wearables/deprecations.md): Deprecated features in the Junction Wearables API, including the hypnogram timeseries type and redefined Source/Provider terminology.
+- [Providers and Resources](https://docs.junction.com/changelog/wearables/providers.md): Changelog of wearable provider updates including Health SDK Explicit Connect mode, sync progress logs, and provider-specific improvements.
+- [Continuous Query Overview](https://docs.junction.com/continuous-query-overview.md): Automatically aggregate raw activity and biometric data from connected devices into structured datasets that update as new data arrives.
+- [continuous_query.result_table.changed](https://docs.junction.com/event-catalog/continuous_query.result_table.changed.md): Webhook event fired when a continuous query result table changes for a user.
+- [daily.data.activity.created](https://docs.junction.com/event-catalog/daily.data.activity.created.md): Webhook event fired when new daily activity data is available for a user from a connected provider.
+- [daily.data.activity.updated](https://docs.junction.com/event-catalog/daily.data.activity.updated.md): Webhook event fired when a user's existing daily activity data is updated by the provider.
+- [daily.data.basal_body_temperature.created](https://docs.junction.com/event-catalog/daily.data.basal_body_temperature.created.md): Webhook event fired when new daily basal body temperature data is available for a user from a connected provider.
+- [daily.data.basal_body_temperature.updated](https://docs.junction.com/event-catalog/daily.data.basal_body_temperature.updated.md): Webhook event fired when a user's existing daily basal body temperature data is updated by the provider.
+- [daily.data.blood_oxygen.created](https://docs.junction.com/event-catalog/daily.data.blood_oxygen.created.md): Webhook event fired when new daily blood oxygen data is available for a user from a connected provider.
+- [daily.data.blood_oxygen.updated](https://docs.junction.com/event-catalog/daily.data.blood_oxygen.updated.md): Webhook event fired when a user's existing daily blood oxygen data is updated by the provider.
+- [daily.data.blood_pressure.created](https://docs.junction.com/event-catalog/daily.data.blood_pressure.created.md): Webhook event fired when new daily blood pressure data is available for a user from a connected provider.
+- [daily.data.blood_pressure.updated](https://docs.junction.com/event-catalog/daily.data.blood_pressure.updated.md): Webhook event fired when a user's existing daily blood pressure data is updated by the provider.
+- [daily.data.body.created](https://docs.junction.com/event-catalog/daily.data.body.created.md): Webhook event fired when new daily body composition data is available for a user from a connected provider.
+- [daily.data.body.updated](https://docs.junction.com/event-catalog/daily.data.body.updated.md): Webhook event fired when a user's existing daily body composition data is updated by the provider.
+- [daily.data.body_mass_index.created](https://docs.junction.com/event-catalog/daily.data.body_mass_index.created.md): Webhook event fired when new daily body mass index (BMI) data is available for a user from a connected provider.
+- [daily.data.body_mass_index.updated](https://docs.junction.com/event-catalog/daily.data.body_mass_index.updated.md): Webhook event fired when a user's existing daily body mass index (BMI) data is updated by the provider.
+- [daily.data.body_temperature.created](https://docs.junction.com/event-catalog/daily.data.body_temperature.created.md): Webhook event fired when new daily body temperature data is available for a user from a connected provider.
+- [daily.data.body_temperature.updated](https://docs.junction.com/event-catalog/daily.data.body_temperature.updated.md): Webhook event fired when a user's existing daily body temperature data is updated by the provider.
+- [daily.data.body_temperature_delta.created](https://docs.junction.com/event-catalog/daily.data.body_temperature_delta.created.md): Webhook event fired when new daily body temperature delta data is available for a user from a connected provider.
+- [daily.data.body_temperature_delta.updated](https://docs.junction.com/event-catalog/daily.data.body_temperature_delta.updated.md): Webhook event fired when a user's existing daily body temperature delta data is updated by the provider.
+- [daily.data.caffeine.created](https://docs.junction.com/event-catalog/daily.data.caffeine.created.md): Webhook event fired when new daily caffeine intake data is available for a user from a connected provider.
+- [daily.data.caffeine.updated](https://docs.junction.com/event-catalog/daily.data.caffeine.updated.md): Webhook event fired when a user's existing daily caffeine intake data is updated by the provider.
+- [daily.data.calories_active.created](https://docs.junction.com/event-catalog/daily.data.calories_active.created.md): Webhook event fired when new daily active calories burned data is available for a user from a connected provider.
+- [daily.data.calories_active.updated](https://docs.junction.com/event-catalog/daily.data.calories_active.updated.md): Webhook event fired when a user's existing daily active calories burned data is updated by the provider.
+- [daily.data.calories_basal.created](https://docs.junction.com/event-catalog/daily.data.calories_basal.created.md): Webhook event fired when new daily basal calories burned data is available for a user from a connected provider.
+- [daily.data.calories_basal.updated](https://docs.junction.com/event-catalog/daily.data.calories_basal.updated.md): Webhook event fired when a user's existing daily basal calories burned data is updated by the provider.
+- [daily.data.carbohydrates.created](https://docs.junction.com/event-catalog/daily.data.carbohydrates.created.md): Webhook event fired when new daily carbohydrate intake data is available for a user from a connected provider.
+- [daily.data.carbohydrates.updated](https://docs.junction.com/event-catalog/daily.data.carbohydrates.updated.md): Webhook event fired when a user's existing daily carbohydrate intake data is updated by the provider.
+- [daily.data.daylight_exposure.created](https://docs.junction.com/event-catalog/daily.data.daylight_exposure.created.md): Webhook event fired when new daily daylight exposure data is available for a user from a connected provider.
+- [daily.data.daylight_exposure.updated](https://docs.junction.com/event-catalog/daily.data.daylight_exposure.updated.md): Webhook event fired when a user's existing daily daylight exposure data is updated by the provider.
+- [daily.data.distance.created](https://docs.junction.com/event-catalog/daily.data.distance.created.md): Webhook event fired when new daily distance traveled data is available for a user from a connected provider.
+- [daily.data.distance.updated](https://docs.junction.com/event-catalog/daily.data.distance.updated.md): Webhook event fired when a user's existing daily distance traveled data is updated by the provider.
+- [daily.data.electrocardiogram_voltage.created](https://docs.junction.com/event-catalog/daily.data.electrocardiogram_voltage.created.md): Webhook event fired when new daily electrocardiogram voltage data is available for a user from a connected provider.
+- [daily.data.electrocardiogram_voltage.updated](https://docs.junction.com/event-catalog/daily.data.electrocardiogram_voltage.updated.md): Webhook event fired when a user's existing daily electrocardiogram voltage data is updated by the provider.
+- [daily.data.fall.created](https://docs.junction.com/event-catalog/daily.data.fall.created.md): Webhook event fired when new daily fall detection data is available for a user from a connected provider.
+- [daily.data.fall.updated](https://docs.junction.com/event-catalog/daily.data.fall.updated.md): Webhook event fired when a user's existing daily fall detection data is updated by the provider.
+- [daily.data.fat.created](https://docs.junction.com/event-catalog/daily.data.fat.created.md): Webhook event fired when new daily fat intake data is available for a user from a connected provider.
+- [daily.data.fat.updated](https://docs.junction.com/event-catalog/daily.data.fat.updated.md): Webhook event fired when a user's existing daily fat intake data is updated by the provider.
+- [daily.data.floors_climbed.created](https://docs.junction.com/event-catalog/daily.data.floors_climbed.created.md): Webhook event fired when new daily floors climbed data is available for a user from a connected provider.
+- [daily.data.floors_climbed.updated](https://docs.junction.com/event-catalog/daily.data.floors_climbed.updated.md): Webhook event fired when a user's existing daily floors climbed data is updated by the provider.
+- [daily.data.forced_expiratory_volume_1.created](https://docs.junction.com/event-catalog/daily.data.forced_expiratory_volume_1.created.md): Webhook event fired when new daily forced expiratory volume (FEV1) data is available for a user from a connected provider.
+- [daily.data.forced_expiratory_volume_1.updated](https://docs.junction.com/event-catalog/daily.data.forced_expiratory_volume_1.updated.md): Webhook event fired when a user's existing daily forced expiratory volume (FEV1) data is updated by the provider.
+- [daily.data.forced_vital_capacity.created](https://docs.junction.com/event-catalog/daily.data.forced_vital_capacity.created.md): Webhook event fired when new daily forced vital capacity (FVC) data is available for a user from a connected provider.
+- [daily.data.forced_vital_capacity.updated](https://docs.junction.com/event-catalog/daily.data.forced_vital_capacity.updated.md): Webhook event fired when a user's existing daily forced vital capacity (FVC) data is updated by the provider.
+- [daily.data.glucose.created](https://docs.junction.com/event-catalog/daily.data.glucose.created.md): Webhook event fired when new daily blood glucose data is available for a user from a connected provider.
+- [daily.data.glucose.updated](https://docs.junction.com/event-catalog/daily.data.glucose.updated.md): Webhook event fired when a user's existing daily blood glucose data is updated by the provider.
+- [daily.data.handwashing.created](https://docs.junction.com/event-catalog/daily.data.handwashing.created.md): Webhook event fired when new daily handwashing data is available for a user from a connected provider.
+- [daily.data.handwashing.updated](https://docs.junction.com/event-catalog/daily.data.handwashing.updated.md): Webhook event fired when a user's existing daily handwashing data is updated by the provider.
+- [daily.data.heart_rate_recovery_one_minute.created](https://docs.junction.com/event-catalog/daily.data.heart_rate_recovery_one_minute.created.md): Webhook event fired when new daily one-minute heart rate recovery data is available for a user from a connected provider.
+- [daily.data.heart_rate_recovery_one_minute.updated](https://docs.junction.com/event-catalog/daily.data.heart_rate_recovery_one_minute.updated.md): Webhook event fired when a user's existing daily one-minute heart rate recovery data is updated by the provider.
+- [daily.data.heartrate.created](https://docs.junction.com/event-catalog/daily.data.heartrate.created.md): Webhook event fired when new daily heart rate data is available for a user from a connected provider.
+- [daily.data.heartrate.updated](https://docs.junction.com/event-catalog/daily.data.heartrate.updated.md): Webhook event fired when a user's existing daily heart rate data is updated by the provider.
+- [daily.data.hrv.created](https://docs.junction.com/event-catalog/daily.data.hrv.created.md): Webhook event fired when new daily heart rate variability (HRV) data is available for a user from a connected provider.
+- [daily.data.hrv.updated](https://docs.junction.com/event-catalog/daily.data.hrv.updated.md): Webhook event fired when a user's existing daily heart rate variability (HRV) data is updated by the provider.
+- [daily.data.inhaler_usage.created](https://docs.junction.com/event-catalog/daily.data.inhaler_usage.created.md): Webhook event fired when new daily inhaler usage data is available for a user from a connected provider.
+- [daily.data.inhaler_usage.updated](https://docs.junction.com/event-catalog/daily.data.inhaler_usage.updated.md): Webhook event fired when a user's existing daily inhaler usage data is updated by the provider.
+- [daily.data.insulin_injection.created](https://docs.junction.com/event-catalog/daily.data.insulin_injection.created.md): Webhook event fired when new daily insulin injection data is available for a user from a connected provider.
+- [daily.data.insulin_injection.updated](https://docs.junction.com/event-catalog/daily.data.insulin_injection.updated.md): Webhook event fired when a user's existing daily insulin injection data is updated by the provider.
+- [daily.data.lean_body_mass.created](https://docs.junction.com/event-catalog/daily.data.lean_body_mass.created.md): Webhook event fired when new daily lean body mass data is available for a user from a connected provider.
+- [daily.data.lean_body_mass.updated](https://docs.junction.com/event-catalog/daily.data.lean_body_mass.updated.md): Webhook event fired when a user's existing daily lean body mass data is updated by the provider.
+- [daily.data.meal.created](https://docs.junction.com/event-catalog/daily.data.meal.created.md): Webhook event fired when new daily meal data is available for a user from a connected provider.
+- [daily.data.meal.updated](https://docs.junction.com/event-catalog/daily.data.meal.updated.md): Webhook event fired when a user's existing daily meal data is updated by the provider.
+- [daily.data.menstrual_cycle.created](https://docs.junction.com/event-catalog/daily.data.menstrual_cycle.created.md): Webhook event fired when new daily menstrual cycle data is available for a user from a connected provider.
+- [daily.data.menstrual_cycle.updated](https://docs.junction.com/event-catalog/daily.data.menstrual_cycle.updated.md): Webhook event fired when a user's existing daily menstrual cycle data is updated by the provider.
+- [daily.data.mindfulness_minutes.created](https://docs.junction.com/event-catalog/daily.data.mindfulness_minutes.created.md): Webhook event fired when new daily mindfulness minutes data is available for a user from a connected provider.
+- [daily.data.mindfulness_minutes.updated](https://docs.junction.com/event-catalog/daily.data.mindfulness_minutes.updated.md): Webhook event fired when a user's existing daily mindfulness minutes data is updated by the provider.
+- [daily.data.note.created](https://docs.junction.com/event-catalog/daily.data.note.created.md): Webhook event fired when new daily user note data is available for a user from a connected provider.
+- [daily.data.note.updated](https://docs.junction.com/event-catalog/daily.data.note.updated.md): Webhook event fired when a user's existing daily user note data is updated by the provider.
+- [daily.data.peak_expiratory_flow_rate.created](https://docs.junction.com/event-catalog/daily.data.peak_expiratory_flow_rate.created.md): Webhook event fired when new daily peak expiratory flow rate data is available for a user from a connected provider.
+- [daily.data.peak_expiratory_flow_rate.updated](https://docs.junction.com/event-catalog/daily.data.peak_expiratory_flow_rate.updated.md): Webhook event fired when a user's existing daily peak expiratory flow rate data is updated by the provider.
+- [daily.data.profile.created](https://docs.junction.com/event-catalog/daily.data.profile.created.md): Webhook event fired when new daily user profile data is available for a user from a connected provider.
+- [daily.data.respiratory_rate.created](https://docs.junction.com/event-catalog/daily.data.respiratory_rate.created.md): Webhook event fired when new daily respiratory rate data is available for a user from a connected provider.
+- [daily.data.respiratory_rate.updated](https://docs.junction.com/event-catalog/daily.data.respiratory_rate.updated.md): Webhook event fired when a user's existing daily respiratory rate data is updated by the provider.
+- [daily.data.sleep.created](https://docs.junction.com/event-catalog/daily.data.sleep.created.md): Webhook event fired when new daily sleep data is available for a user from a connected provider.
+- [daily.data.sleep.updated](https://docs.junction.com/event-catalog/daily.data.sleep.updated.md): Webhook event fired when a user's existing daily sleep data is updated by the provider.
+- [daily.data.sleep_apnea_alert.created](https://docs.junction.com/event-catalog/daily.data.sleep_apnea_alert.created.md): Webhook event fired when new daily sleep apnea alert data is available for a user from a connected provider.
+- [daily.data.sleep_apnea_alert.updated](https://docs.junction.com/event-catalog/daily.data.sleep_apnea_alert.updated.md): Webhook event fired when a user's existing daily sleep apnea alert data is updated by the provider.
+- [daily.data.sleep_breathing_disturbance.created](https://docs.junction.com/event-catalog/daily.data.sleep_breathing_disturbance.created.md): Webhook event fired when new daily sleep breathing disturbance data is available for a user from a connected provider.
+- [daily.data.sleep_breathing_disturbance.updated](https://docs.junction.com/event-catalog/daily.data.sleep_breathing_disturbance.updated.md): Webhook event fired when a user's existing daily sleep breathing disturbance data is updated by the provider.
+- [daily.data.sleep_cycle.created](https://docs.junction.com/event-catalog/daily.data.sleep_cycle.created.md): Webhook event fired when new daily sleep cycle data is available for a user from a connected provider.
+- [daily.data.sleep_cycle.updated](https://docs.junction.com/event-catalog/daily.data.sleep_cycle.updated.md): Webhook event fired when a user's existing daily sleep cycle data is updated by the provider.
+- [daily.data.stand_duration.created](https://docs.junction.com/event-catalog/daily.data.stand_duration.created.md): Webhook event fired when new daily stand duration data is available for a user from a connected provider.
+- [daily.data.stand_duration.updated](https://docs.junction.com/event-catalog/daily.data.stand_duration.updated.md): Webhook event fired when a user's existing daily stand duration data is updated by the provider.
+- [daily.data.stand_hour.created](https://docs.junction.com/event-catalog/daily.data.stand_hour.created.md): Webhook event fired when new daily stand hour data is available for a user from a connected provider.
+- [daily.data.stand_hour.updated](https://docs.junction.com/event-catalog/daily.data.stand_hour.updated.md): Webhook event fired when a user's existing daily stand hour data is updated by the provider.
+- [daily.data.steps.created](https://docs.junction.com/event-catalog/daily.data.steps.created.md): Webhook event fired when new daily step count data is available for a user from a connected provider.
+- [daily.data.steps.updated](https://docs.junction.com/event-catalog/daily.data.steps.updated.md): Webhook event fired when a user's existing daily step count data is updated by the provider.
+- [daily.data.stress_level.created](https://docs.junction.com/event-catalog/daily.data.stress_level.created.md): Webhook event fired when new daily stress level data is available for a user from a connected provider.
+- [daily.data.stress_level.updated](https://docs.junction.com/event-catalog/daily.data.stress_level.updated.md): Webhook event fired when a user's existing daily stress level data is updated by the provider.
+- [daily.data.uv_exposure.created](https://docs.junction.com/event-catalog/daily.data.uv_exposure.created.md): Webhook event fired when new daily UV exposure data is available for a user from a connected provider.
+- [daily.data.uv_exposure.updated](https://docs.junction.com/event-catalog/daily.data.uv_exposure.updated.md): Webhook event fired when a user's existing daily UV exposure data is updated by the provider.
+- [daily.data.vo2_max.created](https://docs.junction.com/event-catalog/daily.data.vo2_max.created.md): Webhook event fired when new daily VO2 max data is available for a user from a connected provider.
+- [daily.data.vo2_max.updated](https://docs.junction.com/event-catalog/daily.data.vo2_max.updated.md): Webhook event fired when a user's existing daily VO2 max data is updated by the provider.
+- [daily.data.waist_circumference.created](https://docs.junction.com/event-catalog/daily.data.waist_circumference.created.md): Webhook event fired when new daily waist circumference data is available for a user from a connected provider.
+- [daily.data.waist_circumference.updated](https://docs.junction.com/event-catalog/daily.data.waist_circumference.updated.md): Webhook event fired when a user's existing daily waist circumference data is updated by the provider.
+- [daily.data.water.created](https://docs.junction.com/event-catalog/daily.data.water.created.md): Webhook event fired when new daily water intake data is available for a user from a connected provider.
+- [daily.data.water.updated](https://docs.junction.com/event-catalog/daily.data.water.updated.md): Webhook event fired when a user's existing daily water intake data is updated by the provider.
+- [daily.data.weight.created](https://docs.junction.com/event-catalog/daily.data.weight.created.md): Webhook event fired when new daily body weight data is available for a user from a connected provider.
+- [daily.data.weight.updated](https://docs.junction.com/event-catalog/daily.data.weight.updated.md): Webhook event fired when a user's existing daily body weight data is updated by the provider.
+- [daily.data.wheelchair_push.created](https://docs.junction.com/event-catalog/daily.data.wheelchair_push.created.md): Webhook event fired when new daily wheelchair push data is available for a user from a connected provider.
+- [daily.data.wheelchair_push.updated](https://docs.junction.com/event-catalog/daily.data.wheelchair_push.updated.md): Webhook event fired when a user's existing daily wheelchair push data is updated by the provider.
+- [daily.data.workout_distance.created](https://docs.junction.com/event-catalog/daily.data.workout_distance.created.md): Webhook event fired when new daily workout distance data is available for a user from a connected provider.
+- [daily.data.workout_distance.updated](https://docs.junction.com/event-catalog/daily.data.workout_distance.updated.md): Webhook event fired when a user's existing daily workout distance data is updated by the provider.
+- [daily.data.workout_duration.created](https://docs.junction.com/event-catalog/daily.data.workout_duration.created.md): Webhook event fired when new daily workout duration data is available for a user from a connected provider.
+- [daily.data.workout_duration.updated](https://docs.junction.com/event-catalog/daily.data.workout_duration.updated.md): Webhook event fired when a user's existing daily workout duration data is updated by the provider.
+- [daily.data.workout_stream.created](https://docs.junction.com/event-catalog/daily.data.workout_stream.created.md): Webhook event fired when new daily workout stream data is available for a user from a connected provider.
+- [daily.data.workout_stream.updated](https://docs.junction.com/event-catalog/daily.data.workout_stream.updated.md): Webhook event fired when a user's existing daily workout stream data is updated by the provider.
+- [daily.data.workout_swimming_stroke.created](https://docs.junction.com/event-catalog/daily.data.workout_swimming_stroke.created.md): Webhook event fired when new daily workout swimming stroke data is available for a user from a connected provider.
+- [daily.data.workout_swimming_stroke.updated](https://docs.junction.com/event-catalog/daily.data.workout_swimming_stroke.updated.md): Webhook event fired when a user's existing daily workout swimming stroke data is updated by the provider.
+- [daily.data.workouts.created](https://docs.junction.com/event-catalog/daily.data.workouts.created.md): Webhook event fired when new daily workout data is available for a user from a connected provider.
+- [daily.data.workouts.updated](https://docs.junction.com/event-catalog/daily.data.workouts.updated.md): Webhook event fired when a user's existing daily workout data is updated by the provider.
+- [historical.data.activity.created](https://docs.junction.com/event-catalog/historical.data.activity.created.md): Webhook event fired when historical activity data is backfilled after a user connects a provider.
+- [historical.data.basal_body_temperature.created](https://docs.junction.com/event-catalog/historical.data.basal_body_temperature.created.md): Webhook event fired when historical basal body temperature data is backfilled after a user connects a provider.
+- [historical.data.blood_oxygen.created](https://docs.junction.com/event-catalog/historical.data.blood_oxygen.created.md): Webhook event fired when historical blood oxygen data is backfilled after a user connects a provider.
+- [historical.data.blood_pressure.created](https://docs.junction.com/event-catalog/historical.data.blood_pressure.created.md): Webhook event fired when historical blood pressure data is backfilled after a user connects a provider.
+- [historical.data.body.created](https://docs.junction.com/event-catalog/historical.data.body.created.md): Webhook event fired when historical body composition data is backfilled after a user connects a provider.
+- [historical.data.body_mass_index.created](https://docs.junction.com/event-catalog/historical.data.body_mass_index.created.md): Webhook event fired when historical body mass index (BMI) data is backfilled after a user connects a provider.
+- [historical.data.body_temperature.created](https://docs.junction.com/event-catalog/historical.data.body_temperature.created.md): Webhook event fired when historical body temperature data is backfilled after a user connects a provider.
+- [historical.data.body_temperature_delta.created](https://docs.junction.com/event-catalog/historical.data.body_temperature_delta.created.md): Webhook event fired when historical body temperature delta data is backfilled after a user connects a provider.
+- [historical.data.caffeine.created](https://docs.junction.com/event-catalog/historical.data.caffeine.created.md): Webhook event fired when historical caffeine intake data is backfilled after a user connects a provider.
+- [historical.data.calories_active.created](https://docs.junction.com/event-catalog/historical.data.calories_active.created.md): Webhook event fired when historical active calories burned data is backfilled after a user connects a provider.
+- [historical.data.calories_basal.created](https://docs.junction.com/event-catalog/historical.data.calories_basal.created.md): Webhook event fired when historical basal calories burned data is backfilled after a user connects a provider.
+- [historical.data.carbohydrates.created](https://docs.junction.com/event-catalog/historical.data.carbohydrates.created.md): Webhook event fired when historical carbohydrate intake data is backfilled after a user connects a provider.
+- [historical.data.daylight_exposure.created](https://docs.junction.com/event-catalog/historical.data.daylight_exposure.created.md): Webhook event fired when historical daylight exposure data is backfilled after a user connects a provider.
+- [historical.data.distance.created](https://docs.junction.com/event-catalog/historical.data.distance.created.md): Webhook event fired when historical distance traveled data is backfilled after a user connects a provider.
+- [historical.data.electrocardiogram_voltage.created](https://docs.junction.com/event-catalog/historical.data.electrocardiogram_voltage.created.md): Webhook event fired when historical electrocardiogram voltage data is backfilled after a user connects a provider.
+- [historical.data.fall.created](https://docs.junction.com/event-catalog/historical.data.fall.created.md): Webhook event fired when historical fall detection data is backfilled after a user connects a provider.
+- [historical.data.fat.created](https://docs.junction.com/event-catalog/historical.data.fat.created.md): Webhook event fired when historical fat intake data is backfilled after a user connects a provider.
+- [historical.data.floors_climbed.created](https://docs.junction.com/event-catalog/historical.data.floors_climbed.created.md): Webhook event fired when historical floors climbed data is backfilled after a user connects a provider.
+- [historical.data.forced_expiratory_volume_1.created](https://docs.junction.com/event-catalog/historical.data.forced_expiratory_volume_1.created.md): Webhook event fired when historical forced expiratory volume (FEV1) data is backfilled after a user connects a provider.
+- [historical.data.forced_vital_capacity.created](https://docs.junction.com/event-catalog/historical.data.forced_vital_capacity.created.md): Webhook event fired when historical forced vital capacity (FVC) data is backfilled after a user connects a provider.
+- [historical.data.glucose.created](https://docs.junction.com/event-catalog/historical.data.glucose.created.md): Webhook event fired when historical blood glucose data is backfilled after a user connects a provider.
+- [historical.data.handwashing.created](https://docs.junction.com/event-catalog/historical.data.handwashing.created.md): Webhook event fired when historical handwashing data is backfilled after a user connects a provider.
+- [historical.data.heart_rate_recovery_one_minute.created](https://docs.junction.com/event-catalog/historical.data.heart_rate_recovery_one_minute.created.md): Webhook event fired when historical one-minute heart rate recovery data is backfilled after a user connects a provider.
+- [historical.data.heartrate.created](https://docs.junction.com/event-catalog/historical.data.heartrate.created.md): Webhook event fired when historical heart rate data is backfilled after a user connects a provider.
+- [historical.data.hrv.created](https://docs.junction.com/event-catalog/historical.data.hrv.created.md): Webhook event fired when historical heart rate variability (HRV) data is backfilled after a user connects a provider.
+- [historical.data.inhaler_usage.created](https://docs.junction.com/event-catalog/historical.data.inhaler_usage.created.md): Webhook event fired when historical inhaler usage data is backfilled after a user connects a provider.
+- [historical.data.insulin_injection.created](https://docs.junction.com/event-catalog/historical.data.insulin_injection.created.md): Webhook event fired when historical insulin injection data is backfilled after a user connects a provider.
+- [historical.data.lean_body_mass.created](https://docs.junction.com/event-catalog/historical.data.lean_body_mass.created.md): Webhook event fired when historical lean body mass data is backfilled after a user connects a provider.
+- [historical.data.meal.created](https://docs.junction.com/event-catalog/historical.data.meal.created.md): Webhook event fired when historical meal data is backfilled after a user connects a provider.
+- [historical.data.menstrual_cycle.created](https://docs.junction.com/event-catalog/historical.data.menstrual_cycle.created.md): Webhook event fired when historical menstrual cycle data is backfilled after a user connects a provider.
+- [historical.data.mindfulness_minutes.created](https://docs.junction.com/event-catalog/historical.data.mindfulness_minutes.created.md): Webhook event fired when historical mindfulness minutes data is backfilled after a user connects a provider.
+- [historical.data.note.created](https://docs.junction.com/event-catalog/historical.data.note.created.md): Webhook event fired when historical user note data is backfilled after a user connects a provider.
+- [historical.data.peak_expiratory_flow_rate.created](https://docs.junction.com/event-catalog/historical.data.peak_expiratory_flow_rate.created.md): Webhook event fired when historical peak expiratory flow rate data is backfilled after a user connects a provider.
+- [historical.data.profile.created](https://docs.junction.com/event-catalog/historical.data.profile.created.md): Webhook event fired when historical user profile data is backfilled after a user connects a provider.
+- [historical.data.respiratory_rate.created](https://docs.junction.com/event-catalog/historical.data.respiratory_rate.created.md): Webhook event fired when historical respiratory rate data is backfilled after a user connects a provider.
+- [historical.data.sleep.created](https://docs.junction.com/event-catalog/historical.data.sleep.created.md): Webhook event fired when historical sleep data is backfilled after a user connects a provider.
+- [historical.data.sleep_apnea_alert.created](https://docs.junction.com/event-catalog/historical.data.sleep_apnea_alert.created.md): Webhook event fired when historical sleep apnea alert data is backfilled after a user connects a provider.
+- [historical.data.sleep_breathing_disturbance.created](https://docs.junction.com/event-catalog/historical.data.sleep_breathing_disturbance.created.md): Webhook event fired when historical sleep breathing disturbance data is backfilled after a user connects a provider.
+- [historical.data.sleep_cycle.created](https://docs.junction.com/event-catalog/historical.data.sleep_cycle.created.md): Webhook event fired when historical sleep cycle data is backfilled after a user connects a provider.
+- [historical.data.stand_duration.created](https://docs.junction.com/event-catalog/historical.data.stand_duration.created.md): Webhook event fired when historical stand duration data is backfilled after a user connects a provider.
+- [historical.data.stand_hour.created](https://docs.junction.com/event-catalog/historical.data.stand_hour.created.md): Webhook event fired when historical stand hour data is backfilled after a user connects a provider.
+- [historical.data.steps.created](https://docs.junction.com/event-catalog/historical.data.steps.created.md): Webhook event fired when historical step count data is backfilled after a user connects a provider.
+- [historical.data.stress_level.created](https://docs.junction.com/event-catalog/historical.data.stress_level.created.md): Webhook event fired when historical stress level data is backfilled after a user connects a provider.
+- [historical.data.uv_exposure.created](https://docs.junction.com/event-catalog/historical.data.uv_exposure.created.md): Webhook event fired when historical UV exposure data is backfilled after a user connects a provider.
+- [historical.data.vo2_max.created](https://docs.junction.com/event-catalog/historical.data.vo2_max.created.md): Webhook event fired when historical VO2 max data is backfilled after a user connects a provider.
+- [historical.data.waist_circumference.created](https://docs.junction.com/event-catalog/historical.data.waist_circumference.created.md): Webhook event fired when historical waist circumference data is backfilled after a user connects a provider.
+- [historical.data.water.created](https://docs.junction.com/event-catalog/historical.data.water.created.md): Webhook event fired when historical water intake data is backfilled after a user connects a provider.
+- [historical.data.weight.created](https://docs.junction.com/event-catalog/historical.data.weight.created.md): Webhook event fired when historical body weight data is backfilled after a user connects a provider.
+- [historical.data.wheelchair_push.created](https://docs.junction.com/event-catalog/historical.data.wheelchair_push.created.md): Webhook event fired when historical wheelchair push data is backfilled after a user connects a provider.
+- [historical.data.workout_distance.created](https://docs.junction.com/event-catalog/historical.data.workout_distance.created.md): Webhook event fired when historical workout distance data is backfilled after a user connects a provider.
+- [historical.data.workout_duration.created](https://docs.junction.com/event-catalog/historical.data.workout_duration.created.md): Webhook event fired when historical workout duration data is backfilled after a user connects a provider.
+- [historical.data.workout_swimming_stroke.created](https://docs.junction.com/event-catalog/historical.data.workout_swimming_stroke.created.md): Webhook event fired when historical workout swimming stroke data is backfilled after a user connects a provider.
+- [historical.data.workouts.created](https://docs.junction.com/event-catalog/historical.data.workouts.created.md): Webhook event fired when historical workout data is backfilled after a user connects a provider.
+- [lab_report.parsing_job.created](https://docs.junction.com/event-catalog/lab_report.parsing_job.created.md): Webhook event fired when a new lab report parsing job is created in Vital.
+- [lab_report.parsing_job.updated](https://docs.junction.com/event-catalog/lab_report.parsing_job.updated.md): Webhook event fired when a lab report parsing job status is updated in Vital.
+- [labtest.appointment.updated](https://docs.junction.com/event-catalog/labtest.appointment.updated.md): Webhook event fired when a lab test appointment is updated, such as a status change.
+- [labtest.order.created](https://docs.junction.com/event-catalog/labtest.order.created.md): Webhook event fired when a new lab test order is created for a user in Vital.
+- [labtest.order.updated](https://docs.junction.com/event-catalog/labtest.order.updated.md): Webhook event fired when a lab test order is updated, such as a status change.
+- [labtest.result.critical](https://docs.junction.com/event-catalog/labtest.result.critical.md): Webhook event fired when a lab test returns a critical result that needs urgent attention.
+- [provider.connection.created](https://docs.junction.com/event-catalog/provider.connection.created.md): Webhook event fired when a user successfully connects a new wearable or provider to Vital.
+- [provider.connection.error](https://docs.junction.com/event-catalog/provider.connection.error.md): Webhook event fired when a user's provider connection encounters an error or expires.
+- [provider.device.created](https://docs.junction.com/event-catalog/provider.device.created.md): Webhook event fired when a new device is registered for a connected provider in Vital.
+- [provider.device.updated](https://docs.junction.com/event-catalog/provider.device.updated.md): Webhook event fired when a registered provider device is updated in Vital.
+- [Getting Support](https://docs.junction.com/home/getting-support.md): Contact Junction support via email or Slack, and learn what information to include when reporting issues for faster resolution.
+- [Libraries](https://docs.junction.com/home/libraries.md): Browse all Junction client libraries and SDKs, including typed API bindings for Java, Go, TypeScript, and Python, plus mobile SDKs for iOS and Android.
+- [Quickstart](https://docs.junction.com/home/quickstart.md): Get started with the Junction API by setting up API keys, connecting a wearable device, and fetching your first health data in minutes.
+- [Junction](https://docs.junction.com/home/welcome.md): Integrate 300+ wearables, streamline lab operations, and build your own lab testing experience spanning all 50 states – with a single API.
+- [Communications](https://docs.junction.com/lab/at-home-phlebotomy/communications.md): Configure SMS and email notifications sent to patients during each status change in the at-home phlebotomy order lifecycle.
+- [Order and Appointment Lifecycle](https://docs.junction.com/lab/at-home-phlebotomy/order-appointment-lifecycle.md): Reference for all order and appointment lifecycle statuses in the at-home phlebotomy flow, from order creation through results delivery.
+- [Overview](https://docs.junction.com/lab/at-home-phlebotomy/overview.md): Overview of the at-home phlebotomy modality where a phlebotomist visits a patient at home to draw blood for lab testing.
+- [Phlebotomy Service Tiers](https://docs.junction.com/lab/at-home-phlebotomy/service-tiers.md): Compare the two phlebotomy service tiers: Appointment Ready for synchronous scheduling and Appointment Request for asynchronous assignment.
+- [Webhooks](https://docs.junction.com/lab/at-home-phlebotomy/webhooks.md): Reference for webhook events triggered during at-home phlebotomy order and appointment lifecycle changes, with example payloads.
+- [Communications](https://docs.junction.com/lab/on-site-collection/communications.md): Configure SMS and email notifications sent to patients during each status change in the on-site collection order lifecycle.
+- [Order Lifecycle](https://docs.junction.com/lab/on-site-collection/order-lifecycle.md): Reference for all order lifecycle statuses in the on-site collection flow, from order placement through draw completion and results.
+- [Overview](https://docs.junction.com/lab/on-site-collection/overview.md): Overview of the on-site collection modality for blood draws at customer-managed locations like clinics and wellness events.
+- [Webhooks](https://docs.junction.com/lab/on-site-collection/webhooks.md): Reference for webhook events triggered during on-site collection order lifecycle changes, with example payload structures.
+- [Compendium Search](https://docs.junction.com/lab/overview/compendium-search.md): Search the lab test compendium to find canonical tests and crosswalk them to available lab-specific test candidates.
+- [Ordering Idempotency](https://docs.junction.com/lab/overview/idempotency.md): Use the X-Idempotency-Key header when creating lab orders to safely retry requests without duplicating orders on connection failures.
+- [Insurance Ordering](https://docs.junction.com/lab/overview/insurance.md): Set up and place lab test orders with commercial insurance billing, including Medicare and Medicaid inference support.
+- [Introduction](https://docs.junction.com/lab/overview/introduction.md): Introduction to the Junction Lab Testing API for ordering lab tests, managing results, and integrating with physician networks and partner labs.
+- [Lab Accounts](https://docs.junction.com/lab/overview/lab-accounts.md): Manage lab accounts that link your team to partner laboratories for order routing and result delivery configuration.
+- [Patient Service Centers and Appointments](https://docs.junction.com/lab/overview/locations.md): Find and verify nearby Patient Service Centers (PSCs) for walk-in lab tests using the Area Info and PSC Info API endpoints.
+- [Order and Follow-up Physician](https://docs.junction.com/lab/overview/physicians.md): Choose between using Junction's physician network, your own physicians, or a hybrid approach for lab test ordering and result review.
+- [Quickstart](https://docs.junction.com/lab/overview/quickstart.md): Step-by-step guide to placing your first lab test order through the Junction API, from user creation to order submission.
+- [Testing in Sandbox](https://docs.junction.com/lab/overview/sandbox.md): Test lab test ordering in the Junction sandbox environment with lifecycle simulation, pre-configured tests, and collection method restrictions.
+- [Testing Modalities](https://docs.junction.com/lab/overview/testing-modalities.md): Compare the four lab testing modalities: at-home test kits, at-home phlebotomy, walk-in tests, and on-site collection.
+- [Turnaround Times](https://docs.junction.com/lab/overview/turnaround-times.md): Review turnaround time estimates for lab test results at the marker, panel, and order levels with 95th and 99th percentile metrics.
+- [Lab Report Parsing](https://docs.junction.com/lab/report-parsing/overview.md): Extract structured biomarker data from PDF and image lab reports using the Lab Report Parsing API with automatic LOINC code matching.
+- [Critical Results](https://docs.junction.com/lab/results/critical-results.md): Understand how Junction categorizes lab result markers as normal, abnormal, or critical, and receive webhook alerts for critical findings.
+- [Follow-ups](https://docs.junction.com/lab/results/follow-up.md): Learn how Junction's physician network handles follow-up communications with patients who receive abnormal lab test results.
+- [Galleri Multi-Cancer Early Detection Results (GRAIL)](https://docs.junction.com/lab/results/galleri-results.md): Understand the unique result structure for the Galleri multi-cancer early detection test, which returns coded enum values instead of numeric biomarkers.
+- [Reference Range](https://docs.junction.com/lab/results/reference-range-parsing.md): Parse the reference_range string field in lab results to determine boundary inclusivity and build custom result interpretation logic.
+- [Result Formats](https://docs.junction.com/lab/results/result-formats.md): Retrieve lab test results in two formats: raw PDF reports from partner labs and structured JSON data through the Junction API.
+- [Communications](https://docs.junction.com/lab/testkits/communications.md): Configure SMS notifications sent to patients during each status change in the at-home testkit order lifecycle.
+- [Order Lifecycle](https://docs.junction.com/lab/testkits/order-lifecycle.md): Reference for all order lifecycle statuses in the at-home testkit flow, including shipping, sample collection, and lab processing stages.
+- [Overview](https://docs.junction.com/lab/testkits/overview.md): Overview of the at-home testkit modality where patients receive a kit by mail, collect their own sample, and return it to the lab.
+- [Testkit Status Details](https://docs.junction.com/lab/testkits/status-details.md): Reference for testkit order status details, including lab processing blocks and sample errors returned by the API.
+- [Webhooks](https://docs.junction.com/lab/testkits/webhooks.md): Reference for webhook events triggered during at-home testkit order lifecycle changes, with example payload structures.
+- [Communications](https://docs.junction.com/lab/walk-in/communications.md): Configure SMS and email notifications sent to patients during each status change in the walk-in lab test order lifecycle.
+- [Order and Appointment Lifecycle](https://docs.junction.com/lab/walk-in/order-lifecycle.md): Learn the order and appointment statuses, state transitions, and scheduling flows for Walk-In Phlebotomy lab tests.
+- [Overview](https://docs.junction.com/lab/walk-in/overview.md): Overview of the walk-in test modality where patients visit a laboratory Patient Service Center to have their blood drawn.
+- [API Endpoints and Errors](https://docs.junction.com/lab/walk-in/psc-appointment-scheduling.md): Error handling and optional features for scheduling appointments at Patient Service Centers (PSCs).
+- [Opt-In Features](https://docs.junction.com/lab/walk-in/psc-appointment-scheduling-opt-ins.md): Error handling and optional features for scheduling appointments at Patient Service Centers (PSCs).
+- [Webhooks](https://docs.junction.com/lab/walk-in/webhooks.md): Reference for webhook events triggered during walk-in order lifecycle changes, with example payload structures.
+- [Ask on Order Entry (AOE)](https://docs.junction.com/lab/workflow/aoe.md): Handle Ask on Order Entry (AOE) questions required for certain biomarkers, including the four question types and API integration.
+- [Cancelling an Order](https://docs.junction.com/lab/workflow/cancelling-an-order.md): Cancel lab test orders based on their current status and collection method, with guidance on timing to avoid unnecessary costs.
+- [Clinical Notes](https://docs.junction.com/lab/workflow/clinical-comments.md): Add clinical notes to lab orders at the order level or as a Lab Account default for requisition forms.
+- [Creating a Lab Test](https://docs.junction.com/lab/workflow/create-test.md): Create custom lab tests by selecting biomarker IDs and collection methods, then submit them for Junction approval before ordering.
+- [Importing an Order](https://docs.junction.com/lab/workflow/importing-order.md): Import externally-placed lab orders into Junction for centralized tracking and result delivery using the correct sample or requisition ID.
+- [Lab Test Lifecycle](https://docs.junction.com/lab/workflow/lab-test-lifecycle.md): Understand the namespaced status system for lab test orders with high-level and modality-specific low-level status transitions.
+- [Ordering a Registrable Testkit](https://docs.junction.com/lab/workflow/order-registrable-testkit.md): Use registrable testkits to ship kits without a bound patient, deferring patient registration until the testkit is activated.
+- [Order Requirements](https://docs.junction.com/lab/workflow/order-requirements.md): Review all requirements for placing a lab test order including patient consents, physician options, and patient name validation rules.
+- [Order Transactions](https://docs.junction.com/lab/workflow/order-transactions.md): Understand the importance of order transactions and how they are used.
+- [Ordering](https://docs.junction.com/lab/workflow/ordering.md): Learn the ordering concepts including markers, lab tests, and the various order_set field combinations for placing lab test orders.
+- [Partial Result Notifications](https://docs.junction.com/lab/workflow/partials.md): Configure partial result handling to receive webhook notifications when some but not all biomarker results are ready for an order.
+- [Redraws](https://docs.junction.com/lab/workflow/redraws.md): Handle redraw scenarios where patients return for a new blood draw due to missing results.
+- [Scheduled Orders](https://docs.junction.com/lab/workflow/scheduled-orders.md): Schedule lab test orders for future fulfillment dates using the activate_by parameter for follow-up testing workflows.
+- [Data Prioritization](https://docs.junction.com/sense/data-prioritization.md): Learn how Junction Sense automatically prioritizes data from multiple providers and source types, keeping only the highest-priority source per group.
+- [Examples](https://docs.junction.com/sense/examples.md): Explore practical code examples of Junction Sense Continuous Query use cases including daily sleep analysis, in both Python and JSON DSL.
+- [Managing Queries](https://docs.junction.com/sense/managing-queries.md): Create, edit, and manage your Continuous Query configurations using the Junction Dashboard.
+- [Sense overview](https://docs.junction.com/sense/overview.md): Junction Sense consolidates wearable data from multiple providers into tabular outputs with data prioritization, floating-time aggregation, and query APIs.
+- [Getting Started](https://docs.junction.com/sense/python-sdk/getting-started.md): Get started with the Junction Sense Python SDK for authentication, query construction, and integration with Polars and Pandas DataFrames.
+- [Column expressions](https://docs.junction.com/sense/query-dsl/column-expressions.md): Reference for table column expressions in Junction Sense queries to select fields from activity, body, sleep, and timeseries resources.
+- [GROUP BY clause](https://docs.junction.com/sense/query-dsl/group-by-clause.md): Use the GROUP BY clause in Junction Sense queries for date truncation, date part extraction, table column, and source column grouping.
+- [List-column aggregation](https://docs.junction.com/sense/query-dsl/list-column-aggregation.md): Aggregate list columns in Junction Sense queries with a scalar-output subquery.
+- [Readiness Scores](https://docs.junction.com/sense/query-dsl/readiness-scores.md): Query daily recovery, stress, and strain scores from connected wearable providers using Junction Sense readiness score expressions.
+- [SELECT clause](https://docs.junction.com/sense/query-dsl/select-clause.md): Use the SELECT clause in Junction Sense queries to choose table columns, apply aggregate functions, and retrieve group key columns.
+- [Sleep Macros](https://docs.junction.com/sense/query-dsl/sleep-analysis.md): Use value macro expressions for sleep analysis in Junction Sense queries to access computed sleep stage metrics and breakdowns.
+- [WHERE clause](https://docs.junction.com/sense/query-dsl/where-clause.md): Use the WHERE clause in Junction Sense queries to filter summary or timeseries rows with SQL-style comparison and logical operators.
+- [Using Continuous Query](https://docs.junction.com/sense/using-continuous-query.md): Create Continuous Queries in Junction Sense that automatically evaluate as new data arrives and push result changes via webhooks or ETL pipelines.
+- [Using Query API](https://docs.junction.com/sense/using-query-api.md): Access the Junction Sense Query API through the Python SDK with DataFrame integration, the JSON API endpoint, or typed API bindings.
+- [Provider Types](https://docs.junction.com/wearables/connecting-providers/auth_types.md): Browse all supported wearable providers grouped by authentication type: OAuth, email, and email plus password connections.
+- [Hosting OAuth Callbacks on Your Own Domain](https://docs.junction.com/wearables/connecting-providers/bring-your-own-oauth/callback-endpoints.md): Host OAuth callback endpoints on your own domain to satisfy provider redirect URI requirements and forward responses to Junction.
+- [Bring Your Own OAuth](https://docs.junction.com/wearables/connecting-providers/bring-your-own-oauth/overview.md): Use Bring Your Own OAuth (BYOO) to connect wearable providers through Junction using your own branded OAuth client credentials.
+- [Sharing Credentials](https://docs.junction.com/wearables/connecting-providers/bring-your-own-oauth/sharing-credentials.md): Share existing OAuth client credentials between Junction BYOO and your own systems when providers allow only one redirect URI.
+- [Building a Custom Widget](https://docs.junction.com/wearables/connecting-providers/custom_widget.md): Build a custom Link widget UI to connect wearable providers as an alternative to the default Junction Link hosted widget.
+- [Link Errors](https://docs.junction.com/wearables/connecting-providers/errors.md): Handle errors from Junction Link including OAuth flow query parameter errors and JSON response errors for password and email providers.
+- [Introduction to Link](https://docs.junction.com/wearables/connecting-providers/introduction.md): Introduction to Junction Link, the mechanism for connecting user wearable accounts to Junction as a hosted widget or custom API integration.
+- [Launching Link](https://docs.junction.com/wearables/connecting-providers/launching_link.md): Launch Junction Link by creating a Link Token on your backend and using it to open the provider connection flow in your application.
+- [Link Flow](https://docs.junction.com/wearables/connecting-providers/link_flow.md): Understand the end-to-end Junction Link flow for connecting wearable devices, from API key setup through Link Token generation.
+- [Abbott LibreView](https://docs.junction.com/wearables/guides/abbott-libreview.md): Connect Abbott continuous glucose monitors like Freestyle Libre to Junction through the LibreView cloud platform integration.
+- [Android Health Connect](https://docs.junction.com/wearables/guides/android-health-connect.md): Integrate Android Health Connect as an SDK-based provider with Junction, including setup, permissions, and required Mobile SDK components.
+- [Apple HealthKit](https://docs.junction.com/wearables/guides/apple-healthkit.md): Integrate Apple HealthKit as an SDK-based provider with Junction, including sync frequency, background delivery, and Mobile SDK setup.
+- [Dexcom (G6 and older)](https://docs.junction.com/wearables/guides/dexcom.md): Connect legacy Dexcom G6 devices via the password-based integration, which requires users to enable Dexcom Share for data access.
+- [Dexcom (OAuth based)](https://docs.junction.com/wearables/guides/dexcom_v3.md): Connect Dexcom CGM devices via the OAuth-based dexcom_v3 integration, including webhook behavior and custom OAuth credential setup.
+- [Fitbit](https://docs.junction.com/wearables/guides/fitbit.md): Understand Fitbit-specific integration details including always-active BMR webhooks, respiratory rate from sleep stages, and time zone handling.
+- [Garmin](https://docs.junction.com/wearables/guides/garmin.md): Understand Garmin webhook behavior where historical data is delivered incrementally as daily events rather than being available immediately.
+- [Google Fit](https://docs.junction.com/wearables/guides/google_fit.md): Handle Google Fit cloud data sync delays and plan migration to Health Connect as the successor to the deprecated Google Fit SDK.
+- [Omron](https://docs.junction.com/wearables/guides/omron.md): Connect Omron blood pressure monitors to Junction, noting the requirement that users must grant all permissions during authorization.
+- [Polar](https://docs.junction.com/wearables/guides/polar.md): Understand Polar integration limitations where historical data backfill is only available for sleep and sleep stream resources.
+- [Samsung Health](https://docs.junction.com/wearables/guides/samsung-health.md): Set up the Samsung Health integration using Junction Mobile SDKs on Android, including project configuration, permissions, data sync, and background sync.
+- [WHOOP](https://docs.junction.com/wearables/guides/whoop.md): Connect WHOOP devices to Junction using Bring Your Own OAuth credentials, with a 10-member development limit before WHOOP app approval.
+- [Data Attributions](https://docs.junction.com/wearables/providers/data-attributions.md): Understand the Source Type taxonomy that identifies how wearable data was collected, such as from a watch, phone, ring, or companion app.
+- [Data Ingestion Bounds](https://docs.junction.com/wearables/providers/data-ingestion-bounds.md): Set per-user data ingestion start and end dates to control the historical pull range and automatically pause connections after expiry.
+- [Primary Key](https://docs.junction.com/wearables/providers/data-primary-key.md): Reference for the primary key structure used to uniquely identify summary and timeseries data records in the Junction data model.
+- [Heart Rate Zones](https://docs.junction.com/wearables/providers/heart-rate-zones.md): Learn how Junction calculates heart rate zones using percentage brackets of maximum heart rate with configurable fallback birth dates.
+- [Historical Data Pull Range](https://docs.junction.com/wearables/providers/historical-data-pull-range.md): Customize how much historical data Junction fetches when a new provider is connected using Team Data Pull Preferences per provider.
+- [Supported Providers](https://docs.junction.com/wearables/providers/introduction.md): Browse all 300+ supported wearable device providers organized by connection type, with BYOO availability and developer program details.
+- [Resources](https://docs.junction.com/wearables/providers/resources.md): Understand the two wearable data categories in Junction: Summaries for daily aggregates and Timeseries for granular time-stamped measurements.
+- [Synthetic Data (Sandbox)](https://docs.junction.com/wearables/providers/test_data.md): Using demo users to build and test your Junction integration.
+- [Timestamps and Time Zones](https://docs.junction.com/wearables/providers/timestamps-and-time-zones.md): Learn about Junction timestamp conventions including UTC-based ISO 8601 formatting and floating time handling for specific device types.
+- [Update Frequency](https://docs.junction.com/wearables/providers/update-frequency.md): Understand how Junction discovers new wearable data through push, polling, and hybrid update models across cloud-based providers.
+- [Mobile SDK Authentication](https://docs.junction.com/wearables/sdks/authentication.md): Authenticate Junction Mobile SDKs using Sign-In Tokens that give each app installation scoped API access as an individual user.
+- [Health SDK Connection Policies](https://docs.junction.com/wearables/sdks/health/connection-policies.md): Choose between Auto Connect and Explicit Connect modes to control how the Health SDK manages Apple HealthKit and Health Connect connections.
+- [Junction Health SDK](https://docs.junction.com/wearables/sdks/health/overview.md): Overview of the Junction Health SDK for integrating with Apple HealthKit and Android Health Connect, including setup and common API usage.
+- [Installation](https://docs.junction.com/wearables/sdks/installation.md): Install Junction Mobile SDKs on iOS and Android with platform-specific requirements, minimum OS versions, and dependency configuration.
+- [Junction Core SDK](https://docs.junction.com/wearables/sdks/vital-core.md): Use the Junction Core SDK to access the Junction API from mobile apps through typed request methods across iOS, Android, Flutter, and React Native.
+- [Junction Devices SDK](https://docs.junction.com/wearables/sdks/vital-devices.md): Use the Junction Devices SDK for Bluetooth-based device connectivity with required permission setup for iOS and Android projects.
+- [Introduction](https://docs.junction.com/wearables/vital-app/introduction.md): Use the Junction Connect iOS app to sync Apple HealthKit data to Junction without building a custom iOS app, using a code-based pairing flow.
+- [Debugging](https://docs.junction.com/webhooks/debugging.md): Debug webhook events using the Junction Dashboard Webhooks section or the Svix API to inspect delivery history and retry failed events.
+- [Azure Event Hubs](https://docs.junction.com/webhooks/etl-pipelines/azure-event-hubs.md): Stream Junction events to Azure Event Hubs as an ETL pipeline destination, with details on event structure, properties, and compression.
+- [Google Cloud Pub/Sub](https://docs.junction.com/webhooks/etl-pipelines/google-cloud-pubsub.md): Stream Junction events to Google Cloud Pub/Sub as an ETL pipeline destination, with message attributes, compression, and ordering details.
+- [ETL Pipelines](https://docs.junction.com/webhooks/etl-pipelines/overview.md): Use ETL Pipelines to stream Junction events to supported destinations over authenticated TLS as a scalable alternative to webhooks.
+- [RabbitMQ](https://docs.junction.com/webhooks/etl-pipelines/rabbitmq.md): Stream Junction events to RabbitMQ as an ETL pipeline destination, with details on message headers, routing keys, and compression behavior.
+- [Event Structure](https://docs.junction.com/webhooks/event-structure.md): Reference for the standard webhook event payload structure including event_type, data, team_id, user_id, and client_user_id fields.
+- [Introduction](https://docs.junction.com/webhooks/introduction.md): Introduction to Junction webhooks that push new data and connection lifecycle updates to your configured HTTP endpoints in real time.
+- [Retry Policy](https://docs.junction.com/webhooks/retry-policy.md): Understand the Junction webhook retry schedule with exponential backoff across eight attempts, from immediate retry up to 10 hours between attempts.
+
+## OpenAPI Specs
+
+- [swagger](https://docs.junction.com/swagger.json)
+- [org-management-api](https://docs.junction.com/org-management-api.json)
+
+## Optional
+
+- [Changelog](https://docs.junction.com/changelog/core)
+- [Changelog](https://docs.junction.com/changelog/lab-testing)
+- [Changelog](https://docs.junction.com/changelog/wearables)

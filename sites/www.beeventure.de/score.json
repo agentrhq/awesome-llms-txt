@@ -1,0 +1,109 @@
+{
+  "schema_version": 2,
+  "domain": "www.beeventure.de",
+  "display_name": "Beeventure",
+  "category": "dev-tools",
+  "verified_url": "https://www.beeventure.de/llms.txt",
+  "fetched_at": "2026-05-27T05:32:13Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 1942,
+  "last_modified": "Fri, 13 Mar 2026 14:16:48 GMT",
+  "freshness_age_days": 74,
+  "score": 61,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "no_blockquote_summary"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 9,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 7,
+      "reasons": [],
+      "age_days": 74,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 1.9
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "BeeVenture – Wissensportal für Imkerei und Bienenkunde",
+    "h1_count": 1,
+    "blockquote": null,
+    "section_count": 7,
+    "subsection_count": 0,
+    "link_count": 15,
+    "value_link_count": 15,
+    "low_value_link_count": 0,
+    "raw_bytes": 1942
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,146 @@
+# Formo Docs
+
+> Guides and API documentation for the Formo data platform.
+
+## Docs
+
+- [Create Alert](https://docs.formo.so/api/alerts/create.md): Create a new alert for your project. Define trigger conditions based on events or thresholds and configure notification delivery via webhooks or email.
+- [Delete Alert](https://docs.formo.so/api/alerts/delete.md): Permanently delete an alert by ID. Removes the alert configuration, stops all notifications, and deletes the associated trigger history.
+- [Get Alert](https://docs.formo.so/api/alerts/get.md): Retrieve a single alert by ID. Returns the alert name, trigger conditions, notification channels, status, and recent alert history.
+- [List Alerts](https://docs.formo.so/api/alerts/list.md): Retrieve all alerts configured for your project. Returns alert names, trigger conditions, notification channels, and enabled or disabled status.
+- [Toggle Alert](https://docs.formo.so/api/alerts/toggle.md): Enable or disable an alert by ID. Toggling an alert pauses or resumes notifications without deleting the alert configuration or history.
+- [Update Alert](https://docs.formo.so/api/alerts/update.md): Modify an existing alert by ID. Update the alert name, conditions, thresholds, and notification channel configuration through the Formo API.
+- [Authentication](https://docs.formo.so/api/authentication.md): Learn how to authenticate your Formo API requests. Use your API Key to call to the Formo Events API, Query API, BI integration, and more.
+- [Create Board](https://docs.formo.so/api/boards/create.md): Create a new dashboard board for your project. Specify a title and optional description to organize your analytics charts and visualizations.
+- [Create Chart](https://docs.formo.so/api/boards/create-chart.md): Add a new chart to a dashboard board with a SQL query and chart type. Supports line, bar, pie, funnel, and other visualization types.
+- [Delete Board](https://docs.formo.so/api/boards/delete.md): Permanently remove a dashboard board and all associated charts by board ID. This action cannot be undone once the board is deleted.
+- [Delete Chart](https://docs.formo.so/api/boards/delete-chart.md): Permanently delete a chart from a dashboard board by board and chart ID. The chart and its visualization settings are removed from the layout.
+- [Get Board](https://docs.formo.so/api/boards/get.md): Retrieve a single dashboard board by ID. Returns the board title, description, layout configuration, and associated chart metadata.
+- [Get Chart](https://docs.formo.so/api/boards/get-chart.md): Retrieve a single chart by board and chart ID. Returns the chart type, SQL query, visualization settings, and display configuration.
+- [List Boards](https://docs.formo.so/api/boards/list.md): Retrieve all dashboard boards for your project. Returns board IDs, titles, descriptions, and chart counts for each analytics dashboard.
+- [List Charts](https://docs.formo.so/api/boards/list-charts.md): Retrieve all charts attached to a specific dashboard board. Returns chart IDs, types, SQL queries, and visualization configurations.
+- [Update Board](https://docs.formo.so/api/boards/update.md): Update a dashboard board by ID. Modify the board title, description, or layout configuration for your analytics dashboards via the Formo API.
+- [Update Chart](https://docs.formo.so/api/boards/update-chart.md): Update an existing chart on a dashboard board. Modify the chart query, type, title, or visualization settings through the Formo API.
+- [Add Contract](https://docs.formo.so/api/contracts/create.md): Register a new smart contract for event tracking by providing a chain ID, contract address, and optional ABI for automatic event decoding.
+- [Delete Contract](https://docs.formo.so/api/contracts/delete.md): Remove a tracked smart contract by chain and address. Stops event ingestion for the contract and removes it from your project configuration.
+- [Get Contract](https://docs.formo.so/api/contracts/get.md): Fetch a single monitored smart contract by chain ID and address. Returns the contract address, chain ID, ABI, and event tracking configuration.
+- [List Contracts](https://docs.formo.so/api/contracts/list.md): Retrieve all tracked smart contracts for your project. Returns contract addresses, chain IDs, ABIs, and event tracking configurations.
+- [Update Contract](https://docs.formo.so/api/contracts/update.md): Update a tracked smart contract by chain and address. Modify the contract ABI, display name, or event tracking configuration through the Formo API.
+- [Errors](https://docs.formo.so/api/errors.md): Stable error codes returned by the Formo Public API. Branch on error.code for reliable client behavior; doc_url in every response anchors back to this page.
+- [Track Event](https://docs.formo.so/api/events/track.md): Send individual or batched events to Formo from any source via the Events API at events.formo.so. Supports custom events and all standard event types.
+- [Idempotency](https://docs.formo.so/api/idempotency.md): Use the Idempotency-Key header to safely retry POST/PUT/PATCH/DELETE requests on the Formo Public API without double-creating or double-charging.
+- [API overview](https://docs.formo.so/api/overview.md): Explore the Formo API suite including the Events API for data ingestion, Query API for SQL analytics, and Profiles API for wallet data and personalization.
+- [Create Label](https://docs.formo.so/api/profiles/create-label.md): Add or update one or more labels on a wallet profile. Labels tag wallets with custom attributes like VIP tier, airdrop eligibility, or verification status.
+- [Delete Label](https://docs.formo.so/api/profiles/delete-label.md): Delete a label from a wallet profile by tag_id, optionally scoped to a specific chain.
+- [Get Profile](https://docs.formo.so/api/profiles/get.md): Retrieve a comprehensive wallet profile by address, including onchain labels, token holdings, DeFi positions, web demographics, and lifecycle data.
+- [Import Wallets](https://docs.formo.so/api/profiles/import.md): Bulk import wallet addresses into your Formo project via the API. Enrich imported wallets with onchain data, labels, and profile information automatically.
+- [Search Profiles](https://docs.formo.so/api/profiles/search.md): Search and filter wallet profiles by address, socials, labels, net worth, chain activity, and more. Returns paginated results with full profile data.
+- [Update Profile](https://docs.formo.so/api/profiles/update.md): Merge-update profile properties for a wallet. Set display name, email, socials, avatar, location, and other identity fields via a single PUT request.
+- [Send Query](https://docs.formo.so/api/query.md): Execute read-only ClickHouse SQL queries against your Formo analytics data warehouse via the API. Returns structured results for events, users, and sessions.
+- [Get Event Timeseries](https://docs.formo.so/api/query/event-timeseries.md): Daily event count over the selected window.
+- [Get Flow](https://docs.formo.so/api/query/flow.md): Session-scoped user-flow transitions for Sankey-style charts.
+- [Get Funnel](https://docs.formo.so/api/query/funnel.md): Multi-step conversion funnel with per-step user counts, conversion ratios, and median time-to-convert.
+- [Get KPIs](https://docs.formo.so/api/query/kpis.md): Time-series traffic KPIs (visitors, pageviews, bounce rate, session duration), with optional dimension breakdown and previous-period comparison.
+- [Get Retention](https://docs.formo.so/api/query/retention.md): User retention cohorts by signup week.
+- [Get Revenue by Metric](https://docs.formo.so/api/query/revenue-by-metric.md): Revenue grouped by a chosen column (e.g. pathname, referrer).
+- [Get Revenue Overview](https://docs.formo.so/api/query/revenue-overview.md): Revenue and transaction volume time-series with optional grouping and previous-period comparison.
+- [Get Revenue Timeseries](https://docs.formo.so/api/query/revenue-timeseries.md): Per-event revenue and volume trend for a single wallet.
+- [Get Top Chains](https://docs.formo.so/api/query/top-chains.md): Top blockchain chains by activity.
+- [Get Top Events](https://docs.formo.so/api/query/top-events.md): Top events by frequency over the selected window.
+- [Get Top Locations](https://docs.formo.so/api/query/top-locations.md): Top countries, regions and cities by visits.
+- [Get Top Pages](https://docs.formo.so/api/query/top-pages.md): Top pages by visits and users over the selected window.
+- [Get Top Sources](https://docs.formo.so/api/query/top-sources.md): Top traffic sources by referrer or UTM dimension over the selected window.
+- [Get Top Wallets](https://docs.formo.so/api/query/top-wallets.md): Top wallet types (e.g. MetaMask, Coinbase Wallet) by connections.
+- [Get User Frequency](https://docs.formo.so/api/query/user-frequency.md): Distribution of users by visit count over the selected window.
+- [Get User Lifecycle](https://docs.formo.so/api/query/user-lifecycle.md): Wallet user counts by lifecycle stage (New, Returning, Power user, Resurrected, Churned).
+- [Get Volume by Metric](https://docs.formo.so/api/query/volume-by-metric.md): Transaction volume grouped by a chosen column (e.g. pathname, referrer).
+- [Create Segment](https://docs.formo.so/api/segments/create.md): Create a new audience segment by defining filter rules based on wallet properties, onchain behavior, and user demographics via the Formo API.
+- [Delete Segment](https://docs.formo.so/api/segments/delete.md): Permanently remove an audience segment from your project by segment ID. Deleted segments can no longer be used in filters or exports.
+- [List Segments](https://docs.formo.so/api/segments/list.md): Retrieve all audience segments for your project using the Formo API. Returns segment names, filter criteria, and creation timestamps.
+- [Chains](https://docs.formo.so/chains/overview.md): View all EVM and non-EVM blockchain networks supported by Formo, including Ethereum, Arbitrum, Optimism, Polygon, Base, Solana, and more.
+- [Alerts](https://docs.formo.so/cli/alerts.md): Manage project alerts from the terminal with the Formo CLI. Create, list, update, delete, and toggle alerts that notify you of key events and thresholds.
+- [Analytics](https://docs.formo.so/cli/analytics.md): Run Formo's pre-built analytics pipes — KPIs, funnels, retention, revenue, and top-N breakdowns — directly from the terminal, without writing SQL.
+- [Boards](https://docs.formo.so/cli/boards.md): Manage analytics dashboard boards from the terminal with the Formo CLI. Create, list, update, and delete boards that organize your charts and reports.
+- [Charts](https://docs.formo.so/cli/charts.md): Create, list, update, and delete charts within dashboard boards using the Formo CLI. Charts are scoped to a specific board and support multiple types.
+- [Contracts](https://docs.formo.so/cli/contracts.md): Register, list, update, and remove tracked smart contracts from the terminal. Manage ABIs and event configurations for onchain event ingestion.
+- [Import](https://docs.formo.so/cli/import.md): Bulk import wallet addresses into your Formo project from a CSV file or stdin using the CLI. Imported wallets are automatically enriched with onchain data.
+- [CLI Overview](https://docs.formo.so/cli/overview.md): Query wallet profiles, run SQL analytics, manage dashboards, alerts, contracts, segments, and more - directly from your terminal or via AI agents.
+- [Profiles](https://docs.formo.so/cli/profiles.md): Look up wallet profiles, search your user base, update identity properties, and manage labels using the Formo CLI profiles commands.
+- [Query](https://docs.formo.so/cli/query.md): Run ClickHouse SQL queries against your Formo analytics data warehouse directly from the terminal and output results in table, JSON, or CSV format.
+- [Segments](https://docs.formo.so/cli/segments.md): Manage audience segments from the terminal with the Formo CLI. Create segments with filter rules, list existing segments, and delete segments by ID.
+- [Attribution](https://docs.formo.so/data/attribution.md): Learn why onchain attribution matters for sustainable growth and how Formo attributes conversions from first click to wallet transaction.
+- [BI Integration](https://docs.formo.so/data/bi.md): Connect Metabase, Grafana, Tableau, and other BI tools to your Formo data warehouse using the HTTP interface for custom SQL queries and dashboards.
+- [Data catalog](https://docs.formo.so/data/catalog.md): Full data catalog for the Formo warehouse covering events, users, sessions, revenue, and wallet profiles queryable with ClickHouse SQL.
+- [Core concepts](https://docs.formo.so/data/concepts.md): Understand the three core Formo data concepts: events that capture user actions, users identified by wallet address, and properties that add context.
+- [Data Sync](https://docs.formo.so/data/data-sync.md): Configure data pipelines to export events, users, and query results on a schedule or on-demand to external destinations like S3, BigQuery, and webhooks.
+- [Chain event](https://docs.formo.so/data/events/chain.md): Reference for the chain event emitted when a user switches blockchain networks, capturing the new chain ID and wallet address in the payload.
+- [Common fields](https://docs.formo.so/data/events/common.md): Reference for the common and contextual fields shared across all Formo events, including event type, timestamps, device context, and session identifiers.
+- [Connect event](https://docs.formo.so/data/events/connect.md): Reference for the connect event emitted when a user connects their wallet, including the newly connected chain ID and wallet address fields.
+- [Detect event](https://docs.formo.so/data/events/detect.md): Reference for the detect event that identifies a visitor's installed wallet provider, capturing the wallet name and RDNS before a connection is made.
+- [Disconnect event](https://docs.formo.so/data/events/disconnect.md): Reference for the disconnect event emitted when a user disconnects their wallet, including the chain ID and wallet address payload fields.
+- [Identify event](https://docs.formo.so/data/events/identify.md): Reference for the identify event that ties users to their actions and records traits like wallet name and RDNS for cross-session user recognition.
+- [Events overview](https://docs.formo.so/data/events/overview.md): Learn how to send event data to Formo's APIs and the correct format for capturing events with SDKs, including identify, track, connect, and transaction calls.
+- [Page event](https://docs.formo.so/data/events/page.md): Reference for the page view event that records web and mobile screen visits, with auto-collected browser properties and unified cross-platform tracking.
+- [Signature event](https://docs.formo.so/data/events/signature.md): Reference for the signature event that tracks wallet message signing, including requested, rejected, and confirmed statuses with message and chain data.
+- [Custom events](https://docs.formo.so/data/events/track.md): Reference for the custom events used to record custom user actions and in-app behaviour.
+- [Transaction event](https://docs.formo.so/data/events/transaction.md): Reference for the transaction event, including status tracking for started, broadcasted, confirmed, reverted, and rejected wallet transactions with chain and hash data.
+- [Metrics](https://docs.formo.so/data/metrics.md): Complete reference of all Formo metrics including visitors, wallets connected, transactions, revenue, retention rates, and acquisition channel breakdowns.
+- [What we collect](https://docs.formo.so/data/what-we-collect.md): Understand exactly what data the Formo SDK collects, how it flows through the system, and how privacy is maintained with no cookies or fingerprinting.
+- [Activity feed](https://docs.formo.so/features/product-analytics/activity.md): View a real-time event stream of user actions including page views, wallet connects, signatures, and transactions to understand product usage.
+- [Ask Formo](https://docs.formo.so/features/product-analytics/ai.md): Ask questions about your analytics data in natural language and get AI-generated SQL queries, charts, and growth insights without writing code.
+- [Alerts](https://docs.formo.so/features/product-analytics/alerts.md): Set up real-time alerts for whale wallet connects, large transactions, and custom event thresholds with notifications delivered via webhook (including Slack via an incoming-webhook URL).
+- [Dashboards](https://docs.formo.so/features/product-analytics/charts.md): Build custom dashboards with line, bar, pie, and funnel charts to visualize analytics data. Share boards with your team for collaborative reporting.
+- [Contract events](https://docs.formo.so/features/product-analytics/contract-events.md): Add smart contract addresses to ingest and decode onchain events like swaps, transfers, and mints in real time across supported EVM chains.
+- [Custom events](https://docs.formo.so/features/product-analytics/custom-events.md): Define and track custom events like button clicks, form submissions, and purchases with structured properties using the Formo SDK Track API.
+- [Explorer](https://docs.formo.so/features/product-analytics/explore.md): Run custom ClickHouse SQL queries against your analytics data warehouse to build advanced reports, export results, and answer questions beyond dashboards.
+- [Flows](https://docs.formo.so/features/product-analytics/flows.md): Visualize user navigation paths with Sankey diagrams to identify the most common flows leading to or from any event, and find drop-off points.
+- [Funnels](https://docs.formo.so/features/product-analytics/funnels.md): Build multi-step conversion funnels that track user journeys from page view to wallet connect to onchain transaction, with drop-off rates at each step.
+- [Insights](https://docs.formo.so/features/product-analytics/insights.md): Receive AI-powered weekly insights that surface acquisition quality, activation moments, revenue trends, and churn signals from your analytics data.
+- [Key metrics](https://docs.formo.so/features/product-analytics/key-metrics.md): Track key growth metrics like visitors, wallets, transactions, and user acquisition channels to understand your product performance.
+- [Live view](https://docs.formo.so/features/product-analytics/live-view.md): See a realtime activity feed of your current visitors on a rotating globe. Perfect for launch day monitoring or a mission control dashboard.
+- [Product analytics overview](https://docs.formo.so/features/product-analytics/overview.md): Track the full user journey from acquisition to onchain conversion and retention with unified product analytics for DeFi and crypto applications.
+- [Retention](https://docs.formo.so/features/product-analytics/retention.md): Measure user retention with cohort analysis to identify which user groups return over time, track stickiness, and spot churn patterns in your onchain app.
+- [Form builder](https://docs.formo.so/features/token-gated-forms/form-builder.md): Build and customize token-gated forms, waitlists, and surveys for your web3 community with drag-and-drop fields and wallet-connected responses.
+- [Token gating](https://docs.formo.so/features/token-gated-forms/token-gating.md): Restrict form access by requiring responders to hold specific ERC-20 tokens, NFTs, or complete identity verification before submitting responses.
+- [World ID](https://docs.formo.so/features/token-gated-forms/world-id.md): Add World ID verification to your Formo forms to ensure submissions come from real, unique humans. Prevent bots and duplicate entries with proof of personhood.
+- [Audience insights](https://docs.formo.so/features/wallet-intelligence/audience-insights.md): Analyze your audience with breakdowns of onchain activity, top apps, token holdings, preferred chains, net worth distribution, and user demographics.
+- [Wallet intelligence overview](https://docs.formo.so/features/wallet-intelligence/overview.md): Explore wallet intelligence features including wallet profiles, audience insights, user segmentation, labels, and scoring for onchain user targeting.
+- [Wallet search](https://docs.formo.so/features/wallet-intelligence/search.md): Look up any wallet address to generate an on-demand profile with net worth, DeFi positions, onchain labels, and linked social identities.
+- [User segmentation](https://docs.formo.so/features/wallet-intelligence/segments.md): Create audience segments by grouping users based on wallet properties, onchain behavior, demographics, and lifecycle stage for targeted campaigns.
+- [Wallet labels](https://docs.formo.so/features/wallet-intelligence/wallet-labels.md): Understand user interests and behavior with automatically generated wallet labels based on onchain activity, reputation, and user properties.
+- [Wallet profiles](https://docs.formo.so/features/wallet-intelligence/wallet-profiles.md): View unified wallet profiles that combine offchain and onchain data including DeFi positions, token balances, session history, and user properties.
+- [How to Use Ask Formo to Surface Growth Insights](https://docs.formo.so/guides/ask-ai.md): Use Formo's AI assistant to explore analytics data with natural language questions, generate SQL queries automatically, and uncover hidden growth insights.
+- [How to Track Smart Contract Events in Real Time](https://docs.formo.so/guides/contract-events.md): Monitor smart contract activity by adding contract addresses, tracking events like swaps and transfers, and using onchain data in funnels and dashboards.
+- [How to Build a Custom Dashboard](https://docs.formo.so/guides/custom-dashboard.md): Create a custom dashboard with charts for users, transactions, revenue, retention, and acquisition channels using Formo's dashboard builder.
+- [How to Track DAU, WAU, and MAU](https://docs.formo.so/guides/dau-tracking.md): Measure daily, weekly, and monthly active users for your onchain app with wallet-based analytics. Build DAU, WAU, and MAU dashboards and charts.
+- [How to Analyze User Onboarding with Flows](https://docs.formo.so/guides/flows.md): Visualize how new users navigate your crypto app with Sankey flow diagrams, identify drop-off points, and optimize the path to first wallet transaction.
+- [How to Build Conversion Funnels](https://docs.formo.so/guides/funnels.md): Build multi-step conversion funnels to track user journeys from first page view to wallet connect to onchain transaction, and identify where users drop off.
+- [How to Set Up Marketing Attribution](https://docs.formo.so/guides/onchain-attribution.md): Track the complete user journey from first touch to onchain conversion with multi-touch attribution for crypto marketing campaigns.
+- [How to Track and Improve User Retention](https://docs.formo.so/guides/retention.md): Measure Day 7, 30, and 90 retention rates for your crypto app with cohort analysis, identify churn patterns, and build segments to re-engage at-risk users.
+- [How to Query Your Data with the SQL Explorer](https://docs.formo.so/guides/sql-explorer.md): Write custom ClickHouse SQL queries against your Formo analytics data to build reports, export results, and connect external BI tools like Metabase and Grafana.
+- [How to Segment and Export Wallets for Targeted Campaigns](https://docs.formo.so/guides/wallet-segmentation.md): Build targeted user segments using wallet properties, onchain behavior, and lifecycle data, then export them as CSV for marketing campaigns on X and Farcaster.
+- [Install Formo](https://docs.formo.so/install.md): Step-by-step guide to installing the Formo SDK on your website and app using script tags, npm, or AI-assisted setup for real-time onchain analytics.
+- [Integrations](https://docs.formo.so/integrations/overview.md): Browse supported wallet providers, developer tools, and blockchain networks that integrate with Formo for analytics and event tracking.
+- [Start here](https://docs.formo.so/intro.md): Get started with Formo, the data platform designed for DeFi. Understand your users, measure ROI, and attribute conversions from offchain to onchain to drive growth.
+- [MCP API Key](https://docs.formo.so/mcp/api-key.md): Connect MCP clients to Formo with a Workspace API Key.
+- [MCP OAuth](https://docs.formo.so/mcp/oauth.md): Connect OAuth-capable MCP clients to Formo.
+- [MCP Overview](https://docs.formo.so/mcp/overview.md): Connect AI agents, coding tools, and custom workflows to Formo with MCP.
+- [Mobile](https://docs.formo.so/sdks/mobile.md): Track user events in your mobile apps with the Formo React Native SDK. Measure what matters onchain with full device context and wallet event tracking.
+- [Server](https://docs.formo.so/sdks/server.md): Send events and identify users from your backend with Formo server-side SDKs for Node.js, Python, and other languages. Stateless and wallet-native.
+- [Web](https://docs.formo.so/sdks/web.md): Install and configure the Formo Web SDK to track page views, wallet connects, transactions, and custom events in your website or web app.
+- [Content Security Policy (CSP)](https://docs.formo.so/security/csp.md): Configure Content Security Policy headers to protect your site from XSS, data injection, and man-in-the-middle attacks when using Formo.
+- [Multi-Factor Authentication (MFA)](https://docs.formo.so/security/mfa.md): Enable multi-factor authentication on your Formo account using time-based one-time passwords from an authenticator app for stronger sign-in security.
+- [Security Best Practices](https://docs.formo.so/security/overview.md): Learn how Formo protects your data with privacy-first design, encryption, RBAC, MFA, SSO, CSP, and Subresource Integrity security practices.
+- [Role Based Access Control (RBAC)](https://docs.formo.so/security/roles.md): Manage team permissions with role-based access control. Assign Owner, Admin, or Member roles to enforce least-privilege access across your workspace.
+- [Subresource Integrity (SRI)](https://docs.formo.so/security/sri.md): Learn how Formo uses Subresource Integrity to verify fetched resources and protect against XSS, NPM hijacking, and man-in-the-middle attacks.
+- [Single Sign-On (SSO)](https://docs.formo.so/security/sso.md): Configure SAML-based Single Sign-On for your Formo organization to centralize team access, enforce identity provider policies, and streamline sign-in.
+
+## OpenAPI Specs
+
+- [openapi](https://docs.formo.so/api/openapi.json)
+
+## Optional
+
+- [Changelog](https://formo.so/changelog)
+- [Support](https://formo.so/support)
+- [Status](https://status.formo.so)

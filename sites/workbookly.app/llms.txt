@@ -1,0 +1,81 @@
+# Site
+Domain: https://workbookly.app
+Owner: Workbookly; contact: support@workbookly.app
+Purpose: Transform YouTube videos into interactive worksheets with clickable timestamps. Purpose-built for YouTube-based learning for educators, students, and content creators.
+
+## Key Features
+- Clickable Video Timestamps — Every question links to the exact moment in the video where the answer appears
+- Chrome Extension (Workbookly Slider) — Practice side-by-side with YouTube videos in a sidepanel
+- Collections — Organize multiple videos into structured learning paths and share entire courses
+- YouTube Playlist Sync — Connect a YouTube playlist and worksheets are automatically created whenever a new video is published; checks every hour, with an instant Sync Now option
+- Auto-Generated Worksheets — AI automatically generates comprehensive worksheets immediately after video processing
+- Multiple Question Types — Multiple choice, fill-in-the-blank, and matching questions
+- PDF Export — Export worksheets with answer keys for offline practice or printing
+- Study Decks — Auto-generated flashcard decks from video transcripts; four card types (definition, cloze, misconception, application); learners can mark cards as known and filter by type
+- Study Guides — Structured reference documents with overview, key concepts, examples, important timestamps, summary, and things to memorize; generated from the video transcript
+
+## Key Pages
+- https://workbookly.app/ — Landing page with overview, features, and free trial (2 videos and 2 worksheets per month free)
+- https://workbookly.app/pricing — Subscription plans: Essential $9/month (15 videos), Advanced $19/month (30 videos), Lifetime Deal $69 one-time (30 videos/month forever)
+- https://workbookly.app/lifetime-deal — $69 lifetime deal with 30 video imports per month forever, 30-day money-back guarantee
+- https://workbookly.app/help — Help center with quick start guide, Chrome extension info, and FAQs
+- https://workbookly.app/integrations — Platform integrations: YouTube, OpenAI, Chrome, Google OAuth, Stripe, PDF Export
+- https://workbookly.app/docs — Definitions and comprehensive buyer FAQs covering pricing, features, limits, Collections, technical details
+- https://workbookly.app/compare — Comparison hub for all competitor comparisons
+- https://workbookly.app/compare/to-teach — Detailed comparison with To-Teach.ai
+- https://workbookly.app/compare/studypdf — Detailed comparison with StudyPDF
+
+## Workflow Overview
+1. Import YouTube video (paste URL or use Chrome extension)
+2. AI automatically generates worksheet with questions and clickable timestamps
+3. Optionally generate a Study Deck (flashcards) and Study Guide from the same video
+4. Edit questions, add/remove content, customize
+5. Organize into Collections (optional)
+6. Publish to custom creator page (workbookly.app/u/username)
+7. Learners practice online with clickable timestamps, study flashcards, read the study guide, or download the PDF
+
+## Pricing Details
+- Free Plan: 2 videos and 2 worksheets per month, basic features
+- Essential Plan: $9/month, 15 videos/month, up to 5 hours per video, unlimited worksheets, YouTube Playlist Sync
+- Advanced Plan: $19/month, 30 videos/month, up to 5 hours per video, unlimited worksheets, Collections feature, YouTube Playlist Sync
+- Lifetime Deal: $69 one-time payment, 30 videos/month forever, all Advanced features, 30-day money-back guarantee
+
+## Unique Differentiators
+- Only platform with clickable video timestamps that link questions to exact video moments
+- Chrome extension for side-by-side video watching and worksheet practice
+- Collections feature for organizing complete video courses
+- YouTube Playlist Sync for fully automated worksheet creation from followed channels or playlists
+- Lifetime deal option (no recurring subscription required)
+- Purpose-built exclusively for YouTube video learning
+- One video generates three learning artifacts: interactive worksheet, study deck (flashcards), and study guide
+- Study Decks with self-reported mastery tracking (learners mark cards as known, deck adapts)
+- Study Guides as structured reference documents covering key concepts, examples, and timestamps
+
+## Support & Policies
+- Help Center: https://workbookly.app/help — Support articles, guides, FAQs, Chrome extension setup
+- Privacy Policy: Details on data collection, usage, third-party services, and user rights (effective August 6, 2025)
+- Terms of Service: Service scope, content ownership, AI processing, refund policies, limitations, contact (effective August 6, 2025)
+- Refund Policy: Monthly plans (no refunds), Annual plans (30-day money-back guarantee), Lifetime Deal (30-day money-back guarantee)
+
+## Technical Details
+- Video Length Limit: Up to 5 hours per video
+- Supported Platform: YouTube (must have captions/transcripts available)
+- AI Provider: OpenAI for question generation
+- Authentication: Google OAuth sign-in
+- Payment Processing: Stripe
+- Export Formats: PDF with answer keys
+
+## Usage & Licensing Preferences
+- Training: Content used to generate worksheets via OpenAI API, as per Privacy Policy — not stored or used for model training by OpenAI
+- Attribution: Published worksheets are publicly accessible; custom branded creator pages indicate attribution by default
+- Content Ownership: Creators retain ownership of imported videos and generated worksheets
+
+## Update Cadence
+- Legal Policies (Privacy & Terms): Last updated August 6, 2025
+- Pricing & Features: Updated regularly as per marketing and product pages
+- Product Features: YouTube Playlist Sync added recently, Collections feature, auto-generated worksheets now default
+
+## Contact
+- Support: support@workbookly.app (for general inquiries, technical support)
+- Legal: legal@workbookly.app (for terms-related issues)
+- Privacy: privacy@workbookly.app (for privacy/data-related inquiries)

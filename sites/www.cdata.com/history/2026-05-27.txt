@@ -1,0 +1,66 @@
+# CData Software
+
+> CData delivers a comprehensive suite of connectivity solutions that empower businesses to access, integrate, and work with real-time data across cloud, on-premises, and hybrid environments. Our mission is to simplify data connectivity for everyone — from developers to data engineers to enterprise IT.
+
+CData products are built on standardized interfaces and support hundreds of data sources, enabling organizations to overcome data silos, accelerate integration, and innovate faster.
+
+## Products
+
+### Universal Connectivity & Integration
+
+- [CData Drivers](https://www.cdata.com/drivers/): High-performance ODBC, JDBC, ADO.NET, and Python connectors for accessing over 300+ SaaS, database, and NoSQL sources.
+- [CData Connect AI](https://www.cdata.com/ai/): A zero-install, cloud-native connectivity platform that provides live data access for analytics, integration, and workflow tools.
+- [CData Sync](https://www.cdata.com/sync/): A flexible, agent-based ETL/ELT tool to replicate and move data between databases, cloud services, and warehouses.
+
+### Application Integration & Automation
+
+- [CData Arc](https://www.cdata.com/arc/): A modern B2B automation platform supporting secure MFT, EDI, and API-based workflow automation.
+- [CData API Server](https://www.cdata.com/apiserver/): Instantly create secure, RESTful APIs from existing on-premises or cloud-based databases with no coding.
+
+### Productivity & Collaboration
+
+- [CData Connect Spreadsheets](https://www.cdata.com/ai/spreadsheets/): Enables real-time querying and updating of external data sources from Excel and Google Sheets.
+
+### Embedded & OEM Connectivity
+
+- [CData Embedded Connectors](https://www.cdata.com/embed/connectors/): White-label, embeddable drivers and SDKs that integrate directly into third-party platforms and SaaS products.
+
+### Specialized Integration
+
+- [CData DBAmp](https://www.cdata.com/dbamp/): Bi-directional integration between Salesforce and SQL Server using T-SQL.
+
+## Supported Technologies
+
+### Data Management & Analytics
+
+- **ETL / ELT & Data Replication**: Reliable and scalable replication to Snowflake, BigQuery, Redshift, Databricks, and others.
+- **Data Virtualization & Federation**: Live querying without moving data, across hybrid environments.
+- **Semantic Layer Modeling**: Organize disparate schemas into a unified, consistent business view.
+- **Governance-Ready Access**: Fine-grained access controls, auditing, and secure encryption.
+
+### API & Application Integration
+
+- **API Enablement**: Create REST endpoints from any data source with CData API Server.
+- **EDI & MFT**: Secure file transfers and standards-based message exchange with CData Arc.
+- **Workflow Automation**: Visual data flow builders for building integrations without code.
+
+### Embedded Connectivity
+
+- **ISV/OEM Integration**: Use CData SDKs and drivers to embed branded data access into your app or platform.
+- **Multi-language Support**: Interfaces for .NET, Java, Python, Node.js, Go, and more.
+- **Cross-Platform Distribution**: Available on Windows, Linux, macOS, and containerized environments.
+
+### Ecosystem Compatibility
+
+- **Databases**: SQL Server, PostgreSQL, Oracle, MySQL, SQLite, MongoDB, Cassandra, and more.
+- **Cloud Warehouses**: Snowflake, Google BigQuery, Amazon Redshift, Azure Synapse.
+- **SaaS Applications**: Salesforce, NetSuite, Workday, HubSpot, Dynamics 365, QuickBooks, Zendesk, ServiceNow, and others.
+- **BI & Analytics**: Power BI, Tableau, Looker, Qlik, Excel, Google Sheets.
+- **iPaaS Tools**: MuleSoft, Boomi, Zapier, Workato, Make.com.
+
+## Optional Resources
+
+- [Knowledge Base](https://www.cdata.com/kb/): How-tos and troubleshooting.
+- [Blog](https://www.cdata.com/blog/): Insights on modern data integration trends.
+- [Community Forum](https://community.cdata.com/): Peer support and Q&A.
+- [Support Portal](https://www.cdata.com/support/): Contact support and open tickets.

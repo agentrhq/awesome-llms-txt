@@ -1,0 +1,179 @@
+# LLM.txt for TheThaiPass.com
+# Last Updated: 2026-01-22
+
+==================================================
+MAIN WEBSITE URLS
+==================================================
+https://www.thethaipass.com/
+https://www.thethaipass.com/about
+https://www.thethaipass.com/activities
+https://www.thethaipass.com/articles
+https://www.thethaipass.com/booking-information
+https://www.thethaipass.com/cancellation
+https://www.thethaipass.com/error
+https://www.thethaipass.com/faq
+https://www.thethaipass.com/forgot-password
+https://www.thethaipass.com/login
+https://www.thethaipass.com/pro
+https://www.thethaipass.com/pro
+https://www.thethaipass.com/privacy-policy
+https://www.thethaipass.com/reset-password
+https://www.thethaipass.com/signup
+https://www.thethaipass.com/signup-merchant
+https://www.thethaipass.com/support
+https://www.thethaipass.com/terms-conditions
+https://www.thethaipass.com/thailand-trip-planner
+https://www.thethaipass.com/things-to-do-in-all
+https://www.thethaipass.com/things-to-do-in-ao-nang
+https://www.thethaipass.com/things-to-do-in-bangkok
+https://www.thethaipass.com/things-to-do-in-cha-am
+https://www.thethaipass.com/things-to-do-in-chaing-rai
+https://www.thethaipass.com/things-to-do-in-chiang-mai
+https://www.thethaipass.com/things-to-do-in-chiang-rai
+https://www.thethaipass.com/things-to-do-in-hat-yai
+https://www.thethaipass.com/things-to-do-in-hua-hin
+https://www.thethaipass.com/things-to-do-in-kanchanaburi
+https://www.thethaipass.com/things-to-do-in-koh-samui
+https://www.thethaipass.com/things-to-do-in-krabi
+https://www.thethaipass.com/things-to-do-in-null
+https://www.thethaipass.com/things-to-do-in-others
+https://www.thethaipass.com/things-to-do-in-pattaya
+https://www.thethaipass.com/things-to-do-in-pattaya-beach
+https://www.thethaipass.com/things-to-do-in-phuket
+https://www.thethaipass.com/things-to-do-in-thailand
+https://www.thethaipass.com/verify-email
+
+# Articles
+https://www.thethaipass.com/articles/currency
+https://www.thethaipass.com/articles/general
+https://www.thethaipass.com/articles/itinerary
+https://www.thethaipass.com/articles/shopping
+https://www.thethaipass.com/articles/visa
+
+==================================================
+ATTRACTIONS (ALL ATTRACTION URLS)
+==================================================
+https://www.thethaipass.com/attractions/ancient-city
+https://www.thethaipass.com/attractions/ao-nang-beach-krabi
+https://www.thethaipass.com/attractions/big-buddha-statue-phuket
+https://www.thethaipass.com/attractions/chao-phraya-princess-cruise-bangkok
+https://www.thethaipass.com/attractions/chinatown-bangkok
+https://www.thethaipass.com/attractions/damnoen-sauak-floating-market-bangkok
+https://www.thethaipass.com/attractions/death-railway-bridge-kanchanaburi
+https://www.thethaipass.com/attractions/emerald-pool-krabi
+https://www.thethaipass.com/attractions/erawan-museum
+https://www.thethaipass.com/attractions/erawan-national-park-kanchanaburi
+https://www.thethaipass.com/attractions/grand-palace-bangkok
+https://www.thethaipass.com/attractions/james-bond-island-phuket
+https://www.thethaipass.com/attractions/jim-thompson-hours-museum-bangkok
+https://www.thethaipass.com/attractions/jj-night-market-kanchanaburi
+https://www.thethaipass.com/attractions/jomtien-beach-pattaya
+https://www.thethaipass.com/attractions/jurassic-world-bangkok
+https://www.thethaipass.com/attractions/khan-chi-chan-pattaya
+https://www.thethaipass.com/attractions/klong-thom-hot-springs-krabi
+https://www.thethaipass.com/attractions/koh-larn-pattaya
+https://www.thethaipass.com/attractions/nong-nooch-botanical-garden
+https://www.thethaipass.com/attractions/pattaya-floating-market
+https://www.thethaipass.com/attractions/pattaya-night-bazaar
+https://www.thethaipass.com/attractions/phang-nga-bay-phuket
+https://www.thethaipass.com/attractions/phi-phi-island
+https://www.thethaipass.com/attractions/phuket-old-town
+https://www.thethaipass.com/attractions/promthep-cape-phuket
+https://www.thethaipass.com/attractions/racha-yai-island-phuket
+https://www.thethaipass.com/attractions/railay-beach-krabi
+https://www.thethaipass.com/attractions/safari-world-bangkok
+https://www.thethaipass.com/attractions/sanctuary-of-truth-pattaya
+https://www.thethaipass.com/attractions/similan-islands-phuket
+https://www.thethaipass.com/attractions/tiger-cave-temple-krabi
+https://www.thethaipass.com/attractions/walking-street-pattaya
+https://www.thethaipass.com/attractions/wat-arun-bangkok
+https://www.thethaipass.com/attractions/wat-chalong-phuket
+https://www.thethaipass.com/attractions/wat-pho-bangkok
+
+==================================================
+ACTIVITIES & EXPERIENCES (CITY-WISE)
+==================================================
+
+--------------------------------------------------
+BANGKOK
+--------------------------------------------------
+Activities: https://www.thethaipass.com/bangkok/activities
+Attraction Tickets: https://www.thethaipass.com/bangkok/attraction-tickets
+Events: https://www.thethaipass.com/bangkok/events
+Food & Beverage: https://www.thethaipass.com/bangkok/food-and-beverage
+Lifestyle: https://www.thethaipass.com/bangkok/lifestyle
+Tours: https://www.thethaipass.com/bangkok/tours
+Transportation: https://www.thethaipass.com/bangkok/transportation
+WiFi & SIM Cards: https://www.thethaipass.com/bangkok/wifi-sim-cards
+
+--------------------------------------------------
+CHIANG MAI
+--------------------------------------------------
+Attraction Tickets: https://www.thethaipass.com/chiang-mai/attraction-tickets
+Entertainment Activities: https://www.thethaipass.com/chiang-mai/entertainment-activities
+Events: https://www.thethaipass.com/chiang-mai/events
+Food & Beverage: https://www.thethaipass.com/chiang-mai/food-and-beverage
+Lifestyle: https://www.thethaipass.com/chiang-mai/lifestyle
+Tours: https://www.thethaipass.com/chiang-mai/tours
+Transportation: https://www.thethaipass.com/chiang-mai/transportation
+
+--------------------------------------------------
+HUA HIN
+--------------------------------------------------
+Attraction Tickets: https://www.thethaipass.com/hua-hin/attraction-tickets
+Food & Beverage: https://www.thethaipass.com/hua-hin/food-and-beverage
+Lifestyle: https://www.thethaipass.com/hua-hin/lifestyle
+Tours: https://www.thethaipass.com/hua-hin/tours
+
+--------------------------------------------------
+KANCHANABURI
+--------------------------------------------------
+Attraction Tickets: https://www.thethaipass.com/kanchanaburi/attraction-tickets
+Tours: https://www.thethaipass.com/kanchanaburi/tours
+
+--------------------------------------------------
+KOH SAMUI
+--------------------------------------------------
+Entertainment Activities: https://www.thethaipass.com/koh-samui/entertainment-activities
+Tours: https://www.thethaipass.com/koh-samui/tours
+Transportation: https://www.thethaipass.com/koh-samui/transportation
+
+--------------------------------------------------
+KRABI
+--------------------------------------------------
+Entertainment Activities: https://www.thethaipass.com/krabi/entertainment-activities
+Tours: https://www.thethaipass.com/krabi/tours
+Transportation: https://www.thethaipass.com/krabi/transportation
+
+--------------------------------------------------
+PATTAYA
+--------------------------------------------------
+Activities: https://www.thethaipass.com/pattaya/activities
+Entertainment Activities: https://www.thethaipass.com/pattaya/entertainment-activities
+Food & Beverage: https://www.thethaipass.com/pattaya/food-and-beverage
+Lifestyle: https://www.thethaipass.com/pattaya/lifestyle
+Tours: https://www.thethaipass.com/pattaya/tours
+Transportation: https://www.thethaipass.com/pattaya/transportation
+
+--------------------------------------------------
+PHUKET
+--------------------------------------------------
+Attraction Tickets: https://www.thethaipass.com/phuket/attraction-tickets
+Entertainment Activities: https://www.thethaipass.com/phuket/entertainment-activities
+Tours: https://www.thethaipass.com/phuket/tours
+Transportation: https://www.thethaipass.com/phuket/transportation
+
+--------------------------------------------------
+CITIES INDEX
+--------------------------------------------------
+https://www.thethaipass.com/cities/all
+https://www.thethaipass.com/cities/bangkok
+https://www.thethaipass.com/cities/chiang-mai
+https://www.thethaipass.com/cities/hua-hin
+https://www.thethaipass.com/cities/kanchanaburi
+https://www.thethaipass.com/cities/koh-samui
+https://www.thethaipass.com/cities/krabi
+https://www.thethaipass.com/cities/others
+https://www.thethaipass.com/cities/pattaya
+https://www.thethaipass.com/cities/phuket
+

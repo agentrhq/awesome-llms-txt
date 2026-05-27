@@ -1,0 +1,90 @@
+# Livecaller Guides
+
+## Getting Started
+
+- [Getting Started](https://docs.livecaller.io/livecaller/getting-started.md)
+- [Services](https://docs.livecaller.io/livecaller/services.md)
+- [Online Chat](https://docs.livecaller.io/livecaller/services/online-chat.md)
+- [Chat Integration](https://docs.livecaller.io/livecaller/services/online-chat/chat-integration.md): This document helps you easily add the LiveCaller widget to your website.
+- [AI Assistant](https://docs.livecaller.io/livecaller/services/ai-assistant.md)
+- [Workspace](https://docs.livecaller.io/livecaller/services/ai-assistant/workspace.md): A workspace is a primary container associated with a specific AI provider. Each workspace is linked to only one particular provider.
+- [Integrations](https://docs.livecaller.io/livecaller/services/ai-assistant/integrations.md): Integration is the connection between your workspace and a specific AI model. This determines which AI model your assistant will use for text generation.
+- [Knowledge Base](https://docs.livecaller.io/livecaller/services/ai-assistant/knowledge-base.md)
+- [Training Data](https://docs.livecaller.io/livecaller/services/ai-assistant/training-data.md): Adding training data to the knowledge base.
+- [AI Assistants](https://docs.livecaller.io/livecaller/services/ai-assistant/ai-assistants.md)
+- [AI credits payment model](https://docs.livecaller.io/livecaller/services/ai-assistant/ai-credits-payment-model.md)
+- [AI Interactions](https://docs.livecaller.io/livecaller/services/ai-assistant/ai-interactions.md)
+- [Integrations](https://docs.livecaller.io/livecaller/services/integrations.md)
+- [Facebook Messenger](https://docs.livecaller.io/livecaller/services/integrations/facebook-messenger.md)
+- [Client Feedback Template](https://docs.livecaller.io/livecaller/services/integrations/facebook-messenger/client-feedback-template.md)
+- [Managing Meta Data](https://docs.livecaller.io/livecaller/services/integrations/facebook-messenger/managing-meta-data.md)
+- [WhatsApp](https://docs.livecaller.io/livecaller/services/integrations/whatsapp.md): Connect your WhatsApp to LiveCaller.
+- [Instagram](https://docs.livecaller.io/livecaller/services/integrations/instagram.md): Connect your Instagram to LiveCaller.
+- [Email](https://docs.livecaller.io/livecaller/services/integrations/email.md): Connect your email to LiveCaller.
+- [Viber](https://docs.livecaller.io/livecaller/services/integrations/viber.md): Connect your Viber bot to LiveCaller.
+- [Telegram](https://docs.livecaller.io/livecaller/services/integrations/telegram.md): Connect your Telegram bot to LiveCaller.
+- [Business Phone – PBX](https://docs.livecaller.io/livecaller/services/business-phone-pbx.md)
+- [Web Phone](https://docs.livecaller.io/livecaller/services/business-phone-pbx/web-phone.md)
+- [Devices](https://docs.livecaller.io/livecaller/services/business-phone-pbx/devices.md)
+- [Numbers](https://docs.livecaller.io/livecaller/services/business-phone-pbx/numbers.md)
+- [Queues](https://docs.livecaller.io/livecaller/services/business-phone-pbx/queues.md)
+- [Flows](https://docs.livecaller.io/livecaller/services/business-phone-pbx/flows.md)
+- [Chatbot](https://docs.livecaller.io/livecaller/services/chatbot.md)
+- [Event](https://docs.livecaller.io/livecaller/services/chatbot/event.md)
+- [Condition](https://docs.livecaller.io/livecaller/services/chatbot/condition.md)
+- [Action](https://docs.livecaller.io/livecaller/services/chatbot/action.md)
+- [Knowledge Base](https://docs.livecaller.io/livecaller/services/knowledge-base.md)
+- [Co-Browsing](https://docs.livecaller.io/livecaller/services/co-browsing.md): Listen to and guide online visitors.
+- [Online Call](https://docs.livecaller.io/livecaller/services/online-call.md)
+- [Live Panel](https://docs.livecaller.io/livecaller/live-panel.md)
+- [Tags Attach / Detach](https://docs.livecaller.io/livecaller/live-panel/tags-attach-detach.md)
+- [Inbox](https://docs.livecaller.io/livecaller/inbox.md)
+- [Current Sessions](https://docs.livecaller.io/livecaller/current-sessions.md)
+- [Session Transfer](https://docs.livecaller.io/livecaller/session-transfer.md)
+- [Session Report](https://docs.livecaller.io/livecaller/session-report.md)
+- [Working Hours](https://docs.livecaller.io/livecaller/working-hours.md): Working Hours allow you to adjust your daily work schedule.
+- [Template Responses](https://docs.livecaller.io/livecaller/template-responses.md)
+- [Widget Management](https://docs.livecaller.io/livecaller/widget-management.md): How to Install and Manage the Online Chat Widget on a Website.
+- [Pre-chat Survey](https://docs.livecaller.io/livecaller/widget-management/pre-chat-survey.md): It is used to collect user information before starting the chat.
+- [Multilingual Translation](https://docs.livecaller.io/livecaller/widget-management/multilingual-translation.md)
+- [Message Typing Preview](https://docs.livecaller.io/livecaller/widget-management/message-typing-preview.md)
+- [Blocking](https://docs.livecaller.io/livecaller/blocking.md)
+- [Mobile SDKs](https://docs.livecaller.io/livecaller/mobile-sdks.md)
+- [WebView iOS SwiftUI](https://docs.livecaller.io/livecaller/mobile-sdks/webview-ios-swiftui.md)
+- [WebView Flutter](https://docs.livecaller.io/livecaller/mobile-sdks/webview-flutter.md)
+- [WebView Kotlin](https://docs.livecaller.io/livecaller/mobile-sdks/webview-kotlin.md)
+- [Mobile app - iOS, Android](https://docs.livecaller.io/livecaller/mobile-app-ios-android.md)
+- [Bug Reporting](https://docs.livecaller.io/livecaller/onboarding/bug-reporting.md)
+- [PWA](https://docs.livecaller.io/livecaller/onboarding/pwa.md)
+- [Permissions Management](https://docs.livecaller.io/livecaller/security/permissions-management.md)
+- [Two-Factor Authentication (2FA)](https://docs.livecaller.io/livecaller/security/two-factor-authentication-2fa.md)
+- [Security Logs](https://docs.livecaller.io/livecaller/security/security-logs.md)
+- [Javascript API](https://docs.livecaller.io/livecaller/widget-api/javascript-api.md)
+- [CSS](https://docs.livecaller.io/livecaller/widget-api/css.md)
+- [Clearing the Browser Cache](https://docs.livecaller.io/livecaller/faq/clearing-the-browser-cache.md)
+- [Web call does not work?](https://docs.livecaller.io/livecaller/faq/web-call-does-not-work.md)
+- [How to change or translate widget texts?](https://docs.livecaller.io/livecaller/faq/how-to-change-or-translate-widget-texts.md)
+- [How to remove "powered by livecaller.io"?](https://docs.livecaller.io/livecaller/faq/how-to-remove-powered-by-livecaller.io.md)
+- [Timezone issues](https://docs.livecaller.io/livecaller/faq/timezone-issues.md)
+- [Does Livecaller support startups?](https://docs.livecaller.io/livecaller/faq/does-livecaller-support-startups.md)
+- [What is the duration for which information history is retained?](https://docs.livecaller.io/livecaller/faq/what-is-the-duration-for-which-information-history-is-retained.md)
+- [How to install?](https://docs.livecaller.io/livecaller/faq/how-to-install.md): Heads up, if you are not familiar with or haven't used Google Tag Manager before: https://support.google.com/tagmanager/answer/6103696
+- [Other Questions](https://docs.livecaller.io/livecaller/faq/other-questions.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.livecaller.io/livecaller/getting-started.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

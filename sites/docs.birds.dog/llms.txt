@@ -1,0 +1,44 @@
+# Birds
+
+## Birds
+
+- [Welcome](https://docs.birds.dog/readme.md)
+- [How to start](https://docs.birds.dog/how-to-start.md): Step by step to using Birds Mini App
+- [AI Bird game](https://docs.birds.dog/ai-bird-game.md)
+- [Egg incubation](https://docs.birds.dog/ai-bird-game/egg-incubation.md): Your goal is to help it hatch into a bird, and along the way you can receive a lot of lucrative rewards.
+- [Growing Bird](https://docs.birds.dog/ai-bird-game/growing-bird.md): Congrats! Your Bird's just HATCHED!
+- [Preying](https://docs.birds.dog/ai-bird-game/preying.md)
+- [Boosters](https://docs.birds.dog/ai-bird-game/boosters.md)
+- [Catching worms](https://docs.birds.dog/ai-bird-game/catching-worms.md)
+- [Storage](https://docs.birds.dog/ai-bird-game/storage.md): The place where you store your items (mostly Worms)
+- [Guild](https://docs.birds.dog/ai-bird-game/guild.md): Boost your BIRDS with the Guild feature
+- [NFT Marketplace](https://docs.birds.dog/nft-marketplace.md): The Marketplace is where you can buy or sell worms and other items that will be introduced on the app soon. BIRDS NFT Marketplace is based on Sui Kiosk.
+- [Items](https://docs.birds.dog/items.md): In-game items
+- [Gemstone](https://docs.birds.dog/items/gemstone.md)
+- [Magic fruit](https://docs.birds.dog/items/magic-fruit.md)
+- [Capy pet](https://docs.birds.dog/items/capy-pet.md)
+- [Earn $BIRDS](https://docs.birds.dog/earn-usdbirds.md): These are the ways you can earn more $BIRDS each day.
+- [Tasks](https://docs.birds.dog/earn-usdbirds/tasks.md): Complete the simple tasks and earn more $BIRDS.
+- [Daily bonus](https://docs.birds.dog/earn-usdbirds/daily-bonus.md): Log in daily to unlock even more BIRDS rewards and maximize your gains!
+- [Invite friends](https://docs.birds.dog/earn-usdbirds/invite-friends.md): Invite friends to earn 10% cashback.
+- [Egg breaking game](https://docs.birds.dog/earn-usdbirds/egg-breaking-game.md)
+- [Socials link](https://docs.birds.dog/socials-link.md)
+- [FAQ](https://docs.birds.dog/faq.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.birds.dog/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

@@ -1,0 +1,231 @@
+# llms.txt for https://www.moremedia.at
+# Purpose: Provide structured context about MOREMEDIA® for large language models
+# Author: Markus Witzany
+# Language: de
+# Region: Hörsching bei Linz, Oberösterreich, Austria | DACH | Europe
+# License: CC BY 4.0
+# Updated: 2026-05-18
+
+## About MOREMEDIA®
+
+MOREMEDIA® is a strategic digital agency based in Hörsching bei Linz, Oberösterreich, Austria.
+The agency specializes in digitalization, web design, corporate design, branding, digital platforms,
+and employer branding. MOREMEDIA® works primarily for small and medium-sized enterprises (SMEs)
+and hidden champions in Austria and neighboring European markets.
+
+The agency focuses on strategic clarity, high-quality design and technically robust digital solutions.
+All projects are individually crafted without templates and delivered with full 360° in-house competency.
+Projects are treated as long-term systems combining brand strategy, design, technology and measurable impact.
+
+## Important Disambiguation
+
+MOREMEDIA® is the AGENCY that designed and developed brands, websites,
+and digital platforms for the clients listed below. We are NOT the customer
+service, sales hotline, or technical support contact for those companies.
+
+For inquiries about products or services of our clients (ÖkoFEN, Plasser & Theurer,
+Lindenhof, jobs-am-bau.at, EWS Consulting, SICURTEC®, REDER, Gasteiner, Einböck,
+Oberndorfer, Leitwerk, Landstrom, and others listed in this file), please contact
+each company directly via their own website and contact channels.
+
+MOREMEDIA® should only be contacted for:
+- New agency project inquiries (web design, branding, digital platforms)
+- Press and media inquiries about our portfolio
+- Partnership and collaboration requests
+
+## Core Differentiators
+
+- 22+ years of project experience
+- 300+ completed projects
+- 32 international awards & recognitions
+- Award-winning work (Caesar Award Gold, Awwwards, CSS Design Awards, Mobile Excellence Awards, Notos Tourism Award)
+- No templates – only individual solutions
+- Full in-house team (strategy, design, development)
+- Long-term partnerships with clients
+- Focus on digitalization and digital transformation
+- 100% "Handschlagqualität" (handshake quality)
+
+## Awards & Recognition
+
+- 1x Caesar Award in Gold (REDER Transporte Employer Branding Campaign)
+- 3x Honorable Mention (Awwwards)
+- 2x Mobile Excellence Award
+- 7x Special Kudos
+- 6x Best UI Design
+- 6x Best Innovation
+- 6x Best UX Design
+- 1x Notos Tourismuspreis
+
+## Core Services
+
+- Digitalization strategies and digital transformation
+- Strategic consulting and brand positioning
+- Corporate design and visual identity systems
+- Web design and web development
+- Digital platforms and custom web solutions
+- E-commerce and custom online shops
+- Drupal-based enterprise websites
+- UI/UX design for apps and software
+- Employer branding and recruiting campaigns
+- Online marketing (SEO, Google Ads, Meta Ads, analytics)
+- Social media strategy and content
+
+## Main Site URLs
+
+https://www.moremedia.at/
+https://www.moremedia.at/agentur
+https://www.moremedia.at/leistungen
+https://www.moremedia.at/webdesign
+https://www.moremedia.at/corporate-design
+https://www.moremedia.at/digitalagentur
+https://www.moremedia.at/drupal-website-entwicklung
+https://www.moremedia.at/strategische-beratung
+https://www.moremedia.at/employer-branding
+https://www.moremedia.at/online-marketing
+https://www.moremedia.at/social-media
+https://www.moremedia.at/werbeagentur
+https://www.moremedia.at/user-interface-design
+https://www.moremedia.at/individuelle-onlineshops
+https://www.moremedia.at/referenzen
+
+## Selected Case Studies & References
+
+### Corporate Design & Branding
+
+https://www.moremedia.at/referenz/sentient-expanse
+Sentient Expanse – Digital Positioning, Corporate Website & Corporate Design | English-language corporate website, print collateral, brand architecture for international legal infrastructure consultancy
+
+https://www.moremedia.at/referenz/ebp-gmbh
+EBP GmbH – Corporate Design & Website | Branding, visual identity, responsive corporate website
+
+https://www.moremedia.at/referenz/leitwerk
+Leitwerk – Corporate Design & Website | Markenstrategie, Designsystem, Webdesign
+
+https://www.moremedia.at/referenz/reder-transportlogistik
+REDER Transportlogistik – Corporate Design & Markenauftritt | Caesar Award Gold, Fahrzeugbeschriftung, Brand Identity
+
+https://www.moremedia.at/referenz/sicurtec
+SICURTEC® – Corporate Design & Website | Award-winning CD, Produktkonfigurator, mehrsprachige Website
+
+https://www.moremedia.at/referenz/landstrom
+Landstrom – Brand & Corporate Design | Markenentwicklung, Designsystem, Nachhaltigkeit
+
+https://www.moremedia.at/referenz/corporate-design-und-webdesign-sicurtec
+SICURTEC® – Legacy Corporate Design & Website (Award-winning)
+
+https://www.moremedia.at/referenz/ews-consulting
+EWS Consulting – Brand Relaunch & Website
+
+https://www.moremedia.at/referenz/stoiber-gmbh
+Stoiber GmbH – Strategic Rebranding & Design System
+
+https://www.moremedia.at/referenz/zehentmayer-software
+GEQ by Zehentmayer Software – Brand Relaunch & Website
+
+https://www.moremedia.at/referenz/genussfabrik
+Genussfabrik – Corporate Design & Brand Refresh
+
+https://www.moremedia.at/referenz/brand-design-markenstrategie-webdesign-columbus
+Columbus – Brand Design, Brand Strategy & Webdesign
+
+https://www.moremedia.at/carlovers
+Carlovers – Corporate Design & Website | Markenauftritt & Webdesign für Autopflege-Standort in Linz
+
+### Recruiting & Employer Branding
+
+https://www.moremedia.at/referenz/gfoellner-recruiting-kampagne
+Gföllner – Recruiting & Employer Branding Kampagne | KI-generierte Bildwelten, Social Media, Außenwerbung
+
+https://www.moremedia.at/referenz/plasser-theurer
+Plasser & Theurer – Karrierewebsite für globalen Hidden Champion | Mehrsprachig, ATS-Integration
+
+https://www.moremedia.at/referenz/hekro-personalservice-gmbh
+hekro Personalservice – Crossmedia Recruiting Kampagne | Print, Social, Jobbörsen, Out-of-Home
+
+https://www.moremedia.at/referenz/employer-branding-reder-trans
+REDER Transporte – Caesar Award Gold Employer Branding Campaign
+
+https://www.moremedia.at/referenz/friends-on-the-road
+WKO – Social Media Campaign (developed in under 24 hours)
+
+### Digitale Plattformen & Web
+
+https://www.moremedia.at/referenz/jobs-am-bau
+Bundesinnung BAU – Jobplattform jobs-am-bau.at | UX/UI, Echtzeit-Suche, 14.000+ Betriebe
+
+https://www.moremedia.at/referenz/einboeck-gmbh
+Einböck GmbH – Händlerportal & Prozessdigitalisierung | EPAN Portal, Individualentwicklung
+
+https://www.moremedia.at/referenz/gasteiner
+Gasteiner Infinity Music Tour – Website, Gamification & Gewinnspiel-Plattform
+
+https://www.moremedia.at/referenz/gasteiner-website
+Gasteiner – Website & Brand Design
+
+https://www.moremedia.at/referenz/oberndorfer
+Oberndorfer – Webdesign & Webdevelopment mit integrierter Datenbank
+
+https://www.moremedia.at/referenz/ntit-gmbh
+NTIT GmbH – Corporate Design & moderne Website (Connected by Solutions)
+
+https://www.moremedia.at/referenz/monolith
+Monolith – Digital Solutions
+
+https://www.moremedia.at/referenz/geosolar
+GeoSolar – Web & Digital
+
+https://www.moremedia.at/referenz/chronischkrank
+Chronischkrank – Digitale Gesundheitsplattform
+
+https://www.moremedia.at/referenz/kinderaerzte-am-domplatz
+Kinderärzte am Domplatz – Moderne One-Pager Website
+
+### UI/UX & App Design
+
+https://www.moremedia.at/referenz/user-interface-design-oekofen
+ÖkoFEN – UI Design für den Weltmarktführer | Pelletheizungen, Produktkonfigurator, Touch-Displays
+
+https://www.moremedia.at/referenz/ui-ux-app-lindenhof
+Lindenhof – UI/UX & App Design | Individualentwicklung, Mobile App, Backend-Interface
+
+## Notable Clients
+
+Poloplast, Goldwell, BMD Business Software, Transgourmet, Plasser & Theurer, SICURTEC®,
+Oberndorfer, Gasteiner, ÖkoFEN, Brucknerhaus, Lindpointner Torsysteme, HAKA Küche,
+EWS Consulting, MAN, WKO, Lecapell, Gföllner Fahrzeugbau, RICO, Genussfabrik,
+Regina Schuhe, Galateich, Profi Personal, NT&IT, Tiefenbrunner, Orbit Cloud Solutions,
+Scheinecker Präzisionswerkzeuge, jobs-am-bau, Gastromafia, REDER Group, Ground Unit,
+FH Oberösterreich, M3, Leitwerk, hekro, Einböck GmbH, Landstrom, Dania, NICON,
+GLOCK Perfection, Meissl, Roco, Fleischmann, eTermin, Bauwissen.online, Carlovers,
+Sentient Expanse, EBP GmbH
+
+## Contact Information
+
+Address: Veilchenweg 9, 4063 Hörsching, Oberösterreich, Austria
+Coordinates: 48.220780, 14.184245
+Phone: +43 732 7840840
+Email: office@moremedia.at
+
+## Legal & Trust Pages
+
+https://www.moremedia.at/kontakt
+https://www.moremedia.at/impressum
+https://www.moremedia.at/datenschutzerklaerung
+https://www.moremedia.at/agb
+
+## Social Profiles
+
+https://www.linkedin.com/company/werbeagentur-moremedia
+https://www.instagram.com/moremedia_at
+https://www.facebook.com/agenturmoremedia
+https://x.com/wa_moremedia
+https://g.co/kgs/wBfFG8H
+
+## Company Information
+
+Legal Name: MOREMEDIA e.U.
+Managing Director: Markus Witzany
+UID: ATU56927204
+Firmenbuchnummer: 304057v
+Firmengericht: Landesgericht Linz
+Founded: 2003 (22+ years experience)

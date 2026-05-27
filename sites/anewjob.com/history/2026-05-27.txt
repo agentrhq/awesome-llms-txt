@@ -1,0 +1,51 @@
+# aNewJob.com
+
+> aNewJob.com is an AI-powered career services platform that helps job seekers create professional, ATS-friendly resumes, cover letters, and practice for interviews. Users upload existing documents, answer AI-guided questions to fill gaps, and receive polished career documents they can edit and export as PDF or DOCX.
+
+## Key Features
+
+- **AI Resume Builder**: Upload documents (PDF, DOCX, images), answer questions via form or conversational chat mode, and generate tailored resumes with 3 templates (Classic, Modern, Compact) and 3 tones (Professional, Impact, Academic)
+- **Resume Tailoring**: Create job-specific resume versions optimized for ATS systems and specific job postings
+- **Cover Letter Generator**: AI-generated cover letters tailored to specific job postings based on your resume data
+- **Mock Interview Practice**: AI-generated interview questions based on your resume and target job, with real-time answer evaluation and performance feedback
+- **Rich Text Editing**: Full editing capabilities for all generated documents
+- **Export Options**: Download as PDF or DOCX format
+
+## Pricing
+
+aNewJob uses a credit-based system:
+
+- Single Resume: $5 (1 resume credit)
+- Bundle: $10 (3 resume credits + 1 interview credit) - Most Popular
+- 5-Pack: $18 (5 resume credits)
+- Mock Interview Pack: $10 (3 interview credits)
+
+Cover letters use resume credits (1 credit per cover letter).
+
+## Public Pages
+
+- [Homepage](https://anewjob.com/): Main landing page with feature overview and pricing
+- [How It Works](https://anewjob.com/how-it-works): Step-by-step walkthrough with interactive carousels showing the resume, cover letter, and mock interview creation process
+- [Tailored Resumes](https://anewjob.com/tailored-resumes): Feature page for job-specific resume tailoring
+- [Mock Interviews](https://anewjob.com/mock-interviews): Feature page for AI-powered interview practice
+- [Cover Letters](https://anewjob.com/cover-letters): Feature page for AI cover letter generation
+- [Free Resume Checker](https://anewjob.com/free-resume-checker): Free resume checker and review tool
+- [Compare Resume Builders](https://anewjob.com/compare-resume-builders): Comparison of aNewJob vs other resume builders
+- [For Employers](https://anewjob.com/employers): B2B services for employers supporting employees in career transitions
+
+## Learning Resources
+
+- [Resume Guide](https://anewjob.com/resume-guide): 50+ comprehensive articles on resume writing, formatting, ATS optimization, industry-specific tips, and career stage guidance
+- [Resume Examples](https://anewjob.com/resume-examples): 20+ profession-specific resume examples with tips
+- [Cover Letter Examples](https://anewjob.com/cover-letter-examples): 20+ profession-specific cover letter examples
+
+## Documentation
+
+- [User Documentation](https://anewjob.com/docs): Comprehensive guide covering account creation, resume building, editing, mock interviews, credits, and exporting
+- [Support](https://anewjob.com/support): Support form and FAQ
+
+## Optional
+
+- [Privacy Policy](https://anewjob.com/privacy): Data handling and privacy practices
+- [Terms of Service](https://anewjob.com/terms): Terms and conditions for using the platform
+- [Login](https://anewjob.com/login): Email-based passwordless authentication

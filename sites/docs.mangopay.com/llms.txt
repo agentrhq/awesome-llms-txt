@@ -1,0 +1,501 @@
+# Mangopay docs
+
+> Product guides and API reference for Mangopay's wallet-first payment infrastructure
+
+## Docs
+
+- [The API Response object](https://docs.mangopay.com/api-reference/api-responses/api-response-object.md)
+- [View an API Response](https://docs.mangopay.com/api-reference/api-responses/view-api-response.md)
+- [The Apple Pay PayIn object](https://docs.mangopay.com/api-reference/apple-pay/apple-pay-payin-object.md)
+- [Create an Apple Pay PayIn](https://docs.mangopay.com/api-reference/apple-pay/create-apple-pay-payin.md)
+- [View a PayIn (Apple Pay)](https://docs.mangopay.com/api-reference/apple-pay/view-payin-apple-pay.md)
+- [The Bancontact PayIn object](https://docs.mangopay.com/api-reference/bancontact/bancontact-payin-object.md)
+- [Create a Bancontact PayIn](https://docs.mangopay.com/api-reference/bancontact/create-bancontact-payin.md)
+- [View a PayIn (Bancontact)](https://docs.mangopay.com/api-reference/bancontact/view-payin-bancontact.md)
+- [The Bank Account object](https://docs.mangopay.com/api-reference/bank-accounts/bank-account-object.md)
+- [Create a CA Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/create-ca-bank-account.md)
+- [Create a GB Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/create-gb-bank-account.md)
+- [Create an IBAN Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/create-iban-bank-account.md)
+- [Create an OTHER Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/create-other-bank-account.md)
+- [Create a US Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/create-us-bank-account.md)
+- [Deactivate a Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/deactivate-bank-account.md)
+- [List Bank Accounts for a User](https://docs.mangopay.com/api-reference/bank-accounts/list-bank-accounts-user.md)
+- [View a Bank Account](https://docs.mangopay.com/api-reference/bank-accounts/view-bank-account.md)
+- [The Bank Wire PayIn object](https://docs.mangopay.com/api-reference/bank-wire-payins/bank-wire-payin-object.md)
+- [Create a Bank Wire PayIn](https://docs.mangopay.com/api-reference/bank-wire-payins/create-bank-wire-payin.md)
+- [View a PayIn (Bank Wire)](https://docs.mangopay.com/api-reference/bank-wire-payins/view-payin-bank-wire.md)
+- [The Banking Alias object](https://docs.mangopay.com/api-reference/banking-aliases/banking-alias-object.md)
+- [Create an IBAN Banking Alias](https://docs.mangopay.com/api-reference/banking-aliases/create-iban-banking-alias.md)
+- [Deactivate a Banking Alias](https://docs.mangopay.com/api-reference/banking-aliases/deactivate-banking-alias.md)
+- [View a Banking Alias](https://docs.mangopay.com/api-reference/banking-aliases/view-banking-alias.md)
+- [View a Banking Alias for a Wallet](https://docs.mangopay.com/api-reference/banking-aliases/view-banking-alias-wallet.md)
+- [The Bizum PayIn object](https://docs.mangopay.com/api-reference/bizum/bizum-payin-object.md)
+- [Create a Bizum PayIn](https://docs.mangopay.com/api-reference/bizum/create-bizum-payin.md)
+- [View a PayIn (Bizum)](https://docs.mangopay.com/api-reference/bizum/view-payin-bizum.md)
+- [The BLIK PayIn object](https://docs.mangopay.com/api-reference/blik/blik-payin-object.md)
+- [Create a BLIK PayIn (with code)](https://docs.mangopay.com/api-reference/blik/create-blik-payin-with-code.md)
+- [Create a BLIK PayIn (without code)](https://docs.mangopay.com/api-reference/blik/create-blik-payin-without-code.md)
+- [View a PayIn (BLIK)](https://docs.mangopay.com/api-reference/blik/view-payin-blik.md)
+- [The Card Registration object](https://docs.mangopay.com/api-reference/card-registrations/card-registration-object.md): Register card details to obtain a `CardId` token for one-time, recurring, or preauthorized card payments
+- [Create a Card Registration](https://docs.mangopay.com/api-reference/card-registrations/create-card-registration.md)
+- [Tokenize the card](https://docs.mangopay.com/api-reference/card-registrations/tokenize-card.md)
+- [Update a Card Registration](https://docs.mangopay.com/api-reference/card-registrations/update-card-registration.md)
+- [View a Card Registration](https://docs.mangopay.com/api-reference/card-registrations/view-card-registration.md)
+- [The Card Validation object](https://docs.mangopay.com/api-reference/card-validations/card-validation-object.md)
+- [Create a Card Validation](https://docs.mangopay.com/api-reference/card-validations/create-card-validation.md)
+- [View a Card Validation](https://docs.mangopay.com/api-reference/card-validations/view-card-validation.md)
+- [The Card object](https://docs.mangopay.com/api-reference/cards/card-object.md)
+- [Deactivate or edit a Card](https://docs.mangopay.com/api-reference/cards/deactivate-edit-card.md)
+- [List Cards for a Fingerprint](https://docs.mangopay.com/api-reference/cards/list-cards-fingerprint.md)
+- [List Cards for a User](https://docs.mangopay.com/api-reference/cards/list-cards-user.md)
+- [View a Card](https://docs.mangopay.com/api-reference/cards/view-card.md)
+- [The Client Wallet object](https://docs.mangopay.com/api-reference/client-wallets/client-wallet-object.md)
+- [List all Client Wallets](https://docs.mangopay.com/api-reference/client-wallets/list-client-wallets.md)
+- [List Client Wallets by FundsType](https://docs.mangopay.com/api-reference/client-wallets/list-client-wallets-fundstype.md)
+- [View a Client Wallet](https://docs.mangopay.com/api-reference/client-wallets/view-client-wallet.md)
+- [The Client object](https://docs.mangopay.com/api-reference/client/client-object.md)
+- [Update a Client](https://docs.mangopay.com/api-reference/client/update-client.md): Modify details about your platform registered with Mangopay
+- [Upload a Client logo](https://docs.mangopay.com/api-reference/client/upload-client-logo.md)
+- [View a Client](https://docs.mangopay.com/api-reference/client/view-client.md): Retrieve details about your platform registered with Mangopay
+- [The Conversion Rate object (FX)](https://docs.mangopay.com/api-reference/conversion-rates/conversion-rate-object.md)
+- [View an indicative Conversion Rate](https://docs.mangopay.com/api-reference/conversion-rates/view-conversion-rate.md)
+- [The Conversion object (FX)](https://docs.mangopay.com/api-reference/conversions/conversion-object.md)
+- [Create an Instant Conversion between Client Wallets](https://docs.mangopay.com/api-reference/conversions/create-instant-conversion-client-wallets.md)
+- [Create an Instant Conversion between user Wallets](https://docs.mangopay.com/api-reference/conversions/create-instant-conversion-user-wallets.md)
+- [Create a Quoted Conversion between Client Wallets](https://docs.mangopay.com/api-reference/conversions/create-quoted-conversion-client-wallets.md)
+- [Create a Quoted Conversion between user Wallets](https://docs.mangopay.com/api-reference/conversions/create-quoted-conversion-user-wallets.md)
+- [View a Conversion](https://docs.mangopay.com/api-reference/conversions/view-conversion.md)
+- [The Country Authorizations object](https://docs.mangopay.com/api-reference/country-authorizations/country-authorizations-object.md)
+- [List Authorizations for all countries](https://docs.mangopay.com/api-reference/country-authorizations/list-authorizations-countries.md)
+- [View Authorizations for a country](https://docs.mangopay.com/api-reference/country-authorizations/view-authorizations-country.md)
+- [Cancel a Deposit Preauthorization](https://docs.mangopay.com/api-reference/deposit-preauthorizations/cancel-deposit-preauthorization.md)
+- [Create a Deposit Preauthorization](https://docs.mangopay.com/api-reference/deposit-preauthorizations/create-deposit-preauthorization.md)
+- [Create a Deposit Preauthorized PayIn](https://docs.mangopay.com/api-reference/deposit-preauthorizations/create-deposit-preauthorized-payin.md)
+- [The Deposit Preauthorization object](https://docs.mangopay.com/api-reference/deposit-preauthorizations/deposit-preauthorization-object.md)
+- [The Deposit Preauthorized PayIn object](https://docs.mangopay.com/api-reference/deposit-preauthorizations/deposit-preauthorized-payin-object.md)
+- [List Deposit Preauthorizations for a Card](https://docs.mangopay.com/api-reference/deposit-preauthorizations/list-deposit-preauthorizations-card.md)
+- [List Deposit Preauthorizations for a User](https://docs.mangopay.com/api-reference/deposit-preauthorizations/list-deposit-preauthorizations-user.md)
+- [View a Deposit Preauthorization (Card, PayPal)](https://docs.mangopay.com/api-reference/deposit-preauthorizations/view-deposit-preauthorization.md)
+- [View a PayIn (Deposit Preauthorized Card)](https://docs.mangopay.com/api-reference/deposit-preauthorizations/view-payin-deposit-preauthorized.md)
+- [Create a Direct Card PayIn](https://docs.mangopay.com/api-reference/direct-card-payins/create-direct-card-payin.md): Process a one-time payment with a `CardId`, obtained from the card registration process
+- [The Direct Card PayIn object](https://docs.mangopay.com/api-reference/direct-card-payins/direct-card-payin-object.md): One-time payment using a tokenized card
+- [View a PayIn (Direct Card)](https://docs.mangopay.com/api-reference/direct-card-payins/view-payin-direct-card.md)
+- [Create a Direct Debit PayIn](https://docs.mangopay.com/api-reference/direct-debit-payins/create-direct-debit-payin.md)
+- [The Direct Debit PayIn object](https://docs.mangopay.com/api-reference/direct-debit-payins/direct-debit-payin-object.md)
+- [View a PayIn (Direct Debit)](https://docs.mangopay.com/api-reference/direct-debit-payins/view-payin-direct-debit.md)
+- [Create a Dispute Document](https://docs.mangopay.com/api-reference/dispute-documents/create-dispute-document.md)
+- [Create a Dispute Document Page](https://docs.mangopay.com/api-reference/dispute-documents/create-dispute-document-page.md)
+- [Create a weblink to view the Pages of a Dispute Document](https://docs.mangopay.com/api-reference/dispute-documents/create-weblink-to-view-dispute-document-pages.md)
+- [The Dispute Document object](https://docs.mangopay.com/api-reference/dispute-documents/dispute-document-object.md)
+- [List all Dispute Documents](https://docs.mangopay.com/api-reference/dispute-documents/list-dispute-documents.md)
+- [List Documents for a Dispute](https://docs.mangopay.com/api-reference/dispute-documents/list-documents-dispute.md)
+- [Submit a Dispute Document](https://docs.mangopay.com/api-reference/dispute-documents/submit-dispute-document.md)
+- [View a Dispute Document](https://docs.mangopay.com/api-reference/dispute-documents/view-dispute-document.md)
+- [Create a Bank Wire PayIn to the Repudiation Wallet](https://docs.mangopay.com/api-reference/dispute-settlement/create-bank-wire-payin-to-repudiation-wallet.md)
+- [Create a Settlement Transfer](https://docs.mangopay.com/api-reference/dispute-settlement/create-settlement-transfer.md)
+- [The Settlement Transfer object](https://docs.mangopay.com/api-reference/dispute-settlement/settlement-transfer-object.md)
+- [View a Settlement Transfer](https://docs.mangopay.com/api-reference/dispute-settlement/view-settlement-transfer.md)
+- [Close a Dispute](https://docs.mangopay.com/api-reference/disputes/close-dispute.md)
+- [The Dispute object](https://docs.mangopay.com/api-reference/disputes/dispute-object.md)
+- [List all Disputes](https://docs.mangopay.com/api-reference/disputes/list-disputes.md)
+- [List Disputes for a PayIn](https://docs.mangopay.com/api-reference/disputes/list-disputes-payin.md)
+- [List Disputes pending settlement](https://docs.mangopay.com/api-reference/disputes/list-disputes-settlement.md)
+- [List Disputes for a User](https://docs.mangopay.com/api-reference/disputes/list-disputes-user.md)
+- [List Disputes for a Wallet](https://docs.mangopay.com/api-reference/disputes/list-disputes-wallet.md)
+- [Submit a Dispute](https://docs.mangopay.com/api-reference/disputes/submit-dispute.md)
+- [Update a Dispute](https://docs.mangopay.com/api-reference/disputes/update-dispute.md)
+- [View a Dispute](https://docs.mangopay.com/api-reference/disputes/view-dispute.md)
+- [Supported payment methods](https://docs.mangopay.com/api-reference/echo/supported-payment-methods.md)
+- [Supported providers](https://docs.mangopay.com/api-reference/echo/supported-providers.md)
+- [The Event object](https://docs.mangopay.com/api-reference/events/event-object.md)
+- [List all Events](https://docs.mangopay.com/api-reference/events/list-events.md)
+- [[Deprecated] Create a Giropay PayIn](https://docs.mangopay.com/api-reference/giropay/create-giropay-payin.md)
+- [[Deprecated] The Giropay PayIn object](https://docs.mangopay.com/api-reference/giropay/giropay-payin-object.md)
+- [View a PayIn (Giropay)](https://docs.mangopay.com/api-reference/giropay/view-payin-giropay.md)
+- [Create a Google Pay PayIn](https://docs.mangopay.com/api-reference/google-pay/create-google-pay-payin.md)
+- [The Google Pay PayIn object](https://docs.mangopay.com/api-reference/google-pay/google-pay-payin-object.md)
+- [View a PayIn (Google Pay)](https://docs.mangopay.com/api-reference/google-pay/view-payin-google-pay.md)
+- [Create an iDEAL PayIn](https://docs.mangopay.com/api-reference/ideal/create-ideal-payin.md)
+- [[Deprecated] Create a Web Card PayIn (iDEAL)](https://docs.mangopay.com/api-reference/ideal/create-web-card-payin-ideal.md)
+- [The iDEAL PayIn object](https://docs.mangopay.com/api-reference/ideal/ideal-payin-object.md)
+- [View a PayIn (iDEAL)](https://docs.mangopay.com/api-reference/ideal/view-payin-ideal.md)
+- [Create an IDV Session](https://docs.mangopay.com/api-reference/idv-sessions/create-idv-session.md): Initiate a hosted KYC/KYB session and obtain a unique URL for the hosted fronted experience
+- [The IDV Session object](https://docs.mangopay.com/api-reference/idv-sessions/idv-session-object.md): Container for Mangopay's hosted KYC/KYB solution
+- [List IDV Sessions for a User](https://docs.mangopay.com/api-reference/idv-sessions/list-idv-sessions-user.md): Retrieve key details of all hosted KYC/KYC sessions attempted for a user
+- [View an IDV Session](https://docs.mangopay.com/api-reference/idv-sessions/view-idv-session.md): See details of a hosted KYC/KYB session, outcome of checks, and verified data
+- [Cancel an Intent](https://docs.mangopay.com/api-reference/intents/cancel-intent.md): Cancel all or part of an authorized Intent
+- [Create an Intent](https://docs.mangopay.com/api-reference/intents/create-intent.md): Declare a transaction authorization processed by a third-party PSP
+- [Create an Intent Capture](https://docs.mangopay.com/api-reference/intents/create-intent-capture.md): Declare the full or partial capture of an authorization processed by a third-party PSP
+- [Create an Intent Dispute](https://docs.mangopay.com/api-reference/intents/create-intent-dispute.md): Declare the full or partial dispute of a payment processed by a third-party PSP
+- [Create an Intent Refund](https://docs.mangopay.com/api-reference/intents/create-intent-refund.md): Declare the full or partial refund of a payment processed by a third-party PSP
+- [Create an Intent Split](https://docs.mangopay.com/api-reference/intents/create-intent-split.md): Create a transfer to the wallet of the seller of an Intent line item.
+- [Execute an Intent Split](https://docs.mangopay.com/api-reference/intents/execute-intent-split.md): Release the funds of a Split to the wallet of the seller of the Intent line item.
+- [The Intent object](https://docs.mangopay.com/api-reference/intents/intent-object.md)
+- [Reverse an Intent Refund](https://docs.mangopay.com/api-reference/intents/reverse-intent-refund.md): Declare the reversal of a refund processed by a third-party PSP
+- [Reverse an Intent Split](https://docs.mangopay.com/api-reference/intents/reverse-intent-split.md): Cancel an unexecuted Split
+- [Update an Intent Dispute](https://docs.mangopay.com/api-reference/intents/update-intent-dispute.md): Track the outcome of a dispute processed by a third-party PSP
+- [Update an Intent Split](https://docs.mangopay.com/api-reference/intents/update-intent-split.md): Modify a Split before execution.
+- [View an Intent](https://docs.mangopay.com/api-reference/intents/view-intent.md): Retrieve the declaration of a transaction processed by a third-party PSP
+- [View an Intent Split](https://docs.mangopay.com/api-reference/intents/view-intent-split.md): Retrieve details of a Split of an Intent.
+- [Create a Klarna PayIn](https://docs.mangopay.com/api-reference/klarna/create-klarna-payin.md)
+- [The Klarna PayIn object](https://docs.mangopay.com/api-reference/klarna/klarna-payin-object.md)
+- [View a PayIn (Klarna)](https://docs.mangopay.com/api-reference/klarna/view-payin-klarna.md)
+- [Create a KYC Document](https://docs.mangopay.com/api-reference/kyc-documents/create-kyc-document.md): Create a container for files to be submitted
+- [Create a KYC Document Page](https://docs.mangopay.com/api-reference/kyc-documents/create-kyc-document-page.md): Upload a file to the KYC Document object
+- [The KYC Document object](https://docs.mangopay.com/api-reference/kyc-documents/kyc-document-object.md)
+- [List all KYC Documents](https://docs.mangopay.com/api-reference/kyc-documents/list-kyc-documents.md)
+- [List KYC Documents for a User](https://docs.mangopay.com/api-reference/kyc-documents/list-kyc-documents-user.md)
+- [Submit a KYC Document](https://docs.mangopay.com/api-reference/kyc-documents/submit-kyc-document.md)
+- [View a KYC Document](https://docs.mangopay.com/api-reference/kyc-documents/view-kyc-document.md)
+- [Cancel a Mandate](https://docs.mangopay.com/api-reference/mandates/cancel-mandate.md)
+- [Create a Mandate](https://docs.mangopay.com/api-reference/mandates/create-mandate.md)
+- [List all Mandates](https://docs.mangopay.com/api-reference/mandates/list-mandates.md)
+- [List Mandates for a Bank Account](https://docs.mangopay.com/api-reference/mandates/list-mandates-bank-account.md)
+- [List Mandates for a User](https://docs.mangopay.com/api-reference/mandates/list-mandates-user.md)
+- [The Mandate object](https://docs.mangopay.com/api-reference/mandates/mandate-object.md)
+- [View a Mandate](https://docs.mangopay.com/api-reference/mandates/view-mandate.md)
+- [Create an MB WAY PayIn](https://docs.mangopay.com/api-reference/mb-way/create-mb-way-payin.md)
+- [The MB WAY PayIn object](https://docs.mangopay.com/api-reference/mb-way/mb-way-payin-object.md)
+- [View a PayIn (MB WAY)](https://docs.mangopay.com/api-reference/mb-way/view-payin-mb-way.md)
+- [Create an Multibanco PayIn](https://docs.mangopay.com/api-reference/multibanco/create-multibanco-payin.md)
+- [The Multibanco PayIn object](https://docs.mangopay.com/api-reference/multibanco/multibanco-payin-object.md)
+- [View a PayIn (Multibanco)](https://docs.mangopay.com/api-reference/multibanco/view-payin-multibanco.md)
+- [Managing API keys](https://docs.mangopay.com/api-reference/overview/api-keys.md)
+- [Permission scopes](https://docs.mangopay.com/api-reference/overview/api-keys/scopes.md)
+- [Authentication](https://docs.mangopay.com/api-reference/overview/authentication.md)
+- [Create an access token for Checkout SDK features](https://docs.mangopay.com/api-reference/overview/authentication/create-access-token-checkout.md): Generate an access token to initialize the Checkout SDK to provide PayPal One-Click
+- [Create an access token for the Recipients embedded experience](https://docs.mangopay.com/api-reference/overview/authentication/create-access-token-recipient.md): Generate an access token to run the Recipients embedded experience using Mangopay Elements
+- [Create OAuth bearer token](https://docs.mangopay.com/api-reference/overview/authentication/create-oauth-token.md): Generate an OAuth bearer token to authenticate your API calls
+- [Data availability periods](https://docs.mangopay.com/api-reference/overview/data-availability-periods.md)
+- [Data formats](https://docs.mangopay.com/api-reference/overview/data-formats.md)
+- [Filtering and sorting](https://docs.mangopay.com/api-reference/overview/filtering-sorting.md)
+- [Idempotency](https://docs.mangopay.com/api-reference/overview/idempotency.md)
+- [Introduction](https://docs.mangopay.com/api-reference/overview/introduction.md)
+- [Pagination](https://docs.mangopay.com/api-reference/overview/pagination.md)
+- [Rate limiting](https://docs.mangopay.com/api-reference/overview/rate-limiting.md)
+- [Create a Pay by Bank PayIn](https://docs.mangopay.com/api-reference/pay-by-bank/create-pay-by-bank-payin.md)
+- [The Pay by Bank PayIn object](https://docs.mangopay.com/api-reference/pay-by-bank/pay-by-bank-payin-object.md)
+- [View a PayIn (Pay by Bank)](https://docs.mangopay.com/api-reference/pay-by-bank/view-payin-pay-by-bank.md)
+- [View supported banks for Pay by Bank](https://docs.mangopay.com/api-reference/pay-by-bank/view-supported-banks-pay-by-bank.md): Retrieve supported banks to present to a user for Pay by Bank pay-ins
+- [Create a Payconiq PayIn](https://docs.mangopay.com/api-reference/payconiq/create-payconiq-payin.md)
+- [The Payconiq PayIn object](https://docs.mangopay.com/api-reference/payconiq/payconiq-payin-object.md)
+- [View a PayIn (Payconiq)](https://docs.mangopay.com/api-reference/payconiq/view-payin-payconiq.md)
+- [Look up metadata for a payment method](https://docs.mangopay.com/api-reference/payment-method-metadata/lookup-payment-method-metadata.md)
+- [The Payment Method Metadata object](https://docs.mangopay.com/api-reference/payment-method-metadata/payment-method-metadata-object.md)
+- [Check Instant Payout eligibility](https://docs.mangopay.com/api-reference/payouts/check-instant-payout-eligibility.md)
+- [Create a Payout](https://docs.mangopay.com/api-reference/payouts/create-payout.md)
+- [The Payout object](https://docs.mangopay.com/api-reference/payouts/payout-object.md)
+- [View a Payout](https://docs.mangopay.com/api-reference/payouts/view-payout.md)
+- [View a Payout and check mode applied](https://docs.mangopay.com/api-reference/payouts/view-payout-check-mode-applied.md)
+- [Add tracking information to a PayPal PayIn](https://docs.mangopay.com/api-reference/paypal/add-tracking-paypal-payin.md)
+- [Create a PayPal PayIn](https://docs.mangopay.com/api-reference/paypal/create-paypal-payin.md)
+- [[Deprecated] Create a PayPal PayIn](https://docs.mangopay.com/api-reference/paypal/create-paypal-payin-web.md)
+- [Create a PayPal Preauthorization](https://docs.mangopay.com/api-reference/paypal/create-paypal-preauthorization.md)
+- [Create a Recurring PayPal PayIn (CIT)](https://docs.mangopay.com/api-reference/paypal/create-recurring-paypal-payin-cit.md)
+- [Create a Recurring PayPal PayIn (MIT)](https://docs.mangopay.com/api-reference/paypal/create-recurring-paypal-payin-mit.md)
+- [The PayPal PayIn object](https://docs.mangopay.com/api-reference/paypal/paypal-payin-object.md)
+- [The Recurring PayPal PayIn object](https://docs.mangopay.com/api-reference/paypal/recurring-paypal-payin-object.md)
+- [Submit data for a PayPal PayIn](https://docs.mangopay.com/api-reference/paypal/submit-data-paypal-payin.md): Provide transaction data to PayPal prior to initiating a pay-in
+- [View data submitted for a PayPal PayIn](https://docs.mangopay.com/api-reference/paypal/view-data-paypal-payin.md): Retrieve pre-transaction data submitted previously
+- [View a PayIn (PayPal)](https://docs.mangopay.com/api-reference/paypal/view-payin-paypal.md)
+- [Cancel or validate a Preauthorization](https://docs.mangopay.com/api-reference/preauthorizations/cancel-validate-preauthorization.md)
+- [Create a Preauthorization](https://docs.mangopay.com/api-reference/preauthorizations/create-preauthorization.md)
+- [Create a Preauthorized PayIn](https://docs.mangopay.com/api-reference/preauthorizations/create-preauthorized-payin.md)
+- [List Preauthorizations for a Card](https://docs.mangopay.com/api-reference/preauthorizations/list-preauthorizations-card.md)
+- [List Preauthorizations for a User](https://docs.mangopay.com/api-reference/preauthorizations/list-preauthorizations-user.md)
+- [The Preauthorization object](https://docs.mangopay.com/api-reference/preauthorizations/preauthorization-object.md)
+- [The Preauthorized PayIn object](https://docs.mangopay.com/api-reference/preauthorizations/preauthorized-payin-object.md)
+- [View a PayIn (Preauthorized Card)](https://docs.mangopay.com/api-reference/preauthorizations/view-payin-preauthorized.md)
+- [View a Preauthorization](https://docs.mangopay.com/api-reference/preauthorizations/view-preauthorization.md)
+- [Create a Quote](https://docs.mangopay.com/api-reference/quotes/create-quote.md)
+- [The Quote object (Guaranteed FX)](https://docs.mangopay.com/api-reference/quotes/quote-object.md)
+- [View a Quote](https://docs.mangopay.com/api-reference/quotes/view-quote.md)
+- [Create a Recipient](https://docs.mangopay.com/api-reference/recipients/create-recipient.md): Register a bank account for local or international payouts
+- [Deactivate a Recipient](https://docs.mangopay.com/api-reference/recipients/deactivate-recipient.md): Permanently disable a Recipient
+- [List Recipients for a User](https://docs.mangopay.com/api-reference/recipients/list-recipients-user.md): List recipients created for a UserId
+- [The Recipient object](https://docs.mangopay.com/api-reference/recipients/recipient-object.md)
+- [Validate data for a Recipient](https://docs.mangopay.com/api-reference/recipients/validate-recipient-data.md): Check that the user's Recipient data is valid before creation
+- [View payout methods](https://docs.mangopay.com/api-reference/recipients/view-payout-methods.md): See payout methods available to your platform by currency and country
+- [View a Recipient](https://docs.mangopay.com/api-reference/recipients/view-recipient.md): Fetch a Recipient or legacy Bank Account based on its ID
+- [View the schema for a Recipient](https://docs.mangopay.com/api-reference/recipients/view-recipient-schema.md): Fetch the data requirements for a given currency, payout method type, and recipient type
+- [Create a Recurring PayIn (CIT)](https://docs.mangopay.com/api-reference/recurring-card-payins/create-recurring-payin-cit.md)
+- [Create a Recurring PayIn (MIT)](https://docs.mangopay.com/api-reference/recurring-card-payins/create-recurring-payin-mit.md)
+- [The Recurring PayIn object](https://docs.mangopay.com/api-reference/recurring-card-payins/recurring-payin-object.md)
+- [View a PayIn (Recurring Card)](https://docs.mangopay.com/api-reference/recurring-card-payins/view-payin-recurring.md)
+- [Create a Recurring PayIn Registration (Card)](https://docs.mangopay.com/api-reference/recurring-payin-registrations/create-recurring-payin-registration.md)
+- [Create a Recurring PayIn Registration (PayPal)](https://docs.mangopay.com/api-reference/recurring-payin-registrations/create-recurring-payin-registration-paypal.md)
+- [The Recurring PayIn Registration object](https://docs.mangopay.com/api-reference/recurring-payin-registrations/recurring-payin-registration-object.md)
+- [The Recurring PayIn Registration object (PayPal)](https://docs.mangopay.com/api-reference/recurring-payin-registrations/recurring-payin-registration-object-paypal.md)
+- [Update a Recurring PayIn Registration](https://docs.mangopay.com/api-reference/recurring-payin-registrations/update-recurring-payin-registration.md)
+- [Update a Recurring PayIn Registration (PayPal)](https://docs.mangopay.com/api-reference/recurring-payin-registrations/update-recurring-payin-registration-paypal.md)
+- [View a Recurring PayIn Registration](https://docs.mangopay.com/api-reference/recurring-payin-registrations/view-recurring-payin-registration.md)
+- [View a Recurring PayIn Registration (PayPal)](https://docs.mangopay.com/api-reference/recurring-payin-registrations/view-recurring-payin-registration-paypal.md)
+- [Create a Refund for a PayIn](https://docs.mangopay.com/api-reference/refunds/create-refund-payin.md)
+- [Create a Refund for a Transfer](https://docs.mangopay.com/api-reference/refunds/create-refund-transfer.md)
+- [List Refunds for a PayIn](https://docs.mangopay.com/api-reference/refunds/list-refunds-payin.md)
+- [List Refunds for a Payout](https://docs.mangopay.com/api-reference/refunds/list-refunds-payout.md)
+- [List Refunds for a Repudiation](https://docs.mangopay.com/api-reference/refunds/list-refunds-repudiation.md)
+- [List Refunds for a Transfer](https://docs.mangopay.com/api-reference/refunds/list-refunds-transfer.md)
+- [The Refund object](https://docs.mangopay.com/api-reference/refunds/refund-object.md)
+- [View a Refund](https://docs.mangopay.com/api-reference/refunds/view-refund.md)
+- [Create a Report](https://docs.mangopay.com/api-reference/reporting/create-report.md): Generate a reporting service report
+- [List all Reports](https://docs.mangopay.com/api-reference/reporting/list-reports.md): List key data of Reporting Service reports
+- [The Report object](https://docs.mangopay.com/api-reference/reporting/report-object.md): Report object of Mangopay's Reporting Service (2025)
+- [View a Report](https://docs.mangopay.com/api-reference/reporting/view-report.md): Retrieve a report from the Reporting Service
+- [Create a Transactions Report](https://docs.mangopay.com/api-reference/reports/create-transactions-report.md): Generate a legacy Transactions Report
+- [Create a Wallets Report](https://docs.mangopay.com/api-reference/reports/create-wallets-report.md): Generate a legacy Wallets Report
+- [List all Reports](https://docs.mangopay.com/api-reference/reports/list-reports.md): List all legacy reports
+- [The legacy Report object](https://docs.mangopay.com/api-reference/reports/report-object.md)
+- [View a Report](https://docs.mangopay.com/api-reference/reports/view-report.md): Retrieve a legacy report
+- [The Repudiation object](https://docs.mangopay.com/api-reference/repudiations/repudiation-object.md)
+- [View a Repudiation](https://docs.mangopay.com/api-reference/repudiations/view-repudiation.md)
+- [Create a Satispay PayIn](https://docs.mangopay.com/api-reference/satispay/create-satispay-payin.md)
+- [The Satispay PayIn object](https://docs.mangopay.com/api-reference/satispay/satispay-payin-object.md)
+- [View a PayIn (Satispay)](https://docs.mangopay.com/api-reference/satispay/view-payin-satispay.md)
+- [Cancel a Settlement](https://docs.mangopay.com/api-reference/settlements/cancel-settlement.md): Disregard a settlement file and stop it being processed
+- [Create a Settlement and generate a secure URL for file upload](https://docs.mangopay.com/api-reference/settlements/create-settlement.md): Generate a pre-signed URL to which you can upload your Mangopay-format settlement file
+- [Settlement file format requirements](https://docs.mangopay.com/api-reference/settlements/settlement-file.md)
+- [The Settlement Object](https://docs.mangopay.com/api-reference/settlements/settlement-object.md)
+- [Update a Settlement and generate a new upload URL](https://docs.mangopay.com/api-reference/settlements/update-settlement.md): Generate a new pre-signed URL to replace the file of an existing Settlement
+- [Upload settlement file to secure URL](https://docs.mangopay.com/api-reference/settlements/upload-settlement-file.md): Send a file to the secure upload URL received previously
+- [View a Settlement](https://docs.mangopay.com/api-reference/settlements/view-settlement.md): Retrieve the settlement data generated from file upload
+- [View validation errors for a Settlement](https://docs.mangopay.com/api-reference/settlements/view-settlement-validations.md): Retrieve information about failed or partially matched settlements
+- [Create a Swish PayIn](https://docs.mangopay.com/api-reference/swish/create-swish-payin.md)
+- [The Swish PayIn object](https://docs.mangopay.com/api-reference/swish/swish-payin-object.md)
+- [View a PayIn (Swish)](https://docs.mangopay.com/api-reference/swish/view-payin-swish.md)
+- [List Transactions for a Bank Account](https://docs.mangopay.com/api-reference/transactions/list-transactions-bank-account.md)
+- [List Transactions for a Card](https://docs.mangopay.com/api-reference/transactions/list-transactions-card.md)
+- [List Transactions for a Card Fingerprint](https://docs.mangopay.com/api-reference/transactions/list-transactions-card-fingerprint.md)
+- [List Transactions for a Client Wallet](https://docs.mangopay.com/api-reference/transactions/list-transactions-client-wallet.md)
+- [List Transactions for a Deposit Preauthorization](https://docs.mangopay.com/api-reference/transactions/list-transactions-deposit-preauthorization.md)
+- [List Transactions for a Dispute](https://docs.mangopay.com/api-reference/transactions/list-transactions-dispute.md)
+- [List Transactions for a Mandate](https://docs.mangopay.com/api-reference/transactions/list-transactions-mandate.md)
+- [List Transactions for a Preauthorization](https://docs.mangopay.com/api-reference/transactions/list-transactions-preauthorization.md)
+- [List Transactions for a User](https://docs.mangopay.com/api-reference/transactions/list-transactions-user.md)
+- [List Transactions for a Wallet](https://docs.mangopay.com/api-reference/transactions/list-transactions-wallet.md)
+- [The Transaction object](https://docs.mangopay.com/api-reference/transactions/transaction-object.md)
+- [Create a Transfer](https://docs.mangopay.com/api-reference/transfers/create-transfer.md)
+- [The Transfer object](https://docs.mangopay.com/api-reference/transfers/transfer-object.md)
+- [View a Transfer](https://docs.mangopay.com/api-reference/transfers/view-transfer.md)
+- [Create a TWINT PayIn](https://docs.mangopay.com/api-reference/twint/create-twint-payin.md)
+- [The TWINT PayIn object](https://docs.mangopay.com/api-reference/twint/twint-payin-object.md)
+- [View a PayIn (TWINT)](https://docs.mangopay.com/api-reference/twint/view-payin-twint.md)
+- [Create a UBO](https://docs.mangopay.com/api-reference/ubo-declarations/create-ubo.md)
+- [Create a UBO Declaration](https://docs.mangopay.com/api-reference/ubo-declarations/create-ubo-declaration.md)
+- [List UBO Declarations for a User](https://docs.mangopay.com/api-reference/ubo-declarations/list-ubo-declarations-user.md)
+- [Submit a UBO Declaration](https://docs.mangopay.com/api-reference/ubo-declarations/submit-ubo-declaration.md)
+- [The UBO Declaration object](https://docs.mangopay.com/api-reference/ubo-declarations/ubo-declaration-object.md)
+- [The UBO object](https://docs.mangopay.com/api-reference/ubo-declarations/ubo-object.md)
+- [Update a UBO](https://docs.mangopay.com/api-reference/ubo-declarations/update-ubo.md)
+- [View a UBO](https://docs.mangopay.com/api-reference/ubo-declarations/view-ubo.md)
+- [View a UBO Declaration](https://docs.mangopay.com/api-reference/ubo-declarations/view-ubo-declaration.md)
+- [The User Data Format object](https://docs.mangopay.com/api-reference/user-data-format/user-data-format-object.md)
+- [Validate the format of User data](https://docs.mangopay.com/api-reference/user-data-format/validate-user-data-format.md)
+- [The User EMoney object](https://docs.mangopay.com/api-reference/user-emoney/user-emoney-object.md)
+- [View User EMoney](https://docs.mangopay.com/api-reference/user-emoney/view-user-emoney.md)
+- [The User Regulatory Status object](https://docs.mangopay.com/api-reference/user-regulatory-status/user-regulatory-status-object.md)
+- [View a User Regulatory Status](https://docs.mangopay.com/api-reference/user-regulatory-status/view-user-regulatory-status.md)
+- [Categorize a Legal User](https://docs.mangopay.com/api-reference/users/categorize-legal-user.md): Transition a Legal Payer to Owner and enroll them in SCA
+- [Categorize a Natural User](https://docs.mangopay.com/api-reference/users/categorize-natural-user.md): Transition a Natural Payer to Owner and enroll them in SCA
+- [Close a Legal User](https://docs.mangopay.com/api-reference/users/close-legal-user.md): Permanently close a user account so it can no longer be used
+- [Close a Natural User](https://docs.mangopay.com/api-reference/users/close-natural-user.md): Permanently close a user account so it can no longer be used
+- [Create a Legal User](https://docs.mangopay.com/api-reference/users/create-legal-user.md)
+- [Create a Legal User (SCA)](https://docs.mangopay.com/api-reference/users/create-legal-user-sca.md): Register a Legal Payer or Owner (with SCA enrollment)
+- [Create a Natural User](https://docs.mangopay.com/api-reference/users/create-natural-user.md)
+- [Create a Natural User (SCA)](https://docs.mangopay.com/api-reference/users/create-natural-user-sca.md): Register a Natural Payer or Owner (with SCA enrollment)
+- [Enroll a User in SCA](https://docs.mangopay.com/api-reference/users/enroll-user.md): Obtain an SCA redirection link to enroll an Owner user
+- [The Legal User object](https://docs.mangopay.com/api-reference/users/legal-user-object.md)
+- [The Legal User object (SCA)](https://docs.mangopay.com/api-reference/users/legal-user-object-sca.md)
+- [List all Users](https://docs.mangopay.com/api-reference/users/list-users.md): List User objects and key details
+- [Manage proxy consent for a User](https://docs.mangopay.com/api-reference/users/manage-proxy-consent.md): Allow a user to give or revoke consent for proxy actions
+- [The Natural User object](https://docs.mangopay.com/api-reference/users/natural-user-object.md)
+- [The Natural User object (SCA)](https://docs.mangopay.com/api-reference/users/natural-user-object-sca.md)
+- [Update a Legal User](https://docs.mangopay.com/api-reference/users/update-legal-user.md)
+- [Update a Legal User (SCA)](https://docs.mangopay.com/api-reference/users/update-legal-user-sca.md): Modify details for a Legal Payer or Owner without changing category
+- [Update a Natural User](https://docs.mangopay.com/api-reference/users/update-natural-user.md)
+- [Update a Natural User (SCA)](https://docs.mangopay.com/api-reference/users/update-natural-user-sca.md): Modify details for a Natural Payer or Owner without changing category
+- [View a User](https://docs.mangopay.com/api-reference/users/view-user.md)
+- [View a User (SCA)](https://docs.mangopay.com/api-reference/users/view-user-sca.md): Retrieve a Natural or Legal User
+- [View the SCA status of a User](https://docs.mangopay.com/api-reference/users/view-user-sca-status.md): Retrieve SCA and consent information for a Natural or Legal User
+- [Create a Virtual Account](https://docs.mangopay.com/api-reference/virtual-accounts/create-virtual-account.md): Set up a virtual IBAN or local account attached to a wallet
+- [Deactivate a Virtual Account](https://docs.mangopay.com/api-reference/virtual-accounts/deactivate-virtual-account.md): Close an account permanently to prevent it being used
+- [The External Instruction Bank Wire PayIn object](https://docs.mangopay.com/api-reference/virtual-accounts/external-instruction-bank-wire-payin-object.md)
+- [List Virtual Accounts for a Wallet](https://docs.mangopay.com/api-reference/virtual-accounts/list-virtual-accounts-wallet.md)
+- [View a PayIn (External Instruction)](https://docs.mangopay.com/api-reference/virtual-accounts/view-payin-external-instruction.md)
+- [View a Virtual Account](https://docs.mangopay.com/api-reference/virtual-accounts/view-virtual-account.md): Fetch a Virtual Account or legacy Banking Alias based on its ID
+- [View Virtual Account availabilities](https://docs.mangopay.com/api-reference/virtual-accounts/view-virtual-account-availabilities.md): See your platform's account capabilities per account type and country
+- [The Virtual Account object](https://docs.mangopay.com/api-reference/virtual-accounts/virtual-account-object.md)
+- [Create a Wallet](https://docs.mangopay.com/api-reference/wallets/create-wallet.md)
+- [List Wallets for a User](https://docs.mangopay.com/api-reference/wallets/list-wallets-user.md)
+- [Update a Wallet](https://docs.mangopay.com/api-reference/wallets/update-wallet.md)
+- [View a Wallet](https://docs.mangopay.com/api-reference/wallets/view-wallet.md)
+- [The Wallet object](https://docs.mangopay.com/api-reference/wallets/wallet-object.md)
+- [Create a Web Card PayIn](https://docs.mangopay.com/api-reference/web-card-payins/create-web-card-payin.md)
+- [The Extended Web Card PayIn object](https://docs.mangopay.com/api-reference/web-card-payins/extended-web-card-payin-object.md)
+- [View card details for a Web Card PayIn](https://docs.mangopay.com/api-reference/web-card-payins/view-card-details-web-card-payin.md)
+- [View a PayIn (Web Card)](https://docs.mangopay.com/api-reference/web-card-payins/view-payin-web-card.md)
+- [The Web Card PayIn object](https://docs.mangopay.com/api-reference/web-card-payins/web-card-payin-object.md)
+- [[Deprecated] Create a Web Direct-Debit PayIn](https://docs.mangopay.com/api-reference/web-direct-debit-payins/create-web-direct-debit-payin.md)
+- [View a PayIn](https://docs.mangopay.com/api-reference/web-direct-debit-payins/view-payin-web-direct-debit.md)
+- [[Deprecated] The Web Direct-Debit PayIn object](https://docs.mangopay.com/api-reference/web-direct-debit-payins/web-direct-debit-payin-object.md)
+- [Create a Hook](https://docs.mangopay.com/api-reference/webhooks/create-hook.md): Set up a URL to receive notifications of an event type
+- [The Hook object](https://docs.mangopay.com/api-reference/webhooks/hook-object.md)
+- [List all Hooks](https://docs.mangopay.com/api-reference/webhooks/list-hooks.md)
+- [Update a Hook](https://docs.mangopay.com/api-reference/webhooks/update-hook.md)
+- [View a Hook](https://docs.mangopay.com/api-reference/webhooks/view-hook.md)
+- [API status](https://docs.mangopay.com/api-status.md)
+- [Customizing bank statement references](https://docs.mangopay.com/bank-statements.md)
+- [Build with AI](https://docs.mangopay.com/build-with-ai.md): Use Mangopay docs and SDKs with AI tools
+- [Mirakl Connector](https://docs.mangopay.com/connectors/mirakl.md)
+- [Third-party PSPs with Echo](https://docs.mangopay.com/connectors/mirakl/acquiring/echo.md)
+- [Enrich Orders with custom fields](https://docs.mangopay.com/connectors/mirakl/acquiring/echo/custom-fields.md): How to set up and integrate custom fields for Echo with Mirakl
+- [Onboarding and synchronizing sellers](https://docs.mangopay.com/connectors/mirakl/sellers.md): Guide to the new Mangopay-hosted experiences to onboard your sellers
+- [Team management](https://docs.mangopay.com/dashboard/team.md): Manage your company's team members on the Mangopay Dashboard using role-based access control (RBAC)
+- [Roles and scopes](https://docs.mangopay.com/dashboard/team/roles.md): Understand the action scopes in reach Dashboard role
+- [All error codes](https://docs.mangopay.com/errors/codes.md)
+- [Error report](https://docs.mangopay.com/errors/error-report.md)
+- [HTTP response codes](https://docs.mangopay.com/errors/http-response-codes.md)
+- [Currencies](https://docs.mangopay.com/guides/currencies.md): Summary of Mangopay features by currency
+- [Disputes](https://docs.mangopay.com/guides/disputes.md)
+- [Mangopay e-wallet system](https://docs.mangopay.com/guides/e-wallet-system.md)
+- [Mangopay Echo](https://docs.mangopay.com/guides/echo.md)
+- [Echo integration](https://docs.mangopay.com/guides/echo/integration.md)
+- [How Echo handles reconciliation](https://docs.mangopay.com/guides/echo/reconciliation.md)
+- [Echo reports](https://docs.mangopay.com/guides/echo/reports.md): List intents, intent actions, settlements and splits
+- [Fees and billing](https://docs.mangopay.com/guides/fees.md)
+- [Overview](https://docs.mangopay.com/guides/fraud-prevention.md)
+- [Rules](https://docs.mangopay.com/guides/fraud-prevention/rules.md)
+- [Conversions](https://docs.mangopay.com/guides/fx.md)
+- [Glossary](https://docs.mangopay.com/guides/glossary.md)
+- [All supported payment methods](https://docs.mangopay.com/guides/payment-methods.md): Increase conversion and expand to new markets
+- [Overview](https://docs.mangopay.com/guides/payment-methods/apple-pay.md)
+- [Payment processing certificates](https://docs.mangopay.com/guides/payment-methods/apple-pay/certificates.md)
+- [Bancontact](https://docs.mangopay.com/guides/payment-methods/bancontact.md)
+- [Bank wire](https://docs.mangopay.com/guides/payment-methods/banking/bank-wire.md)
+- [Direct debit](https://docs.mangopay.com/guides/payment-methods/banking/direct-debit.md)
+- [Pay by Bank](https://docs.mangopay.com/guides/payment-methods/banking/pay-by-bank.md)
+- [Virtual IBANs](https://docs.mangopay.com/guides/payment-methods/banking/virtual-iban.md)
+- [Bizum](https://docs.mangopay.com/guides/payment-methods/bizum.md)
+- [BLIK](https://docs.mangopay.com/guides/payment-methods/blik.md)
+- [Card processing overview](https://docs.mangopay.com/guides/payment-methods/card.md)
+- [3DS](https://docs.mangopay.com/guides/payment-methods/card/3ds.md)
+- [Address verification system](https://docs.mangopay.com/guides/payment-methods/card/avs.md)
+- [Co-branded cards](https://docs.mangopay.com/guides/payment-methods/card/co-branded.md)
+- [30-day preauth](https://docs.mangopay.com/guides/payment-methods/card/deposit-preauthorization.md)
+- [Overview](https://docs.mangopay.com/guides/payment-methods/card/direct.md)
+- [How to process a card payment](https://docs.mangopay.com/guides/payment-methods/card/direct/how-to.md): Make a card payment to get funds into a Mangopay wallet
+- [Card fingerprint](https://docs.mangopay.com/guides/payment-methods/card/fingerprint.md)
+- [Overview](https://docs.mangopay.com/guides/payment-methods/card/preauthorization.md)
+- [How to process a 7-day card preauthorization](https://docs.mangopay.com/guides/payment-methods/card/preauthorization/how-to.md)
+- [Overview](https://docs.mangopay.com/guides/payment-methods/card/recurring.md)
+- [How to process a recurring card payment](https://docs.mangopay.com/guides/payment-methods/card/recurring/how-to.md)
+- [Overview](https://docs.mangopay.com/guides/payment-methods/card/validation.md)
+- [How to validate a card without debiting a payment](https://docs.mangopay.com/guides/payment-methods/card/validation/how-to.md)
+- [Giropay](https://docs.mangopay.com/guides/payment-methods/giropay.md)
+- [Overview](https://docs.mangopay.com/guides/payment-methods/google-pay.md)
+- [How to process a Google Pay payment](https://docs.mangopay.com/guides/payment-methods/google-pay/how-to.md)
+- [iDEAL | Wero](https://docs.mangopay.com/guides/payment-methods/ideal.md)
+- [Klarna](https://docs.mangopay.com/guides/payment-methods/klarna.md)
+- [MB WAY](https://docs.mangopay.com/guides/payment-methods/mb-way.md)
+- [Multibanco](https://docs.mangopay.com/guides/payment-methods/multibanco.md)
+- [Payconiq](https://docs.mangopay.com/guides/payment-methods/payconiq.md)
+- [PayPal](https://docs.mangopay.com/guides/payment-methods/paypal.md)
+- [Satispay](https://docs.mangopay.com/guides/payment-methods/satispay.md)
+- [Swish](https://docs.mangopay.com/guides/payment-methods/swish.md)
+- [TWINT](https://docs.mangopay.com/guides/payment-methods/twint.md)
+- [Introduction](https://docs.mangopay.com/guides/payouts.md)
+- [Integrate payout flows](https://docs.mangopay.com/guides/payouts/integration.md)
+- [Rejects, returns, and recalls](https://docs.mangopay.com/guides/payouts/rejects-returns.md): Guidance for dealing with payout rejects and returns
+- [Overview](https://docs.mangopay.com/guides/refunds.md)
+- [How to process a refund](https://docs.mangopay.com/guides/refunds/how-to.md)
+- [Introduction to SCA](https://docs.mangopay.com/guides/sca.md): Learn about Mangopay's SCA features applicable to Owner users
+- [Authentication factors](https://docs.mangopay.com/guides/sca/factors.md): Learn how authentication factors work on the hosted webpage
+- [WebAuthn passkey on Android](https://docs.mangopay.com/guides/sca/factors/passkey-android.md): Integrate Mangopay's passkey factor in Android apps
+- [WebAuthn passkey on iOS](https://docs.mangopay.com/guides/sca/factors/passkey-ios.md): Integrate Mangopay's passkey factor in iOS apps
+- [FAQ on Mangopay's SCA feature](https://docs.mangopay.com/guides/sca/faq.md)
+- [SCA on your platform](https://docs.mangopay.com/guides/sca/platform.md): Integrating the mTLS certificate factor required for platforms taking SCA action under proxy
+- [Proxy management](https://docs.mangopay.com/guides/sca/proxy-management.md): Managing user consent to the proxy allowing you to take action on their behalf
+- [SCA on recipients (bank accounts)](https://docs.mangopay.com/guides/sca/recipients.md): Read about Mangopay's new Recipients feature, replacing bank accounts
+- [SCA session redirection](https://docs.mangopay.com/guides/sca/session.md): Learn how to redirect a user for their hosted SCA session
+- [SCA on transfers](https://docs.mangopay.com/guides/sca/transfers.md): Read how SCA impacts the transfer endpoint
+- [SCA on users](https://docs.mangopay.com/guides/sca/users.md): Read about how SCA impacts user endpoints
+- [SCA on Mangopay Account access](https://docs.mangopay.com/guides/sca/wallets.md): Read about how SCA impacts wallet access endpoints
+- [Blocked users](https://docs.mangopay.com/guides/users/blocked-users.md)
+- [Categories](https://docs.mangopay.com/guides/users/categories.md)
+- [Restrictions on Payer users](https://docs.mangopay.com/guides/users/categories/restrictions.md)
+- [Country restrictions](https://docs.mangopay.com/guides/users/country-restrictions.md)
+- [Inactive users](https://docs.mangopay.com/guides/users/inactivity.md): Mangopay’s policy on inactive accounts (also called dormant accounts) and inactivity fees
+- [KYC/KYB limits](https://docs.mangopay.com/guides/users/limits.md): Read about the KYC/KYB limits applicable to users under Mangopay's Payment Services (EEA) and Electronic Money Services (EEA and UK)
+- [Privacy](https://docs.mangopay.com/guides/users/privacy.md)
+- [Terms and conditions](https://docs.mangopay.com/guides/users/terms.md)
+- [Introduction and types](https://docs.mangopay.com/guides/users/types.md)
+- [Introduction](https://docs.mangopay.com/guides/users/verification.md)
+- [Beneficial owners](https://docs.mangopay.com/guides/users/verification/beneficial-owners.md)
+- [How to submit a UBO Declaration](https://docs.mangopay.com/guides/users/verification/beneficial-owners/how-to.md)
+- [Company number](https://docs.mangopay.com/guides/users/verification/company-number.md)
+- [Document submission process](https://docs.mangopay.com/guides/users/verification/documents/submission.md)
+- [How to submit a KYC Document](https://docs.mangopay.com/guides/users/verification/documents/submission/how-to.md)
+- [Identity proof best practices](https://docs.mangopay.com/guides/users/verification/documents/submission/id-best-practices.md)
+- [Dealing with refusals](https://docs.mangopay.com/guides/users/verification/documents/submission/refusals.md)
+- [Document types](https://docs.mangopay.com/guides/users/verification/documents/types.md)
+- [Verification downgrade](https://docs.mangopay.com/guides/users/verification/downgrade.md)
+- [Hosted IDV for KYC/KYB](https://docs.mangopay.com/guides/users/verification/hosted.md): Integrate Mangopay's web-hosted KYC/KYB verification solution
+- [Business users](https://docs.mangopay.com/guides/users/verification/hosted/business.md): UX steps, validation flows, and outcomes of the hosted IDV flow for Legal Business users
+- [KYC/KYB integration](https://docs.mangopay.com/guides/users/verification/hosted/integration.md): Integrate Mangopay's hosted KYC/KYB verification solution
+- [Natural users](https://docs.mangopay.com/guides/users/verification/hosted/natural.md): UX steps, validation flows, and outcomes of the hosted IDV flow for Natural Users
+- [Organization users](https://docs.mangopay.com/guides/users/verification/hosted/organization.md): UX steps, validation flows, and outcomes of the hosted IDV flow for Legal Organization users
+- [Dealing with hosted IDV refusals](https://docs.mangopay.com/guides/users/verification/hosted/refusals.md)
+- [Soletrader users](https://docs.mangopay.com/guides/users/verification/hosted/soletrader.md): UX steps, validation flows, and outcomes of the hosted IDV flow for Legal Soletrader users
+- [All requirements by user type](https://docs.mangopay.com/guides/users/verification/requirements.md)
+- [Accepted identity documents](https://docs.mangopay.com/guides/users/verification/requirements/id-accepted.md)
+- [Accepted local KYB documents](https://docs.mangopay.com/guides/users/verification/requirements/kyb-local.md)
+- [Verification of Payee](https://docs.mangopay.com/guides/vop.md): How Verification of Payee (VOP) works and why it matters for your platform
+- [VOP on pay-ins](https://docs.mangopay.com/guides/vop/payins.md): How Verification of Payee impacts pay-ins to Virtual Accounts
+- [Recipients and payouts](https://docs.mangopay.com/guides/vop/recipients-payouts.md): How Verification of Payee (VOP) impacts recipients and payouts
+- [Welcome to Mangopay docs](https://docs.mangopay.com/index.md)
+- [Onboarding guide](https://docs.mangopay.com/onboarding.md): How your platform can partner with Mangopay
+- [Company information and documents](https://docs.mangopay.com/onboarding/company-documentation.md): Information and documents required to verify your platform during onboarding
+- [Postman](https://docs.mangopay.com/postman.md)
+- [API](https://docs.mangopay.com/release-notes/api.md)
+- [Dashboard](https://docs.mangopay.com/release-notes/dashboard.md)
+- [Packages and changelogs](https://docs.mangopay.com/release-notes/sdk.md)
+- [Java SDK](https://docs.mangopay.com/release-notes/sdk/java.md)
+- [.NET SDK](https://docs.mangopay.com/release-notes/sdk/net.md)
+- [NodeJS SDK](https://docs.mangopay.com/release-notes/sdk/nodejs.md)
+- [PHP SDK](https://docs.mangopay.com/release-notes/sdk/php.md)
+- [Changelog - Python SDK](https://docs.mangopay.com/release-notes/sdk/python.md)
+- [Ruby SDK](https://docs.mangopay.com/release-notes/sdk/ruby.md)
+- [Reports](https://docs.mangopay.com/reports.md)
+- [Echo](https://docs.mangopay.com/reports/echo.md)
+- [Platform fees report](https://docs.mangopay.com/reports/platform-fees.md): List transactions crediting or debiting your platform’s Fees Wallet
+- [Transactions report](https://docs.mangopay.com/reports/transactions.md): List transactions crediting or debiting user wallets
+- [Wallets report](https://docs.mangopay.com/reports/wallets.md): List user wallets, their owners, descriptions and tags, and their balances at the time of report creation
+- [Checkout SDK overview](https://docs.mangopay.com/sdks/checkout.md)
+- [Checkout Web integration](https://docs.mangopay.com/sdks/checkout/web.md)
+- [Recipients embedded experience](https://docs.mangopay.com/sdks/elements.md): Integrating the Recipients UI component using Mangopay Elements
+- [Java](https://docs.mangopay.com/sdks/java.md)
+- [.NET](https://docs.mangopay.com/sdks/net.md)
+- [Node.js](https://docs.mangopay.com/sdks/nodejs.md)
+- [PHP](https://docs.mangopay.com/sdks/php.md)
+- [Profiler overview](https://docs.mangopay.com/sdks/profiler.md)
+- [Profiler - Android](https://docs.mangopay.com/sdks/profiler/android.md): How to integrate the fraud prevention profiler on Android.
+- [Profiler - iOS](https://docs.mangopay.com/sdks/profiler/ios.md): How to integrate the fraud prevention profiler on iOS.
+- [Profiler - Web](https://docs.mangopay.com/sdks/profiler/web.md): How to integrate the fraud prevention profiler on web.
+- [Python](https://docs.mangopay.com/sdks/python.md)
+- [Ruby](https://docs.mangopay.com/sdks/ruby.md)
+- [Vault – Web](https://docs.mangopay.com/sdks/vault/web.md)
+- [Security at Mangopay](https://docs.mangopay.com/security.md): How Mangopay handles security, and best practices for your platform and users
+- [Support](https://docs.mangopay.com/support.md)
+- [Address verification system (AVS)](https://docs.mangopay.com/testing/mocks/avs.md)
+- [Recurring card payments](https://docs.mangopay.com/testing/mocks/recurring-card-payments.md)
+- [Payment methods](https://docs.mangopay.com/testing/payment-methods.md)
+- [Payouts](https://docs.mangopay.com/testing/payouts.md)
+- [Webhook notifications](https://docs.mangopay.com/webhooks.md)
+- [Event types](https://docs.mangopay.com/webhooks/event-types.md)
+
+## OpenAPI Specs
+
+- [package](https://docs.mangopay.com/package.json)
+- [package-lock](https://docs.mangopay.com/package-lock.json)
+- [settings](https://docs.mangopay.com/.vscode/settings.json)
+- [openapi](https://docs.mangopay.com/api-reference/openapi.json)

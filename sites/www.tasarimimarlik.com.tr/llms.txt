@@ -1,0 +1,431 @@
+﻿# Mimarlık Ofisi Proje Ruhsat Uygulama
+
+> Tasarım Mimarlık
+
+---
+
+
+## Sayfalar
+
+- [Yarısı Bizden Kampanyası ile Süreci Biz Yönetelim](https://www.tasarimimarlik.com.tr/yarisi-bizden-kampanyasi-ile-sureci-biz-yonetelim/): Tasarım Mimarlık ile Kentsel Dönüşüm Artık Çok Daha Kolay** Hiç düşündünüz mü? Neden bazı binalar deprem riskine rağmen yenilenemiyor? Neden...
+- [Tapu Kaydı Okuma Programı PDF'den Excel'e Aktar](https://www.tasarimimarlik.com.tr/tapu-kaydi-okuma-programi-pdfden-excele-aktar/): WEBTAPU TAPU KAYDI EXCEL DÖNÜŞTÜRÜCÜ PROGRAMI Merhabalar Sizlere anlatmak istediğim bir programdan bahsedeceğim. Python dili ile hazırlanmış olan bu program....
+- [Acil Durum Tahliye Planı Tasarımı ve Çizimi Hizmeti](https://www.tasarimimarlik.com.tr/acil-durum-tahliye-plani-tasarimi-ve-cizimi-hizmeti/): Acil durum tahliye planları iş yerleri hastaneler eczaneler ve kamu alanları için çok önem arz eder. Acil durum tahliye planı...
+- [Bilgisayar Tabanlı Fotoğraflar](https://www.tasarimimarlik.com.tr/bilgisayar-tabanli-fotograflar/): 
+- [Oto Galeri Mimari Proje Çizimi](https://www.tasarimimarlik.com.tr/oto-galeri-mimari-cizim/): Oto galeri mimari proje çizimi müşterilere araç içi deneyim kazandırmak adına Oto galeri mimari proje çizimi yapılırken mekan en maksimum...
+- [Küçükçekmece Mimari Proje Çizimi Destek](https://www.tasarimimarlik.com.tr/kucukcekmece-mimari-proje-cizimi-profesyonel-destek/): Küçükçekmece Mimari Proje Çizimi Profesyonel Destek   Küçükçekmece Mimari Proje çizimi profesyonel destek ile İstanbul ve Türkiye yönetmeliklerine göre proje...
+- [Küçükçekmece Halkalı Mimarlık Ofisi](https://www.tasarimimarlik.com.tr/kucukcekmece-halkali-mimarlik-ofisi/): Küçükçekmece Mimari Konut Projesi Çizimi   Küçükçekmece Mimari Konut proje çizimi kentsel dönüşüm ile birlikte artmıştır. Kentsel dönüşüm projeleri ile...
+- [Tadilat Dekorasyon Mimarlık Hizmetleri](https://www.tasarimimarlik.com.tr/tadilat-dekorasyon-mimarlik-hizmetleri/): Tadilat Dekorasyon Mimarlık Hizmetleri   Tadilat dekorasyon mimarlık hizmetleri yaşam alanlarınızın yeniden dekore edilmesi işlemidir. Yaşam alanlarınızda yapacağımız düzenleme ile...
+- [Bina İçinin Projesinin Çizilmesi](https://www.tasarimimarlik.com.tr/bina-icinin-projesinin-cizilmesi/): Bina İçinin Projesinin Çizilmesi   Bina içinin projesinin çizilmesi için iç mekânda ölçü almak, oda ve yapının mevcut özelliklerinin kapıda...
+- [Dış Cephe Bina Tasarımları](https://www.tasarimimarlik.com.tr/dis-cephe-bina-tasarimlari/): Dış Cephe Bina Tasarımları   Dış cephe bina tasarımları hizmetimizden önce sizlere 3 boyutu anlatmak isteriz. Daha anlaşılır kılmak açısından...
+- [İmar Barışı’na Nasıl Müracaat Edilir?](https://www.tasarimimarlik.com.tr/imar-barisi-nasil-muracaat-edilir/): İmar Barışı’na Nasıl Müracaat Edilir? 08. 06. 2018 tarihinde başlayan İmar Barışı Yasası gereğince müracaatlarınızı sizin adınıza gerçekleştirelim. Mimari projelerinizi, ölçü krokisi‘ni ,...
+- [İmar Barışı Mimari Proje Çizim Aşamaları](https://www.tasarimimarlik.com.tr/imar-barisi-mimari-proje-cizim-asamalari/): İmar Barışı Mimari Proje Çizim Aşamaları İmar barışı kapsamında kat mülkiyetine geçiş sürecini anlatıyoruz. Tasarımimarlık olarak soru işaretlerinizi gidermek istiyoruz....
+- [İmar Barışı Başvurusu](https://www.tasarimimarlik.com.tr/imar-barisi-basvurusu/): İmar Barışı Başvurusu YAPILAN İŞLEMLER 1. AŞAMA Yapı kayıt belgesi müracaatında bilgilerin doğruluğu rölöve mimari ölçülerek birebir beyanlarda bulunarak mimari...
+- [Rölöve Kroki Cetveli Plan Çizimi](https://www.tasarimimarlik.com.tr/rolove-kroki-cetveli-plan-cizimi/): Rölöve Kroki Cetveli Plan Çizimi   Rölöve kroki cetveli plan çizimi günümüzde ise fotogrametri, lazer tarama gibi ölçüm teknikleri kullanılarak...
+- [İmar Barışı Hesaplama Tablosu](https://www.tasarimimarlik.com.tr/imar-barisi-hesaplama-tablosu/): İmar Barışı Hesaplama Tablosu Hesap tablosu yaklaşık değer vermektedir. Nihai değer için ölçüm yapılması gerekmektedir. Bilgilendirme için Formumuzu Doldurabilir, yada...
+- [İmar Barışı Başvuru Formu](https://www.tasarimimarlik.com.tr/imar-barisi-basvuru-formu/): İmar Barışı Başvuru Formu İmar barışı kapsamında işlemlere başlamak için formu eksiksiz doldurunuz. Formu doldurduktan sonra size en kısa sürede...
+- [Rölöve Ölçü Krokisi Projesi](https://www.tasarimimarlik.com.tr/rolove-olcu-krokisi-projesi/): Rölöve Ölçü Krokisi Projesi Rölöve ölçü krokisi projesi restorasyon çalışmalarının en önemli adımı olan rölöve alma işlemi binanın mevcut durumunu...
+- [Eczane Rölövesi, Eczane Plan Çizimi](https://www.tasarimimarlik.com.tr/eczane-rolovesi-eczane-plan-cizimi/): Eczane Rölövesi, Eczane Plan Çizimi   Eczane rölövesi ve eczane plan çizimi hizmetlerini İstanbul bölgesinde hizmet veren mimarlık ofisimiz, profesyonel...
+- [Dershane Röleve](https://www.tasarimimarlik.com.tr/dershane-roleve/): Dershane Rölöve Hizmetleri   Dershane röleve çizimlerinde müşterilerine profesyonel bir hizmet sunan firmamız, uzman ekibiyle en doğru ölçümleri yaparak, aslına...
+- [Çalışma Ruhsatı Röleve](https://www.tasarimimarlik.com.tr/calisma-ruhsati-roleve/): Çalışma Ruhsatı Rölöve Çizimi   Çalışma ruhsatı rölöve çizimi günümüzde firmaların değişen ihtiyaçları sebebiyle sıklıkla restorasyon çalışmaları yapılmaktadır. Bunlar yapıların...
+- [İş Yeri Ruhsat Çizimi, İş Yeri Plan Çizimi](https://www.tasarimimarlik.com.tr/is-yeri-ruhsat-cizimi-is-yeri-plan-cizimi/): İş Yeri Ruhsat Plan Çizimi İş yeri ruhsat plan çizimi ile ilgili olarak profesyonel kadrosu ve kaliteli mimari anlayışıyla Küçükçekmece,...
+- [İş Güvenliği CSGB Rölöve Çizimi](https://www.tasarimimarlik.com.tr/is-guvenligi-csgb-rolove-cizimi/): İş Güvenliği CSGB Kroki Çizimi Nedir?   İş güvenliği CSGB kroki çizimi nedir ve hangi aşamalarda ihtiyaç duyulur? İş güvenliği...
+- [İç Mekanda Ölçü Almak Rölöve](https://www.tasarimimarlik.com.tr/ic-mekanda-olcu-almak-rolove/): İç Mekanda Ölçü Almak   İç mekanda ölçü almak ve binalarda yapılacak herhangi bir değişim işlemi için ilk yapılması gereken...
+- [Küçükçekmece Kentsel Dönüşüm](https://www.tasarimimarlik.com.tr/kentsel-donusum-kucukcekmece/): Küçükçekmece Kentsel Dönüşüm Profesyonel Mimarlık Hizmetleri   Küçükçekmece Kentsel Dönüşüm, İstanbul’un farklı birçok semti gibi hızlı bir şekilde başladı. Kentsel...
+- [Mimarlık Ofisi Proje Ruhsat Uygulama](https://www.tasarimimarlik.com.tr/): Mimarlık ofisi olarak proje ruhsat uygulama, mimari proje çizimi, mimari dekorasyon hizmetleri ve diğer konularda hizmet vermekteyiz.
+- [İletişim](https://www.tasarimimarlik.com.tr/iletisim/): Yarımburgaz Mahallesi Halkalı İstanbul Caddesi No:96 Küçükçekmece, İstanbul Telefon: +90 (212) 470 8670 GSM: + 90 (535) 616 42 14...
+- [Mimari Proje Çizimi](https://www.tasarimimarlik.com.tr/mimari-proje-cizimi/): Mimari Proje Çizimi   Mimari proje çizimi uygulama alanları hangileridir? Projeler için mimari çizim aşamaları ve çalışmanın önemli noktalarını sizlerle paylaşmak...
+- [Alüminyum Cephe Sistemleri](https://www.tasarimimarlik.com.tr/aluminyum-cephe-sistemleri/): Alüminyum Cephe Sistemleri Danışmanlık Hizmetleri   Alüminyum cephe sistemleri’nde danışmanlık hizmeti vererek, planlama sonrasında tasarlayarak çiziyor, projelendiriyor ve yöneterek gerçekleştirerek...
+- [3 Boyutlu Tasarım Mimari Çizimleri](https://www.tasarimimarlik.com.tr/3-boyutlu-tasarim-mimari-cizimleri/): 3 Boyutlu Tasarım Mimari Çizimleri   3 boyutlu tasarım araçları günümüzde mimari çalışmalarda yaygın bir şekilde kullanılmaya başlamıştır. Teknolojik yeniliklerle...
+- [Mimari Dekorasyon Hizmetleri](https://www.tasarimimarlik.com.tr/mimari-dekorasyon-hizmetleri/): Mimari Dekorasyon Hizmetleri   Mimari dekorasyon hizmetleri yaşam alanlarını müşterilerin beklentilerini ve estetik anlayışlarını dikkate alarak yapılması gereken detaylı bir...
+- [3D Bina Modelleme Tasarım Hizmetleri](https://www.tasarimimarlik.com.tr/3d-bina-modelleme-tasarim/): 3D Bina Modelleme Tasarım 3D Bina Modelleme ile binalarınızın dış görsellerinin tasarımlarını 3d max bina modelleme mantığında muhteşem tasarımlarınızı yapıyoruz....
+- [Rölöve Çizimi](https://www.tasarimimarlik.com.tr/rolove-almak/): Rölöve Çizimi   Rölöve Çizimi en büyük amaç restore edilecek binanın yıkılmadan ve en az hasarla onarılmasıdır. Rölöve çizecek birisi...
+
+## 
+
+
+## Yazılar
+
+- [1970s Revival Kitchen Design](https://www.tasarimimarlik.com.tr/1970s-revival-kitchen-design/): 
+- [Silver Dragon Fantasy](https://www.tasarimimarlik.com.tr/silver-dragon-fantasy/): 
+- [Refreshing Summer Invitation](https://www.tasarimimarlik.com.tr/refreshing-summer-invitation/): 
+- [Fantasy - White Bearded Old Man in Silver Armor](https://www.tasarimimarlik.com.tr/fantasy-white-bearded-old-man-in-silver-armor/): 
+---
+
+#
+# Detailed Content
+
+
+## Sayfalar
+
+### Yarısı Bizden Kampanyası ile Süreci Biz Yönetelim
+
+- Published: 2025-10-30
+- Modified: 2025-10-30
+- URL: https://www.tasarimimarlik.com.tr/yarisi-bizden-kampanyasi-ile-sureci-biz-yonetelim/
+
+Tasarım Mimarlık ile Kentsel Dönüşüm Artık Çok Daha Kolay** Hiç düşündünüz mü? Neden bazı binalar deprem riskine rağmen yenilenemiyor? Neden birçok toprak sahibi kentsel dönüşüm için adım atmak istiyor ama yine de süreç başlamıyor? Cevabı aslında hepimizin bildiği kadar basit: Maliyet ve karmaşık süreçler. İşte biz, Tasarım Mimarlık olarak tam da bu noktada devreye giriyoruz. ✔ Devlet Destekli “Yarısı Bizden” Kampanyası Türkiye’de uzun yıllardır var olan kentsel dönüşüm, “Yarısı Bizden” kampanyasıyla büyük bir hız kazandı. Çünkü bu kampanya, toprak sahiplerinin en büyük engelini ortadan kaldırdı: ✅ Maliyet yükünün önemli bir kısmını devlet karşılıyor. ✅ Proje, ruhsat, zemin etüdü, belediye süreçleri gibi teknik aşamalar profesyoneller tarafından yürütülüyor. ✅ Eski ve riskli binalar, modern deprem yönetmeliğine uygun şekilde yeniden inşa ediliyor. Yani artık eski binaların kaderi değişti. Ve biz bu değişimi profesyonel ekibimizle yönetiyoruz. ✔ Tasarım Mimarlık Olarak Biz Ne Yapıyoruz? Saha tecrübemiz, teknik kadromuz ve mimari yaklaşımımızla toprak sahiplerine baştan sona çözüm sunuyoruz. ✅ Mimari Proje Çizimi✅ Statik, elektrik, mekanik projeler✅ Zemin etüdü – aplikasyon – ruhsat işlemleri✅ Bakanlık proje onayı ve kentsel dönüşüm başvuruları✅ Uygulama danışmanlığı ve müteahhit koordinasyonu Kısacası; toprak sahibi yorulmuyor, dosya takip etmiyor, evrak peşinde koşmuyor. Biz her adımı kontrol ediyor, kayıt altına alıyor ve güvenli şekilde ilerletiyoruz. ✔ Neden böyle bir sistem gerekiyor? Çünkü İstanbul’da ve birçok şehirde yıllarca ayakta kalan binaların çoğu eski yönetmeliklere göre inşa edildi. Deprem gerçeği ise hepimizin hayatının ortasında. Her depremden sonra aynı soruyu duyar olduk: “Bizim bina ne zaman yenilenecek? ” Eskiden cevabı net değildi. Çünkü yenileme demek: Yüksek maliyet, Teknik bilgi ihtiyacı, Uzun bürokrasi, Proje ve ruhsat giderleri demekti. Ama...
+
+---
+
+### Tapu Kaydı Okuma Programı PDF'den Excel'e Aktar
+
+- Published: 2025-03-21
+- Modified: 2025-03-21
+- URL: https://www.tasarimimarlik.com.tr/tapu-kaydi-okuma-programi-pdfden-excele-aktar/
+
+WEBTAPU TAPU KAYDI EXCEL DÖNÜŞTÜRÜCÜ PROGRAMI Merhabalar Sizlere anlatmak istediğim bir programdan bahsedeceğim. Python dili ile hazırlanmış olan bu program. Webtapu üzerinden alınan tapu kaydını Pdf formatina sadece bir kaç saniye de Excel formatına dönüştürmektedir. Bu sayede yapılacak düzenlemeler kolaylıkla yapılabilir. Programın kullanımı oldukça basittir. Pdf dosyasının kayıtlı olduğu hedef yolu seçiliyor. Daha sonra Excelin kayıt edileceği hedef yolu seçilerek çevirme işlemi başlatılıyor. Başarılı işlem sonrasında export edilen excel formatının görüntüsü aşağıdaki şekilde olacaktır. Yazılan bu program sadece pdf dosyasını excel dosya türüne dönüştürmekle kalmıyor, ayrıca ortak payda da birleştirerek pay kısımlarını da payda oranı ile bize göstermiş oluyor. Teker teker elle yazılarak bulunması yanlış yapılan kaydırmalar vb. hatalara sebebiyet verecek durumlar ortadan kaldırılmış oluyor. Programın Fiyatı : 2000 TL Lisans Süresi : Sınırsız İletişim için whatsapp hattımızı kullanabilirsiniz.
+
+---
+
+### Acil Durum Tahliye Planı Tasarımı ve Çizimi Hizmeti
+
+- Published: 2025-01-12
+- Modified: 2025-01-12
+- URL: https://www.tasarimimarlik.com.tr/acil-durum-tahliye-plani-tasarimi-ve-cizimi-hizmeti/
+
+Acil durum tahliye planları iş yerleri hastaneler eczaneler ve kamu alanları için çok önem arz eder. Acil durum tahliye planı yangın deprem sel gaz kaçağı misali acil durumlarda can kayıplarını en aza indirmek ve güvenli tahliyeyi doğru ve sağlam bir şekilde için çizilir ve tasarlanır. Uzman ekip tarafından tasarlanmış tahliye planları personelin ve ziyaretçilerin nasıl hareket etmeleri gerektiğini net bir şekilde tespit eder. 2. Acil Durum Tahliye Planı Nedir? Acil durum tahliye planı belirli bir bina veya tesis için tasarlanmış insanların güvenli bir şekilde tahliye edilmesini sağlamak amacıyla hazırlanan grafiksel ve yazılı bir dokümandır. Bu planlar çoğu zaman aşağıdaki unsurları içerir Acil çıkış noktaları Yangın söndürme ekipmanlarının yerleri Toplanma alanları Alternatif tahliye yolları İlk yardım istasyonları Engelli bireyler için tahliye prosedürleri 3. Neden Acil Durum Tahliye Planına İhtiyaç Duyulur? İş yerleri hastaneler ve eczaneler misali yoğun insan trafiğine sahip alanlarda acil durum tahliye planı bulundurmak yasal bir zorunluluktur. Bu planlar sayesinde İnsan hayatı korunur ve panik ortamı engellenir. Hukuki yükümlülükler yerine getirilir. Risk yönetimi sağlanarak iş sürekliliği korunur. Acil durum ekipleri ile iş birliği sağlanır. Denetimlerde avantaj elde edilir. 4. Acil Durum Tahliye Planı Dizayn Aşamaları 4. 1 Risk Analizi ve Değerlendirme Tesisin heryerde rastlanan yapısı ve gelecek vaat eden riskler mütalaa edilerek kaçış yolları ve acil çıkış noktaları belirlenir. 4. 2 Kat Planı Çıkarılması Var olan bina planı üzerinde tahliye yolları ve güvenli alanlar işaretlenerek dijital veya basılı versiyon oluşturulur. 4. 3 İşaretlendirme ve Grafik Dizayn Kolay anlaşılır uluslararası standartlara uygun işaretler ve sembollerle desteklenen planlar tasarlanır. 4. 4 Onay ve Pratik etme...
+
+---
+
+### Bilgisayar Tabanlı Fotoğraflar
+
+- Published: 2023-12-16
+- Modified: 2023-12-16
+- URL: https://www.tasarimimarlik.com.tr/bilgisayar-tabanli-fotograflar/
+
+
+
+---
+
+### Oto Galeri Mimari Proje Çizimi
+
+- Published: 2021-04-02
+- Modified: 2021-04-13
+- URL: https://www.tasarimimarlik.com.tr/oto-galeri-mimari-cizim/
+
+Oto galeri mimari proje çizimi müşterilere araç içi deneyim kazandırmak adına Oto galeri mimari proje çizimi yapılırken mekan en maksimum oranda kullanılacak şekilde tasarım yapılır. Oto galeri mimari de yer alacak dijital ekranlar, tabletler ve sanal gerçeklik çözümlerinin tasarıma entegre edilmesi sağlanır.   Son teknoloji bir galeri oluşturmak ve dikkat çeken bir tasarım yapmak adına mekana yönelik araştırmalar ışığında tasarım başlar. Talepleriniz doğrultusunda ilerlenerek tamamen memnun kalacağınız bir mekan ortaya çıkarılır. Tasarım aşamasında mekanın derinliği, tavan yüksekliği gibi hususlar da göz önünde bulundurulur. Bunun için profesyonel tasarım ve çizimin yapılması için alanında uzman mimarlar görev alır. Tamamen kusursuz bir tasarım ortaya çıkarılır. Oto galeri mimari proje çizimi galerinin iç mekanından dış mekanına kadar en profesyonel şekilde yapılacaktır. Tüm ihtiyaçlar göz önünde bulundurularak ortaya çıkarılacak ve tasarım estetik bir şekilde uygulama sunacaktır. Dış cephe için önerilen deriin saçaklar olabilir. Araçların müşteriye verilmeden önce dış hava şartlarından etkilenmemesi açısından bekleme alanı olarak düşünebilir. Bu gibi çözümlemelerde mekanın buna ne kadar el verdiği, ne kadar uygun olduğu da son derece önemlidir. Gerekli incelemelerden sonra karar verilir. Oto Galeri Rölöve Proje Çizimi Oto galeri rölöve proje çizimi mekanın gerçekliği ile tasarımı örtüştürmek açısından mekan çalışmaları yapılır. Oto galeri rölöve çizimi alana uygun olan bir tasarım sunmak için Oto galeri röleve proje çizimi yapılır. Röleve çalışmalarında, mekanın ölçümleri yapılır. Bu aşamada nasıl bir tasarım yapılacağının ötesinde, nasıl bir tasarım mekana uygun olur, işlevsellik ve estetik bir arada yer almış olur gibi sorulara yanıt alınır. Alana uygun tasarlanacak olan otogaleri, kullanım aşamasında müşterilerine ve personellerine içinde konforu...
+
+---
+
+### Küçükçekmece Mimari Proje Çizimi Destek
+
+- Published: 2021-03-15
+- Modified: 2021-03-16
+- URL: https://www.tasarimimarlik.com.tr/kucukcekmece-mimari-proje-cizimi-profesyonel-destek/
+
+Küçükçekmece Mimari Proje Çizimi Profesyonel Destek   Küçükçekmece Mimari Proje çizimi profesyonel destek ile İstanbul ve Türkiye yönetmeliklerine göre proje sorunsuz yapılıyor. Ekibimiz hem yasal sürece hem de mevzuata hakimdir. Aynı zamanda mimar ve inşaat mühendisleri tarafından yapılan çalışmalar, uzman kadro ile olmaktadır. Size sağlanan güvenli koşullar ve profesyonel hizmet ile memnun kalacaksınız. Mimarlık ofisimiz imar yönetmeliğine uygun hareket ediyor. Küçükçekmece plan notlarına uygun olan mimari çözümlemeler ve analizler yapıldığından tamamen profesyonel sonuç alınacaktır. Proje çizimi profesyonel hizmet ile müşteri memnuniyeti sağlanmaktadır. Proje çizimi ve diğer hizmetlerimiz için bizimle iletişime geçebilirsiniz. Küçükçekmece Mimari Proje Çizimi Nasıl Yapılıyor? Uygulama proje çizimi konusunda uzman desteği ile hareket ediyoruz. Müşterilerimize en uygun tasarımları sunarak tamamen profesyonel hareket ediyoruz. Proje başlangıcında yapmış olduğunuz etüt ile projenin iskeleti oluşuyor. Ardından mimari proje çizimi ile en uygun standartlarda projelerimizi tamamlıyoruz. Proje tasarlama aşamasında en önemli kriterimiz konforlu alanlar yaratmak. Kolay kullanılabilir olan, işlevsel olan alanlar yaratarak aslında en güvenli şekilde projeleri çiziyoruz. Hayal ve gerçek arasındaki köprüyüz. Hayallerinizi önce kağıda sonra uygulamaya dökelim. Uygulama proje çizimi kapsamında hem mimari hem de statik, mekanik, elektrik konusunda çıkartacağımız projelerin kısa zamanda ruhsatını alıyoruz. M2 onay projeleri, mimari proje onayları, avan proje onayları gibi her alanda onayın tamamını en hızlı şekilde alıyoruz. Kaliteli ve hızlı proje sunmak, onaylatmak ve uygulamak vizyonumuz. Ofisimizi ziyaret etmeniz halinde hem hakkımızda daha detaylı bilgiye sahip olacak hem de profesyonel çalışmalarımızdan...
+
+---
+
+### Küçükçekmece Halkalı Mimarlık Ofisi
+
+- Published: 2021-03-15
+- Modified: 2021-03-16
+- URL: https://www.tasarimimarlik.com.tr/kucukcekmece-halkali-mimarlik-ofisi/
+
+Küçükçekmece Mimari Konut Projesi Çizimi   Küçükçekmece Mimari Konut proje çizimi kentsel dönüşüm ile birlikte artmıştır. Kentsel dönüşüm projeleri ile birlikte, insanların mimari anlamda beklentilerinin de arttığını söylemek mümkün. Mimari bir sorunun bölgede geniş kapsamlı bir etki yarattığı düşünüldüğünde, mutlaka profesyonel bir sonuç elde etmek açısından mimarlık ofislerine talepler sunulmalıdır. Firmamızın uzman kadrosu ile profesyonel proje çizimi ve uygulamalar, memnuniyeti sağlamaktadır. Proje çizimi konusunda deneyimli olan ekip sayesinde, en iyi çözümlemeler yapılır. Küçükçekmece Mimari Konut proje çizimi ile siz de memnun kalacağınız sonuçlara ulaşabilirsiniz. Mimari Ofis Hizmetlerimiz Mimari ofis hizmetlerimiz bina projesi mimari çizimi, ofis – iş yeri ya da villa çizimleri konusunda ofisimizde aşamalar tek tek tamamlanır. Gönderilen autocad dosyalarında yer alan 2 boyutlu çizimleri 3dMax Kat modelleri sistemini kullanarak sizlere hayal edebileceğiniz şekilde sunuyoruz. Görselin çok daha anlaşılır olması sayesinde hem inceleyecek hem de mimari hizmetimizden faydalanarak buna hemen ulaşabileceksiniz. Ayrıca bu sayede değişim yapmak istediğiniz bir alan varsa hemen müdahale edebiliyoruz. Bu şekilde hem sizin memnuniyetinizi sağlıyor hem de kazanç sağlıyoruz.   Bina projesi mimari çizimi konusunda uzman olan ekibimizden bilgi alabilir, siz de bu alanda detayları öğrenebilirsiniz. Siz hayal edin, biz yapalım... Ofisimiz tamamen yaşam alanı konusundaki hayallerinizi gerçekleştirmekte. Sizin hayal ettiğiniz ne varsa kapıda dökmenin aksine, uygulama ile sizlere yaşatıyoruz. Bina projesi mimari çizimi konusunda profesyonel olan ekip ile hareket ederek çizimlerin sorunsuz bir şekilde gerçekleşmesini sağlıyoruz. En İyi Mimar Çizim Projeleri En...
+
+---
+
+### Tadilat Dekorasyon Mimarlık Hizmetleri
+
+- Published: 2021-03-15
+- Modified: 2021-04-06
+- URL: https://www.tasarimimarlik.com.tr/tadilat-dekorasyon-mimarlik-hizmetleri/
+
+Tadilat Dekorasyon Mimarlık Hizmetleri   Tadilat dekorasyon mimarlık hizmetleri yaşam alanlarınızın yeniden dekore edilmesi işlemidir. Yaşam alanlarınızda yapacağımız düzenleme ile daha verimli, estetik ve sanatsal bir ortamda yaşama şansı elde edeceksiniz. Düzenli yaşam insanlığın ilk zamanlarından beri var. Yaşanan gelişmeler de estetik kaygıyı ortaya çıkardı. Sonucunda ise düzenli ve estetik yaşam kaygısı ile tadilat dekorasyon fikirleri gelişti. Tadilat dekorasyon mimarlık hizmetleri ile estetik kaygınızı da ortadan kaldıracak şık ve düzenli evler tasarlıyoruz. Yaşam alanlarınıza estetik bir dokunuş getiriyoruz. Ev dekorasyon mimarlık hizmetleri ile evinize düzen ve estetik geliyor. Ardın yaşadığınız yer, çalıştığınız iş yeri, mekan olarak neresi olursa olsun mimari çözümler üreterek yaşam alanınızı güzelleştiriyoruz. Mimari çözümler ile en uygun tasarımlar ile yepyeni yaşam alanları inşa ediyoruz. Çözüm odaklı bakış açımız, donanımlı olan evler inşa etmemizi sağlıyor. Uzman ekibimiz, deneyimi ile sizlere tam donanımlı evler sunuyor. Hedefimiz, yaşam alanlarınıza renk katarak siz de memnun etmek. Doğaya ve çevreye olan bakış açınızı değiştirmek ve mutlu olduğunuz yaşam alanları yaratmak. Ev dekorasyon mimarlık hizmetleri ile sizlere sunduğumuz özel fikirlerin uygulanması sizin için de ayrıcalıklı olacak. Kendinizi biricik hissedeceğiniz bir ortamda huzur ve mutluluk de olacak. Ekibimi tam olarak sizin ev yaşantınızın estetik kaygılar ile donatılmış, aynı zamanda işlevselliği de sağlayan şekilde olmasını desteklemekte. Ev dekorasyon ve çok daha fazlası için ekibimiz gerekli çalışmaları yürütmektedir. Deneyimli kadromuz ile profesyonel hizmet veriyoruz. Tadilat işlerinde önemli olan hem işlevsel bir sonuç ortaya...
+
+---
+
+### Bina İçinin Projesinin Çizilmesi
+
+- Published: 2021-03-15
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/bina-icinin-projesinin-cizilmesi/
+
+Bina İçinin Projesinin Çizilmesi   Bina içinin projesinin çizilmesi için iç mekânda ölçü almak, oda ve yapının mevcut özelliklerinin kapıda dökülmesini sağlamak önemlidir. Bu alanda uzman olan inşaat mühendisleri ve mimarlar, gerekli çalışmaları hem öncesinde hem de inşa aşamasında yapmaktadır. Binalarda herhangi bir değişim yapılması için proje çizimi önemlidir. Çizim aşamasında ölçülendirilmesinin mutlaka doğru yapılması gerekiyor. İşlem ölçüsü, röleve olarak adlandırılıyor. Ölçünün alınacak olduğu alan konusunda bütün detayların tek tek belirlenmesinden sonra ölçek dâhilinde kağıda aktarım sağlanıyor. Bina içinin projesinin çizilmesi belirli bir ölçek dâhilinde kağıda aktarma olarak açıklanabilir. İç Mekanda Ölçü Hizmeti İç mekanda ölçü almak değiştirilecek olan alanın, odanın mevcut özelliklerinin kapıda net şekilde aktarılmasını sağlamak için değişikliklerin belirlenmesini sağlar. Ölçü alma işlemi açısından ne kadar doğru hareket edilirse, o kadar iyi bir sonuç ortaya çıkar. Bunun için de mutlaka uzman desteği gerekir. Alanında uzman ve deneyimli olan mimarlarımız ile projelendirme işleminin en profesyonel şekilde gerçekleşmesini sağlıyoruz. Teknolojinin hayatın her alanına girmesi, mimari anlamda yapılan aşamaların da hızlanması ve kaliteli hale gelmesini sağladı. Bu durumda ölçü almak için yararlanılan araçların da son derece ihtiyacı tespit edecek niteliğe gelmesi mümkün oldu. İç mekanda ölçü almak konusunda uzman olan ekip; tavan yüksekliği gibi ölçüleri alırken lazer metre gibi araçlar ile zorlanmakta. Bu durum mesafe ölçümlerinde yetersiz kalmaktadır. Ölçünün alınması için ise farklı teknikler geliştirilerek bu sorunun ortada kalkması sağlanmıştır. Bina içinin ölçüsünün alınması noktasında, elbette profesyonel şekilde...
+
+---
+
+### Dış Cephe Bina Tasarımları
+
+- Published: 2021-03-15
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/dis-cephe-bina-tasarimlari/
+
+Dış Cephe Bina Tasarımları   Dış cephe bina tasarımları hizmetimizden önce sizlere 3 boyutu anlatmak isteriz. Daha anlaşılır kılmak açısından 3 boyut kavramının 3 dimension cümlesinin Türkçe karşılığı olduğunu bilmelisiniz. Bu boyutlarda yükseklik, genişlik ve derinlik demektir. 3D koordinat düzleminde X, Y, Z olarak ifade edilir. Bir yerde 3 boyutlu görüntü yakalamak için şartlar; düzlemin olması, 3 boyutlu bir nesne olması ve ışık kaynağının olması gerekiyor. Bu üçü bir araya geldiğinde ise 3 boyut oluyor. Dış cephe bina tasarımları ise tamamen programlar aracılığı ile projelerin çok daha anlaşılır kılınması için yapılıyor. Proje çizimi ve çok daha fazlası için mimarlık ofis hizmetlerimizi talep edebilirsiniz. 3 Boyut Cephe Tasarımları 3 boyutlu cephe tasarımları ise tasarımın 3 boyutlu hale getirilmesi ile oluyor. Her şeyin bir tasarım ürünü olduğu günümüzde, binaların da yapım aşamasından önceki aşaması mutlaka tasarlanıyor olması. Mimar teknolojiyi 3D çizim metodu için kullanılıyor. Bu sayede 3d mimari çizimler her geçen çok daha gelişmiş bir versiyonu ile karşımıza çıkmaya devam ediyor. Mimari hizmetimizde, istenen her mekanı çizip, ardından da tamamen 3D halinde sizlere göstermemiz mümkün. Bu sayede dekorasyonun yapılacak olduğu ev, ofis ya da fabrika için kişinin tamamen hayal ettiği gibi bir görsel görmesi mümkün oluyor. Ayrıca bunun beraberinde mutlaka 3 boyutlu bina konut tasarlama konusunda mimarlar da farklı fikirler edinebiliyor. Bambaşka bir dünyanın kapısını açma konusunda bu durumun avantajlı olduğunu söyleyebiliriz. 3D Bina Görselleştirme 3D bina görselleştirme konusunda...
+
+---
+
+### İmar Barışı’na Nasıl Müracaat Edilir?
+
+- Published: 2021-03-15
+- Modified: 2021-03-26
+- URL: https://www.tasarimimarlik.com.tr/imar-barisi-nasil-muracaat-edilir/
+
+İmar Barışı’na Nasıl Müracaat Edilir? 08. 06. 2018 tarihinde başlayan İmar Barışı Yasası gereğince müracaatlarınızı sizin adınıza gerçekleştirelim. Mimari projelerinizi, ölçü krokisi‘ni , rölövesini mimarlarımız tarafından çizilerek, onaylı projeleri ve gerekli takip işlemlerinizi tamamlayarak teslim ediyor. Dilerseniz aşağıda bulunan formu doldurarak yada iletişim bilgisini kullanarak bize ulaşabilirsiniz.  Telefon: 0 212 470 86 70  Gsm: 0539 375 14 41 ONAYLI MİMARİ PROJE ÇİZİM & TAPU İŞLEMLERİ ANAHTAR TESLİM İMAR BARIŞI İŞLEMLERİ İmar Barışı Danışmanlık Hizmetleri Mimarlık Ofisi İletişim : 0 212 470 86 70 İmar Barışı Hakkında Sıkça Sorulan Sorular Tasarımimarlık başvuru danışmanlığı ile doğru bildirimlerde bulunmanızı sağlıyor. Bize ulaşın! İmar Barışı Nedir? Nasıl İşlem Yapılır? Nereye Müracaat Edilir? İmar barışı şubesiz 2018 yılının en çok konuşulan konularından bir tanesi olacak gibi. Türkiye genelini ilgilendiren imar barışı zamanında yapılan ve kat mülkiyetli tapularını imar dışı imalatlar veya kaçak yapı gibi sebeplerden kaynaklı olarak kat mülkiyetli tapularını alamayanları kapsamaktadır. Peki bu imar affı ile kat mülkiyetli tapularını alamayan mal sahibi ya da ev sahipleri çıkacak bu yasa ile kat mülkiyetli tapularını nasıl alacak? Nerelere müracaat edilecek? Bu yasanın detayları nedir?  2018‘de hangi ay açıklanacak? Türkiye genelini değerlendirirsek 13 Milyon binanın ilgilendiren bu yasanın Hükümetin yaptığı açıklamaya göre 31 Aralık 2017 tarihinden önce ruhsatlı olan yada olmayan yönetmeliğe aykırı yapılmış olan yapıların ve ayrıca ruhsat ve imar sorununu çözüme kavuşturmayı planlamaktadır.  Bu sayede elde edilen gelir ile 7 milyon riskli yapının kentsel dönüşümde kullanılmayı planlanmaktadır. Tasarımimarlık firması olarak Küçükçekmece – Bağcılar – Başakşehir...
+
+---
+
+### İmar Barışı Mimari Proje Çizim Aşamaları
+
+- Published: 2021-03-15
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/imar-barisi-mimari-proje-cizim-asamalari/
+
+İmar Barışı Mimari Proje Çizim Aşamaları İmar barışı kapsamında kat mülkiyetine geçiş sürecini anlatıyoruz. Tasarımimarlık olarak soru işaretlerinizi gidermek istiyoruz. İmar Barışı Mimari Çizim Aşamaları İmar barışı kapsamında kat mülkiyetli tapu işlemleri için yapı kayıt belgesi alındıktan sonra yapılacak işlemlerden bahsetmek istiyoruz. Yapı kayıt belgesini aldıktan sonra özel harita veya lihkap firmaları ile görüşerek  çevre ve şehircilik bakanlığının istemiş olduğu belgeleri resmi olarak düzenliyoruz. Bu işlemleri Tasarımimarlık olarak sizin adınıza biz zaten gerçekleştiriyoruz. Uydu ölçümleri ile binanızın parseldeki konumunu resmi olarak öğrenmiş oluyoruz. Bu evrakların temininden sonra yol haritamızı çıkartıyoruz. 3 Farklı Durum İçin Tanımlamalar Eğer binamız kendi parsel sınırları içerisinde yer alıyorsa hiç zaman kaybetmeden diğer işlemlerimize devam ediyoruz. Peki ya binamız kendi parselimiz sınırları içerisinde değilse? Sürekli olarak karşılaştığımız 3 farklı durum var: Binamız kendi parselimiz dışında komşu parsele taşmış yani tecavüzlü ise ne yapacağız? Bu sıklıkla karşılaştığımız durumlardan biridir. Eğer böyle bir durum söz konusu ise yine işleme devam edilebilir fakat komşu parsel maliklerinin tamamının noter kanalı ile muafakatname vermesi gerekir. Yani Muafakatname alınarak işleme devam edilebilir. Muafakatname nedir? Yasal Ne Hükmü Vardır? Bu muafakatnamenin kelime anlamı sadece bu parsel tecavüzünü biliyorum anlamına gelir. Herhangi bir arsa payı devri yada arsa payı terki söz konusu değildir. Bu işlemde mevcut tapu m2 alanı değişmez. Bir başka deyişle, binaların kentsel dönüşümde ileride yıkıldığını varsayalım; her parsel kendi parsel sınırına oturum sağlayacaktır. Komşu parsel bizim parselimize taşmış yani tecavüzlü...
+
+---
+
+### İmar Barışı Başvurusu
+
+- Published: 2021-03-15
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/imar-barisi-basvurusu/
+
+İmar Barışı Başvurusu YAPILAN İŞLEMLER 1. AŞAMA Yapı kayıt belgesi müracaatında bilgilerin doğruluğu rölöve mimari ölçülerek birebir beyanlarda bulunarak mimari projede hata olmamasını amaçlıyoruz. Her dairenin m² si hesaplıyor ve toplam bina m² alanı (kapalı alan) hesabı yapıyoruz. Gerekli evrakları ilgili belediyelerden temin ediyor binayı fotoğraflayarak başvurumuzu tamamlıyoruz. 2. AŞAMA İkinci işlemde hesaplanmış doğru ölçüler ile Mimari projeleri çiziyoruz. Başvuru öncesinde hesapladığımız metrekare çizilen mimari proje ile eşit değerler olduğu için problemsiz onay işlemlerimizi gerçekleştiriyoruz. Arsa hissedarlarının meydana getirdiği kat irtifakı yani kat mülkiyet kurulması işlemlerini gerçekleştiriyoruz. Arsa tapularınızı kat mülkiyetli tapulara dönüştürerek, krediye uygun hale getiriyoruz. Sanayi arsaları, ticari alanlar, konut alanları, kooperatif yapıları, villalar vb. alanlara hizmet vermekteyiz. İşlemlerinizi başlatmak istiyorsanız  aşağıda bulunan iletişim adreslerinden randevu alabilirsiniz. İmar Barışı Danışmanlık Hizmetleri Tasarım Mimarlık İletişim : 0 212 470 86 70  Sıkça Sorulan Sorular 1- İmar barışı yasasından hangi tip binalar faydalanabilecek? 2018 yılına girmeden önce yapılan, ruhsatı bulunan veya bulunmayan, ruhsatı bulunup daha sonra iptal edilen binalar yapı kayıt belgesi alabilecek. 2- İmar barışı yasasının ne gibi faydaları var? İskanı bulunan ve daha sonra bozulan veya hiç iskanı bulunamayan binaların iskan hakkı tekrar verilecek. Bu hak sahibi olan binalara Su, elektrik ve doğalgaz aboneliklerinde yaşanan problem aşılmış olacak. Bu belgelere sahip olacak kişilerin bina üzerine bulunan para cezaları ve yıkım kararları kaldırılacaktır. 3- İmar barışı yasasında kat mülkiyetli tapuları tüm dairelerimize çıkar mı? Bu noktada oldukça bilgi kirliliği...
+
+---
+
+### Rölöve Kroki Cetveli Plan Çizimi
+
+- Published: 2019-12-02
+- Modified: 2021-03-30
+- URL: https://www.tasarimimarlik.com.tr/rolove-kroki-cetveli-plan-cizimi/
+
+Rölöve Kroki Cetveli Plan Çizimi   Rölöve kroki cetveli plan çizimi günümüzde ise fotogrametri, lazer tarama gibi ölçüm teknikleri kullanılarak yapıların çok daha doğru ve detaylı bir şekilde belgelenerek arşivlenmesi mümkün hale gelmiş bulunmaktadır. Günümüzde yaşamın birçok farklı alanda ihtiyaç duyulan rölöve plan çizimleri, sağlık alanında faaliyet gösteren işletmeler açısından zorunluluk haline getirilmiş bulunmaktadır. Günümüzde il ve ilçe sağlık müdürlüğü, Medikal işletmeler, Eczaneler, hastaneler, Fizik tedavi merkezleri, Saç ekimi muayenehaneleri, Klinikler, Tıp merkezleri, Estetik muayenehaneleri Tıbbi cihazların yerleşimi ile ilgili detaylı bilginin gerektiği kurumların işletmeci veya sahibinden kroki cetveli rölöve talep etmektedir. İl ve ilçe sağlık müdürlükleri, yukarıda anılan ve benzeri işletmeler veya kurumlardan yeni açılışta veya plan tadilatlarında yetkili mimarlar tarafından çizilerek imza altına alınan rölöve talep ederek, bu tür binaların yapıları ile ilgili arşiv oluşumunun elde edilmesini sağlamaktadır. İl ve ilçe sağlık müdürlüklerinin istedikleri evraklarından birisi olan Kroki Cetveli Çizimini mimarlarımız gerçekleştirmektedir. Alınan rölöve plan çizimleri eksiksiz ve yönetmeliğe uygun olarak sizlere teslim ediyoruz. Eczane Rölövesi Eczane rölövesi mimarlık ofisleri tarafından verilen hizmetler arasında sağlıkla ilgili kurum ve kuruluşlarının rölövelerinin çıkarılması da yer almaktadır. Eczane plan çizimi gibi oldukça ayrıntı gerektiren bu tür çalışmalar, yeniden yapılandırılması gereken eczanelerin rölöve ve ölçü krokisi tasarımlarının doğru şekillendirilmesi adına oldukça önemlidir. Bu sebeple eczane rölöve çiziminin konusunda uzman mimarlar tarafından aslına uygun bir şekilde yapılması gereklidir. Restorasyonu yapılacak veya eklemelerle yeni bir plan gerektirecek olan binaların bulundukları durumları kâğıt üzerine aktarmaya yarayan rölöve çalışmaları, projelerin doğru tasarlanması adına da oldukça önemli katkılar sağlamaktadır. Profesyonel bir rölöve çiziminde yapı için gerekli...
+
+---
+
+### İmar Barışı Hesaplama Tablosu
+
+- Published: 2018-06-10
+- Modified: 2021-03-26
+- URL: https://www.tasarimimarlik.com.tr/imar-barisi-hesaplama-tablosu/
+
+İmar Barışı Hesaplama Tablosu Hesap tablosu yaklaşık değer vermektedir. Nihai değer için ölçüm yapılması gerekmektedir. Bilgilendirme için Formumuzu Doldurabilir, yada 0 212 470 86 70 nolu numaradan bize ulaşabilirsiniz. Dikkat: Kat Mülkiyetli tapu müracaatı için hesaplanan tutar gerçeği yansıtmamaktadır. Net veriler açıklandıktan sonra tekrar düzenlenecektir. İmar Barışı Danışmanlık Hizmetleri İmar Barışının ilk aşaması olan YAPI KAYIT BELGESİ için gerekli olan tüm metrekare birimlerini  küçük ücretlerde ölçümlerini yapıyor, kat irtifakı ve mimari proje aşamasına kolay geçiş sağlıyoruz. Tüm işlemler tarafınızdan sağlanmaktadır.
+
+---
+
+### İmar Barışı Başvuru Formu
+
+- Published: 2018-06-08
+- Modified: 2021-03-26
+- URL: https://www.tasarimimarlik.com.tr/imar-barisi-basvuru-formu/
+
+İmar Barışı Başvuru Formu İmar barışı kapsamında işlemlere başlamak için formu eksiksiz doldurunuz. Formu doldurduktan sonra size en kısa sürede dönüş sağlanacak ve talebinize göre yapılacak işlemler doğrultusunda bilgi verilecektir.
+
+---
+
+### Rölöve Ölçü Krokisi Projesi
+
+- Published: 2018-03-28
+- Modified: 2021-11-19
+- URL: https://www.tasarimimarlik.com.tr/rolove-olcu-krokisi-projesi/
+
+Rölöve Ölçü Krokisi Projesi Rölöve ölçü krokisi projesi restorasyon çalışmalarının en önemli adımı olan rölöve alma işlemi binanın mevcut durumunu ortaya koyması açısından oldukça önemlidir. Bu şekilde yapının hangi değişim işlemlerine gerek duyduğu ölçü krokisi sayesinde projelendirme işleminin en başında belirlenerek olabildiğince az hasarla yeniden düzenlenmesi sağlanabilir. Rölöve ölçü krokisi projesi çizilirken mümkün olduğunca doğru ölçülerden yararlanıldığından emin olunmalıdır. Çok Hızlı Teslimat Rölöve işleminin çalışma ölçeğini belirleyen unsur yapılış amacıdır. Restorasyon projeleri için yapılan rölöve çalışmalar 1/50 ölçek kullanılarak yapılıyorken, herhangi bir sokakta yer alan binaların görünümünü anlatacak bir rölöve çalışmasının 1/200 ölçek kullanılarak yapılması gerekir. Rölöve işleminin ilk adımı ölçü almaktır. Bu işleme ölçü krokisi denir. Restorasyon işleminin yapılacağı binadaki bütün kesitlerin detaylı bir şekilde ölçüsünü almak doğru bir rölöve ortaya çıkmasına sebep olacaktır. İkinci ve en önemli adımlardan biri olan fotoğraf çekimi ise profesyonel kişilerce yapılmalı ve mümkün olduğunca detay içermelidir. 0 212 470 86 70 - 0 535 616 42 14   Rölöve Ölçü Krokisi Nasıl Çizilir? Rölöve ölçü krokisi tavanları, kapılar ve zeminlerin ayrı ayrı farklı açılardan fotoğraflarının çekilmesi ve her çekilen fotoğrafın hangi açıdan çekildiğinin belirtilmesi rölöve ölçü krokisi projesi çizilirken oldukça yardımcı olacaktır. Restore edilecek binanın rölöve krokisinin çizilmesi ve ölçülerinin belirtilmesinin ardından yeniden bir projelendirme yapılarak binanın yapımında kullanılan malzemeler, su veya elektrik tesisatının nerede bulunduğu, ölçüsü ve genel krokisi, taşıyıcı kolonlar gibi yeniden projelendirme de yardımcı olacak unsurlar belirlenir... .
+
+---
+
+### Eczane Rölövesi, Eczane Plan Çizimi
+
+- Published: 2018-03-28
+- Modified: 2021-03-30
+- URL: https://www.tasarimimarlik.com.tr/eczane-rolovesi-eczane-plan-cizimi/
+
+Eczane Rölövesi, Eczane Plan Çizimi   Eczane rölövesi ve eczane plan çizimi hizmetlerini İstanbul bölgesinde hizmet veren mimarlık ofisimiz, profesyonel kadrosu ve müşteri odaklı hizmet anlayışıyla kentsel dönüşüm projelerinin giderek arttığı günümüzde siz değerli müşterilerimize en kaliteli hizmeti vermeyi amaçlamaktadır. Eczane Rölövesi, Eczane plan çizimi gibi detaylı mimari çizimler hakkında da mimarlık ofisimizden destek almak için internet sitemizde yer alan iletişim numaralarından bize ulaşabilirsiniz. Yeniden yapılması planlanan Eczanelerin rölöve ve ölçü krokisi yapıların tasarım aşamasında doğru şekillendirilmesi için en önemli adımlardan biri olan rölöve çizimi profesyonel kişiler tarafından aslına uygun bir şekilde yapılmalıdır. Restore edilecek binanın bulunduğu durumu kağıt üzerine aktarmaya yarayan rölöve işlemi, yapı için gerekli olan taşınmaz unsurlar ve bina desteklerinin yerinin belirlenmesini de sağlayarak projelerin daha doğru tasarlanmasına katkıda bulunur. Eczane Rölövesi Eczane rölövesi, eczane plan çizimi, rölöve alma gibi mimari projeler tasarım ofisimiz tarafından özenle gerçekleştirilmektedir. Eczane vaziyet planları çizimleri tarafımızca yapılmaktadır. Eczane rölövesi alınırken ilk yapılması gereken planlanacak yerin bütün ölçülerinin alınarak, kağıt üzerine detaylı bir biçimde çiziminin yapılmasıdır. Daha sonra ölçüm işleminin diğer bir önemli unsuru olan fotoğraf çekimine geçilir. Yapının çeşitli açılardan çekilen fotoğrafları rölöve işleminin daha anlaşılır olmasını ve yapının detaylarına daha hakim olunmasını sağlamaktadır. Rölöve çizimi tamamlandıktan sonra eczanenin yapımında kullanılan malzemeler ve fotoğrafların çekim açıları hakkında notlar da çizime eklenerek başarılı bir eczane ölçü krokisi alınmış olur. 0 212 470 86 70 - 0 535 616 42 14...
+
+---
+
+### Dershane Röleve
+
+- Published: 2018-03-28
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/dershane-roleve/
+
+Dershane Rölöve Hizmetleri   Dershane röleve çizimlerinde müşterilerine profesyonel bir hizmet sunan firmamız, uzman ekibiyle en doğru ölçümleri yaparak, aslına uygun yenileme işlemleri gerçekleştirmektedir. Dershane Rölöve işleminin en önemli unsurlarından biri olan fotoğraf çekimi mevcut binanın çeşitli açılardan fotoğraflarının çekilmesi ve hangi açılardan çekildiğinin belirtilmesiyle, binanın durumunu belirlemek için yapılan en faydalı işlemlerden biridir. Aynı zamanda alınacak ölçümler, mümkün olduğunca detaylı yapılmalı ve binanın mevcut durumunu gösterir nitelikte olmalıdır. Dershane röleve işlemi esnasında yapılan ölçümler ve fotoğraflar bir araya getirilerek uygun ölçeklerde bir proje daha çizilir. Bu şekilde binada yapılacak değişiklikler ve restorasyon çalışmalarının neler olduğu belirlenmiş olur. Tasarımların tamamlanması için binanın yapımında kullanılan malzemelerin neler olduğunun da röleve çalışması yapılırken belirlenmesi oldukça önemlidir. Bu sayede kaliteli ve dayanıklı yapılar oluşturulması sağlanabilir. Binanın iç ve dış mimarisine olabildiğince uygun bir restorasyon çalışması yürütmek hem aslına uygun bir çalışma yapılması hem de binanın olabildiğinde az zarar görmesi açısından önemlidir. Yapılan tasarımları henüz tamamlanmadan görme olanağı sağlayan 3d modelleme sistemini kullanan mimarlık ofisimiz, aynı zamanda müşterilerinin proje üzerinde uygulamaya geçilmeden değişiklik yapmasına olanak tanıyarak büyük bir zaman ve para tasarrufu yapılmasına imkan vermektedir. Uzman kadrosuyla dershane röleve çizimi gibi detaylı işlemlerde de hizmet veren firmamıza ulaşmak için internet sitemizde yer alan iletişim numaralarını kullanabilir, projelerimiz hakkında detaylı bilgi alabilirsiniz.
+
+---
+
+### Çalışma Ruhsatı Röleve
+
+- Published: 2018-03-28
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/calisma-ruhsati-roleve/
+
+Çalışma Ruhsatı Rölöve Çizimi   Çalışma ruhsatı rölöve çizimi günümüzde firmaların değişen ihtiyaçları sebebiyle sıklıkla restorasyon çalışmaları yapılmaktadır. Bunlar yapıların yeniden inşa edilmesi ve farklı kullanım amaçları için tekrar düzenlenmesi konusunda oldukça faydalı sonuçlar doğurmaktadır. Çalışma ruhsatı röleve çizimi konusunda profesyonel destek almak isteyen kişiler, çalışma alanlarının belirlenen standartlara uygun olarak yeniden yapılması için mimarlık ofisimizden yardım alabilirler. Özellikle son yıllarda artış gösteren kentsel dönüşüm projeleri ve restorasyon alanında birçok farklı projesi olan firmamız alanında uzman ekibiyle kaliteli ve güvenli bir hizmet vermektedir. İş Yeri Ruhsatı Rölöve Çizimi Hizmeti İş yeri ruhsatı rölöve çizimi hizmeti restorasyon hizmetinin ilk aşaması olan röleve çizimi binadaki eksiklikleri göstermesi ve mevcut durumunu belirlemesi açısından bir hastalığa teşhis koymaya benzetilebilir. Uzman kişiler tarafından yapılan röleve çizimi yeniden yapılandırma işleminin çok daha başarılı ve binaya olabildiğince az hasar vererek tamamlanmasını sağlayacaktır. İş yeri çalışma ruhsatı röleve çiziminin ilk adımı olan ölçümlendirme esnasında yapının bütün detaylarının gerekli teknolojik teçhizatlar kullanılarak ölçülmesi oldukça önemlidir. Farklı açılardan çekilen fotoğraf ve videolardan oluşan analizler ise ölçü işleminin daha doğru konumlandırılmasını sağlayarak hata payını sıfıra indirmektedir. Alınan ölçüler ve farklı açılardan çekilen fotoğrafların bir araya getirilerek binanın mevcut durumunun belirlenmesinin ardından projelendirme aşamasına geçilerek belirli bir ölçek dahilinde tekrar bir proje çizimi yapılır. Binanın yapımında kullanılan malzemeler, iç ve dış mimari koşullar, tesisat durumu ve taşıyıcı kolonların belirlendiği bu projelendirme işleminden sonra binada yapılması gereken değişikliklere karar verilir... .
+
+---
+
+### İş Yeri Ruhsat Çizimi, İş Yeri Plan Çizimi
+
+- Published: 2018-03-28
+- Modified: 2021-11-19
+- URL: https://www.tasarimimarlik.com.tr/is-yeri-ruhsat-cizimi-is-yeri-plan-cizimi/
+
+İş Yeri Ruhsat Plan Çizimi İş yeri ruhsat plan çizimi ile ilgili olarak profesyonel kadrosu ve kaliteli mimari anlayışıyla Küçükçekmece, Esenler, Bağcılar ve Avcılar bölgesinde hizmet göstermekte olan Tasarı Mimarlık özellikle kentsel dönüşüm projelerinde müşterilerine hızlı ve güvenli bir hizmet deneyimi yaşatmaktadır. İş yeri ruhsat çizimi, iş yeri plan çizimi gibi konularda da uzman ekibiyle hizmet veren firmamız, tasarladığı kalıcı ve güvenli yapılarla müşterilerinin hayallerini gerçekleştirmektedir. Çok Hızlı Teslimat Mimari çizimler içinde oldukça önemli bir yer tutan iş yeri plan çizimleri güvenilir kişiler tarafından yapıldığında hem yapıların uzun ömürlü olmasına katkıda bulunmakta hem de kullanışlı özellikleri sayesinde verimli alanlar elde edilmesini sağlamaktadır. Yapının tasarım aşamasına geçilmeden önce yapılacak keşif çalışması, dış faktörlerin yapı üzerindeki etkisinin belirlenmesi için yardımcı olacak ve daha detaylı bir tasarım yapılmasına yardımcı olacaktır. Özellikle yapımı gerçekleştirilecek fabrikaların iklim koşullarına ve arazi şartlarına uygun bir biçimde projelendirilmesi uzun ömürlü ve kaliteli yapıların ortaya çıkmasına sebep olmaktadır. İş yeri ruhsat çizimi, iş yeri plan çizimi gibi konularda alanında uzman ekibiyle hizmet veren Tasarı Mimarlık, gerçekleştirdiği projeler için detaylı bir keşif çalışması yaparak sağlam yapıların tasarlanmasını sağlamaktadır. Yapımı gerçekleştirilecek iş yeri projeleri için tasarım aşamasında 3d modelleme sistemini kullanarak müşterilerinin yapının son halini 3 boyutlu görmesini sağlayan Tasarı Mimarlık, restorasyon çalışmalarında da detaylı hizmetler sunmakta ve müşterilerinin ihtiyaçlarına cevap vermektedir. Detaylı rölöve çizimi ile mevcut yapı özelliklerini dikkate alarak yeniden projelendirme yapan firmamız her geçen gün...
+
+---
+
+### İş Güvenliği CSGB Rölöve Çizimi
+
+- Published: 2018-03-28
+- Modified: 2021-03-16
+- URL: https://www.tasarimimarlik.com.tr/is-guvenligi-csgb-rolove-cizimi/
+
+İş Güvenliği CSGB Kroki Çizimi Nedir?   İş güvenliği CSGB kroki çizimi nedir ve hangi aşamalarda ihtiyaç duyulur? İş güvenliği CSGB rölöve veya kroki hazırlama işlemi hangi yapılarda gereklidir? Bu yazımızda iş güvenliği mimari çizimlerini ve vaziyet plan çizimi gibi merak edilen konuları ele alıyoruz. İş güvenliği CSGB kroki çizimi özellikle kentsel dönüşüm projelerinin ivme kazanmasıyla birlikte adı sıkça duyulmaya başlayan bir mimari çalışmadır. Yapıların incelenmesi ve yenilenmesi aşamalarında da İş güvenliği CSGB kroki çizimleri kullanılmaktadır. İş güvenliği CSGB rölöve veya kroki çalışmaları restorasyon anlamında söz konusu yapının incelenip iyileştirmesini hedeflemektedir. Kroki çalışmaları alanında deneyimli mühendis ve yüksek mimarlar tarafından yapılmalıdır. Rölöve hizmeti sunan firmamızdan yapılacak çalışmalarla ilgili daha fazla bilgi edinebilirsiniz. İş güvenliği rölöve çizim örnekleri oluştururken yenilenecek yapının taşıyıcıları gibi temel sistemler ele alınır. Eski yapının tesisat özellikleri, yapı içeriğindeki malzemeler ve taşıyıcılar mühendis ve mimarlarımızca değerlendirilir. Veri toplama aşamasında uygun makinelerle fotoğraflama yapılır. İnceleme ve ölçümlerle yeni yapının nasıl olması gerektiğine dair çalışma başlatılır. İş güvenliği CSGB rölöve çizim programı kullanılarak yapılacak yenileme çalışmasıyla ilgili fikirler daha net bir şekilde ortaya çıkarılabilir. Proje sahipleri dijital ortama aktarılmış verilerle gelecekteki yapılarının mimari özelliklerini görebilir ve değiştirilmesini istediği özellikleri mimarlarımızla paylaşabilir. İş güvenliği içi çizimi çalışmasıyla yapının iç tasarımı ve değiştirilecek alanlar ortaya çıkarılır. Rölöve ve kroki alanında deneyimli kuruluşlarla projenizi daha hızlı bir şekilde tamamlayabilirsiniz. Doğru ölçüm cihazları, yapının tüm özelliklerinin incelenmesi ve kısa sürede...
+
+---
+
+### İç Mekanda Ölçü Almak Rölöve
+
+- Published: 2018-03-28
+- Modified: 2021-03-15
+- URL: https://www.tasarimimarlik.com.tr/ic-mekanda-olcu-almak-rolove/
+
+İç Mekanda Ölçü Almak   İç mekanda ölçü almak ve binalarda yapılacak herhangi bir değişim işlemi için ilk yapılması gereken işlem ölçü almaktır. Rölöve olarak adlandırılan bu işlem ölçüsü alınacak alanın bütün detaylarının belirlenerek belirli bir ölçek dahilinde kağıda aktarılmasıyla oluşur. Bina İçi Rölöve Hizmeti Bina içi rölöve hizmeti mekanda ölçü almak değiştirilecek oda veya yapının mevcut özelliklerinin kağıda aktarılmasını sağlayarak yapılacak değişikliklerin belirlenmesini sağlamaktadır. Ölçü alma işlemi ne kadar doğru ve detaylı yapılırsa, yenileme işlemi esnasında ortaya çıkacak hasar da o kadar az olacaktır. Teknolojinin hayatımızın her alanında kendini göstermesi ölçü almak için yararlanılan teçhizatın da değişmesine sebep olmuştur. Lazer metre gibi aletler özellikle tavan yüksekliği ölçmek gibi durumlarda yardımcı olsa da kısa mesafelerde yetersiz kalmakta ve şerit metreye duyulan ihtiyacın değişmemesine sebep olmaktadır. Bunların yanı sıra ölçüsü alınacak yerin krokisinin çizilmesi ve alınan ölçülerin yazılabilmesi için bir kağıt ve kaleme ihtiyaç vardır. Odanın herhangi bir yerinde başlayarak bütün detayların ölçülmesinin ardından ikinci adım olan fotoğraf çekimi aşamasına geçilebilir. İç mekanda ölçü almak için odanın çeşitli açılardan fotoğrafı çekilmeli her bir fotoğrafa not olarak hangi açıdan çekildiği yazılmalıdır. Bu sayede çizilen krokide bulunan ölçüleri anlamlandırmak daha doğru yorumlamak mümkün olacaktır. Aynı zamanda yapının genel haliyle ilgili de bilgi vermesi gereken ölçü alma işlemi; tesisat, yapının durumu, taşıyıcı kolonların konumu gibi detayları da içermelidir. Bu sayede bütün bu bilgilerden yararlanılarak çizilecek ikinci projede mevcut durumun net bir...
+
+---
+
+### Küçükçekmece Kentsel Dönüşüm
+
+- Published: 2018-03-22
+- Modified: 2021-03-20
+- URL: https://www.tasarimimarlik.com.tr/kentsel-donusum-kucukcekmece/
+
+Küçükçekmece Kentsel Dönüşüm Profesyonel Mimarlık Hizmetleri   Küçükçekmece Kentsel Dönüşüm, İstanbul’un farklı birçok semti gibi hızlı bir şekilde başladı. Kentsel dönüşüm çalışmaları tüm hızıyla da devam ediyor. Bu süreçte ise insanların kafasındaki soru işareti kentsel dönüşüm nedir? Avantajlı mıdır soruları oluyor. İlk olarak bilmemiz gereken kentsel dönüşümün ilk amacının insanları koruma, insan sağlığı için güven içinde oturabilecekleri alanlar yaratmak olmasıdır. Kentsel dönüşüm ne işe yarar sorusunun yanıtı net şekilde insanların yaşam alanının güvenli hale gelmesini sağlamak üzere yapılan değişikliklerdir diyebiliriz. Kentsel dönüşüm Küçükçekmece ve yoğun nüfusa sahip diğer İstanbul ilçelerinde hayata geçirilen önemli yapı projelerinden biridir. Kentsel dönüşüm hakkında bilinmesi gerekilenleri ve deneyimli mimarlarımızın yaptığı çalışmaları sizler için ele alıyoruz. Küçükçekmece Kentsel Dönüşüm Ne İfade Ediyor? Küçükçekmece Kentsel Dönüşüm ne ifade ediyor? Küçükçekmece lokasyonu için yapılan değişiklikler, tam anlamıyla bölgenin incelenmesi ve o bölgeye yönelik iyileştirilmeler ile oluyor. Burada amaç düzenli bir ilçe oluşturmaktır. İnsanların aradıkları her şeyi kolaylıkla bulması için tüm değişim ve dönüşümün yapılması demektir. Yeni yerleşim yerleri oluşturmak ve bu alanda ihtiyaç duyulan her şeyi karşılamak kentsel dönüşüm amacı olarak bilir. Amacına uygun şeklide kentsel dönüşümde yıkımlar başlar. En hızlı şekilde eski yapıların yıkılması, yerlerine ise yeni apartmanların yapılması, yeni binaların ve sitelerin yapılması demektir. Arzu edilen amaçlara uygun şeklide İstanbul kentsel dönüşüm ilçe ilçe uygulanmaktadır. İnsanların daha güvenli ve huzurlu bir ortamda yaşamasının Küçükçekmece için gerçekleşmesi de bu alanda yapılan kentsel dönüşümü ifade...
+
+---
+
+### Mimarlık Ofisi Proje Ruhsat Uygulama
+
+> Mimarlık ofisi olarak proje ruhsat uygulama, mimari proje çizimi, mimari dekorasyon hizmetleri ve diğer konularda hizmet vermekteyiz.
+
+- Published: 2016-11-25
+- Modified: 2025-04-03
+- URL: https://www.tasarimimarlik.com.tr/
+
+Kentsel Dönüşümde Mimari Hizmetler Kentsel dönüşümde mimari hizmetler uzun süre yapılaşan binaların planlarının kusursuzluğudur önemli olan. İstanbul’da kentsel dönüşüm projelerinde Tasarım mimarlık hizmeti alan arsa sahipleri karlı çıkıyor. Müteahhit anlaşmalarından öncesinde sahip olduğu arsaya ait birçok konu da detaylı bilgiye sahip olmak istemez misiniz? Bir çok bilgiye sahip...
+
+---
+
+### İletişim
+
+- Published: 2015-07-27
+- Modified: 2026-02-12
+- URL: https://www.tasarimimarlik.com.tr/iletisim/
+
+Yarımburgaz Mahallesi Halkalı İstanbul Caddesi No:96 Küçükçekmece, İstanbul Telefon: +90 (212) 470 8670 GSM: + 90 (535) 616 42 14 Email: info@tasarimimarlik. com. tr Web: https://tasarimimarlik. com. tr Açık: Pazartesi - Cuma 08:30 - 17:30
+
+---
+
+### Mimari Proje Çizimi
+
+- Published: 2015-07-01
+- Modified: 2021-03-20
+- URL: https://www.tasarimimarlik.com.tr/mimari-proje-cizimi/
+
+Mimari Proje Çizimi   Mimari proje çizimi uygulama alanları hangileridir? Projeler için mimari çizim aşamaları ve çalışmanın önemli noktalarını sizlerle paylaşmak istiyoruz. Mimari proje çizimi her zaman düşlediğiniz mimari özelliklere sahip bir yapıyı hayata geçirmek için yapılacak teknik çalışmalara verilen bir isimdir. Mimari çizimler üzerinde nasıl bir eve, toplu konuta, binaya veya villaya sahip olmak istediğinizi detaylı olarak gösterebilirsiniz. Aklınızdaki tasarımın bilimsel metotlarla kağıda dökülmesi olan mimari çizimler, alanında uzmanlaşmış mühendis ve mimarlar tarafından yapılmaktadır. Mimari proje ofisi olarak çalışan kuruluşlar bünyesinde mimarlar ve mühendisler bulundurmaktadır. Bir projenin tasarlanmasından detaylı çizim aşamasına kadar tüm gerekli çalışmalar bu kadro tarafından yürütülür. Oluşturulmak istenen yapıda bulunacak mimari özelliklerden tesisata kadar her şey çalışma sırasında tek tek detaylarıyla ele alınır. Bir villa veya apartmanın inşa iznini alırken mimari çizimler resmi kuruluşlar tarafından talep edilebilir. Mimari kroki veya mimari plan ruhsat almak için hazırlamanız gereken evraklar arasında mutlaka bulunmalıdır. En iyi mimarlar tarafından hazırlanacak projeler hayalinizin kusursuz olarak yansıtılması adına son derece önemlidir. Dış cepheden oturma yerlerine, yapı malzemelerinden tesisat bağlantılarına kadar her bir nokta üzerinde özenle çalışılması gerekir. Mimari Proje Çizimi Hizmetleri Mimarlık proje çizimi hizmet veren bir kuruluşa başvurarak çizimin çalışması alabilirsiniz. Mimarlarımız ve mühendislerimiz binanın yeri ve özelliklerini tespit etmek adına sizlere keşif hizmeti sunmaktadır. İnşası gerçekleştirilecek yerin özellikleri öncelikle not alınarak kaydedilir. Mimari çizim sonrasında netlik kazanacaktır. Yapının bulunacağı yerdeki yollar, elektrik, doğalgaz ve su gibi hatların geçtiği...
+
+---
+
+### Alüminyum Cephe Sistemleri
+
+- Published: 2015-07-01
+- Modified: 2021-03-16
+- URL: https://www.tasarimimarlik.com.tr/aluminyum-cephe-sistemleri/
+
+Alüminyum Cephe Sistemleri Danışmanlık Hizmetleri   Alüminyum cephe sistemleri’nde danışmanlık hizmeti vererek, planlama sonrasında tasarlayarak çiziyor, projelendiriyor ve yöneterek gerçekleştirerek uygulamaya hazır hale getiriyoruz. Ayrıca iş takip planlaması ile de projelerimizin sorunsuz devam etmesini sağlıyoruz. Danışmanlık hizmetlerimizin detayları için bize ulaşın. Planlama Hizmetleri Planlama hizmetleri’nde sözleşme öncesi ve sözleşme sonrası master iş programı hazırlanması, alüminyum cephe sistemleri sözleşmesi sonrası master iş programına uygun şekilde departman iş programlarının ürün tipi ve cephe bölgesi esaslı olarak hazırlanması sözleşme sonrası, master iş programına uygun malzeme ve iş gücü tedarik programı ile birlikte planlama hizmeti dahilinde nakit akış planı hazırlanması, sözleşme eki master iş programı ile eldeki kaynakların örtüşmediği, bollukların ve eksikliklerin saptanması sağlanarak planlanma yapılmaktadır. Tüm detay bilgiler istişare ile yapılan toplantılar sonucunda alınan kararlar üzerine kuruludur. Projelendirme Hizmetleri Projelendirme hizmetleri sözleşme imzası sonrası ihale kapsamındaki ön danışman detaylarının uygulamaya yönelik prensip detaylara dönüştürülmesinden sonra, tüm alüminyum cephe sistemi'ndeki farklı detay noktalarının en ideal şekilde çözümlenmesi sağlanır. Projelendirme hizmeti'ndeki asıl amaç, prensip detayları çizilmiş olan cephe sisteminin tüm plan, kesit ve görünüşleri ile birlikte, farklı detayların ayrıca layoutlar olarak gösterildiği uygulama projelerinin çizilmesi ve uygulama projeleri çizilmiş cephe sisteminin, üreticinin ihtiyacı doğrultusunda detaylandırılmış imalat iş emri çizimlerinin yapılması hedeflenir. Uygulama projeleri çizilmiş cephe sisteminin, ihtiyaç duyulan siparişe yönelik malzeme ihtiyaç listelerinin çıkarılması ile son olarak tamamlanmış iş için as-buılt projelerin çizilmesi ile sonuçlanır.
+
+---
+
+### 3 Boyutlu Tasarım Mimari Çizimleri
+
+- Published: 2015-07-01
+- Modified: 2022-02-02
+- URL: https://www.tasarimimarlik.com.tr/3-boyutlu-tasarim-mimari-cizimleri/
+
+3 Boyutlu Tasarım Mimari Çizimleri   3 boyutlu tasarım araçları günümüzde mimari çalışmalarda yaygın bir şekilde kullanılmaya başlamıştır. Teknolojik yeniliklerle yapı projelerinin hızlandırılması, restore edilmesi ve dekore edilmesi anlamında büyük katkılar sunan üç boyutlu tasarım hakkında merak edilenleri ele alıyoruz. 3 boyutlu tasarım iki boyutla tarif edilmesi zor nesneleri dijital ortamda daha detaylı olarak görmeyi sağlayan bir teknolojidir. Bir nesnenin uzunluğu ve genişliği yanında derinliğin de çizimlere dahil edilmesi anlamında 3 boyutlu grafikler kullanılmaktadır. 3 Boyutlu Tasarım Örnekleri 3 Boyutlu tasarım örnekleri derinlik boyutu kazandırdığı için bir nesnenin önce tasarım halinde oluşturulması, teknik detaylarının belirlenip sorunlarının giderilmesi açısından oldukça kullanışlıdır. Bu nedenle günümüzde 3d mimari çalışmalar yapılırken yapının bitmiş halini tüm detaylarıyla görmek için üç boyutlu mimari tasarım örnekleri oluşturulabilir. Üç boyutlu mimari tasarım müşterilerimize sunduğumuz dekorasyon çalışmalarında da bize katkı sağlamaktadır. Bir ofisin veya yaşam alanının çalışma sonrasındaki görünümünün müşterilerimiz tarafından incelenmesi için birçok yazılım kullanıyoruz. Renk detaylarından eşya seçimine, tadilat noktalarından yenilecek odaların duvarlarına kadar tüm detayları üç boyutlu olarak ele alabiliyoruz. 3 Boyutlu Dış Cephe Tasarlama 3 boyutlu dış cephe tasarlama üç boyutlu çizim teknikleriyle çok daha kolay bir şekilde yapılabilmektedir. 3d mimari proje çiziminde dış cephenin boyutları göz önüne alınarak kullanılacak malzemeler belirlenir ve proje haline getirilebilir. 3 boyutlu dış cephe tasarlama çalışmaları uzmanlık istediği için kuruluşumuzda iş birliği halinde olduğumuz mimar ve mühendisler tarafından yapılmaktadır. Dış cephe için kullanılacak malzemeler, mantolama veya...
+
+---
+
+### Mimari Dekorasyon Hizmetleri
+
+- Published: 2015-07-01
+- Modified: 2021-03-16
+- URL: https://www.tasarimimarlik.com.tr/mimari-dekorasyon-hizmetleri/
+
+Mimari Dekorasyon Hizmetleri   Mimari dekorasyon hizmetleri yaşam alanlarını müşterilerin beklentilerini ve estetik anlayışlarını dikkate alarak yapılması gereken detaylı bir çalışmadır. İş yerlerinin, bina veya evlerin modern çizgilerle düzenlenmesini, ferah yaşam alanları oluşturmayı ve sorunlu noktaların onarılmasını içeren profesyonel mimari dekorasyon hizmetiyle hayallerinizi süsleyen yapılarak kavuşmanız artık çok daha kolay. Dekorasyon ve tadilat konusunda verdiğimiz hizmetlerden faydalanmak isterseniz bizlere hemen ulaşabilirsiniz. Mimari Dekorasyon Nedir? Mimari dekorasyon nedir yaşam alanlarının istenilen estetik yapıya kavuşması ve uygun şekilde tadilatının yapılması olarak iki temel çalışmayı kapsar. Çalışmanın içeriğindeki uzmanlık isteyen yapım aşamaları nedeniyle doğru bir tasarım ofisiyle çalışılması gerekir. Mimari dekorasyon fikirleri müşteri beklentileri doğrultusunda oluşturulmalıdır. Yapılacak çalışmanın niteliğine göre süsleme sanatçıları, iç mimarlar, tasarım uzmanları ve ressamlar projeye dahil edilebilmektedir. Göze hoş gelen yerlerde yaşam sürmek ve tasarımıyla marka değerini ortaya koyan ofislerde çalışmak için mimari dekorasyon hizmeti alınabilmektedir. Tadilat ve dekorasyon çalışmaları ofis ve evlerde olduğu gibi önemli tarihi yapıların yenilenmesinde de tercih edilen bir hizmettir. Bir yapının estetik dokusunu bozmadan yenilemek için alanında deneyimli bir tasarım mimari ofisinden yardım alınmalıdır. İç mimari dekorasyon yapı içindeki sorunların giderilmesinde olduğu kadar, kullanılacak malzemenin seçiminden renk tercihlerine kadar geniş bir alanda detaylı bir çalışma yürütülmesi anlamına gelir. Uzmanlarımız dış ve iç mekandaki özellikleri taslak haline getirir. Veriler dijital ortamda üç boyutlu hale getirilerek proje sahiplerine sunulabilir. Ofis Tadilatı ve Ofis Dekorasyonu Ofis tadilatı ve ofis dekorasyonu için gerekli keşif çalışması...
+
+---
+
+### 3D Bina Modelleme Tasarım Hizmetleri
+
+- Published: 2015-02-10
+- Modified: 2021-03-26
+- URL: https://www.tasarimimarlik.com.tr/3d-bina-modelleme-tasarim/
+
+3D Bina Modelleme Tasarım 3D Bina Modelleme ile binalarınızın dış görsellerinin tasarımlarını 3d max bina modelleme mantığında muhteşem tasarımlarınızı yapıyoruz. Birebir ölçülerde gerçekleştirdiğimiz tasarımlar ile uygulama sonrasın da tasarlanan binanın birebirini dijital ortamda inceleme fırsatına sahip oluyorsunuz. Bu işlemlere başlamadan önce kat planlarını göndermiş olduğunuz vektörel formatındaki plan ölçülerine bire bir uygun olarak boyutlandırılır. Tarafımıza teslim edilen plana uygun olarak tefriş yerleşimi yapılır. Pencere, kapı, kolon tüm detaylara özenle dikkat edilerek uygulamada aynı görseli kusursuz şekilde meydana getirmeye çalışmaktayız. 3D Bina Tasarım Örnekleri 3D bina tasarım örnekleri incelemek isterseniz web adresimizden inceleyebilirsiniz. Tasarım çalışması tamamlandıktan sonra alınacak render kat planının görüş açısının en kullanışlı yerinden alınarak sizlerin beğenisine sunulur. Modelleme öncesinde ise müşterilerimizden detaylı olarak talepleri alınır. İstişareler yapılır, kullanılacak malzemeler, renkler ve bir çok konu üzerinde mutabık kalındıktan sonra çalışmalara başlanır. 3 boyut bina tasarım çalışmaları sırasında bir çok kez dijital ortamda çalışmanın gidişatı hakkında hem bilgi verilir, hem de müşterimiz taleplerin kontrolünü sağlamaktadır. Dış Cephe Bina Tasarım Termin Süresi Fiyat ve Ödeme Şekilleri? Dış cephe bina tasarımı teslim süresi 4 gündür. Bu süreyi yapılan geri dönüş, istek talepler, tasarım hakkında verilmesi gereken kararlar, revizelere bağlı olarak değişmektedir.   Daha erken bir süre veya daha geç bir süre olabilir. Tarafımızdan talep edilen tüm değişiklikler yapılarak son hali eksiksiz şekilde anlaşma çerçevesince teslim edilir. Bina tasarımları kullanılacak materyallere göre değişmektedir. Proje fiyatı mutlaka...
+
+---
+
+### Rölöve Çizimi
+
+- Published: 2015-02-10
+- Modified: 2021-03-30
+- URL: https://www.tasarimimarlik.com.tr/rolove-almak/
+
+Rölöve Çizimi   Rölöve Çizimi en büyük amaç restore edilecek binanın yıkılmadan ve en az hasarla onarılmasıdır. Rölöve çizecek birisi arşiv belgelerinden, tarih kitaplarından, gözlemlerden , fotoğraflardan o binayla aklınıza gelebilecek her türlü yoldan faydalanabilir. Bu yöntemler kullanılarak o binanın tarihi önemi ve dokusu daha iyi anlaşılır ve yapılacak restorasyon bu dokuyu bozmadan yapılmaya çalışılır. Ayrıca yapılan röleve çalışmalarına ek olarak vaziyet planı krokisinin de tarafımızdan çizilerek onaylatılması gerekir. İş yeri plan ruhsatını bu sayede ilgili mercilerden onaylanmasını sağlayabilirsiniz. Gayri Sıhhi Müessese çizim planına ek olarak vaziyet planını da eklenmesi şartı vardır. Eczane, Eğitim Kurumları, Depo, Fabrika, Ofis, Hastane, İş Yeri Ruhsatı, İş Güvenliği CSGB, Gayri Sıhhi Muessese, rölöve’nin tanımını genel olarak belirtmek gerekirsek, restorasyon projeleri için bir yapının iç ve dış mimarisini, dekorasyonunu ve yapı malzemelerine ait durunu ölçekli çizimlerle anlatma sanatıdır. Rölöve aynı zamanda arkeolojik kalıntıların incelenip mimarlık tarihi açısından öneminin ortaya konabilmesi içinde yapılır. 0 212 470 86 70 - 0 535 616 42 14 ECZANE RÖLÖVE Eczane rölöve, çizilen rölöveler yapıyı tam olarak anlatabilecek şekilde plan, görünüş ve kesitleri de kapsamalıdır. Yapının iç, dış fotoğrafları ve bu fotoğrafların çekim yerleri ile yönleri de Rölöve üzerinde işaretlenir. Rölöve Plan Çizimi Rölöve plan çizimi en büyük amaç restore edilecek binanın yıkılmadan ve en az hasarla onarılmasıdır. Rölöve çizecek birisi arşiv belgelerinden, tarih kitaplarından, gözlemlerden , fotoğraflardan o binayla aklınıza gelebilecek her türlü yoldan faydalanabilir. Bu...
+
+---
+
+
+## 
+
+
+## Yazılar
+
+### 1970s Revival Kitchen Design
+
+- Published: 2023-12-17
+- Modified: 2023-12-17
+- URL: https://www.tasarimimarlik.com.tr/1970s-revival-kitchen-design/
+- Kategoriler: Genel
+
+
+
+---
+
+### Silver Dragon Fantasy
+
+- Published: 2023-12-17
+- Modified: 2023-12-17
+- URL: https://www.tasarimimarlik.com.tr/silver-dragon-fantasy/
+- Kategoriler: Genel
+
+
+
+---
+
+### Refreshing Summer Invitation
+
+- Published: 2023-12-17
+- Modified: 2023-12-17
+- URL: https://www.tasarimimarlik.com.tr/refreshing-summer-invitation/
+- Kategoriler: Genel
+
+
+
+---
+
+### Fantasy - White Bearded Old Man in Silver Armor
+
+- Published: 2023-12-17
+- Modified: 2023-12-17
+- URL: https://www.tasarimimarlik.com.tr/fantasy-white-bearded-old-man-in-silver-armor/
+- Kategoriler: Genel
+
+
+
+---
+

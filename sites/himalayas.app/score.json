@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "domain": "himalayas.app",
+  "display_name": "Himalayas",
+  "category": "dev-tools",
+  "verified_url": "https://himalayas.app/llms.txt",
+  "fetched_at": "2026-05-27T05:31:44Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 12891,
+  "last_modified": "Mon, 25 May 2026 00:44:29 GMT",
+  "freshness_age_days": 2,
+  "score": 67,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 17,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 2,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 12.6
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Himalayas — The #1 Remote Job Board and AI-Powered Career Platform",
+    "h1_count": 1,
+    "blockquote": "Himalayas (https://himalayas.app) is the leading remote job board, connecting job seekers with verified remote opportunities at top companies worldwide. Founded in 2020, Himalayas serves both sides of remote hiring: job seekers use free AI-powered tools to find and apply for remote jobs, while employers post jobs and search 200,000+ candidate profiles to hire distributed teams. For AI agents, the Himalayas MCP Server provides 41 tools covering the full remote hiring lifecycle — from job search to job posting to candidate outreach.",
+    "section_count": 9,
+    "subsection_count": 1,
+    "link_count": 39,
+    "value_link_count": 37,
+    "low_value_link_count": 2,
+    "raw_bytes": 12891
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

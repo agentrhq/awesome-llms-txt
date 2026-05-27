@@ -1,0 +1,53 @@
+name: Score appeal
+description: Contest a grade you think is wrong.
+title: "appeal: <domain>"
+labels: ["appeal"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      placeholder: stripe.com
+    validations:
+      required: true
+  - type: input
+    id: current_score
+    attributes:
+      label: Current score (from the repo)
+      placeholder: "68"
+    validations:
+      required: true
+  - type: dropdown
+    id: criterion
+    attributes:
+      label: Which criterion are you appealing?
+      options:
+        - spec_compliance
+        - coverage
+        - agent_actions
+        - link_stability
+        - freshness
+        - discoverability
+        - auth_signposting
+        - size_discipline
+        - content_type
+        - voice
+        - whole-score
+    validations:
+      required: true
+  - type: textarea
+    id: argument
+    attributes:
+      label: Show your work
+      description: Quote the rubric, point to the lines in the file, link to the spec. Appeals without evidence are closed.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acks
+    attributes:
+      label: Acknowledgements
+      options:
+        - label: I understand appeals are public and discussed on this issue.
+          required: true
+        - label: I understand "your weight is too high" is a rubric proposal, not an appeal.
+          required: true

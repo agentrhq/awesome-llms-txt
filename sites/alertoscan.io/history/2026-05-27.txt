@@ -1,0 +1,38 @@
+# Alertoscan
+
+> Alertoscan is a free website security scanner that checks any URL against multiple antivirus engines, international financial regulators, blacklists, SSL validation, and WHOIS data to detect scams, phishing, and fraudulent websites.
+
+Alertoscan helps users verify website legitimacy before sharing personal information or making transactions. No account required, results in seconds, 100% free.
+
+## Core Tools
+
+- [Scam URL Checker](https://alertoscan.io/scan): Real-time website security scanning with multi-source threat detection and Trust Score
+- [BreachRadar — Email Breach Checker](https://alertoscan.io/tools/email-breach-checker): Check if your email has been exposed in known data breaches
+- [Password Generator](https://alertoscan.io/tools/password-generator): Generate secure passwords, passphrases, and PINs — 100% client-side
+- [TechStack Checker](https://alertoscan.io/tools/website-technology-checker): Detect technologies, frameworks, CMS, and analytics used by any website
+- [All Security Tools](https://alertoscan.io/tools): Browse all available tools
+
+## Security Reports
+
+- [Website Reviews](https://alertoscan.io/review/example.com): Detailed security reports with Trust Score, antivirus results, regulatory checks, SSL analysis, community reviews, and more
+- [Trust Score Methodology](https://alertoscan.io/trust-score): How our 0-100 risk scoring algorithm works
+
+## Resources
+
+- [Fraud Protection Guide](https://alertoscan.io/help-fraud): How to identify and report online scams, with access to professional investigation services
+- [Blog](https://alertoscan.io/blog): Security news and educational content
+- [About Alertoscan](https://alertoscan.io/about): Mission, data sources, and methodology
+- [Contact](https://alertoscan.io/contact): Security reports, partnerships, or support inquiries
+
+## Legal
+
+- [Privacy Policy](https://alertoscan.io/privacy-policy): Data handling and user privacy commitments
+- [Terms & Conditions](https://alertoscan.io/terms-conditions): Service usage terms and limitations
+- [Cookie Policy](https://alertoscan.io/cookie-policy): Cookie usage and management
+- [Security Policy](https://alertoscan.io/security-policy): Vulnerability disclosure policy
+
+## Optional
+
+- [Brand Assets](https://alertoscan.io/brand): Official logos and brand resources for press and partnerships
+- [Sitemap](https://alertoscan.io/sitemap_index.xml): Full site structure for indexing
+- [Full Documentation](https://alertoscan.io/llms-full.txt): Detailed documentation for LLMs (llms-full.txt)

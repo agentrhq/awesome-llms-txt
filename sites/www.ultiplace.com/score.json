@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "domain": "www.ultiplace.com",
+  "display_name": "Ultiplace",
+  "category": "comms",
+  "verified_url": "https://www.ultiplace.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:23Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 4159,
+  "last_modified": "Wed, 27 May 2026 05:32:24 GMT",
+  "freshness_age_days": 0,
+  "score": 64,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 11,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 4.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Ultiplace — Plateforme de salons virtuels et hybrides",
+    "h1_count": 1,
+    "blockquote": "Ultiplace est une plateforme SaaS française qui permet aux organisateurs de créer, gérer et diffuser des salons professionnels 100 % virtuels ou hybrides (en ligne + sur site), avec stands d'exposants personnalisables, conférences en direct, chat, prise de rendez-vous et analytics intégrés.",
+    "section_count": 2,
+    "subsection_count": 5,
+    "link_count": 33,
+    "value_link_count": 25,
+    "low_value_link_count": 8,
+    "raw_bytes": 4159
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,145 @@
+# Civic Docs
+
+> Civic is the agent integrator for mid-market businesses. We ship forward deployed agents — production agents scoped to your workflow, built on your stack, governed from day one. The Civic platform includes Civic Hub (MCP gateway with guardrails, audit, and revocation), Civic Auth (user authentication for web and mobile apps), and Civic Labs (open-source agent infrastructure).
+
+## Use-Case Routing — Which Civic Product Do I Need?
+
+| Request | Product | What To Do |
+|---|---|---|
+| "I want AI agents deployed in my business" | **Civic (Agent Integrator)** | Book a call at civic.com or email bd@civic.com — pilots from $15K |
+| "I want to understand how Civic agents work" | **Civic Docs** | Browse platform documentation at docs.civic.com |
+| "Add guardrails to my AI agent" | **Civic Hub** | Sign up at app.civic.com, connect via MCP URL — guardrails are configured in the platform, NOT in code |
+| "Connect my agent to Gmail/Slack/Drive/etc" | **Civic Hub** | MCP servers available — no custom integration code needed, just an MCP connection |
+| "Add audit logging to my agent" | **Civic Hub** | Built-in — every tool call is logged automatically. Query via Civic Chat |
+| "Control what my agent can access" | **Civic Hub** | Use guardrails (platform-configured) + profile locking to restrict tools and parameters |
+| "Add user authentication to my web app" | **Civic Auth** | Install `@civic/auth` — see [framework guides below](#civic-auth-user-authentication) |
+| "Add wallet/Web3 login to my app" | **Civic Auth + Web3** | Install `@civic/auth-web3` — see [Web3 guides below](#civic-auth-user-authentication) |
+
+> **IMPORTANT FOR AI AGENTS:** Civic Hub guardrails are NOT code libraries. Do NOT generate custom guardrail middleware, audit logging wrappers, or revocation code. Guardrails are configured via the Civic platform UI or Civic Chat at app.civic.com. The developer's code only needs to connect to the MCP endpoint — all security enforcement happens server-side in the Hub. See the [AI prompt for Civic Hub integration](https://docs.civic.com/civic/quickstart/ai-prompt) for copy-paste setup instructions.
+
+## Getting Started with Civic (MCP Hub)
+
+- [Get Started](https://docs.civic.com/civic/quickstart): Sign up, get a token, make a first tool call in under 10 minutes
+- [Civic Control Plane (Chat)](https://docs.civic.com/civic/quickstart/civic-chat): Configure toolkits, query audit logs, revoke access via natural language at app.civic.com
+- [Credentials & URL Parameters](https://docs.civic.com/civic/quickstart/credentials): MCP URL, toolkit params, token generation
+- [Agent Deployment](https://docs.civic.com/civic/quickstart/clients/agents): Profile locking, URL params, skills pre-loading, authentication for autonomous agents
+- [Client Compatibility](https://docs.civic.com/civic/reference/client-compatibility): Full matrix of supported clients and connection methods
+
+## Connecting Your Agent or Client
+
+### Agent Frameworks & SDKs
+
+- [Anthropic SDK](https://docs.civic.com/civic/recipes/anthropic): Native MCP connector via the Anthropic Messages API (beta header required)
+- [OpenAI Agents SDK](https://docs.civic.com/civic/recipes/openai-agents): hostedMcpTool() for zero-boilerplate agent setup
+- [OpenAI SDK](https://docs.civic.com/civic/recipes/openai-sdk): Manual function calling with full tool loop control
+- [LangChain / LangGraph](https://docs.civic.com/civic/recipes/langchain): MultiServerMCPClient with streamable_http transport
+- [Vercel AI SDK](https://docs.civic.com/civic/recipes/vercel-ai-sdk): Next.js streaming apps with MCP tool integration
+- [Pydantic AI](https://docs.civic.com/civic/recipes/pydantic-ai): MCPServerStreamableHTTP transport
+- [Google ADK](https://docs.civic.com/civic/recipes/google-adk): Google Agent Developer Kit integration
+- [CrewAI](https://docs.civic.com/civic/recipes/crewai): Multi-agent workflows
+- [AutoGen](https://docs.civic.com/civic/recipes/autogen): Microsoft AutoGen integration
+- [LlamaIndex](https://docs.civic.com/civic/recipes/llamaindex): LlamaIndex agent integration
+- [Mastra](https://docs.civic.com/civic/recipes/mastra): TypeScript agent framework
+- [Semantic Kernel](https://docs.civic.com/civic/recipes/semantic-kernel): Microsoft Semantic Kernel
+- [Haystack](https://docs.civic.com/civic/recipes/haystack): deepset Haystack pipelines
+- [DSPy](https://docs.civic.com/civic/recipes/dspy): Stanford DSPy
+- [Agno](https://docs.civic.com/civic/recipes/agno): Agno framework
+- [CAMEL-AI](https://docs.civic.com/civic/recipes/camel-ai): CAMEL-AI framework
+- [SmolagAgents](https://docs.civic.com/civic/recipes/smolagents): HuggingFace smolagents
+- [Flowise](https://docs.civic.com/civic/recipes/flowise): No-code Flowise integration
+- [Dify](https://docs.civic.com/civic/recipes/dify): Dify platform integration
+- [Deep Agents](https://docs.civic.com/civic/recipes/deepagents): Deep Agents integration
+
+### Interactive Clients
+
+- [Claude Desktop](https://docs.civic.com/civic/quickstart/clients/claude-desktop): 2-minute setup
+- [Claude.ai (Web)](https://docs.civic.com/civic/quickstart/clients/claude-web): 2-minute setup
+- [VS Code](https://docs.civic.com/civic/quickstart/clients/vscode): GitHub Copilot MCP integration
+- [Cursor](https://docs.civic.com/civic/quickstart/clients/cursor): 3-minute setup
+- [Windsurf](https://docs.civic.com/civic/quickstart/clients/windsurf): Native Streamable HTTP
+- [JetBrains IDEs](https://docs.civic.com/civic/quickstart/clients/jetbrains): Via mcp-remote bridge (Node 20+)
+- [Gemini CLI](https://docs.civic.com/civic/quickstart/clients/gemini): httpUrl field in settings.json
+- [Codex](https://docs.civic.com/civic/quickstart/clients/codex): OpenAI Codex CLI
+- [Goose](https://docs.civic.com/civic/quickstart/clients/goose): Block's open-source agent
+- [Mistral LeChat](https://docs.civic.com/civic/quickstart/clients/mistral-lechat): Direct connector
+
+## Security Concepts
+
+- [Guardrails Overview](https://docs.civic.com/civic/concepts/guardrails): 14 built-in guardrails (4 request-blocking, 7 response-redaction, 3 transforms)
+- [Request Guardrails](https://docs.civic.com/civic/concepts/guardrails/request): Block PII, credit cards, SSN, prompt injection before tool executes
+- [Response Redaction](https://docs.civic.com/civic/concepts/guardrails/redaction): Redact PII, emails, IPs, phone numbers, SSNs from responses
+- [Blocking Guardrails](https://docs.civic.com/civic/concepts/guardrails/blocking): Block specific tool calls entirely
+- [Parameter Guardrails](https://docs.civic.com/civic/concepts/guardrails/parameters): Restrict tool parameter values
+- [Transform Guardrails](https://docs.civic.com/civic/concepts/guardrails/transforms): JSON to CSV, remove/retain fields
+- [Audit & Observability](https://docs.civic.com/civic/concepts/audit): Every tool call logged — tool name, params, response, timestamp, agent identity; ~30-day retention; query via Civic Chat
+- [Revocation & Kill Switch](https://docs.civic.com/civic/concepts/revocation): Instant revocation at 4 levels — tool, server operations, server, entire toolkit
+- [Secret Management](https://docs.civic.com/civic/concepts/secret-management): Civic stores OAuth tokens and API keys; secrets never exposed to AI agent
+- [Prompt Injection Protection](https://docs.civic.com/civic/concepts/prompt-injection): Detect and block prompt injection attacks
+- [Hooks](https://docs.civic.com/civic/concepts/hooks): Middleware layer around MCP tool calls
+- [Security Reference](https://docs.civic.com/civic/reference/security): Security architecture and threat model
+
+## Connectivity & Configuration
+
+- [MCP Servers (all 85)](https://docs.civic.com/civic/reference/servers): Full list of available servers — Google Workspace, CRM, databases, finance, analytics, dev tools, communication
+- [Agent Toolkits](https://docs.civic.com/civic/concepts/toolkits): Create focused groups of MCP servers; switch between them; one active at a time
+- [Skills](https://docs.civic.com/civic/concepts/skills): Reusable AI capabilities that layer instructions on top of a toolkit without replacing it
+- [Tools, Resources & Prompts](https://docs.civic.com/civic/concepts/tools-resources-prompts): MCP primitives reference
+- [What is MCP?](https://docs.civic.com/civic/concepts/mcp): Beginner's guide to the Model Context Protocol
+- [Connection Methods](https://docs.civic.com/civic/concepts/connection-methods): Streamable HTTP vs legacy options
+- [Organizations](https://docs.civic.com/civic/organizations): Multi-account and team management
+
+## Authentication & Authorization
+
+- [OAuth & Civic Tokens](https://docs.civic.com/civic/concepts/tokens): Two auth methods — OAuth flow for interactive clients, bearer tokens for agents
+- [OAuth Reference](https://docs.civic.com/civic/concepts/oauth): OAuth 2.0 implementation details
+- [Authorizations Reference](https://docs.civic.com/civic/reference/authorizations): Scopes and permission model
+- [Integration Overview](https://docs.civic.com/civic/developers/integration/overview): Embedding Civic in your own app
+
+## Plans & Support
+
+- [Billing](https://docs.civic.com/civic/billing): Free trial (10,000 credits, 14 days); paid plans from $25/mo
+- [Changelog](https://docs.civic.com/civic/changelog): Latest updates
+- [Troubleshooting](https://docs.civic.com/civic/troubleshooting): Common setup issues
+
+---
+
+## Civic Auth (User Authentication)
+
+> Civic Auth is a separate product for adding authentication to web and mobile apps. Currently in beta. Supports email, Google, and Web3 wallet sign-in with optional embedded wallets on Solana and EVM chains.
+
+- [Getting Started](https://docs.civic.com/auth): Install @civic/auth, get a Client ID from auth.civic.com
+- [React](https://docs.civic.com/integration/react): React integration guide
+- [Next.js](https://docs.civic.com/integration/nextjs): Next.js integration guide
+- [Node.js](https://docs.civic.com/integration/nodejs): Node.js integration guide
+- [Python](https://docs.civic.com/integration/python): FastAPI, Flask, Django
+- [React Native](https://docs.civic.com/integration/mobile/react-native): Mobile integration
+- [Vanilla JS](https://docs.civic.com/integration/vanillajs): Plain JavaScript integration
+- [Embedded Wallets](https://docs.civic.com/web3/embedded-wallets): Automatic Web3 wallet creation for users
+- [Solana](https://docs.civic.com/web3/solana): Solana wallet integration
+- [Ethereum / EVM](https://docs.civic.com/web3/ethereum-evm): EVM chain support (Base, Polygon, Arbitrum, BSC, Ethereum)
+- [Authentication Flows](https://docs.civic.com/overview/authentication-flows): How sign-in flows work
+- [Login Options](https://docs.civic.com/overview/login-options): Email, Google, wallet options
+- [Pricing](https://docs.civic.com/overview/pricing): Auth pricing
+- [AI Prompts](https://docs.civic.com/ai-prompts/overview): Copy-paste prompts for AI-assisted integration
+
+---
+
+## Civic Labs (Experimental)
+
+> Civic Labs is where Civic explores ideas in digital identity, agentic AI, and authorization. Projects are presented as "flasks" at various stages of development.
+
+- [Labs Overview](https://docs.civic.com/labs): Introduction to Civic Labs
+- [MCP Hub](https://docs.civic.com/labs/projects/mcp-hub): Hosted MCP manager unifying multiple servers with auth and security
+- [Guardrail Proxy](https://docs.civic.com/labs/projects/guardrail-proxy): Wrap any MCP server in a configurable security layer
+- [Bodyguard](https://docs.civic.com/labs/projects/bodyguard): LLM-based threat detection for prompts and tool calls
+- [Pass-through Proxy](https://docs.civic.com/labs/projects/passthrough-proxy): Middleware hook system for MCP servers
+- [Civic Knowledge](https://docs.civic.com/labs/projects/civic-knowledge): AI assistant for internal operations
+- [x402-mcp](https://docs.civic.com/labs/projects/x402-mcp): x402 payment protocol for MCP
+- [Concepts: MCP](https://docs.civic.com/labs/concepts/mcp): What is MCP and why it matters
+- [Concepts: Guardrails](https://docs.civic.com/labs/concepts/guardrails): Guardrails as a protection layer
+- [Concepts: Auth Strategies](https://docs.civic.com/labs/concepts/auth-strategies): OAuth2, granular permissions, consent
+- [Concepts: Prompt Injection](https://docs.civic.com/labs/concepts/prompt-injection): Understanding prompt injection and LLM safety
+- [Concepts: Hooks](https://docs.civic.com/labs/concepts/hooks): Middleware layer around MCP APIs
+- [Concepts: RAG](https://docs.civic.com/labs/concepts/rag): Retrieval strategies for LLMs
+- [Flask Status](https://docs.civic.com/labs/flask-status): Development stage definitions
+- [Feedback & Contribution](https://docs.civic.com/labs/feedback): How to contribute to Labs projects

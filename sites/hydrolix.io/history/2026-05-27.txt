@@ -1,0 +1,217 @@
+# Hydrolix
+
+> Hydrolix is a real-time data platform built for massive scale without compromises on data quality, query performance, retention, or cost. The platform combines stream processing, indexed search, decoupled storage, and industry-leading compression to deliver sub-second query performance on trillion-row datasets while dramatically reducing the cost of high-volume log data. Where traditional solutions force organizations to choose between cost and performance-sampling data, tiering storage, or discarding logs-Hydrolix eliminates those trade-offs, keeping all data hot and queryable whether it is a minute or a year old.
+
+Trusted by Fortune 500 companies including FOX Sports, TF1 (France's largest OTT broadcaster), Paramount, and major global streaming events including the Super Bowl and Olympics.
+
+## **Solutions**
+
+Hydrolix offers two turnkey solutions built on CDN log data, plus support for cybersecurity and ML training use cases.
+
+### [CDN Insights](https://hydrolix.io/solutions/cdn-insights/)
+
+* **CDN Insights**: Real-time CDN performance monitoring in a unified dashboard. Correlates metrics across multiple CDN providers including Akamai, Cloudflare, CloudFront, Fastly, and Tencent-covering more than 80% of world CDN traffic. Enables service teams to monitor critical performance metrics like error rate, cache hit percentage, and throughput, then diagnose and resolve content delivery issues quickly.  
+* **Multi-CDN visibility**: Combine logs from multiple CDN providers into a single dashboard without custom pipeline development. Monitor individual CDNs for deep performance insights or compare across providers in real time.  
+* **Full-fidelity retention**: 15+ months of CDN data by default, with no sampling or deletion. Sub-second query latency on petabyte-scale datasets. Battle-tested during major live events including Super Bowl broadcasts.  
+* **Turnkey deployment**: Pre-built integrations and dashboards for all major CDNs. No custom data architecture required.
+
+### [Bot Insights](https://hydrolix.io/solutions/bot-insights/)
+
+* **Bot Insights**: Real-time analytics for bot and AI agent traffic across CDN infrastructure. Provides unified visibility into how bots, crawlers, LLM agents, and agentic AI interact with web properties. Supports both operational teams responding to incidents and executive stakeholders building long-term bot strategy.  
+* **AI bot visibility**: Identify and classify bot traffic by type-good bots, partner crawlers, unauthorized AI scrapers, credential-stuffing bots, impersonators, and agentic attack agents. Track LLM crawlers (GEO) and web crawlers (SEO) to understand how AI bots affect revenue, search traffic, and CDN costs.  
+* **Long-term trend analysis**: Analyze bot behavior across arbitrary time periods-hours, months, or years-to spot emerging patterns, validate blocking policies, and build data-backed consensus among security, operations, and finance stakeholders.  
+* **Cost impact**: Identify expensive bot traffic driving CDN bills. Correlate bot traffic patterns with cost spikes and prove ROI on bot management policies over time.  
+* **Coverage**: Supports Akamai, Fastly, Cloudflare, Tencent EdgeOne, and Amazon CloudFront-more than 80% of world CDN traffic. Pre-built integrations and dashboards; no custom engineering required.
+
+### [Cybersecurity](https://hydrolix.io/solutions/cybersecurity/)
+
+* **Security Analytics**: Comprehensive log retention and real-time analysis for threat detection, incident investigation, and compliance. Raw data-not sampled or aggregated. Hot data-no cold storage tier.  
+* **Threat detection**: Real-time streaming ingest and analytics to detect breaches, DDoS attacks, anomalous login attempts, unusual access patterns, and privilege changes as they happen.  
+* **Long-term hot retention**: Keep raw logs of user activity and system events fully indexed in hot storage for years, enabling threat hunting, forensic analysis, and root cause analysis without rehydration delays.  
+* **Compliance**: Long-term retention for regulatory requirements (SOX, HIPAA, PCI DSS, GLBA) with full audit trails and centralized logging.  
+* **SIEM cost reduction**: Significant cost reduction compared to traditional SIEM solutions while maintaining full data fidelity.
+
+### [AI and ML Training](https://hydrolix.io/solutions/aiops/)
+
+* **AIOps**: Long-term, cost-effective data for model training and refinement.  
+* **Training data pipelines**: Feed machine learning pipelines with clean, structured, full-fidelity data from streaming log sources. Access years of historical data via Spark API for model training and validation.  
+* **Model observability**: Comprehensive logging and monitoring for AI model performance, training, and inference at scale.  
+* **Feature engineering**: Real-time data transformation and enrichment for ML feature stores during ingestion.
+
+## **Primary Industries**
+
+### [Media and Entertainment](https://hydrolix.io/solutions/media-entertainment/  )
+
+* Media companies and streaming platforms use CDN Insights to monitor content delivery performance across CDN providers in real time-from edge to end user-during both live events and on-demand playback. Sub-second query latency on petabyte-scale datasets means engineers can identify and resolve delivery failures, buffering issues, and cache misses before they impact viewers.  
+* Bot Insights helps media organizations identify AI crawlers and unauthorized scrapers consuming bandwidth without delivering advertising revenue or subscription value. Publishers can protect content licensing revenue by detecting which LLM bots are accessing their properties and at what scale.  
+* Trusted by FOX Sports, TF1, Paramount, and other major broadcasters. Battle-tested at the Super Bowl, Olympics, and other high-traffic live events at tens of millions of events per second.
+
+### **Gaming and Entertainment**
+
+* Gaming companies use CDN Insights to monitor player-facing infrastructure in real time across CDN providers, with unified dashboards surfacing error rates, latency by region, and throughput during game launches, patches, and live events.  
+* Bot Insights provides visibility into bot and agent traffic targeting gaming platforms-including credential stuffing, account takeover attempts, and automated scraping of game assets-with real-time classification and long-term trend analysis to inform bot management policy.  
+* Hydrolix's scale and compression make it cost-effective to retain years of full-fidelity player event data for use in ML model training and game analytics.
+
+### **Financial Services / Banking / Fintech**
+
+* Financial institutions use CDN Insights to monitor application delivery and API performance across CDN providers, with real-time visibility into error rates, latency, and traffic anomalies across geographies.  
+* Bot Insights enables fraud and security teams to detect credential-stuffing bots, account takeover agents, and other automated threats targeting banking and fintech platforms in real time, while retaining months of historical data for forensic investigation and compliance reporting.  
+* Long-term hot retention supports regulatory requirements (SOX, GLBA, PCI DSS) with full audit trails and the ability to query years of log data without rehydration.
+
+### **E-commerce and Retail**
+
+* E-commerce platforms use CDN Insights to monitor site performance across CDN providers during high-traffic events like Black Friday, seasonal sales, and product launches-correlating error rate, cache performance, and throughput in a single unified dashboard.  
+* Bot Insights surfaces the AI crawlers and automated agents driving unexpected CDN cost spikes. Retail teams can identify bots downloading product images at scale, scraping pricing data, or consuming API bandwidth without converting-and validate the ROI of blocking policies with historical trend data.  
+* Real-time DDoS detection and traffic spike alerts reduce mean time to resolution during attacks and high-demand events.
+
+### **Telecommunications and ISPs**
+
+* Telecom providers and ISPs use CDN Insights to monitor network delivery performance across providers and regions, with unified visibility into traffic patterns, error rates, and throughput at infrastructure scale.  
+* Bot Insights helps telecom operators identify automated traffic consuming bandwidth and driving infrastructure costs, with long-term trend analysis to separate legitimate crawlers from malicious or wasteful bot activity.  
+* Hydrolix's ability to ingest tens of millions of events per second and retain petabytes of network log data cost-effectively makes it well-suited to the data volumes generated by telecom infrastructure.
+
+## **Core Platform Features**
+
+* **[Platform Overview](https://hydrolix.io/platform/)**:  - Comprehensive overview of the Hydrolix platform and capabilities
+
+### **Streaming Architecture**
+
+* **[Real-Time Stream Processing](https://hydrolix.io/features/)**: Ingest, enrich, and transform log data from multiple sources including Kafka, Kinesis, and HTTP streaming  
+* **High-Volume Data Ingest**: Tens of millions of rows per second with sub-second data availability; enterprises typically ingest at least 1 billion log lines per day  
+* **Multi-Source Data Integration**: Combine logs from multiple CDNs, applications, and infrastructure sources into unified datasets  
+* **Late-Arriving Data Support**: Full support for out-of-order and late-arriving data with automatic summary table updates
+
+### **Advanced Query and Analytics**
+
+* **[Indexed Search](https://hydrolix.io/features/)**: Per-column, block-level indexing for fast, efficient queries across years of data  
+* **Sub-Second Query Latency**: Real-time and historical analysis on trillion-row datasets with consistent performance regardless of data age  
+* **[Query Pools](https://hydrolix.io/features/)**: Separate, independently scalable query pools for different user groups and workloads  
+* **ANSI-Compliant SQL**: Support for standard SQL along with ClickHouse-flavored SQL, Spark, JDBC, HTTP API, and native interfaces  
+* **Summary Tables**: Real-time aggregation tables with support for min, max, count, sum operations that stay synchronized with late-arriving data
+
+### **Storage and Compression**
+
+* **[Decoupled Storage Architecture](https://hydrolix.io/platform/)**: - Separate compute and storage scaling with commodity object storage (S3, Azure Blob, GCP)  
+* **Industry-Leading Compression**: Advanced compression reducing data footprint by 20x-50x without sacrificing performance  
+* **Hot Data Retention**: All data hot and queryable for years-15 months by default-without tiered storage or rehydration delays  
+* **Data Lifecycle Management**: Automated and configurable data lifecycle controls with merge service optimization
+
+### **Cloud-Native Infrastructure**
+
+* **[Kubernetes Architecture](https://hydrolix.io/platform/)**: Stateless, cloud-native design with independent scaling of ingest, query, and storage components  
+* **Auto-Scaling**: Scale resources up and down automatically, including scale-to-zero during idle periods  
+* **Multi-Cloud Support**: Deploy on AWS, Google Cloud Platform, Microsoft Azure, and Akamai Connected Cloud  
+* **Fully Managed or BYOC**: Data remains in the customer's own cloud storage (BYOC) or fully managed by Hydrolix, with no vendor lock-in or data egress
+
+## **Product Offerings**
+
+* **[Product Information](https://hydrolix.io/)**: Main website with complete product offerings and getting started information
+
+### **Managed Services**
+
+* **[TrafficPeak (Akamai)](https://hydrolix.io/partner-program/trafficpeak/)**: White-label observability solution for Akamai Connected Cloud supporting DS2, SIEM, DNS, and multi-CDN logs  
+* **[Powered by Hydrolix Partner Program](https://hydrolix.io/partner-program/)**: Partner program for building and launching data-driven products on top of the Hydrolix platform
+
+### **Self-Managed Software**
+
+* **[BYOC / On-Premises Deployment](https://hydrolix.io/platform/)**: Bring your own cloud or self-managed deployment with full control over infrastructure and configuration; requires Kubernetes and S3-compatible object storage
+
+## **Key Capabilities**
+
+### **Data Processing and Transformation**
+
+* **[Streaming ETL](https://hydrolix.io/features/)**: Real-time data transformation, enrichment, and normalization during ingestion  
+* **Transform Schemas**: Configurable write schemas for indexing, enriching, standardizing, and normalizing incoming data  
+* **ETL on Ingest**: Apply multiple transforms to create multiple tables or transform multiple streams to single tables  
+* **Data Enrichment**: Add valuable context, obfuscate PII, and standardize log formats for improved analytics
+
+### **Integration and Connectivity**
+
+* **[Data Ingestion Sources](https://hydrolix.io/integrations/)**: Apache Kafka, AWS Kinesis, HTTP streaming API, batch uploads, and auto-ingest; full integration list at https://docs.hydrolix.io/docs/integrations  
+* **Visualization Tools**: Pre-configured Grafana dashboards, Redash, Apache Superset, Looker, and Kibana (via Quesma)  
+* **Query Interfaces**: ClickHouse client, DBeaver, JDBC driver, Python library, Splunk integration  
+* **Cloud Platforms**: Amazon Data Firehose, Cloudflare, Cribl, Elastic Common Schema, Fluent Bit, Vector
+
+### **Enterprise Features**
+
+* **[Security and Compliance](https://hydrolix.io/platform/)**: SOC 2 and GDPR compliant, TLS encryption, RBAC with row and column control, audit logging, and VPC deployment  
+* **Role-Based Access Control**: Fine-grained permissions for projects and tables with team-based access management  
+* **API Management**: RESTful JSON API with JWT authentication for programmatic access and automation  
+* **Monitoring and Alerting**: Real-time alerts within seconds of data ingestion with comprehensive system monitoring
+
+## **Proof Points**
+
+### **FOX Sports - 2025 Super Bowl**
+
+* \~200 terabytes of event data ingested and stored during the game  
+* 17.4 GB/second peak data ingest rate (equivalent to 1.4 petabytes/day)  
+* 55 billion high-fidelity records with real-time transformation and compression  
+* 5–10 second time to glass (from event time to analysis)  
+* 16x raw data compression rates (94% reduction)  
+* 55,000 queries over the course of the event  
+* 0.481 second query response time (50th percentile)
+
+## **Pricing and Deployment**
+
+### **Pricing Model**
+
+* **[Usage-Based Pricing](https://hydrolix.io/pricing/)**: Transparent, predictable pricing based on data volume and compute usage  
+* **Cost Calculator**: Online pricing estimator for total cost of ownership assessment  
+* **Multi-Cloud Deployment**: Support for AWS, Azure, GCP, and Akamai Connected Cloud with customer cloud provider discounts
+
+### **Trial and Evaluation**
+
+* **[Get Started](https://hydrolix.io/trial/)**: Start a free trial or proof of concept  
+* **Free Trial**: 7-day free trial available through AWS Marketplace and direct signup  
+* **Proof of Concept**: Two-week sprint-based POC with engineering support and tuning
+
+## **Partner Ecosystem**
+
+### **Channel Partners**
+
+* **Powered by Hydrolix Program**: https://hydrolix.io/partner-program/ - Partner program for building and launching data-driven products  
+* **AWS Partnership**: Go-to-market partnership with AWS Marketplace availability  
+* **Akamai Partnership**: Strategic partnership powering TrafficPeak; named Akamai North America ISV Partner of the Year for 2025  
+* **Technology Integrations**: Splunk, Databricks, Cribl, Elastic ecosystem connectors
+
+### **Support and Services**
+
+* **[Migration Services](https://hydrolix.io/pricing/)**: Professional services for platform migration, customization, and optimization  
+* **Technical Support**: 24/7 technical support with dedicated customer success management
+
+## **Learning Resources**
+
+* **[Resource Center](https://hydrolix.io/resources/)**: One-sheets, white papers, e-books, and technical thought leadership  
+* **[Blog](https://hydrolix.io/blog/)**: Engineering blog, use cases, and product updates  
+* **[Customer Stories](https://hydrolix.io/customer-stories/)**: Real-world implementation case studies
+
+### **Documentation and Guides**
+
+* **[Technical Documentation](https://docs.hydrolix.io/)**: Comprehensive platform documentation with tutorials and integration guides  
+* **[API Documentation](https://docs.hydrolix.io/openapi/)**: Complete REST API documentation with examples
+
+### **Community and Events**
+
+* **[Events](https://hydrolix.io/events/)**: Industry conference participation and meetups  
+* **[Glossary](https://hydrolix.io/glossary)**: Terms related to log data and observability
+
+## **Company Information**
+
+* **[About Hydrolix](https://hydrolix.io/about-us/)**: Company background, leadership team, and corporate values  
+* **[Origin Story](https://hydrolix.io/origin-story/)**: How Hydrolix was founded
+
+### **Leadership and Funding**
+
+* **[Leadership Team](https://hydrolix.io/about-us/)**: Experienced team with backgrounds from Cisco, Akamai, and enterprise software  
+* **Recent Funding**: $80M Series C round in 2025 led by QED Investors with 8x revenue growth  
+* **Global Presence**: Distributed team across 12 time zones with 40%+ international revenue
+
+### **Corporate Information**
+
+* **Founded**: 2018, headquartered in Portland, Oregon  
+* **Customers**: 650+ customers globally across observability, cybersecurity, AI/ML, and real-time analytics use cases  
+* **Mission**: Real-time analytics at true global scale-without compromises on cost, performance, or data fidelity  
+* **[Trust and Compliance](https://trust.hydrolix.io/)**: SOC 2 and ISO 27001 certified; GDPR compliant
+
+Generated at 03/09/2026
+

@@ -1,0 +1,305 @@
+# Project: Smailander
+# Email Honeypot & Security Monitoring Platform
+
+## Overview
+Smailander is an advanced email honeypot and security monitoring platform designed to detect, analyze, and mitigate email-based threats. The platform enables organizations and individuals to deploy honeypot email addresses that collect phishing attempts, spam, malware, and other malicious emails for security research and threat intelligence.
+
+## Purpose & Mission
+- Provide real-time email threat detection and analysis
+- Enable data breach detection through unique honeypot addresses
+- Generate actionable threat intelligence from collected emails
+- Support security research and phishing campaign analysis
+- Help organizations identify compromised data sources
+- Build comprehensive sender and domain reputation databases
+
+## Core Features
+
+### Honeypot Management
+- Create unlimited honeypot email addresses with custom purposes (monitoring, testing, leak detection)
+- Support for multiple domains and custom email patterns
+- Real-time honeypot activity monitoring
+- Honeypot categorization and labeling system
+
+### Threat Detection
+- Advanced phishing detection using pattern recognition
+- Spam identification and classification
+- Malware analysis through ClamAV integration
+- SpamScanner integration for sophisticated filtering
+- Heuristic-based threat scoring
+- Behavioral anomaly detection
+
+### Analytics & Intelligence
+- Real-time dashboard with threat statistics
+- Domain intelligence and reputation tracking
+- SMTP server analysis and geolocation
+- Sender reputation scoring
+- Pattern detection and correlation
+- Threat timeline and trend analysis
+
+### Security Features
+- RESTful API with OpenAPI 3.0 specification
+- API key management and role-based access control
+- Magic link authentication (passwordless)
+- Session management with secure token handling
+- GDPR-compliant data handling
+- Data anonymization and retention policies
+- Audit logging for compliance
+
+### Integrations & Automation
+- Webhook notifications for real-time alerts
+- Custom webhook endpoint configuration with signature verification
+- SIEM integration capabilities
+- Email digest reports (daily, weekly, monthly)
+- PDF and CSV export functionality
+- SMTP analysis with SPF, DKIM, DMARC verification
+
+## Technical Architecture
+
+### Backend Stack
+- **Runtime**: Node.js with TypeScript
+- **API Framework**: Express.js
+- **Database**: PostgreSQL with Prisma ORM
+- **Caching**: Redis for performance optimization
+- **Message Queue**: Bull queue for job processing
+- **Authentication**: JWT tokens with magic links
+
+### Microservices
+- **ClamAV Service**: Malware scanning service
+- **SpamScanner Service**: Advanced spam detection
+- **Worker System**: Background job processing
+- **Email Service**: SMTP handling and processing
+- **Notification Service**: Webhook and alert delivery
+
+### Security Technologies
+- ClamAV: Antivirus and malware scanning
+- SpamScanner: Spam detection and classification
+- TLS/SSL encryption for all communications
+- Secure password hashing with bcrypt
+- Rate limiting and request throttling
+- Input validation and sanitization
+
+### Deployment
+- Docker containerization
+- Docker Compose orchestration
+- Production-ready nginx configuration
+- Support for multiple deployment environments
+- Microservices architecture with service isolation
+
+## Key Use Cases
+
+### 1. Data Breach Detection
+Organizations deploy unique honeypot addresses for each service, vendor, or database. When emails arrive at these addresses, it indicates the associated system has been compromised, enabling immediate incident response.
+
+### 2. Security Research
+Security researchers use Smailander to collect and analyze phishing campaigns, study spam patterns, and identify new malware variants. The platform provides comprehensive data for threat intelligence research.
+
+### 3. Employee Training
+Captured phishing emails and suspicious attachments are used to train employees on identifying and avoiding real threats. Real examples from active campaigns provide practical training material.
+
+### 4. Compliance Monitoring
+Organizations track email communications for GDPR, HIPAA, and other regulatory compliance. The platform generates automated reports with full audit trails and data retention management.
+
+### 5. Threat Intelligence
+Correlation of emails, domains, senders, and IPs helps identify coordinated attacks, threat actors, and malicious infrastructure. Build comprehensive threat databases for proactive defense.
+
+### 6. Anomaly Detection
+Unusual email patterns, volume bursts, and behavioral anomalies trigger automatic alerts, enabling early detection of potential attacks or compromised accounts.
+
+## Data Handling & Privacy
+
+### Data Collection
+- Email content (subject, body, attachments)
+- Email headers and metadata
+- Sender information and IP addresses
+- SMTP server details
+- Timestamps and geographic data
+- User account and authentication data
+
+### GDPR Compliance
+- Legal basis for processing: Legitimate interest (Article 6(1)(f) GDPR)
+- Data minimization principles applied
+- User rights supported: access, rectification, erasure, restriction, portability, objection, consent withdrawal
+- Privacy contact: privacy@smailander.com
+
+### Data Retention
+- Email data: 180 days (6 months) for security monitoring
+- User accounts: Deleted within 30 days of termination
+- Analytics: 365 days (1 year) for platform improvement
+- Backups: 90 days with secure encryption
+- Threat intelligence: Anonymized indefinitely for pattern recognition
+
+### Data Deletion
+- Secure deletion using industry-standard methods
+- Data rendered unrecoverable after retention period
+- Anonymized data may be retained for security research
+- Extended retention only for legal compliance or court orders
+
+## API Capabilities
+
+### RESTful API Endpoints
+- Honeypot creation and management
+- Email listing and filtering
+- Threat intelligence queries
+- Analytics and statistics
+- Webhook configuration
+- API key management
+- User authentication and session handling
+
+### API Features
+- OpenAPI 3.0 specification with Swagger UI
+- API key authentication
+- Role-based access control (RBAC)
+- Rate limiting and request quotas
+- Request/response logging
+- Error handling and validation
+
+## Monitoring & Alerting
+
+### Real-time Monitoring
+- Live email arrival notifications
+- Threat detection alerts
+- System health monitoring
+- Performance metrics tracking
+
+### Alert Types
+- Phishing attempts
+- Malware detection
+- High-volume spam bursts
+- Suspicious domain activity
+- SMTP server anomalies
+- User account events
+
+### Notification Channels
+- Webhooks (custom endpoints)
+- Email digests
+- Dashboard alerts
+- SIEM integrations
+
+## Development Philosophy
+
+### Security First
+- Zero-trust architecture principles
+- Defense in depth strategy
+- Regular security audits and testing
+- Vulnerability scanning and remediation
+- Secure coding practices throughout
+
+### Privacy by Design
+- GDPR compliance built into core architecture
+- Data minimization and purpose limitation
+- Transparent data handling practices
+- User control over personal data
+
+### Scalability
+- Microservices architecture for horizontal scaling
+- Redis caching for performance
+- Database optimization and indexing
+- Load balancing support
+- Cloud-ready deployment
+
+### Open Standards
+- RESTful API with OpenAPI specification
+- Standard security protocols
+- Industry-standard email formats
+- Compliant with email security best practices
+
+## Future Roadmap
+
+### Planned Features
+- Machine learning-powered threat detection
+- Advanced behavioral analysis
+- Integration with threat intelligence feeds
+- Mobile applications
+- Enhanced reporting and analytics
+- Multi-tenant support
+- Enterprise SSO integration
+- Advanced SIEM connectors
+
+### Technology Evolution
+- AI/ML model integration for improved accuracy
+- Real-time threat feed aggregation
+- Automated response capabilities
+- Enhanced email forensics
+- Blockchain-based threat reputation
+
+## Documentation
+
+### Available Resources
+- OpenAPI 3.0 specification
+- Swagger UI for API testing
+- Development guides and tutorials
+- Deployment documentation
+- Security best practices
+- GDPR compliance guide
+
+## Community & Support
+
+### Contact Information
+- General Inquiries: contact@smailander.com
+- Privacy & GDPR: privacy@smailander.com
+- Security Vulnerabilities: security@smailander.com
+
+### License
+- Project source code available under appropriate open-source license
+- Commercial usage and enterprise options available
+
+---
+
+## Platform Statistics
+- 99.9% uptime SLA for enterprise plans
+- <100ms average response time
+- 24/7 monitoring capabilities
+- GDPR compliant infrastructure
+- Multiple deployment options
+
+## Technology Highlights
+
+### Performance
+- Redis caching for sub-millisecond response times
+- Database optimization for high-volume email processing
+- Efficient queue system for background jobs
+- Scalable microservices architecture
+
+### Reliability
+- Docker containerization for consistent deployments
+- Health checks and monitoring
+- Graceful error handling
+- Automatic recovery mechanisms
+
+### Security
+- End-to-end encryption where applicable
+- Secure authentication mechanisms
+- Comprehensive audit logging
+- Regular security updates
+
+---
+
+## Additional Notes
+
+### Honeypot Strategy
+Effective honeypot deployment requires strategic email address creation:
+- Use realistic email patterns for each service/vendor
+- Deploy honeypots across multiple domains
+- Monitor and categorize by purpose (leak detection, monitoring, testing)
+- Regularly update and rotate honeypot addresses
+- Analyze patterns for threat actor identification
+
+### Threat Intelligence Value
+Collected data provides actionable intelligence:
+- Identify compromised databases or services
+- Track phishing campaign evolution
+- Build sender and domain blocklists
+- Correlate attacks across multiple organizations
+- Inform security posture and defenses
+
+### Operational Best Practices
+- Regular review and analysis of collected emails
+- Update detection rules based on new threats
+- Share threat intelligence with security teams
+- Integrate with existing security infrastructure
+- Maintain compliance with data protection regulations
+
+---
+
+# Contact: apple.amsterdam@smailander.com
+# Note: This email address serves as a project honeypot and may be monitored for research purposes

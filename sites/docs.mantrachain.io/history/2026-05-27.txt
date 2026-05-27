@@ -1,0 +1,93 @@
+# MANTRA Chain Documentation
+
+> MANTRA Chain: An EVM-compatible Layer 1 Blockchain for RWAs, capable of adherence to real world regulatory requirements.
+
+## Documentation
+
+- [How to Connect Wallets to Mainnet](https://docs.mantrachain.io/how-to-connect-wallets-to-mainnet)
+- [How to Connect Wallets to Testnet](https://docs.mantrachain.io/how-to-connect-wallets-to-testnet)
+- [How to Move MANTRA Between the EVM and Cosmos VM](https://docs.mantrachain.io/how-to-move-mantra-between-the-evm-and-cosmos-vm): Use move.mantrachain.io to move MANTRA between your Cosmos wallet and EVM wallet on MANTRA Chain.
+- [How to Setup Your Keplr Wallet](https://docs.mantrachain.io/how-to-setup-your-keplr-wallet)
+- [How to Stake MANTRA](https://docs.mantrachain.io/how-to-stake-mantra): Learn how to stake your MANTRA tokens and earn rewards on MANTRA Chain
+- [Getting Started](https://docs.mantrachain.io/)
+- [Inflation and Vesting Schedule](https://docs.mantrachain.io/mantra-chain-tokenomics)
+- [MANTRA Token Background](https://docs.mantrachain.io/mantra-token-background)
+- [MANTRA Tokenomics](https://docs.mantrachain.io/mantra-tokenomics)
+- [Build on MANTRA Chain](https://docs.mantrachain.io/developers/overview): Welcome to MANTRA Chain development. Build EVM-compatible smart contracts and dApps.
+- [Canonical ERC-20 Contracts](https://docs.mantrachain.io/resources/canonical-token-contracts): MANTRA Chain source of truth for which ERC-20 contracts should be trusted for major tokens.
+- [Chain Parameters](https://docs.mantrachain.io/resources/chain-parameters): MANTRA Chain parameters and configurations
+- [Chain Registry](https://docs.mantrachain.io/resources/chain-registry): Information about MANTRA Chain in the Cosmos Chain Registry
+- [EVM Precompiles](https://docs.mantrachain.io/resources/evm-precompiles): Precompiled contracts available in the MANTRA Chain EVM
+- [IBC Denominations](https://docs.mantrachain.io/resources/ibc-denoms): IBC token denominations available on MANTRA Chain
+- [Network Details](https://docs.mantrachain.io/resources/network-details): MANTRA Chain network details, public endpoints, and configurations
+- [Peers](https://docs.mantrachain.io/resources/peers): Seed nodes and persistent peers for connecting to MANTRA Chain networks
+- [Safe Multisigs](https://docs.mantrachain.io/resources/safe-multisig): Create and manage Safe multisig accounts on MANTRA Chain
+- [TokenFactory Denoms](https://docs.mantrachain.io/resources/tokenfactory-denoms): TokenFactory-created denominations available on MANTRA Chain
+- [Address Conversion](https://docs.mantrachain.io/developers/evm/address-conversion): Convert between Bech32 and EVM address formats on MANTRA Chain
+- [Deploy a Smart Contract on MANTRA Chain](https://docs.mantrachain.io/developers/evm/deploy-smart-contract): Learn how to deploy your first smart contract on MANTRA Chain using standard EVM tools
+- [Deploying Contracts](https://docs.mantrachain.io/developers/evm/deploying-contracts): Quick reference for deploying smart contracts on MANTRA Chain
+- [Getting Started with EVM](https://docs.mantrachain.io/developers/evm/getting-started): Get started building and deploying EVM smart contracts on MANTRA Chain
+- [Using Foundry](https://docs.mantrachain.io/developers/evm/using-foundry): Deploy and test smart contracts on MANTRA Chain using Foundry
+- [Using Hardhat](https://docs.mantrachain.io/developers/evm/using-hardhat): Deploy and test smart contracts on MANTRA Chain using Hardhat
+- [Using Precompiles](https://docs.mantrachain.io/developers/evm/using-precompiles): Practical guide to using precompiles in EVM contracts
+- [Verifying Contracts](https://docs.mantrachain.io/developers/evm/verifying-contracts): Verify your smart contracts on MANTRA Chain block explorers
+- [Testnet Faucet](https://docs.mantrachain.io/developers/getting-started/testnet-faucet): Get testnet tokens for development on MANTRA Chain
+- [SDKs & Libraries](https://docs.mantrachain.io/developers/reference/sdks-libraries): Software development kits and libraries for building on MANTRA Chain
+- [Address Derivation](https://docs.mantrachain.io/developers/architecture/address-derivation): Address derivation, coin types, and wallet compatibility
+- [Cosmos Precompiles](https://docs.mantrachain.io/developers/architecture/cosmos-precompiles): How EVM communicates with Cosmos SDK modules through precompiles
+- [Cosmos SDK Integration](https://docs.mantrachain.io/developers/architecture/cosmos-sdk-integration): Cosmos SDK modules and custom MANTRA modules
+- [ERC-20 Tokens](https://docs.mantrachain.io/developers/architecture/erc20-tokens): Two ways to create ERC-20 tokens on MANTRA Chain
+- [EVM Compatibility](https://docs.mantrachain.io/developers/architecture/evm-compatibility): Full EVM compatibility with all opcodes and precompiles
+- [EVM Module](https://docs.mantrachain.io/developers/architecture/evm-module): EVM module implementation and integration details
+- [Interoperability](https://docs.mantrachain.io/developers/architecture/interoperability): Cross-chain communication and bridge architecture
+- [Architecture Overview](https://docs.mantrachain.io/developers/architecture/overview): Technical deep dive into MANTRA Chain's architecture
+- [Transaction Sequencing](https://docs.mantrachain.io/developers/architecture/transaction-sequencing): How EVM transactions are sequenced on MANTRA Chain
+- [Hyperlane](https://docs.mantrachain.io/resources/bridging/hyperlane): Lock & mint bridging - recommended for larger transfers and market makers
+- [IBC (Cosmos → MANTRA)](https://docs.mantrachain.io/resources/bridging/ibc): Bridge from any Cosmos chain into MANTRA Chain via IBC
+- [Lucid](https://docs.mantrachain.io/resources/bridging/lucid): General-purpose bridging into MANTRA Chain via Lucid Labs
+- [mantraUSD Bridge](https://docs.mantrachain.io/resources/bridging/mantrausd): Move USDC from EVM chains to mantraUSD on MANTRA Chain
+- [Bridging Overview](https://docs.mantrachain.io/resources/bridging/overview): Choose the right bridge to move assets into MANTRA Chain
+- [Squid](https://docs.mantrachain.io/resources/bridging/squid): Liquidity-based bridging — fast, convenient transfers into MANTRA Chain
+- [Mainnet Contracts](https://docs.mantrachain.io/resources/contracts/mainnet): Deployed protocol contract addresses for MANTRA mainnet (mantra-1)
+- [Claimdrop V1](https://docs.mantrachain.io/resources/contracts/mantra-claimdrop-v1): Merkle-proof based token distribution contract
+- [Claimdrop V2](https://docs.mantrachain.io/resources/contracts/mantra-claimdrop-v2): Batch allocations + authorized wallets (allowlist) token distribution contract
+- [MANTRA Claimdrop](https://docs.mantrachain.io/resources/contracts/mantra-claimdrop): Claimdrop contract overview and references
+- [MANTRA Dex](https://docs.mantrachain.io/resources/contracts/mantra-dex)
+- [SEDA Price Feeds](https://docs.mantrachain.io/resources/contracts/seda-price-feeds): On-chain price feeds for MANTRA Chain via the SEDA FAST relayer (SedaPriceStore)
+- [Testnet Contracts](https://docs.mantrachain.io/resources/contracts/testnet): Deployed protocol contract addresses for MANTRA Dukong testnet (mantra-dukong-1)
+- [Goldsky](https://docs.mantrachain.io/resources/indexing/goldsky): Index MANTRA data with instant, queryable GraphQL APIs
+- [Getting Started](https://docs.mantrachain.io/operators/overview/getting-started): Get started as an operator on MANTRA Chain
+- [What are Validator Nodes?](https://docs.mantrachain.io/operators/overview/what-are-validator-nodes): >-
+- [Deploying Frontend](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/deploying-frontend): Hosting options for your dApp frontend
+- [Deployment](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/deployment): Deploying your smart contracts to the Dukong Testnet
+- [Frontend dApp](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/frontend-dapp): Building the frontend with RainbowKit and interacting with your contracts
+- [Introduction](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/introduction): Welcome to the MANTRA Zero to Hero dApp Development Guide
+- [Project Setup](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/project-setup): Setting up your development environment for building dApps on MANTRA Chain
+- [Smart Contracts](https://docs.mantrachain.io/developers/tutorials/zero-to-hero-dapp/smart-contracts): Building and testing your Solidity smart contracts
+- [Epoch Manager](https://docs.mantrachain.io/resources/contracts/mantra-dex/epoch-manager): Epoch clock contract used by MANTRA DEX (MANTRA Swap)
+- [Farm Manager](https://docs.mantrachain.io/resources/contracts/mantra-dex/farm-manager): Farms, positions, and reward distribution for MANTRA DEX (MANTRA Swap)
+- [Fee Collector](https://docs.mantrachain.io/resources/contracts/mantra-dex/fee-collector): Protocol fee collection for MANTRA DEX (MANTRA Swap)
+- [Pool Manager](https://docs.mantrachain.io/resources/contracts/mantra-dex/pool-manager): Liquidity pools, swaps, and routing for MANTRA DEX (MANTRA Swap)
+- [Cancel Software Upgrade](https://docs.mantrachain.io/operators/governance/draft-a-proposal/cancel-software-upgrade): The cancel software upgrade proposal attempts to roll back or prevent from initiating a previously accepted software upgrade proposal.
+- [Community Spend Proposal](https://docs.mantrachain.io/operators/governance/draft-a-proposal/community-spend-proposal): The Community Pool Spend proposal is a special type of proposal that allows the community to collectively vote on how funds are spent from the community pool.
+- [Draft A Proposal](https://docs.mantrachain.io/operators/governance/draft-a-proposal/draft-a-proposal): Prior to sending the transaction that submits your proposal on-chain, you must create a set of JSON files. These file will contain the information that will be stored on-chain as the governance proposal.
+- [Software Upgrade](https://docs.mantrachain.io/operators/governance/draft-a-proposal/software-upgrade): The software upgrade proposal allows the community to vote on the acceptance, or not, of an update the `mantrachaind` binary. This upgrade could be for whatever reason, as specified by the MANTRA Chain Developers / Maintainers.
+- [Text Proposal](https://docs.mantrachain.io/operators/governance/draft-a-proposal/text-proposal): Text proposals are used by delegators to agree to a certain strategy, plan, commitment, future upgrade, or any other statement in the form of text. Aside from having a record of the proposal outcome on the MANTRA Chain, a text proposal has no direct effect on the change MANTRA Chain.
+- [Depositing Funds](https://docs.mantrachain.io/operators/governance/execute-proposal/depositing-funds): Sometimes a proposal is submitted without having the minimum token amount deposited yet. In these cases you would want to be able to deposit more tokens to get the proposal into the voting stage. In order to deposit tokens, you'll need to know what your proposal ID is after you've submitted your proposal. You can query all proposals by the following command:
+- [Submitting A Proposal](https://docs.mantrachain.io/operators/governance/execute-proposal/submitting-a-proposal): Submit a proposal using the `mantrachaind tx gov submit-proposal` command.
+- [Verifying your transaction](https://docs.mantrachain.io/operators/governance/execute-proposal/verifying-your-transaction): How to verify a governance transaction via mantrachaind or Mintscan.
+- [Voting On A Proposal](https://docs.mantrachain.io/operators/governance/execute-proposal/voting-on-a-proposal): ---
+- [Becoming A Validator](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/becoming-a-validator): Before creating a validator, ensure you have first followed the instructions on how to [Setup & Run a Node](/operators/node-setup-and-deployment/validator-nodes/running-a-node).
+- [Configuring Mantrachain with Systemd](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/configuring-mantrachain): ---
+- [Connect sidecar](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/connect-sidecar): Run the Connect sidecar and wire it into your validator's oracle configuration
+- [Download Nodes Snapshots](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/download-nodes-snapshots): On this page, you can find links to download pre-built nodes with blockchain history included, which will save you time when setting up your node.
+- [Node Setup & Deployment](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/initial-setup): ---
+- [Connect sidecar](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/oracle-setup): Please find the connect binary or image based on your deployment preference
+- [configure minimum gas prices](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/running-a-node): ---
+- [Secure Validator](https://docs.mantrachain.io/operators/node-setup-and-deployment/validator-nodes/secure-validator): Validators are charged with protecting the network against denial-of-service attacks. A recommended strategy is to use a 'sentry node architecture.'
+
+## Links
+
+- [GitHub](https://github.com/MANTRA-Chain)
+- [Discord](https://discord.com/invite/mantrachain)
+- [Support](https://status.mantrachain.io/)

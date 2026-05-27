@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "domain": "bananai.net",
+  "display_name": "Lumiet",
+  "category": "ai-platform",
+  "verified_url": "https://lumiet.net/llms.txt",
+  "fetched_at": "2026-05-27T05:31:27Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 8291,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 56,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 12,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 6,
+      "reasons": [
+        "redirect_chain"
+      ]
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 8.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Lumiet",
+    "h1_count": 1,
+    "blockquote": "Chat-based AI image generator with 4K output and accurate text rendering. No prompt engineering needed — describe what you want, refine through conversation, and download production-ready images. Four models in one chat: Nano Banana (fast drafts), Nano Banana 2 (pro-quality at flash speed), Nano Banana Pro (4K with text), and Flux Fast (ultra-low-cost).",
+    "section_count": 10,
+    "subsection_count": 0,
+    "link_count": 32,
+    "value_link_count": 21,
+    "low_value_link_count": 11,
+    "raw_bytes": 8291
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

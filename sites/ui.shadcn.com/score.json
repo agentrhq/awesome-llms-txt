@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "domain": "ui.shadcn.com",
+  "display_name": "shadcn/ui",
+  "category": "dev-tools",
+  "verified_url": "https://ui.shadcn.com/llms.txt",
+  "fetched_at": "2026-05-27T05:00:22Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 12076,
+  "last_modified": "Wed, 27 May 2026 05:43:15 GMT",
+  "freshness_age_days": 0,
+  "score": 70,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 14,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 11.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "shadcn/ui",
+    "h1_count": 1,
+    "blockquote": "shadcn/ui is a collection of beautifully-designed, accessible components and a code distribution platform. It is built with TypeScript, Tailwind CSS, and Radix UI primitives. It supports multiple frameworks including Next.js, Vite, Remix, Astro, and more. Open Source. Open Code. AI-Ready. It also comes with a command-line tool to install and manage components and a registry system to publish and distribute code.",
+    "section_count": 9,
+    "subsection_count": 7,
+    "link_count": 110,
+    "value_link_count": 110,
+    "low_value_link_count": 0,
+    "raw_bytes": 12076
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,70 @@
+# Frigade
+
+> Frigade is an AI agent that learns your product by actually using it, then guides your users through real workflows inside your app. Unlike tools that rely on help docs or pre-built flows, Frigade autonomously navigates your product to understand how features connect, where users get stuck, and how to walk them through tasks step-by-step. It handles onboarding, in-app support, feature adoption, and user research in one platform.
+
+Frigade is used by product, growth, and support teams at B2B SaaS companies including Productboard, Merge, Arc, Sanity, Valley, Orb, and 200+ other product-led organizations. It is SOC 2 Type II and GDPR compliant.
+
+## How It Works
+
+Frigade deploys as a lightweight snippet in your application. Once installed, the AI agent uses your product like a real user to learn how it works. There are no workflows to configure, no decision trees to build, and no documentation to write. The agent stays current as your product changes, so guidance never goes stale.
+
+Key capabilities:
+- Guides users through multi-step tasks inside the product UI
+- Takes actions on behalf of users (form fills, navigation, feature activation)
+- Detects where users get stuck and proactively offers help
+- Hands off to human support when needed
+- Provides insights on user behavior and friction points
+- Supports theming and full white-label customization
+
+Setup takes minutes, not weeks. Frigade installs like adding a user to your product.
+
+## Use Cases
+
+- **Onboarding and activation**: Personalized onboarding journeys from day one. Accelerate time-to-value with guided flows tailored to each user.
+- **Customer support**: Resolve common support questions with step-by-step guidance inside the product. Reduce ticket volume without scaling headcount.
+- **Feature adoption**: Surface underused features at the right moment with contextual nudges and walkthroughs.
+- **Product marketing**: Deliver in-app announcements, banners, and promotions without code changes.
+- **User research**: Collect feedback through in-app surveys and forms integrated into natural workflows.
+- **Revenue expansion**: Convert free users to paid with targeted in-app messaging and trial-to-paid flows.
+
+## Pricing
+
+- **Free**: Live demo access, no setup required
+- **Growth**: Starting at $1,000/mo. Includes 5 seats, 2 agents, 2,500 queries with volume discounts.
+- **Enterprise**: Custom pricing. Unlimited agents, SSO, EU data residency, self-hosting, custom DPA, and dedicated support.
+
+## Integrations
+
+Frigade connects to the tools your team already uses:
+- **Analytics**: PostHog, Amplitude, Segment, Mixpanel, Heap, Rudderstack, Google Analytics
+- **CRM and help desk**: HubSpot, Salesforce, Intercom, Zendesk, Pylon, Freshdesk, Front, Help Scout
+- **Communication**: Slack, Microsoft Teams, Discord
+- **Developer docs**: Mintlify, ReadMe, GitBook, Notion
+- **Custom**: REST API, JavaScript SDK, React SDK, Mobile SDK (Enterprise), webhooks
+
+## Security and Compliance
+
+SOC 2 Type II certified. GDPR compliant. Enterprise plans include SAML 2.0 SSO, EU data residency, self-hosting options, and custom data processing agreements. 99.9% uptime guarantee.
+
+## Frigade vs. Frigade Engage
+
+Frigade and Frigade Engage are two separate products built by the same team. Frigade is an AI agent that autonomously learns your product and guides users through real workflows with no manual configuration. Frigade Engage is a developer-first adoption platform with drop-in React UI components for building onboarding flows, tours, checklists, and surveys. Engage gives engineering teams full control over the implementation. Frigade AI requires no workflow building at all. Companies choose one or both depending on whether they want code-level control (Engage) or autonomous AI guidance (Frigade). Learn more about Frigade Engage at https://frigade.com/engage.
+
+This domain (docs.frigade.com) is the developer documentation for Frigade Engage (NOT the Frigade AI product)
+
+## Company
+
+Frigade was founded by Eric Brownrout and Christian Mathiesen and is based in San Francisco. The company is backed by Y Combinator, Craft Ventures, General Catalyst, Defy.vc, and Magic Fund, with angel investors including Guillermo Rauch (Vercel), Arash Ferdowsi (Dropbox), and Jean-Denis Greze (Plaid).
+
+## Pages
+
+- [Homepage](https://frigade.com): Product overview, core value proposition, and customer testimonials
+- [How It Works](https://frigade.com/how-it-works): Technical explanation of Frigade's autonomous learning approach
+- [Pricing](https://frigade.com/pricing): Plan comparison with feature matrix
+- [About](https://frigade.com/about): Team, investors, and company mission
+- [Product Updates](https://frigade.com/updates): Latest features and improvements
+- [Valley Case Study](https://frigade.com/case-studies/valley): How Valley reduced support tickets 35% and reached time-to-value 3x faster
+
+## Optional
+
+- [Product Updates](https://frigade.com/updates): Latest features, integrations, and product improvements

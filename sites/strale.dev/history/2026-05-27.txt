@@ -1,0 +1,131 @@
+# Strale
+
+> The trust layer of the agent economy. Independently quality-scored API capabilities for AI agents.
+
+Strale is a capability marketplace for AI agents. It provides compliance checks, company data, payment validation, regulatory intelligence, and developer tools — all with transparent per-call pricing and quality scores. For live capability and country counts see https://api.strale.io/v1/platform/facts; the dynamic version of this file lives at https://api.strale.io/llms.txt.
+
+## x402 Pay-Per-Use (recommended for agents)
+
+All capabilities are available via x402 — the HTTP-native payment protocol. Pay per request with USDC on Base mainnet. No signup, no API key needed.
+
+- Catalog: GET https://api.strale.io/x402/catalog
+- Discovery: GET https://api.strale.io/.well-known/x402.json
+- Protocol: USDC on Base mainnet (eip155:8453)
+- Pricing: $0.005 to $0.10 per call depending on capability
+
+Example:
+  GET https://api.strale.io/x402/sanctions-check?name=John+Doe
+  → HTTP 402 with paymentRequirements (USDC, $0.02)
+  → Retry with X-Payment header containing signed USDC transfer
+  → HTTP 200 with sanctions screening result
+
+## API Key Access (for developers)
+
+- Base URL: https://api.strale.io/v1
+- Execution: POST /v1/do
+- Auth: Bearer token (sign up at strale.dev)
+- Pricing: EUR wallet, prepaid via Stripe
+- Trial: €2.00 free credits, no card required
+
+### Request structure
+
+POST /v1/do request body:
+
+```
+{
+  "capability_slug": "iban-validate",   // Required: the capability to call
+  "inputs": {                            // Required: capability-specific input fields
+    "iban": "DE89370400440532013000"
+  },
+  "max_price_cents": 100                 // Optional: budget cap, in EUR cents
+}
+```
+
+Headers: `Authorization: Bearer <api_key>`, `Content-Type: application/json`, optional `Idempotency-Key`.
+
+The `inputs` field is plural (not `input`) and wraps capability-specific fields. Top-level fields like `email` are rejected — wrap them inside `inputs`.
+
+### Response structure
+
+POST /v1/do returns a two-tier response:
+
+```
+{
+  "result": {                    // What you asked for
+    "transaction_id": "...",
+    "status": "completed",
+    "capability_used": "iban-validate",
+    "output": { ... },           // The actual capability result
+    "provenance": { "source": "...", "fetched_at": "..." },
+    "price_cents": 0,
+    "latency_ms": 8
+  },
+  "meta": {                      // Trust layer metadata
+    "quality": { "sqs": 85, "label": "Good", ... },
+    "execution_guidance": { "usable": true, "strategy": "direct" },
+    "audit": { ... }             // EU AI Act compliant audit trail
+  }
+}
+```
+
+Free-tier responses also include `free_tier`, `usage`, and `upgrade` at the top level.
+Error responses are flat: `error_code` + `message` + `details`.
+
+## MCP Server
+
+- npm: strale-mcp (stdio transport)
+- HTTP transport: POST https://api.strale.io/mcp (Authorization: Bearer)
+- Config: claude mcp add --transport http strale https://api.strale.io/mcp --header "Authorization: Bearer YOUR_KEY"
+- Works with Claude Desktop, Claude Code, ChatGPT, Cursor, Windsurf, VS Code Copilot, and any MCP client
+- Full setup guides for every supported client: https://strale.dev/integrations
+
+## Agent Framework SDKs
+
+- TypeScript / Node: `npm install straleio`
+- Python: `pip install straleio`
+- LangChain: `pip install langchain-strale`
+- CrewAI: `pip install crewai-strale`
+- Semantic Kernel: `npm install strale-semantic-kernel`
+- All five toolkits expose every Strale capability with typed input schemas, pricing, and SQS in tool descriptions.
+
+## A2A Protocol
+
+- Agent Card: GET https://api.strale.io/.well-known/agent-card.json
+- Task endpoint: POST https://api.strale.io/a2a
+
+## Capability categories
+
+- Company data: Business registry lookups across the supported country set
+- Compliance & KYC: Sanctions screening, PEP checks, adverse media, beneficial ownership, AML risk scoring
+- Financial validation: IBAN validation, VAT verification (VIES), BIC/SWIFT lookup, exchange rates, invoice validation
+- Regulatory intelligence: EU AI Act classification, GDPR website audits, data protection authority lookup
+- Web intelligence: Domain reputation, WHOIS, SSL checks, tech stack detection
+- Developer tools: Code conversion, API generation, schema validation
+- Data processing: PII redaction, translation, summarization
+- Media: C2PA Content Credentials inspection, AI-generation detection, manifest verification
+
+## Bundled solutions
+
+100 multi-capability workflows including:
+- Nordic KYC (Sweden, Norway, Denmark, Finland)
+- Web3 Counterparty KYB
+- DeFi Risk Check
+- B2B Payment Validation
+- GDPR Compliance Audit
+- Token Project Due Diligence
+- Full list: GET https://api.strale.io/v1/solutions
+
+## Quality
+
+Every capability has a dual-profile Strale Quality Score (SQS) with grades A through E, updated continuously via automated test suites.
+
+## Links
+
+- Website: https://strale.dev
+- API docs: https://strale.dev/docs
+- Integrations (all clients + SDKs): https://strale.dev/integrations
+- x402 catalog: https://api.strale.io/x402/catalog
+- MCP server (stdio): https://www.npmjs.com/package/strale-mcp
+- MCP server (HTTP): https://api.strale.io/mcp
+- Agent Card: https://api.strale.io/.well-known/agent-card.json
+- Contact: hello@strale.io

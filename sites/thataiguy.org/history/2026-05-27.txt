@@ -1,0 +1,111 @@
+# That AI Guy
+
+> Hand coded AI integrations, SaaS development, custom software, and 14 tier engine optimization for small business. Service Disabled Veteran Owned Small Business operated by Joseph W. Anady from Cassville, Missouri. Serving Northwest Arkansas, Southwest Missouri, and Northeast Oklahoma with deliberate regional reach across the three state region. Federal SDVOSB nationwide via SAM.gov, eligible for federal, state, and tribal contracting. 130 plus production sites shipped since 2020 across 18 plus US states. Operator of MEGAMIND, a federated neural network on Apple Silicon.
+
+That AI Guy is a one engineer studio. Same engineer scopes the work, builds it, and supports it after launch. Pricing is fixed and visible up front. SAM.gov registered prime contractor for federal SDVOSB set asides.
+
+## Pillars
+
+- [Websites](https://thataiguy.org/pillars/websites/): Hand coded HTML, CSS, JavaScript. Schema first. Six tiers from $597 to $2,997.
+- [Custom software](https://thataiguy.org/pillars/software/): Internal tools, dashboards, integrations, APIs, automations.
+- [SaaS](https://thataiguy.org/pillars/saas/): MVP through scale. Auth, billing, multi tenant, AI native, observability. From $4,997.
+- [Engine optimization](https://thataiguy.org/pillars/growth/): 14 tier framework, 112 optimizations across SEO, AEO, AIO, GEO.
+
+## Use cases
+
+- [Tax and accounting](https://thataiguy.org/use-cases/tax-and-accounting/): CPA firms, ITIN, S corp, audit defense. Real client: Handled Tax and Advisory.
+- [Real estate](https://thataiguy.org/use-cases/real-estate/): MLS pipelines, CMAs, neighborhood guides. Real client: Local Living Realty NWA.
+- [Construction](https://thataiguy.org/use-cases/construction/): Trade contractors, quote pipelines, customer portals. Real client: Heritage Hardwood Floors.
+- [Hospitality](https://thataiguy.org/use-cases/hospitality/): Vacation rentals, lodges, direct booking. Real client: White River Cabins.
+- [Combat sports](https://thataiguy.org/use-cases/combat-sports/): MMA gyms, jiu jitsu, member portals. Real client: TCB Fight Factory.
+- [Medical](https://thataiguy.org/use-cases/medical/): Specialist clinics, HIPAA aware intake. Real client: NW AR Infectious Disease (nwaids.com).
+- [Insurance](https://thataiguy.org/use-cases/insurance/): Multi state agencies, policy RAG, agent CRM. Real client: WeCoverUSA.
+- [E commerce](https://thataiguy.org/use-cases/ecommerce/): Single brand and dual brand storefronts. Real client: Eureka Bath Works.
+
+## AI capabilities
+
+- [Chatbots](https://thataiguy.org/ai/chatbots/): Custom site chatbots, RAG over published content. From $1,997.
+- [Knowledge bases](https://thataiguy.org/ai/knowledge-bases/): RAG over private documents. From $2,497.
+- [Workflow automation](https://thataiguy.org/ai/workflow-automation/): Lead routing, document intake, comms. From $1,997.
+- [Voice and audio](https://thataiguy.org/ai/voice-and-audio/): Real time AI phone agents. From $2,497.
+- [Vision and OCR](https://thataiguy.org/ai/vision-and-ocr/): Document intake to structured data. From $1,997.
+- [Custom model training](https://thataiguy.org/ai/custom-model-training/): Fine tuning, domain embeddings, private deploy. From $2,997.
+
+## Pricing
+
+- [All pricing](https://thataiguy.org/pricing/): Six build tiers, three monthly retainers, full overview.
+- [Starter $597](https://thataiguy.org/pricing/starter/): 5 page hand coded, schema first, free audit.
+- [Standard $997](https://thataiguy.org/pricing/standard/): 12 pages, blog, full AEO, GBP, GA4.
+- [Professional $1,497](https://thataiguy.org/pricing/professional/): 20 pages plus one AI integration, custom design.
+- [Architecture $1,997](https://thataiguy.org/pricing/architecture/): 30 pages, multi audience IA, two AI integrations.
+- [Business OS $2,497](https://thataiguy.org/pricing/business-os/): Public site plus admin layer, three AI integrations.
+- [Enterprise $2,997](https://thataiguy.org/pricing/enterprise/): SDVOSB delivered, NIST 800 53, federal ready.
+- [Essential retainer $250 monthly](https://thataiguy.org/pricing/monthly/essential/): Hosting plus security baseline.
+- [Full Visibility Stack $397 monthly](https://thataiguy.org/pricing/monthly/full-visibility/): Active SEO and AEO.
+- [Growth Engine $500 monthly](https://thataiguy.org/pricing/monthly/growth/): Active content velocity, 2 posts per month.
+
+## 14 Tier Engine Optimization Framework
+
+- [Framework overview](https://thataiguy.org/engine-optimization/): All 14 tiers, comparison table, recommended ladder. Bundle $11,997 plus $2,997 monthly.
+- [Tier 1 Foundation](https://thataiguy.org/engine-optimization/tier-1-foundation/): Technical SEO, structured data, Core Web Vitals. $797 plus $150 monthly.
+- [Tier 2 Search Visibility](https://thataiguy.org/engine-optimization/tier-2-search-visibility/): Keyword clusters, content briefs. $797 plus $200.
+- [Tier 3 AI Domination](https://thataiguy.org/engine-optimization/tier-3-ai-domination/): AEO, GEO, LLM, AI Overviews. $1,497 plus $375.
+- [Tier 4 Entity and Authority](https://thataiguy.org/engine-optimization/tier-4-entity-and-authority/): $597 plus $175.
+- [Tier 5 Local Domination](https://thataiguy.org/engine-optimization/tier-5-local-domination/): $697 plus $175.
+- [Tier 6 Content Optimization](https://thataiguy.org/engine-optimization/tier-6-content-optimization/): $697 plus $200.
+- [Tier 7 Social and Brand](https://thataiguy.org/engine-optimization/tier-7-social-and-brand/): $797 plus $250.
+- [Tier 8 Analytics and Conversion](https://thataiguy.org/engine-optimization/tier-8-analytics-and-conversion/): $1,197 plus $350.
+- [Tier 9 Monitoring](https://thataiguy.org/engine-optimization/tier-9-monitoring/): $497 plus $150.
+- [Tier 10 Workflow and Operations](https://thataiguy.org/engine-optimization/tier-10-workflow-and-operations/): $597 plus $175.
+- [Tier 11 Marketplace and Retail](https://thataiguy.org/engine-optimization/tier-11-marketplace-and-retail/): $597 plus $175.
+- [Tier 12 International](https://thataiguy.org/engine-optimization/tier-12-international/): $997 plus $250.
+- [Tier 13 Voice and Conversational](https://thataiguy.org/engine-optimization/tier-13-voice-and-conversational/): $897 plus $275.
+- [Tier 14 Advanced and Immersive](https://thataiguy.org/engine-optimization/tier-14-advanced-and-immersive/): $2,497 plus $600.
+
+## Compare
+
+- [vs traditional agency](https://thataiguy.org/compare/vs-agency/): One engineer studio versus a multi person team with PMs.
+- [vs freelance marketplaces](https://thataiguy.org/compare/vs-freelance/): Versus Upwork, Fiverr, Toptal. Different price floor, different scope.
+- [vs no code platforms](https://thataiguy.org/compare/vs-no-code/): Versus Wix, Squarespace, Webflow. Self managed versus engineer managed.
+
+## Process
+
+- [5 phase process](https://thataiguy.org/process/): Discover, Derive, Design and Demo, Build, Deploy. Free 48 hour audit always comes first.
+
+## Infrastructure
+
+- [Bubbles fleet](https://thataiguy.org/infrastructure/): Three node LAN cluster plus Apple Silicon for AI inference. Debian, Nginx, FastAPI, BIND9, Tailscale, NATS messaging.
+
+## About
+
+- [Joseph W. Anady](https://thataiguy.org/about/joseph-anady/): Founder, BA Computer Engineering, MA Cybersecurity, 100 percent disabled veteran, SDVOSB, SAM.gov registered. Wikidata Q138610626.
+- [MEGAMIND](https://thataiguy.org/megamind/): Federated neural network research property on Apple Silicon. Wikidata Q138610666.
+
+## Case studies
+
+- [Case studies index](https://thataiguy.org/case-studies/): Curated client work across eight industries with links to live sites.
+
+## Blog
+
+- [Blog index](https://thataiguy.org/blog/): Founder essays on hand coded sites, AI integrations, engine optimization.
+- [Why thataiguy.org is now multi page](https://thataiguy.org/blog/why-thataiguy-is-now-multi-page/): The technical and commercial reasons behind the multi page rebuild.
+
+## FAQ
+
+- [Consolidated FAQ](https://thataiguy.org/faq/): Pricing, process, AI, SaaS, SDVOSB, stack questions.
+
+## Contact
+
+- Email: admin@thatdeveloperguy.com
+- Phone: +1 (505) 512 3662
+- Address: 463 State Highway 76, Cassville, MO 65625
+- Hours: Monday to Saturday, 8 AM to 8 PM Central
+- Free written audit delivered within 48 hours of discovery call.
+
+## Machine readable
+
+- [brand.json](https://thataiguy.org/brand.json)
+- [keywords.json](https://thataiguy.org/keywords.json)
+- [aeo.json](https://thataiguy.org/aeo.json)
+- [llms-full.txt](https://thataiguy.org/llms-full.txt)
+- [sitemap.xml](https://thataiguy.org/sitemap.xml)

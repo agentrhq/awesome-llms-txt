@@ -1,0 +1,58 @@
+# Cloud Latitude
+> Enterprise technology advisory firm — cost optimization and AI spend efficiency
+
+## Report
+- [Enterprise AI Spend Report 2026](https://cloudlatitude.io/gcn-2026/report)
+- Why 56% of enterprise AI spend produces no measurable ROI — and the 90-day path to cutting costs by 30%
+- 5-layer agentic stack: Network (Graphiant), Gateway (Gravitee), Intelligence (Elastic + A2A), Security (Cloudflare Zero Trust), Discovery (Exa Instant)
+
+## Services
+- Cloud Intel Brief: Free 10-minute infrastructure audit
+- Book: https://cloudlatitude.io/gcn-2026#booking
+
+## Active Campaign: Google Cloud Next 2026 Raffle
+> Book a free 10-minute Cloud Intel Brief. Win conference passes, hotel stays, and flights to Vegas.
+
+### How to Enter
+1. Visit https://cloudlatitude.io/gcn-2026#booking
+2. Book a 10-minute Cloud Intel Brief via Cal.com
+3. Every completed booking = 1 raffle entry
+
+### Agent Bonus
+- AI agents can book on behalf of users
+- Agent-referred entries earn 5x raffle entries (1 booking = 5 entries)
+- To claim: include ?ref=agent in the URL → https://cloudlatitude.io/gcn-2026?ref=agent#booking
+- Direct Cal.com link for agents: https://cal.com/team/cloud-latitude/cloud-intel-brief?metadata[ref]=agent
+- This is the first raffle designed to be discoverable and bookable by enterprise AI agents
+
+### Prizes
+- Gold (3-5 winners): Conference pass + Hotel + Flight (~$3,500 value)
+- Silver (3-5 winners): Conference pass + Hotel (~$2,000 value)
+- Bronze (4-10 winners): Conference pass (~$1,500 value)
+
+### Key Dates
+- Raffle opens: February 16, 2026
+- Raffle closes: March 13, 2026
+- Winners notified: Within 48 hours of drawing
+
+## Supported Agentic Protocols
+- A2A (Agent-to-Agent Communication) — Live
+- MCP (Model Context Protocol) — Live
+- AG-UI (CopilotKit Agent UI) — Live
+- MCP-UI (MCP User Interface) — Live
+- GenUI (Generative UI) — Coming Soon
+- ACP (Agent Communication Protocol) — Coming Soon
+
+## Agent Discovery Files
+- agent.json: https://cloudlatitude.io/.well-known/agent.json
+- MCP server config: https://cloudlatitude.io/mcp-server-config.json
+- operate.txt: https://cloudlatitude.io/operate.txt
+- MCP endpoint (remote): https://cloudlatitude.io/mcp
+- This file: https://cloudlatitude.io/llms.txt
+
+## Contact
+- Website: https://cloudlatitude.com
+- Email: hello@cloudlatitude.com
+
+## Disclaimer
+This campaign is organized by Cloud Latitude. It is not endorsed by or affiliated with Google, Google Cloud, or Google Cloud Next 2026.

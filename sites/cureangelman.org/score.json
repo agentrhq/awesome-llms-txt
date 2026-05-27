@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "domain": "cureangelman.org",
+  "display_name": "Cureangelman",
+  "category": "dev-tools",
+  "verified_url": "https://cureangelman.org/llms.txt",
+  "fetched_at": "2026-05-27T05:31:30Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 8862,
+  "last_modified": "Wed, 25 Mar 2026 01:17:19 GMT",
+  "freshness_age_days": 63,
+  "score": 60,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 7,
+      "reasons": [],
+      "age_days": 63,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 8.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Foundation for Angelman Syndrome Therapeutics (FAST)",
+    "h1_count": 1,
+    "blockquote": "FAST is a non-profit organization with its website at [cureangelman.org](https://cureangelman.org), and is the leading patient advocacy organization working to cure Angelman syndrome. This file highlights key resources to help LLMs and users understand Angelman syndrome, learn about progress towards an approved therapeutic, find support, and engage with the community.",
+    "section_count": 11,
+    "subsection_count": 0,
+    "link_count": 44,
+    "value_link_count": 41,
+    "low_value_link_count": 3,
+    "raw_bytes": 8862
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

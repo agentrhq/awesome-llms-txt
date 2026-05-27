@@ -1,0 +1,108 @@
+# Docs
+
+## Docs
+
+- [What is DeepConverse?](https://docs.deepconverse.com/product-docs/what-is-deepconverse.md): DeepConverse is a Customer Support Automation platform helping organizations scale their support using AI and Automation
+- [Basics](https://docs.deepconverse.com/product-docs/chatbots/basics.md)
+- [Building chatbot intents](https://docs.deepconverse.com/product-docs/chatbots/basics/building-chatbot-intents.md)
+- [Intent action responses](https://docs.deepconverse.com/product-docs/chatbots/basics/intent-action-responses.md)
+- [Chatbot Persistence mode](https://docs.deepconverse.com/product-docs/chatbots/basics/chatbot-persistence-mode.md)
+- [Publishing changes](https://docs.deepconverse.com/product-docs/chatbots/basics/publishing-changes.md)
+- [Advanced Functionality](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality.md)
+- [Connection Override](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/connection-override.md)
+- [User Identity Verification](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/user-identity-verification.md): Verify the identity of users
+- [Announcements](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/announcements.md)
+- [Channel Specific Functionality](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality.md)
+- [Zendesk Sunshine Conversations](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality/zendesk-sunshine-conversations.md)
+- [How to handle image and file uploads in Zendesk Sunshine Conversations?](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality/zendesk-sunshine-conversations/how-to-handle-image-and-file-uploads-in-zendesk-sunshine-conversations.md)
+- [Zendesk Chat (Classic)](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality/zendesk-chat-classic.md)
+- [How to handoff conversations to Zendesk Chat (Classic) ?](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality/zendesk-chat-classic/how-to-handoff-conversations-to-zendesk-chat-classic.md)
+- [Calendly](https://docs.deepconverse.com/product-docs/chatbots/advanced-functionality/channel-specific-functionality/calendly.md)
+- [Branding](https://docs.deepconverse.com/product-docs/chatbots/branding.md)
+- [Deploy](https://docs.deepconverse.com/product-docs/chatbots/deploy.md)
+- [Chatbot Versioning](https://docs.deepconverse.com/product-docs/chatbots/deploy/chatbot-versioning.md)
+- [iOS SDK](https://docs.deepconverse.com/product-docs/chatbots/deploy/ios-sdk.md)
+- [iOS (Custom Webview)](https://docs.deepconverse.com/product-docs/chatbots/deploy/ios-sdk/ios-custom-webview.md)
+- [Android SDK](https://docs.deepconverse.com/product-docs/chatbots/deploy/android-sdk.md)
+- [Adding widget to your Zendesk Help Center](https://docs.deepconverse.com/product-docs/chatbots/deploy/adding-widget-to-your-zendesk-help-center.md)
+- [Adding widget to your website](https://docs.deepconverse.com/product-docs/chatbots/deploy/adding-widget-to-your-website.md)
+- [Custom Initialization and Passing Metadata](https://docs.deepconverse.com/product-docs/chatbots/deploy/custom-initialization-and-passing-metadata.md)
+- [Open chatbot via Javascript](https://docs.deepconverse.com/product-docs/chatbots/deploy/open-chatbot-via-javascript.md)
+- [Adding widget to your Shopify Store](https://docs.deepconverse.com/product-docs/chatbots/deploy/adding-widget-to-your-shopify-store.md)
+- [Adding the widget to Shopify via the Theme editor embed block](https://docs.deepconverse.com/product-docs/chatbots/deploy/adding-widget-to-your-shopify-store/adding-the-widget-to-shopify-via-the-theme-editor-embed-block.md)
+- [Localization](https://docs.deepconverse.com/product-docs/chatbots/localization.md): Translate chatbot content to multiple languages
+- [Customizations](https://docs.deepconverse.com/product-docs/chatbots/customizations.md)
+- [Adding a link to your Privacy Policy in Chatbot window](https://docs.deepconverse.com/product-docs/chatbots/customizations/adding-a-link-to-your-privacy-policy-in-chatbot-window.md)
+- [Getting Started with Voice Bots](https://docs.deepconverse.com/product-docs/voice-bot/getting-started-with-voice-bots.md)
+- [Voice Bot Architecture](https://docs.deepconverse.com/product-docs/voice-bot/voice-bot-architecture.md)
+- [Supported use cases for Voice Bot](https://docs.deepconverse.com/product-docs/voice-bot/supported-use-cases-for-voice-bot.md)
+- [Setup and Configuration](https://docs.deepconverse.com/product-docs/voice-bot/setup-and-configuration.md)
+- [Setup Zendesk email and ticket automation](https://docs.deepconverse.com/product-docs/ticket-automation/setup-zendesk-email-and-ticket-automation.md)
+- [Building Guides](https://docs.deepconverse.com/product-docs/guides/building-guides.md)
+- [Guide Theme Customization](https://docs.deepconverse.com/product-docs/guides/guide-theme-customization.md)
+- [Embedding Guides on your website](https://docs.deepconverse.com/product-docs/guides/embedding-guides-on-your-website.md)
+- [Embedding Guides in Chatbots](https://docs.deepconverse.com/product-docs/guides/embedding-guides-in-chatbots.md)
+- [How to copy Guides across sites](https://docs.deepconverse.com/product-docs/guides/how-to-copy-guides-across-sites.md)
+- [What is the Conversation Flow Builder?](https://docs.deepconverse.com/product-docs/conversational-flow-builder/what-is-the-conversation-flow-builder.md)
+- [Assign Parameters in Conversations](https://docs.deepconverse.com/product-docs/conversational-flow-builder/assign-parameters-in-conversations.md)
+- [Predefined Parameters](https://docs.deepconverse.com/product-docs/conversational-flow-builder/assign-parameters-in-conversations/predefined-parameters.md)
+- [How to use Rules in Conversations](https://docs.deepconverse.com/product-docs/conversational-flow-builder/how-to-use-rules-in-conversations.md)
+- [Conversation Blocks](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks.md)
+- [Question](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/question.md)
+- [Salesforce Blocks](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/salesforce-blocks.md)
+- [Agent Availability Block](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/salesforce-blocks/agent-availability-block.md)
+- [Live Agent Handover](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/salesforce-blocks/live-agent-handover.md): Handoff to Salesforce support agents using Live Agent Rest API
+- [Guide Blocks](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/guide-blocks.md)
+- [Guide Step (Guide Flow)](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/guide-blocks/guide-step-guide-flow.md)
+- [Solved Block](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/guide-blocks/solved-block.md)
+- [Unsolved Block](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/guide-blocks/unsolved-block.md)
+- [Guide (Chatbot)](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/guide-blocks/guide-chatbot.md)
+- [HTTP Request](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/http-request.md)
+- [Client Events](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/client-events.md)
+- [Policy](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/policy.md): Make use of Large Language models to provide Conversational reasoning and task execution
+- [Zendesk Sunshine Conversations Handoff (In Widget)](https://docs.deepconverse.com/product-docs/conversational-flow-builder/conversation-blocks/zendesk-sunshine-conversations-handoff-in-widget.md)
+- [Data Tables](https://docs.deepconverse.com/product-docs/conversational-flow-builder/data-tables.md)
+- [How to read or search data from Data Tables?](https://docs.deepconverse.com/product-docs/conversational-flow-builder/data-tables/how-to-read-or-search-data-from-data-tables.md)
+- [Chatbot Analytics](https://docs.deepconverse.com/product-docs/analytics/chatbot-analytics.md)
+- [Viewing Chat Conversations](https://docs.deepconverse.com/product-docs/analytics/viewing-chat-conversations.md)
+- [Message Viewer](https://docs.deepconverse.com/product-docs/analytics/message-viewer.md): Deep dive into the messages
+- [Integrating with Google Analytics](https://docs.deepconverse.com/product-docs/analytics/integrating-with-google-analytics.md)
+- [Export API](https://docs.deepconverse.com/product-docs/analytics/export-api.md)
+- [Conversations Endpoint](https://docs.deepconverse.com/product-docs/analytics/export-api/conversations-endpoint.md)
+- [Messages Endpoint](https://docs.deepconverse.com/product-docs/analytics/export-api/messages-endpoint.md)
+- [Supported Integrations](https://docs.deepconverse.com/product-docs/integrations/supported-integrations.md): Connect to your CRM, e-commerce and other business systems
+- [Zendesk](https://docs.deepconverse.com/product-docs/integrations/supported-integrations/zendesk.md)
+- [Zendesk Sunshine Conversations](https://docs.deepconverse.com/product-docs/integrations/supported-integrations/zendesk-sunshine-conversations.md)
+- [Salesforce](https://docs.deepconverse.com/product-docs/integrations/supported-integrations/salesforce.md)
+- [Gorgias](https://docs.deepconverse.com/product-docs/integrations/supported-integrations/gorgias.md)
+- [Adding Users](https://docs.deepconverse.com/product-docs/account/adding-users.md): How to add new users to the dashboard
+- [Permissions and Roles](https://docs.deepconverse.com/product-docs/account/permissions-and-roles.md): How to configure role based access control
+- [Multiple Sites](https://docs.deepconverse.com/product-docs/account/multiple-sites.md): Create different sites for business units, test and production environments
+- [DeepConverse Public IPs](https://docs.deepconverse.com/product-docs/security/deepconverse-public-ips.md)
+- [Subprocessors](https://docs.deepconverse.com/product-docs/security/subprocessors.md)
+- [Data Request Policy](https://docs.deepconverse.com/product-docs/security/data-request-policy.md)
+- [Technical and Organizational Security Measures](https://docs.deepconverse.com/product-docs/security/technical-and-organizational-security-measures.md)
+- [Reporting Security Vulnerabilities](https://docs.deepconverse.com/product-docs/security/reporting-security-vulnerabilities.md)
+- [Log4Shell Vulnerability](https://docs.deepconverse.com/product-docs/security/reporting-security-vulnerabilities/log4shell-vulnerability.md)
+- [Generative AI - Technical Security Measures](https://docs.deepconverse.com/product-docs/security/generative-ai-technical-security-measures.md)
+- [Contacting Support](https://docs.deepconverse.com/product-docs/support/contacting-support.md)
+- [Service Levels and Response Times](https://docs.deepconverse.com/product-docs/support/service-levels-and-response-times.md)
+- [Platform Stability](https://docs.deepconverse.com/product-docs/support/platform-stability.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.deepconverse.com/product-docs/what-is-deepconverse.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

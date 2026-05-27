@@ -1,0 +1,55 @@
+name: New site request
+description: Suggest a site we should add to the leaderboard.
+title: "new site: <domain>"
+labels: ["new-site"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      description: The apex or subdomain that actually serves /llms.txt.
+      placeholder: stripe.com
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Full llms.txt URL
+      placeholder: https://stripe.com/llms.txt
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      options:
+        - ai-platform
+        - dev-tools
+        - docs-platform
+        - billing
+        - comms
+        - data
+        - infra
+        - observability
+        - auth
+        - search
+        - content
+        - commerce
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Pre-flight
+      options:
+        - label: The URL returns HTTP 200 with text/markdown or text/plain content.
+          required: true
+        - label: The file starts with a markdown H1.
+          required: true
+        - label: The site is publicly accessible (no login wall).
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything we should know
+      description: Optional. Edge cases, maintainer contact, or context on why this site is interesting.

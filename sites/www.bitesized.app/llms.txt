@@ -1,0 +1,175 @@
+# Help Center
+
+## Allergen Information
+
+Food allergens are substances that can cause an immune reaction in sensitive
+individuals. Reactions range from mild discomfort to life-threatening
+anaphylaxis. Accurate allergen labeling is both a legal requirement and a duty
+of care for food businesses.
+
+Bitesized supports the 14 allergens defined by EU Regulation 1169/2011, which is
+the most comprehensive standard and covers all allergens required by US FALCPA
+and other regulations:
+
+- Celery
+- Cereals containing gluten
+- Crustaceans
+- Eggs
+- Fish
+- Lupin
+- Milk
+- Molluscs
+- Mustard
+- Nuts
+- Peanuts
+- Sesame
+- Soybeans
+- Sulphur dioxide
+
+## Dietary Restrictions
+
+Dietary restrictions are lifestyle, religious, or ethical choices that are
+distinct from allergens. While allergens are about food safety, dietary
+restrictions reflect personal or cultural preferences.
+
+- **Vegan** — No animal products of any kind, including dairy, eggs, and honey
+- **Vegetarian** — No meat or fish, but may include dairy and eggs
+- **Halal** — Prepared according to Islamic dietary law
+- **Kosher** — Prepared according to Jewish dietary law
+
+## Managing Allergens on Your Menu
+
+When creating or editing a menu item, you can tag it with allergens and dietary
+restrictions using the selectors in the item editor. Allergens appear with amber
+badges and dietary restrictions appear with neutral badges.
+
+1. Open any menu and click on an item to edit it
+2. Click the "Allergens" dropdown to select which of the 14 allergens apply
+3. Click the "Dietary" dropdown to select applicable dietary labels
+4. Save your changes — allergen and dietary information will appear on the
+   public menu automatically
+
+## Allergen Notice
+
+You can display a prominent allergen notice at the top of your public menu. This
+banner reminds guests to inform staff about any food allergies or intolerances
+before ordering.
+
+To enable the allergen notice:
+
+1. Go to **Settings** > **Menus**
+2. Toggle on **Allergen notice**
+3. Click **Save**
+
+When enabled, a notice will appear on your public menu reading: "Before placing
+your order, please inform your server if anyone in your party has a food allergy
+or intolerance."
+
+## Service Charge
+
+You can configure a service charge percentage that will be applied to customer
+bills. When set, a notice is automatically displayed on your public menu so
+customers know before ordering.
+
+To configure the service charge:
+
+1. Go to **Settings** > **Menus**
+2. Enter a percentage in the **Service charge** field (0–100)
+3. Click **Save**
+
+When the value is greater than 0, a notice will appear on your public menu
+reading: "A service charge of X% will be added to your bill." Set the value to 0
+to disable the notice.
+
+## Filtering Menus
+
+Customers viewing your public menu can filter items using the filter bar that
+appears below the menu tabs. The filter bar only shows allergens and dietary
+options that are present in your menu.
+
+- **Allergen filters are exclusionary:** Selecting an allergen (e.g. "Peanuts")
+  hides all items containing that allergen. This helps customers quickly find
+  safe options.
+- **Dietary filters are inclusionary:** Selecting a dietary label (e.g. "Vegan")
+  shows only items that match. Multiple selections narrow the results further.
+
+## Accessibility
+
+Bitesized menus are built to meet the Web Content Accessibility Guidelines
+(WCAG), so every guest can browse your menu regardless of ability or assistive
+technology.
+
+Accessibility matters because a significant portion of the population relies on
+screen readers, keyboard navigation, or other assistive tools to use the web. An
+inaccessible menu means lost customers and, in many jurisdictions, potential
+legal liability under disability discrimination laws such as the ADA, the UK
+Equality Act, and the European Accessibility Act.
+
+Every public menu page includes the following accessibility features:
+
+- **Screen reader support** — Semantic HTML landmarks, proper heading hierarchy,
+  and ARIA attributes ensure screen readers can navigate and announce menu
+  content correctly
+- **Keyboard navigation** — All interactive elements, including menu tabs,
+  filter buttons, and the filter sheet, are fully operable with a keyboard alone
+- **QR code alternative access** — Every QR code is accompanied by a visible,
+  clickable URL so guests who cannot scan a QR code can still reach your menu
+- **Allergen and dietary badges** — Allergen and dietary information is
+  presented as text, not icons alone, so it is accessible to all users
+- **Filter sheet accessibility** — The filter sheet opens as an accessible
+  dialog with a descriptive label, supports Escape to close, and wraps every
+  checkbox in a label for easy interaction
+
+## Regulatory Overview
+
+Allergen disclosure requirements vary by jurisdiction:
+
+- **EU Regulation 1169/2011** requires declaration of 14 allergens on all food
+  sold or provided, including restaurants
+- **US FALCPA** (Food Allergen Labeling and Consumer Protection Act) covers 9
+  major allergens for packaged foods; restaurant requirements vary by state
+- Many US states and local jurisdictions have their own allergen disclosure laws
+  for restaurants
+
+**Disclaimer:** Bitesized is a tool to help you manage and display allergen
+information. It does not constitute legal advice. You are responsible for
+ensuring your allergen declarations are accurate and compliant with all
+applicable local, state, and national regulations. Consult a legal professional
+for compliance guidance specific to your jurisdiction.
+
+## FAQ
+
+### What is the difference between allergens and dietary restrictions?
+
+Allergens are safety-critical — they identify substances that can cause immune
+reactions or intolerances. Dietary restrictions are lifestyle or religious
+choices like vegan or halal. Both are important, but they serve different
+purposes.
+
+### Will existing menu items be affected?
+
+Existing items will continue to work as before. Any legacy dietary labels that
+have been replaced by allergen tags (like "Gluten-Free") are handled
+automatically. You can add specific allergen tags to your items at any time.
+
+### Do customers need an account to use allergen filters?
+
+No. The filter bar on the public menu is available to all visitors without any
+login or account required.
+
+### Can I customize the allergen notice text?
+
+Currently the allergen notice uses a standard message. We may add customization
+options in the future. You can toggle the notice on or off from Settings.
+
+### How does the service charge work?
+
+When you set a service charge percentage in Settings, a notice is displayed at
+the bottom of your public menu informing customers that the charge will be added
+to their bill. Set the value to 0 to disable it.
+
+### Which allergen standard does Bitesized follow?
+
+We support the EU-14 allergen list, which is the most comprehensive widely
+adopted standard. It covers all allergens required by the US FALCPA and other
+regional regulations.

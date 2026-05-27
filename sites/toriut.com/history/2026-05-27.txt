@@ -1,0 +1,28 @@
+#Toriut
+
+> This file contains a structured list of key pages related to Toriut, a PIM platform for Shopify. Each entry includes a page title, URL, and a brief description.  
+
+
+## Features
+
+[Advanced Filter Panel] (https://toriut.com/advanced-filter-panel): A tool for flexible product filtering in catalogs.
+[Shopify Product Variants Management] (https://toriut.com/shopify-product-variants-management): A tool for managing product variants in Shopify.
+
+
+## Solution
+
+[PIM for Cosmetics] (https://toriut.com/pim-for-cosmetics): A PIM solution for managing product assortments in the cosmetics and beauty industry.
+[PIM for Fashion] (https://toriut.com/pim-for-fashion): A PIM platform tailored for the fashion and apparel industry.
+[DAM for Shopify] (https://toriut.com/dam-for-shopify): A digital asset management system for businesses on Shopify.
+[PIM for Retail] (https://toriut.com/pim-for-retail): A specialized PIM solution for managing retail products.
+[PIM for Small Business] (https://toriut.com/pim-for-small-business): A solution for small businesses to manage product information.
+[Bulk Media Match for Shopify] (https://toriut.com/bulk-media-match-for-shopify): Automatically matches images and videos with Shopify products.
+
+
+## Basic information
+
+[Book a Demo] (https://toriut.com/book-a-demo): A form to schedule a demo of Toriut’s capabilities.
+[About Us] (https://toriut.com/about-us): Information about the Toriut team and mission.
+[Pricing] (https://toriut.com/pricing): Pricing plans and subscription costs for the platform.
+[Contact Us] (https://toriut.com/hello): Ways to get in touch with the Toriut team.
+[Privacy Policy] (https://toriut.com/privacy-policy): Data processing and user privacy policy.

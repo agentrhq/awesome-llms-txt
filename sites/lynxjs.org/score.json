@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "domain": "lynxjs.org",
+  "display_name": "Lynxjs",
+  "category": "dev-tools",
+  "verified_url": "https://lynxjs.org/llms.txt",
+  "fetched_at": "2026-05-27T05:31:46Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 87555,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 67,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 6,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 2,
+      "reasons": [
+        "oversized_86kb"
+      ],
+      "kb": 85.5
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Read This Before Building with Lynx",
+    "h1_count": 1,
+    "blockquote": "This guide targets developers who are already familiar with the web front-end stack. It explains Lynx's core principles, how it differs from the web, and how to build cross-platform applications with Lynx. \\[!IMPORTANT] > **Critical information:**  Reference links are provided after certain statements, pointing to the corresponding sections of the official Lynx documentation. Please read them **proactively** for a complete understanding.",
+    "section_count": 22,
+    "subsection_count": 3,
+    "link_count": 168,
+    "value_link_count": 158,
+    "low_value_link_count": 10,
+    "raw_bytes": 87555
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,200 @@
+# Documentation
+
+## Documentation
+
+- [Insilico Terminal](https://docs.insilicoterminal.com/documentation/welcome/insilico-terminal.md)
+- [Terminal 5.0](https://docs.insilicoterminal.com/documentation/welcome/terminal-5.0.md): Enhanced Terminal: Configurable, powerful, and faster. Multi Mode offers advanced account, layout management, and more.
+- [Registration](https://docs.insilicoterminal.com/documentation/welcome/registration.md): Let's go!
+- [Security](https://docs.insilicoterminal.com/documentation/welcome/security.md): We take your security serious!
+- [Frequently Asked Questions](https://docs.insilicoterminal.com/documentation/welcome/frequently-asked-questions.md): FAQ and Important Information
+- [Terms of Service](https://docs.insilicoterminal.com/documentation/welcome/terms-of-service.md)
+- [Creating an API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key.md): Initial Terminal setup
+- [Creating a Bybit API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-bybit-api-key.md)
+- [Creating a Bitmex API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-bitmex-api-key.md): Updated 14th September 2023
+- [Creating a Binance Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-binance-key.md): Updated: 9th Feb 2024
+- [Creating a Bitget API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-bitget-api-key.md): Updated 14th August 2023
+- [Creating a Coinbase API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-coinbase-api-key.md)
+- [Creating an OKX API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-an-okx-api-key.md): Watch our instructional video or follow the steps below:
+- [Creating a Blofin API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-blofin-api-key.md)
+- [Creating a Cryptocom API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-cryptocom-api-key.md)
+- [Creating a Kraken API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-kraken-api-key.md)
+- [Creating an Apex API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-an-apex-api-key.md)
+- [Creating a Nado API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-nado-api-key.md)
+- [Creating a Lighter API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-a-lighter-api-key.md)
+- [Creating an Extended API Key](https://docs.insilicoterminal.com/documentation/setup/creating-an-api-key/creating-an-extended-api-key.md)
+- [Adding Hyperliquid](https://docs.insilicoterminal.com/documentation/setup/adding-hyperliquid.md): Please be aware there are two ways of connecting to hyperliquid
+- [Adding your API Key to the Terminal](https://docs.insilicoterminal.com/documentation/setup/adding-your-api-key-to-the-terminal.md)
+- [Synchronize API Keys Across Devices](https://docs.insilicoterminal.com/documentation/setup/synchronize-api-keys-across-devices.md)
+- [Progressive Web App (PWA) Guide](https://docs.insilicoterminal.com/documentation/setup/progressive-web-app-pwa-guide.md)
+- [Stream Deck](https://docs.insilicoterminal.com/documentation/setup/stream-deck.md)
+- [UI overview](https://docs.insilicoterminal.com/documentation/application-elements/ui-overview.md)
+- [Performance](https://docs.insilicoterminal.com/documentation/application-elements/performance.md): Trade with a massively improved performance boost during those high octane news events. Smooth UI updates, no lag, no freezing. Terminal 5.0 is optimized to handle huge amounts of volatile market data
+- [Multi Mode](https://docs.insilicoterminal.com/documentation/application-elements/multi-mode.md): Multi Mode is the core Terminal 3.0 experience.
+- [Multi Account](https://docs.insilicoterminal.com/documentation/application-elements/multi-mode/multi-account.md): No more sluggish account switching
+- [Multi Layout](https://docs.insilicoterminal.com/documentation/application-elements/multi-mode/multi-layout.md): Create tabs and switch views in an instant
+- [Link System](https://docs.insilicoterminal.com/documentation/application-elements/multi-mode/link-system.md): (Only in Multi mode) Use color-coding to synchronize components
+- [Hotkeys](https://docs.insilicoterminal.com/documentation/application-elements/multi-mode/hotkeys.md): (Multi mode)
+- [Classic Mode](https://docs.insilicoterminal.com/documentation/application-elements/classic-mode.md): One app, two modes
+- [Mobile Mode](https://docs.insilicoterminal.com/documentation/application-elements/mobile-mode.md): You can also use the Terminal on your mobile phone!
+- [Header controls](https://docs.insilicoterminal.com/documentation/application-elements/header-controls.md)
+- [Interactive Chart](https://docs.insilicoterminal.com/documentation/application-elements/interactive-chart.md)
+- [Designer](https://docs.insilicoterminal.com/documentation/application-elements/interactive-chart/designer.md): Visually design your orders before executing
+- [Skip initial candles](https://docs.insilicoterminal.com/documentation/application-elements/interactive-chart/skip-initial-candles.md)
+- [Tradingview Chart](https://docs.insilicoterminal.com/documentation/application-elements/tradingview-chart.md)
+- [Orderbook](https://docs.insilicoterminal.com/documentation/application-elements/orderbook.md)
+- [Trades + Liquidations](https://docs.insilicoterminal.com/documentation/application-elements/trades-+-liquidations.md)
+- [Tickers / Instruments](https://docs.insilicoterminal.com/documentation/application-elements/tickers-instruments.md)
+- [Activity](https://docs.insilicoterminal.com/documentation/application-elements/activity.md)
+- [Orders](https://docs.insilicoterminal.com/documentation/application-elements/orders.md)
+- [Positions](https://docs.insilicoterminal.com/documentation/application-elements/positions.md)
+- [DOM](https://docs.insilicoterminal.com/documentation/application-elements/dom.md)
+- [PnL Cards](https://docs.insilicoterminal.com/documentation/application-elements/pnl-cards.md)
+- [Aggr](https://docs.insilicoterminal.com/documentation/application-elements/aggr.md)
+- [Balances](https://docs.insilicoterminal.com/documentation/application-elements/balances.md)
+- [Layouts](https://docs.insilicoterminal.com/documentation/application-elements/layouts.md)
+- [Basket Trading](https://docs.insilicoterminal.com/documentation/application-elements/basket-trading.md): Basket Trading via new Complex Orders component: Create execute, save and share asset baskets with the new Complex Orders component. Works with multiple accounts even!
+- [Market](https://docs.insilicoterminal.com/documentation/application-elements/market.md): This used to be part of the old Orderform.
+- [News](https://docs.insilicoterminal.com/documentation/application-elements/news.md)
+- [Place Order Overview](https://docs.insilicoterminal.com/documentation/execution-panel/place-order-overview.md): This replaces the old Orderform component on the left, for Instrument Statistics, use the new Market component.
+- [“Size” Input / Slider bar](https://docs.insilicoterminal.com/documentation/execution-panel/size-input-slider-bar.md)
+- ["Reduce" Switch](https://docs.insilicoterminal.com/documentation/execution-panel/reduce-switch.md)
+- [“TP/SL” Switch](https://docs.insilicoterminal.com/documentation/execution-panel/tp-sl-switch.md)
+- [Smart Hedging](https://docs.insilicoterminal.com/documentation/execution-panel/smart-hedging.md)
+- [Buy / Sell Buttons](https://docs.insilicoterminal.com/documentation/execution-panel/buy-sell-buttons.md)
+- [Margin / Leverage Control](https://docs.insilicoterminal.com/documentation/execution-panel/margin-leverage-control.md)
+- [Limit](https://docs.insilicoterminal.com/documentation/limit-tab/limit.md)
+- [Stop Limit](https://docs.insilicoterminal.com/documentation/limit-tab/stop-limit.md)
+- [Click Placement](https://docs.insilicoterminal.com/documentation/limit-tab/click-placement.md)
+- [Chase](https://docs.insilicoterminal.com/documentation/limit-tab/chase.md)
+- [Scale](https://docs.insilicoterminal.com/documentation/limit-tab/scale.md)
+- [Scale Side](https://docs.insilicoterminal.com/documentation/limit-tab/scale-side.md)
+- [Market](https://docs.insilicoterminal.com/documentation/market/market.md)
+- [Stop Market Order](https://docs.insilicoterminal.com/documentation/market/stop-market-order.md)
+- [Swarm](https://docs.insilicoterminal.com/documentation/market/swarm.md)
+- [TWAP](https://docs.insilicoterminal.com/documentation/market/twap.md)
+- [Overview](https://docs.insilicoterminal.com/documentation/cortex/overview.md)
+- [Setup](https://docs.insilicoterminal.com/documentation/cortex/setup.md)
+- [Server-Side Execution](https://docs.insilicoterminal.com/documentation/cortex/server-side-execution.md)
+- [TWAP Execution](https://docs.insilicoterminal.com/documentation/cortex/twap-execution.md)
+- [Conditional Orders](https://docs.insilicoterminal.com/documentation/cortex/conditional-orders.md)
+- [Trigger Types](https://docs.insilicoterminal.com/documentation/cortex/trigger-types.md)
+- [Activity and Order History](https://docs.insilicoterminal.com/documentation/cortex/activity-and-order-history.md)
+- [Overview](https://docs.insilicoterminal.com/documentation/terminal-cli/overview.md)
+- ['Constant' values](https://docs.insilicoterminal.com/documentation/terminal-cli/constant-values.md)
+- [User Defined Variables](https://docs.insilicoterminal.com/documentation/terminal-cli/user-defined-variables.md)
+- [General Commands](https://docs.insilicoterminal.com/documentation/terminal-cli/general-commands.md)
+- [Chaining](https://docs.insilicoterminal.com/documentation/terminal-cli/chaining.md)
+- [Repeat](https://docs.insilicoterminal.com/documentation/terminal-cli/repeat.md)
+- [Shortcut / Hotkeys](https://docs.insilicoterminal.com/documentation/terminal-cli/shortcut-hotkeys.md): All key binding is performed through the CLI
+- [Alias](https://docs.insilicoterminal.com/documentation/terminal-cli/alias.md)
+- [UI Control](https://docs.insilicoterminal.com/documentation/terminal-cli/ui-control.md): Commands that can be utilized to control different aspects of the Terminal user interface. NOTE: This is currently only available for the DOM but will expand to the rest of app later
+- [Simple Ordering](https://docs.insilicoterminal.com/documentation/terminal-cli/simple-ordering.md)
+- [Stops](https://docs.insilicoterminal.com/documentation/terminal-cli/stops.md)
+- [Ordering with Stops](https://docs.insilicoterminal.com/documentation/terminal-cli/ordering-with-stops.md)
+- [Bump Orders](https://docs.insilicoterminal.com/documentation/terminal-cli/bump-orders.md)
+- [Cancel Orders](https://docs.insilicoterminal.com/documentation/terminal-cli/cancel-orders.md)
+- [Close Position](https://docs.insilicoterminal.com/documentation/terminal-cli/close-position.md)
+- [Reverse Position](https://docs.insilicoterminal.com/documentation/terminal-cli/reverse-position.md)
+- [Scale Orders](https://docs.insilicoterminal.com/documentation/terminal-cli/scale-orders.md)
+- [Chase Orders](https://docs.insilicoterminal.com/documentation/terminal-cli/chase-orders.md)
+- [Swarm Order](https://docs.insilicoterminal.com/documentation/terminal-cli/swarm-order.md)
+- [TWAP Order](https://docs.insilicoterminal.com/documentation/terminal-cli/twap-order.md)
+- [TWAP Chase Order](https://docs.insilicoterminal.com/documentation/terminal-cli/twap-chase-order.md)
+- [v5.2.2](https://docs.insilicoterminal.com/documentation/changelog/v5.2.2.md)
+- [v5.2.1](https://docs.insilicoterminal.com/documentation/changelog/v5.2.1.md)
+- [v5.2.0](https://docs.insilicoterminal.com/documentation/changelog/v5.2.0.md)
+- [v5.1.2](https://docs.insilicoterminal.com/documentation/changelog/v5.1.2.md)
+- [v5.1.1](https://docs.insilicoterminal.com/documentation/changelog/v5.1.1.md)
+- [v5.1.0](https://docs.insilicoterminal.com/documentation/changelog/v5.1.0.md)
+- [v5.0.0](https://docs.insilicoterminal.com/documentation/changelog/v5.0.0.md)
+- [v4.0.46](https://docs.insilicoterminal.com/documentation/changelog/v4.0.46.md)
+- [v4.0.44](https://docs.insilicoterminal.com/documentation/changelog/v4.0.44.md)
+- [v4.0.43](https://docs.insilicoterminal.com/documentation/changelog/v4.0.43.md)
+- [v4.0.42](https://docs.insilicoterminal.com/documentation/changelog/v4.0.42.md)
+- [v4.0.41](https://docs.insilicoterminal.com/documentation/changelog/v4.0.41.md)
+- [v4.0.40](https://docs.insilicoterminal.com/documentation/changelog/v4.0.40.md): Updated 19th February 2026
+- [v4.0.39](https://docs.insilicoterminal.com/documentation/changelog/v4.0.39.md): Updated 13th February 2026
+- [v4.0.38](https://docs.insilicoterminal.com/documentation/changelog/v4.0.38.md)
+- [v4.0.37](https://docs.insilicoterminal.com/documentation/changelog/v4.0.37.md)
+- [v4.0.36](https://docs.insilicoterminal.com/documentation/changelog/v4.0.36.md)
+- [v4.0.35](https://docs.insilicoterminal.com/documentation/changelog/v4.0.35.md)
+- [v4.0.33](https://docs.insilicoterminal.com/documentation/changelog/v4.0.33.md)
+- [v4.0.32](https://docs.insilicoterminal.com/documentation/changelog/v4.0.32.md)
+- [v4.0.31](https://docs.insilicoterminal.com/documentation/changelog/v4.0.31.md)
+- [v4.0.30](https://docs.insilicoterminal.com/documentation/changelog/v4.0.30.md)
+- [v4.0.29](https://docs.insilicoterminal.com/documentation/changelog/v4.0.29.md)
+- [v4.0.28](https://docs.insilicoterminal.com/documentation/changelog/v4.0.28.md)
+- [v4.0.27](https://docs.insilicoterminal.com/documentation/changelog/v4.0.27.md)
+- [v4.0.26](https://docs.insilicoterminal.com/documentation/changelog/v4.0.26.md)
+- [v4.0.25](https://docs.insilicoterminal.com/documentation/changelog/v4.0.25.md)
+- [v4.0.24](https://docs.insilicoterminal.com/documentation/changelog/v4.0.24.md)
+- [v4.0.23](https://docs.insilicoterminal.com/documentation/changelog/v4.0.23.md)
+- [v4.0.22](https://docs.insilicoterminal.com/documentation/changelog/v4.0.22.md)
+- [v4.0.21](https://docs.insilicoterminal.com/documentation/changelog/v4.0.21.md)
+- [v4.0.20](https://docs.insilicoterminal.com/documentation/changelog/v4.0.20.md)
+- [v4.0.19](https://docs.insilicoterminal.com/documentation/changelog/v4.0.19.md)
+- [v4.0.18](https://docs.insilicoterminal.com/documentation/changelog/v4.0.18.md)
+- [v4.0.17](https://docs.insilicoterminal.com/documentation/changelog/v4.0.17.md)
+- [v4.0.16](https://docs.insilicoterminal.com/documentation/changelog/v4.0.16.md)
+- [v4.0.15](https://docs.insilicoterminal.com/documentation/changelog/v4.0.15.md)
+- [v4.0.14](https://docs.insilicoterminal.com/documentation/changelog/v4.0.14.md)
+- [v4.0.13](https://docs.insilicoterminal.com/documentation/changelog/v4.0.13.md): Updated 27th November 2025
+- [v4.0.12](https://docs.insilicoterminal.com/documentation/changelog/v4.0.12.md)
+- [v4.0.11](https://docs.insilicoterminal.com/documentation/changelog/v4.0.11.md)
+- [v4.0.10](https://docs.insilicoterminal.com/documentation/changelog/v4.0.10.md)
+- [v4.0.9](https://docs.insilicoterminal.com/documentation/changelog/v4.0.9.md): Updated 28th October 2025
+- [v.4.0.8](https://docs.insilicoterminal.com/documentation/changelog/v.4.0.8.md): Updated 22nd October 2025
+- [v4.0.7](https://docs.insilicoterminal.com/documentation/changelog/v4.0.7.md): Updated 14th October 2025
+- [v4.0](https://docs.insilicoterminal.com/documentation/changelog/v4.0.md): Updated 28th July 2025
+- [v3.9](https://docs.insilicoterminal.com/documentation/changelog/v3.9.md): Updated 29th May 2025
+- [v3.8.12](https://docs.insilicoterminal.com/documentation/changelog/v3.8.12.md): Updated 27th March 2025
+- [v3.8.11](https://docs.insilicoterminal.com/documentation/changelog/v3.8.11.md): Updated 6th March 2025
+- [v3.8.10](https://docs.insilicoterminal.com/documentation/changelog/v3.8.10.md): Updated 12th February 2025
+- [v3.8.9](https://docs.insilicoterminal.com/documentation/changelog/v3.8.9.md): Updated 29th January 2025
+- [v3.8.5](https://docs.insilicoterminal.com/documentation/changelog/v3.8.5.md): Updated 16th December 2024
+- [v3.8.4](https://docs.insilicoterminal.com/documentation/changelog/v3.8.4.md): Updated 4th December 2024
+- [v3.8.3](https://docs.insilicoterminal.com/documentation/changelog/v3.8.3.md): Updated 20th November 2024
+- [v3.8.1](https://docs.insilicoterminal.com/documentation/changelog/v3.8.1.md): Updated 14th November 2024
+- [v3.8](https://docs.insilicoterminal.com/documentation/changelog/v3.8.md)
+- [v3.7.9](https://docs.insilicoterminal.com/documentation/changelog/v3.7.9.md): Updated October 30th 2024
+- [v3.7.8](https://docs.insilicoterminal.com/documentation/changelog/v3.7.8.md): Updated October 15th 2024
+- [v3.7.7](https://docs.insilicoterminal.com/documentation/changelog/v3.7.7.md): Updated October 9th 2024
+- [v3.7.4](https://docs.insilicoterminal.com/documentation/changelog/v3.7.4.md): Updated September 11th 2024
+- [v3.7](https://docs.insilicoterminal.com/documentation/changelog/v3.7.md): Updated 26th August 2024
+- [v3.6.15](https://docs.insilicoterminal.com/documentation/changelog/v3.6.15.md): Terminal v3.6.15 released August 21st 2024
+- [v3.6.10](https://docs.insilicoterminal.com/documentation/changelog/v3.6.10.md): Terminal v3.6.10 released July 11th 2024
+- [v3.6.9](https://docs.insilicoterminal.com/documentation/changelog/v3.6.9.md): Terminal v3.6.9 released July 10th 2024
+- [v3.6](https://docs.insilicoterminal.com/documentation/changelog/v3.6.md): Terminal v3.5 released April 12th 2024
+- [v3.5](https://docs.insilicoterminal.com/documentation/changelog/v3.5.md): Terminal v3.5 Released April 3rd 2024
+- [V3.4](https://docs.insilicoterminal.com/documentation/changelog/v3.4.md)
+- [v3.3.0](https://docs.insilicoterminal.com/documentation/changelog/v3.3.0.md): 29 January 2024
+- [v3.1.15](https://docs.insilicoterminal.com/documentation/changelog/v3.1.15.md): 22nd December 2023
+- [v3.1.13](https://docs.insilicoterminal.com/documentation/changelog/v3.1.13.md): Terminal v3.1.13 Released 14th December 2023
+- [v3.1.11](https://docs.insilicoterminal.com/documentation/changelog/v3.1.11.md): Terminal v3.1.11 Released 8th December 2023
+- [v3.1.9](https://docs.insilicoterminal.com/documentation/changelog/v3.1.9.md): Terminal v3.1.9 Released 14th November 2023
+- [v3.1.7](https://docs.insilicoterminal.com/documentation/changelog/v3.1.7.md): Terminal v3.1.7 Released 28th October 2023
+- [v3.1.6](https://docs.insilicoterminal.com/documentation/changelog/v3.1.6.md): Terminal v3.1.6 Released 26th October 2023
+- [v3.1.5](https://docs.insilicoterminal.com/documentation/changelog/v3.1.5.md): Terminal v3.1.5 Released 19th October 2023
+- [v3.1.0](https://docs.insilicoterminal.com/documentation/changelog/v3.1.0.md): 15th August 2023
+- [v3.0.0](https://docs.insilicoterminal.com/documentation/changelog/v3.0.0.md): 8th April 2023
+- [v2.2.0](https://docs.insilicoterminal.com/documentation/changelog/v2.2.0.md): 21st October 2022
+- [v2.1.0](https://docs.insilicoterminal.com/documentation/changelog/v2.1.0.md): 14th Sep 2022
+- [v2.0.2](https://docs.insilicoterminal.com/documentation/changelog/v2.0.2.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.insilicoterminal.com/documentation/welcome/insilico-terminal.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

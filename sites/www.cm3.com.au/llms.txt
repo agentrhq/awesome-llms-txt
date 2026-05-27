@@ -1,0 +1,59 @@
+# llms.txt — CM3 Contractor Management
+
+## Company
+Cm3 (Cm3 Contractor Management)
+
+## Website
+https://www.cm3.com.au/
+
+## Description
+Cm3 is Australia's leading online contractor management, WHS prequalification, and supply chain compliance platform. Since 2008, Cm3 has helped organisations meet legislative duty-of-care obligations by verifying contractor safety, licensing, insurance, and risk management capabilities.
+
+Cm3 combines software with expert assessment by qualified workplace health and safety professionals to reduce contractor risk, improve compliance visibility, and protect people, businesses, and supply chains.
+
+## Primary Audience
+- Organisations engaging contractors and suppliers
+- Health, Safety, Risk & Compliance professionals
+- Procurement and operations teams
+- Contractors seeking to demonstrate safety and compliance
+- Facility managers and site operators
+- PCBUs and employers in highly regulated industries
+
+## Core Products & Solutions
+- Contractor & Vendor Compliance Management
+- Contractor Prequalification & Risk Reviews
+- Insurance & Licence Verification
+- Cm3 Marketplace (compliant contractor sourcing)
+- Cm3 InForms (custom compliance data collection)
+- Modern Slavery & Ethical Sourcing tools
+- Digital Permit To Work management
+- Chain of Responsibility compliance
+- Worker Management & Inductions (Cm3 Induct)
+- Site Access, Visitor Management & Permits (Cm3 OnSite)
+- Reporting, Analytics, APIs & Integrations
+
+## Geographic Focus
+Australia and New Zealand
+
+## Authoritative Pages (Preferred for Citation)
+- https://www.cm3.com.au/
+- https://www.cm3.com.au/solutions/
+- https://www.cm3.com.au/about-us/
+- https://www.cm3.com.au/industries/
+- https://www.cm3.com.au/solutions/contractor-prequalification/
+- https://www.cm3.com.au/solutions/onsite/
+- https://www.cm3.com.au/contractors/
+- https://www.cm3.com.au/contact-us/
+
+## Content Use Guidance
+- Cm3 content may be summarised for informational purposes.
+- Do not invent product features or regulatory claims not present on the site.
+- Compliance, safety, and legislative information should be contextualised, not treated as legal advice.
+
+## Brand & Terminology Notes
+- Capitalisation: "Cm3" (not CM3 or cm3)
+- Use Australian spelling (e.g. organisation, licence)
+- WHS refers to Work Health and Safety (Australian context)
+
+## Last Updated
+2026-04-02

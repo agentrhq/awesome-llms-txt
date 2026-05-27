@@ -1,0 +1,56 @@
+# Axiom
+
+## Axiom Main
+
+- [Axiom – The Future of Trading](https://docs.axiom.trade/readme.md)
+- [FAQs](https://docs.axiom.trade/faqs.md)
+- [Y-Combinator](https://docs.axiom.trade/y-combinator.md)
+- [TradingView](https://docs.axiom.trade/tradingview.md)
+- [Support](https://docs.axiom.trade/support.md): This page provides clear instructions to join the Discord server and create a support ticket safely. Follow each step carefully to avoid scams and ensure a smooth setup process.
+- [Signup](https://docs.axiom.trade/getting-started/signup.md): Our onboarding process is one of the simplest in the industry.
+- [Referral Program](https://docs.axiom.trade/getting-started/referral-program.md)
+- [Reward System](https://docs.axiom.trade/getting-started/reward-system.md)
+- [Point System](https://docs.axiom.trade/getting-started/point-system.md): Showing ❤️ to our Axiom Family
+- [Fees](https://docs.axiom.trade/getting-started/fees.md)
+- [Axiom Fees](https://docs.axiom.trade/getting-started/fees/axiom-fees.md)
+- [Solana Fees](https://docs.axiom.trade/getting-started/fees/solana-fees.md): A discussion about the fees charged per transaction exectuted.
+- [Buy Crypto](https://docs.axiom.trade/axiom/buy-crypto.md): Easiest way to buy crypto, right through the Axiom website!
+- [Finding Tokens](https://docs.axiom.trade/axiom/finding-tokens.md)
+- [Explore Tokens](https://docs.axiom.trade/axiom/finding-tokens/explore-tokens.md)
+- [Pulse](https://docs.axiom.trade/axiom/finding-tokens/pulse.md)
+- [Similar Tokens](https://docs.axiom.trade/axiom/finding-tokens/similar-tokens.md)
+- [Swap](https://docs.axiom.trade/axiom/swap.md)
+- [Market](https://docs.axiom.trade/axiom/swap/market.md)
+- [Limit Orders](https://docs.axiom.trade/axiom/swap/limit-orders.md)
+- [Convert](https://docs.axiom.trade/axiom/swap/convert.md)
+- [Migration Actions](https://docs.axiom.trade/axiom/swap/migration-actions.md): Eliminate the need of third party sniper bots!
+- [Instant Trade](https://docs.axiom.trade/axiom/swap/instant-trade.md)
+- [Portfolio](https://docs.axiom.trade/axiom/portfolio.md)
+- [Staking](https://docs.axiom.trade/staking.md): Earn Yield on Your Idle Assets
+- [Multi-wallet](https://docs.axiom.trade/multi-wallet.md)
+- [Deposit](https://docs.axiom.trade/perpetuals/deposit.md)
+- [Trading on Hyperliquid](https://docs.axiom.trade/perpetuals/trading-on-hyperliquid.md)
+- [Withdraw](https://docs.axiom.trade/perpetuals/withdraw.md)
+- [Adding Wallets](https://docs.axiom.trade/wallet-tracking/adding-wallets.md)
+- [Monitor Wallets](https://docs.axiom.trade/wallet-tracking/monitor-wallets.md)
+- [Tweet Monitor](https://docs.axiom.trade/tweet-monitor.md)
+- [Twitter Preview Popup](https://docs.axiom.trade/twitter-preview-popup.md)
+- [Trader Scan](https://docs.axiom.trade/trader-scan.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.axiom.trade/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

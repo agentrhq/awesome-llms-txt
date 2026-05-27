@@ -1,0 +1,841 @@
+# Facets.cloud - AI-Powered Infrastructure Orchestration Platform with Intelligent Automation Agents
+# This file contains content from the Facets website for LLM training
+# Generated from apps/website/content directory
+
+## COMPANY INFORMATION
+
+### About Facets
+
+Facets is an AI-powered Infrastructure and Deployment Management Platform that unifies infrastructure provisioning, continuous deployment, and configuration management into a single, declarative model. Powered by intelligent AI agents, Facets automates complex DevOps workflows, from Terraform code generation to cost optimization and infrastructure debugging. By eliminating silos between DevOps processes, Facets empowers teams with AI-driven self-service, scalable, and governed approach to cloud operations—ensuring security and compliance without the operational overhead.
+
+## PRODUCT INFORMATION
+
+### AI-Powered Platform Features - Transform Infrastructure from Bottlenecks to Superpower with Intelligent Automation
+
+### Facets.cloud deployment options, support and security
+
+### Explore Facets - AI Roadmap & Platform Comparison
+
+## PLATFORM FEATURES
+
+### Orchestrator - AI-Powered Software Delivery Platform with Intelligent Automation Agents
+
+## The Orchestration Challenge
+Transform from tool sprawl to unified AI-powered coordination where intelligent agents understand organizational context and automate complex workflows seamlessly.
+
+## Core AI-Powered Orchestration Capabilities
+- **Intelligent Infrastructure Automation**: AI agents that understand your infrastructure patterns and automate provisioning, scaling, and optimization
+- **Context-Aware Deployment Orchestration**: Smart agents that coordinate deployments across environments with deep understanding of dependencies
+- **AI-Driven Policy Enforcement**: Automated governance through intelligent agents that ensure compliance and security standards
+
+## AI-Powered Automation Agents
+- **Terraform Code Generation Agent**: Automatically generates and maintains Infrastructure as Code based on architectural patterns
+- **Cost Optimization Agent**: Continuously analyzes and optimizes cloud costs using AI-powered insights
+- **Incident Response Agent**: Intelligent debugging and remediation of infrastructure issues
+- **Security Compliance Agent**: Automated security scanning and policy enforcement across all environments
+- **Performance Optimization Agent**: AI-driven monitoring and auto-scaling based on workload patterns
+
+## Data Plane & Integration Layer
+- **AI-Enhanced Observability**: Intelligent monitoring with automated anomaly detection and root cause analysis
+- **Smart Integration Hub**: AI agents that automatically configure and maintain integrations across your tool ecosystem
+- **Intelligent Data Pipeline**: Automated data flow optimization and processing across infrastructure components
+
+## Key AI-Powered Differentiators
+- **Proactive AI Automation**: Agents that predict and prevent issues before they impact production
+- **Self-Healing Infrastructure**: AI-powered systems that automatically detect and resolve infrastructure drift and issues
+- **Intelligent Resource Management**: Smart allocation and optimization of cloud resources using machine learning
+
+## Real-World AI Impact
+- **90% reduction in manual infrastructure tasks** through intelligent automation agents
+- **Predictive scaling and cost optimization** saving customers millions in cloud costs
+- **Automated compliance and security** ensuring zero-drift infrastructure governance
+
+## SOLUTIONS
+
+### Multi-Cloud & Cloud Migration
+
+title: "Same Blueprint Syntax",
+description: "Across all clouds
+
+### SaaS Platform Engineering
+
+title: "New region/customer specific environments",
+before: "3-5 days via tickets",
+after: "15 minutes self-service
+resolutions=,
+
+### Enterprise Platform Engineering
+
+title: "Policy Inconsistency",
+description: "Different interpretations of security requirements across teams
+title: "50 → 15",
+description: "Project automations to reusable modules
+title: "Scale & Performance",
+description: "Built for enterprise demands",
+features: [
+Multi-tenant architecture with business unit isolation",
+Global deployment across worldwide locations",
+99.9% uptime SLA guarantee",
+Multi-region disaster recovery
+
+### Developer Self-Service & Productivity
+
+### For Fast Growing Digital Natives
+
+title: "Environment Provisioning",
+before: "Manual, Best engineers get involved for any change",
+after: "100% AI-automated through intelligent Terraform generation, anyone can provision environments in 5 mins with AI assistance
+resolutions=,
+title: "Visual Architecture Design",
+description: "Drag-and-drop microservices, databases, and cloud resources
+showStats=
+stats=,
+title: "Monitoring & Alerting",
+description: "Comprehensive observability without setup
+metrics={[
+{ label: "Time to First Deploy", description:
+
+### Environment Management at Scale
+
+### Multi-Project Standardization
+
+## KEY PAGES CONTENT
+
+### AI-Powered Orchestration Platform Built Over Terraform with Intelligent Code Generation Agents
+
+### AI-Powered SDLC - From Coding to Orchestration with Intelligent Automation
+
+AI is revolutionizing coding with intelligent code generation and automated development workflows.
+Software delivery is transforming from manual ticketOps to AI-powered orchestration.
+
+Don't put AI agents in your SDLC without an intelligent orchestrator. Use Facets Orchestrator as an AI-powered Knowledge Graph and System of Change that coordinates all your automation agents, from code generation to infrastructure management to deployment optimization.
+
+Our AI agents work together to:
+- **Automatically generate Terraform code** based on your architectural requirements
+- **Intelligently optimize cloud costs** through continuous monitoring and automated adjustments
+- **Predict and prevent infrastructure issues** before they impact your applications
+- **Orchestrate complex multi-cloud deployments** with zero-downtime migrations
+- **Automate security and compliance** across all environments and workflows
+
+### Why Facets - Modern Software Delivery Needs Orchestration
+
+### Company – Facets.cloud
+
+## CUSTOMER CASE STUDIES
+
+### 200+ Monthly Releases and 12% Cost Savings with Multi-Cloud DevOps
+
+# Multiple Environment Management at Vymo with Facets
+How Vymo Leveraged Facets to Accelerate Kubernetes Migration, Enable Multi-Cloud Scalability, and Achieve 200+ Monthly Releases.
+## Strategic Value Delivered by Facets
+## Before
+1. Complexity of managing multiple production environments for customers from different geographies
+2. A lean Ops team was tasked with transformations like Kubernetes migration and optimizing Azure spend
+3. Assumptions in application code that hindered the adoption of standard scaling strategies,  leading to over-provisioning and cloud wastage
+## After
+1. Managing more than 15 environments across multiple clouds pushing over 200 releases a month
+2. Accelerated Kubernetes migration and well-automated infrastructure within weeks of implementation
+3. Co-developed custom scaling strategies on top of the Platform saving 12% of cloud cost
+## Challenges Faced by Vymo
+**1. Increased complexity due to multiplicity of environments**: Supporting BFSI clients meant managing custom workflows and maintaining multiple production environments across geographies. Each client often demanded unique deployment timelines and configurations, adding to operational complexity.
+- Drifts: Maintaining drifts across multiple regions without a centralized management solution created more work for the Ops teams.
+- Multi-cloud setups: While primarily on Azure, Vymo wanted cloud flexibility to honor region or customer-specific preferences. Hence, they maintained a cloud-agnostic codebase, however, taking the same approach in automation wasn’t trivial
+- Ops heavy Releases: As Vymo provides tailored customization for customers, release frequency and artifacts vary across environments; leading to operational overheads in releases
+**2. Limited Ops bandwidth and long roadmap**: The Ops team was lean making it challenging to undertake large-scale projects like Kubernetes migration and 100% automation to manage multiple environments. The manual nature of releases and maintenance required constant intervention from the operations team, leaving little bandwidth for strategic improvements.
+**3. Poor Cloud Utilization**: It was critical to manage cloud costs while scaling environments for performance and reliability, especially with the introduction of Kubernetes and new deployment strategies.
+- Lack of Elasticity: Vymo's infrastructure relied heavily on virtual machines (VMs) with Ansible-based configuration management. While functional, this setup lacked elasticity, scalability, and developer-centric workflows, which limited operational efficiency. Also, many services were not built keeping usual autoscaling in mind. Thus, they were over-provisioned leading to wastage. This also prevented the use of a standard spot instance management strategy without sacrificing reliability.
+*“When I joined Vymo, the systems were functional but rigid. Moving to Kubernetes offered the promise of elasticity and efficiency, but we needed a partner who could help us bridge the gap without disrupting our workflows”*
+- Cost of observability: The Ops team lacked the bandwidth to fine-tune open-source solutions which increased the cost of observability infrastructure.
+## How Facets Transformed Vymo's DevOps
+**Drift-free multiple environments:** Facets made environment management easy, self-service and enabled consistent deployment practices across multiple geographies and data centers.
+**Accelerating DevOps Roadmap:**  Facets accelerated the DevOps transformation projects
+- **Kubernetes Migration:** Vymo adopted a parallel setup, running both VMs and Kubernetes during migration.
+- **Well-architected Observability:** Developers were transitioned to Kubernetes-native live logs enriched by Facets' platform.
+**Optimized Cloud posture:**  Facets and Vymo's team collaborated to add custom scaling strategies on top of the platform to meet the application elasticity assumptions.
+## Key Results
+1. Increased Release Frequency: Vymo performs over 200 releases per month with central tracking and management.
+2. Cost Savings: Vymo achieved 12% cloud cost savings with migration to Kubernetes and custom scaling strategies developed over the platform
+3. Faster Onboarding: Vymo is now able to onboard environments and get them up and running faster.
+4. Improved Uptime: A combination of Kubernetes migration, custom scaling strategies, and proactive alerting ensured that Vymo maintained a very high availability for customers.
+*“No amount of testing and validation can guarantee zero downtime, but we’ve avoided many potential issues due to Facets,”* says Pruthvi.
+5. Performance Gains: Kubernetes clusters were optimized for nuanced geographies like Japan, where uptime and precision are critical. Fine-tuned configurations ensured consistent performance across multiple environments.
+## What's next for Vymo
+Vymo is looking forward to expanding support for more clouds and on-premise solutions through Facets to expand to more regions and customer segments. They aim to do this cost-optimally while minimizing distractions to the broader organization. They are also in the process of adopting the next level of process standards.
+> "It was the ease of adoption and the founders knew what they were doing when they started Facets," noted Pruthvi Narapareddy, Director of Engineering at Vymo.
+
+### MPL Spinoff—GGX Transforms DevOps with Facets' Platform Engineering Solution
+
+# MPL Spinoff—GGX Transforms DevOps with Facets' Platform Engineering Solution
+Good Game Exchange (GGX) achieved a 3X boost in Ops efficiency, expedited cloud migration by 75% to GCP, and streamlined developer workflows by leveraging Facets' platform engineering approach.
+## Strategic Value Delivered by Facets
+## About GGX
+GGX is a blockchain-powered gaming platform that enables game developers to integrate digital asset trading mechanics into games. Backed by the founding team of MPL, GGX powers **Striker**, a fantasy sports card trading game consistently ranked in the top 10 games on Polygon.
+GGX provides solutions like in-app marketplaces, global KYC, non-custodial wallets, and more, simplifying blockchain complexities for game developers.
+## The Challenges
+### Cloud Migration Complexity
+GGX needed to move from AWS to GCP but lacked in-house GCP expertise, projecting 2-3 months for migration.
+### Limited Agility and Stability
+Weekly release cycles constrained agility, with risks to stability that created high stress for the engineering team.
+### Multi-Environment Management Challenges
+GGX required sandbox and dev/test environments for third-party game developers, feature overhauls, and security scans, but faced drift and cost challenges.
+## Transforming Cloud Migration and Operational Efficiency
+### Migration to GCP
+GGX adopted Facets' cloud-agnostic design to launch optimized environments on GCP from day one.
+*"The platform handled all the heavy lifting… We adopted Facets first, then GCP—saving us months and finishing in just two weeks."*
+### Enhanced Automation and Ops Efficiency
+Achieved complete automation without in-house scripting, reducing staffing needs from 5 DevOps engineers to just 2 platform engineers.
+### Streamlined Release Management
+Shifted to **5-6 daily production releases** with QA-driven ownership, freeing DevOps resources.
+### Environment Management and Drift Reduction
+On-demand, drift-free environments reduced setup time from one week to a single day.
+### Infrastructure Stability
+Near-zero infra outages with the Release Plan feature, mitigating risks.
+## Impact & Results
+### Before Facets
+- Cloud migration from AWS to GCP was projected to take 2-3 months
+- DevOps bottlenecks required additional engineers to manage infrastructure
+- Weekly releases led to high stress, slow environment launches, and caused drifts over time
+### After Facets
+- Cloud migration completed in **two weeks** with a cloud-agnostic blueprint
+- A lean team of platform engineers now manages the entire infrastructure
+- Release frequency increased to **5-6 times daily**, with fast environment launches and zero drift
+## Key Improvements
+- **Accelerated Cloud Migration**: From 2–3 months down to two weeks
+- **Optimized Workforce Efficiency**: Lean team of 2 platform engineers managed operations while enabling Dev and QA self-service
+- **Increased Release Frequency**: Weekly cycle replaced by 5–6 daily production releases
+- **Environment Launch Efficiency**: Reduced setup time from one week to one day
+## Outstanding Support: The Facets Secret Sauce
+GGX's success was amplified by Facets' hands-on support. The partnership streamlined DevOps and redefined platform engineering for GGX, empowering Dev, QA, and Ops teams alike.
+> "The support from the Facets team is phenomenal, providing us the assurance we need for uninterrupted operation. It's this high-value support that stands out as a key reason for choosing Facets. We're truly impressed by the reliability and quality of your support."  *-Kaustubh Bhoyar, Head of Engineering, GGX*
+
+### 8X Deployment Frequency with Zero-Downtime Cloud Migration
+
+# MPL SRE Team Achieves Faster Cloud Migration and 8X Releases with Facets
+With Facets as their enabler, MPL's SRE team achieved zero-downtime GCP migration, 8X faster releases, and self-service for 150+ developers.
+## Strategic Value Delivered by Facets
+## Situation
+Mobile Premier League (MPL) is the world’s leading skill gaming platform with over 120 million users and 150+ engineers. During peak gaming seasons like IPL, traffic can surge 3X and an hour of downtime can lead to Millions of Dollars of loss in GMV. Every service needs to stay online—every release has to be smooth.
+[The migration](/case-study/ggx) also needed to account for critical workloads where an hour of downtime could lead to millions of dollars in losses, and handle peak traffic events like the Indian Premier League (IPL) which could increase request per second (RPS) by three times in key markets.
+## Initial State
+**1. Explosion of tools & delivery mechanisms**: The software delivery setup involved a variety of tools like Harness, IaC, Custom Scripts, etc., which were introduced over time. This resulted in an explosion of pipelines that required effort to operate and maintain.
+**2. Limited Team Autonomy**: Releases involved handoffs between Dev, QA, and SRE teams. The SRE team was maintaining pipelines instead of improving systems.
+**3. AWS → GCP Migration**: A looming AWS → GCP migration, millions of dollars worth of cloudprint, had to happen without any downtime or freezing regular feature releases.
+> “If we could take the cloud migration as an opportunity to make our delivery pipeline self-serve and governed, that would yield multi-fold ROI on the effort we spend on the migration,” stated Kaushal.
+The team needed a better operating model—one that empowers developers without sacrificing control and enables a safe migration.
+## Building MPL's Internal Platform using Facets
+![Facets Orchestrator](https://cdn.prod.website-files.com/6252ef50a9f5d4afb6983bc3/67f512e04749330001ac5823_Facets%20Orchestrator%20(5).png)
+Rather than expanding scripts or layering on more automation, MPL's platform team took a new approach: model infrastructure and delivery as high-level **intents**, then orchestrate outcomes **declaratively** using Facets.
+The platform team defined the architecture, policies, and patterns:
+* What an application should declare for which they were earlier dependent on SRE teams (via intents)
+* Which cloud and environment should it target (AWS/GCP, Dev/QA/Prod)
+* How identity, networking, and observability should be wired in
+* Which compliance and rollout policies apply
+This internal platform, powered by Facets, became MPL's single source of truth for operating infrastructure safely at scale.
+#### Phase 1: Service-by-Service Migration to GCP
+Instead of freezing dev work for a big-bang migration, the platform team embedded cloud selection as a configurable flavor in each service's definition.
+Developers could simply update the configuration to switch service from AWS to GCP or back—The Platform with Facets Orchestrator took care of the rest:
+* Routing and upstream connections were handled automatically.
+* Service health and rollback safety were built into the flow.
+* Progressive rollout from Dev to QA to Prod.
+> We flipped a configuration, triggered a release, and the service was up on GCP—without touching the pipelines,—Said Kaushal.
+This approach enabled the development team to
+* Migrate at their own pace without compromising feature releases
+* Switch over Service-by-Service without taking a cut-over risk
+* Establish a Repeatable switchover and rollback process
+#### Phase 2: Empowering Developers with Controlled Self-Service
+Once migration was underway, the platform team focused on unlocking developer velocity without compromising governance.
+With Facets, they exposed platform capabilities as declarative intents—each with guardrails baked in. QA and development teams could now:
+* Deploy services without needing platform intervention
+* Trigger progressive rollouts with safety nets
+* View deployment health, traceability, and compliance status—all from one place
+>We didn't just speed things up. We gave teams ownership over their workflows, said Kaushal. That's when everything clicked.
+This led to a dramatic increase in deployment throughput: from 1 to 8 releases per week.
+#### Phase 3: Unifying Orchestration Across 100+ Services
+Before Facets, different pipelines were used for provisioning, deploying, and configuring services. This caused inconsistencies, drift, and confusion.
+The platform team modeled a cohesive orchestration layer with Facets that standardized how services and dependencies were defined and deployed across tools.
+Facets became the orchestrator behind the scenes, coordinating:
+* App deployments, Canary / Blue-green Rollout policies (Argo, Istio)
+* Cloud infra provisioning (GKE, IAM, DNS, etc.)
+* Secrets management
+* Compliance controls
+Now, every service flows through the same orchestrator, with consistent outputs and traceable workflows.
+#### Environments as a Commodity
+One major unlock was the way environments were modeled as a separate dimensions—not bundled inside the resource definition.
+This allowed MPL teams to:
+* Launch production-like performance environments with a click
+* Tear down environments when unused—saving 20% on compute
+* Maintain environment-specific policy mappings and access controls
+The separation of **intent** (what the service needs) and **environment** (where it should run) gave MPL enormous flexibility and scalability.
+#### Built-In Governance & Policy Enforcement
+Security, identity, and compliance were not layered on—they were baked in. IaC modules were secured before being used and the platform team defined standardized policies and enforcement logic. Facets ensured these were applied consistently, across environments.
+* Secure-by-design networking and IAM
+* RBAC modeled per environment applied globally
+* Infra drift detection and policy compliance checks
+> We have a lot of granularity in our RBAC, controlling every action and entity. A few days ago, someone performed a full release that he wasn't supposed to. We were able to remove just the full release privilege while leaving developers free to work - Vandan Rohatgi, Security Engineer, MPL.
+## What Made The Difference?
+The MPL story isn't just about tooling—it is about **platform leadership**.
+By adopting Facets, the platform team didn't just improve deployments—they built an **internal cloud platform** that developers trust. A system where:
+* Teams declare **intents** and **choose environments**
+* The orchestrator builds and operates everything in between
+* The policy is never optional but never a burden either
+They made Facets their **platform engine**, and in doing so, **they gave developers superpowers**.
+> "We now have a single source of truth for our Infrastructure. Also, we have enabled smarter auto scaling and faster environment replication because everything is working on Facets already.” - Kaushal Bagtharia, AVP of Engineering, MPL
+
+### 95% Reduction in Ops Tickets with 20% Developer Productivity Boost
+
+# Capillary Transforms DevOps into Platform Engineering with Facets
+How Capillary achieved 100% cloud automation, developer self-service, and boosted operations efficiency by adopting Facets’ platform engineering approach.
+## Strategic Value Delivered by Facets
+## Before
+1. Fragmented automations led to inconsistent infrastructure and poor visibility.
+2. Launching new production environments consumed significant Dev and Ops time and delayed business operations.
+3. Developers were dependent on Ops for infrastructure changes, creating bottlenecks and slower releases.
+## After
+1. Consistent Infrastructure: Facets ensured standardized workflows across environments, reducing production issues and improving reliability.
+2. Single-Click Environment Launch: New production environments can be launched quickly with minimal overhead, even for complex global deployments.
+3. Self-Service Environment Management: Developers can now manage their own environments with standardized workflows, reducing dependency on Ops.
+## Challenges Faced by Capillary before Facets
+As Capillary grew, the constant need for agility and fast iterations put a strain on its lean operations team. With each product group wanting to introduce new services, experiment on various frameworks, or change existing setups, the lean Ops team was stretched thin. In addition to managing migrations and upgrades, addressing cost, security, and compliance issues, and dealing with service degradations, the Ops team was responsible for meeting the developers' changing needs.
+This created several challenges for Capillary.
+1. Firstly, this growing dependency on the Ops team led to burnout. The Ops team introduced several processes, such as a ticketing system, which created delays and blockers for developers, creating productivity issues, and management overheads, and led to slower releases.
+2. Secondly, the automation couldn't keep up and needed constant refresh. Triggering the majority of the automation required specialized skills and supervision which meant Dev teams couldn’t use them. This led to silos of understanding, resulting in predictability and reliability problems creeping into the infrastructure.. As Piyush describes it, *"Part of the system was automated while other parts had no visibility."*
+3. Finally, as Capillary expanded into new regions and went up-market, additional production environments were needed. Each additional launch consumed significant Dev and Ops bandwidth during the initial setup as well as added slowness to the pace of change. As Goel, SVP of Engineering, notes, *"Business conversations start at the time of sales: Do you have a local region or can you deploy on our private cloud?"*
+Capillary realized that they needed to reimagine a solution –  that would empower developers to take ownership of their code and infrastructure while allowing the Ops team to focus on developer enablement.
+## How Facets Helped Capillary Shift to Platform Engineering
+The key problem that needed to be addressed was the interdependence between the Dev and Ops teams. To tackle this issue, the initial focus was on transforming the automations into a product. Previously, the Ops team relied on these automations to streamline their work, but they were not intended for the Devs to use in a self-service capacity. With the introduction of Facets, standardized higher-order workflows were implemented that were comprehensible to all teams.
+As Piyush notes, *"Facets has brought in standardization across all aspects–  how you build, deploy, monitor, and how you access and interpret metrics – all of these are defined in a  consistent way. Everyone speaks the same language and could easily comprehend their own and dependent services.”*
+Facets does not replace DevOps teams. By automating repeated and redundant tasks, the platform gives DevOps teams the time to focus on business-relevant problems. Facets is built on well-known technologies and provides transparency on how they are used. Further, it is extensible, encouraging DevOps teams to build on top of it.
+### Self-service boosted Dev and Ops Productivity
+The Dev teams' standardized workflows, combined with the Ops teams' guardrails, enabled both teams to work autonomously. For instance, if a Dev team wants to introduce a new module with additional services and databases, and obtain the required credentials for resource interaction with the services, they can do so without delving into the finer points, which minimizes the possibility of errors.
+As Piyush puts it: *"All of the tasks that were slow and required oversight are now self-served. Ops teams control what capabilities are available for Devs. But once done, Dev teams make their own choices."*
+![image](https://cdn.prod.website-files.com/6252ef50a9f5d4afb6983bc3/640eb8c024ccc74cd0fa9b8c_Capillary%20Ops%20Tasks%20Trend.png)
+With increased bandwidth for Ops teams, they are now able to play a more expansive role. They focus on enhancing developer experiences and expanding Facets' capabilities.
+*“Nothing is dependent on Ops team any more. If the Devs want to use a completely new type of resource, Ops team build Terraform extension on top of Facets and make it available to them. Hence, we call them SRE & DevTools Teams now. We have 15 environments run by only a 6-member team because they don’t manage them but rather empower Devs to manage them,”* Piyush adds.
+### Improved visibility contributed to reliability and built a cost-conscious culture
+Furthermore, Facets’ centralized developer experience, combined with complete auditability, guarantees that all essential information is available to the Dev teams in one place. For instance, if a developer faces a production issue, they can access all the relevant metrics, configurations, health, and changelogs all in a single location and can quickly respond to it. The increased visibility into resource and cloud cost enables Dev teams to proactively plan cost optimization within their sprints.
+As Goel puts it: *"Facets helped us achieve 99.99% of availability, higher release frequency, while sustaining the cloud cost."*
+### 100% automation eases the management of additional environments
+Facets is designed to centralize all information required to launch a new environment. This means that launching a new environment with existing workflows can now be accomplished with a single click. In addition, Facets automates infrastructure upgrades such as Kubernetes upgrades, resulting in significant time savings across all environments, potentially saving hundreds of person-hours.
+As Piyush quantifies *“A recent US region we launched took just under 2 weeks with 8 man-weeks of effort for the tech team to sign off – It used to be a 64 man-weeks of effort before Facets.”*
+## Key Results
+- **20% boost in Dev productivity** - Saving 30-40 hours of coordination efforts per scrum team per sprint
+- **95% reduction in Ops tickets** - Unattended releases of 40 major and 100s of minor releases per month
+- **99.99% uptime** - Improved stability and ability to respond faster
+- **Single click environment launch and no additional overhead** - Managing in multiple geographical and private deployments: US, China, Asia, Middle East
+## What's next for Capillary
+Facets is not just a tool for Capillary—it’s a framework adaptable to future business needs. As Capillary prepares for expansion in the US and Europe, Facets will be instrumental in managing the necessary tech infrastructure changes.
+Capillary has already deployed in AWS China, a complex environment that Facets helped streamline. Future acquisitions and tech stacks will also adopt Facets with ease.
+
+### 70% Reduction in Production Issues with Infrastructure-as-Code Excellence
+
+# Treebo uses Facets platform engineering to shift-left on infrastructure management and boosts Dev and Ops efficiency
+How Treebo leveraged Facets for efficient environment management for multiple test and production environments, empowering teams and improving stability.
+## Strategic Value Delivered by Facets
+## Before
+1. Multiple region-specific production environments lacked consistency, complicating operations.
+2. Tenant-specific infrastructure creation was slow and inefficient, delaying onboarding.
+3. DevOps teams spent 70-80% of their time resolving production issues.
+## After
+1. Fully automated, one-click infrastructure provisioning, with consistent production and staging environments, reducing production issues by 70%.
+2. Simplified tenant onboarding, reducing time from days to minutes through templated infrastructure.
+3. DevOps teams now spend 80% of their time building new tooling and enhancing processes.
+## Challenges Faced by Treebo
+### Dev and Ops Team Productivity
+Treebo had in-house infrastructure automation for their build and deployments. However, the dev and ops teams found that a majority of their time was spent in sustaining these automation while firefighting in the production environments.
+In addition, resolving production issues took up valuable time, hampering overall productivity.
+> "The biggest challenge for the Ops team was that they would spend a good 70-80% of their time in solving production issues or helping the development teams out in debugging, this was frustrating for both teams.
+### Multiple Production Environments
+The productivity problem became worse when the new SaaS venture, Hotel Superhero, was introduced. It was built on Treebo's tech but additionally meant to serve global and tenant-specific deployments
+Architecting Hotel Superhero brought up challenges in replicating this infrastructure while maintaining consistency.
+> "We have multiple production clusters and it's mission critical for the success of the business itself that each production cluster has identical specs.
+## How Facets Transformed Treebo's DevOps
+When Treebo initiated a shift to Platform Engineering with Facets, their goal was also  to improve reliability, reduce tenant onboarding and enhance developer self-service.  . They rolled out the new setup on the Staging environment and then migrated to Production. With this move the advantages they gained were:
+### Drift-free Environment Management
+Implemented drift-free environments with a single source of truth, enabling consistent infrastructure across all production clusters.
+### One-Click Operations
+Ability to spin up and terminate environments with a single click, drastically reducing manual effort and time.
+### UI-Driven Workflows
+Provided UI-driven workflows for SRE and dev teams on alerting, logging, and monitoring, making infrastructure management accessible to all team members.
+### Template-Based Infrastructure
+Created template-based tenant-specific infrastructure for their Hotel Superhero SaaS product.
+> "With Facets, we have been able to set up true infrastructure-as-code including alerting, monitoring, deployment, and infrastructure creation…So our Staging environments now look very identical to Production environments and all production clusters which in turn look similar, this is a big win for us. So in case of production issues, one thing that our teams can be sure of, is that there are no infrastructure differences. It narrowed it down to only the Code issues." - Kadam, Co-Founder & CTO, Treebo.
+## Key Results
+1. Stable Environments - 70% Lesser Production issues with consistent infrastructure.
+2. Faster Tenant Onboarding - From Days to Minutes.
+3. Simplified pipelines with CI and CD decoupled - 50% reduction in time taken for Deployments.
+4. Empowered DevOps Team - 80% of DevOps team time is now spent on making new tooling, guidelines, and research to provide a better experience to developers.
+5. Shift-Left of infrastructure management - Finally, Treebo had a system where developers see through how every single change gets propagated to the environment as they continuously evolve the architecture. This led to an organic movement towards shift-left infrastructure management without shifting left the complexities associated with it.
+> "Earlier, developers only focused on code. Now, with Facets, they consider deployment, infrastructure needs, alerting, and autoscaling.” – Kadam, Co-Founder & CTO, Treebo.
+## What's next
+Treebo's transformation demonstrates how true Infrastructure-as-Code can revolutionize both operational efficiency and business scalability in the hospitality industry.
+**From Reactive to Proactive**: The shift from spending 70-80% of time on production issues to 80% on strategic work represents a fundamental operational transformation.
+**True Infrastructure-as-Code**: Unlike partial automation, Facets enabled complete IaC including alerting, monitoring, deployment, and infrastructure creation—eliminating the gaps that cause production issues.
+**Business Enablement**: The ability to onboard new Hotel Superhero tenants in minutes instead of days directly impacts business growth and customer satisfaction.
+> "With Facets, we have true infrastructure-as-code including alerting, monitoring, deployment and infrastructure creation," noted Kadam Jeet Jain, Co-Founder & CTO at Treebo Hotels.
+## Hospitality-Scale Requirements
+Managing 600+ hotels across 100+ cities requires exceptional infrastructure reliability and consistency. Treebo's achievement of 70% fewer production issues while scaling their Hotel Superhero SaaS offering demonstrates how platform engineering can support both traditional operations and new product launches.
+The template-based tenant-specific infrastructure has been particularly crucial for their SaaS expansion, enabling rapid onboarding of new accommodation businesses.
+## What's next for Treebo
+### Cloud Agnostic Strategy
+Aim to become a cloud-agnostic offering, providing flexibility to leverage the best cloud services across different providers.
+### Enhanced Reliability
+Test high-availability setups to ensure zero-downtime operations for their critical hospitality systems.
+### Tool Optimization
+Unlock more features of Prometheus and other monitoring tools to gain deeper insights into system performance.
+> "Moving towards a cloud-agnostic offering with Facets is going to be a long-term business advantage for us." -Kadam Jeet Jain
+Co-Founder & CTO, Treebo Hotels and Hotel Superhero
+
+### 21 Self-Serve Releases Per Day with 52% Cost Reduction
+
+# Aster Digital Health partners with Facets to accelerate Platform Engineering and scale global cloud infrastructure for myAster
+Discover how Aster DM Healthcare's consumer product, myAster, accelerated its infrastructure automation, optimized costs, and achieved multi-cloud scalability by leveraging Facets' Platform Engineering solution.
+## Strategic Value Delivered by Facets
+## Before
+- Aster DM Healthcare, a leading healthcare provider, faced slow infrastructure setup, inconsistent configurations, and reliance on third-party vendors. These challenges delayed feature rollouts and increased operational inefficiencies, limiting their ability to scale.
+## After
+- By adopting Facets' platform-first approach, Aster streamlined infrastructure provisioning, empowered its development and operations teams with self-service tools, and standardized configurations across environments, improving security, compliance, and scalability.
+## Challenges Faced by Aster
+- **Fragmented Infrastructure Management:** Fragmented infrastructure setup processes took weeks to complete, leading to slow development cycles and limited scalability
+- **Inconsistent Configurations:** Tools like Kubernetes and ELK were not optimized, resulting in performance inefficiencies and inconsistent security measures.
+- **Security and Compliance Concerns:** Vendor-managed infrastructure created risks of non-compliance and inconsistent configurations, which posed significant challenges for a healthcare company that operates in a heavily regulated industry.
+- **High Operational Costs:** Provisioning for peak usage led to resource wastage and higher infrastructure costs.
+## How Facets Transformed Aster's Platform Engineering
+In April 2023, Aster transitioned to Facets' platform-first solution, moving away from third-party vendors to an in-house Platforms team. Facets helped Aster overcome its infrastructure challenges through automation, cost optimization, and improved compliance:
+- **Automation-Driven Infrastructure:** Aster Achieved 100% automation through Facets' infrastructure platform engineering solution, reducing environment setup times from weeks to hours.
+- **Standardized and Optimized Configurations:** Facets provided industry standard configurations for critical tools like Kubernetes and ELK
+- **Enhanced Security and Compliance:** Facets enforced the use of well-architected infrastructure modules
+- **Cost Management and Savings:** With features like scheduled environment hibernation, Facets helped Aster optimize resource utilization, reducing cloud costs by 52% per environment
+## Key Results
+**1.Increased Development Agility**: With Facets, Aster reduced the time to create new environments from weeks to hours. It enabled the team to create more dev and test environments, allowing parallel testing and faster releases. The pace of QA and bug fixing improved, resulting in quicker production deployments.
+> "Earlier, we used to either repurpose existing environments or use time-based sharing to test on the same environments. Now, we can create on-demand environments on the go," says Kadam.
+Aster clocked ~8000 self-service releases in the last 12 months, which translates to 21 releases a day!
+**2. Cost Management**: By using the "scheduled environment hibernation" feature in Facets, Aster prevented costs from rising despite an increase in the number of environments. Facets has empowered Aster's Ops team to make informed decisions by providing out-of-the-box insights on cost and performance. Kadam is confident of achieving more cost savings in the future as they launch myAster in new geographies.
+![Cost Optimization Dashboard](https://cdn.prod.website-files.com/6252ef50a9f5d4afb6983bc3/668e30fb4bfe9b6b63180abe_Screenshot%202024-07-10%20at%2012.26.11%E2%80%AFPM.png)
+Using the above availability patterns and other techniques like spot management, myAster saved nearly 52% of costs per each lower environment with Facets.
+**3. Enhanced Ops Efficiency**: Aster now operates with an efficient 3-member DevOps team, replacing third-party vendors. Now, the team focuses on high-value tasks rather than repetitive, manual work. This shift has notably boosted team satisfaction and learning opportunities.
+> "Earlier, the DevOps team used to be constantly busy with things like launching clusters, working on ironing out infrastructure issues or managing access. Now they can focus on more important tasks like experimenting with newer logging systems, and performance studies. It has increased the happiness quotient of the team." says Kadam.
+**4. Multi-Cloud Flexibility**: Facets' cloud-agnostic framework enabled Aster to expand into new regions, such as Saudi Arabia, Oman, and India leveraging different cloud providers suitable for the region. Kadam notes that the ability to adapt to new cloud environments without significant re-architecture was a major benefit of using Facets.
+## What Made the Difference?
+Aster's transformation demonstrates the critical importance of platform engineering in regulated industries like healthcare. The key success factors included:
+**Healthcare-Focused Compliance**: Facets understood the unique regulatory requirements of the healthcare industry and provided well-architected modules that ensure compliance by default.
+**Cost-Effective Scaling**: Rather than simply adding more infrastructure, Facets enabled intelligent resource utilization through features like environment hibernation, allowing Aster to scale without proportional cost increases.
+**Developer Empowerment**: The transition from weeks-long environment setup to on-demand provisioning fundamentally changed how Aster's development teams work, enabling true self-service capabilities.
+> "Earlier, we used to either repurpose existing environments or use time-based environment sharing among teams. Now, we can create on-demand environments on the go," noted Kadam Jeet Jain, CTO of Aster DM Healthcare.
+## Outstanding Support: The Facets Secret Sauce
+Aster DM Healthcare’s successful integration of Facets demonstrates the transformative power of Platform Engineering. By automating infrastructure, standardizing processes, and empowering its teams, Aster has laid a solid foundation for further expansion of its digital healthcare services.
+Facets will continue to support Aster as it grows globally, ensuring compliance, security, and cost efficiency.
+> “Aster has a global mission of expanding its hospitals, healthcare services, and digital care platform country by country. A strong automation foundation through Facets enables partnerships with multiple cloud providers across various regions, ensures compliance with regulatory norms, and enhances developer velocity to deliver cost-effective and secure healthcare solutions.” -Kadam Jeet Jain
+, CTO, Aster DM Healthcare
+
+### 100% Developer Autonomy with 70% Cost Reduction and 25x Faster Go-Live
+
+# How Purplle scaled Platform Engineering and achieved 100% Developer Autonomy with Facets Cloud
+India’s leading eCommerce beauty brand streamlined infrastructure management and reduced non-production cloud costs by 70% using Facets.
+## Strategic Value Delivered by Facets
+# Before
+1. A rapid growth of the development team from 20 to 120 engineers and introduction of new microservices increased the complexity of operations
+2. Traditional people-dependent DevOps caused delays in adopting cloud best practices leading to cloud wastage
+3. Tribal knowledge in DevOps caused bottlenecks in deployments which slowed down the feature rollouts
+# After
+1. Self-service infrastructure management empowered developers to control their own environments.
+2. Pre-baked reusable automation with standardized configurations accelerated towards a well-architected cloud posture with reduced costs and improved efficiency.
+3. Aligned autonomy for developers accelerated deployments and improved collaboration between dev and platform teams.
+## Challenges Faced by Purplle
+1. **DevOps bottlenecks slowing down developers:**
+- Despite moving to microservices and Kubernetes for agility, DevOps operations were reliant on tribal knowledge
+- Growing team of engineers (from 20 to 120 during pandemic) faced delays in getting features to production
+- New features were ready, but DevOps inefficiencies kept them from going live
+2. **DevOps Bottlenecks affecting cloud posture:**
+- DevOps team had to scale to meet developer demands
+- Needed to catch up to best practices around cost, security, and compliance
+- Hiring more engineers wasn't solving underlying process issues
+3. **Failed Automation Attempts:**
+- Previous attempts at automating infrastructure management failed
+- Vendor solutions and manual scripts in Ansible and Terraform only created more assets with tribal knowledge
+- Solutions were not scalable
+## Why Purplle chose Facets?
+After hearing a recommendation from a peer CTO, Purplle evaluated Facets as a Platform Engineering solution. During the trial, Facets showcased its ability to empower both Dev and Ops teams, aligning with Purplle’s tools, security needs, and collaboration goals. It provided a unified platform to manage infrastructure efficiently and eliminated dependencies on individual team members.
+## How Facets Transformed Purplle's DevOps
+1. **Rapid Migration:** Within a month, fully migrated infrastructure to Facets, including development, sandbox, and production environments
+2. **Self-Service Infrastructure:**
+- Empowered teams with self-serve environment management
+- Developers could manage their own sandboxes
+- Could test features and ensure quality before going live
+3. **Cost Optimization:**
+- Out-of-the-box automation and configurations
+- Reduced non-production cloud costs by 70% through spot management
+4. **Streamlined Collaboration:**
+- Established framework for aligned autonomy
+- Teams empowered to manage software lifecycle
+- Maintained alignment with organizational guardrails
+## Key Results
+**1. 100% Developer Autonomy**: Empowered developers with self-service infrastructure, accelerating deployments and reducing dependency on DevOps
+**2. 70% Reduction in Non-Production Cloud Costs**:  Optimized cloud usage through automated spot management and standardized configurations.
+**3. 10x Complexity Management**:  Seamlessly handled increased operational complexity with growing microservices and teams.
+**4. 50% Faster Feature Rollouts**: Removed DevOps bottlenecks, enabling quicker time-to-market for new features.
+**5. One-Month Infrastructure Migration**: Successfully migrated all environments—development, sandbox, and production—to Facets in just four weeks.
+## What's next for Purplle
+Transforming DevOps team into a Platform Engineering team, focusing on:
+- Increasing machine throughput
+- Optimizing applications
+- Unlocking new levels of scalability and innovation
+The CTO summarized their vision: "I don't want any DevOps team, I want a platform engineering team who can solve complex problems and help dev teams to scale their apps.
+> “I don’t want any DevOps team, I want a platform engineering team who can solve complex problems and help dev teams to scale their apps. Like how do you increase the throughput of your machines? Facets will allow us for sure to spend time on high-value activities and not mundane Ops, which is a big unlock for me.” -Suyash Katyayani, Co-Founder & CTO, Purplle
+
+## CUSTOMER PROFILES
+
+### Vymo - Sales Productivity Platform
+
+About: Vymo is a sales acceleration platform for the BFSI (Banking, Financial Services, and Insurance) sector, serving clients across multiple geographies including India, Southeast Asia, the US, Japan, and Canada. Their multi-tenant SaaS platform offers customizable solutions for diverse clientele, trusted by leading financial institutions globally.
+
+Key Metric: 200+ monthly releases
+
+Vymo is an intelligent sales engagement platform that helps sales teams capture activities, get insights, and improve productivity through AI-powered automation.
+## Partnership Highlights
+- **Global Scale**: Managing 15+ global deployments efficiently
+- **Service Density**: Each data center runs 20+ services seamlessly
+- **Zero Issues**: Never faced deployment issues despite complexity
+- **Multi-Region Support**: Consistent infrastructure across all regions
+## Impact
+Facets enables Vymo to maintain a complex, globally distributed infrastructure with minimal DevOps overhead, allowing them to focus on product innovation and customer success.
+
+### Good Game Exchange (GGX) - Gaming & Blockchain
+
+Key Metric: Cloud migration in 2 weeks
+
+Good Game Exchange (GGX) is a blockchain-powered gaming platform that lets game studios embed digital-asset trading directly into their titles. Backed by the founding team of MPL, GGX powers Striker—a fantasy sports card-trading game consistently ranked in Polygon's Top 10.
+## Partnership Highlights
+- **Lightning Fast Migration**: Completed AWS to GCP migration in just 2 weeks (vs 2-3 months planned)
+- **Deployment Velocity**: Achieved 25× faster release velocity (from weekly to 5-6 per day)
+- **Operational Efficiency**: 3× ops efficiency gain (reduced from 5 DevOps to 2 platform engineers)
+- **Environment Provisioning**: Reduced from 1 week to 1 day
+## Impact
+Facets radically transformed GGX's DevOps capabilities, enabling them to focus on building innovative gaming experiences while maintaining a lean, efficient infrastructure team.
+
+### Mobile Premier League (MPL) - Gaming & Entertainment
+
+About: Mobile Premier League (MPL) is the world's leading skill gaming platform that allows users to participate in free as well as paid competitions across 60+ games in multiple categories, including fantasy sports, sports games, puzzle, casual and board games. Founded in 2018, MPL hosts hundreds of tournaments a month and is trusted by over 120 million registered users across India, US, and Nigeria.
+
+Key Metric: 8X deployment frequency
+
+Mobile Premier League (MPL) is the world's leading skill gaming platform with over 120 million users and 150+ engineers. During peak gaming seasons like IPL, traffic can surge 3X and an hour of downtime can lead to millions of dollars of loss in GMV. Every service needs to stay online—every release has to be smooth.
+## Partnership Highlights
+- **Zero-Downtime Migration**: Successfully migrated from AWS to GCP without any service interruption
+- **8X Deployment Frequency**: Increased release velocity from bi-weekly to multiple times per day
+- **Developer Self-Service**: Enabled 150+ developers with self-service capabilities
+- **Global Scale**: Supporting millions of concurrent users across multiple regions
+## Impact
+Facets empowered MPL's SRE team to execute a complex cloud migration while simultaneously improving developer productivity and system reliability, all while maintaining their position as a leading gaming platform.
+
+### Capillary Technologies - Retail CRM & Loyalty
+
+About: Capillary Technologies is a global leader in loyalty and customer engagement solutions, serving 250+ major brands across 30+ countries. The company provides AI-powered loyalty programs and personalized marketing solutions that help brands enhance customer engagement and drive business growth.
+
+Key Metric: 95% reduction in ops tickets
+
+Capillary Technologies is a leading SaaS platform that helps brands enhance customer engagement through AI-powered loyalty programs and personalized marketing. Serving 400+ brands across 30+ countries.
+## Partnership Highlights
+- **Infrastructure Transformation**: Moved from reactive to proactive infrastructure management
+- **Developer Enablement**: Enabled self-service across 100+ engineers
+- **Global Standardization**: Achieved infrastructure standardization across multiple regions
+- **Operational Excellence**: Reduced operational tickets by 95%
+## Impact
+The partnership with Facets has fundamentally transformed how Capillary's engineering teams interact with infrastructure, enabling them to focus on building innovative features for their customers rather than managing infrastructure complexity.
+
+### Aster DM Healthcare - Healthcare
+
+About: Aster DM Healthcare is one of the largest healthcare service providers in the Middle East and India, operating hospitals, clinics, and pharmacies across multiple countries. The company provides comprehensive healthcare services with a strong focus on digital health solutions through their myAster platform.
+
+Key Metric: 21 self-serve releases per day
+
+Aster DM Healthcare is one of the largest healthcare service providers in the Middle East and India, operating hospitals, clinics, and pharmacies across multiple countries.
+## Partnership Highlights
+- **Multi-Cloud Strategy**: Enabled partnerships with multiple cloud providers across regions
+- **Regulatory Compliance**: Ensures compliance with healthcare regulatory norms
+- **Developer Velocity**: Significantly enhanced developer productivity
+- **Security First**: Cost-effective and secure healthcare solutions
+## Impact
+Facets' strong automation foundation enables Aster to deliver critical healthcare services with the highest standards of reliability, security, and compliance across their international operations.
+
+### Fortune 50 Automotive Company - Automotive
+
+Key Metric: $14M annual savings
+
+A leading Fortune 50 automotive company with global operations, managing one of the world's largest automotive technology platforms.
+## Partnership Highlights
+- **Massive Scale**: Standardized 350 applications across 1500 engineers
+- **Cost Savings**: $14M annual savings through platform optimization
+- **Operational Efficiency**: 75% reduction in DevOps tickets
+- **Global Standardization**: Unified platform across all regions
+## Impact
+Facets enabled this automotive giant to transform their sprawling technology landscape into a unified, efficient platform that supports their global operations while delivering massive cost savings and operational improvements.
+
+### MoveInSync - Employee Transportation SaaS
+
+Key Metric: Managing 300K+ daily commutes
+
+MoveInSync is the leading employee transportation automation platform, helping enterprises manage and optimize their employee commute programs efficiently.
+## Partnership Highlights
+- **Massive Scale**: Supporting 300,000+ daily employee commutes
+- **Real-time Tracking**: Live tracking and routing for thousands of vehicles
+- **Enterprise Integration**: Seamless integration with enterprise systems
+- **Global Operations**: Managing transportation across multiple cities and countries
+## Impact
+Facets provides MoveInSync with the infrastructure reliability and scalability needed to ensure millions of employees reach their workplaces safely and on time, every single day.
+
+### Astuto - Cloud Cost Management
+
+Key Metric: Next-gen AI-powered AWS cost governance
+
+Astuto is a next-generation FinOps platform that helps businesses optimize and govern their AWS cloud costs through advanced AI-powered insights, intelligent cost prediction, and automated remediation agents.
+## Partnership Highlights
+- **AI-Driven Optimization**: Advanced algorithms identifying cost-saving opportunities
+- **Real-time Monitoring**: 360-degree visibility into complex cloud services like EKS and S3
+- **Automated Governance**: Policy-based auto-remediation reducing manual overhead
+- **Proven Results**: Helping customers achieve 20-40% cost reductions
+- **Enterprise Trust**: Rated 4.8/5 on G2 with customers like DTDC, Airmeet, and Freecharge
+## Impact
+Facets enables Astuto to maintain a highly reliable and scalable platform that processes billions of cloud cost data points, helping their customers including Avanse, Squadstack, and BrightQuery achieve significant AWS cost savings while maintaining operational excellence.
+
+### Invenco by GVR Group - Technology Solutions
+
+Key Metric: Enhanced operational efficiency
+
+Invenco by GVR Group is a leading technology solutions provider offering innovative products and services to enterprises worldwide.
+## Partnership Highlights
+- **Operational Excellence**: Streamlined deployment processes across multiple regions
+- **Infrastructure Automation**: Reduced manual intervention in critical workflows
+- **Global Standardization**: Unified platform across all operational centers
+- **Reliability**: Improved system uptime and performance
+## Impact
+With Facets, Invenco has modernized their technology infrastructure to support their global operations while maintaining high standards of reliability and performance.
+
+### Integrtr - HR Technology Integration
+
+Key Metric: SAP SuccessFactors integration expert
+
+INTEGRTR is a leading HR technology integration specialist, expertly connecting SAP SuccessFactors, Workday, and other major HR management systems for global enterprises.
+## Partnership Highlights
+- **HR System Expertise**: Deep specialization in SAP SuccessFactors and Workday integrations
+- **Real-time Data Flow**: Seamless bi-directional data synchronization across HR platforms
+- **Compliance Ready**: Built-in compliance support for global HR regulations
+- **Enterprise Scale**: Trusted by global leaders for mission-critical HR integrations
+- **Automation Focus**: Streamlining HR processes through intelligent automation
+## Impact
+With Facets' robust infrastructure, INTEGRTR delivers highly reliable and scalable HR integration solutions that enable global enterprises to maintain seamless data flow across their HR ecosystem, ensuring accurate employee data management and compliance across all systems.
+
+### Signifyd - Commerce Protection Platform
+
+Key Metric: AI-powered fraud detection and prevention
+
+Signifyd provides a commerce protection platform powered by advanced AI agents and machine learning algorithms that deliver real-time fraud detection, intelligent abuse prevention, and automated revenue optimization for e-commerce businesses.
+## Partnership Highlights
+- **Rapid Deployment**: Accelerated feature deployment for fraud detection capabilities
+- **Global Scale**: Managing infrastructure across multiple regions
+- **High Availability**: Ensuring 99.99% uptime for critical commerce protection services
+- **Developer Efficiency**: Improved developer productivity and deployment confidence
+## Impact
+Facets enables Signifyd to maintain a highly available, globally distributed platform that protects billions in commerce transactions while allowing their engineering team to focus on advancing their AI and ML capabilities.
+
+### AskMyGuru - Spiritual & Wellness Tech
+
+Key Metric: 24/7 spiritual guidance platform
+
+AskMyGuru is revolutionizing spiritual and astrological guidance in India through their mobile-first platform, connecting millions of users with experienced Vedic astrology gurus and spiritual advisors.
+## Partnership Highlights
+- **Scalable Infrastructure**: Supporting 24/7 availability for thousands of concurrent consultations
+- **Real-time Communication**: Enabling instant chat and consultation features
+- **Mobile-First Architecture**: Optimized for mobile app performance and reliability
+- **Data Security**: Ensuring user privacy and secure handling of personal consultation data
+- **Rapid Growth Support**: Infrastructure that scales with exponential user growth
+## Impact
+With Facets, AskMyGuru has built a robust and scalable platform that handles thousands of daily consultations, ensuring reliable service delivery for users seeking spiritual guidance anytime, anywhere across India.
+
+### CommerceIQ - E-commerce Intelligence Platform
+
+Key Metric: Advanced AI-powered e-commerce optimization
+
+CommerceIQ is the leading e-commerce management platform that helps consumer brands win on retail marketplaces through sophisticated AI-powered automation agents, machine learning insights, and intelligent optimization algorithms.
+## Partnership Highlights
+- **AI at Scale**: Processing billions of e-commerce data points daily
+- **Real-time Analytics**: Instant insights across thousands of SKUs and marketplaces
+- **Global Operations**: Supporting brands across Amazon, Walmart, and other major retailers
+- **Machine Learning Infrastructure**: Complex ML pipelines for price optimization and demand forecasting
+## Impact
+Facets enables CommerceIQ to maintain a robust, scalable infrastructure that processes massive amounts of e-commerce data in real-time, helping Fortune 500 brands optimize their digital shelf performance and drive billions in revenue.
+
+### AgNext - AgriTech
+
+Key Metric: AI-powered agricultural quality assessment
+
+AgNext is revolutionizing agricultural quality assessment through advanced AI agents and IoT-powered solutions, using machine learning algorithms to automate quality analysis and create a more transparent and efficient agricultural value chain.
+## Partnership Highlights
+- **IoT Scale**: Managing thousands of IoT devices across agricultural locations
+- **Real-time Processing**: Instant quality assessment and data analytics
+- **Rural Connectivity**: Reliable infrastructure even in low-connectivity areas
+- **Data Intelligence**: Processing millions of agricultural data points
+## Impact
+With Facets, AgNext has built a scalable technology platform that brings digital transformation to agriculture, enabling faster and more accurate quality assessments across the agricultural supply chain.
+
+### Niyo - Fintech - Digital Banking
+
+Key Metric: Rapid scaling of banking infrastructure
+
+Niyo is a leading digital banking platform offering forex cards, savings accounts, and travel banking solutions to millions of Indians.
+## Partnership Highlights
+- **Financial Services Scale**: Managing banking infrastructure for millions of users
+- **Compliance Ready**: Meeting strict financial regulatory requirements
+- **Global Transactions**: Supporting international forex and payment operations
+- **Security First**: Enhanced security for sensitive financial data
+## Impact
+Facets enables Niyo to maintain a robust, secure, and compliant banking infrastructure while rapidly scaling their innovative financial products across India and international markets.
+
+## CUSTOMER TESTIMONIALS
+
+## BLOG CONTENT (Selected Posts)
+
+### Facets.cloud and Spotify Backstage: A Unified Vision for Platform Engineering (2025-01-03)
+
+Summary: Backstage and Facets.cloud work together to simplify platform engineering. Learn how Facets.cloud builds on Backstage’s strengths, offering a unified solution for efficient, scalable, and standardized software delivery.
+
+As platform engineering evolves, tools like Backstage and Facets.cloud are emerging as indispensable for organizations seeking efficiency, standardization, and developer satisfaction.
+Despite their shared goal of streamlining software delivery, these tools are not competitors but complementary forces—each excelling in its domain.
+This article dives into how Facets.cloud builds on Backstage’s strengths and provides unique value to platform engineering teams.
+## The Philosophy Behind Backstage and Facets.cloud ​Backstage, developed by Spotify, addresses a critical pain point in modern development: the sprawl of tools, services, and documentation.
+It brings them together in a centralized portal, giving developers a single pane of glass to manage their workflows.
+Backstage is the *frontend* of platform engineering, empowering developers with visibility and consistency across their environment. ​Facets.cloud, on the other hand, focuses on the *backend* of platform engineering.
+It simplifies...
+
+### Facets.Cloud mentioned in the Gartner® Hype Cycle™ for Platform Engineering, 2024 report! (2024-08-01)
+
+Summary: Facets.Cloud mentioned in the Gartner® Hype Cycle™ for Platform Engineering, 2024 report. Learn how self-service environment management improves productivity, reduces cloud costs, and streamlines DevOps. Discover implementation strategies and real customer success stories.
+
+## Why Self-Service Matters in Environment Management?
+Consider a development team developing a new approach to improve the performance of a couple of their systems. They wish to test their new architectural changes consisting of a branch and a new database/cache in a feature environment without affecting the regular testing.
+Can they set it up without talking to the Platform team? How long will it take? How fast will the team be able to iterate configuration changes? How similar will the setup be to the other environments? Can they promote these changes to regular testing environments with complete confidence?
+And finally, how many such projects will the Platform team be able to support?
+Minimizing developers' wait time is one of the key reasons for promoting self-service environment management. The benefits, however, don’t stop there –
+> “There are three ways organizations can realize business value from self-service environment management tools. First, they help improve developer ex...
+
+### How to Improve Upon Your AWS Savings Plan Recommendations? (2022-04-15)
+
+Summary: How to Improve Upon Your AWS Savings Plan Recommendations? - insights and best practices from the Facets engineering team.
+
+When it comes to optimizing your [cloud costs](/blog/managing-cloud-spend-in-saas-7-overlooked-opinions), most practitioners tend to make use of saving plans recommended by AWS. However, can you just simply apply these recommendations in all scenarios? Maybe not. Let’s break down an example AWS Compute Savings plan recommendation and find out.
+A quick recap: There are two types of AWS savings plans: the Compute Savings plan and the EC2 Instance Savings plan. The AWS Compute Savings plan is more flexible and is applied automatically to EC2 instance usage regardless of instance family, size, AZ, Region, OS or tenancy etc. It can help you reduce costs by up to 66%.
+On the other hand, the EC2 Instance Savings plan applies to individual instance families in a region.
+### AWS Compute Savings Plan example
+In this example below, $5.894/hour was recommended to me based on a period of 7 days of usage:
+![AWS Compute Savings Plan](https://y0wsdzbpwwklahmp.public.blob.vercel-storage.com/blog-images/62597da3e89d1db6a706181d62442b10c286660a5e1d4ae3bl-136.png
+
+### Our Journey to Making Facets.Cloud Enterprise Ready (2025-02-18)
+
+Summary: Our Journey to Making Facets.Cloud Enterprise Ready - insights and best practices from the Facets engineering team.
+
+We recently shared a detailed [LinkedIn post](https://www.linkedin.com/posts/pravanjan_enterprise-readiness-is-about-making-your-activity-7295320754965958656-kuuk?utm_source=share&utm_medium=member_desktop) about our complete journey in implementing all 12 recommendations from the [EnterpriseReady.io](http://enterpriseready.io) framework. While that post covers our comprehensive transformation, we wanted to focus here on a few key transformations: some of which didn’t just help us meet enterprise expectations; they also became a competitive advantage, addressing gaps in the market that enterprises faced.
+When we started adapting Facets for enterprise use, we expected many changes would simply be checking boxes— standard requirements like SSO and role-based access. What we didn't expect was finding significant needs that enterprises were struggling with.
+Read this blog further to understand what were the most impactful transformations that became market advantages for us:
+## Key Transfo...
+
+### When AI Writes Code, Who Writes the Guardrails: Addressing AI Security Risks (2025-07-24)
+
+Summary: Learn about the security risks when building AI-powered products, including prompt injection, common vulnerabilities, and architectural pitfalls. 
+
+As LLMs get embedded deeper into developer workflows- writing code, generating configs, summarizing incidents, teams are moving fast to adopt AI without fully understanding what it breaks. The tools feel great at first, but behind the productivity boost lies a growing set of blind spots.
+The security surface is changing. Old attack patterns are resurfacing in new form. And most teams are shipping AI features without the right architecture, oversight, or even a basic threat model.
+This episode of the [AI x DevOps](https://aixdevops.transistor.fm/) podcast tackles these issues head-on. Rohit, Co-founder of Facets, spoke with [Nathan Hamiel](https://www.linkedin.com/in/nathanhamiel/), Director of Research at [Kudelski Security](https://www.linkedin.com/company/kudelski-security/) and the AI/ML track lead at Black Hat. With decades in offensive security and recent focus on AI threats in production systems, Nathan shared a grounded, technical view of how AI is actually performing and where ...
+
+### Rethinking Architecture: From Unstructured Diagrams to Structured Requirements (2023-04-24)
+
+Summary: Rethinking Architecture: From Unstructured Diagrams to Structured Requirements - insights and best practices from the Facets engineering team.
+
+Software architecture is the backbone of any software system. Architecture refers to the high-level organization of a software system, including its components, their relationships, and the interactions between them. It provides a **blueprint** for designing, implementing, and maintaining software systems.
+Traditionally, documenting software architecture involves creating static diagrams and design documents that describe various aspects of the system, such as its structure, behavior, and deployment. Traditional documentation methods often fall short when it comes to keeping up with the pace of development.
+![Infographic illustrating the growth in DevOps maturity, showing progression from manual to automated processes between Developers, Operations, and Cloud Architecture](https://y0wsdzbpwwklahmp.public.blob.vercel-storage.com/blog-images/devops-maturity-infographic.png)
+DevOps Maturity Model
+**Problems with the traditional approach**
+**Static, st...
+
+### From Tracking Success To Becoming Efficient: Defining DevOps Metrics (2023-04-13)
+
+Summary: From Tracking Success To Becoming Efficient: Defining DevOps Metrics - insights and best practices from the Facets engineering team.
+
+Peter Drucker is often quoted as saying, "you can't manage what you can't measure”. This is especially true in the world of technology and software development.
+In DevOps, **collecting, analyzing, and measuring** metrics is a critical aspect.
+A [study by Atlassian](https://www.atlassian.com/whitepapers/devops-survey-2020) in 2020 found that DevOps success directly correlates with important metrics such as MTTR and Lead Time, as well as business metrics like revenue and profitability.
+On the other hand, another opinion resonated amongst the respondents of the study:
+“It is difficult to measure the impact of DevOps progress, and organizations do not have a clear way to measure success,” voted half of the respondents.
+In this post, we will be discussing how organizations can gain valuable insights into their development and deployment processes, and make data-driven decisions to improve efficiency using DevOps metrics.
+## Why measure DevOps Metrics?
+Effective measurement of [DevOps metric...
+
+### Building an Internal Developer Platform: The Harsh Reality Behind the Promise (2024-10-21)
+
+Summary: Is your internal developer platform slowing down deployment velocity? See why buying an extensible IDP accelerates innovation and boosts productivity compared to complex in-house platforms.
+
+![An illustrative image of the challenges in building an IDP ](https://y0wsdzbpwwklahmp.public.blob.vercel-storage.com/blog-images/idp-challenges-illustration.png)
+Contents
+-   [Why Are Businesses Building IDPs?](#why-are-businesses-building-idps)
+-   [9 Reasons Building an IDP Isn’t The Best Solution for Businesses](#9-reasons-building-an-idp-isnt-the-best-solution-for-businesses)
+-   [4. Limited External Integrations](#4-limited-external-integrations)
+-   [8. Constant Updates and Maintenance](#8-constant-updates-and-maintenance)
+-   [9. Difficulty Retaining Specialized Expertise](#9-difficulty-retaining-specialized-expertise)
+-   [What to do Instead of Building an IDP?](#what-to-do-instead-of-building-an-idp)
+-   FAQs
+-   [FAQs](#faqs)
+Many companies are enticed by the idea of building an [internal developer platform](/blog/in-house-or-third-party-internal-developer-platform) (IDP)—a software that combines all the systems developers use into a unified ex...
+
+### Part 3: Why You Should Use IaC to Deploy Your Applications (2025-02-14)
+
+Summary: Traditional CI/CD pipelines rely on hidden manual processes, making deployments fragile. Learn how Infrastructure as Code (IaC) can automate infra, pipelines, and configurations—eliminating manual steps and ensuring true automation.
+
+Automation is supposed to reduce manual effort, right? But if you zoom out a little, you’ll notice something ironic—humans are still deeply embedded in "**automated**" CI/CD processes.
+## The Traditional Approach: Separate CI/CD Pipelines
+Let’s talk about how application deployments are typically handled today.
+We create separate Continuous Deployment (CD) pipelines that assume infrastructure is already in place. These pipelines—whether using [ArgoCD](https://argoproj.github.io/), [Helm](https://helm.sh/), or [Kubernetes](https://kubernetes.io/) manifests—deploy applications on top of an existing cluster. Sounds great, but here’s where the problems start:
+### Who Creates These Pipelines?
+Each new application needs its CD pipeline. And who writes these? Humans.
+-   Option 1: Developers manually copy self-serve templates (if available).
+-   Option 2: Ops teams create them on request (time-consuming).
+**Problem**: Every new service requires a new pipeline. Every new environment requires a...
+
+### A Primer to Key KPIs in Platform Engineering (2024-04-11)
+
+Summary: Delve deep into the key leading and lagging indicators to effectively evaluate the impact of platform engineering initiatives on operational efficiency, developer experience, and cloud infrastructure.
+
+![KPIs to Platform engineering](https://y0wsdzbpwwklahmp.public.blob.vercel-storage.com/blog-images/platform-engineering-kpis.jpeg)
+[Platform engineering](/blog/handbook-to-platform-engineering-journey) revolutionizes how technology meets specific needs, improving how developers work and makes operations smoother. It connects and refines tech parts, essential for companies aiming at efficiency and innovation, pushing them ahead in their industries.
+Yet, seeing platform engineering's real effects can be tricky. It's like piecing together a complex puzzle where immediate results aren't always visible, complicating the assessment of its impact on developer happiness and operational efficiency. Some benefits might take time to show, requiring patience and attention.
+To tackle these evaluation challenges, we use two key concepts: leading and lagging indicators. Leading indicators predict future trends, acting as early alerts, whil...
+
+## TEAM INFORMATION
+
+### Kirti Krishan - Engineering
+
+### Shrinidhi Prabhu - Engineering
+
+### Akshay Bhat - Engineering
+
+### Adi Unni - Product Manager
+
+### Rohit Raveendran - Co-Founder & VP Engg
+
+### Anindya Pal - Product Manager
+
+### Samarthya Gupta - Engineering
+
+### Vincent De Smet - DevOps Engineer
+
+### Krishna Mundra - Engineering
+
+### Suyash Katyayani - Co-founder & CTO
+
+### Kaushal Bagtharia - Senior Engineering Manager
+
+### Ashwin Rajeeva - Co-founder & CTO
+
+### Nathan Hamiel - Director of Research
+
+### Pramodh Ayyappan - Platform Engineer
+
+### Ishaan Kalra - Engineering

@@ -1,0 +1,76 @@
+# KiloEx
+
+## KiloEx
+
+- [Home](https://docs.kiloex.io/kiloex/home.md): Next generation of user-friendly perpetual DEX on BNB Chain/opBNB/Manta/Base.
+- [Tokenomics](https://docs.kiloex.io/kiloex/about-kiloex/tokenomics.md): Next generation of user-friendly perpetual DEX on BNB Chain/opBNB/Manta/Base.
+- [Roadmap](https://docs.kiloex.io/kiloex/about-kiloex/roadmap.md): Next generation of user-friendly perpetual DEX on BNB Chain/opBNB/Manta/Base.
+- [$KILO/$xKILO Token](https://docs.kiloex.io/kiloex/about-kiloex/usdkilo-usdxkilo-token.md): xKILO
+- [Converting & Staking xKILO](https://docs.kiloex.io/kiloex/about-kiloex/usdkilo-usdxkilo-token/converting-and-staking-xkilo.md): xKILO
+- [Hybrid Vault](https://docs.kiloex.io/kiloex/about-kiloex/hybrid-vault.md): Hybrid Vault
+- [APY Boost](https://docs.kiloex.io/kiloex/about-kiloex/hybrid-vault/apy-boost.md): APY Boost
+- [Supported Assets in Vault](https://docs.kiloex.io/kiloex/about-kiloex/hybrid-vault/supported-assets-in-vault.md): Supported Assets in Vault
+- [Contract address](https://docs.kiloex.io/kiloex/about-kiloex/contract-address.md): Contract address
+- [Audit](https://docs.kiloex.io/kiloex/about-kiloex/audit.md): Audit
+- [Terms of Service](https://docs.kiloex.io/kiloex/about-kiloex/terms-of-service.md): Terms of Service
+- [Multi-level Node Commission System](https://docs.kiloex.io/kiloex/about-kiloex/multi-level-node-commission-system.md): Multi-level Node Commission System
+- [Overview](https://docs.kiloex.io/kiloex/overview.md): Next generation of user-friendly perpetual DEX on BNB Chain/opBNB/Manta/Base.
+- [Overview](https://docs.kiloex.io/kiloex/trading/overview.md): Overview
+- [How to bridge](https://docs.kiloex.io/kiloex/trading/how-to-bridge.md)
+- [Fast Trading Mode (Upgraded from 1CT)](https://docs.kiloex.io/kiloex/trading/fast-trading-mode-upgraded-from-1ct.md): Fast Trading Mode
+- [How to trade on BNB and opBNB](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-bnb-and-opbnb.md): How to trade on BNB and opBNB
+- [Wallet setup](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-bnb-and-opbnb/wallet-setup.md)
+- [Get BNB to your wallet](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-bnb-and-opbnb/get-bnb-to-your-wallet.md)
+- [Opening / Closing trades](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-bnb-and-opbnb/opening-closing-trades.md)
+- [Deposit into Vault](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-bnb-and-opbnb/deposit-into-vault.md)
+- [How to trade on Testnet(BNB Chain)](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-testnet-bnb-chain.md): How to trade on Testnet(BNB Chain)
+- [Wallet setup](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-testnet-bnb-chain/wallet-setup.md): Wallet setup
+- [Get BNB on the testnet](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-testnet-bnb-chain/get-bnb-on-the-testnet.md): Get BNB on the testnet
+- [Opening / Closing trades](https://docs.kiloex.io/kiloex/trading/how-to-trade-on-testnet-bnb-chain/opening-closing-trades.md): Opening / Closing trades
+- [API Trading](https://docs.kiloex.io/kiloex/trading/api-trading.md): API
+- [Fees & Spread](https://docs.kiloex.io/kiloex/trading/fees-and-spread.md): Fees & Spread
+- [Forex Trading](https://docs.kiloex.io/kiloex/trading/forex-trading.md): Forex Trading
+- [Pair list](https://docs.kiloex.io/kiloex/trading/pair-list.md): Pair list
+- [Copy Trading](https://docs.kiloex.io/kiloex/trading/copy-trading.md): Copy Trading
+- [Airdrop Pioneer Season](https://docs.kiloex.io/kiloex/airdrop-and-reward/airdrop-pioneer-season.md): Airdrop Pioneer Season
+- [Referrals](https://docs.kiloex.io/kiloex/airdrop-and-reward/referrals.md): KiloEx referral program
+- [Affiliates Program](https://docs.kiloex.io/kiloex/airdrop-and-reward/affiliates-program.md): Affiliates
+- [FAQ](https://docs.kiloex.io/kiloex/airdrop-and-reward/affiliates-program/faq.md): Affiliates
+- [VIP](https://docs.kiloex.io/kiloex/airdrop-and-reward/vip.md): KiloEx VIP Program
+- [Genesis Pass](https://docs.kiloex.io/kiloex/airdrop-and-reward/genesis-pass.md): Genesis Pass
+- [Announcement](https://docs.kiloex.io/kiloex/help/announcement.md): Announcement
+- [Brand Assets](https://docs.kiloex.io/kiloex/help/brand-assets.md): Brand Assets
+- [Medium Post](https://docs.kiloex.io/kiloex/help/medium-post.md): Medium Post
+- [Tutorials（CN）](https://docs.kiloex.io/kiloex/help/tutorials-cn.md): Tutorials
+- [如何创建小狐狸钱包](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-chuang-jian-xiao-hu-li-qian-bao.md): Tutorials
+- [如何在小狐狸钱包添加其他链](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-zai-xiao-hu-li-qian-bao-tian-jia-qi-ta-lian.md): Tutorials
+- [如何使用小狐狸钱包在KiloEX平台交易（PC)](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-shi-yong-xiao-hu-li-qian-bao-zai-kiloex-ping-tai-jiao-yi-pc.md): Tutorials
+- [如何使用小狐狸钱包在KiloEx平台进行交易（手机端）](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-shi-yong-xiao-hu-li-qian-bao-zai-kiloex-ping-tai-jin-xing-jiao-yi-shou-ji-duan.md): Tutorials
+- [如何使用UXUY钱包链接KiloEx平台](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-shi-yong-uxuy-qian-bao-lian-jie-kiloex-ping-tai.md): Tutorials
+- [如何使用谷歌邮箱登录KiloEx平台](https://docs.kiloex.io/kiloex/help/tutorials-cn/ru-he-shi-yong-gu-ge-you-xiang-deng-lu-kiloex-ping-tai.md): Tutorials
+- [REVOX-BNB Chain](https://docs.kiloex.io/kiloex/revox-bnb-chain.md): REVOX-BNB Chain
+- [How to Get $REX and  $BNB on KiloEx](https://docs.kiloex.io/kiloex/revox-bnb-chain/how-to-get-usdrex-and-usdbnb-on-kiloex.md): REVOX-BNB Chain
+- [How to Trade on the REVOX-BNB Chain via KiloEx](https://docs.kiloex.io/kiloex/revox-bnb-chain/how-to-trade-on-the-revox-bnb-chain-via-kiloex.md): REVOX-BNB Chain
+- [REVOX-BNB Chain FAQ](https://docs.kiloex.io/kiloex/revox-bnb-chain/revox-bnb-chain-faq.md): REVOX-BNB Chain
+- [DEBOX-BNB Chain](https://docs.kiloex.io/kiloex/debox-bnb-chain.md): DEBOX-BNB Chain
+- [How to Trade on the BSC Chain Using the $BNB Swap $Box](https://docs.kiloex.io/kiloex/debox-bnb-chain/how-to-trade-on-the-bsc-chain-using-the-usdbnb-swap-usdbox.md): DEBOX-BNB Chain
+- [How to Trade on the DEBOX-BNB Chain COIN-M via KiloEx](https://docs.kiloex.io/kiloex/debox-bnb-chain/how-to-trade-on-the-debox-bnb-chain-coin-m-via-kiloex.md): DEBOX-BNB Chain
+- [DEBOX-BNB Chain FAQ](https://docs.kiloex.io/kiloex/debox-bnb-chain/debox-bnb-chain-faq.md): DEBOX-BNB Chain
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.kiloex.io/kiloex/home.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

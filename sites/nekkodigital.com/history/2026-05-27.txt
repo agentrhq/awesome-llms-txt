@@ -1,0 +1,140 @@
+# Nekko Digital
+
+> Hawaii-based digital marketing agency — SEO, AI-search optimization (GEO/AEO), web design, and conversion strategy for hospitality, real estate, and local businesses.
+
+This file follows the [llms.txt spec](https://llmstxt.org) and lists the canonical pages on nekkodigital.com. The companion [/llms-full.txt](https://nekkodigital.com/llms-full.txt) contains the full markdown bodies for every item.
+
+## Services
+
+- [Answer Engine Optimization (AEO)](https://nekkodigital.com/answer-engine-optimization/): Capture featured snippets, optimize for voice search, and dominate direct-answer results across all search platforms.
+- [Content Strategy & Marketing](https://nekkodigital.com/content-strategy/): Attract and convert customers with strategic content marketing — SEO-optimized blog posts, pillar content, and full editorial programs from Nekko Digital.
+- [Custom Web Design](https://nekkodigital.com/web-design/): Custom responsive web design and human-centered UX/UI development focused on mobile-first performance and positive user experiences.
+- [E-Commerce SEO](https://nekkodigital.com/ecommerce-seo/): Specialized SEO for online stores, improving product rankings, category page visibility, and overall e-commerce performance.
+- [Generative Engine Optimization (GEO)](https://nekkodigital.com/generative-engine-optimization/): Build E-E-A-T excellence and topical authority so AI engines like ChatGPT, Perplexity, and Claude cite your brand as the answer.
+- [Local SEO](https://nekkodigital.com/local-seo/): Hyper-local targeting, Google Business Profile optimization, and mobile-first strategies to dominate local search results and Google Maps.
+- [National SEO](https://nekkodigital.com/national-seo/): National SEO from Hawaii, built for the AI-search era — GEO-led, editorial-grade, with same-day APAC overlap for Japan, Korea, Australia expansion.
+- [Organic SEO](https://nekkodigital.com/organic-seo/): Comprehensive organic search campaigns and technical foundation audits to drive sustainable organic growth and dominate search rankings.
+- [Social Media Advertising](https://nekkodigital.com/social-media-advertising/): Data-driven social media advertising and neuromarketing campaigns that connect with audiences on a deeper psychological level.
+
+## Authors
+
+- [Rodrigo Diniz — AEO Strategy Lead & GEO Specialist](https://nekkodigital.com/team-authors/rodrigo-diniz/): AEO Strategy Lead at Nekko Digital with 15+ years in digital marketing and AI search optimization.
+- [Taylor Asao — Head of Business Development & Operations](https://nekkodigital.com/team-authors/taylor-asao/): Head of Business Development at Nekko Digital, driving client growth and operations in Honolulu.
+
+## Recent Articles
+
+- [Best Hawaii E-Commerce Marketing Agencies for 2026 (Ranked)](https://nekkodigital.com/blog/top-hawaii-ecommerce-marketing-agencies-2026/): Hawaii e-commerce marketing partners ranked for 2026 — national platforms vs Hawaii-rooted agencies. Made-in-Hawaii schema, Shopify, sourced facts.
+- [Best Hawaii Law Firm Marketing Agencies for 2026 (Ranked)](https://nekkodigital.com/blog/top-hawaii-law-firm-marketing-agencies-2026/): Hawaii law firm marketing partners ranked for 2026 — national legal platforms vs Hawaii-rooted agencies. HRPC compliance, methodology, sourced facts.
+- [Family Law Marketing in Hawaii](https://nekkodigital.com/blog/family-law-marketing-hawaii/): Family law SEO in Hawaii: HRS 580-1 domicile content, military divorce queries, custody and adoption practice pages, and AI search trust signals.
+- [Made-in-Hawaii E-Commerce Strategy](https://nekkodigital.com/blog/made-in-hawaii-ecommerce-strategy/): Made-in-Hawaii e-commerce: HRS 486-119 compliance, product schema for origin claims, brand positioning, and the visitor-to-mainland reorder loop.
+- [Personal Injury Law Firm SEO in Hawaii](https://nekkodigital.com/blog/personal-injury-law-firm-seo/): Personal injury SEO in Hawaii: HRS 657-7 statute of limitations content, visitor-injury queries, HRPC-compliant case framing, and AI search trust signals.
+- [Shopify SEO for Hawaii Businesses](https://nekkodigital.com/blog/shopify-seo-hawaii-businesses/): Shopify SEO for Hawaii brands: GET pass-on configuration, USPS shipping setup, Hawaii-origin product schema, and Liquid theme optimizations that compound.
+- [Hawaii Restaurant Marketing: Platforms vs Agencies (2026)](https://nekkodigital.com/blog/top-hawaii-restaurant-marketing-agencies-2026/): A 2026 buyer guide comparing Hawaii restaurant marketing agencies against restaurant-tech platforms (Toast, BentoBox, ChowNow) — with full methodology.
+- [Best Hawaii Real Estate Marketing Companies (2026)](https://nekkodigital.com/blog/top-hawaii-real-estate-marketing-agencies-2026/): A 2026 comparison of Hawaii real estate marketing — independent agencies vs brokerage in-house teams — with full methodology and sourced facts.
+- [AI Search 101: A Guide to AI SEO](https://nekkodigital.com/blog/ai-search-manual/): The AI Search Manual: definitive playbook for winning visibility in ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews. Open methodology.
+- [7 Digital Marketing Trends That Will Define 2026](https://nekkodigital.com/blog/digital-marketing-trends-2026/): From AI search to zero-click content, these 7 digital marketing trends are shaping how Hawaii and mainland businesses reach customers in 2026 and beyond.
+- [What Is GEO? The Complete 2026 Guide](https://nekkodigital.com/blog/what-is-generative-engine-optimization/): Learn what Generative Engine Optimization is, why it matters in 2026, and how to get your brand cited by AI search engines like ChatGPT and Perplexity.
+- [The Complete Technical SEO Checklist for 2026](https://nekkodigital.com/blog/complete-technical-seo-checklist/): A comprehensive technical SEO checklist covering site speed, crawlability, indexing, Core Web Vitals, and structured data. Updated for 2026.
+- [GEO vs SEO: What You Need to Know for 2026](https://nekkodigital.com/blog/geo-vs-seo-what-you-need-to-know/): GEO and SEO both matter in 2026 but serve different surfaces. Understand the differences and how to sequence both for maximum AI + organic visibility.
+- [Google Business Profile Optimization Guide](https://nekkodigital.com/blog/google-business-profile-optimization-guide/): Optimize your Google Business Profile to rank in the local 3-pack. Complete guide covering photos, reviews, posts, Q&A, and category selection.
+- [Website Conversion Rate Optimization Guide](https://nekkodigital.com/blog/website-conversion-rate-optimization/): Your website gets traffic but not enough leads? This CRO guide shows you how to optimize layouts, CTAs, and user flow to increase conversions.
+- [How ChatGPT Is Changing Search for Business](https://nekkodigital.com/blog/how-chatgpt-changes-search-for-businesses/): ChatGPT and AI search are reshaping how customers find businesses. Learn what this means for Hawaii brands and how to adapt your digital strategy.
+- [How to Choose the Right SEO Agency](https://nekkodigital.com/blog/how-to-choose-seo-agency/): How to choose the best SEO agency — 10 questions that separate the best SEO companies from sales-led pitches. Avoid wrong-fit Hawaii partners.
+- [What Is AEO and Why It Matters](https://nekkodigital.com/blog/what-is-answer-engine-optimization/): AEO is the art of positioning your content as the definitive answer in search. Learn how featured snippets and voice search drive qualified traffic.
+- [7 Local SEO Tips for Hawaii Businesses](https://nekkodigital.com/blog/local-seo-tips-hawaii-businesses/): Hawaii businesses face unique local SEO challenges. 7 proven tips to rank higher in Google Maps and Map Pack across Oahu, Maui, Big Island, and Kauai.
+- [Best Hawaii Hotel Marketing Agencies for 2026 (Ranked)](https://nekkodigital.com/blog/top-hawaii-hotel-marketing-agencies-2026/): A 2026 ranked best-of: which agencies and platforms actually help Hawaii hotels and resorts win direct bookings. Full methodology and sourced facts.
+
+## Case Studies
+
+- [Hawaii AI Citation Analysis — Who AI Cites in Hawaii.](https://nekkodigital.com/case-studies/hawaii-ai-citation-analysis-2026/): Market-level analysis using our public Volume 1 dataset — which Hawaii hotels, restaurants, tour operators, and wedding venues actually get cited by AI engines, and which categories are systematically invisible. Not a client engagement summary.
+- [North Shore Tacos — 814% Organic Traffic Growth.](https://nekkodigital.com/case-studies/north-shore-tacos/): A two-location Oahu fish-taco brand grew organic search 9× and online-order click-throughs to DoorDash 6× in 6 months — without a single new backlink or a dollar of paid ads.
+- [Lanier Pristine — Position 13 → 2 in 90 Days.](https://nekkodigital.com/case-studies/lanier-pristine/): A five-year-old Gainesville cleaning company climbed from page two to position #2 across its entire service area in 90 days — by making the same brand legible to Google instead of doing more.
+
+## Industries
+
+- [Industries We Serve in Hawaii | Nekko Digital](https://nekkodigital.com/industries/): Specialized digital marketing for Hawaii's biggest industries: hospitality, real estate, healthcare, restaurants, law, construction, and more.
+- [Direct-Booking Lead Gen for Hawaii Hotels | Nekko](https://nekkodigital.com/hotel-marketing-lead-generation/): Direct-booking lead generation for Hawaii hotels — cut 15-25% OTA commissions, defend branded search, and build a measurable booking pipeline.
+- [Hawaii Construction Trades Marketing & SEO | Nekko Digital](https://nekkodigital.com/hawaii-construction-trades/): Digital marketing for Hawaii general contractors, electricians, plumbers, HVAC, solar, and roofing — Local SEO, GBP, and AI search built for the islands.
+- [Hawaii Law Firm SEO + Marketing Agency | Family + PI](https://nekkodigital.com/hawaii-law-firms/): Digital marketing for Hawaii law firms — HRPC-compliant content, bilingual reach for Japanese and Tagalog clients, multi-island Local SEO and AI search.
+- [Hawaii Real Estate Marketing Agency | Nekko Digital](https://nekkodigital.com/real-estate-marketing/): Digital marketing for Hawaii Realtors and brokerages — leasehold education, STR ordinance compliance, submarket SEO, and out-of-state buyer optimization.
+- [Hawaii Restaurant Marketing Agency | Nekko Digital](https://nekkodigital.com/restaurant-marketing/): Digital marketing for Hawaii restaurants. Google Business Profile, menu SEO, review management, and AI visibility for resident and visitor audiences.
+- [Hawaii Tour Operator Marketing | Nekko Digital](https://nekkodigital.com/tour-operator-marketing/): Marketing for Hawaii tour and activity operators. Rank for high-intent queries, appear in Google Things to Do, and recover OTA commissions per booking.
+- [Hawaii Tourism & Vacation Rental Marketing | Nekko](https://nekkodigital.com/tourism-marketing/): Digital marketing for Hawaii hotels, tours, and attractions. Reduce OTA dependency, drive direct bookings, and get cited by AI travel platforms.
+- [Hawaii Wedding Venue Marketing & SEO | Nekko Digital](https://nekkodigital.com/wedding-marketing/): Digital marketing for Hawaii destination wedding venues, planners, and photographers — multilingual content, DLNR permits, and visual asset optimization.
+- [Healthcare Marketing Agency Hawaii | Nekko Digital](https://nekkodigital.com/healthcare-marketing/): Digital marketing for Hawaii medical practices — HIPAA-aware content, specialty + location SEO, HMSA + Kaiser network routing, and reputation management.
+- [Hotel SEO Services Hawaii — Cut OTA Commissions | Nekko](https://nekkodigital.com/hotel-seo/): SEO for Hawaii hotels and resorts. Compete with OTAs in organic search, rank in Google Hotel Pack, and recover 15-25% OTA commissions per direct booking.
+- [Real Estate Lead Generation Hawaii | Nekko Digital](https://nekkodigital.com/real-estate-lead-generation/): Lead generation for Hawaii Realtors and brokerages — NAR and Inman benchmarks on response time, conversion by source, and CPL across Hawaii submarkets.
+
+## Locations
+
+- [Big Island SEO, Hawaii Island Marketing | Nekko Digital](https://nekkodigital.com/locations/big-island/): Big Island SEO for Hilo, Kona, agriculture, astronomy, and resort tourism — two distinct economies (4,028 sq mi), one digital marketing strategy.
+- [Hawaii SEO by Location — Cities & Islands | Nekko Digital](https://nekkodigital.com/locations/): SEO Hawaii by location — dedicated pages for Honolulu, Maui, Kauai, Big Island, Oahu, Waikiki, and neighbor markets. Hyper-local SEO near me.
+- [Hilo SEO, Hawaii Island East Coast | Nekko Digital](https://nekkodigital.com/locations/hilo/): Hilo digital marketing for the University of Hawaii at Hilo, government, agriculture, and East Hawaii local-resident businesses on the windward side.
+- [Honolulu SEO Company — Hawaii's Capital Market](https://nekkodigital.com/locations/honolulu/): SEO, AI search, and Map Pack visibility for Honolulu businesses across Downtown, Ala Moana, Kakaako, Manoa, and Kaimuki — Hawaii's capital market.
+- [Kailua SEO Agency, Windward Oahu | Nekko Digital](https://nekkodigital.com/locations/kailua-oahu/): Local search marketing for Kailua boutiques, wellness studios, restaurants, and beach-town tourism businesses on Windward Oahu — tight-knit community.
+- [Kailua-Kona SEO, Big Island Resorts | Nekko Digital](https://nekkodigital.com/locations/kailua-kona/): Kailua-Kona SEO for resort hotels, dive charters, Kona Coffee Belt farms, and luxury vacation rentals along West Hawaii's beachfront tourism corridor.
+- [Kapolei SEO, West Oahu's Second City | Nekko Digital](https://nekkodigital.com/locations/kapolei/): SEO and local search for Kapolei businesses in West Oahu (Hawaii's Second City) — the fastest-growing residential and commercial growth corridor.
+- [Kauai SEO for the Garden Isle | Nekko Digital](https://nekkodigital.com/locations/kauai/): Kauai SEO for premium resorts ($384 ADR) and intimate businesses on Hawaii's most exclusive island. Local search optimization for the Garden Isle.
+- [Lahaina SEO, West Maui Recovery | Nekko Digital](https://nekkodigital.com/locations/lahaina/): Recovery-focused SEO and Map Pack visibility for Lahaina businesses rebuilding on West Maui. Community-first messaging, accurate reopening signals.
+- [Maui SEO & Digital Marketing Agency | Nekko Digital](https://nekkodigital.com/locations/maui/): SEO in Maui for resorts, restaurants, retail, and West Maui rebuilding. Local search + Maui web design across Wailea, Kapalua, Lahaina, Kaanapali.
+- [Molokai SEO for the Friendly Isle | Nekko Digital](https://nekkodigital.com/locations/molokai/): Molokai SEO for the Friendly Isle's small, community-driven market. Resident-first local search, cultural-mindful content, and direct-booking optimization.
+- [Oahu SEO & Local Search Marketing | Nekko Digital](https://nekkodigital.com/locations/oahu/): Statewide expertise tuned to Oahu's 1M-resident, 9.6M-visitor economy. SEO and digital marketing for Honolulu, Waikiki, Kailua, Kapolei businesses.
+- [Waikiki SEO for Hotels & Tourism | Nekko Digital](https://nekkodigital.com/locations/waikiki/): Waikiki SEO for hotels, restaurants, retail, and activity operators in Hawaii's tourism epicenter (~30K hotel rooms). Direct-booking visibility focus.
+
+## Tools
+
+- [AI Search Predictor — ChatGPT & Perplexity Visibility](https://nekkodigital.com/tools/ai-search-predictor/): Free AI Search Predictor — forecast your visibility in ChatGPT, Perplexity, Gemini, and Claude based on E-E-A-T signals and schema readiness.
+- [Free Local SEO ROI Calculator — Google Maps Revenue Lift](https://nekkodigital.com/tools/local-seo-roi-calculator/): Free Local SEO ROI calculator — forecast revenue lift from improved Google Maps rankings and Local 3-Pack visibility for Hawaii small businesses.
+- [Free SEO & Marketing Tools: When to Use Which](https://nekkodigital.com/tools/): Free digital marketing tools — ROI calculators, AI-search predictors, KPI compasses, budget planners — paired with guidance on which one fits your stage.
+- [Free SEO ROI Calculator — Search Investment Forecast](https://nekkodigital.com/tools/seo-roi-calculator/): Free SEO ROI calculator — forecast the traffic, leads, and revenue an SEO engagement could generate based on your conversion rate and average sale value.
+- [Free Social Media Ad Budget Planner — Reach & Cost ROI](https://nekkodigital.com/tools/social-media-ad-planner/): Free social media ad budget planner for Hawaii businesses — forecast clicks, leads, cost per lead, ROI based on spend, CPC, CTR, conversion rate.
+- [Free Website Cost Estimator — Hawaii 2026 Pricing Guide](https://nekkodigital.com/tools/website-cost-estimator/): Free web design cost estimator for Hawaii businesses — defensible budget based on page count, design complexity, integrations, and CMS choice.
+- [Hawaii Hotel SEO ROI Calculator — Booking Revenue Lift](https://nekkodigital.com/tools/hawaii-hospitality-seo-roi-calculator/): Free Hawaii hotel SEO ROI calculator — model direct-booking revenue gains, OTA commission savings, and net 12-month ROI vs agency engagement tiers.
+- [KPI Compass — Right Marketing Metrics for Your Stage](https://nekkodigital.com/tools/kpi-compass/): Free Marketing KPI Compass — pick the right metrics for your business stage and industry. Six questions in, get a prioritized scorecard plus guidance.
+- [SEO vs Paid Media Comparator — Where Should Your Budget Go?](https://nekkodigital.com/tools/seo-vs-paid-comparator/): Free SEO vs Paid Media comparator — compare compounding organic ROI against immediate paid pipeline. Get a personalized budget allocation in minutes.
+
+## Guides
+
+- [AI Search Playbook: Platform Reference & 30-Day Plan](https://nekkodigital.com/resources/ai-search-field-guide/): Scannable GEO + AEO playbook — platform tables (ChatGPT, Perplexity, Claude, Gemini), content frameworks, measurement tiers, and a 30-day Hawaii plan.
+- [AI Search Self-Audit: 41-Point Site Assessment](https://nekkodigital.com/resources/ai-search-readiness-checklist/): Free 41-point self-assessment scoring your AI search readiness — structured data, E-E-A-T, content citability, GEO. Takes 30 minutes, no signup.
+- [Content Marketing Guide for Small Business | 2026](https://nekkodigital.com/resources/content-marketing-guide/): What content marketing is, how it works, and how to build a strategy that drives traffic and customers. A practical guide for small businesses.
+- [Digital Marketing Pricing — Hawaii Published Tiers | Nekko](https://nekkodigital.com/resources/digital-marketing-pricing/): Compare 2026 SEO services pricing — web design, PPC, content tiers. Real Hawaii agency benchmarks, transparent ranges, pick the level for your stage.
+- [Hawaii AI Search Visibility Index — Vol. 1 (May 2026)](https://nekkodigital.com/resources/hawaii-ai-search-visibility-index/): Volume 1 dataset (May 2026): which Hawaii businesses Anthropic Claude cites across 50 queries. Open methodology, scoring rubric, CC BY 4.0 license.
+- [Hawaii Brands: Mainland Expansion Playbook | Nekko Digital](https://nekkodigital.com/resources/hawaii-brands-mainland-expansion-playbook/): A playbook for Hawaii-grown brands going mainland — Maui Jim, Kona Brewing, Hawaiian Host case examples, distribution channels, authenticity premium.
+- [Hawaii E-Commerce SEO: The 2026 Definitive Guide](https://nekkodigital.com/resources/hawaii-ecommerce-seo-guide/): Working playbook for Hawaii e-commerce brands — GET pass-on, USPS shipping economics, HRS 486-119 made-in-Hawaii rules, Shopify, and product schema.
+- [Hawaii Hospitality SEO Pricing — Published Tiers | Nekko](https://nekkodigital.com/resources/hawaii-hospitality-seo-pricing/): What Hawaii hotel, vacation rental, and resort SEO costs in 2026 — three tiered ranges, what's included at each tier, and what changes the quote.
+- [Hawaii Law Firm Marketing: The 2026 Definitive Guide](https://nekkodigital.com/resources/hawaii-law-firm-marketing-guide/): Working playbook for Hawaii law firms — HRPC compliance, practice + island SEO, attorney E-E-A-T, and bilingual Japanese / Tagalog client reach.
+- [Hawaii Local Pack Ranking Factors: 2026 Edition](https://nekkodigital.com/resources/hawaii-local-pack-ranking-factors-2026/): Hawaii-localized synthesis of Whitespark 2026 + BrightLocal 2025 research. Notes on multi-island service areas, multilingual reviews, and citations.
+- [Hawaii Small Business Marketing Report 2026](https://nekkodigital.com/resources/hawaii-marketing-report/): How Hawaii's 144K small businesses approach digital marketing — budgets, channels, tourism trends, and AI search impact. Cited sources, free to share.
+- [Hawaii Small Business Search Trends — 2026 Edition](https://nekkodigital.com/resources/hawaii-small-business-search-trends/): Public-data research on Hawaii small business search demand, verticals, source markets, and AI-search behavior — DBEDT, Census, SBA, HTA, BrightLocal.
+- [Healthcare Marketing in Hawaii: The 2026 Definitive Guide](https://nekkodigital.com/resources/healthcare-marketing-hawaii-guide/): Working playbook for Hawaii medical practices — HMSA and Kaiser network economics, HIPAA-bound content, provider E-E-A-T, and specialty + location SEO.
+- [Hotel Marketing in Hawaii: The 2026 Definitive Guide](https://nekkodigital.com/resources/hotel-marketing-hawaii-guide/): Digital marketing in hospitality industry — Hawaii hotel playbook covering OTA economics, GBP schema, source markets, and AI search visibility.
+- [Marketing Library: Hawaii Reports, Guides & References](https://nekkodigital.com/resources/): Free marketing references — original Hawaii datasets, industry guides, pricing benchmarks, and self-audits. Sourced, cite-ready, organized by need.
+- [Marketing Statistics 2026: SEO, AI Search & Hawaii](https://nekkodigital.com/resources/digital-marketing-statistics/): 40+ cited marketing statistics for 2026 — SEO, AI search, local search, content marketing, and Hawaii small business data. Bookmark and cite freely.
+- [Real Estate Marketing in Hawaii: The 2026 Definitive Guide](https://nekkodigital.com/resources/real-estate-marketing-hawaii-guide/): Working playbook for Hawaii real estate marketing — leasehold and STR regulations, listing schema, out-of-state buyer optimization, and agent E-E-A-T.
+- [SEO & Marketing Glossary: 125 Terms Explained](https://nekkodigital.com/resources/digital-marketing-glossary/): Plain-language definitions for SEO, GEO, AEO, E-E-A-T, and 125+ digital marketing terms. A-Z reference for Hawaii brands — bookmark and cite freely.
+- [Social Media Marketing Honolulu Hawaii | 2026](https://nekkodigital.com/resources/social-media-marketing-guide/): Organic and paid social media marketing for Hawaii businesses. Platform strategy, ROI measurement, and when to invest in ads vs organic content.
+- [Web Design & Conversion Optimization Guide | 2026](https://nekkodigital.com/resources/web-design-cro-guide/): How web design, page speed, and CRO work together to turn visitors into customers. Core Web Vitals, mobile-first design, and UX best practices.
+- [Wedding Marketing in Hawaii: The 2026 Definitive Guide](https://nekkodigital.com/resources/wedding-marketing-hawaii-guide/): Hawaii destination wedding marketing playbook — DLNR beach permits, visual-first SEO, multilingual landing pages, and source-market booking strategy.
+
+## The Reef Method
+
+- [Citations: AI & Search Visibility — Reef Method, Layer 3](https://nekkodigital.com/the-reef-method/citations/): The Citations layer of the Reef Method is GEO and AEO — earning recommendations from ChatGPT, Gemini, Perplexity, Claude, and Google AI Overviews.
+- [Coral: Topical Authority — Reef Method, Layer 2](https://nekkodigital.com/the-reef-method/coral/): The Coral layer of the Reef Method is topical authority — pillar content, supporting clusters, and the editorial discipline to build depth in your domain.
+- [Ecosystem: Compounding Authority — Reef Method, Layer 4](https://nekkodigital.com/the-reef-method/ecosystem/): The Ecosystem layer of the Reef Method — when all four layers reinforce each other and authority compounds. The long-game outcome of patient SEO + GEO.
+- [Substrate: Technical Foundation — Reef Method, Layer 1](https://nekkodigital.com/the-reef-method/substrate/): The Substrate layer of the Reef Method is technical SEO — site architecture, schema, Core Web Vitals, and the foundation everything else depends on.
+- [The Reef Method — 4-Layer SEO Framework | Nekko Digital](https://nekkodigital.com/the-reef-method/): The Reef Method is Nekko Digital's 4-layer framework for compounding search and AI citation authority over time: Substrate, Coral, Citations, Ecosystem.
+
+## About / Reference
+
+- [Nekko Digital — Home](https://nekkodigital.com/): Hawaii's AI search & digital marketing pioneers. SEO, GEO/AEO, web design, and conversion strategy for hospitality, real estate, and local businesses.
+- [About Nekko Digital](https://nekkodigital.com/about/): Agency story, team, operating principles, and Hawaii-first methodology.
+- [How We Work — Method](https://nekkodigital.com/method/): Our engagement model — month-to-month, no long-term contracts, 98% client retention.
+- [Services](https://nekkodigital.com/services/): Hub for our nine core services — Organic SEO, Local SEO, National SEO, GEO, AEO, E-commerce SEO, Content Strategy, Web Design, Social Media Advertising.
+- [The Reef Method](https://nekkodigital.com/the-reef-method/): Our four-layer framework for AI-search authority — Substrate, Coral, Citations, Ecosystem.
+- [AI Search Optimization](https://nekkodigital.com/ai-search-optimization/): Umbrella positioning page for GEO + AEO services — earning citations across ChatGPT, Claude, Perplexity, Gemini, and Microsoft Copilot.
+- [Reef Citation Index™](https://nekkodigital.com/reef-citation-index/): Hawaii's proprietary AI-citation visibility tracker. Quarterly Volumes. Open methodology. Published under Creative Commons BY 4.0.
+- [FAQ](https://nekkodigital.com/faq/): Common questions on SEO, GEO/AEO, pricing, engagement model, and Hawaii-specific marketing.
+- [Contact](https://nekkodigital.com/contact/): Free SEO audit and project intake. Qualified by budget tier, timeline, and current marketing state.
+- [Privacy Policy](https://nekkodigital.com/privacy/): How Nekko Digital handles visitor data, cookies, and form submissions.
+- [Terms of Service](https://nekkodigital.com/terms/): Engagement terms, cancellation policy, and licensing language.

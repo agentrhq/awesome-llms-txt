@@ -1,0 +1,66 @@
+# Imprint Docs
+
+## Docs
+
+- [Android](https://docs.imprint.co/android.md): Embed the Imprint application experience in your Android app
+- [API Key Rotation](https://docs.imprint.co/api-reference/api_key_rotation.md): Rotating API Keys
+- [Authentication](https://docs.imprint.co/api-reference/authentication.md): Finding and using your API keys
+- [Link an Imprint customer and partner customer accounts](https://docs.imprint.co/api-reference/customer-links/link-an-imprint-customer-and-partner-customer-accounts.md): Creates a link between an existing Imprint customer and a partner's customer account. The API key provided with the request will be used to link the partner with the imprint customer.
+- [Create a new customer session](https://docs.imprint.co/api-reference/customer-sessions/create-a-new-customer-session.md): Creates a new session for a customer with a client_secret that can be passed to the SDK, providing client access to modify their own profile, card, or card/loan application. If required, a new customer will be created to attach this session to. Customer history can be attached to this session and wi…
+- [Retrieve a session](https://docs.imprint.co/api-reference/customer-sessions/retrieve-a-session.md)
+- [Get customer's current rewards balance](https://docs.imprint.co/api-reference/customers/get-customers-current-rewards-balance.md)
+- [List customer's payment methods](https://docs.imprint.co/api-reference/customers/list-customers-payment-methods.md)
+- [List customer's rewards](https://docs.imprint.co/api-reference/customers/list-customers-rewards.md): List customer's rewards in descending order by the reward's updated at timestamp
+- [List customer's transaction intents](https://docs.imprint.co/api-reference/customers/list-customers-transaction-intents.md)
+- [List customer's transactions](https://docs.imprint.co/api-reference/customers/list-customers-transactions.md)
+- [Retrieve a customer](https://docs.imprint.co/api-reference/customers/retrieve-a-customer.md): Retrieves the details of an existing customer by ID
+- [Search for customers](https://docs.imprint.co/api-reference/customers/search-for-customers.md)
+- [Search for customers](https://docs.imprint.co/api-reference/customers/search-for-customers-1.md)
+- [Update a customer](https://docs.imprint.co/api-reference/customers/update-a-customer.md): Updates the details of the customer associated with the supplied `customer_id`
+- [Data types](https://docs.imprint.co/api-reference/data-types.md): Learn how we format amounts, currencies, and dates across the Imprint API
+- [Error handling](https://docs.imprint.co/api-reference/error-handling.md): How Imprint communicates errors
+- [Base URLs](https://docs.imprint.co/api-reference/introduction.md): Introduction to Imprint environments and API URLs
+- [Create an API Key](https://docs.imprint.co/api-reference/keys/create-an-api-key.md): Creates a new API key
+- [Delete an API Key](https://docs.imprint.co/api-reference/keys/delete-an-api-key.md): Deletes an existing API Key
+- [Create order events](https://docs.imprint.co/api-reference/order-events/create-order-events.md): Create new order events
+- [Delete order event](https://docs.imprint.co/api-reference/order-events/delete-order-event.md): Delete an existing order event
+- [Retrieve order events](https://docs.imprint.co/api-reference/order-events/retrieve-order-events.md): Get a list of order events
+- [Create orders](https://docs.imprint.co/api-reference/orders/create-orders.md): Create new orders
+- [Delete order](https://docs.imprint.co/api-reference/orders/delete-order.md): Delete an existing order
+- [Modify order](https://docs.imprint.co/api-reference/orders/modify-order.md): Modify an existing order
+- [Retrieve orders](https://docs.imprint.co/api-reference/orders/retrieve-orders.md): Get a list of orders
+- [Apply for a new payment method](https://docs.imprint.co/api-reference/payment-methods/apply-for-a-new-payment-method.md)
+- [List payment methods](https://docs.imprint.co/api-reference/payment-methods/list-payment-methods.md)
+- [List payment methods](https://docs.imprint.co/api-reference/payment-methods/list-payment-methods-1.md)
+- [Retrieve a payment method](https://docs.imprint.co/api-reference/payment-methods/retrieve-a-payment-method.md): Retrieves the details of the payment method associated with the supplied `payment_method_id`
+- [Update a payment method](https://docs.imprint.co/api-reference/payment-methods/update-a-payment-method.md): Updates the details of the payment method associated with the supplied `payment_method_id`
+- [Retrieve a reward](https://docs.imprint.co/api-reference/rewards/retrieve-a-reward.md): Retrieves the details of an existing reward by ID
+- [Search for rewards](https://docs.imprint.co/api-reference/rewards/search-for-rewards.md)
+- [Updates a reward](https://docs.imprint.co/api-reference/rewards/updates-a-reward.md): Updates the status or amount of pending rewards
+- [Simulate Statement Reward](https://docs.imprint.co/api-reference/simulate-statement-reward/simulate-statement-reward.md): Initiate a statement reward webhook to be sent in sandbox environment
+- [Simulate transaction event in sandbox environment](https://docs.imprint.co/api-reference/simulate-transaction-event/simulate-transaction-event-in-sandbox-environment.md)
+- [Create a transaction intent](https://docs.imprint.co/api-reference/transaction-intents/create-a-transaction-intent.md): Creates a transaction intent object that represents a pending financial transaction. Transaction intents are used to initiate, validate, and track the lifecycle of a transaction before it is finalized.
+- [List transaction intents](https://docs.imprint.co/api-reference/transaction-intents/list-transaction-intents.md): Retrieves a list of transaction intents.
+- [Retrieve a transaction intent](https://docs.imprint.co/api-reference/transaction-intents/retrieve-a-transaction-intent.md): Retrieves the details of an existing transaction intent by `id`.
+- [Update a transaction intent](https://docs.imprint.co/api-reference/transaction-intents/update-a-transaction-intent.md): Updates the details of the transaction intent associated with the supplied intent_id
+- [Retrieve a transaction](https://docs.imprint.co/api-reference/transactions/retrieve-a-transaction.md): Retrieves the details of an existing transaction by `id`
+- [Search for transaction](https://docs.imprint.co/api-reference/transactions/search-for-transaction.md)
+- [Verify event signature](https://docs.imprint.co/api-reference/verify-event-notification.md): Secure transmission using the event signature header
+- [Application event notification](https://docs.imprint.co/api-reference/webhooks/application-event-notification.md): Receive an event notification when an application for a payment method is created or transitions statuses.
+- [Customer link event notification](https://docs.imprint.co/api-reference/webhooks/customer-link-event-notification.md): Receive a notification when a customer’s Imprint account is successfully linked to a partner account via the Account Linker.
+- [Payment method event notification](https://docs.imprint.co/api-reference/webhooks/payment-method-event-notification.md): Receive a notification when a payment method (e.g. credit card or loan) is created or transitions statuses.
+- [Reward event notification](https://docs.imprint.co/api-reference/webhooks/reward-event-notification.md): Receive an event notification when a reward is created, updated, or available
+- [Transaction event notification](https://docs.imprint.co/api-reference/webhooks/transaction-event-notification.md): Receive a notification when a transaction is created or when events for the transaction happen Please see the [event notifications guide](https://docs.imprint.co/guide-event-notifications) for more information regarding the lifecycle of a transaction.
+- [Create a transaction intent](https://docs.imprint.co/create-transaction-intent.md): Unlock personalized experiences that stand out in the marketplace
+- [Apply for a loan or credit card](https://docs.imprint.co/creating-an-application.md): The end-to-end process of applying for an Imprint payment method involves three steps
+- [Subscribe to event notifications](https://docs.imprint.co/guide-event-notifications.md): Receive and react to real-time event notifications from Imprint
+- [iOS](https://docs.imprint.co/ios.md): Embed the Imprint application experience in your iOS app
+- [Handle rewards event notifications](https://docs.imprint.co/rewards-event-notifications.md): Guide on processing rewards event notifications
+- [Simulate transaction events](https://docs.imprint.co/simulate-transaction-events-in-sandbox.md): How to create transaction events in sandbox environment
+- [Tips for sandbox testing](https://docs.imprint.co/tips-for-sandbox.md)
+- [Web](https://docs.imprint.co/web.md): Embed the Imprint application experience on your website
+- [Welcome](https://docs.imprint.co/welcome.md): Imprint makes integration effortless, empowering you to offer perfectly co-branded financial products wherever your customers shop and however they choose to pay. Explore our guides, examples, and resources to find the perfect solution for your business and make your first API call within minutes.
+
+## OpenAPI Specs
+
+- [openapi](https://docs.imprint.co/openapi.yaml)

@@ -1,0 +1,541 @@
+# giga.tools
+
+> giga.tools is a website containing many no-signup free-to-use tools, that run directly in the user's browser.  
+
+## List of Tools
+### [AI Audio to Text Transcriber](https://giga.tools/audio-tools/ai-audio-transcriber)
+- Category: Audio Tools
+- Description: Automatically transcribe audio files using local Whisper AI directly in your browser for free, no sign-up. Convert audio to text using giga.tools whisper web.
+- URL: https://giga.tools/audio-tools/ai-audio-transcriber
+  
+### [AI Text-to-Speech (KittenTTS Mini)](https://giga.tools/audio-tools/ai-text-to-speech-kitten-mini)
+- Category: Audio Tools
+- Description: Convert text to natural-sounding speech using KittenTTS Mini (80M) directly in your browser. Free, no sign-up, fully local AI-powered text-to-speech on giga.tools.
+- URL: https://giga.tools/audio-tools/ai-text-to-speech-kitten-mini
+  
+### [AI Text-to-Speech (KittenTTS Nano)](https://giga.tools/audio-tools/ai-text-to-speech-kitten-nano)
+- Category: Audio Tools
+- Description: Generate speech from text using the lightweight KittenTTS Nano (15M) model. Runs entirely in your browser with WebGPU acceleration. Free TTS tool on giga.tools.
+- URL: https://giga.tools/audio-tools/ai-text-to-speech-kitten-nano
+  
+### [AI Text-to-Speech (KittenTTS Micro)](https://giga.tools/audio-tools/ai-text-to-speech-kitten-micro)
+- Category: Audio Tools
+- Description: Convert text to speech using KittenTTS Micro, the smallest download (~41MB). Run AI text-to-speech locally in your browser for free on giga.tools.
+- URL: https://giga.tools/audio-tools/ai-text-to-speech-kitten-micro
+  
+### [AI Text-to-Speech (Meta MMS-TTS English)](https://giga.tools/audio-tools/ai-text-to-speech-mms-tts-eng)
+- Category: Audio Tools
+- Description: Generate English speech from text using Meta's MMS-TTS VITS model directly in your browser. Free, private, no sign-up AI text-to-speech on giga.tools.
+- URL: https://giga.tools/audio-tools/ai-text-to-speech-mms-tts-eng
+  
+### [AI Text to Speech](https://giga.tools/audio-tools/ai-text-to-speech-supertonic-tts-2)
+- Category: Audio Tools
+- Description: Convert text to natural-sounding speech in 5 languages using Supertonic TTS 2 with 10 voice options. Runs entirely in your browser with no sign-up on giga.tools.
+- URL: https://giga.tools/audio-tools/ai-text-to-speech-supertonic-tts-2
+  
+### [Audio Pitch Shifter](https://giga.tools/audio-tools/audio-pitch-shifter)
+- Category: Audio Tools
+- Description: Shift the pitch and adjust the speed of audio files directly in your browser for free. Export as WAV or MP3 with giga.tools!
+- URL: https://giga.tools/audio-tools/audio-pitch-shifter
+  
+### [Audio to Video Waveform Visualizer](https://giga.tools/audio-tools/audio-to-video-visualizer)
+- Category: Audio Tools
+- Description: Convert Audio to Video using our Waveform Audio Visualizer Video-Generator Tool. You can use the audio visualizer directly in your browser, no-signup for free.
+- URL: https://giga.tools/audio-tools/audio-to-video-visualizer
+  
+### [Audio Volume Changer](https://giga.tools/audio-tools/audio-volume-changer)
+- Category: Audio Tools
+- Description: Change the Volume of Audio Files directly in your browser for free. Various audio formats can be gain-adjusted like WAV, MP3, WEBM, or OGG with giga.tools!
+- URL: https://giga.tools/audio-tools/audio-volume-changer
+  
+### [Microphone Tester](https://giga.tools/audio-tools/microphone-tester)
+- Category: Audio Tools
+- Description: Test your microphone online with live volume visualization and record-playback functionality. No installation and no login required.
+- URL: https://giga.tools/audio-tools/microphone-tester
+  
+### [Reverse Audio](https://giga.tools/audio-tools/reverse-audio-tool)
+- Category: Audio Tools
+- Description: Reverse Audio Files directly in your browser for free. Various audio formats can be reversed like WAV, MP3, WEBM, or OGG with giga.tools!
+- URL: https://giga.tools/audio-tools/reverse-audio-tool
+  
+### [Gradient Color Palette Generator](https://giga.tools/color-tools/color-blender-palette-generator)
+- Category: Color Tools
+- Description: Generate a color palette from 2 colors, from the steps between two colors. Blend two colors into a gradient palette and export as CSS Variables.
+- URL: https://giga.tools/color-tools/color-blender-palette-generator
+  
+### [Contrast Checker](https://giga.tools/color-tools/color-contrast-checker)
+- Category: Color Tools
+- Description: Check the contrast of colors for compliance to the WCAG 2 & WCAG 2.1 accessibility standards and WCAG 3 / Accessible Perceptual Contrast Algorithm in your browser
+- URL: https://giga.tools/color-tools/color-contrast-checker
+  
+### [Shades & Tints Palette Generator](https://giga.tools/color-tools/color-shades-palette-generator)
+- Category: Color Tools
+- Description: Quickly create a color palette from a base color, by calculating the shades & tints of a color. Copy the resulting palette as css variables or hex, hsl, oklab, and more
+- URL: https://giga.tools/color-tools/color-shades-palette-generator
+  
+### [Tailwind v4 Color Palette](https://giga.tools/color-tools/tailwind-color-palette)
+- Category: Color Tools
+- Description: Copy & Convert the colors of the TailwindCSS v4 Color Palette in common formats like Hex, RGB, CSS Variables, oklch, and HSL.
+- URL: https://giga.tools/color-tools/tailwind-color-palette
+  
+### [Tailwind v3 Color Palette](https://giga.tools/color-tools/tailwind-v3-color-palette)
+- Category: Color Tools
+- Description: Copy & Convert the colors of the TailwindCSS v3 Color Palette in common formats like Hex, RGB, CSS Variables, oklch, and HSL.
+- URL: https://giga.tools/color-tools/tailwind-v3-color-palette
+  
+### [CTR Calculator](https://giga.tools/data-tools/click-through-rate-calculator)
+- Category: Data Tools
+- Description: Calculate the Click Through Rate of your Advertisement Campaigns & Compare your CTR to Benchmarks per Digital-Marketing Medium.
+- URL: https://giga.tools/data-tools/click-through-rate-calculator
+  
+### [CSV Duplicate Row Remover](https://giga.tools/data-tools/csv-duplicate-remover-deduper)
+- Category: Data Tools
+- Description: Remove duplicate rows from CSV, TSV, and semicolon-separated files instantly in your browser. Deduplicate by entire row or specific columns, choose to keep first or last occurrence, and download the cleaned file.
+- URL: https://giga.tools/data-tools/csv-duplicate-remover-deduper
+  
+### [File Hash Verifier](https://giga.tools/data-tools/file-hash-verifier)
+- Category: Data Tools
+- Description: Verify file integrity by comparing SHA-1, SHA-256, SHA-384, or SHA-512 hashes directly in your browser. Upload a file, paste the expected hash, and instantly confirm if the file is authentic.
+- URL: https://giga.tools/data-tools/file-hash-verifier
+  
+### [.ics / iCal Calendar-Event File Creator](https://giga.tools/data-tools/ical-event-file-creator)
+- Category: Data Tools
+- Description: Create Calendar Events in the ICS / iCal (.ics) format using this free web tool. Quickly share and create .ics events using our no sign-up calendar event generator
+- URL: https://giga.tools/data-tools/ical-event-file-creator
+  
+### [Combine multiple .ics/iCal Files](https://giga.tools/data-tools/ical-file-combiner)
+- Category: Data Tools
+- Description: Merge multiple iCal (.ics) files to one file containing all calendar-events with our free web tool. Quickly combine multiple .ics events into one file
+- URL: https://giga.tools/data-tools/ical-file-combiner
+  
+### [iCal File Validator](https://giga.tools/data-tools/ical-ics-file-validator)
+- Category: Data Tools
+- Description: Validate your ICS and iCal calendar files instantly in your browser. Check for syntax errors, view event summaries, and verify RFC 5545 compliance without uploading to a server.
+- URL: https://giga.tools/data-tools/ical-ics-file-validator
+  
+### [.ics / iCal File Viewer](https://giga.tools/data-tools/ical-ics-viewer)
+- Category: Data Tools
+- Description: Using our .ics File Viewer Tool you can open ics / iCalendar files directly in your browser without installing any additional software for free.
+- URL: https://giga.tools/data-tools/ical-ics-viewer
+  
+### [Text Line Shuffler](https://giga.tools/data-tools/line-randomizer)
+- Category: Data Tools
+- Description: Randomize the order of text lines, by shuffling the text using the giga.tools text shuffler tool with customizable settings.
+- URL: https://giga.tools/data-tools/line-randomizer
+  
+### [Password Generator](https://giga.tools/data-tools/password-generator)
+- Category: Data Tools
+- Description: Generate strong, random passwords with custom length, character sets, and security settings. Free, instant, no signup required.
+- URL: https://giga.tools/data-tools/password-generator
+  
+### [Sankey Diagram Maker](https://giga.tools/data-tools/sankeydiagram)
+- Category: Data Tools
+- Description: Easy-to-use tool for generating Sankey Diagrams to visualize data! Visualize flows with ease in an engaging data-storytelling format.
+- URL: https://giga.tools/data-tools/sankeydiagram
+  
+### [Text Case Converter](https://giga.tools/data-tools/text-case-converter)
+- Category: Data Tools
+- Description: Convert text between different cases including uppercase, lowercase, title case, camelCase, snake_case, kebab-case and more. Free online case conversion tool.
+- URL: https://giga.tools/data-tools/text-case-converter
+  
+### [Base2 (Binary to ASCII) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base2-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base2 (Binary to ASCII) text to ASCII/Unicode text. Convert between human-readable and base2 text.
+- URL: https://giga.tools/data-tools/converters/base2-decoder-encoder
+  
+### [Base8 (Octal to ASCII) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base8-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base8 (Octal to ASCII) text to ASCII/Unicode text. Convert between human-readable and base8 text.
+- URL: https://giga.tools/data-tools/converters/base8-decoder-encoder
+  
+### [Base10 (Decimal to ASCII) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base10-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base10 (Decimal to ASCII) text to ASCII/Unicode text. Convert between human-readable and base10 text.
+- URL: https://giga.tools/data-tools/converters/base10-decoder-encoder
+  
+### [Base16 (Hexadecimal to ASCII) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base16-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base16 (Hexadecimal to ASCII) text to ASCII/Unicode text. Convert between human-readable and base16 text.
+- URL: https://giga.tools/data-tools/converters/base16-decoder-encoder
+  
+### [Base32 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base32-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base32 text to ASCII/Unicode text. Convert between human-readable and base32 text.
+- URL: https://giga.tools/data-tools/converters/base32-decoder-encoder
+  
+### [Base36 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base36-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base36 text to ASCII/Unicode text. Convert between human-readable and base36 text.
+- URL: https://giga.tools/data-tools/converters/base36-decoder-encoder
+  
+### [Base58 (Bitcoin Alphabet) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base58-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base58 (Bitcoin Alphabet) text to ASCII/Unicode text. Convert between human-readable and base58 text.
+- URL: https://giga.tools/data-tools/converters/base58-decoder-encoder
+  
+### [Base62 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base62-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base62 text to ASCII/Unicode text. Convert between human-readable and base62 text.
+- URL: https://giga.tools/data-tools/converters/base62-decoder-encoder
+  
+### [Base64 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base64-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base64 text to ASCII/Unicode text. Convert between human-readable and base64 text.
+- URL: https://giga.tools/data-tools/converters/base64-decoder-encoder
+  
+### [Base85 (Ascii85) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base85-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base85 (Ascii85) text to ASCII/Unicode text. Convert between human-readable and base85 text.
+- URL: https://giga.tools/data-tools/converters/base85-decoder-encoder
+  
+### [Base91 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base91-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base91 text to ASCII/Unicode text. Convert between human-readable and base91 text.
+- URL: https://giga.tools/data-tools/converters/base91-decoder-encoder
+  
+### [Base94 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base94-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base94 text to ASCII/Unicode text. Convert between human-readable and base94 text.
+- URL: https://giga.tools/data-tools/converters/base94-decoder-encoder
+  
+### [Base96 Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base96-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base96 text to ASCII/Unicode text. Convert between human-readable and base96 text.
+- URL: https://giga.tools/data-tools/converters/base96-decoder-encoder
+  
+### [Base64 (URL-Safe) Text Encoder-Decoder Converter](https://giga.tools/data-tools/converters/base64-URLSafe-decoder-encoder)
+- Category: Converters
+- Description: Easily decode & encode Base64 (URL-Safe) text to ASCII/Unicode text. Convert between human-readable and base64-URLSafe text.
+- URL: https://giga.tools/data-tools/converters/base64-URLSafe-decoder-encoder
+  
+### [JSON Formatter](https://giga.tools/data-tools/converters/json-formatter)
+- Category: Converters
+- Description: Beautify JSON with our quick in-browser JSON Formatter Tool. Pretty Print your JSON Blob with customizable tab size.
+- URL: https://giga.tools/data-tools/converters/json-formatter
+  
+### [Markdown to HTML Converter](https://giga.tools/data-tools/converters/markdown-to-html)
+- Category: Converters
+- Description: Convert Markdown to clean, formatted HTML instantly in your browser. No sign-up, no server - supports headings, bold, italic, links, code blocks, lists, and more.
+- URL: https://giga.tools/data-tools/converters/markdown-to-html
+  
+### [MurmurHash2 Text Hasher Tool](https://giga.tools/data-tools/converters/murmurhash2-calculator-tool)
+- Category: Converters
+- Description: Calculate MurmurHash2 32-bit and MurmurHash3 hash-sums directly in your browser using giga.tools. Optionally configure seed or mod 10000 in our free hash tool.
+- URL: https://giga.tools/data-tools/converters/murmurhash2-calculator-tool
+  
+### [MurmurHash3 Text Hasher Tool](https://giga.tools/data-tools/converters/murmurhash3-calculator-tool)
+- Category: Converters
+- Description: Calculate MurmurHash3 and MurmurHash2 32-bit hash-sums directly in your browser using giga.tools. Optionally configure seed or mod 10000.
+- URL: https://giga.tools/data-tools/converters/murmurhash3-calculator-tool
+  
+### [JSON <-> TOML Converter](https://giga.tools/data-tools/converters/toml-json-converter)
+- Category: Converters
+- Description: Use our JSON to TOML and TOML to JSON converter in your browser to quickly convert between TOML/JSON. Processing is done locally in your browser, for free.
+- URL: https://giga.tools/data-tools/converters/toml-json-converter
+  
+### [YAML <-> TOML Converter](https://giga.tools/data-tools/converters/toml-yaml-converter)
+- Category: Converters
+- Description: Free online TOML to YAML and YAML to TOML converter. Convert configuration files between formats instantly in your browser. Client-side processing keeps your data private and secure.
+- URL: https://giga.tools/data-tools/converters/toml-yaml-converter
+  
+### [JSON <-> YAML Converter](https://giga.tools/data-tools/converters/yaml-json-converter)
+- Category: Converters
+- Description: Use our JSON to YAML and YAML to JSON converter in your browser to quickly convert between YAML/JSON. Processing is done locally in your browser, for free.
+- URL: https://giga.tools/data-tools/converters/yaml-json-converter
+  
+### [Barcode Generator](https://giga.tools/data-tools/generators/barcode-generator)
+- Category: Generators
+- Description: Use our free Barcode Generator to easily generate a barcode in your browser. Almost all barcode formats like code128, ean-13, or aztec are supported.
+- URL: https://giga.tools/data-tools/generators/barcode-generator
+  
+### [Bulk Barcode Generator](https://giga.tools/data-tools/generators/bulk-barcode-generator)
+- Category: Generators
+- Description: Generate barcodes in your browser with our bulk barcode PNG/JPG/SVG-image tool. Select any barcode format like code-128, ean13, QR-code, or aztec and download as ZIP
+- URL: https://giga.tools/data-tools/generators/bulk-barcode-generator
+  
+### [Human-ID Generator](https://giga.tools/data-tools/generators/human-id-generator)
+- Category: Generators
+- Description: Generate Human-IDs in JSON or Plaintext format. Powered by human-id v4, use it directly in browser to generate human-readable friendly UUIDs.
+- URL: https://giga.tools/data-tools/generators/human-id-generator
+  
+### [QR-Code Generator](https://giga.tools/data-tools/generators/qr-code-generator)
+- Category: Generators
+- Description: Generate high-quality QR codes online for free. Customize colors, output format (JPG, PNG, SVG), and download instantly. No signup required.
+- URL: https://giga.tools/data-tools/generators/qr-code-generator
+  
+### [WiFi Connection QR-Code Generator](https://giga.tools/data-tools/generators/wifi-qr-code-generator)
+- Category: Generators
+- Description: Generate a WiFi QR code instantly. Let guests join your network by scanning - no typing required. Supports WPA, WEP, and open networks. No signup, fully local
+- URL: https://giga.tools/data-tools/generators/wifi-qr-code-generator
+  
+### [GeoJSON to SVG Converter](https://giga.tools/data-tools/geojson/geojson-to-svg)
+- Category: GeoJSON
+- Description: Convert GeoJSON data to SVG vector files online. Customize stroke width, colors, and download high-quality map visualizations instantly.
+- URL: https://giga.tools/data-tools/geojson/geojson-to-svg
+  
+### [Backdate Git Commit](https://giga.tools/developer-tools/backdate-git-commit)
+- Category: Coding Tools
+- Description: Date git commits back to the past using our git commit backdate command generator tool. Easily backdate commits in your git repository if needed.
+- URL: https://giga.tools/developer-tools/backdate-git-commit
+  
+### [Better-Auth Secret Generator](https://giga.tools/developer-tools/better-auth-secret-generator)
+- Category: Coding Tools
+- Description: Generate secure BETTER_AUTH_SECRET values with high entropy. Free online tool creates cryptographically strong base64 secrets for Better Auth configuration.
+- URL: https://giga.tools/developer-tools/better-auth-secret-generator
+  
+### [UTM Link Generator](https://giga.tools/developer-tools/campaign-utm-link-generator)
+- Category: Coding Tools
+- Description: Build UTM Links using our UTM Link Generator Tool for your Digital Marketing & Online Ad Campaigns. Fully supported by Google Analytics, Plausible, and other analytics platforms.
+- URL: https://giga.tools/developer-tools/campaign-utm-link-generator
+  
+### [Clipboard Inspector](https://giga.tools/developer-tools/clipboard-content-inspector)
+- Category: Coding Tools
+- Description: Inspect your clipboard contents in detail. View all available MIME types, text, HTML, images, and raw data stored in your clipboard using the modern Clipboard API.
+- URL: https://giga.tools/developer-tools/clipboard-content-inspector
+  
+### [Cron Explainer](https://giga.tools/developer-tools/cron-explainer)
+- Category: Coding Tools
+- Description: Convert crontab/cronjob expressions into plain English and preview the next 5 execution times with timezone-aware scheduling in your browser.
+- URL: https://giga.tools/developer-tools/cron-explainer
+  
+### [JWT Decoder](https://giga.tools/developer-tools/jwt-analyzer-decoder)
+- Category: Coding Tools
+- Description: Decode and Analyze JWTs in your browser for debugging and verifying JSON Web Tokens for developers.
+- URL: https://giga.tools/developer-tools/jwt-analyzer-decoder
+  
+### [Mailto Link Generator](https://giga.tools/developer-tools/mailto-link-generator)
+- Category: Coding Tools
+- Description: Generate custom mailto links with subject, body, CC, and BCC fields. Create HTML email links instantly for your website.
+- URL: https://giga.tools/developer-tools/mailto-link-generator
+  
+### [Fluent Emoji Explorer](https://giga.tools/developer-tools/microsoft-fluent-emoji-explorer-search-viewer)
+- Category: Coding Tools
+- Description: Browse, search, and preview all 1,500+ Microsoft Fluent Emojis in 3D, Color, Flat, High Contrast, and animated styles. Filter by category, skin tone, and keywords. Copy glyphs, unicode, and image URLs.
+- URL: https://giga.tools/developer-tools/microsoft-fluent-emoji-explorer-search-viewer
+  
+### [OpenGraph Snippet Generator](https://giga.tools/developer-tools/opengraph-code-snippet-generator)
+- Category: Coding Tools
+- Description: Use our free OpenGraph Generator to generate the html meta-tags for OG, Twitter Card Embeds, Discord Embeds, and other Social Media Embeddings for your website.
+- URL: https://giga.tools/developer-tools/opengraph-code-snippet-generator
+  
+### [px/rem Converter](https://giga.tools/developer-tools/px-rem-converter-calculator)
+- Category: Coding Tools
+- Description: Convert between px and rem units instantly with a customizable base font size. Includes a common conversions reference table and copy-to-clipboard support.
+- URL: https://giga.tools/developer-tools/px-rem-converter-calculator
+  
+### [Regex Tester](https://giga.tools/developer-tools/regex-tester)
+- Category: Coding Tools
+- Description: Test, debug, and visualize regular expressions in real time. See highlighted matches with capture group details, flags, and match positions directly in your browser.
+- URL: https://giga.tools/developer-tools/regex-tester
+  
+### [robots.txt Tester](https://giga.tools/developer-tools/robots-txt-tester)
+- Category: Coding Tools
+- Description: Paste your robots.txt and instantly test whether a URL is allowed or blocked for any crawler: Googlebot, Bingbot, GPTBot, and more. No signup required.
+- URL: https://giga.tools/developer-tools/robots-txt-tester
+  
+### [Unix Timestamp Viewer](https://giga.tools/developer-tools/unix-timestamp-viewer)
+- Category: Coding Tools
+- Description: Convert Unix timestamps to human-readable dates and vice versa. Supports seconds, milliseconds, and nanoseconds with live epoch clock, UTC, local time, and relative time display.
+- URL: https://giga.tools/developer-tools/unix-timestamp-viewer
+  
+### [VAPID Key Generator](https://giga.tools/developer-tools/vapid-key-generator)
+- Category: Coding Tools
+- Description: Generate secure VAPID public and private keys for Web Push notifications in your browser. Copy Voluntary Application Server Identification key pairs, JWKs, and .env
+- URL: https://giga.tools/developer-tools/vapid-key-generator
+  
+### [What is my User Agent](https://giga.tools/developer-tools/what-is-my-user-agent)
+- Category: Coding Tools
+- Description: Instantly view your browser user agent string, device type, OS, viewport size, and technical details. Free online user agent checker and parser tool.
+- URL: https://giga.tools/developer-tools/what-is-my-user-agent
+  
+### [Domain-Blocklist Checker](https://giga.tools/discord/bad-link-blocklist-checker)
+- Category: Discord Tools
+- Description: Check if a Domain is on the Discord Blocklist using the Discord banned-URL Blocklist-Checker Tool. Quickly evaluate the safety of Urls against the Discord banned URLs
+- URL: https://giga.tools/discord/bad-link-blocklist-checker
+  
+### [Animated Emoji Maker](https://giga.tools/discord/discord-emoji-animator)
+- Category: Discord Tools
+- Description: Create perfectly looping animated GIF emojis for Discord. Choose from over 20 animation effects, customize size and speed, and export Discord-ready emojis under 256KB.
+- URL: https://giga.tools/discord/discord-emoji-animator
+  
+### [Emoji Image Splitter](https://giga.tools/discord/discord-emoji-image-splitter)
+- Category: Discord Tools
+- Description: Split images into Discord emoji tiles. Create large multi-tile emojis for Discord servers, generate ZIP with emoji files and copy-paste message for custom emoji grids
+- URL: https://giga.tools/discord/discord-emoji-image-splitter
+  
+### [Discord Icon Crop Previewer](https://giga.tools/discord/discord-server-icon-pfp-preview)
+- Category: Discord Tools
+- Description: Upload and preview images as Discord server icons or profile pictures. Drag to adjust positioning and see exactly how your avatar will look after Discord crops it.
+- URL: https://giga.tools/discord/discord-server-icon-pfp-preview
+  
+### [Server-Icon Ping Overlay](https://giga.tools/discord/discord-server-icon-ping-overlay-creator)
+- Category: Discord Tools
+- Description: Add Discord notification badges to server icons. Create realistic ping overlays with custom numbers (0-999) for pranks, mockups, and screenshots. Perfect Discord badge styling.
+- URL: https://giga.tools/discord/discord-server-icon-ping-overlay-creator
+  
+### [Discord Timestamp Generator](https://giga.tools/discord/discord-timestamp-tool)
+- Category: Discord Tools
+- Description: Create Discord timestamps with automatic timezone conversion. Generate all format codes (relative, short, long) with live examples and one-click copy for messages, embeds, and events
+- URL: https://giga.tools/discord/discord-timestamp-tool
+  
+### [Discord Experiment Rollouts](https://giga.tools/discord/experiment-rollouts)
+- Category: Discord Tools
+- Description: Fetches & Provides an Overview of Upcoming Discord Features and internal Discord Experiments / Rollouts with Details and Information.
+- URL: https://giga.tools/discord/experiment-rollouts
+  
+### [Discord Hidden Pinger](https://giga.tools/discord/hidden-pinger)
+- Category: Discord Tools
+- Description: The pinged users get a ping and a highlighted message, but don't see the ping itself. You can use it on Discord servers and in private-chat messages.
+
+- URL: https://giga.tools/discord/hidden-pinger
+  
+### [Discord Invite Link Checker](https://giga.tools/discord/invite-link-checker)
+- Category: Discord Tools
+- Description: The Discord Invite-Link Checker tool allows you to analyze data from Discord Invite Links like Server Info, Inviting User, Server Tag, Boosts, Feature Flags, and more.
+- URL: https://giga.tools/discord/invite-link-checker
+  
+### [Discord Permission Calculator](https://giga.tools/discord/permission-calculator)
+- Category: Discord Tools
+- Description: Calculate Discord permissions integer values according to the required bot permissions for Discord application-developers.
+- URL: https://giga.tools/discord/permission-calculator
+  
+### [Snowflake ID Decoder](https://giga.tools/discord/snowflake-id-decoder)
+- Category: Discord Tools
+- Description: Decode Snowflake IDs (used by Discord, Twitter, and Instagram) and extract information like User-Creation Date or Resource-Creation Date, Timestamp or Process ID
+- URL: https://giga.tools/discord/snowflake-id-decoder
+  
+### [Discord Webhook Deleter](https://giga.tools/discord/webhook-deleter)
+- Category: Discord Tools
+- Description: Easily & quickly delete Discord Webhooks directly in your browser on any Discord-Server using our web-tool. Just paste the url and instantly remove the webhook.
+- URL: https://giga.tools/discord/webhook-deleter
+  
+### [Discord Webhook Tester](https://giga.tools/discord/webhook-tester)
+- Category: Discord Tools
+- Description: Quickly test Discord Webhooks directly in your browser on any Discord-Server using our web-tool. Just paste the url and instantly verify if the webhook is valid
+- URL: https://giga.tools/discord/webhook-tester
+  
+### [AI Image to Text OCR](https://giga.tools/document-tools/ai-image-to-text-ocr)
+- Category: Document Tools
+- Description: Extract text from images using AI-powered OCR directly in your browser. Supports printed and handwritten text recognition with Florence 2. Free, fully local on giga.tools.
+- URL: https://giga.tools/document-tools/ai-image-to-text-ocr
+  
+### [Letter & Word Counter](https://giga.tools/document-tools/letter-word-counter)
+- Category: Document Tools
+- Description: Count characters, words, and lines in your text instantly. Free online text analysis tool with real-time statistics. No sign-up required.
+- URL: https://giga.tools/document-tools/letter-word-counter
+  
+### [Markdown Viewer](https://giga.tools/document-tools/markdown-viewer)
+- Category: Document Tools
+- Description: Instantly edit and preview Markdown in your browser - no sign-up required. Supports GitHub Flavored Markdown (GFM) including tables, task lists, and strikethrough. Paste text or upload a .md file.
+- URL: https://giga.tools/document-tools/markdown-viewer
+  
+### [Typst Editor](https://giga.tools/document-tools/typst-online-editor)
+- Category: Document Tools
+- Description: Edit Typst documents directly in the browser. Use our web-based typst-markup editor without sign-up and quickly preview or convert your Typst document to PDF.
+- URL: https://giga.tools/document-tools/typst-online-editor
+  
+### [Typst to PDF Compiler](https://giga.tools/document-tools/typst-to-pdf-compiler)
+- Category: Document Tools
+- Description: Compile Typst documents to PDF in the browser. Use our web-based typst-markup pdf exporter directly in your browser without sign-up and quickly convert your document.
+- URL: https://giga.tools/document-tools/typst-to-pdf-compiler
+  
+### [Image Background Remover](https://giga.tools/image-tools/background-remover)
+- Category: Image Tools
+- Description: Quickly remove the background of any image directly in your browser for free without sign-up using this online AI Background Remover.
+- URL: https://giga.tools/image-tools/background-remover
+  
+### [Image to Thumbhash](https://giga.tools/image-tools/thumbhash-generator)
+- Category: Image Tools
+- Description: Generate small Thumbhash hashes and preview the Thumbhash-thumbnail of an image in your browser no-code required. Thumbhash is a compact representation of an image placeholder
+- URL: https://giga.tools/image-tools/thumbhash-generator
+  
+### [Image to Blurhash](https://giga.tools/image-tools/blurhash-generator)
+- Category: Image Tools
+- Description: Generate small Blurhash hashes and preview the blurhash-thumbnail of an image in your browser no-code required. Blurhash is a tiny representation of an image placeholder
+- URL: https://giga.tools/image-tools/blurhash-generator
+  
+### [Blurhash to Image](https://giga.tools/image-tools/blurhash-to-image-preview)
+- Category: Image Tools
+- Description: Convert Blurhash Image-Hashes to JPG, PNG, or WEBP Images in your Browser. Thumbhashes are a compact representation of images, used for loading-Thumbnails
+- URL: https://giga.tools/image-tools/blurhash-to-image-preview
+  
+### [Thumbhash to Image](https://giga.tools/image-tools/thumbhash-to-image-preview)
+- Category: Image Tools
+- Description: Convert Thumbhash Thumbnail-Hashes to PNG Images in your Browser. Thumbhashes are a compact representation of images, used for loading-Thumbnails
+- URL: https://giga.tools/image-tools/thumbhash-to-image-preview
+  
+### [Blurhash to CSS Gradient](https://giga.tools/image-tools/blurhash-to-css-gradient)
+- Category: Image Tools
+- Description: Convert a Blurhash to a CSS background rule using CSS Gradients to embed Blurhashes on your website without client-side JS. Compare the resulting CSS Blurhash vs Real Image Blurhash
+- URL: https://giga.tools/image-tools/blurhash-to-css-gradient
+  
+### [Image Metadata Remover](https://giga.tools/image-tools/exif-cleaner)
+- Category: Image Tools
+- Description: Remove the Metadata & EXIF-Data of Images using our Exif Scrubber Online-Tool to protect your privacy before sharing photos. Delete GPS data from photos tool.
+- URL: https://giga.tools/image-tools/exif-cleaner
+  
+### [Image Metadata & EXIF Analyzer](https://giga.tools/image-tools/exif-reader)
+- Category: Image Tools
+- Description: Analyze Image's Metadata including exact Location, Size, Camera or Phone Model, and More in your Browser with this free tool. Read out the EXIF Data of an Image
+- URL: https://giga.tools/image-tools/exif-reader
+  
+### [Flip Image Tool](https://giga.tools/image-tools/flip-image)
+- Category: Image Tools
+- Description: Flip Photos with our free online-tool. Configure the axis to flip, and download your high quality flipped or mirrored image fast, directly in your browser.
+- URL: https://giga.tools/image-tools/flip-image
+  
+### [Image to Tiles Splitter](https://giga.tools/image-tools/image-to-tiles-splitter)
+- Category: Image Tools
+- Description: Split any image into equal tiles or grid squares online for free. Customize tile size, preview results instantly, and download all tiles as a ZIP file. Perfect for game sprites, Instagram grids, and tilesets.
+- URL: https://giga.tools/image-tools/image-to-tiles-splitter
+  
+### [Profile Pic Creator](https://giga.tools/image-tools/magicpfp)
+- Category: Image Tools
+- Description: Easy-to-use tool for generating & customizing profile photos using AI for background removal. Create professional PFPs with magicpfp.giga.tools
+- URL: https://giga.tools/image-tools/magicpfp
+  
+### [Placeholder Image Generator](https://giga.tools/image-tools/placeholder-image-generator)
+- Category: Image Tools
+- Description: Generate custom placeholder images with specific dimensions, colors, shapes, and text. Create rectangle or circle placeholders and download as JPG, PNG, WEBP, or SVG; free, no sign-up required.
+- URL: https://giga.tools/image-tools/placeholder-image-generator
+  
+### [SVG Shape Pile Generator](https://giga.tools/image-tools/svg-shape-pile-generator)
+- Category: Image Tools
+- Description: Generate colorful SVG shape-piles with soft blob and bean-like forms, centered overlap, adjustable roundness & gravity, and SVG download for free browser-based.
+- URL: https://giga.tools/image-tools/svg-shape-pile-generator
+  
+### [Transparency Trimmer](https://giga.tools/image-tools/transparency-trimmer)
+- Category: Image Tools
+- Description: Remove transparent borders and empty space from PNG and WebP images instantly. Free online transparency trimmer with adjustable alpha threshold. Works in browser, no login required.
+- URL: https://giga.tools/image-tools/transparency-trimmer
+  
+### [AI Video to Text Transcriber](https://giga.tools/video-tools/ai-video-transcriber)
+- Category: Video Tools
+- Description: Automatically transcribe videos using local Whisper AI directly in your browser for free without sign-up. Convert videos to text using our whisper web AI tool.
+- URL: https://giga.tools/video-tools/ai-video-transcriber
+  
+### [Video Metadata Analyzer](https://giga.tools/video-tools/metadata-analyzer)
+- Category: Video Tools
+- Description: Read-Out & Analyze Video's Metadata including exact Location, Size, Encoding, FPS, and more data with our free browser-tool. Read out the EXIF Data of Videos
+- URL: https://giga.tools/video-tools/metadata-analyzer
+  
+### [Video to Images Splitter](https://giga.tools/video-tools/video-to-images-splitter)
+- Category: Video Tools
+- Description: Split video files to images and extract frames as JPG or PNG images using our video frame extractor tool in your browser for free.
+- URL: https://giga.tools/video-tools/video-to-images-splitter
+  
+### [Video Volume Changer](https://giga.tools/video-tools/video-volume-changer)
+- Category: Video Tools
+- Description: Change the Volume of Video Files directly in your browser for free. Boost audio of video files in formats like MP4, WEBM, MKV, or MOV with giga.tools!
+- URL: https://giga.tools/video-tools/video-volume-changer
+  
+### [Webcam Tester](https://giga.tools/video-tools/webcam-tester)
+- Category: Video Tools
+- Description: Test and troubleshoot your webcam with live video preview, device selection, and record-playback. No installation, no login, works in browser.
+- URL: https://giga.tools/video-tools/webcam-tester
+  
+### [YouTube Thumbnail Extractor](https://giga.tools/video-tools/youtube-thumbnail-extractor)
+- Category: Video Tools
+- Description: Download YouTube Video Thumbnails using the giga.tools YouTube Thumbnail Extractor Tool directly in your browser. Get Thumbnails in different resolutions.
+- URL: https://giga.tools/video-tools/youtube-thumbnail-extractor
+    

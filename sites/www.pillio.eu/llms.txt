@@ -1,0 +1,29 @@
+# Pillio
+
+> Pillio is a leading pharmacy platform provider that digitizes pharmacy operations, acting as an extra pharmacist in your store to boost patient experience and shorten service times.
+
+Pillio provides easily installable digital tools for pharmacies to streamline workflows, ensure regulatory compliance, and enhance customer service.
+
+## Key Benefits
+
+- 40% reduction in administrative tasks
+- 24/7 digital patient support
+- 100% compliance-ready documentation
+- Faster prescription processing
+- Reduced dispensing errors
+
+## Target Audience
+
+- Independent pharmacies
+- Pharmacy chains
+- OTC retailers
+- Healthcare providers
+
+## Contact
+
+- Website: https://pillio.app
+- Demo booking: https://pillio.app/pharmacy.html#booking
+
+## Documentation
+
+- [Full details](llms-full.txt)

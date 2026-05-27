@@ -1,0 +1,4 @@
+# Permissão total para todos os crawlers de IAs
+
+User-Agent: *
+Allow: /

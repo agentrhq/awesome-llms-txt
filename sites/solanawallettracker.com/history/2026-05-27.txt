@@ -1,0 +1,11 @@
+# Sol Wallet Tracker
+
+> A real-time Solana meme coin tracker that shows the wallet holdings, profits, losses, and trade activity of top traders, helping users spot new coins early.
+
+## Leaderboards
+- https://solwallettracker.com/leaderboards — Track top meme coin wallets on Solana.
+- https://solwallettracker.com/wallet-alerts — Set real-time alerts for wallet trades.
+- https://solwallettracker.com/faq — Learn how the platform works.
+
+## Contact
+- https://solwallettracker.com/contact

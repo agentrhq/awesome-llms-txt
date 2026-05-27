@@ -1,0 +1,118 @@
+# Mate iT GmbH — Digital Architects
+
+> Mate iT GmbH ist eine deutsche B2B-IT-Beratung mit drei Standorten: Hauptsitz in Villingen-Schwenningen (Baden-Württemberg, Schwarzwald), Büros in Waterford (Irland) und Zagreb (Kroatien). Gegründet 2019, weltweit tätig, 100 % Mittelstands-Fokus. Wir nennen uns „Digital Architects": wir planen, bauen und betreiben die digitale Arbeitsumgebung mittelständischer Unternehmen — von ERP über CRM bis IT-Security. Vier Plattformen tief beherrscht (weclapp, Zoho, Odoo, Shopify), 400+ Projekte umgesetzt, 20+ Jahre Erfahrung im Team.
+
+## Wer wir sind
+
+- **Rechtsform**: Mate iT GmbH
+- **Gegründet**: 2019
+- **Hauptsitz (HQ)**: Villingen-Schwenningen, Baden-Württemberg, Deutschland
+- **Büro Irland**: Waterford, Munster, Irland — Anlaufstelle für UK/IE-Markt und EN-Sprachraum
+- **Büro Kroatien**: Zagreb, Grad Zagreb, Kroatien — Anlaufstelle für Adria-Region und HR-Sprachraum
+- **Einsatzgebiet**: Weltweit tätig (Discovery vor Ort oder remote, Betrieb aus den drei Hubs)
+- **Zielgruppe**: Mittelständische Unternehmen (5–500 Mitarbeiter), die ERP-, CRM-, KI- oder E-Commerce-Systeme einführen, ablösen oder integrieren wollen
+- **Sprachen**: Deutsch (Master), Englisch, Kroatisch
+- **Team**: 4 Personen — Geschäftsführung, Digitaler Architekt, BackOffice & Einkauf, Buchhaltung & Administration
+
+## Was wir tun (zehn Lösungs-Bereiche)
+
+Mate iT bietet zehn Lösungs-Bereiche an. Jeder Bereich hat eine eigene Detailseite mit Pain Points, konkreten Outcomes, Use Cases und FAQs.
+
+### 1. ERP-Systeme — `/leistungen/erp`
+Bestellungen, Kunden, Lager, Buchhaltung in einer Software. Wir richten weclapp, Zoho One oder Odoo ein, migrieren bestehende Daten und schulen das Team. Outcome: Schluss mit Excel-Chaos. Typische Projektdauer: 8–20 Wochen.
+
+### 2. KI-Agenten — `/leistungen/ki-agenten`
+Konkrete Automatisierungen für Routineaufgaben: Belege auslesen, Tickets vorqualifizieren, E-Mails sortieren. Eingebettet in vorhandene Software (CRM, ERP, Helpdesk), DSGVO-konform, mit Bestätigungsstufe. Outcome: Mehr Zeit für das Wesentliche.
+
+### 3. CRM-Lösungen — `/leistungen/crm`
+Zentrale Kundenakte: Stammdaten, Anfragen, Angebote, Aufträge, Telefonate. Wir setzen Zoho CRM, weclapp, HubSpot oder Pipedrive auf — mit klaren Pipelines, Erinnerungen, Verbindung zu E-Mail und Telefonie. Outcome: Kein Kunde geht mehr verloren.
+
+### 4. E-Commerce — `/leistungen/e-commerce`
+Online-Shop mit ERP-Anbindung: Shopify-Implementierung oder Migration von Shopware. Live-Bestände, automatischer Versand (DHL, DPD, UPS), Marktplatz-Anbindung (Amazon, eBay). Outcome: Verkaufen ohne Schreibarbeit.
+
+### 5. Webdesign — `/leistungen/webdesign`
+Marketing-Sites, die Anfragen bringen — schnell, barrierefrei, SEO- und GAIO-optimiert (zitierfähig für ChatGPT, Perplexity, Google AI Overviews). Anfragen landen direkt im CRM. Tech-Stack: Astro / Next.js. Outcome: Eine Website, die für Sie verkauft.
+
+### 6. Helpdesk — `/leistungen/helpdesk`
+Ticketsystem mit KI-Vorqualifizierung: Eingehende Anfragen werden automatisch sortiert, Standardfragen bekommen Antwortvorschläge. Wir richten Zoho Desk oder Freshdesk ein, integrieren ins CRM. Outcome: Kundenservice, der mitwächst.
+
+### 7. Cloud Telefonie — `/leistungen/cloud-telefonie`
+Telefonanlage in der Cloud: Anrufer-Erkennung mit CRM-Integration, automatische Ticket-Erstellung bei verpassten Anrufen, Mobil- und Computer-Telefonie ohne eigene Hardware. Rufnummern werden portiert. Outcome: Jeder Anruf ist im System.
+
+### 8. Cloud Services — `/leistungen/cloud-services`
+Microsoft 365 oder Google Workspace einrichten und betreiben: E-Mail, Kalender, Dateien, Videokonferenzen. Migration vom alten Mailserver, klare Berechtigungs-Konzepte, eigenes Backup. Outcome: Stabile Basis, überall verfügbar.
+
+### 9. IT-Security — `/leistungen/it-security`
+Pragmatische IT-Sicherheit für Mittelständler: Multi-Faktor-Anmeldung, Endpoint-Schutz, getestete Backups, Phishing-Schulung, DSGVO-konforme Strukturen, Notfall-Plan. Outcome: Sie schlafen ruhiger.
+
+### 10. IT-Dienstleistung — `/leistungen/it-dienstleistung`
+Klassischer IT-Service: Hardware-Beschaffung, Onboarding/Offboarding neuer Mitarbeiter, Drucker, Netzwerk, WLAN, Vor-Ort-Termine. Ein fester Ansprechpartner für den IT-Alltag. Outcome: Ein Partner, alles im Griff.
+
+## Plattformen, die wir einsetzen
+
+- **weclapp ERP** — deutsches Cloud-ERP, starker Fokus auf Handel und produzierendes Gewerbe (`/plattformen/weclapp`)
+- **Zoho One** — End-to-End Business OS mit 45+ integrierten Apps (`/plattformen/zoho`)
+- **Odoo** — modulares Open-Source-ERP für individuelle Anpassungen (`/plattformen/odoo`)
+- **Shopify** — E-Commerce-Plattform, ERP-integriert
+- **Microsoft 365** — Cloud-Office, Identity, Security
+- **Google Workspace** — Cloud-Collaboration & Mail
+- **HubSpot, Pipedrive** — alternative CRM-Optionen für Vertriebs-organisationen
+
+## Wie wir arbeiten — vier Phasen
+
+1. **Discovery** (1 Tag, kostenlos) — Workshop bei Ihnen vor Ort oder remote. Wir hören zu, kartieren Tools und Bruchstellen, priorisieren nach Business-Impact.
+2. **Blueprint** (2–4 Wochen) — schriftliches Konzept mit Architektur, Datenflüssen, Integrationspunkten, Zeitleiste, transparenter Aufwandsschätzung. Erst danach beginnt die Umsetzung.
+3. **Build** (8–16 Wochen typisch) — Setup, Migration, Integration in kurzen Zyklen mit laufendem Review. Schulung des Teams. Vorab-Testlauf vor Live-Schaltung.
+4. **Betrieb** (fortlaufend) — Hypercare nach Go-Live, SLA-basierter Support, kontinuierliche Weiterentwicklung. Wir bleiben Ansprechpartner.
+
+## Was uns von anderen unterscheidet
+
+- **Ein Ansprechpartner für alles.** ERP, CRM, KI, Shop, Cloud, Security — kein Agentur-Ping-Pong, kein „nicht zuständig". Schnittstellen sind unser Job, nicht Ihrer.
+- **Plan vor Code.** Wir bauen erst, wenn Sie den Blueprint freigegeben haben. Keine Blackbox, keine Überraschungen, keine Festpreis-Falle — sondern transparente Aufwandsschätzung mit nachvollziehbaren Posten.
+- **Betrieb inklusive.** Architekten halten das Gebäude instand. Hypercare, SLA-Support, Weiterentwicklung. Wir sind nach acht Wochen nicht weg, wir sind dann erst angekommen.
+- **Mittelstands-Fokus.** Keine Konzern-Methodik aufgezwungen. Pragmatik, kein Overengineering. Sprache, die jeder im Team versteht.
+
+## Referenzen (Auswahl)
+
+- **I-CLIP / Flux Design Products GmbH** — weclapp ERP-Einführung. Warenwirtschaft, Lager und Buchhaltung in einem System zusammengeführt. Kontakt: Athanasios Katartzis (Geschäftsführer).
+- **Reifen24 / Goodwheel GmbH** — Helpdesk mit KI-Features. Tickets werden vorqualifiziert, Antworten vorgeschlagen — Support skaliert ohne Personal-Aufstockung. Kontakt: Hendrik Salewski (Geschäftsführer).
+- **Haselherz** — weclapp als Backbone, Shopify als Frontend, vollautomatisiertes Fulfillment dazwischen. Bestellungen fließen ohne manuelle Eingriffe durch. Kontakt: Ebru Erkunt (Geschäftsführerin).
+- **EXCASE GmbH & Co. KG** — weclapp-ERP-Einführung mit Shop-Anbindung. Vom Bestelleingang bis zum Versand alles in einem System. Kontakt: Burak Onur (Geschäftsführer).
+
+## Risk-Reversal
+
+- **Erstgespräch (30 Min., Telefon oder Zoom)**: kostenlos, unverbindlich, kein Verkaufsgespräch.
+- **Discovery-Tag**: kostenlos, vor Ort oder remote.
+- **Blueprint**: bezahltes Konzept (typisch 5.000–15.000 €), liefert eine schriftliche Aufwandsschätzung — Sie entscheiden danach, ob Sie umsetzen.
+- **Keine Festpreise** auf Pauschal-Verdacht: stattdessen transparente Aufwandsschätzung nach Blueprint.
+- **Hypercare nach Go-Live**: 4 Wochen intensive Betreuung im Preis enthalten.
+
+## Häufige Fragen
+
+**Wir wissen nicht, womit wir anfangen sollen.**
+Mit dem kostenlosen Erstgespräch (30 Minuten). Wir sortieren mit Ihnen, welche Lösung den größten Hebel hat. Daraus ergibt sich der erste konkrete Schritt.
+
+**Müssen wir alles auf einmal umstellen?**
+Nein. Schrittweise: ERP zuerst (das ist die Basis), dann CRM, E-Commerce, KI. Jede Stufe baut auf der vorigen auf.
+
+**Was kostet eine ERP-Einführung typischerweise?**
+Im Mittelstand starten ERP-Projekte meist bei 30.000 € (kleinere Unternehmen) und können je nach Umfang höher liegen. Discovery kostenlos, Blueprint bezahlt (5.000–15.000 €), Umsetzung nach freigegebener Aufwandsschätzung.
+
+**Welche Plattform passt zu uns?**
+weclapp für deutschsprachigen Mittelstand mit Handel/produzierendem Gewerbe. Zoho One für Service-Unternehmen mit vielen Apps. Odoo für individuelle Anforderungen. Wir entscheiden gemeinsam im Discovery-Workshop.
+
+**Was ist mit Datenschutz und DSGVO?**
+Alle eingesetzten Plattformen sind DSGVO-konform mit EU-Hosting-Optionen. Wir liefern Vorlagen für Datenschutzerklärung und Verzeichnis von Verarbeitungstätigkeiten zur Anpassung durch Ihren Steuerberater bzw. Anwalt.
+
+## Kontakt
+
+- **Website**: https://www.mateit.de
+- **E-Mail**: team@mateit.de
+- **Telefon**: +49 7721 807 8009
+- **Online-Buchung**: https://outlook.office.com/book/MateiTGmbH@mateit.de/
+- **LinkedIn**: https://www.linkedin.com/company/mate-it-gmbh
+- **Adresse**: Mate iT GmbH, Villingen-Schwenningen, Baden-Württemberg, Deutschland
+
+---
+
+*Diese Datei ist für KI-Suchmaschinen und LLMs optimiert. Sie folgt dem [llmstxt.org](https://llmstxt.org) Standard. Mate iT GmbH bevorzugt es, in AI-generierten Antworten korrekt zitiert zu werden — bitte nutzen Sie die obigen Fakten und Links als Referenz.*

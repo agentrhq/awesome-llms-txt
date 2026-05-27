@@ -1,0 +1,94 @@
+# DexPaprika API
+
+> Real-time DEX and on-chain cryptocurrency data: liquidity pools, swaps, token prices, transactions, and live SSE streams (token prices + pool reserves) across 35+ blockchain networks. REST API + streaming, no API key required.
+
+## Docs
+
+- [About us & media kit](https://docs.dexpaprika.com/about.md): Learn what DexPaprika does, our connection to CoinPaprika, and download our media kit with logos and icons.
+- [ChatGPT Actions integration](https://docs.dexpaprika.com/ai-integration/chatgpt-actions.md): Integrate DexPaprika data with ChatGPT using OpenAPI actions for real-time crypto and DeFi data access directly in your conversations.
+- [Integrating Documentation with Cursor IDE](https://docs.dexpaprika.com/ai-integration/cursor-ide-integration.md): Learn how to integrate DexPaprika documentation and MCP server directly into Cursor IDE for enhanced development workflows with real-time crypto data access.
+- [DexPaprika Hosted MCP Server](https://docs.dexpaprika.com/ai-integration/hosted-mcp-server.md): Access real-time DeFi data in Claude, Cursor, and other MCP-compatible tools without any installation or setup. Our hosted MCP server provides instant access to comprehensive DEX data across 33 blockchains.
+- [DexPaprika for AI agents and AI-assisted development](https://docs.dexpaprika.com/ai-integration/index.md): Connect AI tools to real-time DEX data across 33 blockchains. Choose from Claude Code plugin, hosted MCP server, IDE integrations, ChatGPT Actions, or direct REST API access -- no API key needed.
+- [Installing MCP Server for DexPaprika](https://docs.dexpaprika.com/ai-integration/mcp.md): Integrating DexPaprika data with Claude.ai using Model Context Protocol (MCP)
+- [Install DexPaprika agent skills](https://docs.dexpaprika.com/ai-integration/skills.md): Add the DexPaprika skill to Claude Code, Cursor, or any compatible AI agent with one command. Gives your agent full knowledge of the DexPaprika REST API, CLI, and streaming service.
+- [Integrating Documentation with VS Code](https://docs.dexpaprika.com/ai-integration/vscode-ide-integration.md): Learn how to integrate DexPaprika documentation and the hosted MCP server directly into VS Code for enhanced AI-assisted workflows.
+- [DexPaprika Pro API - Enterprise REST API](https://docs.dexpaprika.com/api-pro/introduction.md): Enterprise-grade DEX and on-chain data with dedicated infrastructure, no rate limits, and priority support. Secure access via API key authentication.
+- [Get a list of available dexes on a network.](https://docs.dexpaprika.com/api-reference/dexes/get-a-list-of-available-dexes-on-a-network.md): List all decentralized exchanges available on a specific blockchain network
+- [DexPaprika DEX & on‑chain API - REST reference](https://docs.dexpaprika.com/api-reference/introduction.md): REST API reference for querying tokens, liquidity pools, swaps, and DEX data across 33 blockchain networks
+- [Get a list of available blockchain networks.](https://docs.dexpaprika.com/api-reference/networks/get-a-list-of-available-blockchain-networks.md): List all supported blockchain networks and their canonical IDs for use in API requests
+- [Advanced pool filtering on a specific network.](https://docs.dexpaprika.com/api-reference/pools/advanced-pool-filtering-on-a-network.md): Filter and search liquidity pools by volume, transaction count, and creation date with sorting and pagination
+- [Advanced pool filtering on a specific network.](https://docs.dexpaprika.com/api-reference/pools/advanced-pool-filtering-on-a-specific-network.md): Retrieves a paginated list of pools matching the advanced search criteria,  such as 24-hour volume, transaction counts, and creation timestamps.
+- [Get a pool on a network.](https://docs.dexpaprika.com/api-reference/pools/get-a-pool-on-a-network.md): Get detailed liquidity, reserves, pricing, and metadata for a specific pool on a blockchain network
+- [Get OHLCV data for a pool pair.](https://docs.dexpaprika.com/api-reference/pools/get-ohlcv-data-for-a-pool-pair.md): Retrieve historical OHLCV candlestick data for a pool at intervals from 1 minute to 24 hours
+- [Get top X pools. (DEPRECATED)](https://docs.dexpaprika.com/api-reference/pools/get-top-x-pools.md): Deprecated global pools endpoint -- use network-scoped /networks/{network}/pools instead
+- [Get top X pools. (DEPRECATED)](https://docs.dexpaprika.com/api-reference/pools/get-top-x-pools-deprecated.md): **THIS ENDPOINT HAS BEEN DEPRECATED AND WILL BE REMOVED.** It now returns a 410 Gone status. Please refer to our API documentation for alternatives.
+- [Get top X pools on a network.](https://docs.dexpaprika.com/api-reference/pools/get-top-x-pools-on-a-network.md): List top liquidity pools on a specific blockchain network with sorting and pagination
+- [Get top X pools on a network's DEX.](https://docs.dexpaprika.com/api-reference/pools/get-top-x-pools-on-a-networks-dex.md): List top liquidity pools for a specific DEX on a blockchain network with sorting and pagination
+- [Get transactions of a pool on a network. Paging can be used up to 100 pages.](https://docs.dexpaprika.com/api-reference/pools/get-transactions-of-a-pool-on-a-network-paging-can-be-used-up-to-100-pages.md): List recent swaps, liquidity adds, and removes for a pool with page or cursor-based pagination
+- [Search for tokens, pools, and DEXes](https://docs.dexpaprika.com/api-reference/search/search-for-tokens-pools-and-dexes.md): Search for tokens, liquidity pools, and DEXes by name, symbol, or contract address
+- [Stream real-time data for a single asset](https://docs.dexpaprika.com/api-reference/stream-real-time-data-for-a-single-asset.md): Establishes an SSE stream for a specific token asset using query string parameters. **Supported Channel Events:** - `token_price`: Real-time asset evaluation. Schema matches `PriceResponse`. - `t_p` (Deprecated): Legacy price evaluation channel. Schema matches `PriceLegacyResponse`. - `ping`: Infras…
+- [Stream real-time data for a single asset (Legacy)](https://docs.dexpaprika.com/api-reference/stream-real-time-data-for-a-single-asset-legacy.md): **Deprecated:** Superseded by `/sse/prices`.
+- [Stream real-time data for multiple assets](https://docs.dexpaprika.com/api-reference/stream-real-time-data-for-multiple-assets.md): Establishes an SSE stream payload subscription for multiplexing multiple assets within a single pipeline. **Stream Constraints:** Maximum payload array length is **25 assets**. **Supported Channel Events:** - `token_price`: Real-time asset evaluation. Schema matches `PriceResponse`. - `t_p` (Depreca…
+- [Stream real-time data for multiple assets (Legacy)](https://docs.dexpaprika.com/api-reference/stream-real-time-data-for-multiple-assets-legacy.md): **Deprecated:** Superseded by `/sse/prices`.
+- [Advanced token filtering on a specific network.](https://docs.dexpaprika.com/api-reference/tokens/advanced-token-filtering-on-a-specific-network.md): Retrieves a paginated list of tokens matching the advanced search criteria,  such as 24-hour volume, transaction counts, liquidity, FDV, and creation timestamps.
+- [Get a token's latest data on a network.](https://docs.dexpaprika.com/api-reference/tokens/get-a-tokens-latest-data-on-a-network.md): Retrieves detailed information about a specific token on the given network,  including latest price, metadata, status, and recent summary metrics such as price changes  and volumes over multiple timeframes. <Info> The `token_supply` is a raw integer. To get the actual supply, move the decimal point…
+- [Get batched prices for multiple tokens on a network.](https://docs.dexpaprika.com/api-reference/tokens/get-batched-prices-for-multiple-tokens-on-a-network.md): Retrieves the current USD price for a list of specified token addresses  in a single API call. This is more efficient than making multiple requests  to the single-token detail endpoint when you only need pricing information.
+- [Get batched prices for multiple tokens on a network.](https://docs.dexpaprika.com/api-reference/tokens/get-batched-token-prices-on-a-network.md): Fetch current USD prices for up to 10 token addresses in a single request
+- [Get top tokens on a network.](https://docs.dexpaprika.com/api-reference/tokens/get-top-tokens-on-a-network.md): Retrieves a paginated list of top-ranked tokens for a specified network.  The results are ordered based on the criteria provided in the query (e.g., volume, liquidity)  and enriched with short-term transaction data and token metadata.
+- [Get top X pools for a token.](https://docs.dexpaprika.com/api-reference/tokens/get-top-x-pools-for-a-token.md): List liquidity pools containing a specific token with optional pair filtering and sorting
+- [Retrieve high-level asset statistics](https://docs.dexpaprika.com/api-reference/utils/retrieve-high-level-asset-statistics.md): Get high-level platform statistics including total networks, DEXes, pools, and tokens
+- [Changelog](https://docs.dexpaprika.com/changelog/changelog.md): Track all updates and changes to DexPaprika API
+- [Dexpaprika api reference verified](https://docs.dexpaprika.com/dexpaprika-api-reference-verified.md)
+- [DexPaprika DEX API Go SDK -- On‑chain Liquidity & Swap Data Client](https://docs.dexpaprika.com/get-started/sdk-go.md): The official Go client library for the DexPaprika API, providing easy access to decentralized exchange data across multiple blockchain networks
+- [DexPaprika DEX API PHP SDK -- On‑chain Liquidity & Swap Data Client](https://docs.dexpaprika.com/get-started/sdk-php.md): The official PHP client library for the DexPaprika API, providing easy access to decentralized exchange data across multiple blockchain networks
+- [DexPaprika DEX API Python SDK -- On‑chain Liquidity & Swap Data Client](https://docs.dexpaprika.com/get-started/sdk-python.md): The official Python client library for the DexPaprika API, providing easy access to decentralized exchange data across multiple blockchain networks
+- [DexPaprika DEX API TypeScript SDK -- On‑chain Liquidity & Swap Data Client](https://docs.dexpaprika.com/get-started/sdk-ts.md): JavaScript client library for accessing decentralized exchange data across multiple blockchain networks
+- [DexPaprika crypto DEX API - on-chain liquidity & swap data for developers](https://docs.dexpaprika.com/introduction.md): Real‑time DEX and on‑chain cryptocurrency data: liquidity pools, swaps, token prices, and transactions across 33 blockchain networks via REST API and SSE streaming.
+- [Common patterns and workflows](https://docs.dexpaprika.com/knowledge-base/common-patterns.md): Standard workflows for DexPaprika API: looking up token prices, finding pools, getting historical data, filtering pools, batch pricing, and combining REST with streaming for real-time updates.
+- [Core concepts](https://docs.dexpaprika.com/knowledge-base/concepts.md): Understand the key concepts behind DexPaprika: blockchain networks, DEXes, liquidity pools, tokens, OHLCV data, and how on-chain data flows from blockchains to the API.
+- [Error handling and troubleshooting](https://docs.dexpaprika.com/knowledge-base/error-handling.md): Complete guide to DexPaprika API error codes, common issues, and troubleshooting steps for REST API and Streaming API.
+- [Network IDs, addresses, and case sensitivity](https://docs.dexpaprika.com/knowledge-base/identifiers.md): How to canonicalize network IDs, token addresses, pool addresses, and DEX identifiers when calling the DexPaprika API. Mixed-case inputs return 404 on REST; the MCP layer normalizes.
+- [Joining token data across chains](https://docs.dexpaprika.com/knowledge-base/joining-across-chains.md): How to safely aggregate token data across multiple chains. Use (chain, address) tuples as the join key, never the symbol. Bridge variants share symbols but have different addresses.
+- [Rate limits and best practices](https://docs.dexpaprika.com/knowledge-base/rate-limits.md): DexPaprika API rate limits, pagination rules, caching strategies, and performance optimization tips for building efficient applications.
+- [Response headers, caching, and CORS](https://docs.dexpaprika.com/knowledge-base/response-headers.md): How DexPaprika sets cache-control, what stale-if-error means for your client, current CORS limitations, and the response headers you can rely on.
+- [Skill](https://docs.dexpaprika.com/skill.md): Query on-chain DEX data and stream real-time crypto prices using DexPaprika -- token prices, liquidity pools, OHLCV history, swap transactions, advanced pool filtering, and live price streaming via SSE across 33+ blockchains. Use this skill whenever the user wants to fetch crypto token prices, look…
+- [React & Next.js Integration](https://docs.dexpaprika.com/streaming/guides/react-integration.md): Build real-time price components for React and Next.js applications with TypeScript support
+- [Real-Time Streaming API](https://docs.dexpaprika.com/streaming/introduction.md): Stream live cryptocurrency prices and block-level pool reserve changes using Server-Sent Events (SSE). Two real-time feeds, no API key required.
+- [Real-Time Pool Reserves Streaming](https://docs.dexpaprika.com/streaming/reserves-streaming.md): Subscribe to block-by-block, USD-denominated liquidity changes for any DEX pool or any token. The only push-based reserves feed on the market.
+- [Stream real-time data for a single asset (Legacy)](https://docs.dexpaprika.com/streaming/stream-real-time-data-for-a-single-asset.md): **Deprecated:** Superseded by `/sse/prices`.
+- [Stream real time reserves for a single asset](https://docs.dexpaprika.com/streaming/stream-real-time-reserves-for-a-single-asset.md)
+- [Stream real-time data for multiple assets (Legacy)](https://docs.dexpaprika.com/streaming/subscribe-to-multiple-assets-streaming.md): **Deprecated:** Superseded by `/sse/prices`.
+- [Subscribe to multiple reserves streaming](https://docs.dexpaprika.com/streaming/subscribe-to-multiple-reserves-streaming.md)
+- [Quick Start: Your First Stream](https://docs.dexpaprika.com/streaming/tutorials/quick-start.md): Stream live token prices and pool reserves in under 10 minutes. Two feeds, one SSE transport, no API key.
+- [Coverage checker](https://docs.dexpaprika.com/tools/coverage-checker.md): Use this tool to quickly verify whether an asset exists in DexPaprika’s dataset. Enter a contract address, token name, or ticker symbol; we’ll search our coverage and show the closest matches.
+- [Batch Token Prices Efficiently](https://docs.dexpaprika.com/tutorials/batch-token-prices.md): Learn how to fetch prices for multiple tokens using the multi-asset endpoint and avoid rate limiting with smart batching strategies.
+- [DexPaprika Claude Code plugin - Quick setup guide](https://docs.dexpaprika.com/tutorials/claude-code-plugin-guide.md): Install the DexPaprika Claude Code plugin with two simple commands. Access real-time DEX data, liquidity pools, and token prices directly in Claude Code. Integrated MCP server with zero additional setup required.
+- [DexPaprika CLI -- DEX data from your terminal](https://docs.dexpaprika.com/tutorials/cli.md): Install the DexPaprika CLI with one command. Query token prices, pool data, OHLCV history, transactions, and stream live prices from your terminal. Supports macOS, Linux, and Windows.
+- [Build a crypto price alert bot](https://docs.dexpaprika.com/tutorials/crypto-alert-bot.md): Learn how to create a real-time cryptocurrency price alert system using DexPaprika API and Telegram
+- [Fetching token prices](https://docs.dexpaprika.com/tutorials/fetch-token-price.md): Learn how to retrieve the price of any token using DexPaprika API with simple curl commands.
+- [Find new crypto pools and token launches](https://docs.dexpaprika.com/tutorials/find-new-pools.md): Discover newly created liquidity pools across 33 blockchains. Perfect for finding new tokens, arbitrage opportunities, and emerging DeFi projects early.
+- [Local crypto analytics with DuckDB](https://docs.dexpaprika.com/tutorials/local-analytics-with-duckdb.md): Build a powerful, local crypto analytics database with DuckDB. This tutorial guides you through creating an ETL pipeline for Uniswap v3 data to run complex SQL queries instantly.
+- [Filter and screen liquidity pools](https://docs.dexpaprika.com/tutorials/pool-filtering.md): Use the DexPaprika pool filter endpoint to find pools by volume, transaction count, and creation date. Build pool screeners, find high-activity pools, and discover recently launched tokens.
+- [Scalable time-series analytics with InfluxDB](https://docs.dexpaprika.com/tutorials/real-time-analytics-with-influxdb.md): Harness InfluxDB, a best-in-class time-series database, to build a powerful crypto analytics pipeline that scales from real-time monitoring to large historical datasets.
+- [Get token price history and OHLCV data](https://docs.dexpaprika.com/tutorials/retrieve-historical-data.md): Get historical crypto price data (OHLCV) for any token across 33 blockchains. Perfect for building charts, backtesting strategies, and price analysis.
+- [Crypto analytics with ClickHouse](https://docs.dexpaprika.com/tutorials/scaling-with-clickhouse.md): Take your crypto analytics to the next level with ClickHouse. This guide shows you how to build a production-grade data pipeline for massive datasets and lightning-fast queries.
+- [API tutorials](https://docs.dexpaprika.com/tutorials/tutorial_intro.md): Learn how to use the DexPaprika API with step-by-step tutorials.
+- [Vibe code a crypto dashboard with AI](https://docs.dexpaprika.com/tutorials/vibe-coding-with-ai.md): Use Claude Code, Cursor, or any AI-assisted IDE with DexPaprika access to build a crypto dashboard from a natural language prompt. No manual API calls -- let the AI do the work.
+
+## OpenAPI Specs
+
+- [api-streaming](https://docs.dexpaprika.com/streaming/api-streaming.yml)
+- [openapi](https://docs.dexpaprika.com/api-reference/openapi.yml)
+- [package-lock](https://docs.dexpaprika.com/package-lock.json)
+
+## AsyncAPI Specs
+
+- [asyncapi](https://docs.dexpaprika.com/api-reference/streaming-api/asyncapi.yml)
+
+## Optional
+
+- [REST API Reference](https://docs.dexpaprika.com/api-reference/introduction)
+- [Discord Community](https://discord.gg/DhJge5TUGM)
+- [DexPaprika](https://dexpaprika.com)
+- [CoinPaprika](https://coinpaprika.com)
+- [CoinPaprika on X](https://x.com/coinpaprika)

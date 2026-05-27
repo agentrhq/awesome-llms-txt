@@ -1,0 +1,21 @@
+# Railway
+
+> Railway is an infrastructure platform that simplifies your stack from servers to observability with a single, scalable, easy-to-use platform. Railway's superior developer experience makes it easy to deploy cloud infrastructure, full-stack applications, and websites.
+
+## About Railway
+
+- [Railway Features](https://railway.com/features)
+- [Railway Customers](https://railway.com/customers)
+- [Railway Pricing](https://railway.com/pricing)
+
+## For AI Agents
+
+- [Railway for AI Agents](https://railway.com/agents.md): Critical setup instructions for agents — CLI setup with `bash <(curl -fsSL cli.new) --agents -y`, local MCP and agent skills, optional remote MCP, and core use cases (deploy, databases, volumes, functions, config).
+
+## Product Details
+
+- [Railway Templates](https://railway.com/llms-templates.md): One-click deploy templates with architecture details, service configs, and READMEs
+- [Railway Product Changelog](https://railway.com/llms-changelog.md): Product changelog entries with titles, dates, and links
+- [Railway Docs](https://docs.railway.com/llms.txt): Full documentation covering deployments, services, networking, observability, CLI, and API
+- [Railway Blog](https://blog.railway.com/llms-blog.md): Engineering blog posts and product updates
+- [Railway Station Forum](https://station.railway.com/llms-station.md): Community forum threads with questions and answers

@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "domain": "webrecorder.net",
+  "display_name": "Webrecorder",
+  "category": "dev-tools",
+  "verified_url": "https://webrecorder.net/llms.txt",
+  "fetched_at": "2026-05-27T05:31:54Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 4218,
+  "last_modified": "Mon, 20 Apr 2026 20:44:38 GMT",
+  "freshness_age_days": 36,
+  "score": 58,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 17,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 9,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 7,
+      "reasons": [],
+      "age_days": 36,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 4.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Webrecorder",
+    "h1_count": 1,
+    "blockquote": "The Webrecorder team has been developing open source web archiving tools for over 10 years. Webrecorder's driving focus is to build web archiving tools that capture and display archived web content with near-identical fidelity to what was originally seen in browsers at the time of archiving. Webrecorder's tools are generally capable of capturing complex web interactions — succeeding where others typically fail — due to Webrecorder's focus on browser-based solutions for archiving and replaying archived web content.",
+    "section_count": 4,
+    "subsection_count": 0,
+    "link_count": 18,
+    "value_link_count": 18,
+    "low_value_link_count": 0,
+    "raw_bytes": 4218
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

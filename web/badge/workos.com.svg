@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="20" role="img" aria-label="llms.txt score: 77 (B+)">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="a"><rect width="119" height="20" rx="3" fill="#fff"/></mask>
+  <g mask="url(#a)">
+    <rect width="66" height="20" fill="#1f2937"/>
+    <rect x="66" width="53" height="20" fill="#84cc16"/>
+    <rect width="119" height="20" fill="url(#b)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Geist Mono, ui-monospace, monospace" font-size="11">
+    <text x="33" y="14">llms.txt</text>
+    <text x="92.5" y="14">77  B+</text>
+  </g>
+</svg>

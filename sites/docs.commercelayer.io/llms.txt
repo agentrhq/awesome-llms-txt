@@ -1,0 +1,1211 @@
+# Commerce Layer Docs
+
+## Welcome
+
+- [Documentation that helps you ship](https://docs.commercelayer.io/readme.md): Explore our API reference, developer tools, open-source components, and exhaustive documentation. Join our vibrant community of developers and technology leaders today.
+- [Public API endpoints](https://docs.commercelayer.io/public-endpoints.md): Access Commerce Layer's public endpoints, no authentication required — query resources, validate schemas, and download OpenAPI specifications
+
+## Getting started
+
+- [Welcome to Core API](https://docs.commercelayer.io/core/onboarding.md): How to get started with Commerce Layer Core API and set up your first organization
+- [Guided setup](https://docs.commercelayer.io/core/onboarding/guided-setup.md): Sign up for free and set up your organization
+- [Onboarding with the CLI](https://docs.commercelayer.io/core/onboarding/onboarding-with-the-cli.md): Sign up for free and place your first order in a snap
+- [Manual configuration](https://docs.commercelayer.io/core/onboarding/manual-configuration.md): A step-by-step guide on how to set up an organization from scratch, using our CLI
+- [API specification](https://docs.commercelayer.io/core/api-specification.md): Basic info about endpoints, resources, credentials, and environments
+- [API credentials](https://docs.commercelayer.io/core/api-credentials.md): An overview of Commerce Layer's API credentials types and how generate them
+- [Authentication](https://docs.commercelayer.io/core/authentication.md): How to get your access token, based on OAuth 2.0 grants
+- [Client credentials](https://docs.commercelayer.io/core/authentication/client-credentials.md): How to execute the authorization flow and get your access token
+- [Password](https://docs.commercelayer.io/core/authentication/password.md): How to execute the authorization flow and get your access token
+- [Authorization code](https://docs.commercelayer.io/core/authentication/authorization-code.md): How to execute the authorization flow and get your access token
+- [Refresh token](https://docs.commercelayer.io/core/authentication/refresh-token.md): How to execute the authorization flow and get your access token
+- [JWT bearer](https://docs.commercelayer.io/core/authentication/jwt-bearer.md): How to execute the authorization flow and get your access token
+- [Revoking a token](https://docs.commercelayer.io/core/authentication/revoking-a-token.md): How to revoke any kind of access or refresh token
+- [How to migrate](https://docs.commercelayer.io/core/authentication/how-to-migrate.md): The simple steps you need to take to make sure your integration is up-to-date with the new Authentication API
+- [Roles and permissions](https://docs.commercelayer.io/core/roles-and-permissions.md): How to set specific permitted actions for each resource
+- [Fetching resources](https://docs.commercelayer.io/core/fetching-resources.md): How to fetch single resources or collections
+- [Fetching relationships](https://docs.commercelayer.io/core/fetching-relationships.md): How to directly fetch related resources
+- [Including associations](https://docs.commercelayer.io/core/including-associations.md): How to include a resource and its associations in the same request
+- [Sparse fieldsets](https://docs.commercelayer.io/core/sparse-fieldsets.md): How to request the API to return only specific fields
+- [Sorting results](https://docs.commercelayer.io/core/sorting-results.md): How to request a specific sort for the results of a collection of resources
+- [Pagination](https://docs.commercelayer.io/core/pagination.md): How paginated results work
+- [Filtering data](https://docs.commercelayer.io/core/filtering-data.md): How to add filters to your requests
+- [Creating resources](https://docs.commercelayer.io/core/creating-resources.md): How to create a resource via API
+- [Updating resources](https://docs.commercelayer.io/core/updating-resources.md): How to update a resource via API
+- [Tagging resources](https://docs.commercelayer.io/core/tagging-resources.md): How to tag a resource via API
+- [Deleting resources](https://docs.commercelayer.io/core/deleting-resources.md): How to delete a resource via API
+- [Importing resources](https://docs.commercelayer.io/core/importing-resources.md): How to bulk import resources and their relationships
+- [Exporting resources](https://docs.commercelayer.io/core/exporting-resources.md): How to bulk export resources and their relationships
+- [Cleaning up resources](https://docs.commercelayer.io/core/cleaning-resources.md): How to bulk remove resources and their relationships
+- [External resources](https://docs.commercelayer.io/core/external-resources.md): How to manage resources via external serverless functions
+- [External order validation](https://docs.commercelayer.io/core/external-resources/external-order-validation.md): How to validate orders via external services
+- [External prices](https://docs.commercelayer.io/core/external-resources/external-prices.md): How to manage prices via external services
+- [External shipping costs](https://docs.commercelayer.io/core/external-resources/external-shipping-costs.md): How to manage shipping methods cost via external services
+- [External payment gateways](https://docs.commercelayer.io/core/external-resources/external-payment-gateways.md): How to manage payments and transactions via external services
+- [External promotions](https://docs.commercelayer.io/core/external-resources/external-promotions.md): How to manage custom promotions via external services
+- [External tax calculators](https://docs.commercelayer.io/core/external-resources/external-tax-calculators.md): How to manage custom tax calculation via external services
+- [Rate limits](https://docs.commercelayer.io/core/rate-limits.md): Information about the restrictions on the number of times a user or client can access Commerce Layer API endpoints within a specified period of time.
+- [Handling errors](https://docs.commercelayer.io/core/handling-errors.md): The complete list of response codes
+- [Real-time webhooks](https://docs.commercelayer.io/core/real-time-webhooks.md): The complete list of supported events for each resource
+- [Event stream hub](https://docs.commercelayer.io/core/event-stream-hub.md): Unified SSE-based stream of the Core API resource lifecycle events, with support for time-based and resource-based replay
+- [Callbacks security](https://docs.commercelayer.io/core/callbacks-security.md): How to verify callbacks authenticity
+
+## Data model
+
+- [Overview](https://docs.commercelayer.io/data-model/readme.md): A map of Commerce Layer's resources and how they work together
+- [Users and organizations](https://docs.commercelayer.io/data-model/foundation-and-setup/users-and-organizations.md): From account creation to team structure, access control, and API credential management
+- [Merchants and customers](https://docs.commercelayer.io/data-model/foundation-and-setup/merchants-and-customers.md): Market ownership, customer segmentation by purchase history, and group-based access control
+- [SKUs](https://docs.commercelayer.io/data-model/products/skus.md): Connecting your CMS to transactional commerce, digital and infinite-stock products included
+- [SKU options](https://docs.commercelayer.io/data-model/products/sku-options.md): Custom personalization services and add-ons that can be attached to SKUs within a market
+- [SKU lists](https://docs.commercelayer.io/data-model/products/sku-lists.md): Grouping SKUs for filtering, promotions, bundles, and other use cases
+- [Bundles](https://docs.commercelayer.io/data-model/products/bundles.md): Grouping multiple SKUs with a special price for a market
+- [Stock locations](https://docs.commercelayer.io/data-model/inventory-management/stock-locations.md): Holding SKU inventory per location, acting as building blocks for inventory models, and enabling fulfillment and returns
+- [Inventory models](https://docs.commercelayer.io/data-model/inventory-management/inventory-models.md): Structuring stock locations by priority and choosing a fulfillment strategy for each market
+- [Stock items](https://docs.commercelayer.io/data-model/inventory-management/stock-items.md): Tracking SKU inventory per location, with stock reservations managing availability throughout the order lifecycle
+- [Price lists and currencies](https://docs.commercelayer.io/data-model/pricing-and-markets/price-lists-and-currencies.md): SKU pricing per market, schedulers, tiered pricing, and external price calculation
+- [Markets and business models](https://docs.commercelayer.io/data-model/pricing-and-markets/markets-and-business-models.md): Market structure, configuration options, and supported business models including B2C, B2B, and private sales
+- [Stores](https://docs.commercelayer.io/data-model/pricing-and-markets/stores.md): Mapping physical sales points to markets, with store-specific stock, payment methods, and in-store shipment handling
+- [Shipments and shipping categories](https://docs.commercelayer.io/data-model/shipping/shipments-and-shipping-categories.md): Shipment creation and splitting logic, stock line items, and how shipping categories affect order fulfillment
+- [Stock transfers](https://docs.commercelayer.io/data-model/shipping/stock-transfers.md): Moving inventory between stock locations — automatically during order fulfillment or manually to reorganize stock
+- [Shipping zones and methods](https://docs.commercelayer.io/data-model/shipping/shipping-zones-and-methods.md): Defining shipping zones by location and configuring shipping methods with cost structures, availability rules, and weight-based tiers
+- [Delivery lead times](https://docs.commercelayer.io/data-model/shipping/delivery-lead-times.md): Providing customers with estimated delivery time ranges based on stock location and shipping method
+- [Shipping carriers](https://docs.commercelayer.io/data-model/shipping/shipping-carriers.md): Connecting carrier accounts to markets for rate options, shipping labels, and tracking numbers
+- [Parcels, packages, and pickups](https://docs.commercelayer.io/data-model/shipping/parcels-packages-and-pickups.md): Organizing shipment contents into parcels and packages, with parcel line items and carrier pickup scheduling
+- [Geocoders](https://docs.commercelayer.io/data-model/shipping/geocoders.md): Converting customer addresses into geographic coordinates to power address validation and location-based features
+- [Payment gateways](https://docs.commercelayer.io/data-model/payments-and-tax/payment-gateways.md): Supported payment gateway types and how to assign them to markets
+- [Payment methods](https://docs.commercelayer.io/data-model/payments-and-tax/payment-methods.md): The payment source types you can offer per market and how they connect to payment gateways
+- [Tax calculation](https://docs.commercelayer.io/data-model/payments-and-tax/tax-calculation.md): How automatic tax calculation works and the calculators, categories, and rules that power it
+- [Anatomy of an order](https://docs.commercelayer.io/data-model/orders/anatomy-of-an-order.md): What makes up an order and how it moves through placement, editing, and fulfillment
+- [Orders management](https://docs.commercelayer.io/data-model/orders/orders-management.md): The order management system and how orders flow from placement to fulfillment and refunds
+- [Returns management](https://docs.commercelayer.io/data-model/orders/returns-management.md): How returns are created, tracked through their lifecycle, and refunded
+- [Subscriptions and order copies](https://docs.commercelayer.io/data-model/orders/subscriptions-and-order-copies.md): How subscriptions work, how automatic and manual order copies are generated, and how recurring orders are managed
+- [Promotions and gift cards](https://docs.commercelayer.io/data-model/promo-and-loyalty/promotions-and-gift-cards.md): The promotion types available, how activation rules work, and how gift cards can be used as a payment method
+
+## API reference
+
+- [Introduction](https://docs.commercelayer.io/core-api-reference/readme.md): A detailed list of all Commerce Layer core resources
+- [Addresses](https://docs.commercelayer.io/core-api-reference/addresses.md): The address object and the allowed CRUD operations on the related resource endpoint
+- [The address object](https://docs.commercelayer.io/core-api-reference/addresses/object.md): A comprehensive list of the address resource's attributes and relationships
+- [Create an address](https://docs.commercelayer.io/core-api-reference/addresses/create.md): How to create an address via API
+- [List all addresses](https://docs.commercelayer.io/core-api-reference/addresses/list.md): How to fetch a collection of addresses via API
+- [Retrieve an address](https://docs.commercelayer.io/core-api-reference/addresses/retrieve.md): How to fetch a specific address via API
+- [Update an address](https://docs.commercelayer.io/core-api-reference/addresses/update.md): How to update an existing address via API
+- [Delete an address](https://docs.commercelayer.io/core-api-reference/addresses/delete.md): How to delete an existing address via API
+- [Adjustments](https://docs.commercelayer.io/core-api-reference/adjustments.md): The adjustment object and the allowed CRUD operations on the related resource endpoint
+- [The adjustment object](https://docs.commercelayer.io/core-api-reference/adjustments/object.md): A comprehensive list of the adjustment resource's attributes and relationships
+- [Create an adjustment](https://docs.commercelayer.io/core-api-reference/adjustments/create.md): How to create an adjustment via API
+- [List all adjustments](https://docs.commercelayer.io/core-api-reference/adjustments/list.md): How to fetch a collection of adjustments via API
+- [Retrieve an adjustment](https://docs.commercelayer.io/core-api-reference/adjustments/retrieve.md): How to fetch a specific adjustment via API
+- [Update an adjustment](https://docs.commercelayer.io/core-api-reference/adjustments/update.md): How to update an existing adjustment via API
+- [Delete an adjustment](https://docs.commercelayer.io/core-api-reference/adjustments/delete.md): How to delete an existing adjustment via API
+- [Adyen gateways](https://docs.commercelayer.io/core-api-reference/adyen_gateways.md): The Adyen gateway object and the allowed CRUD operations on the related resource endpoint
+- [The adyen gateway object](https://docs.commercelayer.io/core-api-reference/adyen_gateways/object.md): A comprehensive list of the adyen gateway resource's attributes and relationships
+- [Create an adyen gateway](https://docs.commercelayer.io/core-api-reference/adyen_gateways/create.md): How to create an adyen gateway via API
+- [List all adyen gateways](https://docs.commercelayer.io/core-api-reference/adyen_gateways/list.md): How to fetch a collection of adyen gateways via API
+- [Retrieve an adyen gateway](https://docs.commercelayer.io/core-api-reference/adyen_gateways/retrieve.md): How to fetch a specific adyen gateway via API
+- [Update an adyen gateway](https://docs.commercelayer.io/core-api-reference/adyen_gateways/update.md): How to update an existing adyen gateway via API
+- [Delete an adyen gateway](https://docs.commercelayer.io/core-api-reference/adyen_gateways/delete.md): How to delete an existing adyen gateway via API
+- [Adyen payments](https://docs.commercelayer.io/core-api-reference/adyen_payments.md): The Adyen payment object and the allowed CRUD operations on the related resource endpoint
+- [The adyen payment object](https://docs.commercelayer.io/core-api-reference/adyen_payments/object.md): A comprehensive list of the adyen payment resource's attributes and relationships
+- [Create an adyen payment](https://docs.commercelayer.io/core-api-reference/adyen_payments/create.md): How to create an adyen payment via API
+- [List all adyen payments](https://docs.commercelayer.io/core-api-reference/adyen_payments/list.md): How to fetch a collection of adyen payments via API
+- [Retrieve an adyen payment](https://docs.commercelayer.io/core-api-reference/adyen_payments/retrieve.md): How to fetch a specific adyen payment via API
+- [Update an adyen payment](https://docs.commercelayer.io/core-api-reference/adyen_payments/update.md): How to update an existing adyen payment via API
+- [Delete an adyen payment](https://docs.commercelayer.io/core-api-reference/adyen_payments/delete.md): How to delete an existing adyen payment via API
+- [Applications](https://docs.commercelayer.io/core-api-reference/application.md): The application object and the allowed CRUD operations on the related resource endpoint
+- [The application object](https://docs.commercelayer.io/core-api-reference/application/object.md): A comprehensive list of the application resource's attributes and relationships
+- [Retrieve the application](https://docs.commercelayer.io/core-api-reference/application/retrieve.md): How to fetch the application via API
+- [Attachments](https://docs.commercelayer.io/core-api-reference/attachments.md): The attachment object and the allowed CRUD operations on the related resource endpoint
+- [The attachment object](https://docs.commercelayer.io/core-api-reference/attachments/object.md): A comprehensive list of the attachment resource's attributes and relationships
+- [Create an attachment](https://docs.commercelayer.io/core-api-reference/attachments/create.md): How to create an attachment via API
+- [List all attachments](https://docs.commercelayer.io/core-api-reference/attachments/list.md): How to fetch a collection of attachments via API
+- [Retrieve an attachment](https://docs.commercelayer.io/core-api-reference/attachments/retrieve.md): How to fetch a specific attachment via API
+- [Update an attachment](https://docs.commercelayer.io/core-api-reference/attachments/update.md): How to update an existing attachment via API
+- [Delete an attachment](https://docs.commercelayer.io/core-api-reference/attachments/delete.md): How to delete an existing attachment via API
+- [Authorizations](https://docs.commercelayer.io/core-api-reference/authorizations.md): The authorization object and the allowed CRUD operations on the related resource endpoint
+- [The authorization object](https://docs.commercelayer.io/core-api-reference/authorizations/object.md): A comprehensive list of the authorization resource's attributes and relationships
+- [List all authorizations](https://docs.commercelayer.io/core-api-reference/authorizations/list.md): How to fetch a collection of authorizations via API
+- [Retrieve an authorization](https://docs.commercelayer.io/core-api-reference/authorizations/retrieve.md): How to fetch a specific authorization via API
+- [Update an authorization](https://docs.commercelayer.io/core-api-reference/authorizations/update.md): How to update an existing authorization via API
+- [Avalara accounts](https://docs.commercelayer.io/core-api-reference/avalara_accounts.md): The Avalara account object and the allowed CRUD operations on the related resource endpoint
+- [The avalara account object](https://docs.commercelayer.io/core-api-reference/avalara_accounts/object.md): A comprehensive list of the avalara account resource's attributes and relationships
+- [Create an avalara account](https://docs.commercelayer.io/core-api-reference/avalara_accounts/create.md): How to create an avalara account via API
+- [List all avalara accounts](https://docs.commercelayer.io/core-api-reference/avalara_accounts/list.md): How to fetch a collection of avalara accounts via API
+- [Retrieve an avalara account](https://docs.commercelayer.io/core-api-reference/avalara_accounts/retrieve.md): How to fetch a specific avalara account via API
+- [Update an avalara account](https://docs.commercelayer.io/core-api-reference/avalara_accounts/update.md): How to update an existing avalara account via API
+- [Delete an avalara account](https://docs.commercelayer.io/core-api-reference/avalara_accounts/delete.md): How to delete an existing avalara account via API
+- [Axerve gateways](https://docs.commercelayer.io/core-api-reference/axerve_gateways.md): The Axerve gateway object and the allowed CRUD operations on the related resource endpoint
+- [The axerve gateway object](https://docs.commercelayer.io/core-api-reference/axerve_gateways/object.md): A comprehensive list of the axerve gateway resource's attributes and relationships
+- [Create an axerve gateway](https://docs.commercelayer.io/core-api-reference/axerve_gateways/create.md): How to create an axerve gateway via API
+- [List all axerve gateways](https://docs.commercelayer.io/core-api-reference/axerve_gateways/list.md): How to fetch a collection of axerve gateways via API
+- [Retrieve an axerve gateway](https://docs.commercelayer.io/core-api-reference/axerve_gateways/retrieve.md): How to fetch a specific axerve gateway via API
+- [Update an axerve gateway](https://docs.commercelayer.io/core-api-reference/axerve_gateways/update.md): How to update an existing axerve gateway via API
+- [Delete an axerve gateway](https://docs.commercelayer.io/core-api-reference/axerve_gateways/delete.md): How to delete an existing axerve gateway via API
+- [Axerve payments](https://docs.commercelayer.io/core-api-reference/axerve_payments.md): The Axerve payment object and the allowed CRUD operations on the related resource endpoint
+- [The axerve payment object](https://docs.commercelayer.io/core-api-reference/axerve_payments/object.md): A comprehensive list of the axerve payment resource's attributes and relationships
+- [Create an axerve payment](https://docs.commercelayer.io/core-api-reference/axerve_payments/create.md): How to create an axerve payment via API
+- [List all axerve payments](https://docs.commercelayer.io/core-api-reference/axerve_payments/list.md): How to fetch a collection of axerve payments via API
+- [Retrieve an axerve payment](https://docs.commercelayer.io/core-api-reference/axerve_payments/retrieve.md): How to fetch a specific axerve payment via API
+- [Update an axerve payment](https://docs.commercelayer.io/core-api-reference/axerve_payments/update.md): How to update an existing axerve payment via API
+- [Delete an axerve payment](https://docs.commercelayer.io/core-api-reference/axerve_payments/delete.md): How to delete an existing axerve payment via API
+- [Bing geocoders](https://docs.commercelayer.io/core-api-reference/bing_geocoders.md): The Bing geocoder object and the allowed CRUD operations on the related resource endpoint
+- [The bing geocoder object](https://docs.commercelayer.io/core-api-reference/bing_geocoders/object.md): A comprehensive list of the bing geocoder resource's attributes and relationships
+- [Create a bing geocoder](https://docs.commercelayer.io/core-api-reference/bing_geocoders/create.md): How to create a bing geocoder via API
+- [List all bing geocoders](https://docs.commercelayer.io/core-api-reference/bing_geocoders/list.md): How to fetch a collection of bing geocoders via API
+- [Retrieve a bing geocoder](https://docs.commercelayer.io/core-api-reference/bing_geocoders/retrieve.md): How to fetch a specific bing geocoder via API
+- [Update a bing geocoder](https://docs.commercelayer.io/core-api-reference/bing_geocoders/update.md): How to update an existing bing geocoder via API
+- [Delete a bing geocoder](https://docs.commercelayer.io/core-api-reference/bing_geocoders/delete.md): How to delete an existing bing geocoder via API
+- [Braintree gateways](https://docs.commercelayer.io/core-api-reference/braintree_gateways.md): The Braintree gateway object and the allowed CRUD operations on the related resource endpoint
+- [The braintree gateway object](https://docs.commercelayer.io/core-api-reference/braintree_gateways/object.md): A comprehensive list of the braintree gateway resource's attributes and relationships
+- [Create a braintree gateway](https://docs.commercelayer.io/core-api-reference/braintree_gateways/create.md): How to create a braintree gateway via API
+- [List all braintree gateways](https://docs.commercelayer.io/core-api-reference/braintree_gateways/list.md): How to fetch a collection of braintree gateways via API
+- [Retrieve a braintree gateway](https://docs.commercelayer.io/core-api-reference/braintree_gateways/retrieve.md): How to fetch a specific braintree gateway via API
+- [Update a braintree gateway](https://docs.commercelayer.io/core-api-reference/braintree_gateways/update.md): How to update an existing braintree gateway via API
+- [Delete a braintree gateway](https://docs.commercelayer.io/core-api-reference/braintree_gateways/delete.md): How to delete an existing braintree gateway via API
+- [Braintree payments](https://docs.commercelayer.io/core-api-reference/braintree_payments.md): The Braintree payment object and the allowed CRUD operations on the related resource endpoint
+- [The braintree payment object](https://docs.commercelayer.io/core-api-reference/braintree_payments/object.md): A comprehensive list of the braintree payment resource's attributes and relationships
+- [Create a braintree payment](https://docs.commercelayer.io/core-api-reference/braintree_payments/create.md): How to create a braintree payment via API
+- [List all braintree payments](https://docs.commercelayer.io/core-api-reference/braintree_payments/list.md): How to fetch a collection of braintree payments via API
+- [Retrieve a braintree payment](https://docs.commercelayer.io/core-api-reference/braintree_payments/retrieve.md): How to fetch a specific braintree payment via API
+- [Update a braintree payment](https://docs.commercelayer.io/core-api-reference/braintree_payments/update.md): How to update an existing braintree payment via API
+- [Delete a braintree payment](https://docs.commercelayer.io/core-api-reference/braintree_payments/delete.md): How to delete an existing braintree payment via API
+- [Bundles](https://docs.commercelayer.io/core-api-reference/bundles.md): The bundle object and the allowed CRUD operations on the related resource endpoint
+- [The bundle object](https://docs.commercelayer.io/core-api-reference/bundles/object.md): A comprehensive list of the bundle resource's attributes and relationships
+- [Create a bundle](https://docs.commercelayer.io/core-api-reference/bundles/create.md): How to create a bundle via API
+- [List all bundles](https://docs.commercelayer.io/core-api-reference/bundles/list.md): How to fetch a collection of bundles via API
+- [Retrieve a bundle](https://docs.commercelayer.io/core-api-reference/bundles/retrieve.md): How to fetch a specific bundle via API
+- [Update a bundle](https://docs.commercelayer.io/core-api-reference/bundles/update.md): How to update an existing bundle via API
+- [Delete a bundle](https://docs.commercelayer.io/core-api-reference/bundles/delete.md): How to delete an existing bundle via API
+- [Buy x pay y promotions](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions.md): The buy X pay Y promotion object and the allowed CRUD operations on the related resource endpoint
+- [The buy x pay y promotion object](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/object.md): A comprehensive list of the buy x pay y promotion resource's attributes and relationships
+- [Create a buy x pay y promotion](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/create.md): How to create a buy x pay y promotion via API
+- [List all buy x pay y promotions](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/list.md): How to fetch a collection of buy x pay y promotions via API
+- [Retrieve a buy x pay y promotion](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/retrieve.md): How to fetch a specific buy x pay y promotion via API
+- [Update a buy x pay y promotion](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/update.md): How to update an existing buy x pay y promotion via API
+- [Delete a buy x pay y promotion](https://docs.commercelayer.io/core-api-reference/buy_x_pay_y_promotions/delete.md): How to delete an existing buy x pay y promotion via API
+- [Captures](https://docs.commercelayer.io/core-api-reference/captures.md): The capture object and the allowed CRUD operations on the related resource endpoint
+- [The capture object](https://docs.commercelayer.io/core-api-reference/captures/object.md): A comprehensive list of the capture resource's attributes and relationships
+- [List all captures](https://docs.commercelayer.io/core-api-reference/captures/list.md): How to fetch a collection of captures via API
+- [Retrieve a capture](https://docs.commercelayer.io/core-api-reference/captures/retrieve.md): How to fetch a specific capture via API
+- [Update a capture](https://docs.commercelayer.io/core-api-reference/captures/update.md): How to update an existing capture via API
+- [Carrier accounts](https://docs.commercelayer.io/core-api-reference/carrier_accounts.md): The carrier account object and the allowed CRUD operations on the related resource endpoint
+- [The carrier account object](https://docs.commercelayer.io/core-api-reference/carrier_accounts/object.md): A comprehensive list of the carrier account resource's attributes and relationships
+- [Create a carrier account](https://docs.commercelayer.io/core-api-reference/carrier_accounts/create.md): How to create a carrier account via API
+- [List all carrier accounts](https://docs.commercelayer.io/core-api-reference/carrier_accounts/list.md): How to fetch a collection of carrier accounts via API
+- [Retrieve a carrier account](https://docs.commercelayer.io/core-api-reference/carrier_accounts/retrieve.md): How to fetch a specific carrier account via API
+- [Update a carrier account](https://docs.commercelayer.io/core-api-reference/carrier_accounts/update.md): How to update an existing carrier account via API
+- [Delete a carrier account](https://docs.commercelayer.io/core-api-reference/carrier_accounts/delete.md): How to delete an existing carrier account via API
+- [Checkout.com gateways](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways.md): The Checkout.com gateway object and the allowed CRUD operations on the related resource endpoint
+- [The checkout.com gateway object](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/object.md): A comprehensive list of the checkout.com gateway resource's attributes and relationships
+- [Create a checkout.com gateway](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/create.md): How to create a checkout.com gateway via API
+- [List all checkout.com gateways](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/list.md): How to fetch a collection of checkout.com gateways via API
+- [Retrieve a checkout.com gateway](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/retrieve.md): How to fetch a specific checkout.com gateway via API
+- [Update a checkout.com gateway](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/update.md): How to update an existing checkout.com gateway via API
+- [Delete a checkout.com gateway](https://docs.commercelayer.io/core-api-reference/checkout_com_gateways/delete.md): How to delete an existing checkout.com gateway via API
+- [Checkout.com payments](https://docs.commercelayer.io/core-api-reference/checkout_com_payments.md): The Checkout.com payment object and the allowed CRUD operations on the related resource endpoint
+- [The checkout.com payment object](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/object.md): A comprehensive list of the checkout.com payment resource's attributes and relationships
+- [Create a checkout.com payment](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/create.md): How to create a checkout.com payment via API
+- [List all checkout.com payments](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/list.md): How to fetch a collection of checkout.com payments via API
+- [Retrieve a checkout.com payment](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/retrieve.md): How to fetch a specific checkout.com payment via API
+- [Update a checkout.com payment](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/update.md): How to update an existing checkout.com payment via API
+- [Delete a checkout.com payment](https://docs.commercelayer.io/core-api-reference/checkout_com_payments/delete.md): How to delete an existing checkout.com payment via API
+- [Cleanups](https://docs.commercelayer.io/core-api-reference/cleanups.md): The cleanup object and the allowed CRUD operations on the related resource endpoint
+- [The cleanup object](https://docs.commercelayer.io/core-api-reference/cleanups/object.md): A comprehensive list of the cleanup resource's attributes and relationships
+- [Create a cleanup](https://docs.commercelayer.io/core-api-reference/cleanups/create.md): How to create a cleanup via API
+- [List all cleanups](https://docs.commercelayer.io/core-api-reference/cleanups/list.md): How to fetch a collection of cleanups via API
+- [Retrieve a cleanup](https://docs.commercelayer.io/core-api-reference/cleanups/retrieve.md): How to fetch a specific cleanup via API
+- [Update a cleanup](https://docs.commercelayer.io/core-api-reference/cleanups/update.md): How to update an existing cleanup via API
+- [Delete a cleanup](https://docs.commercelayer.io/core-api-reference/cleanups/delete.md): How to delete an existing cleanup via API
+- [Coupon codes promotion rules](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules.md): The coupon codes promotion rule object and the allowed CRUD operations on the related resource endpoint
+- [The coupon codes promotion rule object](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/object.md): A comprehensive list of the coupon codes promotion rule resource's attributes and relationships
+- [Create a coupon codes promotion rule](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/create.md): How to create a coupon codes promotion rule via API
+- [List all coupon codes promotion rules](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/list.md): How to fetch a collection of coupon codes promotion rules via API
+- [Retrieve a coupon codes promotion rule](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/retrieve.md): How to fetch a specific coupon codes promotion rule via API
+- [Update a coupon codes promotion rule](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/update.md): How to update an existing coupon codes promotion rule via API
+- [Delete a coupon codes promotion rule](https://docs.commercelayer.io/core-api-reference/coupon_codes_promotion_rules/delete.md): How to delete an existing coupon codes promotion rule via API
+- [Coupon recipients](https://docs.commercelayer.io/core-api-reference/coupon_recipients.md): The coupon recipient object and the allowed CRUD operations on the related resource endpoint
+- [The coupon recipient object](https://docs.commercelayer.io/core-api-reference/coupon_recipients/object.md): A comprehensive list of the coupon recipient resource's attributes and relationships
+- [Create a coupon recipient](https://docs.commercelayer.io/core-api-reference/coupon_recipients/create.md): How to create a coupon recipient via API
+- [List all coupon recipients](https://docs.commercelayer.io/core-api-reference/coupon_recipients/list.md): How to fetch a collection of coupon recipients via API
+- [Retrieve a coupon recipient](https://docs.commercelayer.io/core-api-reference/coupon_recipients/retrieve.md): How to fetch a specific coupon recipient via API
+- [Update a coupon recipient](https://docs.commercelayer.io/core-api-reference/coupon_recipients/update.md): How to update an existing coupon recipient via API
+- [Delete a coupon recipient](https://docs.commercelayer.io/core-api-reference/coupon_recipients/delete.md): How to delete an existing coupon recipient via API
+- [Coupons](https://docs.commercelayer.io/core-api-reference/coupons.md): The coupon object and the allowed CRUD operations on the related resource endpoint
+- [The coupon object](https://docs.commercelayer.io/core-api-reference/coupons/object.md): A comprehensive list of the coupon resource's attributes and relationships
+- [Create a coupon](https://docs.commercelayer.io/core-api-reference/coupons/create.md): How to create a coupon via API
+- [List all coupons](https://docs.commercelayer.io/core-api-reference/coupons/list.md): How to fetch a collection of coupons via API
+- [Retrieve a coupon](https://docs.commercelayer.io/core-api-reference/coupons/retrieve.md): How to fetch a specific coupon via API
+- [Update a coupon](https://docs.commercelayer.io/core-api-reference/coupons/update.md): How to update an existing coupon via API
+- [Delete a coupon](https://docs.commercelayer.io/core-api-reference/coupons/delete.md): How to delete an existing coupon via API
+- [Custom promotion rules](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules.md): The custom promotion rule object and the allowed CRUD operations on the related resource endpoint
+- [The custom promotion rule object](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/object.md): A comprehensive list of the custom promotion rule resource's attributes and relationships
+- [Create a custom promotion rule](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/create.md): How to create a custom promotion rule via API
+- [List all custom promotion rules](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/list.md): How to fetch a collection of custom promotion rules via API
+- [Retrieve a custom promotion rule](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/retrieve.md): How to fetch a specific custom promotion rule via API
+- [Update a custom promotion rule](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/update.md): How to update an existing custom promotion rule via API
+- [Delete a custom promotion rule](https://docs.commercelayer.io/core-api-reference/custom_promotion_rules/delete.md): How to delete an existing custom promotion rule via API
+- [Customer addresses](https://docs.commercelayer.io/core-api-reference/customer_addresses.md): The customer address object and the allowed CRUD operations on the related resource endpoint
+- [The customer address object](https://docs.commercelayer.io/core-api-reference/customer_addresses/object.md): A comprehensive list of the customer address resource's attributes and relationships
+- [Create a customer address](https://docs.commercelayer.io/core-api-reference/customer_addresses/create.md): How to create a customer address via API
+- [List all customer addresses](https://docs.commercelayer.io/core-api-reference/customer_addresses/list.md): How to fetch a collection of customer addresses via API
+- [Retrieve a customer address](https://docs.commercelayer.io/core-api-reference/customer_addresses/retrieve.md): How to fetch a specific customer address via API
+- [Update a customer address](https://docs.commercelayer.io/core-api-reference/customer_addresses/update.md): How to update an existing customer address via API
+- [Delete a customer address](https://docs.commercelayer.io/core-api-reference/customer_addresses/delete.md): How to delete an existing customer address via API
+- [Customer groups](https://docs.commercelayer.io/core-api-reference/customer_groups.md): The customer group object and the allowed CRUD operations on the related resource endpoint
+- [The customer group object](https://docs.commercelayer.io/core-api-reference/customer_groups/object.md): A comprehensive list of the customer group resource's attributes and relationships
+- [Create a customer group](https://docs.commercelayer.io/core-api-reference/customer_groups/create.md): How to create a customer group via API
+- [List all customer groups](https://docs.commercelayer.io/core-api-reference/customer_groups/list.md): How to fetch a collection of customer groups via API
+- [Retrieve a customer group](https://docs.commercelayer.io/core-api-reference/customer_groups/retrieve.md): How to fetch a specific customer group via API
+- [Update a customer group](https://docs.commercelayer.io/core-api-reference/customer_groups/update.md): How to update an existing customer group via API
+- [Delete a customer group](https://docs.commercelayer.io/core-api-reference/customer_groups/delete.md): How to delete an existing customer group via API
+- [Customer password resets](https://docs.commercelayer.io/core-api-reference/customer_password_resets.md): The customer password reset object and the allowed CRUD operations on the related resource endpoint
+- [The customer password reset object](https://docs.commercelayer.io/core-api-reference/customer_password_resets/object.md): A comprehensive list of the customer password reset resource's attributes and relationships
+- [Create a customer password reset](https://docs.commercelayer.io/core-api-reference/customer_password_resets/create.md): How to create a customer password reset via API
+- [List all customer password resets](https://docs.commercelayer.io/core-api-reference/customer_password_resets/list.md): How to fetch a collection of customer password resets via API
+- [Retrieve a customer password reset](https://docs.commercelayer.io/core-api-reference/customer_password_resets/retrieve.md): How to fetch a specific customer password reset via API
+- [Update a customer password reset](https://docs.commercelayer.io/core-api-reference/customer_password_resets/update.md): How to update an existing customer password reset via API
+- [Delete a customer password reset](https://docs.commercelayer.io/core-api-reference/customer_password_resets/delete.md): How to delete an existing customer password reset via API
+- [Customer payment sources](https://docs.commercelayer.io/core-api-reference/customer_payment_sources.md): The customer payment source object and the allowed CRUD operations on the related resource endpoint
+- [The customer payment source object](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/object.md): A comprehensive list of the customer payment source resource's attributes and relationships
+- [Create a customer payment source](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/create.md): How to create a customer payment source via API
+- [List all customer payment sources](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/list.md): How to fetch a collection of customer payment sources via API
+- [Retrieve a customer payment source](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/retrieve.md): How to fetch a specific customer payment source via API
+- [Update a customer payment source](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/update.md): How to update an existing customer payment source via API
+- [Delete a customer payment source](https://docs.commercelayer.io/core-api-reference/customer_payment_sources/delete.md): How to delete an existing customer payment source via API
+- [Customer subscriptions](https://docs.commercelayer.io/core-api-reference/customer_subscriptions.md): The customer subscription object and the allowed CRUD operations on the related resource endpoint
+- [The customer subscription object](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/object.md): A comprehensive list of the customer subscription resource's attributes and relationships
+- [Create a customer subscription](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/create.md): How to create a customer subscription via API
+- [List all customer subscriptions](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/list.md): How to fetch a collection of customer subscriptions via API
+- [Retrieve a customer subscription](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/retrieve.md): How to fetch a specific customer subscription via API
+- [Update a customer subscription](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/update.md): How to update an existing customer subscription via API
+- [Delete a customer subscription](https://docs.commercelayer.io/core-api-reference/customer_subscriptions/delete.md): How to delete an existing customer subscription via API
+- [Customers](https://docs.commercelayer.io/core-api-reference/customers.md): The customer object and the allowed CRUD operations on the related resource endpoint
+- [The customer object](https://docs.commercelayer.io/core-api-reference/customers/object.md): A comprehensive list of the customer resource's attributes and relationships
+- [Create a customer](https://docs.commercelayer.io/core-api-reference/customers/create.md): How to create a customer via API
+- [List all customers](https://docs.commercelayer.io/core-api-reference/customers/list.md): How to fetch a collection of customers via API
+- [Retrieve a customer](https://docs.commercelayer.io/core-api-reference/customers/retrieve.md): How to fetch a specific customer via API
+- [Update a customer](https://docs.commercelayer.io/core-api-reference/customers/update.md): How to update an existing customer via API
+- [Delete a customer](https://docs.commercelayer.io/core-api-reference/customers/delete.md): How to delete an existing customer via API
+- [Delivery lead times](https://docs.commercelayer.io/core-api-reference/delivery_lead_times.md): The delivery lead time object and the allowed CRUD operations on the related resource endpoint
+- [The delivery lead time object](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/object.md): A comprehensive list of the delivery lead time resource's attributes and relationships
+- [Create a delivery lead time](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/create.md): How to create a delivery lead time via API
+- [List all delivery lead times](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/list.md): How to fetch a collection of delivery lead times via API
+- [Retrieve a delivery lead time](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/retrieve.md): How to fetch a specific delivery lead time via API
+- [Update a delivery lead time](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/update.md): How to update an existing delivery lead time via API
+- [Delete a delivery lead time](https://docs.commercelayer.io/core-api-reference/delivery_lead_times/delete.md): How to delete an existing delivery lead time via API
+- [Discount engine items](https://docs.commercelayer.io/core-api-reference/discount_engine_items.md): The discount engine item object and the allowed CRUD operations on the related resource endpoint
+- [The discount engine item object](https://docs.commercelayer.io/core-api-reference/discount_engine_items/object.md): A comprehensive list of the discount engine item resource's attributes and relationships
+- [List all discount engine items](https://docs.commercelayer.io/core-api-reference/discount_engine_items/list.md): How to fetch a collection of discount engine items via API
+- [Retrieve a discount engine item](https://docs.commercelayer.io/core-api-reference/discount_engine_items/retrieve.md): How to fetch a specific discount engine item via API
+- [Discount engines](https://docs.commercelayer.io/core-api-reference/discount_engines.md): The discount engine object and the allowed CRUD operations on the related resource endpoint
+- [The discount engine object](https://docs.commercelayer.io/core-api-reference/discount_engines/object.md): A comprehensive list of the discount engine resource's attributes and relationships
+- [List all discount engines](https://docs.commercelayer.io/core-api-reference/discount_engines/list.md): How to fetch a collection of discount engines via API
+- [Retrieve a discount engine](https://docs.commercelayer.io/core-api-reference/discount_engines/retrieve.md): How to fetch a specific discount engine via API
+- [Easypost pickups](https://docs.commercelayer.io/core-api-reference/easypost_pickups.md): The EasyPost pickup object and the allowed CRUD operations on the related resource endpoint
+- [The easypost pickup object](https://docs.commercelayer.io/core-api-reference/easypost_pickups/object.md): A comprehensive list of the easypost pickup resource's attributes and relationships
+- [Create an easypost pickup](https://docs.commercelayer.io/core-api-reference/easypost_pickups/create.md): How to create an easypost pickup via API
+- [List all easypost pickups](https://docs.commercelayer.io/core-api-reference/easypost_pickups/list.md): How to fetch a collection of easypost pickups via API
+- [Retrieve an easypost pickup](https://docs.commercelayer.io/core-api-reference/easypost_pickups/retrieve.md): How to fetch a specific easypost pickup via API
+- [Update an easypost pickup](https://docs.commercelayer.io/core-api-reference/easypost_pickups/update.md): How to update an existing easypost pickup via API
+- [Delete an easypost pickup](https://docs.commercelayer.io/core-api-reference/easypost_pickups/delete.md): How to delete an existing easypost pickup via API
+- [Event callbacks](https://docs.commercelayer.io/core-api-reference/event_callbacks.md): The event callback object and the allowed CRUD operations on the related resource endpoint
+- [The event callback object](https://docs.commercelayer.io/core-api-reference/event_callbacks/object.md): A comprehensive list of the event callback resource's attributes and relationships
+- [List all event callbacks](https://docs.commercelayer.io/core-api-reference/event_callbacks/list.md): How to fetch a collection of event callbacks via API
+- [Retrieve an event callback](https://docs.commercelayer.io/core-api-reference/event_callbacks/retrieve.md): How to fetch a specific event callback via API
+- [Event stores](https://docs.commercelayer.io/core-api-reference/event_stores.md): The event store object and how to fetch event stores
+- [The event store object](https://docs.commercelayer.io/core-api-reference/event_stores/object.md): A comprehensive list of the event store resource's attributes and relationships
+- [Retrieve an event store](https://docs.commercelayer.io/core-api-reference/event_stores/retrieve.md): How to fetch a specific event store via API
+- [Events](https://docs.commercelayer.io/core-api-reference/events.md): The event object and the allowed CRUD operations on the related resource endpoint
+- [The event object](https://docs.commercelayer.io/core-api-reference/events/object.md): A comprehensive list of the event resource's attributes and relationships
+- [List all events](https://docs.commercelayer.io/core-api-reference/events/list.md): How to fetch a collection of events via API
+- [Retrieve an event](https://docs.commercelayer.io/core-api-reference/events/retrieve.md): How to fetch a specific event via API
+- [Update an event](https://docs.commercelayer.io/core-api-reference/events/update.md): How to update an existing event via API
+- [Exports](https://docs.commercelayer.io/core-api-reference/exports.md): The export object and the allowed CRUD operations on the related resource endpoint
+- [The export object](https://docs.commercelayer.io/core-api-reference/exports/object.md): A comprehensive list of the export resource's attributes and relationships
+- [Create an export](https://docs.commercelayer.io/core-api-reference/exports/create.md): How to create an export via API
+- [List all exports](https://docs.commercelayer.io/core-api-reference/exports/list.md): How to fetch a collection of exports via API
+- [Retrieve an export](https://docs.commercelayer.io/core-api-reference/exports/retrieve.md): How to fetch a specific export via API
+- [Update an export](https://docs.commercelayer.io/core-api-reference/exports/update.md): How to update an existing export via API
+- [Delete an export](https://docs.commercelayer.io/core-api-reference/exports/delete.md): How to delete an existing export via API
+- [External gateways](https://docs.commercelayer.io/core-api-reference/external_gateways.md): The external gateway object and the allowed CRUD operations on the related resource endpoint
+- [The external gateway object](https://docs.commercelayer.io/core-api-reference/external_gateways/object.md): A comprehensive list of the external gateway resource's attributes and relationships
+- [Create an external gateway](https://docs.commercelayer.io/core-api-reference/external_gateways/create.md): How to create an external gateway via API
+- [List all external gateways](https://docs.commercelayer.io/core-api-reference/external_gateways/list.md): How to fetch a collection of external gateways via API
+- [Retrieve an external gateway](https://docs.commercelayer.io/core-api-reference/external_gateways/retrieve.md): How to fetch a specific external gateway via API
+- [Update an external gateway](https://docs.commercelayer.io/core-api-reference/external_gateways/update.md): How to update an existing external gateway via API
+- [Delete an external gateway](https://docs.commercelayer.io/core-api-reference/external_gateways/delete.md): How to delete an existing external gateway via API
+- [External payments](https://docs.commercelayer.io/core-api-reference/external_payments.md): The external payment object and the allowed CRUD operations on the related resource endpoint
+- [The external payment object](https://docs.commercelayer.io/core-api-reference/external_payments/object.md): A comprehensive list of the external payment resource's attributes and relationships
+- [Create an external payment](https://docs.commercelayer.io/core-api-reference/external_payments/create.md): How to create an external payment via API
+- [List all external payments](https://docs.commercelayer.io/core-api-reference/external_payments/list.md): How to fetch a collection of external payments via API
+- [Retrieve an external payment](https://docs.commercelayer.io/core-api-reference/external_payments/retrieve.md): How to fetch a specific external payment via API
+- [Update an external payment](https://docs.commercelayer.io/core-api-reference/external_payments/update.md): How to update an existing external payment via API
+- [Delete an external payment](https://docs.commercelayer.io/core-api-reference/external_payments/delete.md): How to delete an existing external payment via API
+- [External promotions](https://docs.commercelayer.io/core-api-reference/external_promotions.md): The external promotion object and the allowed CRUD operations on the related resource endpoint
+- [The external promotion object](https://docs.commercelayer.io/core-api-reference/external_promotions/object.md): A comprehensive list of the external promotion resource's attributes and relationships
+- [Create an external promotion](https://docs.commercelayer.io/core-api-reference/external_promotions/create.md): How to create an external promotion via API
+- [List all external promotions](https://docs.commercelayer.io/core-api-reference/external_promotions/list.md): How to fetch a collection of external promotions via API
+- [Retrieve an external promotion](https://docs.commercelayer.io/core-api-reference/external_promotions/retrieve.md): How to fetch a specific external promotion via API
+- [Update an external promotion](https://docs.commercelayer.io/core-api-reference/external_promotions/update.md): How to update an existing external promotion via API
+- [Delete an external promotion](https://docs.commercelayer.io/core-api-reference/external_promotions/delete.md): How to delete an existing external promotion via API
+- [External tax calculators](https://docs.commercelayer.io/core-api-reference/external_tax_calculators.md): The external tax calculator object and the allowed CRUD operations on the related resource endpoint
+- [The external tax calculator object](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/object.md): A comprehensive list of the external tax calculator resource's attributes and relationships
+- [Create an external tax calculator](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/create.md): How to create an external tax calculator via API
+- [List all external tax calculators](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/list.md): How to fetch a collection of external tax calculators via API
+- [Retrieve an external tax calculator](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/retrieve.md): How to fetch a specific external tax calculator via API
+- [Update an external tax calculator](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/update.md): How to update an existing external tax calculator via API
+- [Delete an external tax calculator](https://docs.commercelayer.io/core-api-reference/external_tax_calculators/delete.md): How to delete an existing external tax calculator via API
+- [Fixed amount promotions](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions.md): The fixed amount promotion object and the allowed CRUD operations on the related resource endpoint
+- [The fixed amount promotion object](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/object.md): A comprehensive list of the fixed amount promotion resource's attributes and relationships
+- [Create a fixed amount promotion](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/create.md): How to create a fixed amount promotion via API
+- [List all fixed amount promotions](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/list.md): How to fetch a collection of fixed amount promotions via API
+- [Retrieve a fixed amount promotion](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/retrieve.md): How to fetch a specific fixed amount promotion via API
+- [Update a fixed amount promotion](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/update.md): How to update an existing fixed amount promotion via API
+- [Delete a fixed amount promotion](https://docs.commercelayer.io/core-api-reference/fixed_amount_promotions/delete.md): How to delete an existing fixed amount promotion via API
+- [Fixed price promotions](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions.md): The fixed price promotion object and the allowed CRUD operations on the related resource endpoint
+- [The fixed price promotion object](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/object.md): A comprehensive list of the fixed price promotion resource's attributes and relationships
+- [Create a fixed price promotion](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/create.md): How to create a fixed price promotion via API
+- [List all fixed price promotions](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/list.md): How to fetch a collection of fixed price promotions via API
+- [Retrieve a fixed price promotion](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/retrieve.md): How to fetch a specific fixed price promotion via API
+- [Update a fixed price promotion](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/update.md): How to update an existing fixed price promotion via API
+- [Delete a fixed price promotion](https://docs.commercelayer.io/core-api-reference/fixed_price_promotions/delete.md): How to delete an existing fixed price promotion via API
+- [Flex promotions](https://docs.commercelayer.io/core-api-reference/flex_promotions.md): The flex promotion object and the allowed CRUD operations on the related resource endpoint
+- [The flex promotion object](https://docs.commercelayer.io/core-api-reference/flex_promotions/object.md): A comprehensive list of the flex promotion resource's attributes and relationships
+- [Create a flex promotion](https://docs.commercelayer.io/core-api-reference/flex_promotions/create.md): How to create a flex promotion via API
+- [List all flex promotions](https://docs.commercelayer.io/core-api-reference/flex_promotions/list.md): How to fetch a collection of flex promotions via API
+- [Retrieve a flex promotion](https://docs.commercelayer.io/core-api-reference/flex_promotions/retrieve.md): How to fetch a specific flex promotion via API
+- [Update a flex promotion](https://docs.commercelayer.io/core-api-reference/flex_promotions/update.md): How to update an existing flex promotion via API
+- [Delete a flex promotion](https://docs.commercelayer.io/core-api-reference/flex_promotions/delete.md): How to delete an existing flex promotion via API
+- [Free gift promotions](https://docs.commercelayer.io/core-api-reference/free_gift_promotions.md): The free gift promotion object and the allowed CRUD operations on the related resource endpoint
+- [The free gift promotion object](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/object.md): A comprehensive list of the free gift promotion resource's attributes and relationships
+- [Create a free gift promotion](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/create.md): How to create a free gift promotion via API
+- [List all free gift promotions](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/list.md): How to fetch a collection of free gift promotions via API
+- [Retrieve a free gift promotion](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/retrieve.md): How to fetch a specific free gift promotion via API
+- [Update a free gift promotion](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/update.md): How to update an existing free gift promotion via API
+- [Delete a free gift promotion](https://docs.commercelayer.io/core-api-reference/free_gift_promotions/delete.md): How to delete an existing free gift promotion via API
+- [Free shipping promotions](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions.md): The free shipping promotion object and the allowed CRUD operations on the related resource endpoint
+- [The free shipping promotion object](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/object.md): A comprehensive list of the free shipping promotion resource's attributes and relationships
+- [Create a free shipping promotion](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/create.md): How to create a free shipping promotion via API
+- [List all free shipping promotions](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/list.md): How to fetch a collection of free shipping promotions via API
+- [Retrieve a free shipping promotion](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/retrieve.md): How to fetch a specific free shipping promotion via API
+- [Update a free shipping promotion](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/update.md): How to update an existing free shipping promotion via API
+- [Delete a free shipping promotion](https://docs.commercelayer.io/core-api-reference/free_shipping_promotions/delete.md): How to delete an existing free shipping promotion via API
+- [Geocoders](https://docs.commercelayer.io/core-api-reference/geocoders.md): The geocoder object and the allowed CRUD operations on the geocoders endpoint
+- [The geocoder object](https://docs.commercelayer.io/core-api-reference/geocoders/object.md): A comprehensive list of the geocoder resource's attributes and relationships
+- [List all geocoders](https://docs.commercelayer.io/core-api-reference/geocoders/list.md): How to fetch a collection of geocoders via API
+- [Retrieve a geocoder](https://docs.commercelayer.io/core-api-reference/geocoders/retrieve.md): How to fetch a specific geocoder via API
+- [Gift card recipients](https://docs.commercelayer.io/core-api-reference/gift_card_recipients.md): The gift card recipient object and the allowed CRUD operations on the related resource endpoint
+- [The gift card recipient object](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/object.md): A comprehensive list of the gift card recipient resource's attributes and relationships
+- [Create a gift card recipient](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/create.md): How to create a gift card recipient via API
+- [List all gift card recipients](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/list.md): How to fetch a collection of gift card recipients via API
+- [Retrieve a gift card recipient](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/retrieve.md): How to fetch a specific gift card recipient via API
+- [Update a gift card recipient](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/update.md): How to update an existing gift card recipient via API
+- [Delete a gift card recipient](https://docs.commercelayer.io/core-api-reference/gift_card_recipients/delete.md): How to delete an existing gift card recipient via API
+- [Gift cards](https://docs.commercelayer.io/core-api-reference/gift_cards.md): The gift card object and the allowed CRUD operations on the related resource endpoint
+- [The gift card object](https://docs.commercelayer.io/core-api-reference/gift_cards/object.md): A comprehensive list of the gift card resource's attributes and relationships
+- [Create a gift card](https://docs.commercelayer.io/core-api-reference/gift_cards/create.md): How to create a gift card via API
+- [List all gift cards](https://docs.commercelayer.io/core-api-reference/gift_cards/list.md): How to fetch a collection of gift cards via API
+- [Retrieve a gift card](https://docs.commercelayer.io/core-api-reference/gift_cards/retrieve.md): How to fetch a specific gift card via API
+- [Update a gift card](https://docs.commercelayer.io/core-api-reference/gift_cards/update.md): How to update an existing gift card via API
+- [Delete a gift card](https://docs.commercelayer.io/core-api-reference/gift_cards/delete.md): How to delete an existing gift card via API
+- [Google geocoders](https://docs.commercelayer.io/core-api-reference/google_geocoders.md): The Google geocoder object and the allowed CRUD operations on the related resource endpoint
+- [The google geocoder object](https://docs.commercelayer.io/core-api-reference/google_geocoders/object.md): A comprehensive list of the google geocoder resource's attributes and relationships
+- [Create a google geocoder](https://docs.commercelayer.io/core-api-reference/google_geocoders/create.md): How to create a google geocoder via API
+- [List all google geocoders](https://docs.commercelayer.io/core-api-reference/google_geocoders/list.md): How to fetch a collection of google geocoders via API
+- [Retrieve a google geocoder](https://docs.commercelayer.io/core-api-reference/google_geocoders/retrieve.md): How to fetch a specific google geocoder via API
+- [Update a google geocoder](https://docs.commercelayer.io/core-api-reference/google_geocoders/update.md): How to update an existing google geocoder via API
+- [Delete a google geocoder](https://docs.commercelayer.io/core-api-reference/google_geocoders/delete.md): How to delete an existing google geocoder via API
+- [Imports](https://docs.commercelayer.io/core-api-reference/imports.md): The import object and the allowed CRUD operations on the related resource endpoint
+- [The import object](https://docs.commercelayer.io/core-api-reference/imports/object.md): A comprehensive list of the import resource's attributes and relationships
+- [Create an import](https://docs.commercelayer.io/core-api-reference/imports/create.md): How to create an import via API
+- [List all imports](https://docs.commercelayer.io/core-api-reference/imports/list.md): How to fetch a collection of imports via API
+- [Retrieve an import](https://docs.commercelayer.io/core-api-reference/imports/retrieve.md): How to fetch a specific import via API
+- [Update an import](https://docs.commercelayer.io/core-api-reference/imports/update.md): How to update an existing import via API
+- [Delete an import](https://docs.commercelayer.io/core-api-reference/imports/delete.md): How to delete an existing import via API
+- [In stock subscriptions](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions.md): The in-stock subscription object and the allowed CRUD operations on the related resource endpoint
+- [The in stock subscription object](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/object.md): A comprehensive list of the in stock subscription resource's attributes and relationships
+- [Create an in stock subscription](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/create.md): How to create an in stock subscription via API
+- [List all in stock subscriptions](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/list.md): How to fetch a collection of in stock subscriptions via API
+- [Retrieve an in stock subscription](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/retrieve.md): How to fetch a specific in stock subscription via API
+- [Update an in stock subscription](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/update.md): How to update an existing in stock subscription via API
+- [Delete an in stock subscription](https://docs.commercelayer.io/core-api-reference/in_stock_subscriptions/delete.md): How to delete an existing in stock subscription via API
+- [Inventory models](https://docs.commercelayer.io/core-api-reference/inventory_models.md): The inventory model object and the allowed CRUD operations on the related resource endpoint
+- [The inventory model object](https://docs.commercelayer.io/core-api-reference/inventory_models/object.md): A comprehensive list of the inventory model resource's attributes and relationships
+- [Create an inventory model](https://docs.commercelayer.io/core-api-reference/inventory_models/create.md): How to create an inventory model via API
+- [List all inventory models](https://docs.commercelayer.io/core-api-reference/inventory_models/list.md): How to fetch a collection of inventory models via API
+- [Retrieve an inventory model](https://docs.commercelayer.io/core-api-reference/inventory_models/retrieve.md): How to fetch a specific inventory model via API
+- [Update an inventory model](https://docs.commercelayer.io/core-api-reference/inventory_models/update.md): How to update an existing inventory model via API
+- [Delete an inventory model](https://docs.commercelayer.io/core-api-reference/inventory_models/delete.md): How to delete an existing inventory model via API
+- [Inventory return locations](https://docs.commercelayer.io/core-api-reference/inventory_return_locations.md): The inventory return location object and the allowed CRUD operations on the related resource endpoint
+- [The inventory return location object](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/object.md): A comprehensive list of the inventory return location resource's attributes and relationships
+- [Create an inventory return location](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/create.md): How to create an inventory return location via API
+- [List all inventory return locations](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/list.md): How to fetch a collection of inventory return locations via API
+- [Retrieve an inventory return location](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/retrieve.md): How to fetch a specific inventory return location via API
+- [Update an inventory return location](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/update.md): How to update an existing inventory return location via API
+- [Delete an inventory return location](https://docs.commercelayer.io/core-api-reference/inventory_return_locations/delete.md): How to delete an existing inventory return location via API
+- [Inventory stock locations](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations.md): The inventory stock location object and the allowed CRUD operations on the related resource endpoint
+- [The inventory stock location object](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/object.md): A comprehensive list of the inventory stock location resource's attributes and relationships
+- [Create an inventory stock location](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/create.md): How to create an inventory stock location via API
+- [List all inventory stock locations](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/list.md): How to fetch a collection of inventory stock locations via API
+- [Retrieve an inventory stock location](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/retrieve.md): How to fetch a specific inventory stock location via API
+- [Update an inventory stock location](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/update.md): How to update an existing inventory stock location via API
+- [Delete an inventory stock location](https://docs.commercelayer.io/core-api-reference/inventory_stock_locations/delete.md): How to delete an existing inventory stock location via API
+- [Klarna gateways](https://docs.commercelayer.io/core-api-reference/klarna_gateways.md): The Klarna gateway object and the allowed CRUD operations on the related resource endpoint
+- [The klarna gateway object](https://docs.commercelayer.io/core-api-reference/klarna_gateways/object.md): A comprehensive list of the klarna gateway resource's attributes and relationships
+- [Create a klarna gateway](https://docs.commercelayer.io/core-api-reference/klarna_gateways/create.md): How to create a klarna gateway via API
+- [List all klarna gateways](https://docs.commercelayer.io/core-api-reference/klarna_gateways/list.md): How to fetch a collection of klarna gateways via API
+- [Retrieve a klarna gateway](https://docs.commercelayer.io/core-api-reference/klarna_gateways/retrieve.md): How to fetch a specific klarna gateway via API
+- [Update a klarna gateway](https://docs.commercelayer.io/core-api-reference/klarna_gateways/update.md): How to update an existing klarna gateway via API
+- [Delete a klarna gateway](https://docs.commercelayer.io/core-api-reference/klarna_gateways/delete.md): How to delete an existing klarna gateway via API
+- [Klarna payments](https://docs.commercelayer.io/core-api-reference/klarna_payments.md): The Klarna payment object and the allowed CRUD operations on the related resource endpoint
+- [The klarna payment object](https://docs.commercelayer.io/core-api-reference/klarna_payments/object.md): A comprehensive list of the klarna payment resource's attributes and relationships
+- [Create a klarna payment](https://docs.commercelayer.io/core-api-reference/klarna_payments/create.md): How to create a klarna payment via API
+- [List all klarna payments](https://docs.commercelayer.io/core-api-reference/klarna_payments/list.md): How to fetch a collection of klarna payments via API
+- [Retrieve a klarna payment](https://docs.commercelayer.io/core-api-reference/klarna_payments/retrieve.md): How to fetch a specific klarna payment via API
+- [Update a klarna payment](https://docs.commercelayer.io/core-api-reference/klarna_payments/update.md): How to update an existing klarna payment via API
+- [Delete a klarna payment](https://docs.commercelayer.io/core-api-reference/klarna_payments/delete.md): How to delete an existing klarna payment via API
+- [Line item options](https://docs.commercelayer.io/core-api-reference/line_item_options.md): The line item option object and the allowed CRUD operations on the related resource endpoint
+- [The line item option object](https://docs.commercelayer.io/core-api-reference/line_item_options/object.md): A comprehensive list of the line item option resource's attributes and relationships
+- [Create a line item option](https://docs.commercelayer.io/core-api-reference/line_item_options/create.md): How to create a line item option via API
+- [List all line item options](https://docs.commercelayer.io/core-api-reference/line_item_options/list.md): How to fetch a collection of line item options via API
+- [Retrieve a line item option](https://docs.commercelayer.io/core-api-reference/line_item_options/retrieve.md): How to fetch a specific line item option via API
+- [Update a line item option](https://docs.commercelayer.io/core-api-reference/line_item_options/update.md): How to update an existing line item option via API
+- [Delete a line item option](https://docs.commercelayer.io/core-api-reference/line_item_options/delete.md): How to delete an existing line item option via API
+- [Line items](https://docs.commercelayer.io/core-api-reference/line_items.md): The line item object and the allowed CRUD operations on the related resource endpoint
+- [The line item object](https://docs.commercelayer.io/core-api-reference/line_items/object.md): A comprehensive list of the line item resource's attributes and relationships
+- [Create a line item](https://docs.commercelayer.io/core-api-reference/line_items/create.md): How to create a line item via API
+- [List all line items](https://docs.commercelayer.io/core-api-reference/line_items/list.md): How to fetch a collection of line items via API
+- [Retrieve a line item](https://docs.commercelayer.io/core-api-reference/line_items/retrieve.md): How to fetch a specific line item via API
+- [Update a line item](https://docs.commercelayer.io/core-api-reference/line_items/update.md): How to update an existing line item via API
+- [Delete a line item](https://docs.commercelayer.io/core-api-reference/line_items/delete.md): How to delete an existing line item via API
+- [Links](https://docs.commercelayer.io/core-api-reference/links.md): The link object and the allowed CRUD operations on the related resource endpoint
+- [The link object](https://docs.commercelayer.io/core-api-reference/links/object.md): A comprehensive list of the link resource's attributes and relationships
+- [Create a link](https://docs.commercelayer.io/core-api-reference/links/create.md): How to create a link via API
+- [List all links](https://docs.commercelayer.io/core-api-reference/links/list.md): How to fetch a collection of links via API
+- [Retrieve a link](https://docs.commercelayer.io/core-api-reference/links/retrieve.md): How to fetch a specific link via API
+- [Update a link](https://docs.commercelayer.io/core-api-reference/links/update.md): How to update an existing link via API
+- [Delete a link](https://docs.commercelayer.io/core-api-reference/links/delete.md): How to delete an existing link via API
+- [Manual gateways](https://docs.commercelayer.io/core-api-reference/manual_gateways.md): The manual gateway object and the allowed CRUD operations on the related resource endpoint
+- [The manual gateway object](https://docs.commercelayer.io/core-api-reference/manual_gateways/object.md): A comprehensive list of the manual gateway resource's attributes and relationships
+- [Create a manual gateway](https://docs.commercelayer.io/core-api-reference/manual_gateways/create.md): How to create a manual gateway via API
+- [List all manual gateways](https://docs.commercelayer.io/core-api-reference/manual_gateways/list.md): How to fetch a collection of manual gateways via API
+- [Retrieve a manual gateway](https://docs.commercelayer.io/core-api-reference/manual_gateways/retrieve.md): How to fetch a specific manual gateway via API
+- [Update a manual gateway](https://docs.commercelayer.io/core-api-reference/manual_gateways/update.md): How to update an existing manual gateway via API
+- [Delete a manual gateway](https://docs.commercelayer.io/core-api-reference/manual_gateways/delete.md): How to delete an existing manual gateway via API
+- [Manual tax calculators](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators.md): The manual tax calculator object and the allowed CRUD operations on the related resource endpoint
+- [The manual tax calculator object](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/object.md): A comprehensive list of the manual tax calculator resource's attributes and relationships
+- [Create a manual tax calculator](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/create.md): How to create a manual tax calculator via API
+- [List all manual tax calculators](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/list.md): How to fetch a collection of manual tax calculators via API
+- [Retrieve a manual tax calculator](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/retrieve.md): How to fetch a specific manual tax calculator via API
+- [Update a manual tax calculator](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/update.md): How to update an existing manual tax calculator via API
+- [Delete a manual tax calculator](https://docs.commercelayer.io/core-api-reference/manual_tax_calculators/delete.md): How to delete an existing manual tax calculator via API
+- [Markets](https://docs.commercelayer.io/core-api-reference/markets.md): The market object and the allowed CRUD operations on the related resource endpoint
+- [The market object](https://docs.commercelayer.io/core-api-reference/markets/object.md): A comprehensive list of the market resource's attributes and relationships
+- [Create a market](https://docs.commercelayer.io/core-api-reference/markets/create.md): How to create a market via API
+- [List all markets](https://docs.commercelayer.io/core-api-reference/markets/list.md): How to fetch a collection of markets via API
+- [Retrieve a market](https://docs.commercelayer.io/core-api-reference/markets/retrieve.md): How to fetch a specific market via API
+- [Update a market](https://docs.commercelayer.io/core-api-reference/markets/update.md): How to update an existing market via API
+- [Delete a market](https://docs.commercelayer.io/core-api-reference/markets/delete.md): How to delete an existing market via API
+- [Merchants](https://docs.commercelayer.io/core-api-reference/merchants.md): The merchant object and the allowed CRUD operations on the related resource endpoint
+- [The merchant object](https://docs.commercelayer.io/core-api-reference/merchants/object.md): A comprehensive list of the merchant resource's attributes and relationships
+- [Create a merchant](https://docs.commercelayer.io/core-api-reference/merchants/create.md): How to create a merchant via API
+- [List all merchants](https://docs.commercelayer.io/core-api-reference/merchants/list.md): How to fetch a collection of merchants via API
+- [Retrieve a merchant](https://docs.commercelayer.io/core-api-reference/merchants/retrieve.md): How to fetch a specific merchant via API
+- [Update a merchant](https://docs.commercelayer.io/core-api-reference/merchants/update.md): How to update an existing merchant via API
+- [Delete a merchant](https://docs.commercelayer.io/core-api-reference/merchants/delete.md): How to delete an existing merchant via API
+- [Notifications](https://docs.commercelayer.io/core-api-reference/notifications.md): The notification object and the allowed CRUD operations on the related resource endpoint
+- [The notification object](https://docs.commercelayer.io/core-api-reference/notifications/object.md): A comprehensive list of the notification resource's attributes and relationships
+- [Create a notification](https://docs.commercelayer.io/core-api-reference/notifications/create.md): How to create a notification via API
+- [List all notifications](https://docs.commercelayer.io/core-api-reference/notifications/list.md): How to fetch a collection of notifications via API
+- [Retrieve a notification](https://docs.commercelayer.io/core-api-reference/notifications/retrieve.md): How to fetch a specific notification via API
+- [Update a notification](https://docs.commercelayer.io/core-api-reference/notifications/update.md): How to update an existing notification via API
+- [Delete a notification](https://docs.commercelayer.io/core-api-reference/notifications/delete.md): How to delete an existing notification via API
+- [Order amount promotion rules](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules.md): The order amount promotion rule object and the allowed CRUD operations on the related resource endpoint
+- [The order amount promotion rule object](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/object.md): A comprehensive list of the order amount promotion rule resource's attributes and relationships
+- [Create an order amount promotion rule](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/create.md): How to create an order amount promotion rule via API
+- [List all order amount promotion rules](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/list.md): How to fetch a collection of order amount promotion rules via API
+- [Retrieve an order amount promotion rule](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/retrieve.md): How to fetch a specific order amount promotion rule via API
+- [Update an order amount promotion rule](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/update.md): How to update an existing order amount promotion rule via API
+- [Delete an order amount promotion rule](https://docs.commercelayer.io/core-api-reference/order_amount_promotion_rules/delete.md): How to delete an existing order amount promotion rule via API
+- [Order copies](https://docs.commercelayer.io/core-api-reference/order_copies.md): The order copy object and the allowed CRUD operations on the related resource endpoint
+- [The order copy object](https://docs.commercelayer.io/core-api-reference/order_copies/object.md): A comprehensive list of the order copy resource's attributes and relationships
+- [Create an order copy](https://docs.commercelayer.io/core-api-reference/order_copies/create.md): How to create an order copy via API
+- [List all order copies](https://docs.commercelayer.io/core-api-reference/order_copies/list.md): How to fetch a collection of order copies via API
+- [Retrieve an order copy](https://docs.commercelayer.io/core-api-reference/order_copies/retrieve.md): How to fetch a specific order copy via API
+- [Update an order copy](https://docs.commercelayer.io/core-api-reference/order_copies/update.md): How to update an existing order copy via API
+- [Delete an order copy](https://docs.commercelayer.io/core-api-reference/order_copies/delete.md): How to delete an existing order copy via API
+- [Order factories](https://docs.commercelayer.io/core-api-reference/order_factories.md): The order factory object and the allowed CRUD operations on the related resource endpoint
+- [The order factory object](https://docs.commercelayer.io/core-api-reference/order_factories/object.md): A comprehensive list of the order factory resource's attributes and relationships
+- [List all order factories](https://docs.commercelayer.io/core-api-reference/order_factories/list.md): How to fetch a collection of order factories via API
+- [Retrieve an order factory](https://docs.commercelayer.io/core-api-reference/order_factories/retrieve.md): How to fetch a specific order factory via API
+- [Order subscription items](https://docs.commercelayer.io/core-api-reference/order_subscription_items.md): The order subscription item object and the allowed CRUD operations on the related resource endpoint
+- [The order subscription item object](https://docs.commercelayer.io/core-api-reference/order_subscription_items/object.md): A comprehensive list of the order subscription item resource's attributes and relationships
+- [Create an order subscription item](https://docs.commercelayer.io/core-api-reference/order_subscription_items/create.md): How to create an order subscription item via API
+- [List all order subscription items](https://docs.commercelayer.io/core-api-reference/order_subscription_items/list.md): How to fetch a collection of order subscription items via API
+- [Retrieve an order subscription item](https://docs.commercelayer.io/core-api-reference/order_subscription_items/retrieve.md): How to fetch a specific order subscription item via API
+- [Update an order subscription item](https://docs.commercelayer.io/core-api-reference/order_subscription_items/update.md): How to update an existing order subscription item via API
+- [Delete an order subscription item](https://docs.commercelayer.io/core-api-reference/order_subscription_items/delete.md): How to delete an existing order subscription item via API
+- [Order subscriptions](https://docs.commercelayer.io/core-api-reference/order_subscriptions.md): The order subscription object and the allowed CRUD operations on the related resource endpoint
+- [The order subscription object](https://docs.commercelayer.io/core-api-reference/order_subscriptions/object.md): A comprehensive list of the order subscription resource's attributes and relationships
+- [Create an order subscription](https://docs.commercelayer.io/core-api-reference/order_subscriptions/create.md): How to create an order subscription via API
+- [List all order subscriptions](https://docs.commercelayer.io/core-api-reference/order_subscriptions/list.md): How to fetch a collection of order subscriptions via API
+- [Retrieve an order subscription](https://docs.commercelayer.io/core-api-reference/order_subscriptions/retrieve.md): How to fetch a specific order subscription via API
+- [Update an order subscription](https://docs.commercelayer.io/core-api-reference/order_subscriptions/update.md): How to update an existing order subscription via API
+- [Delete an order subscription](https://docs.commercelayer.io/core-api-reference/order_subscriptions/delete.md): How to delete an existing order subscription via API
+- [Orders](https://docs.commercelayer.io/core-api-reference/orders.md): The order object and the allowed CRUD operations on the related resource endpoint
+- [The order object](https://docs.commercelayer.io/core-api-reference/orders/object.md): A comprehensive list of the order resource's attributes and relationships
+- [Create an order](https://docs.commercelayer.io/core-api-reference/orders/create.md): How to create an order via API
+- [List all orders](https://docs.commercelayer.io/core-api-reference/orders/list.md): How to fetch a collection of orders via API
+- [Retrieve an order](https://docs.commercelayer.io/core-api-reference/orders/retrieve.md): How to fetch a specific order via API
+- [Update an order](https://docs.commercelayer.io/core-api-reference/orders/update.md): How to update an existing order via API
+- [Delete an order](https://docs.commercelayer.io/core-api-reference/orders/delete.md): How to delete an existing order via API
+- [Organizations](https://docs.commercelayer.io/core-api-reference/organization.md): The organization object and the allowed CRUD operations on the related resource endpoint
+- [The organization object](https://docs.commercelayer.io/core-api-reference/organization/object.md): A comprehensive list of the organization resource's attributes and relationships
+- [Retrieve the organization](https://docs.commercelayer.io/core-api-reference/organization/retrieve.md): How to fetch the organization via API
+- [Packages](https://docs.commercelayer.io/core-api-reference/packages.md): The package object and the allowed CRUD operations on the related resource endpoint
+- [The package object](https://docs.commercelayer.io/core-api-reference/packages/object.md): A comprehensive list of the package resource's attributes and relationships
+- [Create a package](https://docs.commercelayer.io/core-api-reference/packages/create.md): How to create a package via API
+- [List all packages](https://docs.commercelayer.io/core-api-reference/packages/list.md): How to fetch a collection of packages via API
+- [Retrieve a package](https://docs.commercelayer.io/core-api-reference/packages/retrieve.md): How to fetch a specific package via API
+- [Update a package](https://docs.commercelayer.io/core-api-reference/packages/update.md): How to update an existing package via API
+- [Delete a package](https://docs.commercelayer.io/core-api-reference/packages/delete.md): How to delete an existing package via API
+- [Parcel line items](https://docs.commercelayer.io/core-api-reference/parcel_line_items.md): The parcel line item object and the allowed CRUD operations on the related resource endpoint
+- [The parcel line item object](https://docs.commercelayer.io/core-api-reference/parcel_line_items/object.md): A comprehensive list of the parcel line item resource's attributes and relationships
+- [Create a parcel line item](https://docs.commercelayer.io/core-api-reference/parcel_line_items/create.md): How to create a parcel line item via API
+- [List all parcel line items](https://docs.commercelayer.io/core-api-reference/parcel_line_items/list.md): How to fetch a collection of parcel line items via API
+- [Retrieve a parcel line item](https://docs.commercelayer.io/core-api-reference/parcel_line_items/retrieve.md): How to fetch a specific parcel line item via API
+- [Update a parcel line item](https://docs.commercelayer.io/core-api-reference/parcel_line_items/update.md): How to update an existing parcel line item via API
+- [Delete a parcel line item](https://docs.commercelayer.io/core-api-reference/parcel_line_items/delete.md): How to delete an existing parcel line item via API
+- [Parcels](https://docs.commercelayer.io/core-api-reference/parcels.md): The parcel object and the allowed CRUD operations on the related resource endpoint
+- [The parcel object](https://docs.commercelayer.io/core-api-reference/parcels/object.md): A comprehensive list of the parcel resource's attributes and relationships
+- [Create a parcel](https://docs.commercelayer.io/core-api-reference/parcels/create.md): How to create a parcel via API
+- [List all parcels](https://docs.commercelayer.io/core-api-reference/parcels/list.md): How to fetch a collection of parcels via API
+- [Retrieve a parcel](https://docs.commercelayer.io/core-api-reference/parcels/retrieve.md): How to fetch a specific parcel via API
+- [Update a parcel](https://docs.commercelayer.io/core-api-reference/parcels/update.md): How to update an existing parcel via API
+- [Delete a parcel](https://docs.commercelayer.io/core-api-reference/parcels/delete.md): How to delete an existing parcel via API
+- [Payment gateways](https://docs.commercelayer.io/core-api-reference/payment_gateways.md): The payment gateway object and the allowed CRUD operations on the related resource endpoint
+- [The payment gateway object](https://docs.commercelayer.io/core-api-reference/payment_gateways/object.md): A comprehensive list of the payment gateway resource's attributes and relationships
+- [List all payment gateways](https://docs.commercelayer.io/core-api-reference/payment_gateways/list.md): How to fetch a collection of payment gateways via API
+- [Retrieve a payment gateway](https://docs.commercelayer.io/core-api-reference/payment_gateways/retrieve.md): How to fetch a specific payment gateway via API
+- [Payment methods](https://docs.commercelayer.io/core-api-reference/payment_methods.md): The payment method object and the allowed CRUD operations on the related resource endpoint
+- [The payment method object](https://docs.commercelayer.io/core-api-reference/payment_methods/object.md): A comprehensive list of the payment method resource's attributes and relationships
+- [Create a payment method](https://docs.commercelayer.io/core-api-reference/payment_methods/create.md): How to create a payment method via API
+- [List all payment methods](https://docs.commercelayer.io/core-api-reference/payment_methods/list.md): How to fetch a collection of payment methods via API
+- [Retrieve a payment method](https://docs.commercelayer.io/core-api-reference/payment_methods/retrieve.md): How to fetch a specific payment method via API
+- [Update a payment method](https://docs.commercelayer.io/core-api-reference/payment_methods/update.md): How to update an existing payment method via API
+- [Delete a payment method](https://docs.commercelayer.io/core-api-reference/payment_methods/delete.md): How to delete an existing payment method via API
+- [Payment options](https://docs.commercelayer.io/core-api-reference/payment_options.md): The payment option object and the allowed CRUD operations on the related resource endpoint
+- [The payment option object](https://docs.commercelayer.io/core-api-reference/payment_options/object.md): A comprehensive list of the payment option resource's attributes and relationships
+- [Create a payment option](https://docs.commercelayer.io/core-api-reference/payment_options/create.md): How to create a payment option via API
+- [List all payment options](https://docs.commercelayer.io/core-api-reference/payment_options/list.md): How to fetch a collection of payment options via API
+- [Retrieve a payment option](https://docs.commercelayer.io/core-api-reference/payment_options/retrieve.md): How to fetch a specific payment option via API
+- [Update a payment option](https://docs.commercelayer.io/core-api-reference/payment_options/update.md): How to update an existing payment option via API
+- [Delete a payment option](https://docs.commercelayer.io/core-api-reference/payment_options/delete.md): How to delete an existing payment option via API
+- [Paypal gateways](https://docs.commercelayer.io/core-api-reference/paypal_gateways.md): The PayPal gateway object and the allowed CRUD operations on the related resource endpoint
+- [The paypal gateway object](https://docs.commercelayer.io/core-api-reference/paypal_gateways/object.md): A comprehensive list of the paypal gateway resource's attributes and relationships
+- [Create a paypal gateway](https://docs.commercelayer.io/core-api-reference/paypal_gateways/create.md): How to create a paypal gateway via API
+- [List all paypal gateways](https://docs.commercelayer.io/core-api-reference/paypal_gateways/list.md): How to fetch a collection of paypal gateways via API
+- [Retrieve a paypal gateway](https://docs.commercelayer.io/core-api-reference/paypal_gateways/retrieve.md): How to fetch a specific paypal gateway via API
+- [Update a paypal gateway](https://docs.commercelayer.io/core-api-reference/paypal_gateways/update.md): How to update an existing paypal gateway via API
+- [Delete a paypal gateway](https://docs.commercelayer.io/core-api-reference/paypal_gateways/delete.md): How to delete an existing paypal gateway via API
+- [Paypal payments](https://docs.commercelayer.io/core-api-reference/paypal_payments.md): The PayPal payment object and the allowed CRUD operations on the related resource endpoint
+- [The paypal payment object](https://docs.commercelayer.io/core-api-reference/paypal_payments/object.md): A comprehensive list of the paypal payment resource's attributes and relationships
+- [Create a paypal payment](https://docs.commercelayer.io/core-api-reference/paypal_payments/create.md): How to create a paypal payment via API
+- [List all paypal payments](https://docs.commercelayer.io/core-api-reference/paypal_payments/list.md): How to fetch a collection of paypal payments via API
+- [Retrieve a paypal payment](https://docs.commercelayer.io/core-api-reference/paypal_payments/retrieve.md): How to fetch a specific paypal payment via API
+- [Update a paypal payment](https://docs.commercelayer.io/core-api-reference/paypal_payments/update.md): How to update an existing paypal payment via API
+- [Delete a paypal payment](https://docs.commercelayer.io/core-api-reference/paypal_payments/delete.md): How to delete an existing paypal payment via API
+- [Percentage discount promotions](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions.md): The percentage discount promotion object and the allowed CRUD operations on the related resource endpoint
+- [The percentage discount promotion object](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/object.md): A comprehensive list of the percentage discount promotion resource's attributes and relationships
+- [Create a percentage discount promotion](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/create.md): How to create a percentage discount promotion via API
+- [List all percentage discount promotions](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/list.md): How to fetch a collection of percentage discount promotions via API
+- [Retrieve a percentage discount promotion](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/retrieve.md): How to fetch a specific percentage discount promotion via API
+- [Update a percentage discount promotion](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/update.md): How to update an existing percentage discount promotion via API
+- [Delete a percentage discount promotion](https://docs.commercelayer.io/core-api-reference/percentage_discount_promotions/delete.md): How to delete an existing percentage discount promotion via API
+- [Pickups](https://docs.commercelayer.io/core-api-reference/pickups.md): The pickup object and the allowed CRUD operations on the related resource endpoint
+- [The pickup object](https://docs.commercelayer.io/core-api-reference/pickups/object.md): A comprehensive list of the pickup resource's attributes and relationships
+- [List all pickups](https://docs.commercelayer.io/core-api-reference/pickups/list.md): How to fetch a collection of pickups via API
+- [Retrieve a pickup](https://docs.commercelayer.io/core-api-reference/pickups/retrieve.md): How to fetch a specific pickup via API
+- [Price frequency tiers](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers.md): The price frequency tier object and the allowed CRUD operations on the related resource endpoint
+- [The price frequency tier object](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/object.md): A comprehensive list of the price frequency tier resource's attributes and relationships
+- [Create a price frequency tier](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/create.md): How to create a price frequency tier via API
+- [List all price frequency tiers](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/list.md): How to fetch a collection of price frequency tiers via API
+- [Retrieve a price frequency tier](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/retrieve.md): How to fetch a specific price frequency tier via API
+- [Update a price frequency tier](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/update.md): How to update an existing price frequency tier via API
+- [Delete a price frequency tier](https://docs.commercelayer.io/core-api-reference/price_frequency_tiers/delete.md): How to delete an existing price frequency tier via API
+- [Price list schedulers](https://docs.commercelayer.io/core-api-reference/price_list_schedulers.md): The price list scheduler object and the allowed CRUD operations on the related resource endpoint
+- [The price list scheduler object](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/object.md): A comprehensive list of the price list scheduler resource's attributes and relationships
+- [Create a price list scheduler](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/create.md): How to create a price list scheduler via API
+- [List all price list schedulers](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/list.md): How to fetch a collection of price list schedulers via API
+- [Retrieve a price list scheduler](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/retrieve.md): How to fetch a specific price list scheduler via API
+- [Update a price list scheduler](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/update.md): How to update an existing price list scheduler via API
+- [Delete a price list scheduler](https://docs.commercelayer.io/core-api-reference/price_list_schedulers/delete.md): How to delete an existing price list scheduler via API
+- [Price lists](https://docs.commercelayer.io/core-api-reference/price_lists.md): The price list object and the allowed CRUD operations on the related resource endpoint
+- [The price list object](https://docs.commercelayer.io/core-api-reference/price_lists/object.md): A comprehensive list of the price list resource's attributes and relationships
+- [Create a price list](https://docs.commercelayer.io/core-api-reference/price_lists/create.md): How to create a price list via API
+- [List all price lists](https://docs.commercelayer.io/core-api-reference/price_lists/list.md): How to fetch a collection of price lists via API
+- [Retrieve a price list](https://docs.commercelayer.io/core-api-reference/price_lists/retrieve.md): How to fetch a specific price list via API
+- [Update a price list](https://docs.commercelayer.io/core-api-reference/price_lists/update.md): How to update an existing price list via API
+- [Delete a price list](https://docs.commercelayer.io/core-api-reference/price_lists/delete.md): How to delete an existing price list via API
+- [Price tiers](https://docs.commercelayer.io/core-api-reference/price_tiers.md): The price tier object and the allowed CRUD operations on the related resource endpoint
+- [The price tier object](https://docs.commercelayer.io/core-api-reference/price_tiers/object.md): A comprehensive list of the price tier resource's attributes and relationships
+- [List all price tiers](https://docs.commercelayer.io/core-api-reference/price_tiers/list.md): How to fetch a collection of price tiers via API
+- [Retrieve a price tier](https://docs.commercelayer.io/core-api-reference/price_tiers/retrieve.md): How to fetch a specific price tier via API
+- [Price volume tiers](https://docs.commercelayer.io/core-api-reference/price_volume_tiers.md): The price volume tier object and the allowed CRUD operations on the related resource endpoint
+- [The price volume tier object](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/object.md): A comprehensive list of the price volume tier resource's attributes and relationships
+- [Create a price volume tier](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/create.md): How to create a price volume tier via API
+- [List all price volume tiers](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/list.md): How to fetch a collection of price volume tiers via API
+- [Retrieve a price volume tier](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/retrieve.md): How to fetch a specific price volume tier via API
+- [Update a price volume tier](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/update.md): How to update an existing price volume tier via API
+- [Delete a price volume tier](https://docs.commercelayer.io/core-api-reference/price_volume_tiers/delete.md): How to delete an existing price volume tier via API
+- [Prices](https://docs.commercelayer.io/core-api-reference/prices.md): The price object and the allowed CRUD operations on the related resource endpoint
+- [The price object](https://docs.commercelayer.io/core-api-reference/prices/object.md): A comprehensive list of the price resource's attributes and relationships
+- [Create a price](https://docs.commercelayer.io/core-api-reference/prices/create.md): How to create a price via API
+- [List all prices](https://docs.commercelayer.io/core-api-reference/prices/list.md): How to fetch a collection of prices via API
+- [Retrieve a price](https://docs.commercelayer.io/core-api-reference/prices/retrieve.md): How to fetch a specific price via API
+- [Update a price](https://docs.commercelayer.io/core-api-reference/prices/update.md): How to update an existing price via API
+- [Delete a price](https://docs.commercelayer.io/core-api-reference/prices/delete.md): How to delete an existing price via API
+- [Promotion rules](https://docs.commercelayer.io/core-api-reference/promotion_rules.md): The promotion rule object and the allowed CRUD operations on the related resource endpoint
+- [The promotion rule object](https://docs.commercelayer.io/core-api-reference/promotion_rules/object.md): A comprehensive list of the promotion rule resource's attributes and relationships
+- [List all promotion rules](https://docs.commercelayer.io/core-api-reference/promotion_rules/list.md): How to fetch a collection of promotion rules via API
+- [Retrieve a promotion rule](https://docs.commercelayer.io/core-api-reference/promotion_rules/retrieve.md): How to fetch a specific promotion rule via API
+- [Promotions](https://docs.commercelayer.io/core-api-reference/promotions.md): The promotion object and the allowed CRUD operations on the related resource endpoint
+- [The promotion object](https://docs.commercelayer.io/core-api-reference/promotions/object.md): A comprehensive list of the promotion resource's attributes and relationships
+- [List all promotions](https://docs.commercelayer.io/core-api-reference/promotions/list.md): How to fetch a collection of promotions via API
+- [Retrieve a promotion](https://docs.commercelayer.io/core-api-reference/promotions/retrieve.md): How to fetch a specific promotion via API
+- [Recurring order copies](https://docs.commercelayer.io/core-api-reference/recurring_order_copies.md): The recurring order copy object and the allowed CRUD operations on the related resource endpoint
+- [The recurring order copy object](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/object.md): A comprehensive list of the recurring order copy resource's attributes and relationships
+- [Create a recurring order copy](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/create.md): How to create a recurring order copy via API
+- [List all recurring order copies](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/list.md): How to fetch a collection of recurring order copies via API
+- [Retrieve a recurring order copy](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/retrieve.md): How to fetch a specific recurring order copy via API
+- [Update a recurring order copy](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/update.md): How to update an existing recurring order copy via API
+- [Delete a recurring order copy](https://docs.commercelayer.io/core-api-reference/recurring_order_copies/delete.md): How to delete an existing recurring order copy via API
+- [Refunds](https://docs.commercelayer.io/core-api-reference/refunds.md): The refund object and the allowed CRUD operations on the related resource endpoint
+- [The refund object](https://docs.commercelayer.io/core-api-reference/refunds/object.md): A comprehensive list of the refund resource's attributes and relationships
+- [List all refunds](https://docs.commercelayer.io/core-api-reference/refunds/list.md): How to fetch a collection of refunds via API
+- [Retrieve a refund](https://docs.commercelayer.io/core-api-reference/refunds/retrieve.md): How to fetch a specific refund via API
+- [Update a refund](https://docs.commercelayer.io/core-api-reference/refunds/update.md): How to update an existing refund via API
+- [Reserved stocks](https://docs.commercelayer.io/core-api-reference/reserved_stocks.md): The reserved stock object and the allowed CRUD operations on the related resource endpoint
+- [The reserved stock object](https://docs.commercelayer.io/core-api-reference/reserved_stocks/object.md): A comprehensive list of the reserved stock resource's attributes and relationships
+- [List all reserved stocks](https://docs.commercelayer.io/core-api-reference/reserved_stocks/list.md): How to fetch a collection of reserved stocks via API
+- [Retrieve a reserved stock](https://docs.commercelayer.io/core-api-reference/reserved_stocks/retrieve.md): How to fetch a specific reserved stock via API
+- [Resource errors](https://docs.commercelayer.io/core-api-reference/resource_errors.md): The resource error object and the allowed CRUD operations on the related resource endpoint
+- [The resource error object](https://docs.commercelayer.io/core-api-reference/resource_errors/object.md): A comprehensive list of the resource error resource's attributes and relationships
+- [List all resource errors](https://docs.commercelayer.io/core-api-reference/resource_errors/list.md): How to fetch a collection of resource errors via API
+- [Retrieve a resource error](https://docs.commercelayer.io/core-api-reference/resource_errors/retrieve.md): How to fetch a specific resource error via API
+- [Return line items](https://docs.commercelayer.io/core-api-reference/return_line_items.md): The return line item object and the allowed CRUD operations on the related resource endpoint
+- [The return line item object](https://docs.commercelayer.io/core-api-reference/return_line_items/object.md): A comprehensive list of the return line item resource's attributes and relationships
+- [Create a return line item](https://docs.commercelayer.io/core-api-reference/return_line_items/create.md): How to create a return line item via API
+- [List all return line items](https://docs.commercelayer.io/core-api-reference/return_line_items/list.md): How to fetch a collection of return line items via API
+- [Retrieve a return line item](https://docs.commercelayer.io/core-api-reference/return_line_items/retrieve.md): How to fetch a specific return line item via API
+- [Update a return line item](https://docs.commercelayer.io/core-api-reference/return_line_items/update.md): How to update an existing return line item via API
+- [Delete a return line item](https://docs.commercelayer.io/core-api-reference/return_line_items/delete.md): How to delete an existing return line item via API
+- [Returns](https://docs.commercelayer.io/core-api-reference/returns.md): The return object and the allowed CRUD operations on the related resource endpoint
+- [The return object](https://docs.commercelayer.io/core-api-reference/returns/object.md): A comprehensive list of the return resource's attributes and relationships
+- [Create a return](https://docs.commercelayer.io/core-api-reference/returns/create.md): How to create a return via API
+- [List all returns](https://docs.commercelayer.io/core-api-reference/returns/list.md): How to fetch a collection of returns via API
+- [Retrieve a return](https://docs.commercelayer.io/core-api-reference/returns/retrieve.md): How to fetch a specific return via API
+- [Update a return](https://docs.commercelayer.io/core-api-reference/returns/update.md): How to update an existing return via API
+- [Delete a return](https://docs.commercelayer.io/core-api-reference/returns/delete.md): How to delete an existing return via API
+- [Satispay gateways](https://docs.commercelayer.io/core-api-reference/satispay_gateways.md): The Satispay gateway object and the allowed CRUD operations on the related resource endpoint
+- [The satispay gateway object](https://docs.commercelayer.io/core-api-reference/satispay_gateways/object.md): A comprehensive list of the satispay gateway resource's attributes and relationships
+- [Create a satispay gateway](https://docs.commercelayer.io/core-api-reference/satispay_gateways/create.md): How to create a satispay gateway via API
+- [List all satispay gateways](https://docs.commercelayer.io/core-api-reference/satispay_gateways/list.md): How to fetch a collection of satispay gateways via API
+- [Retrieve a satispay gateway](https://docs.commercelayer.io/core-api-reference/satispay_gateways/retrieve.md): How to fetch a specific satispay gateway via API
+- [Update a satispay gateway](https://docs.commercelayer.io/core-api-reference/satispay_gateways/update.md): How to update an existing satispay gateway via API
+- [Delete a satispay gateway](https://docs.commercelayer.io/core-api-reference/satispay_gateways/delete.md): How to delete an existing satispay gateway via API
+- [Satispay payments](https://docs.commercelayer.io/core-api-reference/satispay_payments.md): The Satispay payment object and the allowed CRUD operations on the related resource endpoint
+- [The satispay payment object](https://docs.commercelayer.io/core-api-reference/satispay_payments/object.md): A comprehensive list of the satispay payment resource's attributes and relationships
+- [Create a satispay payment](https://docs.commercelayer.io/core-api-reference/satispay_payments/create.md): How to create a satispay payment via API
+- [List all satispay payments](https://docs.commercelayer.io/core-api-reference/satispay_payments/list.md): How to fetch a collection of satispay payments via API
+- [Retrieve a satispay payment](https://docs.commercelayer.io/core-api-reference/satispay_payments/retrieve.md): How to fetch a specific satispay payment via API
+- [Update a satispay payment](https://docs.commercelayer.io/core-api-reference/satispay_payments/update.md): How to update an existing satispay payment via API
+- [Delete a satispay payment](https://docs.commercelayer.io/core-api-reference/satispay_payments/delete.md): How to delete an existing satispay payment via API
+- [Shipments](https://docs.commercelayer.io/core-api-reference/shipments.md): The shipment object and the allowed CRUD operations on the related resource endpoint
+- [The shipment object](https://docs.commercelayer.io/core-api-reference/shipments/object.md): A comprehensive list of the shipment resource's attributes and relationships
+- [Create a shipment](https://docs.commercelayer.io/core-api-reference/shipments/create.md): How to create a shipment via API
+- [List all shipments](https://docs.commercelayer.io/core-api-reference/shipments/list.md): How to fetch a collection of shipments via API
+- [Retrieve a shipment](https://docs.commercelayer.io/core-api-reference/shipments/retrieve.md): How to fetch a specific shipment via API
+- [Update a shipment](https://docs.commercelayer.io/core-api-reference/shipments/update.md): How to update an existing shipment via API
+- [Delete a shipment](https://docs.commercelayer.io/core-api-reference/shipments/delete.md): How to delete an existing shipment via API
+- [Shipping categories](https://docs.commercelayer.io/core-api-reference/shipping_categories.md): The shipping category object and the allowed CRUD operations on the related resource endpoint
+- [The shipping category object](https://docs.commercelayer.io/core-api-reference/shipping_categories/object.md): A comprehensive list of the shipping category resource's attributes and relationships
+- [Create a shipping category](https://docs.commercelayer.io/core-api-reference/shipping_categories/create.md): How to create a shipping category via API
+- [List all shipping categories](https://docs.commercelayer.io/core-api-reference/shipping_categories/list.md): How to fetch a collection of shipping categories via API
+- [Retrieve a shipping category](https://docs.commercelayer.io/core-api-reference/shipping_categories/retrieve.md): How to fetch a specific shipping category via API
+- [Update a shipping category](https://docs.commercelayer.io/core-api-reference/shipping_categories/update.md): How to update an existing shipping category via API
+- [Delete a shipping category](https://docs.commercelayer.io/core-api-reference/shipping_categories/delete.md): How to delete an existing shipping category via API
+- [Shipping method tiers](https://docs.commercelayer.io/core-api-reference/shipping_method_tiers.md): The shipping method tier object and the allowed CRUD operations on the related resource endpoint
+- [The shipping method tier object](https://docs.commercelayer.io/core-api-reference/shipping_method_tiers/object.md): A comprehensive list of the shipping method tier resource's attributes and relationships
+- [List all shipping method tiers](https://docs.commercelayer.io/core-api-reference/shipping_method_tiers/list.md): How to fetch a collection of shipping method tiers via API
+- [Retrieve a shipping method tier](https://docs.commercelayer.io/core-api-reference/shipping_method_tiers/retrieve.md): How to fetch a specific shipping method tier via API
+- [Shipping methods](https://docs.commercelayer.io/core-api-reference/shipping_methods.md): The shipping method object and the allowed CRUD operations on the related resource endpoint
+- [The shipping method object](https://docs.commercelayer.io/core-api-reference/shipping_methods/object.md): A comprehensive list of the shipping method resource's attributes and relationships
+- [Create a shipping method](https://docs.commercelayer.io/core-api-reference/shipping_methods/create.md): How to create a shipping method via API
+- [List all shipping methods](https://docs.commercelayer.io/core-api-reference/shipping_methods/list.md): How to fetch a collection of shipping methods via API
+- [Retrieve a shipping method](https://docs.commercelayer.io/core-api-reference/shipping_methods/retrieve.md): How to fetch a specific shipping method via API
+- [Update a shipping method](https://docs.commercelayer.io/core-api-reference/shipping_methods/update.md): How to update an existing shipping method via API
+- [Delete a shipping method](https://docs.commercelayer.io/core-api-reference/shipping_methods/delete.md): How to delete an existing shipping method via API
+- [Shipping weight tiers](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers.md): The shipping weight tier object and the allowed CRUD operations on the related resource endpoint
+- [The shipping weight tier object](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/object.md): A comprehensive list of the shipping weight tier resource's attributes and relationships
+- [Create a shipping weight tier](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/create.md): How to create a shipping weight tier via API
+- [List all shipping weight tiers](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/list.md): How to fetch a collection of shipping weight tiers via API
+- [Retrieve a shipping weight tier](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/retrieve.md): How to fetch a specific shipping weight tier via API
+- [Update a shipping weight tier](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/update.md): How to update an existing shipping weight tier via API
+- [Delete a shipping weight tier](https://docs.commercelayer.io/core-api-reference/shipping_weight_tiers/delete.md): How to delete an existing shipping weight tier via API
+- [Shipping zones](https://docs.commercelayer.io/core-api-reference/shipping_zones.md): The shipping zone object and the allowed CRUD operations on the related resource endpoint
+- [The shipping zone object](https://docs.commercelayer.io/core-api-reference/shipping_zones/object.md): A comprehensive list of the shipping zone resource's attributes and relationships
+- [Create a shipping zone](https://docs.commercelayer.io/core-api-reference/shipping_zones/create.md): How to create a shipping zone via API
+- [List all shipping zones](https://docs.commercelayer.io/core-api-reference/shipping_zones/list.md): How to fetch a collection of shipping zones via API
+- [Retrieve a shipping zone](https://docs.commercelayer.io/core-api-reference/shipping_zones/retrieve.md): How to fetch a specific shipping zone via API
+- [Update a shipping zone](https://docs.commercelayer.io/core-api-reference/shipping_zones/update.md): How to update an existing shipping zone via API
+- [Delete a shipping zone](https://docs.commercelayer.io/core-api-reference/shipping_zones/delete.md): How to delete an existing shipping zone via API
+- [SKU list items](https://docs.commercelayer.io/core-api-reference/sku_list_items.md): The SKU list item object and the allowed CRUD operations on the related resource endpoint
+- [The SKU list item object](https://docs.commercelayer.io/core-api-reference/sku_list_items/object.md): A comprehensive list of the SKU list item resource's attributes and relationships
+- [Create a SKU list item](https://docs.commercelayer.io/core-api-reference/sku_list_items/create.md): How to create a SKU list item via API
+- [List all SKU list items](https://docs.commercelayer.io/core-api-reference/sku_list_items/list.md): How to fetch a collection of SKU list items via API
+- [Retrieve a SKU list item](https://docs.commercelayer.io/core-api-reference/sku_list_items/retrieve.md): How to fetch a specific SKU list item via API
+- [Update a SKU list item](https://docs.commercelayer.io/core-api-reference/sku_list_items/update.md): How to update an existing SKU list item via API
+- [Delete a SKU list item](https://docs.commercelayer.io/core-api-reference/sku_list_items/delete.md): How to delete an existing SKU list item via API
+- [SKU list promotion rules](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules.md): The SKU list promotion rule object and the allowed CRUD operations on the related resource endpoint
+- [The SKU list promotion rule object](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/object.md): A comprehensive list of the SKU list promotion rule resource's attributes and relationships
+- [Create a SKU list promotion rule](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/create.md): How to create a SKU list promotion rule via API
+- [List all SKU list promotion rules](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/list.md): How to fetch a collection of SKU list promotion rules via API
+- [Retrieve a SKU list promotion rule](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/retrieve.md): How to fetch a specific SKU list promotion rule via API
+- [Update a SKU list promotion rule](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/update.md): How to update an existing SKU list promotion rule via API
+- [Delete a SKU list promotion rule](https://docs.commercelayer.io/core-api-reference/sku_list_promotion_rules/delete.md): How to delete an existing SKU list promotion rule via API
+- [SKU lists](https://docs.commercelayer.io/core-api-reference/sku_lists.md): The SKU list object and the allowed CRUD operations on the related resource endpoint
+- [The SKU list object](https://docs.commercelayer.io/core-api-reference/sku_lists/object.md): A comprehensive list of the SKU list resource's attributes and relationships
+- [Create a SKU list](https://docs.commercelayer.io/core-api-reference/sku_lists/create.md): How to create a SKU list via API
+- [List all SKU lists](https://docs.commercelayer.io/core-api-reference/sku_lists/list.md): How to fetch a collection of SKU lists via API
+- [Retrieve a SKU list](https://docs.commercelayer.io/core-api-reference/sku_lists/retrieve.md): How to fetch a specific SKU list via API
+- [Update a SKU list](https://docs.commercelayer.io/core-api-reference/sku_lists/update.md): How to update an existing SKU list via API
+- [Delete a SKU list](https://docs.commercelayer.io/core-api-reference/sku_lists/delete.md): How to delete an existing SKU list via API
+- [SKU options](https://docs.commercelayer.io/core-api-reference/sku_options.md): The SKU option object and the allowed CRUD operations on the related resource endpoint
+- [The SKU option object](https://docs.commercelayer.io/core-api-reference/sku_options/object.md): A comprehensive list of the SKU option resource's attributes and relationships
+- [Create a SKU option](https://docs.commercelayer.io/core-api-reference/sku_options/create.md): How to create a SKU option via API
+- [List all SKU options](https://docs.commercelayer.io/core-api-reference/sku_options/list.md): How to fetch a collection of SKU options via API
+- [Retrieve a SKU option](https://docs.commercelayer.io/core-api-reference/sku_options/retrieve.md): How to fetch a specific SKU option via API
+- [Update a SKU option](https://docs.commercelayer.io/core-api-reference/sku_options/update.md): How to update an existing SKU option via API
+- [Delete a SKU option](https://docs.commercelayer.io/core-api-reference/sku_options/delete.md): How to delete an existing SKU option via API
+- [SKUs](https://docs.commercelayer.io/core-api-reference/skus.md): The SKU object and the allowed CRUD operations on the related resource endpoint
+- [The SKU object](https://docs.commercelayer.io/core-api-reference/skus/object.md): A comprehensive list of the SKU resource's attributes and relationships
+- [Create a SKU](https://docs.commercelayer.io/core-api-reference/skus/create.md): How to create a SKU via API
+- [List all SKUs](https://docs.commercelayer.io/core-api-reference/skus/list.md): How to fetch a collection of SKUs via API
+- [Retrieve a SKU](https://docs.commercelayer.io/core-api-reference/skus/retrieve.md): How to fetch a specific SKU via API
+- [Update a SKU](https://docs.commercelayer.io/core-api-reference/skus/update.md): How to update an existing SKU via API
+- [Delete a SKU](https://docs.commercelayer.io/core-api-reference/skus/delete.md): How to delete an existing SKU via API
+- [Stock items](https://docs.commercelayer.io/core-api-reference/stock_items.md): The stock item object and the allowed CRUD operations on the related resource endpoint
+- [The stock item object](https://docs.commercelayer.io/core-api-reference/stock_items/object.md): A comprehensive list of the stock item resource's attributes and relationships
+- [Create a stock item](https://docs.commercelayer.io/core-api-reference/stock_items/create.md): How to create a stock item via API
+- [List all stock items](https://docs.commercelayer.io/core-api-reference/stock_items/list.md): How to fetch a collection of stock items via API
+- [Retrieve a stock item](https://docs.commercelayer.io/core-api-reference/stock_items/retrieve.md): How to fetch a specific stock item via API
+- [Update a stock item](https://docs.commercelayer.io/core-api-reference/stock_items/update.md): How to update an existing stock item via API
+- [Delete a stock item](https://docs.commercelayer.io/core-api-reference/stock_items/delete.md): How to delete an existing stock item via API
+- [Stock line items](https://docs.commercelayer.io/core-api-reference/stock_line_items.md): The stock line item object and the allowed CRUD operations on the related resource endpoint
+- [The stock line item object](https://docs.commercelayer.io/core-api-reference/stock_line_items/object.md): A comprehensive list of the stock line item resource's attributes and relationships
+- [Create a stock line item](https://docs.commercelayer.io/core-api-reference/stock_line_items/create.md): How to create a stock line item via API
+- [List all stock line items](https://docs.commercelayer.io/core-api-reference/stock_line_items/list.md): How to fetch a collection of stock line items via API
+- [Retrieve a stock line item](https://docs.commercelayer.io/core-api-reference/stock_line_items/retrieve.md): How to fetch a specific stock line item via API
+- [Update a stock line item](https://docs.commercelayer.io/core-api-reference/stock_line_items/update.md): How to update an existing stock line item via API
+- [Delete a stock line item](https://docs.commercelayer.io/core-api-reference/stock_line_items/delete.md): How to delete an existing stock line item via API
+- [Stock locations](https://docs.commercelayer.io/core-api-reference/stock_locations.md): The stock location object and the allowed CRUD operations on the related resource endpoint
+- [The stock location object](https://docs.commercelayer.io/core-api-reference/stock_locations/object.md): A comprehensive list of the stock location resource's attributes and relationships
+- [Create a stock location](https://docs.commercelayer.io/core-api-reference/stock_locations/create.md): How to create a stock location via API
+- [List all stock locations](https://docs.commercelayer.io/core-api-reference/stock_locations/list.md): How to fetch a collection of stock locations via API
+- [Retrieve a stock location](https://docs.commercelayer.io/core-api-reference/stock_locations/retrieve.md): How to fetch a specific stock location via API
+- [Update a stock location](https://docs.commercelayer.io/core-api-reference/stock_locations/update.md): How to update an existing stock location via API
+- [Delete a stock location](https://docs.commercelayer.io/core-api-reference/stock_locations/delete.md): How to delete an existing stock location via API
+- [Stock reservations](https://docs.commercelayer.io/core-api-reference/stock_reservations.md): The stock reservation object and the allowed CRUD operations on the related resource endpoint
+- [The stock reservation object](https://docs.commercelayer.io/core-api-reference/stock_reservations/object.md): A comprehensive list of the stock reservation resource's attributes and relationships
+- [Create a stock reservation](https://docs.commercelayer.io/core-api-reference/stock_reservations/create.md): How to create a stock reservation via API
+- [List all stock reservations](https://docs.commercelayer.io/core-api-reference/stock_reservations/list.md): How to fetch a collection of stock reservations via API
+- [Retrieve a stock reservation](https://docs.commercelayer.io/core-api-reference/stock_reservations/retrieve.md): How to fetch a specific stock reservation via API
+- [Update a stock reservation](https://docs.commercelayer.io/core-api-reference/stock_reservations/update.md): How to update an existing stock reservation via API
+- [Delete a stock reservation](https://docs.commercelayer.io/core-api-reference/stock_reservations/delete.md): How to delete an existing stock reservation via API
+- [Stock transfers](https://docs.commercelayer.io/core-api-reference/stock_transfers.md): The stock transfer object and the allowed CRUD operations on the related resource endpoint
+- [The stock transfer object](https://docs.commercelayer.io/core-api-reference/stock_transfers/object.md): A comprehensive list of the stock transfer resource's attributes and relationships
+- [Create a stock transfer](https://docs.commercelayer.io/core-api-reference/stock_transfers/create.md): How to create a stock transfer via API
+- [List all stock transfers](https://docs.commercelayer.io/core-api-reference/stock_transfers/list.md): How to fetch a collection of stock transfers via API
+- [Retrieve a stock transfer](https://docs.commercelayer.io/core-api-reference/stock_transfers/retrieve.md): How to fetch a specific stock transfer via API
+- [Update a stock transfer](https://docs.commercelayer.io/core-api-reference/stock_transfers/update.md): How to update an existing stock transfer via API
+- [Delete a stock transfer](https://docs.commercelayer.io/core-api-reference/stock_transfers/delete.md): How to delete an existing stock transfer via API
+- [Stores](https://docs.commercelayer.io/core-api-reference/stores.md): The store object and the allowed CRUD operations on the related resource endpoint
+- [The store object](https://docs.commercelayer.io/core-api-reference/stores/object.md): A comprehensive list of the store resource's attributes and relationships
+- [Create a store](https://docs.commercelayer.io/core-api-reference/stores/create.md): How to create a store via API
+- [List all stores](https://docs.commercelayer.io/core-api-reference/stores/list.md): How to fetch a collection of stores via API
+- [Retrieve a store](https://docs.commercelayer.io/core-api-reference/stores/retrieve.md): How to fetch a specific store via API
+- [Update a store](https://docs.commercelayer.io/core-api-reference/stores/update.md): How to update an existing store via API
+- [Delete a store](https://docs.commercelayer.io/core-api-reference/stores/delete.md): How to delete an existing store via API
+- [Stripe gateways](https://docs.commercelayer.io/core-api-reference/stripe_gateways.md): The stripe gateway object and the allowed CRUD operations on the related resource endpoint
+- [The stripe gateway object](https://docs.commercelayer.io/core-api-reference/stripe_gateways/object.md): A comprehensive list of the stripe gateway resource's attributes and relationships
+- [Create a stripe gateway](https://docs.commercelayer.io/core-api-reference/stripe_gateways/create.md): How to create a stripe gateway via API
+- [List all stripe gateways](https://docs.commercelayer.io/core-api-reference/stripe_gateways/list.md): How to fetch a collection of stripe gateways via API
+- [Retrieve a stripe gateway](https://docs.commercelayer.io/core-api-reference/stripe_gateways/retrieve.md): How to fetch a specific stripe gateway via API
+- [Update a stripe gateway](https://docs.commercelayer.io/core-api-reference/stripe_gateways/update.md): How to update an existing stripe gateway via API
+- [Delete a stripe gateway](https://docs.commercelayer.io/core-api-reference/stripe_gateways/delete.md): How to delete an existing stripe gateway via API
+- [Stripe payments](https://docs.commercelayer.io/core-api-reference/stripe_payments.md): The stripe payment object and the allowed CRUD operations on the related resource endpoint
+- [The stripe payment object](https://docs.commercelayer.io/core-api-reference/stripe_payments/object.md): A comprehensive list of the stripe payment resource's attributes and relationships
+- [Create a stripe payment](https://docs.commercelayer.io/core-api-reference/stripe_payments/create.md): How to create a stripe payment via API
+- [List all stripe payments](https://docs.commercelayer.io/core-api-reference/stripe_payments/list.md): How to fetch a collection of stripe payments via API
+- [Retrieve a stripe payment](https://docs.commercelayer.io/core-api-reference/stripe_payments/retrieve.md): How to fetch a specific stripe payment via API
+- [Update a stripe payment](https://docs.commercelayer.io/core-api-reference/stripe_payments/update.md): How to update an existing stripe payment via API
+- [Delete a stripe payment](https://docs.commercelayer.io/core-api-reference/stripe_payments/delete.md): How to delete an existing stripe payment via API
+- [Stripe tax accounts](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts.md): The Stripe Tax account object and the allowed CRUD operations on the related resource endpoint
+- [The stripe tax account object](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/object.md): A comprehensive list of the stripe tax account resource's attributes and relationships
+- [Create a stripe tax account](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/create.md): How to create a stripe tax account via API
+- [List all stripe tax accounts](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/list.md): How to fetch a collection of stripe tax accounts via API
+- [Retrieve a stripe tax account](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/retrieve.md): How to fetch a specific stripe tax account via API
+- [Update a stripe tax account](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/update.md): How to update an existing stripe tax account via API
+- [Delete a stripe tax account](https://docs.commercelayer.io/core-api-reference/stripe_tax_accounts/delete.md): How to delete an existing stripe tax account via API
+- [Subscription models](https://docs.commercelayer.io/core-api-reference/subscription_models.md): The subscription model object and the allowed CRUD operations on the related resource endpoint
+- [The subscription model object](https://docs.commercelayer.io/core-api-reference/subscription_models/object.md): A comprehensive list of the subscription model resource's attributes and relationships
+- [Create a subscription model](https://docs.commercelayer.io/core-api-reference/subscription_models/create.md): How to create a subscription model via API
+- [List all subscription models](https://docs.commercelayer.io/core-api-reference/subscription_models/list.md): How to fetch a collection of subscription models via API
+- [Retrieve a subscription model](https://docs.commercelayer.io/core-api-reference/subscription_models/retrieve.md): How to fetch a specific subscription model via API
+- [Update a subscription model](https://docs.commercelayer.io/core-api-reference/subscription_models/update.md): How to update an existing subscription model via API
+- [Delete a subscription model](https://docs.commercelayer.io/core-api-reference/subscription_models/delete.md): How to delete an existing subscription model via API
+- [Tags](https://docs.commercelayer.io/core-api-reference/tags.md): The tag object and the allowed CRUD operations on the related resource endpoint
+- [The tag object](https://docs.commercelayer.io/core-api-reference/tags/object.md): A comprehensive list of the tag resource's attributes and relationships
+- [Create a tag](https://docs.commercelayer.io/core-api-reference/tags/create.md): How to create a tag via API
+- [List all tags](https://docs.commercelayer.io/core-api-reference/tags/list.md): How to fetch a collection of tags via API
+- [Retrieve a tag](https://docs.commercelayer.io/core-api-reference/tags/retrieve.md): How to fetch a specific tag via API
+- [Update a tag](https://docs.commercelayer.io/core-api-reference/tags/update.md): How to update an existing tag via API
+- [Delete a tag](https://docs.commercelayer.io/core-api-reference/tags/delete.md): How to delete an existing tag via API
+- [Talon one accounts](https://docs.commercelayer.io/core-api-reference/talon_one_accounts.md): The Talon.One account object and the allowed CRUD operations on the related resource endpoint
+- [The talon one account object](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/object.md): A comprehensive list of the talon one account resource's attributes and relationships
+- [Create a talon one account](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/create.md): How to create a talon one account via API
+- [List all talon one accounts](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/list.md): How to fetch a collection of talon one accounts via API
+- [Retrieve a talon one account](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/retrieve.md): How to fetch a specific talon one account via API
+- [Update a talon one account](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/update.md): How to update an existing talon one account via API
+- [Delete a talon one account](https://docs.commercelayer.io/core-api-reference/talon_one_accounts/delete.md): How to delete an existing talon one account via API
+- [Tax calculators](https://docs.commercelayer.io/core-api-reference/tax_calculators.md): The tax calculator object and the allowed CRUD operations on the related resource endpoint
+- [The tax calculator object](https://docs.commercelayer.io/core-api-reference/tax_calculators/object.md): A comprehensive list of the tax calculator resource's attributes and relationships
+- [List all tax calculators](https://docs.commercelayer.io/core-api-reference/tax_calculators/list.md): How to fetch a collection of tax calculators via API
+- [Retrieve a tax calculator](https://docs.commercelayer.io/core-api-reference/tax_calculators/retrieve.md): How to fetch a specific tax calculator via API
+- [Tax categories](https://docs.commercelayer.io/core-api-reference/tax_categories.md): The tax category object and the allowed CRUD operations on the related resource endpoint
+- [The tax category object](https://docs.commercelayer.io/core-api-reference/tax_categories/object.md): A comprehensive list of the tax category resource's attributes and relationships
+- [Create a tax category](https://docs.commercelayer.io/core-api-reference/tax_categories/create.md): How to create a tax category via API
+- [List all tax categories](https://docs.commercelayer.io/core-api-reference/tax_categories/list.md): How to fetch a collection of tax categories via API
+- [Retrieve a tax category](https://docs.commercelayer.io/core-api-reference/tax_categories/retrieve.md): How to fetch a specific tax category via API
+- [Update a tax category](https://docs.commercelayer.io/core-api-reference/tax_categories/update.md): How to update an existing tax category via API
+- [Delete a tax category](https://docs.commercelayer.io/core-api-reference/tax_categories/delete.md): How to delete an existing tax category via API
+- [Tax rules](https://docs.commercelayer.io/core-api-reference/tax_rules.md): The tax rule object and the allowed CRUD operations on the related resource endpoint
+- [The tax rule object](https://docs.commercelayer.io/core-api-reference/tax_rules/object.md): A comprehensive list of the tax rule resource's attributes and relationships
+- [Create a tax rule](https://docs.commercelayer.io/core-api-reference/tax_rules/create.md): How to create a tax rule via API
+- [List all tax rules](https://docs.commercelayer.io/core-api-reference/tax_rules/list.md): How to fetch a collection of tax rules via API
+- [Retrieve a tax rule](https://docs.commercelayer.io/core-api-reference/tax_rules/retrieve.md): How to fetch a specific tax rule via API
+- [Update a tax rule](https://docs.commercelayer.io/core-api-reference/tax_rules/update.md): How to update an existing tax rule via API
+- [Delete a tax rule](https://docs.commercelayer.io/core-api-reference/tax_rules/delete.md): How to delete an existing tax rule via API
+- [Taxjar accounts](https://docs.commercelayer.io/core-api-reference/taxjar_accounts.md): The TaxJar account object and the allowed CRUD operations on the related resource endpoint
+- [The taxjar account object](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/object.md): A comprehensive list of the taxjar account resource's attributes and relationships
+- [Create a taxjar account](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/create.md): How to create a taxjar account via API
+- [List all taxjar accounts](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/list.md): How to fetch a collection of taxjar accounts via API
+- [Retrieve a taxjar account](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/retrieve.md): How to fetch a specific taxjar account via API
+- [Update a taxjar account](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/update.md): How to update an existing taxjar account via API
+- [Delete a taxjar account](https://docs.commercelayer.io/core-api-reference/taxjar_accounts/delete.md): How to delete an existing taxjar account via API
+- [Transactions](https://docs.commercelayer.io/core-api-reference/transactions.md): The transaction object and the allowed CRUD operations on the related resource endpoint
+- [The transaction object](https://docs.commercelayer.io/core-api-reference/transactions/object.md): A comprehensive list of the transaction resource's attributes and relationships
+- [List all transactions](https://docs.commercelayer.io/core-api-reference/transactions/list.md): How to fetch a collection of transactions via API
+- [Retrieve a transaction](https://docs.commercelayer.io/core-api-reference/transactions/retrieve.md): How to fetch a specific transaction via API
+- [Vertex accounts](https://docs.commercelayer.io/core-api-reference/vertex_accounts.md): The Vertex account object and the allowed CRUD operations on the related resource endpoint
+- [The vertex account object](https://docs.commercelayer.io/core-api-reference/vertex_accounts/object.md): A comprehensive list of the vertex account resource's attributes and relationships
+- [Create a vertex account](https://docs.commercelayer.io/core-api-reference/vertex_accounts/create.md): How to create a vertex account via API
+- [List all vertex accounts](https://docs.commercelayer.io/core-api-reference/vertex_accounts/list.md): How to fetch a collection of vertex accounts via API
+- [Retrieve a vertex account](https://docs.commercelayer.io/core-api-reference/vertex_accounts/retrieve.md): How to fetch a specific vertex account via API
+- [Update a vertex account](https://docs.commercelayer.io/core-api-reference/vertex_accounts/update.md): How to update an existing vertex account via API
+- [Delete a vertex account](https://docs.commercelayer.io/core-api-reference/vertex_accounts/delete.md): How to delete an existing vertex account via API
+- [Voids](https://docs.commercelayer.io/core-api-reference/voids.md): The void object and the allowed CRUD operations on the related resource endpoint
+- [The void object](https://docs.commercelayer.io/core-api-reference/voids/object.md): A comprehensive list of the void resource's attributes and relationships
+- [List all voids](https://docs.commercelayer.io/core-api-reference/voids/list.md): How to fetch a collection of voids via API
+- [Retrieve a void](https://docs.commercelayer.io/core-api-reference/voids/retrieve.md): How to fetch a specific void via API
+- [Update a void](https://docs.commercelayer.io/core-api-reference/voids/update.md): How to update an existing void via API
+- [Webhooks](https://docs.commercelayer.io/core-api-reference/webhooks.md): The webhook object and the allowed CRUD operations on the related resource endpoint
+- [The webhook object](https://docs.commercelayer.io/core-api-reference/webhooks/object.md): A comprehensive list of the webhook resource's attributes and relationships
+- [Create a webhook](https://docs.commercelayer.io/core-api-reference/webhooks/create.md): How to create a webhook via API
+- [List all webhooks](https://docs.commercelayer.io/core-api-reference/webhooks/list.md): How to fetch a collection of webhooks via API
+- [Retrieve a webhook](https://docs.commercelayer.io/core-api-reference/webhooks/retrieve.md): How to fetch a specific webhook via API
+- [Update a webhook](https://docs.commercelayer.io/core-api-reference/webhooks/update.md): How to update an existing webhook via API
+- [Delete a webhook](https://docs.commercelayer.io/core-api-reference/webhooks/delete.md): How to delete an existing webhook via API
+- [Wire transfers](https://docs.commercelayer.io/core-api-reference/wire_transfers.md): The wire transfer object and the allowed CRUD operations on the related resource endpoint
+- [The wire transfer object](https://docs.commercelayer.io/core-api-reference/wire_transfers/object.md): A comprehensive list of the wire transfer resource's attributes and relationships
+- [Create a wire transfer](https://docs.commercelayer.io/core-api-reference/wire_transfers/create.md): How to create a wire transfer via API
+- [List all wire transfers](https://docs.commercelayer.io/core-api-reference/wire_transfers/list.md): How to fetch a collection of wire transfers via API
+- [Retrieve a wire transfer](https://docs.commercelayer.io/core-api-reference/wire_transfers/retrieve.md): How to fetch a specific wire transfer via API
+- [Update a wire transfer](https://docs.commercelayer.io/core-api-reference/wire_transfers/update.md): How to update an existing wire transfer via API
+- [Delete a wire transfer](https://docs.commercelayer.io/core-api-reference/wire_transfers/delete.md): How to delete an existing wire transfer via API
+
+## Rules Engine
+
+- [Getting started](https://docs.commercelayer.io/rules-engine/readme.md): An overview of the Domain-Specific Language (DSL) used for defining rules and their respective conditions and actions within the Commerce Layer Rules Engine
+- [Rules](https://docs.commercelayer.io/rules-engine/rules.md): How rules are structured and what are the required and optional parameters to define a rule
+- [Conditions](https://docs.commercelayer.io/rules-engine/conditions.md): How to set a rule's conditions and what are the required and optional parameters to set
+- [Scope](https://docs.commercelayer.io/rules-engine/conditions/scope.md): How to change a condition's scope
+- [Aggregations](https://docs.commercelayer.io/rules-engine/conditions/aggregations.md): How to aggregate a condition's matches
+- [Nested](https://docs.commercelayer.io/rules-engine/conditions/nested.md): How to nest conditions into one another
+- [Dynamic values](https://docs.commercelayer.io/rules-engine/conditions/dynamic-values.md): How to leverage dynamic values for a rule's conditions.
+- [Actions](https://docs.commercelayer.io/rules-engine/actions.md): How to set a rule's actions and what are the required and optional parameters to set
+- [Types](https://docs.commercelayer.io/rules-engine/actions/types.md): All the types of actions currently available on the Rules Engine
+- [Percentage](https://docs.commercelayer.io/rules-engine/actions/types/percentage.md): How the percentage discount action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Fixed amount](https://docs.commercelayer.io/rules-engine/actions/types/fixed-amount.md): How the fixed amount discount action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Fixed price](https://docs.commercelayer.io/rules-engine/actions/types/fixed-price.md): How the fixed price action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Free gift](https://docs.commercelayer.io/rules-engine/actions/types/free-gift.md): How the free gift action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Buy X pay Y](https://docs.commercelayer.io/rules-engine/actions/types/buy-x-pay-y.md): How the buy X pay Y action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Every X discount Y](https://docs.commercelayer.io/rules-engine/actions/types/every-x-discount-y.md): How the every X discount Y action works, what are the required and optional parameters to set it up, and the resources for which it's enabled
+- [Bundle](https://docs.commercelayer.io/rules-engine/actions/bundle.md): The available options to target bundles of items from a set of groups
+- [Balanced](https://docs.commercelayer.io/rules-engine/actions/bundle/balanced.md): How balanced bundles work
+- [Every](https://docs.commercelayer.io/rules-engine/actions/bundle/every.md): How bundles based on quantity multiples work
+- [Aggregation](https://docs.commercelayer.io/rules-engine/actions/aggregation.md): How to aggregate the targets of an action
+- [Limit](https://docs.commercelayer.io/rules-engine/actions/limit.md): How to limit the number of targets of an action
+- [Matchers](https://docs.commercelayer.io/rules-engine/matchers.md): The list of available condition's matchers based on field and value types
+- [Operators](https://docs.commercelayer.io/rules-engine/operators.md): The list of available aggregation's operators based on the field type
+- [Check and validation](https://docs.commercelayer.io/rules-engine/check-and-validation.md): How to use the public endpoint to check and validate a rule against a specific payload
+- [Order rules](https://docs.commercelayer.io/rules-engine/core-api-integration/order-rules.md): How the Rules Engine integration with Commerce Layer Core API promotions resource works behind the scenes
+- [Price rules](https://docs.commercelayer.io/rules-engine/core-api-integration/price-rules.md): How the Rules Engine integration with Commerce Layer Core API price lists resource works behind the scenes
+- [Virtual relationships](https://docs.commercelayer.io/rules-engine/core-api-integration/virtual-relationships.md): How to leverage the JSON Web Token info to create rules
+- [Promotions](https://docs.commercelayer.io/rules-engine/resources/promotions.md): How to set up promotions with the Rules Engine using order rules
+- [Price lists](https://docs.commercelayer.io/rules-engine/resources/price-lists.md): How to use the Rules Engine in conjunction with price lists and set up price rules
+- [Promotions](https://docs.commercelayer.io/rules-engine/use-cases/promotions.md): A list of the most common application scenarios of Commerce Layer Rules Engine to the flex promotion resource
+- [Discount line items based on item's price](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-fixed-amount-off-price-gteq.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Get a discount when paying by credit card](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-percentage-discount-credit-card.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Discount an order based on promo item and total number of items](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-percentage-discount-promo-item-number-of-items-gteq.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Offer a specific shipping method for free in a specific country](https://docs.commercelayer.io/rules-engine/use-cases/promotions/free-shipping-method-by-country.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Discount items with large stock availability](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-percentage-discount-quantity-gteq.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Discount all the SKU in an order based on the shipping country](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-percentage-discount-by-shipping-country.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Discount all the SKU in an order based on the customer email domain](https://docs.commercelayer.io/rules-engine/use-cases/promotions/get-percentage-discount-by-email.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Price lists](https://docs.commercelayer.io/rules-engine/use-cases/price-lists.md): A list of the most common application scenarios of Commerce Layer Rules Engine to the price list resource
+- [Discount all prices greater than or equal to a specific value](https://docs.commercelayer.io/rules-engine/use-cases/price-lists/discount-prices-gteq.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Discount specific SKUs for new clients](https://docs.commercelayer.io/rules-engine/use-cases/price-lists/discount-specific-skus-for-new-clients.md): Rule breakdown, resource payload analysis, and outcomes explanation
+- [Change strike-through price based on customer email domain](https://docs.commercelayer.io/rules-engine/use-cases/price-lists/update-compare-at-price-by-email.md): Rule breakdown, resource payload analysis, and outcomes explanation
+
+## How-tos
+
+- [Introduction](https://docs.commercelayer.io/how-tos/readme.md): How-tos, tutorials and everything you need to build with Commerce Layer
+- [Product listing page](https://docs.commercelayer.io/how-tos/product-discovery/product-listing-page.md): How to display prices for a list of products
+- [Product page](https://docs.commercelayer.io/how-tos/product-discovery/product-page.md): How to display price and availability on a product page
+- [Shopping cart](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart.md): How to add a shopping cart to your website
+- [Creating a shopping cart](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart/create-a-shopping-cart.md): How to create a new shopping cart (draft order)
+- [Adding products to cart](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart/add-to-cart.md): How to add new items to your shopping cart
+- [Updating cart quantities](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart/update-quantity.md): How to update the quantity of an item in your shopping cart
+- [Removing products from cart](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart/remove-from-cart.md): How to remove an item from your shopping cart
+- [Displaying the cart summary](https://docs.commercelayer.io/how-tos/placing-orders/shopping-cart/displaying-the-cart-summary.md): How to show an order summary to your customers
+- [Checkout](https://docs.commercelayer.io/how-tos/placing-orders/checkout.md): How to checkout an order as guest or logged customer
+- [Adding the customer](https://docs.commercelayer.io/how-tos/placing-orders/checkout/adding-the-customer-email.md): How to add a customer to the order
+- [Adding a billing address](https://docs.commercelayer.io/how-tos/placing-orders/checkout/adding-a-billing-address.md): How to add a billing address to the order
+- [Adding a shipping address](https://docs.commercelayer.io/how-tos/placing-orders/checkout/adding-a-shipping-address.md): How to add a shipping address to the order
+- [Selecting a shipping method](https://docs.commercelayer.io/how-tos/placing-orders/checkout/selecting-a-shipping-method.md): How to select a shipping method for each of the order shipments
+- [Selecting a payment method](https://docs.commercelayer.io/how-tos/placing-orders/checkout/selecting-a-payment-method.md): How to select a payment method for the order
+- [Adding a payment source](https://docs.commercelayer.io/how-tos/placing-orders/checkout/adding-a-payment-source.md): How to add a payment source to the order
+- [Adding a gift card or coupon](https://docs.commercelayer.io/how-tos/placing-orders/checkout/adding-a-gift-card-or-coupon.md): How to redeem a gift card or coupon by entering a code
+- [Placing the order](https://docs.commercelayer.io/how-tos/placing-orders/checkout/placing-the-order.md): How to authorize the payment and place the order
+- [Subscriptions](https://docs.commercelayer.io/how-tos/placing-orders/subscriptions.md): How to generate scheduled recurring orders from a source order
+- [Configuring a subscription model](https://docs.commercelayer.io/how-tos/placing-orders/subscriptions/configuring-a-subscription-model.md): How to create a subscription model to set the available subscription frequencies and the subscription strategy for a market
+- [Selecting the source order](https://docs.commercelayer.io/how-tos/placing-orders/subscriptions/selecting-the-source-order.md): How to set the subscription first run and add the line items from which to generate the subscriptions
+- [Generating the subscriptions](https://docs.commercelayer.io/how-tos/placing-orders/subscriptions/generating-the-subscriptions.md): How to trigger the subscription generation based on the source order and the subscription model configuration
+- [Updating the subscriptions](https://docs.commercelayer.io/how-tos/placing-orders/subscriptions/updating-the-subscriptions.md): How to customize the next subscription occurrences
+- [Payments](https://docs.commercelayer.io/how-tos/placing-orders/payments.md): How to pay for an order using one of the supported payment gateways
+- [Adyen](https://docs.commercelayer.io/how-tos/placing-orders/payments/adyen.md): How to pay for an order using Adyen payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/adyen/adding-the-payment-source.md): How to add an Adyen payment source to an order
+- [Sending back the payment details](https://docs.commercelayer.io/how-tos/placing-orders/payments/adyen/sending-back-the-payment-details.md): How to submit a payment request to Adyen
+- [Configuring the notification webhooks](https://docs.commercelayer.io/how-tos/placing-orders/payments/adyen/configuring-the-notification-webhooks.md): How to set up Adyen's notification system
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/adyen/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [Axerve](https://docs.commercelayer.io/how-tos/placing-orders/payments/axerve.md): How to pay for an order using Axerve payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/axerve/adding-the-payment-source.md): How to add a Axerve payment source to an order
+- [Updating the payment intent](https://docs.commercelayer.io/how-tos/placing-orders/payments/axerve/updating-the-payment-intent.md): How to update the Axerve payment intent amount
+- [Braintree](https://docs.commercelayer.io/how-tos/placing-orders/payments/braintree.md): How to pay for an order using Braintree payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/braintree/adding-the-payment-source.md): How to add a Braintree payment source to an order
+- [Sending back the payment method nonce](https://docs.commercelayer.io/how-tos/placing-orders/payments/braintree/sending-back-the-payment-method-nonce.md): How to send the payment method nonce you receive from Braintree back to Commerce Layer
+- [Accepting local payments](https://docs.commercelayer.io/how-tos/placing-orders/payments/braintree/accepting-local-payments.md): How to support Braintree local payments
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/braintree/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [Checkout.com](https://docs.commercelayer.io/how-tos/placing-orders/payments/checkout.com.md): How to pay for an order using Checkout.com payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/checkout.com/adding-the-payment-source.md): How to add a Checkout.com payment source to an order
+- [Getting the payment details](https://docs.commercelayer.io/how-tos/placing-orders/payments/checkout.com/getting-the-payment-details.md): How to collect payment details from Checkout.com
+- [Refreshing pending transactions](https://docs.commercelayer.io/how-tos/placing-orders/payments/checkout.com/refreshing-pending-transactions.md): How to refresh the status of pending transactions
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/checkout.com/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [Klarna](https://docs.commercelayer.io/how-tos/placing-orders/payments/klarna.md): How to pay for an order using Klarna payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/klarna/adding-the-payment-source.md): How to add a Klarna payment source to an order
+- [Sending back the authorization token](https://docs.commercelayer.io/how-tos/placing-orders/payments/klarna/sending-back-the-authorization-token.md): How to submit a payment request to Klarna
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/klarna/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [PayPal](https://docs.commercelayer.io/how-tos/placing-orders/payments/paypal.md): How to pay for an order using PayPal payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/paypal/adding-the-payment-source.md): How to add a PayPal payment source to an order
+- [Preparing the payment for execution](https://docs.commercelayer.io/how-tos/placing-orders/payments/paypal/preparing-the-payment-for-execution.md): How to make a payment ready to be executed on Paypal
+- [Stripe](https://docs.commercelayer.io/how-tos/placing-orders/payments/stripe.md): How to pay for an order using Stripe payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/stripe/adding-the-payment-source.md): How to add a Stripe payment source to an order
+- [Refreshing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/stripe/refreshing-the-payment-source.md): How to refresh the Stripe payment status
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/stripe/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [Manual payments](https://docs.commercelayer.io/how-tos/placing-orders/payments/manual-payments.md): How to pay for an order using a manual payment gateway
+- [Adding a wire transfer payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/manual-payments/adding-a-wire-transfer-payment-source.md): How to add an wire transfer payment source to an order
+- [External payments](https://docs.commercelayer.io/how-tos/placing-orders/payments/external-payments.md): How to pay for an order using an external payment gateway
+- [Adding the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/external-payments/adding-the-payment-source.md): How to add an external payment source to an order
+- [Reusing the payment source](https://docs.commercelayer.io/how-tos/placing-orders/payments/external-payments/reusing-the-payment-source.md): How to save the payment source into the customer wallet so that it can be reused
+- [Auto-capture](https://docs.commercelayer.io/how-tos/placing-orders/auto-capture.md): How to make sure your payments are automatically captured as soon as they are authorized
+- [Enabling the auto-capture](https://docs.commercelayer.io/how-tos/placing-orders/auto-capture/enabling-the-auto-capture.md): How to enable the auto-capture option for a selected payment method
+- [Limiting the auto-capture amount](https://docs.commercelayer.io/how-tos/placing-orders/auto-capture/limiting-the-auto-capture-amount.md): How to enable the auto-capture option only for orders under a certain amount
+- [Inventory strategies](https://docs.commercelayer.io/how-tos/inventory/strategies.md): How to manage the available options in terms of order fulfillment.
+- [No split](https://docs.commercelayer.io/how-tos/inventory/strategies/no-split.md): How the default inventory strategy works
+- [Split shipments](https://docs.commercelayer.io/how-tos/inventory/strategies/split-shipments.md): How to fulfill your orders shipping from the available stock locations
+- [Split by line items](https://docs.commercelayer.io/how-tos/inventory/strategies/split-by-line-items.md): How to fulfill your orders creating a separate shipment for each line item
+- [Ship from first available (or primary)](https://docs.commercelayer.io/how-tos/inventory/strategies/ship-from-first-available-or-primary.md): How to fulfill your orders shipping from the first stock location available
+- [Ship from primary](https://docs.commercelayer.io/how-tos/inventory/strategies/ship-from-primary.md): How to fulfill your orders shipping from the primary stock location
+- [Environments and initial setup](https://docs.commercelayer.io/how-tos/faq/environments-and-initial-setup.md): Frequently asked questions about Commerce Layer's environments, how to switch between them, and anything related to an organization's initial setup
+- [Authentication and access tokens](https://docs.commercelayer.io/how-tos/faq/authentication-and-access-tokens.md): Frequently asked questions and best practices about what types of tokens you need to request to authenticate to Commerce Layer API and how to manage them
+
+## Getting started
+
+- [Welcome to Metrics API](https://docs.commercelayer.io/metrics/welcome.md): Why a Metrics API by Commerce Layer and how to get started with it
+- [API specification](https://docs.commercelayer.io/metrics/getting-started/api-specification.md): Basic info about endpoints and access tokens, request types and headers, payload and response structure
+- [Queries](https://docs.commercelayer.io/metrics/getting-started/queries.md): All the available Commerce Layer Metrics API query types and the supported operators
+- [Breakdown](https://docs.commercelayer.io/metrics/getting-started/queries/breakdown.md): How to perform a breakdown query and how it works
+- [Date breakdown](https://docs.commercelayer.io/metrics/getting-started/queries/date-breakdown.md): How to perform a date breakdown query and how it works
+- [Stats](https://docs.commercelayer.io/metrics/getting-started/queries/stats.md): How to perform a stats query and how it works
+- [Search](https://docs.commercelayer.io/metrics/getting-started/queries/search.md): How to perform a search query and how it works
+- [Export](https://docs.commercelayer.io/metrics/getting-started/queries/export.md): How to perform an export query and how it works
+- [Filters](https://docs.commercelayer.io/metrics/getting-started/filters.md): How you can filter the query results by date or any other available field
+- [Analysis](https://docs.commercelayer.io/metrics/getting-started/analysis.md): All the available Commerce Layer Metrics API helper endpoints
+- [FBT](https://docs.commercelayer.io/metrics/getting-started/analysis/fbt.md): How to perform an FBT query and how it works
+- [Errors](https://docs.commercelayer.io/metrics/getting-started/errors.md): The complete list of response codes you can get, how the errors object is structured, and all the information about rate limits
+- [Use cases](https://docs.commercelayer.io/metrics/getting-started/use-cases.md): A list of the most common application scenarios of Commerce Layer Metrics API
+- [Orders by currency](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-currency.md): How to use the Metrics API to get the total number of orders of your organization, grouped by different currencies
+- [Orders by status and payment status](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-status-and-payment-status.md): How to use the Metrics API to get the total number of orders of your organization, grouped by their status and the related payment status
+- [Orders by repeat customer](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-repeat-customer.md): How to use the Metrics API to get the total number of orders of your organization, grouped by customers that bought from you more than once
+- [Orders by bundle](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-bundle.md): How to use the Metrics API to get the total number of orders containing a bundle, grouped by  the bundle name
+- [Orders by shipment status and shipping method name](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-shipment-status-and-shipping-method-name.md): How to use the Metrics API to get the total number of orders of your organization, grouped by the associated shipment status and the related shipping method name
+- [Orders paid with gift cards](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-paid-with-gift-cards.md): How to use the Metrics API to get the total number of orders that were paid using a gift card
+- [Orders associated with a specific promotion](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-associated-with-a-specific-promotion.md): How to use the Metrics API to get the total number of orders that triggered a specific promotion
+- [Number of products per order by country](https://docs.commercelayer.io/metrics/getting-started/use-cases/number-of-products-per-order-by-country.md): How to use the Metrics API to get mixed stats about the number of SKUs included in the orders of your organization, grouped by different countries
+- [Best-selling products by market](https://docs.commercelayer.io/metrics/getting-started/use-cases/best-selling-products-by-market.md): How to use the Metrics API to get the Top 5 best-selling products for each of your organization's market
+- [Customers that bought a specific product](https://docs.commercelayer.io/metrics/getting-started/use-cases/customers-that-bought-a-specific-product.md): How to use the Metrics API to get the total number of customers that bought a specific product or bundle
+- [Shipments average time in picking](https://docs.commercelayer.io/metrics/getting-started/use-cases/shipments-average-time-in-picking.md): How to use the Metrics API to get the average time your shipments stay in picking status before being packed
+- [Top 10 spenders by currency](https://docs.commercelayer.io/metrics/getting-started/use-cases/top-10-spenders-by-currency.md): How to use the Metrics API to get the Top 10 spenders among your customers and know how their total purchase amount is divided by currency.
+- [Orders by day](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-day.md): How to use the Metrics API to get the total number of orders of your organization, grouped by day
+- [Returns per year by destination city](https://docs.commercelayer.io/metrics/getting-started/use-cases/returns-per-year-by-destination-city.md): How to use the Metrics API to get the total number of returns requested for your orders, grouped by year and destination city
+- [Refunds by country and currency](https://docs.commercelayer.io/metrics/getting-started/use-cases/refunds-by-country-and-currency.md): How to use the Metrics API to get the total number of refunds of your organization, grouped by the different countries and currencies
+- [Latest carts with a specific product from a specific market](https://docs.commercelayer.io/metrics/getting-started/use-cases/last-carts-with-a-specific-product-from-a-specific-market.md): How to use the Metrics API to get the most recently created carts containing a specific SKU, from a specific market
+- [Orders by resource error code and message](https://docs.commercelayer.io/metrics/getting-started/use-cases/orders-by-resource-error-code-and-message.md): How to use the Metrics API to check the errors associated with the orders of your organization (if any) .
+- [Latest archived orders](https://docs.commercelayer.io/metrics/getting-started/use-cases/latest-archived-orders.md): How to use the Metrics API to get the most recently archived orders
+- [Latest placed orders from customers with specific email domains](https://docs.commercelayer.io/metrics/getting-started/use-cases/latest-placed-orders-from-customers-with-specific-email-domains.md): How to use the Metrics API to get the last placed orders containing specific email domains in the aggregated details
+- [Frequently bought together products](https://docs.commercelayer.io/metrics/getting-started/use-cases/frequently-bought-together-products.md): How to use the Metrics API to get the products that have been most frequently bought together with other ones
+
+## API reference
+
+- [Introduction](https://docs.commercelayer.io/metrics-api-reference/readme.md): A detailed list of all the resources on which you can do statistics using Commerce Layer Metrics API
+- [Orders](https://docs.commercelayer.io/metrics-api-reference/resources/orders.md): A comprehensive list of the order resource's fields and attributes
+- [Breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/orders/breakdown.md): A comprehensive list of the breakdown query keys, allowed fields values, and operators for the order resource
+- [Date breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/orders/date-breakdown.md): A comprehensive list of the date breakdown query keys, allowed fields values, and operators for the order resource
+- [Stats](https://docs.commercelayer.io/metrics-api-reference/resources/orders/stats.md): A comprehensive list of the stats query keys, allowed fields values, and operators for the order resource
+- [Search](https://docs.commercelayer.io/metrics-api-reference/resources/orders/search.md): A comprehensive list of the search query keys and allowed fields values for the order resource
+- [Export](https://docs.commercelayer.io/metrics-api-reference/resources/orders/export.md): A comprehensive list of the export query keys and allowed fields values for the order resource
+- [Filters](https://docs.commercelayer.io/metrics-api-reference/resources/orders/filters.md): A comprehensive list of the allowed fields values you can use to filter the results of the queries on the order resource
+- [Examples](https://docs.commercelayer.io/metrics-api-reference/resources/orders/examples.md): How to perform Metrics API queries on the order resource
+- [Returns](https://docs.commercelayer.io/metrics-api-reference/resources/returns.md): A comprehensive list of the return resource's fields and attributes
+- [Breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/returns/breakdown.md): A comprehensive list of the breakdown query keys, allowed fields values, and operators for the return resource
+- [Date breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/returns/date-breakdown.md): A comprehensive list of the date breakdown query keys, allowed fields values, and operators for the return resource
+- [Stats](https://docs.commercelayer.io/metrics-api-reference/resources/returns/stats.md): A comprehensive list of the stats query keys, allowed fields values, and operators for the return resource
+- [Search](https://docs.commercelayer.io/metrics-api-reference/resources/returns/search.md): A comprehensive list of the search query keys and allowed fields values for the return resource
+- [Export](https://docs.commercelayer.io/metrics-api-reference/resources/returns/export.md): A comprehensive list of the export query keys and allowed fields values for the return resource
+- [Filters](https://docs.commercelayer.io/metrics-api-reference/resources/returns/filters.md): A comprehensive list of the allowed fields values you can use to filter the results of the queries on the return resource
+- [Examples](https://docs.commercelayer.io/metrics-api-reference/resources/returns/examples.md): How to perform Metrics API queries on the return resource
+- [Carts](https://docs.commercelayer.io/metrics-api-reference/resources/carts.md): A comprehensive list of the cart resource's fields and attributes
+- [Breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/carts/breakdown.md): A comprehensive list of the breakdown query keys, allowed fields values, and operators for the cart resource
+- [Date breakdown](https://docs.commercelayer.io/metrics-api-reference/resources/carts/date-breakdown.md): A comprehensive list of the date breakdown query keys, allowed fields values, and operators for the cart resource
+- [Stats](https://docs.commercelayer.io/metrics-api-reference/resources/carts/stats.md): A comprehensive list of the stats query keys, allowed fields values, and operators for the cart resource
+- [Search](https://docs.commercelayer.io/metrics-api-reference/resources/carts/search.md): A comprehensive list of the search query keys and operators for the cart resource
+- [Export](https://docs.commercelayer.io/metrics-api-reference/resources/carts/export.md): A comprehensive list of the export query keys and allowed fields values for the cart resource
+- [Filters](https://docs.commercelayer.io/metrics-api-reference/resources/carts/filters.md): A comprehensive list of the allowed fields values you can use to filter the results of the queries on the cart resource
+- [Examples](https://docs.commercelayer.io/metrics-api-reference/resources/carts/examples.md): How to perform Metrics API queries on the cart resource
+- [Analysis](https://docs.commercelayer.io/metrics-api-reference/helpers/analysis.md): All the available analysis query types
+- [FBT](https://docs.commercelayer.io/metrics-api-reference/helpers/analysis/fbt.md): A comprehensive list of the FBT allowed filterable fields values and operators
+- [Examples](https://docs.commercelayer.io/metrics-api-reference/helpers/analysis/examples.md): How to perform Metrics API queries on the analysis endpoint
+
+## Provisioning API
+
+- [Welcome to Provisioning API](https://docs.commercelayer.io/provisioning/welcome.md): Why a Provisioning API by Commerce Layer and how to get started with it
+- [API specification](https://docs.commercelayer.io/provisioning/getting-started/api-specification.md): Basic info about the Provisioning API available operations, endpoints, headers, rate limits, and error handling
+- [Authorization](https://docs.commercelayer.io/provisioning/getting-started/authorization.md): How to authenticate to the Provisioning API
+- [Applications](https://docs.commercelayer.io/provisioning/getting-started/applications.md): Commerce Layer open-source back-office applications and their sets of permissions
+- [API credentials](https://docs.commercelayer.io/provisioning/api-reference/api_credentials.md): The API credential object and the allowed CRUD operations on the related resource endpoint
+- [The API credential object](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/object.md): A comprehensive list of the API credential resource's attributes and relationships
+- [Create an API credential](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/create.md): How to create an API credential via API
+- [List all API credentials](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/list.md): How to fetch a collection of API credentials via API
+- [Retrieve an API credential](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/retrieve.md): How to fetch a specific API credential via API
+- [Update an API credential](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/update.md): How to update an existing API credential via API
+- [Delete an API credential](https://docs.commercelayer.io/provisioning/api-reference/api_credentials/delete.md): How to delete an existing API credential via API
+- [Application memberships](https://docs.commercelayer.io/provisioning/api-reference/application_memberships.md): The application membership object and the allowed CRUD operations on the related resource endpoint
+- [The application membership object](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/object.md): A comprehensive list of the application membership resource's attributes and relationships
+- [Create an application membership](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/create.md): How to create an application membership via API
+- [List all application memberships](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/list.md): How to fetch a collection of application memberships via API
+- [Retrieve an application membership](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/retrieve.md): How to fetch a specific application membership via API
+- [Update an application membership](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/update.md): How to update an existing application membership via API
+- [Delete an application membership](https://docs.commercelayer.io/provisioning/api-reference/application_memberships/delete.md): How to delete an existing application membership via API
+- [Identity providers](https://docs.commercelayer.io/provisioning/api-reference/identity_providers.md): The identity provider object and the allowed CRUD operations on the related resource endpoint
+- [The identity provider object](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/object.md): A comprehensive list of the identity provider resource's attributes and relationships
+- [Create an identity provider](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/create.md): How to create an identity provider via API
+- [List all identity providers](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/list.md): How to fetch a collection of identity providers via API
+- [Retrieve an identity provider](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/retrieve.md): How to fetch a specific identity provider via API
+- [Update an identity provider](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/update.md): How to update an existing identity provider via API
+- [Delete an identity provider](https://docs.commercelayer.io/provisioning/api-reference/identity_providers/delete.md): How to delete an existing identity provider via API
+- [Memberships](https://docs.commercelayer.io/provisioning/api-reference/memberships.md): The membership object and the allowed CRUD operations on the related resource endpoint
+- [The membership object](https://docs.commercelayer.io/provisioning/api-reference/memberships/object.md): A comprehensive list of the membership resource's attributes and relationships
+- [Create a membership](https://docs.commercelayer.io/provisioning/api-reference/memberships/create.md): How to create a membership via API
+- [List all memberships](https://docs.commercelayer.io/provisioning/api-reference/memberships/list.md): How to fetch a collection of memberships via API
+- [Retrieve a membership](https://docs.commercelayer.io/provisioning/api-reference/memberships/retrieve.md): How to fetch a specific membership via API
+- [Update a membership](https://docs.commercelayer.io/provisioning/api-reference/memberships/update.md): How to update an existing membership via API
+- [Delete a membership](https://docs.commercelayer.io/provisioning/api-reference/memberships/delete.md): How to delete an existing membership via API
+- [Membership profiles](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles.md): The membership profile object and the allowed CRUD operations on the related resource endpoint
+- [The membership profile object](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/object.md): A comprehensive list of the membership profile resource's attributes and relationships
+- [Create a membership profile](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/create.md): How to create a membership profile via API
+- [List all membership profiles](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/list.md): How to fetch a collection of membership profiles via API
+- [Retrieve a membership profile](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/retrieve.md): How to fetch a specific membership profile via API
+- [Update a membership profile](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/update.md): How to update an existing membership profile via API
+- [Delete a membership profile](https://docs.commercelayer.io/provisioning/api-reference/membership_profiles/delete.md): How to delete an existing membership profile via API
+- [Organizations](https://docs.commercelayer.io/provisioning/api-reference/organizations.md): The organization object and the allowed CRUD operations on the related resource endpoint
+- [The organization object](https://docs.commercelayer.io/provisioning/api-reference/organizations/object.md): A comprehensive list of the organization resource's attributes and relationships
+- [Create an organization](https://docs.commercelayer.io/provisioning/api-reference/organizations/create.md): How to create an organization via API
+- [List all organizations](https://docs.commercelayer.io/provisioning/api-reference/organizations/list.md): How to fetch a collection of organizations via API
+- [Retrieve an organization](https://docs.commercelayer.io/provisioning/api-reference/organizations/retrieve.md): How to fetch a specific organization via API
+- [Update an organization](https://docs.commercelayer.io/provisioning/api-reference/organizations/update.md): How to update an existing organization via API
+- [Permissions](https://docs.commercelayer.io/provisioning/api-reference/permissions.md): The permission object and the allowed CRUD operations on the related resource endpoint
+- [The permission object](https://docs.commercelayer.io/provisioning/api-reference/permissions/object.md): A comprehensive list of the permission resource's attributes and relationships
+- [Create a permission](https://docs.commercelayer.io/provisioning/api-reference/permissions/create.md): How to create a permission via API
+- [List all permissions](https://docs.commercelayer.io/provisioning/api-reference/permissions/list.md): How to fetch a collection of permissions via API
+- [Retrieve a permission](https://docs.commercelayer.io/provisioning/api-reference/permissions/retrieve.md): How to fetch a specific permission via API
+- [Update a permission](https://docs.commercelayer.io/provisioning/api-reference/permissions/update.md): How to update an existing permission via API
+- [Roles](https://docs.commercelayer.io/provisioning/api-reference/roles.md): The role object and the allowed CRUD operations on the related resource endpoint
+- [The role object](https://docs.commercelayer.io/provisioning/api-reference/roles/object.md): A comprehensive list of the role resource's attributes and relationships
+- [Create a role](https://docs.commercelayer.io/provisioning/api-reference/roles/create.md): How to create a role via API
+- [List all roles](https://docs.commercelayer.io/provisioning/api-reference/roles/list.md): How to fetch a collection of roles via API
+- [Retrieve a role](https://docs.commercelayer.io/provisioning/api-reference/roles/retrieve.md): How to fetch a specific role via API
+- [Update a role](https://docs.commercelayer.io/provisioning/api-reference/roles/update.md): How to update an existing role via API
+- [User](https://docs.commercelayer.io/provisioning/api-reference/user.md): The user object and the allowed CRUD operations on the related resource endpoint
+- [The user object](https://docs.commercelayer.io/provisioning/api-reference/user/object.md): A comprehensive list of the user resource's attributes and relationships
+- [Retrieve the user](https://docs.commercelayer.io/provisioning/api-reference/user/retrieve.md): How to fetch the user via API
+- [Update the user](https://docs.commercelayer.io/provisioning/api-reference/user/update.md): How to update an existing user via API
+- [Versions](https://docs.commercelayer.io/provisioning/api-reference/versions.md): The version object and the allowed CRUD operations on the related resource endpoint
+- [The version object](https://docs.commercelayer.io/provisioning/api-reference/versions/object.md): A comprehensive list of the version resource's attributes and relationships
+- [List all versions](https://docs.commercelayer.io/provisioning/api-reference/versions/list.md): How to fetch a collection of versions via API
+- [Retrieve a version](https://docs.commercelayer.io/provisioning/api-reference/versions/retrieve.md): How to fetch a specific version via API
+
+## Changelog
+
+- [2026](https://docs.commercelayer.io/changelog/readme.md): Commerce Layer changelog for software updates, new features, and general improvements.
+- [2025](https://docs.commercelayer.io/changelog/2025.md): Commerce Layer changelog for software updates, new features, and general improvements.
+- [2024](https://docs.commercelayer.io/changelog/2024.md): Commerce Layer changelog for software updates, new features, and general improvements.
+- [2023](https://docs.commercelayer.io/changelog/2023.md): Commerce Layer changelog for software updates, new features, and general improvements.
+- [2022](https://docs.commercelayer.io/changelog/2022.md): Yearly archive of past Commerce Layer changelog entries.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.commercelayer.io/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

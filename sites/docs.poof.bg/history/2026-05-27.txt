@@ -1,0 +1,33 @@
+# Poof
+
+## Docs
+
+- [Get Account Info](https://docs.poof.bg/api-reference/account.md): Retrieve account details and credit usage
+- [Remove Background](https://docs.poof.bg/api-reference/remove-background.md): Remove the background from an image
+- [Authentication Error](https://docs.poof.bg/errors/authentication-error.md): Invalid or missing API key
+- [Image Too Large](https://docs.poof.bg/errors/image-too-large.md): Image exceeds size limit
+- [Internal Server Error](https://docs.poof.bg/errors/internal-server-error.md): Server error
+- [API Error Codes](https://docs.poof.bg/errors/list.md): Complete reference of Poof API error codes
+- [Missing Image](https://docs.poof.bg/errors/missing-image.md): No image file in request
+- [Payment Required](https://docs.poof.bg/errors/payment-required.md): Insufficient credits or plan upgrade needed
+- [Permission Denied](https://docs.poof.bg/errors/permission-denied.md): Access to this resource is forbidden
+- [Rate Limit Exceeded](https://docs.poof.bg/errors/rate-limit-exceeded.md): Too many requests
+- [Upstream Error](https://docs.poof.bg/errors/upstream-error.md): Processing service failed
+- [Validation Error](https://docs.poof.bg/errors/validation-error.md): Invalid request parameters
+- [Make](https://docs.poof.bg/integrations/make.md): Build powerful visual automation workflows with Poof and Make
+- [MCP](https://docs.poof.bg/integrations/mcp.md): Model Context Protocol server for AI-powered background removal
+- [n8n](https://docs.poof.bg/integrations/n8n.md): Integrate Poof with n8n for powerful open-source workflow automation
+- [Overview](https://docs.poof.bg/integrations/overview.md): Poof SDKs and integrations help you easily remove backgrounds using your preferred tools.
+- [Python SDK](https://docs.poof.bg/integrations/python.md): Official Python client for the Poof API
+- [TypeScript SDK](https://docs.poof.bg/integrations/typescript.md): Official TypeScript/JavaScript client for the Poof API
+- [Zapier](https://docs.poof.bg/integrations/zapier.md): Connect Poof with thousands of apps using Zapier's automated workflows
+- [Introduction](https://docs.poof.bg/introduction.md): The developer-first standard for background removal. Precise, fast, and scalable.
+- [Quickstart](https://docs.poof.bg/quickstart.md): Remove your first background in under 2 minutes
+
+## OpenAPI Specs
+
+- [openapi](https://docs.poof.bg/openapi.json)
+
+## Optional
+
+- [GitHub](https://github.com/poof-bg)

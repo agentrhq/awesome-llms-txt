@@ -1,0 +1,169 @@
+# Bito Docs
+
+## BITO
+
+- [Welcome to Bito](https://docs.bito.ai/welcome-to-bito.md)
+- [Quickstart](https://docs.bito.ai/quickstart.md)
+- [Privacy and security](https://docs.bito.ai/privacy-and-security.md): Bito doesn't read or store your code. Nor do we use your code for AI model training.
+- [Overview](https://docs.bito.ai/ai-architect/overview.md): The context layer for your entire software development lifecycle, from planning in Jira to generating code in your IDE to codebase-aware reviews in Git.
+- [Key features](https://docs.bito.ai/ai-architect/key-features.md)
+- [Installation](https://docs.bito.ai/ai-architect/installation.md)
+- [Install AI Architect (Bito-hosted)](https://docs.bito.ai/ai-architect/installation/install-ai-architect-bito-hosted.md): Deploy AI Architect on Bito's managed infrastructure for instant setup and effortless maintenance.
+- [Install AI Architect (self-hosted)](https://docs.bito.ai/ai-architect/installation/install-ai-architect-self-hosted.md): Deploy AI Architect in your own infrastructure for complete data control and enhanced security
+- [Standalone mode (for individuals)](https://docs.bito.ai/ai-architect/installation/install-ai-architect-self-hosted/standalone-mode-for-individuals.md): Set up AI Architect on your local machine (e.g. Laptop) for quick evaluation
+- [Available commands](https://docs.bito.ai/ai-architect/installation/install-ai-architect-self-hosted/available-commands.md): CLI commands for installing, operating, and maintaining Bito's AI Architect.
+- [Quick MCP integration with AI coding agents](https://docs.bito.ai/ai-architect/quick-mcp-integration-with-ai-coding-agents.md): Connect Bito's AI Architect to your AI coding tools (Cursor, Claude Code, Windsurf, etc.) in seconds with our automated installer
+- [Bito's AI Architect plugin for Claude Code](https://docs.bito.ai/ai-architect/quick-mcp-integration-with-ai-coding-agents/bitos-ai-architect-plugin-for-claude-code.md)
+- [Integrating AI Architect with your tools](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools.md)
+- [Integrating with Jira](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-jira.md): Connect Bito's AI Architect with Jira for feasibility analysis, technical design, and cross-repo impact assessment.
+- [Integrating with Linear](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-linear.md): Connect Bito's AI Architect with Linear for feasibility analysis, technical design, and cross-repo impact assessment.
+- [Integrating with Slack](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-slack.md): Get context-aware AI assistance in your team's Slack conversations
+- [Integrating with chat agents](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-chat-agents.md)
+- [Guide for Claude.ai (Web)](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-chat-agents/guide-for-claude.ai-web.md): Integrate Claude.ai with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for Claude Desktop](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-chat-agents/guide-for-claude-desktop.md): Integrate Claude Desktop with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for ChatGPT (Web & Desktop)](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-chat-agents/guide-for-chatgpt-web-and-desktop.md): Integrate ChatGPT with AI Architect for more accurate, codebase-aware AI assistance.
+- [Integrating with Bito's AI Code Review Agent](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/integrating-with-bitos-ai-code-review-agent.md): Leverage AI Architect's knowledge graph to power more intelligent code reviews
+- [Manual MCP integration with AI coding agents](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents.md)
+- [Guide for Claude Code](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-claude-code.md): Integrate Claude Code with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for Cursor](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-cursor.md): Integrate Cursor with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for Windsurf](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-windsurf.md): Integrate Windsurf with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for GitHub Copilot (VS Code)](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-github-copilot-vs-code.md): Integrate GitHub Copilot in VS Code with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for Junie (JetBrains)](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-junie-jetbrains.md): Integrate Junie (JetBrains) with AI Architect for more accurate, codebase-aware AI assistance.
+- [Guide for JetBrains AI Assistant](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/manual-mcp-integration-with-ai-coding-agents/guide-for-jetbrains-ai-assistant.md): Integrate JetBrains AI Assistant with AI Architect for more accurate, codebase-aware AI assistance.
+- [AI Code Review Agent (with AI Architect vs without AI Architect)](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/ai-code-review-agent-with-ai-architect-vs-without-ai-architect.md): From single-repo reviews to system-wide insights
+- [Available MCP tools](https://docs.bito.ai/ai-architect/integrating-ai-architect-with-your-tools/available-mcp-tools.md): Access deep repository intelligence and codebase insights through AI Architect's MCP server
+- [Knowledge graph](https://docs.bito.ai/ai-architect/knowledge-graph.md): The context engine behind Bito's AI Architect
+- [Custom instructions](https://docs.bito.ai/ai-architect/custom-instructions.md)
+- [Agent skills](https://docs.bito.ai/ai-architect/agent-skills.md)
+- [Single Sign-On (SSO) integration](https://docs.bito.ai/ai-architect/single-sign-on-sso-integration.md)
+- [MCP Analytics](https://docs.bito.ai/ai-architect/mcp-analytics.md)
+- [Privacy and security in AI Architect](https://docs.bito.ai/ai-architect/privacy-and-security-in-ai-architect.md): Your code stays yours — understand how Bito protects your data
+- [Local repository intelligence for AI assistants](https://docs.bito.ai/ai-architect/local-repository-intelligence-for-ai-assistants.md)
+- [Available commands](https://docs.bito.ai/ai-architect/local-repository-intelligence-for-ai-assistants/available-commands.md)
+- [Overview](https://docs.bito.ai/ai-code-reviews-in-git/overview.md): On-demand, context-aware AI code reviews for GitHub, GitLab, and Bitbucket.
+- [Key features](https://docs.bito.ai/ai-code-reviews-in-git/key-features.md): Explore the powerful capabilities of the AI Code Review Agent.
+- [Supported programming languages and tools](https://docs.bito.ai/ai-code-reviews-in-git/supported-programming-languages-and-tools.md): Supports key languages & tools, including fbInfer, Dependency Check, and Snyk.
+- [Try AI code reviews using Test Mode](https://docs.bito.ai/ai-code-reviews-in-git/try-ai-code-reviews-using-test-mode.md): Experience AI-powered code analysis on any pull request — no admin access needed.
+- [Getting started](https://docs.bito.ai/ai-code-reviews-in-git/getting-started.md): Deploy the AI Code Review Agent in Bito Cloud or opt for self-hosted service.
+- [Install/run using Bito Cloud](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud.md): Deploy the AI Code Review Agent in Bito Cloud.
+- [Guide for GitHub](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-github.md): Integrate the AI Code Review Agent into your GitHub workflow.
+- [Guide for GitHub (Self-Managed)](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-github-self-managed.md): Integrate the AI Code Review Agent into your self-hosted GitHub Enterprise workflow.
+- [Guide for GitLab](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-gitlab.md): Integrate the AI Code Review Agent into your GitLab workflow.
+- [Guide for GitLab (Self-Managed)](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-gitlab-self-managed.md): Integrate the AI Code Review Agent into your self-hosted GitLab workflow.
+- [Guide for Bitbucket](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-bitbucket.md): Integrate the AI Code Review Agent into your Bitbucket workflow.
+- [Guide for Bitbucket (Self-Managed)](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/guide-for-bitbucket-self-managed.md): Integrate the AI Code Review Agent into your self-hosted Bitbucket workflow.
+- [Integrate the AI Code Review Agent into the CI/CD pipeline](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/integrate-the-ai-code-review-agent-into-the-ci-cd-pipeline.md): Automate code reviews in your Continuous Integration/Continuous Deployment (CI/CD) pipeline—compatible with all CI/CD tools, including Jenkins, Argo CD, GitLab CI/CD, and more.
+- [Create or customize an Agent instance](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/create-or-customize-an-agent-instance.md): Customize the AI Code Review Agent to match your workflow needs.
+- [Clone an Agent instance](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/clone-an-agent-instance.md): Easily duplicate Agent configurations for faster setup.
+- [Delete unused Agent instances](https://docs.bito.ai/ai-code-reviews-in-git/install-run-using-bito-cloud/delete-unused-agent-instances.md): Easily delete Agent instances you no longer need.
+- [Install/run as a self-hosted service](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service.md): Deploy the AI Code Review Agent on your machine.
+- [Prerequisites](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/prerequisites.md): Key requirements for self-hosting the AI Code Review Agent.
+- [CLI vs webhooks service](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/cli-vs-webhooks-service.md): From one-time reviews to continuous automated reviews.
+- [Install/run via CLI](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/install-run-via-cli.md): CLI mode is best suited for immediate, one-time code reviews.
+- [Install/run via webhooks service](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/install-run-via-webhooks-service.md): The webhooks service is best suited for continuous, automated reviews.
+- [Install/run via GitHub Actions](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/install-run-via-github-actions.md): Seamlessly integrate automated code reviews into your GitHub Actions workflows.
+- [Agent Configuration: bito-cra.properties File](https://docs.bito.ai/ai-code-reviews-in-git/install-run-as-a-self-hosted-service/agent-configuration-bito-cra.properties-file.md): Setting up your agent: understanding the bito-cra.properties file
+- [Available commands](https://docs.bito.ai/ai-code-reviews-in-git/available-commands.md): Invoke the AI Code Review Agent manually or within a workflow.
+- [Chat with AI Code Review Agent](https://docs.bito.ai/ai-code-reviews-in-git/chat-with-ai-code-review-agent.md): Ask questions about highlighted issues, request alternative solutions, or seek clarifications on suggested fixes.
+- [Implementing custom code review rules](https://docs.bito.ai/ai-code-reviews-in-git/implementing-custom-code-review-rules.md): Customize Bito’s AI Code Review Agent to enforce your coding practices.
+- [Excluding files, folders, or branches with filters](https://docs.bito.ai/ai-code-reviews-in-git/excluding-files-folders-or-branches-with-filters.md): Customize which files, folders, and Git branches are reviewed when the Agent triggers automatically on pull requests.
+- [Code review analytics](https://docs.bito.ai/ai-code-reviews-in-git/code-review-analytics.md): Get in-depth insights into your code review process.
+- [Request changes comments](https://docs.bito.ai/ai-code-reviews-in-git/request-changes-comments.md): Block merges until code issues are fixed.
+- [Jira integration](https://docs.bito.ai/ai-code-reviews-in-git/jira-integration.md): Bring Jira issue requirements into every pull request and get validation results back automatically.
+- [Confluence integration](https://docs.bito.ai/ai-code-reviews-in-git/confluence-integration.md): Make sure every code change follows the requirements and guidance recorded in your Confluence pages.
+- [Interaction diagram](https://docs.bito.ai/ai-code-reviews-in-git/interaction-diagram.md): Visualize code changes and their impact with automated sequence diagrams.
+- [Agent settings](https://docs.bito.ai/ai-code-reviews-in-git/agent-settings.md): Learn how to customize the AI Code Review Agent.
+- [Repo level settings](https://docs.bito.ai/ai-code-reviews-in-git/agent-settings/repo-level-settings.md): Configure repository-specific Code Review Agent settings using the .bito.yaml file.
+- [FAQs](https://docs.bito.ai/ai-code-reviews-in-git/faqs.md): Answers to popular questions about the AI Code Review Agent.
+- [Overview](https://docs.bito.ai/ai-code-reviews-in-ide/overview.md): Get instant feedback on your code changes directly within your code editor.
+- [Installation guide](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide.md)
+- [Installing on Visual Studio Code](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide/installing-on-visual-studio-code.md): It takes less than 2 minutes
+- [Installing on JetBrain IDEs](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide/installing-on-jetbrain-ides.md): It takes less than 2 minutes
+- [Installing on Cursor](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide/installing-on-cursor.md): It takes less than 2 minutes
+- [Installing on Windsurf](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide/installing-on-windsurf.md): It takes less than 2 minutes
+- [Vim/Neovim Plugin](https://docs.bito.ai/ai-code-reviews-in-ide/installation-guide/vim-neovim-plugin.md): Vim/ Neovim Plugin for Bito Using Bito CLI
+- [Upgrading Bito plugin](https://docs.bito.ai/ai-code-reviews-in-ide/upgrading-bito-plugin.md): How to Update Bito Plugin on VS Code and JetBrains IDEs
+- [Start free trial](https://docs.bito.ai/ai-code-reviews-in-ide/start-free-trial.md): Unlock premium Bito features with our 14-day free trial.
+- [AI Chat in Bito](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito.md)
+- [Keyboard shortcuts](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/keyboard-shortcuts.md)
+- [Chat session history](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/chat-session-history.md)
+- [Share chat session](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/share-chat-session.md): Let your friends see what you and Bito are creating together.
+- [Appearance settings](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/appearance-settings.md)
+- [Open Bito in a new tab or window](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/open-bito-in-a-new-tab-or-window.md): Learn how to customize Bito’s view by switching from a side panel to a new tab or a separate window.
+- [Use cases and examples](https://docs.bito.ai/ai-code-reviews-in-ide/ai-chat-in-bito/use-cases-and-examples.md): Supercharging development with AI
+- [Templates](https://docs.bito.ai/ai-code-reviews-in-ide/templates.md): Instantly improve code performance, security, and readability with AI suggestions.
+- [AI that Understands Your Code](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code.md): Work on your code with AI that knows your code!
+- [Overview](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/overview.md): AI that Understands Your Code
+- [How it Works?](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/how-it-works.md): Bito indexes your code locally using AI
+- [Available Keywords](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/available-keywords.md): Keywords to invoke AI that understands your code
+- [Example Questions](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/example-questions.md): What Types of Questions Can be Asked?
+- [How does Bito Understand My Code?](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/how-does-bito-understand-my-code.md): Sneak Peek into the Inner Workings of Bito
+- [Using in Visual Studio Code](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/using-in-visual-studio-code.md): AI that understands your codebase in VS Code
+- [Using in JetBrains IDEs](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/using-in-jetbrains-ides.md): AI that understands your codebase in JetBrains IDEs (e.g., PyCharm)
+- [Managing Index Size](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/managing-index-size.md): Exclude unnecessary files and folders from repo to index faster!
+- [FAQs](https://docs.bito.ai/ai-code-reviews-in-ide/ai-that-understands-your-code/faqs.md): Answers to Popular Questions
+- [Overview](https://docs.bito.ai/ai-code-reviews-in-cli/overview.md): AI Code Reviews in CLI
+- [Installation guide](https://docs.bito.ai/ai-code-reviews-in-cli/installation-guide.md)
+- [How to use?](https://docs.bito.ai/ai-code-reviews-in-cli/how-to-use.md)
+- [AI code reviews in AI coding agents](https://docs.bito.ai/ai-code-reviews-in-cli/ai-code-reviews-in-ai-coding-agents.md): Supercharge AI coding agents with automated code reviews
+- [Available commands](https://docs.bito.ai/ai-code-reviews-in-cli/available-commands.md)
+- [Troubleshooting](https://docs.bito.ai/ai-code-reviews-in-cli/troubleshooting.md): Solutions to common issues when using AI Code Reviews in CLI.
+- [Bito CLI](https://docs.bito.ai/other-bito-ai-tools/bito-cli.md): Command Line Interface (Powered by Bito AI Chat) to Automate Your Tasks
+- [Overview](https://docs.bito.ai/other-bito-ai-tools/bito-cli/overview.md): Bito CLI (Command Line Interface)
+- [Install or uninstall](https://docs.bito.ai/other-bito-ai-tools/bito-cli/install-or-uninstall.md): Learn how to setup Bito CLI on your device (Mac, Linux, and Windows)
+- [Configuration](https://docs.bito.ai/other-bito-ai-tools/bito-cli/configuration.md): Manage Bito CLI settings
+- [How to use?](https://docs.bito.ai/other-bito-ai-tools/bito-cli/how-to-use.md): Learn how to work with Bito CLI (including examples)
+- [Available commands](https://docs.bito.ai/other-bito-ai-tools/bito-cli/available-commands.md): Learn about all the powerful commands to use Bito CLI
+- [FAQs](https://docs.bito.ai/other-bito-ai-tools/bito-cli/faqs.md): Answers to popular questions
+- [Bito's AI stack](https://docs.bito.ai/help/bitos-ai-stack.md): Learn About AI Technologies & Concepts Powering Bito
+- [Embeddings](https://docs.bito.ai/help/bitos-ai-stack/embeddings.md)
+- [Vector databases](https://docs.bito.ai/help/bitos-ai-stack/vector-databases.md)
+- [Indexing](https://docs.bito.ai/help/bitos-ai-stack/indexing.md)
+- [Generative AI](https://docs.bito.ai/help/bitos-ai-stack/generative-ai.md)
+- [Large Language Models (LLM)](https://docs.bito.ai/help/bitos-ai-stack/large-language-models-llm.md)
+- [LLM tokens](https://docs.bito.ai/help/bitos-ai-stack/llm-tokens.md)
+- [LLM parameters](https://docs.bito.ai/help/bitos-ai-stack/llm-parameters.md)
+- [Retrieval Augmented Generation (RAG)](https://docs.bito.ai/help/bitos-ai-stack/retrieval-augmented-generation-rag.md)
+- [Prompts](https://docs.bito.ai/help/bitos-ai-stack/prompts.md)
+- [Prompt engineering](https://docs.bito.ai/help/bitos-ai-stack/prompt-engineering.md)
+- [Account and settings](https://docs.bito.ai/help/account-and-settings.md): Manage your Bito workspace, members and the personal settings
+- [Creating a Bito account](https://docs.bito.ai/help/account-and-settings/creating-a-bito-account.md): Try Advanced AI Coding Assistant for Free
+- [Workspace](https://docs.bito.ai/help/account-and-settings/workspace.md): Learn How to Create, Join, or Change Workspace
+- [Managing  workspace members](https://docs.bito.ai/help/account-and-settings/managing-workspace-members.md): Bring your team together
+- [Setting AI output language](https://docs.bito.ai/help/account-and-settings/setting-ai-output-language.md): Communicate in Your Preferred Language
+- [Managing user access levels](https://docs.bito.ai/help/account-and-settings/managing-user-access-levels.md): Understanding User Roles in Bito Workspaces
+- [Access key](https://docs.bito.ai/help/account-and-settings/access-key.md): An alternative to standard email and OTP authentication
+- [Billing and plans](https://docs.bito.ai/help/billing-and-plans.md): Learn About Subscription Plans, Payment Methods, and Refunds.
+- [Overview](https://docs.bito.ai/help/billing-and-plans/overview.md): Guide to Billing and Paid Plans
+- [Payment methods](https://docs.bito.ai/help/billing-and-plans/payment-methods.md): Learn How to Pay and Manage Your Payment Methods
+- [Managing workspace plan](https://docs.bito.ai/help/billing-and-plans/managing-workspace-plan.md): Upgrade or Downgrade Your Subscription Anytime!
+- [Pay for additional workspace members](https://docs.bito.ai/help/billing-and-plans/pay-for-additional-workspace-members.md): Learn How Payments Work When You Invite a Coworker to the Workspace
+- [Advanced AI requests usage](https://docs.bito.ai/help/billing-and-plans/advanced-ai-requests-usage.md): View and manage your workspace usage to avoid unexpected expenses.
+- [Billing history](https://docs.bito.ai/help/billing-and-plans/billing-history.md): Access Your Payment Records
+- [Billing details](https://docs.bito.ai/help/billing-and-plans/billing-details.md): Manage your billing address and tax (VAT, GST, etc) details.
+- [Security](https://docs.bito.ai/help/billing-and-plans/security.md): How Stripe Protects Your Sensitive Information
+- [Refund policy](https://docs.bito.ai/help/billing-and-plans/refund-policy.md): We Currently Do Not Give Refunds
+- [Discounts](https://docs.bito.ai/help/billing-and-plans/discounts.md): We Currently Do Not Offer Discounts
+- [Support and questions](https://docs.bito.ai/help/support-and-questions.md)
+- [Getting support](https://docs.bito.ai/help/support-and-questions/getting-support.md): Get help or engage with Bito community
+- [Troubleshooting](https://docs.bito.ai/help/support-and-questions/troubleshooting.md): Guides to fixing common known issues
+- [Changelog](https://docs.bito.ai/changelog.md): Building the best AI code review tool for developers
+- [Previous releases](https://docs.bito.ai/changelog/previous-releases.md): Building the best AI code review tool for developers
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.bito.ai/welcome-to-bito.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

@@ -1,0 +1,83 @@
+# Lugg: On-demand moving and delivery platform for furniture, appliances, and local moves
+
+Lugg is a technology company that provides on-demand moving and delivery services. Lugg connects customers with professional movers and drivers through its mobile app platform. Founded in 2014, Lugg operates in major metropolitan areas across the United States.
+
+Key terms: Local Moving, Apartment Moving, College Moving, Storage Moving, Office Moving, Furniture Delivery, Marketplace Delivery, Appliance Delivery, Junk Removal, Donation Pickup, Moving Labor, Same-Day Delivery, On-Demand Moving, Professional Movers, Moving Services, Moving App
+
+## Lugg Services
+
+- [Home Moving](https://lugg.com/home-movers): Professional moving services for homes and residential moves
+- [Apartment Moving](https://lugg.com/apartment-movers): Specialized moving services for apartment relocations
+- [College Moving](https://lugg.com/college-movers): Moving assistance for students and dorm rooms
+- [Storage Moving](https://lugg.com/storage-moves): Transportation services to and from storage facilities
+- [Office Moving](https://lugg.com/office-movers): Commercial moving services for businesses
+- [Furniture Delivery](https://lugg.com/furniture-delivery): Same-day delivery service for furniture purchases
+- [Facebook Marketplace Delivery](https://lugg.com/facebook-marketplace-delivery): Delivery service for Facebook Marketplace purchases
+- [Craigslist Delivery](https://lugg.com/craigslist-delivery): Delivery service for Craigslist purchases
+- [Appliance Delivery](https://lugg.com/appliance-delivery): Delivery and installation of appliances
+- [Junk Removal](https://lugg.com/junk-removal): Removal and disposal of unwanted items
+- [Donation Pickup](https://lugg.com/donation-pick-up): Service to help transport items to donation centers
+- [Labor Only](https://lugg.com/moving-labor-services): Moving labor assistance without transportation
+
+## Service Areas
+
+- [Alexandria, VA](https://lugg.com/cities/alexandria)
+- [Annapolis, MD](https://lugg.com/cities/annapolis-md)
+- [Atlanta, GA](https://lugg.com/cities/atlanta-ga)
+- [Austin, TX](https://lugg.com/cities/austin-tx)
+- [Baltimore, MD](https://lugg.com/cities/baltimore-md)
+- [Boston, MA](https://lugg.com/cities/boston-ma)
+- [Boulder, CO](https://lugg.com/cities/boulder-co)
+- [Chicago, IL](https://lugg.com/cities/chicago-il)
+- [Dallas, TX](https://lugg.com/cities/dallas-tx)
+- [Denver, CO](https://lugg.com/cities/denver-co)
+- [Fort Collins, CO](https://lugg.com/cities/fort-collins-co)
+- [Fort Lauderdale, FL](https://lugg.com/cities/fort-lauderdale-fl)
+- [Fort Worth, TX](https://lugg.com/cities/fort-worth-tx)
+- [Hartford, CT](https://lugg.com/cities/hartford-ct)
+- [Houston, TX](https://lugg.com/cities/houston-tx)
+- [Jersey City, NJ](https://lugg.com/cities/jersey-city-nj)
+- [Los Angeles, CA](https://lugg.com/cities/los-angeles-ca)
+- [Miami, FL](https://lugg.com/cities/miami-fl)
+- [Nashua, NH](https://lugg.com/cities/nashua-nh)
+- [New Haven, CT](https://lugg.com/cities/new-haven-ct)
+- [New York City, NY](https://lugg.com/cities/new-york-city-ny)
+- [Newark, NJ](https://lugg.com/cities/newark-nj)
+- [Olympia, WA](https://lugg.com/cities/olympia-wa)
+- [Orange County, CA](https://lugg.com/cities/orange-county-ca)
+- [Philadelphia, PA](https://lugg.com/cities/philadelphia-pa)
+- [Phoenix, AZ](https://lugg.com/cities/phoenix-az)
+- [Portland, OR](https://lugg.com/cities/portland-or)
+- [Providence, RI](https://lugg.com/cities/providence-ri)
+- [Sacramento, CA](https://lugg.com/cities/sacramento-ca)
+- [Salt Lake City, UT](https://lugg.com/cities/salt-lake-city-ut)
+- [San Diego, CA](https://lugg.com/cities/san-diego-ca)
+- [San Francisco, CA](https://lugg.com/cities/san-francisco-ca)
+- [San Jose, CA](https://lugg.com/cities/san-jose-ca)
+- [Santa Cruz, CA](https://lugg.com/cities/santa-cruz-ca)
+- [Santa Rosa, CA](https://lugg.com/cities/santa-rosa-ca)
+- [Seattle, WA](https://lugg.com/cities/seattle-wa)
+- [Tacoma, WA](https://lugg.com/cities/tacoma-wa)
+- [Trenton, NJ](https://lugg.com/cities/trenton-nj)
+- [Vancouver, WA](https://lugg.com/cities/vancouver-wa)
+- [Washington, DC](https://lugg.com/cities/washtington-dc)
+- [West Palm Beach, FL](https://lugg.com/cities/west-palm-beach-fl)
+- [Wilmington, DE](https://lugg.com/cities/wilmington-de)
+- [Worcester, MA](https://lugg.com/cities/worcester-ma)
+
+## Key Help Center Resources To Help You Move
+
+- [Help Center](https://lugg.com/help): Frequently asked questions about Lugg services
+- [How much does a Lugg cost?](https://lugg.com/help/pricing/how-much-does-a-lugg-cost): Lugg's pricing is calculated based on a base fee, plus per-mile charges and per-minute loading/unloading time, with no minimum labor requirements.
+- [Can Lugg help me move items within my home or from the street to my home?](https://lugg.com/help/booking/lugg-help-move-items-within-home-street-home): Lugg can help you move items within your home or from the street to your home.
+- [How do I tip or rate my Luggers?](https://lugg.com/help/after/how-do-i-tip-or-rate-my-luggers): You can tip and rate your crew after your move in the Lugg app or online.
+- [How do I make changes to my Lugg?](https://lugg.com/help/booking/how-do-i-make-changes-to-my-lugg): Lugg bookings can be modified through the mobile app (iOS and Android) at any time before crew dispatch by accessing My Luggs in your profile settings.
+
+## Legal Information
+
+- [Terms of Service](https://lugg.com/terms)
+- [Privacy Policy](https://lugg.com/privacy)
+
+## Contact Information
+
+- [Contact Us](https://lugg.com/contact)

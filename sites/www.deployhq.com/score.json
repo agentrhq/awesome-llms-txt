@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "domain": "www.deployhq.com",
+  "display_name": "Deployhq",
+  "category": "infra",
+  "verified_url": "https://www.deployhq.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:16Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 120267,
+  "last_modified": "Mon, 25 May 2026 07:12:54 GMT",
+  "freshness_age_days": 1,
+  "score": 78,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 20,
+      "reasons": [
+        "mostly_low_value_349_of_695"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 6,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 1,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 2,
+      "reasons": [
+        "oversized_117kb"
+      ],
+      "kb": 117.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "DeployHQ.com",
+    "h1_count": 1,
+    "blockquote": "All public pages on this site support content negotiation. Set the `Accept: text/markdown` header on any URL below to receive clean Markdown instead of HTML. Agent discovery files: [ai-plugin.json](https://www.deployhq.com/.well-known/ai-plugin.json), [agent.json](https://www.deployhq.com/.well-known/agent.json)",
+    "section_count": 28,
+    "subsection_count": 0,
+    "link_count": 695,
+    "value_link_count": 346,
+    "low_value_link_count": 349,
+    "raw_bytes": 120267
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

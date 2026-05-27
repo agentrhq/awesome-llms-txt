@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "legittai.com",
+  "display_name": "Legitt AI",
+  "category": "dev-tools",
+  "verified_url": "https://legittai.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:46Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 13712,
+  "last_modified": "Wed, 27 May 2026 04:29:34 GMT",
+  "freshness_age_days": 0,
+  "score": 65,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 15,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 13.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Legitt AI",
+    "h1_count": 1,
+    "blockquote": "Legitt AI is an AI-native Contract Lifecycle Management (CLM) platform that automates contract drafting, review, e-signature, obligations tracking, and risk analysis. Used by 5,000+ legal, sales, and procurement teams including PwC, Meta, Infosys, and Hitachi. SOC 2 Type II certified, ISO 27001 compliant, GDPR ready, and HIPAA compliant.",
+    "section_count": 12,
+    "subsection_count": 0,
+    "link_count": 74,
+    "value_link_count": 72,
+    "low_value_link_count": 2,
+    "raw_bytes": 13712
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,172 @@
+# Hero Banner Section
+![Fragments Studio Hero Banner Background](https://fragments-studio.com/assets/hero-banner-background-C4Kj_Fzq.svg)
+
+# L'agence de developpement Web, Mobile & IA
+
+## Chez Fragments Studio, nous developpons des solutions numeriques sur mesure pour accompagner la croissance de votre activite.
+
+[Prendre rendez-vous](https://fragments-studio.com/contact)
+
+# Introduction Section
+## Besoin de plus de performance
+
+## Une problematique ? On vous accompagne
+
+### Pas d'equipe en interne ?
+Nous vous en mettons une a disposition avec Product Manager, developpeurs et UI/UX designer.
+
+### Vos processus sont chronophages ?
+Nous reflechissons avec vous aux meilleurs outils et automatisations pour vous simplifier la vie.
+
+### Vous ne savez pas par ou commencer ?
+De l'ideation au deploiement, nous vous accompagnons pour donner vie a vos projets.
+
+### Besoin d'un partenariat dans la duree ?
+Nous assurons le suivi, la maintenance et les evolutions pour qu'il reste toujours a la hauteur de vos ambitions.
+
+# Pictures Section
+## Notre equipe
+
+Pierre
+![Photo de Pierre - Expert Dev & Cloud Infrastructure](https://fragments-studio.com/assets/pierre-jo3EL-Ol.webp)
+Dev & Cloud Infrastructure
+
+Karim
+![Photo de Karim - Expert Dev & Project Management](https://fragments-studio.com/assets/karim-kpKs4EqR.webp)
+Dev & Project Management
+
+Jeremy
+![Photo de Jeremy - Expert back-end & Solutions](https://fragments-studio.com/assets/jeremy-CqfPNC49.webp)
+Dev & Visual Effect
+
+Adrien
+![Photo d'Adrien - Expert Produit & UI/UX](https://fragments-studio.com/assets/adrien-CjFug75H.webp)
+Produit & UI/UX
+
+# Expertises Section
+## Nos domaines d'expertise a votre service
+
+### Developpement sur-mesure (Web & Mobile)
+Une solution pensee pour vos vrais besoins, pas pour rentrer dans un moule. On developpe votre outil metier ou MVP avec les bonnes fonctionnalites, pour que vous puissiez avancer, tester et faire grandir votre produit en confiance.
+
+### Solutions IA
+Developpement de solutions IA sur mesure, concues pour repondre a vos enjeux metiers concrets : automatisation, agents intelligents, MVP ou integration dans vos outils existants.
+
+### Web & E-commerce
+Un site clair, rapide et bien pense pour attirer plus de visiteurs, les convaincre, et vendre mieux. Vous gagnez en visibilite, en credibilite et en performance, des les premieres semaines.
+
+### Automatisation et transformation digitale
+Mise en place de solutions pour automatiser vos taches, fluidifier vos process et vous concentrer sur ce qui compte vraiment. Moins de perte de temps, plus d'efficacite, plus de resultats.
+
+### Estimateur de projet
+Estimez le cout de votre projet digital en quelques clics. Notre outil interactif vous permet d'obtenir une premiere estimation de budget adaptee a vos besoins, que ce soit pour un projet web, e-commerce, developpement sur-mesure, automatisation ou integration IA.
+
+[Estimer mon projet](https://fragments-studio.com/estimator)
+
+# Trusted By Section
+## Ils nous font confiance
+
+![Unboared](https://fragments-studio.com/assets/unboared-BUGGK1sG.svg)
+![Smart Renting](https://fragments-studio.com/assets/smartrenting-CVqTwrYj.svg)
+![My Explora](https://fragments-studio.com/assets/my-explora-CzjOcODi.svg)
+![Cockpit](https://fragments-studio.com/assets/cockpit-NvZ3hfg-.svg)
+
+# Use Cases Section
+## Cas concrets
+
+## Decouvrez nos realisations clients
+
+### ERP sur-mesure
+Developpement d'un ERP sur mesure a 100% pour Smartrenting, afin de centraliser la gestion des biens, des contrats et des operations, avec des integrations API pour automatiser les flux metier.
+
+### Application mobile operationnelle
+Developpement d'une PWA (Progressive Web Application) pour une conciergerie, permettant aux agents de suivre les menages sur le terrain, avec un flow UX optimise et un retour qualite en temps reel pour les clients.
+
+### Outil de gestion de paiement
+Developpement d'un outil de paiement sur mesure avec un systeme de paiement groupe, concu pour simplifier les transactions collectives et automatiser la repartition des montants entre participants.
+
+### Agent d'interview interactif
+Creation d'un agent IA conversationnel interactif et personnalisable, accessible via une plateforme web dediee et integree a un CRM.
+
+### Agent IA graphiste
+Creation d'un agent IA specialise en design graphique, capable de generer automatiquement des contenus visuels specifiques selon les besoins : formats, styles, messages et supports cibles.
+
+### Generation d'annonces automatisee
+Integration d'une IA sur mesure pour ajuster automatiquement les prix en fonction de la demande, des concurrents et des performances, afin d'optimiser la rentabilite et maximiser les conversions sur l'ensemble des plateformes.
+
+### Site web vitrine
+Creation d'un site vitrine pour My Essentia, une application mobile innovante qui facilite la commande et la livraison a domicile. Le site presente les fonctionnalites cles et permet aux utilisateurs de suivre les etapes du projet avant son lancement.
+
+### E-commerce & gestion logistique
+Creation d'un site e-commerce pour Al Bara, marque de soins naturels. Objectif : maximiser la conversion et la fidelisation grace a une experience d'achat fluide et engageante, tout en accompagnant la marque sur ses enjeux logistiques et operationnels lies a la vente en ligne.
+
+### Landing page
+Creation d'une landing page immersive pour REEB, marque de biere proteinee premium. Concue autour d'un design experientiel avec animations 3D, elle vise a capter l'attention, valoriser l'univers de marque et maximiser les inscriptions avant lancement.
+
+### Automatisation de facturation
+Automatisation de la gestion des factures via un outil sur mesure, permettant de generer automatiquement factures et rapports comptables, de centraliser les documents et reduire les taches manuelles.
+
+### Digitalisation de la gestion comptable
+Digitalisation de la gestion comptable avec Pennylane, via une integration sur mesure pour synchroniser les flux financiers, automatiser les ecritures et simplifier le suivi comptable au quotidien.
+
+### Automatisation de la publication d'articles
+Developpement d'un outil sur mesure pour automatiser la publication d'articles de blog optimises pour le SEO, avec generation de contenus visuels, planification et mise en ligne directe depuis une interface centralisee.
+
+# Project Section
+## Cockpit : notre outil de gestion de projet
+
+Coming soon
+
+### Suivez l'avancement de votre projet en totale transparence et echangez directement avec les equipes
+
+![Cockpit Logo Desktop](https://fragments-studio.com/assets/cockpit-layout-full-DFoRHbq8.webp)
+
+Developpe specialement pour vous, Cockpit vous permet de beneficiez d'une transparence totale et d'etre au centre des decisions durant tout le projet. Forts de nombreux defis releves, nous avons concu les fonctionnalites cles qui vous permettent de rester concentre sur l'essentiel.
+
+[Decouvrez notre outil Cockpit](https://fragments-studio.com/cockpit)
+
+![Cockpit Logo Mobile](https://fragments-studio.com/assets/cockpit-layout-Dpoo0A67.webp)
+
+# Blog Section
+## Notre blog
+
+Plongez dans notre univers Tech, Design & Produit
+
+[![Erreurs UI/UX design : 7 pièges à éviter pour une meilleure UX](https://fragments-studio.com/assets/top-erreurs-ui-ux-DKs59TSu.webp)\\
+\\ Design\\ \\ 5 min\\ \\ Erreurs UI/UX design : 7 pièges à éviter pour une meilleure UX\\ \\ Découvrez les 7 erreurs les plus fréquentes en UI/UX design et nos conseils pour créer des interfaces plus claires, accessibles et performantes.\\ \\ A\\ \\ Adrien • Mar 27, 2025](https://fragments-studio.com/blog/post/top-erreurs-ui-ux)
+
+[![Faut-il vraiment miser sur le no-code ?](https://fragments-studio.com/assets/no-code-vs-developpement-7lXAlRNP.webp)\\
+\\ Produit\\ \\ 5 min\\ \\ Faut-il vraiment miser sur le no-code ?\\ \\ No-Code ou développement ? Deux approches, deux stratégies. Découvrez laquelle correspond vraiment à vos besoins et à l'ambition de votre projet.\\ \\ A\\ \\ Adrien • Mar 25, 2025](https://fragments-studio.com/blog/post/no-code-vs-developpement)
+
+[![Team tech interne ou externe ? Et si vous optiez pour les deux ?](https://fragments-studio.com/assets/team-tech-interne-ou-externe-pourquoi-pas-les-deux-DTi9sYKl.webp)\\
+\\ Produit\\ \\ 3 min\\ \\ Team tech interne ou externe ? Et si vous optiez pour les deux ?\\ \\ Créer une équipe tech efficace est complexe : recrutements, intégration, position dans l'entreprise, coûts... Autant d'obstacles à surmonter pour réussir.\\ \\ K\\ \\ Karim • Jan 19, 2025](https://fragments-studio.com/blog/post/team-tech-interne-ou-externe-pourquoi-pas-les-deux)
+
+# Réalisations Section
+## Nos réalisations
+
+Découvrez nos projets, cas d'étude, interviews clients et témoignages sur [notre page réalisations](https://fragments-studio.com/realisations).
+
+### Nos projets
+Explorez les projets que nous avons développés pour nos clients : applications web, mobiles, ERP, SaaS et solutions IA. [Voir les projets](https://fragments-studio.com/realisations#projects)
+
+### Nos cas d'étude
+Découvrez nos études de cas détaillées avec les défis, solutions et résultats de projets concrets :
+- [Smartrenting](https://fragments-studio.com/realisations/smartrenting) — ERP immobilier et système nerveux digital pour scaler la gestion locative x10
+- [CocoDrive](https://fragments-studio.com/realisations/coco) — De l'idée au produit : prototype Figma, MVP mobile et back-office pour la livraison de carburant à domicile
+- [JobLink / Smart Interview](https://fragments-studio.com/realisations/joblink) — Plateforme IA pour révolutionner le pré-screening et l'évaluation des candidats
+- [Unboared](https://fragments-studio.com/realisations/unboared) — Renfort d'équipe, jeu quiz personnalisable et monétisation B2C pour espaces publics
+
+### Interviews
+Écoutez nos clients raconter leur collaboration avec Fragments Studio. [Voir les interviews](https://fragments-studio.com/realisations?tab=interviews#projects)
+
+### Témoignages
+Lisez les retours d'expérience de nos clients sur leur collaboration avec Fragments Studio. [Voir les témoignages](https://fragments-studio.com/realisations#testimonials)
+
+# Call to Action
+Prets a donner vie a vos projets ?
+
+Fragments Studio s'occupe de tout.
+
+[Prendre rendez-vous](https://fragments-studio.com/contact)
+
+

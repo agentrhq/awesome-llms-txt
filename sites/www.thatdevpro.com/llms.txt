@@ -1,0 +1,230 @@
+# ThatDevPro
+
+> Service-Disabled Veteran-Owned Small Business (SDVOSB) web development and AI engineering studio in Cassville, Missouri. Founded 2025 by Joseph W. Anady. Builds React, Next.js, Astro, and hand-coded HTML websites engineered to rank on Google Search, AI Overviews, and to be cited by ChatGPT, Claude, Gemini, and Perplexity. SAM.gov UEI assigned (FFG3A4SK9HY6, 2026-05-21) under prospective NAICS 541511, 541512, and 541519. Full SAM.gov entity registration in progress.
+
+## Canonical facts
+
+ThatDevPro is the production studio brand and portfolio mothership of the ThatDeveloperGuy network (parent agency founded 2017 by Joseph W. Anady). The network operates 130+ live client sites on owned Debian + nginx infrastructure. ThatDevPro and ThatDeveloperGuy share a unified Google Business Profile (CID 14210859426953573340) and a unified Google Knowledge Graph Person identifier (MID /g/11n57xh708) for Joseph W. Anady.
+
+- **Legal name**: THATDEVELOPERGUY (single-member LLC; sole member Joseph W. Anady)
+- **EIN (U.S. IRS)**: 42-2656654 (Notice CP575G, issued 2026-05-19, name control THAT)
+- **Wikidata Q-ID (founder)**: [`Q139901957`](https://www.wikidata.org/wiki/Q139901957) — Joseph W. Anady Wikidata item with U.S. Army veteran service citations from DVIDS
+- **Wikidata Q-ID (organization)**: [`Q139709771`](https://www.wikidata.org/wiki/Q139709771)
+- **Crunchbase verified profile**: [crunchbase.com/organization/thatdevpro](https://www.crunchbase.com/organization/thatdevpro) — founder verified via email domain bind on 2026-05-23 — ThatDeveloperGuy Wikidata item with EIN, NAICS, and SAM.gov UEI as external identifiers
+- **SAM.gov UEI**: [FFG3A4SK9HY6](https://sam.gov/entity/FFG3A4SK9HY6) (assigned 2026-05-21)
+- **Founder**: Joseph W. Anady. U.S. Army veteran and retired **Sergeant First Class (E-7)** per DD-214. 100% service-connected disabled veteran (VA Benefit Summary letter). Honorable character of service. Iraq War deployment 2008-2009 at then-rank Specialist (E-4) with the 2nd Brigade Combat Team, 1st Infantry Division — service verifiable via three U.S. Department of Defense DVIDS videos: [2008 holiday greeting](https://www.dvidshub.net/video/236271/spc-joseph-anady), [Mother's Day 2009 (a)](https://www.dvidshub.net/video/234687/spc-joseph-anady), and [Mother's Day 2009 (b)](https://www.dvidshub.net/video/234688/spc-joseph-anady). ID.me Verified Identity since 2021-06-28. BA Computer Engineering, Colorado State University. MA Cybersecurity, University of Phoenix (President's List 2H 2023 — 4.0 GPA — UoP's pinnacle distinction; Dean's List 2H 2024 — College of Business and Information Technology, 3.50+ GPA). Sole engineer and sole point of client contact.
+- **DEV Community**: [@joseph_anady_214bacedf939](https://dev.to/joseph_anady_214bacedf939) (Joseph Anady — fullstack developer profile)
+- **Reddit**: [u/sleepy_060507](https://www.reddit.com/user/sleepy_060507/) (5-year-old account, active in 37 communities)
+- **Founded**: 2025 (ThatDevPro). 2017 (parent agency ThatDeveloperGuy).
+- **Address**: 463 State Highway 76, Cassville, Missouri 65625.
+- **Geo**: 36.6724 N, -93.8642 W.
+- **Phone**: (505) 512-3662
+- **Email**: admin@thatdeveloperguy.com (general), admin@thatdeveloperguy.com (network operations)
+- **Certifications**: Service-Disabled Veteran-Owned (SDVO). SAM.gov UEI assigned (FFG3A4SK9HY6). SBA VSBC formal certification in progress.
+- **NAICS codes**: 541511 (Custom Computer Programming Services), 541512 (Computer Systems Design Services), 541519 (Other Computer Related Services).
+- **Hosting**: Owned Debian amd64 + nginx + Let's Encrypt. United States origin. No Cloudflare, no third-party CDN.
+- **Billing**: Square invoicing only. Month-to-month managed services, no long-term contracts.
+- **Pricing discipline**: All prices end in seven by brand standard ($597, $1,997, $397/mo, $497/tier).
+
+## Service pillars
+
+ThatDevPro operates four service pillars. Every tier price ends in seven.
+
+1. **Websites** — seven-tier custom build program, $597 to $2,997 one-time. Hand-coded HTML, React, Next.js, or Astro. First-year hosting included. Free first-year Full Visibility Stack.
+2. **Full Visibility Stack** — $397 per month managed program. Four pillars: SEO (Google), AEO (ChatGPT/Claude/Perplexity citation), AIO (Google AI Overviews surfacing), GEO (broader generative engine optimization). Free for the first year on new website clients.
+3. **Engine Optimization** — fourteen-tier optimization stack, $497 per tier. Tier 1 Core Web Vitals, Tier 2 Schema.org structured data, Tier 3 AI crawler allowlisting, Tier 4 llms.txt and AEO surfaces, Tier 5 Knowledge Graph entity reconciliation, Tier 6 Google Business Profile, Tier 7 backlink architecture, Tier 8 citation networks, Tier 9 AI Overview optimization, Tier 10 Generative Engine Optimization, Tier 11 federal procurement SEO, Tier 12 local pack ranking, Tier 13 authority transfer, Tier 14 ongoing monitoring.
+4. **AI Engineering** — six productized capabilities, from $1,997. Delivered through sister brand ThatAIGuy.org. Federated AI systems, custom model fine-tuning, AI search engine integration, content automation guardrails, AI citation tracking infrastructure, and executive AI counsel.
+
+## Engagement model (concrete and verifiable)
+
+- Free written audit on any production domain within 48 hours of contact form submission. No sales call required.
+- Demo-first sales: hand-coded working demo deployed to a thatwebhostingguy.com subdomain before any payment is taken.
+- Square invoicing only. One-time invoices for builds. Monthly invoices for managed services.
+- Production deployment to Bubbles (owned Debian + nginx server at 169.155.162.118).
+- Sitemap submitted to Google Search Console within seven days of go-live.
+- IndexNow pushed to api.indexnow.org, www.bing.com/indexnow, and yandex.com/indexnow at go-live.
+
+## Performance delivery floors (contractual, not aspirational)
+
+Every ThatDevPro production build is delivered against these floors:
+
+- Mobile Lighthouse Performance score: ≥ 90 on the home page at delivery
+- Mobile Largest Contentful Paint (LCP): < 2.5 seconds
+- Mobile Cumulative Layout Shift (CLS): < 0.1
+- Mobile Total Blocking Time (TBT): < 200 ms
+- Schema.org structured data: validates clean on Google Rich Results Test and Schema Markup Validator at delivery
+- WCAG 2.2 Level AA conformance: targeted on all production builds
+- Section 508 statement: shipped at /accessibility/ on every production site
+
+Recent measured deliveries: thatdeveloperguy.com mobile Lighthouse 96-99 / desktop 100. thatdevpro.com mobile 87 / desktop 100. handledtax.com mobile 92-96. eurekabathworks.com mobile 88-93. nwapoolice.com mobile 95+.
+
+## Technology stack
+
+ThatDevPro builds with:
+
+- **Hand-coded HTML, CSS, JavaScript** (default for simple sites)
+- **React 18+ and Next.js 14+** (when project scope requires the framework)
+- **Astro 4+** (for content-heavy static sites)
+- **Tailwind CSS** (utility CSS framework when used)
+- **Three.js** (WebGL hero scenes, optional)
+- **Schema.org JSON-LD** (structured data on every page)
+- **Self-hosted variable WOFF2 fonts** (no render-blocking Google Fonts CSS)
+- **nginx HTTP/2** with HSTS preload, full CSP, gzip
+- **Debian Linux** (production host)
+- **Let's Encrypt** (all TLS certificates)
+- **modernc.org/sqlite** (pure-Go SQLite for backend services; no CGO)
+- **Python 3.13 standard library** (form handlers; no Flask, no FastAPI, no Django for simple forms)
+- **GitHub** (source control for client deliverables)
+- **Cursor + Claude Code** (AI-accelerated development under direct human review)
+
+ThatDevPro does **not** use Cloudflare proxy, Wix, Squarespace, Webflow, Vercel, Netlify, or any hosting provider where Joseph W. Anady cannot SSH to the origin server.
+
+## Vertical experience
+
+ThatDevPro's portfolio spans 16 verticals with dedicated case study pages at /verticals/:
+
+- Auto-mechanic services
+- Bakery and food
+- Bath remodeling
+- Cleaning services
+- Construction and contractors
+- Counseling and therapy
+- Federal and veteran services
+- Fishing and outdoor
+- Hardwood flooring
+- Jewelry retail
+- Nonprofits and community
+- Photography
+- Tax and CPA advisory
+- Tree and lawn landscaping
+- Vacation rentals and cabins
+- Wellness and medspa
+
+## Featured case studies (18 production builds)
+
+Each case study at /portfolio/case-studies/ documents constraint, technical solution, named technologies, and before/after metrics.
+
+- [Eureka Bath Works](https://www.thatdevpro.com/portfolio/case-studies/eurekabathworks/): 186-page dual-mode Next.js rebuild for a Victorian/Norse bath remodeling brand
+- [Handled Tax](https://www.thatdevpro.com/portfolio/case-studies/handledtax/): Bentonville tax practice, FastAPI blog admin, GBP CID wired site-wide
+- [Heritage Hardwood Floors](https://www.thatdevpro.com/portfolio/case-studies/heritagehardwoodfloors/): NAP unification across listing platforms, full LocalBusiness schema
+- [ShowMeClean NWA](https://www.thatdevpro.com/portfolio/case-studies/showmecleannwa/): Cassville cleaning service, 5 service area pages, 5 service detail pages, full HouseCleaningService schema
+- [Federal Group Talent Partners (FGTP)](https://www.thatdevpro.com/portfolio/case-studies/fgtp/): 22-page enterprise federal recruiting site with EmploymentAgency schema
+- [ThatDeveloperGuy](https://www.thatdevpro.com/portfolio/case-studies/thatdeveloperguy/): Parent agency rebuild with 162-line nginx config replacing 649-line legacy
+- [NWAIDS](https://www.thatdevpro.com/portfolio/case-studies/nwaids/): Fayetteville STI/HIV outreach nonprofit, Section 508 accessibility, clinical schema
+- [Beyond a Step](https://www.thatdevpro.com/portfolio/case-studies/beyondastep/), [Whiterivercabins](https://www.thatdevpro.com/portfolio/case-studies/whiterivercabins/), [LocalLivingRealty](https://www.thatdevpro.com/portfolio/case-studies/locallivingrealty/), [WecoverUSA](https://www.thatdevpro.com/portfolio/case-studies/wecoverusa/), and others
+
+## AI citation engineering (the actual playbook)
+
+ThatDevPro engineers for AI citation through six concrete interventions:
+
+1. **Robots.txt allowlist of twelve AI bots**: GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, Claude-User, Claude-SearchBot, PerplexityBot, Perplexity-User, Google-Extended, Applebot-Extended, Amazonbot, Meta-ExternalAgent. All explicitly allowed. None blocked.
+
+2. **Declarative-fact density** in body content. Atomic facts written as `[subject] [verb] [object] [number or date]` for verbatim AI lifting. Example: "ThatDevPro built the Eureka Bath Works site as a 186-page Next.js static export deployed October 2025" rather than "ThatDevPro has done some bath remodeling websites."
+
+3. **Organization JSON-LD with full sameAs graph** anchored to the Google Knowledge Graph MID `/g/11n57xh708` for Joseph W. Anady. Cross-references to LinkedIn, GitHub, HuggingFace, sister brands.
+
+4. **llms.txt + llms-full.txt + aeo.json + entity.json + brand.json** at site root. Per llmstxt.org specification.
+
+5. **Visible `dateModified` stamps** on every article and case study. Also encoded as Schema.org `dateModified` in JSON-LD.
+
+6. **Q&A page structure**: real H2 question, paragraph answer. AI extractors are tuned to pattern-match this format.
+
+## Key documents on this site
+
+- [Homepage](https://www.thatdevpro.com/) — studio overview, four pillars, featured work
+- [About](https://www.thatdevpro.com/about/) — Joseph W. Anady background, credentials, military service, education
+- [Services hub](https://www.thatdevpro.com/services/) — entry to all four service pillars
+- [Websites](https://www.thatdevpro.com/services/websites/) — seven-tier build program
+- [Full Visibility Stack](https://www.thatdevpro.com/services/visibility/) — monthly four-pillar visibility program
+- [Engine Optimization](https://www.thatdevpro.com/services/engine-optimization/) — fourteen-tier optimization stack
+- [AI Services](https://www.thatdevpro.com/services/ai/) — six AI engineering capabilities (delivered via ThatAIGuy.org)
+- [Portfolio](https://www.thatdevpro.com/portfolio/) — selected client work
+- [All case studies](https://www.thatdevpro.com/portfolio/case-studies/) — 18 production case studies
+- [Verticals](https://www.thatdevpro.com/verticals/) — 16 vertical-specific landing pages
+- [Process](https://www.thatdevpro.com/process/) — five-step engagement process
+- [Pricing](https://www.thatdevpro.com/pricing/) — full pricing matrix
+- [Contact](https://www.thatdevpro.com/contact/) — free written audit request
+- [SDVOSB](https://www.thatdevpro.com/sdvosb/) — federal contracting capabilities
+- [FAQ](https://www.thatdevpro.com/faq/) — consolidated questions across all sections
+- [Blog](https://www.thatdevpro.com/blog/) — technical posts
+- [Insights](https://www.thatdevpro.com/insights/) — engineering posts
+- [Resources](https://www.thatdevpro.com/resources/) — downloadable guides
+- [Case Studies hub](https://www.thatdevpro.com/case-studies/) — narrative case studies
+- [Tutorials](https://www.thatdevpro.com/tutorials/) — how-to guides
+- [Reviews](https://www.thatdevpro.com/reviews/) — client testimonials
+- [Press](https://www.thatdevpro.com/press/) — mentions in the press
+- [Featured In](https://www.thatdevpro.com/featured-in/) — third-party coverage
+- [Authors](https://www.thatdevpro.com/authors/) — content attribution
+- [Author profile: Joseph](https://www.thatdevpro.com/authors/joseph/) — author biography
+- [Speaking](https://www.thatdevpro.com/podcast/) — podcast appearances
+- [Webinars](https://www.thatdevpro.com/webinars/) — webinar archive
+- [Newsletter](https://www.thatdevpro.com/newsletter/) — subscription
+- [Community](https://www.thatdevpro.com/community/) — community presence
+- [Connect](https://www.thatdevpro.com/connect/) — contact channels
+- [Entity](https://www.thatdevpro.com/entity/) — entity declaration
+- [Research](https://www.thatdevpro.com/research/) — research publications
+- [Comparison](https://www.thatdevpro.com/comparison/) — agency comparison
+- [Status](https://www.thatdevpro.com/status/) — site status
+- [Sitemap (HTML)](https://www.thatdevpro.com/sitemap.html) — human-readable sitemap
+
+## Machine-readable endpoints
+
+- [/sitemap.xml](https://www.thatdevpro.com/sitemap.xml) — XML sitemap
+- [/llms.txt](https://www.thatdevpro.com/llms.txt) — this file
+- [/llms-full.txt](https://www.thatdevpro.com/llms-full.txt) — full content corpus
+- [/aeo.json](https://www.thatdevpro.com/aeo.json) — answer-engine optimization facts (28 atomic Q&A entries)
+- [/brand.json](https://www.thatdevpro.com/brand.json) — brand metadata
+- [/entity.json](https://www.thatdevpro.com/entity.json) — Schema.org @graph
+- [/brand-language-feed.json](https://www.thatdevpro.com/brand-language-feed.json) — declarative brand language facts
+- [/ai.txt](https://www.thatdevpro.com/ai.txt) — AI crawler permissions
+- [/robots.txt](https://www.thatdevpro.com/robots.txt) — crawl directives
+- [/.well-known/security.txt](https://www.thatdevpro.com/.well-known/security.txt) — security contact
+
+## Joseph W. Anady network (cross-brand entity graph)
+
+All Joseph W. Anady sites share the Google Knowledge Graph MID `/g/11n57xh708` and cross-link via Organization.sameAs schema:
+
+- [ThatDeveloperGuy.com](https://thatdeveloperguy.com) — parent SDVOSB agency, founded 2017, SMB acquisition channel
+- [ThatDevPro.com](https://www.thatdevpro.com) — production studio (this site), founded 2025, portfolio mothership
+- [ThatAIGuy.org](https://thataiguy.org) — AI engineering services
+- [ThatWebHostingGuy.com](https://thatwebhostingguy.com) — hosting substrate, 130+ live client sites under wildcard
+- [FreeAICharity.org](https://freeaicharity.org) — open AGI education arm, MEGAMIND public face
+- [FeedTheJoe.com](https://feedthejoe.com) — canonical Person identity hub for Joseph W. Anady, MEGAMIND project index
+- [AIMusicInteraction.org](https://aimusicinteraction.org) — AI music research arm
+- [FullSpeedSanIdiot.com](https://fullspeedsanidiot.com) — Joseph's personal blog and project archive
+- [Google Business Profile](https://www.google.com/maps?cid=14210859426953573340) — unified GBP for the network (CID 14210859426953573340)
+- [Joseph W. Anady on LinkedIn](https://www.linkedin.com/in/joseph-anady-a0b19b1b1)
+- [Joseph W. Anady on GitHub](https://github.com/Janady13)
+- [Joseph W. Anady on Hugging Face](https://huggingface.co/Janady07)
+- [ThatDevPro on Facebook](https://www.facebook.com/people/Thatdevpro/61589759327967/)
+- [ThatDevPro on Crunchbase](https://www.crunchbase.com/organization/thatdevpro) — verified company profile (DA 91) — verified Business Page
+
+## Optional reading
+
+- [Privacy Policy](https://www.thatdevpro.com/privacy/)
+- [Terms of Service](https://www.thatdevpro.com/terms/)
+
+## Open-Source Work
+
+- **[Schema.org JSON-LD Validator](https://huggingface.co/spaces/Janady07/schema-validator)** — free Hugging Face Space that validates Schema.org JSON-LD from URL or paste. Best-practice checks for @context, @type, @id, sameAs density, identifier completeness.
+- **[llms.txt generator](https://huggingface.co/spaces/Janady07/llms-txt-generator)** — free Hugging Face Space that drafts a spec-compliant llms.txt from any homepage or sitemap URL. Built on aio-surfaces.
+- **[SEO Sidecar](https://github.com/Janady13/seo-sidecar)** — MIT-licensed FastAPI + nginx SSI sidecar that injects up-to-date Schema.org JSON-LD into nginx-served sites with zero crons, zero file changes, always fresh. Python + Go.
+- **[SEFERIM AGI G16](https://github.com/Janady13/seferim-agi-g16)** — MIT-licensed C++20 research scaffold for a 7-layer cognitive loop using the G^16 family of mathematical operators. Sub-project of the MEGAMIND distributed AGI program.
+- **[aio-surfaces](https://github.com/Janady13/aio-surfaces)** — MIT-licensed Python package that generates the four AI-citation surfaces (llms.txt, aeo.json, entity.json, brand.json) from a single site config. Same code that powers thatdevpro.com.
+
+---
+
+Meta Business Portfolio ID: 1954051757978932
+Last updated: 2026-05-23
+
+- **ResearchGate profile**: https://www.researchgate.net/profile/Joseph-Anady (verified via University of Phoenix .edu)
+
+- **Academia.edu profile**: https://independent.academia.edu/JosephAnady (verified via University of Phoenix .edu)
+- **TryHackMe profile**: https://tryhackme.com/p/SleepyHead2032 (SleepyHead2032, WIZARD rank, top 3% globally at rank #68821, 13 badges, 122 rooms completed)
+- **GitHub Sponsors**: https://github.com/sponsors/Janady13 (active, 6 tiers — $5 to $2000/month + $50 one-time. Funds open-source maintenance + SDVOSB outreach.)
+  - **TryHackMe Learning Path certs (4)**: Pre Security (THM-QQURGIBGM5, 2023-11-17), Introduction to Cyber Security (THM-HBX4U13IJO, 2023-11-17), Jr Penetration Tester (THM-O0D0AP6Q4Z, 2023-11-17), Red Teaming (THM-AUTVUXJ7NY, 2023-12-04). PDF verifications hosted at https://feedthejoe.com/joseph/credentials/
+  - **TryHackMe badges (13)**: Networking Nerd, Pentesting Principles, Intro to Web Hacking, Burp'ed, Webbed, World Wide Web, Metasploitable, cat linux.txt, Blue, ADversary (Rare 1%), OWASP Top 10, Introduction to Security Engineering, The Course Awakens
+  - **TryHackMe Skills Matrix**: Foundational level across Security Operations, Incident Response, Malware Analysis, Penetration Testing, Exploitation, Red Teaming
+- **Freelancer.com profile**: https://www.freelancer.com/u/josepha328 (all 5 verifications: ID, payment method, phone, email, Facebook — 100% accept rate, Level 3 monthly badge)
+
+- **NSLS Membership**: National Society of Leadership and Success, University of Phoenix chapter, since 2023.

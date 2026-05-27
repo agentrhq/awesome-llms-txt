@@ -1,0 +1,47 @@
+# Dualmark
+
+> Your blog ranks #1 on Google. ChatGPT cites your competitor. That's an infrastructure problem. Dualmark is open-source AEO infrastructure that gives every page a markdown twin AI agents can read — same URL, two formats, picked at the edge by HTTP content negotiation.
+
+## Optional
+
+- [Playground](https://dualmark.dev/play): Score any URL against the AEO Spec
+- [GitHub](https://github.com/dodopayments/dualmark): Source code
+- [AEO Spec source](https://dualmark.dev/docs/spec/overview): Public, RFC-2119 compliant
+
+## Get started
+
+- [Core concepts](https://dualmark.dev/docs/concepts.md): How Dualmark works under the hood.
+- [Documentation](https://dualmark.dev/docs.md): A markdown twin for every page on your site — so AI agents read what humans see, and cite you instead of your competitors.
+- [Quickstart](https://dualmark.dev/docs/quickstart.md): Get a fully dual-marked site running in under 2 minutes — pick your framework.
+- [Overview](https://dualmark.dev/docs/conformance.md): Verify your site against the AEO Spec v1.0. Run the CLI, hit the threshold, ship the badge.
+
+## Integrate
+
+- [Astro](https://dualmark.dev/docs/integrations/astro.md): Add Dualmark to an Astro 5 site with one integration.
+- [Cloudflare Workers](https://dualmark.dev/docs/integrations/cloudflare-workers.md): Wrap any upstream Worker with createAEOWorker for edge negotiation.
+- [Any framework (manual)](https://dualmark.dev/docs/integrations/manual.md): Implement Dualmark from scratch in any framework using @dualmark/core.
+- [Next.js](https://dualmark.dev/docs/integrations/nextjs.md): Drop Dualmark into a Next.js App Router site with @dualmark/nextjs.
+
+## API reference
+
+- [@dualmark/astro](https://dualmark.dev/docs/packages/astro.md): Astro 5 integration — auto-generated .md routes, middleware, llms.txt.
+- [@dualmark/cli](https://dualmark.dev/docs/packages/cli.md): `dualmark verify <url>` — conformance test runner.
+- [@dualmark/cloudflare](https://dualmark.dev/docs/packages/cloudflare.md): Cloudflare Workers edge adapter — wraps any upstream Worker.
+- [@dualmark/converters](https://dualmark.dev/docs/packages/converters.md): 13 production-tested markdown converter factories.
+- [@dualmark/core](https://dualmark.dev/docs/packages/core.md): Framework-agnostic primitives for AEO infrastructure.
+- [@dualmark/nextjs](https://dualmark.dev/docs/packages/nextjs.md): Next.js App Router adapter — withDualmark, proxy/middleware factory, route handler factory, llms.txt handler.
+
+## Conformance
+
+- [The verify CLI](https://dualmark.dev/docs/conformance/cli.md): Score any URL against the AEO Spec.
+- [Scoring & levels](https://dualmark.dev/docs/conformance/scoring.md): How dualmark verify weighs checks and assigns conformance levels.
+
+## AEO Spec v1.0
+
+- [AI bot registry](https://dualmark.dev/docs/spec/ai-bot-detection.md): The canonical list of AI crawler User-Agent patterns.
+- [Conformance](https://dualmark.dev/docs/spec/conformance.md): Basic, Standard, and Advanced conformance levels.
+- [Content negotiation](https://dualmark.dev/docs/spec/content-negotiation.md): RFC 7231 §5.3.2 — how Dualmark picks HTML vs markdown.
+- [Discovery](https://dualmark.dev/docs/spec/discovery.md): How AI clients find a site's markdown twins and llms.txt.
+- [Response headers](https://dualmark.dev/docs/spec/headers.md): Required and recommended response headers for markdown twins.
+- [llms.txt extensions](https://dualmark.dev/docs/spec/llms-txt-extensions.md): Dualmark's additions to the llms.txt convention.
+- [Overview](https://dualmark.dev/docs/spec/overview.md): AEO Specification v1.0 — proposed convention. Scope, terminology, status, section index.

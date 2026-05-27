@@ -1,0 +1,103 @@
+{
+  "schema_version": 2,
+  "domain": "www.metabase.com",
+  "display_name": "Metabase",
+  "category": "data",
+  "verified_url": "https://www.metabase.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:19Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 38981,
+  "last_modified": "Wed, 27 May 2026 00:18:28 GMT",
+  "freshness_age_days": 0,
+  "score": 77,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 20,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 2,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 4,
+      "reasons": [],
+      "kb": 38.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Metabase",
+    "h1_count": 1,
+    "blockquote": "Metabase is an open-source business intelligence platform trusted by over 90,000 companies. Teams use it to query databases, build dashboards, and let non-technical users explore data on their own — through a visual query builder, a SQL editor, or natural language with Metabot AI. Metabase also offers an embedded analytics product for software companies that need to put dashboards, charts, and self-serve reporting inside their own applications.",
+    "section_count": 9,
+    "subsection_count": 18,
+    "link_count": 374,
+    "value_link_count": 364,
+    "low_value_link_count": 10,
+    "raw_bytes": 38981
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

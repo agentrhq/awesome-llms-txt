@@ -1,0 +1,51 @@
+# PaperGraderPro Documentation
+
+## Overview
+PaperGraderPro is an AI-powered paper grading platform designed to help educators grade essays and text-based assessments more efficiently. The platform uses advanced language models to provide consistent, high-quality feedback while saving teachers valuable time.
+
+## Core Features
+
+### Assessment Creation
+- Create custom grading rubrics through an intuitive step-by-step wizard
+- Upload existing rubrics or create new ones with guided builder
+- Support for various education levels and subjects
+- Flexible rubric system for different assessment needs
+
+### AI-Powered Grading
+- Smart AI grading using advanced language models
+- Customizable feedback generation with controlled tone and detail level
+- Support for multiple file formats (PDF, DOCX, TXT)
+- Bulk processing capabilities for entire classes
+
+### Results & Analytics
+- Detailed student feedback with personalized improvement suggestions
+- Performance analytics for identifying trends and learning gaps
+- Export options for results (CSV, PDF)
+- Direct student communication features
+
+## Technical Stack
+- Next.js (App Router)
+- TypeScript
+- Shadcn components
+- PostgreSQL database
+- LLM integration
+- Payment processing
+
+## Key Endpoints
+- /api/assessments (CRUD operations)
+- /api/create-assessment
+- /api/extract-text/
+- /api/grade-exams/ (LLM-based grading)
+- /api/grading-session-analysis/
+- /api/payments/webhook
+
+## Security & Privacy
+- GDPR compliance
+- Secure file handling
+- Protected routes via Next.js middleware
+- Authentication and authorization
+- Secure file storage
+
+## Subscription Tiers
+- Free tier: 1 custom rubric + 5 grading runs
+- Pro tier: 1000 runs per month 

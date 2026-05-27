@@ -1,0 +1,338 @@
+# Hyperline
+
+## Docs
+
+- [Hyperline CLI](https://docs.hyperline.co/api-reference/docs/ai/cli.md): An agent-first CLI to interact with your Hyperline account from the terminal
+- [Hyperline MCP](https://docs.hyperline.co/api-reference/docs/ai/mcp.md): Connect AI assistants to your Hyperline account using the Model Context Protocol
+- [Build with LLMs](https://docs.hyperline.co/api-reference/docs/ai/overview.md): Use Hyperline documentation and APIs with AI assistants and LLMs
+- [Currency amounts](https://docs.hyperline.co/api-reference/docs/amount.md): Technical representation of monetary values in Hyperline
+- [Authentication](https://docs.hyperline.co/api-reference/docs/authentication.md): Learn how to authenticate to use Hyperline's API
+- [Dates & timezones](https://docs.hyperline.co/api-reference/docs/dates-and-timezones.md): Technical representation of dates in Hyperline
+- [Error handling](https://docs.hyperline.co/api-reference/docs/error-handling.md): Learn how to handle errors when using Hyperline's API
+- [Getting started](https://docs.hyperline.co/api-reference/docs/getting-started.md): Welcome to the Hyperline technical documentation
+- [Idempotent requests](https://docs.hyperline.co/api-reference/docs/idempotent-requests.md): Use idempotency keys to safely retry API requests without duplicating operations
+- [Pagination and filtering](https://docs.hyperline.co/api-reference/docs/pagination.md)
+- [Rate limiting](https://docs.hyperline.co/api-reference/docs/rate-limiting.md)
+- [React components](https://docs.hyperline.co/api-reference/docs/react-components.md): Learn how to embed Hyperline directly into your React application
+- [Third-party app](https://docs.hyperline.co/api-reference/docs/third-party-app.md): Enable your app to access Hyperline accounts using OAuth flows
+- [API upgrades](https://docs.hyperline.co/api-reference/docs/upgrades.md): Keep track of changes and deprecation to the Hyperline API
+- [Webhooks](https://docs.hyperline.co/api-reference/docs/webhooks.md): Receive webhook messages
+- [Create accounting rule](https://docs.hyperline.co/api-reference/endpoints/accounting/create-accounting-rule.md): Create a new accounting rule for account code routing or journal posting.
+- [Delete accounting rule](https://docs.hyperline.co/api-reference/endpoints/accounting/delete-accounting-rule.md): Soft-delete an accounting rule.
+- [Get accounting rule](https://docs.hyperline.co/api-reference/endpoints/accounting/get-accounting-rule.md): Retrieve a single accounting rule by its identifier.
+- [List accounting rules](https://docs.hyperline.co/api-reference/endpoints/accounting/list-accounting-rules.md): Retrieve existing accounting rules with optional filtering.
+- [Resolve accounting rule](https://docs.hyperline.co/api-reference/endpoints/accounting/resolve-accounting-rule.md): Preview which account codes would be resolved for a given context.
+- [Update accounting rule](https://docs.hyperline.co/api-reference/endpoints/accounting/update-accounting-rule.md): Update an existing accounting rule.
+- [Create aggregator](https://docs.hyperline.co/api-reference/endpoints/aggregators/create-aggregator.md): Create a new aggregator.
+- [Delete aggregator](https://docs.hyperline.co/api-reference/endpoints/aggregators/delete-aggregator.md): Delete an existing aggregator.
+- [Get aggregator](https://docs.hyperline.co/api-reference/endpoints/aggregators/get-aggregator.md): Retrieve the details of an existing aggregator.
+- [List aggregators](https://docs.hyperline.co/api-reference/endpoints/aggregators/list-aggregators.md): Retrieve existing aggregators.
+- [Update aggregator](https://docs.hyperline.co/api-reference/endpoints/aggregators/update-aggregator.md): Update the details of an existing aggregator.
+- [Get analytics](https://docs.hyperline.co/api-reference/endpoints/analytics/get-analytics.md): Retrieve your pre-computed account's analytics (ARR, revenues, churn, etc).
+- [Get bank account](https://docs.hyperline.co/api-reference/endpoints/bank-accounts/get-bank-account.md): Retrieve a specific bank account by ID.
+- [List bank accounts](https://docs.hyperline.co/api-reference/endpoints/bank-accounts/list-bank-accounts.md): Retrieve existing bank accounts.
+- [Delete billable events](https://docs.hyperline.co/api-reference/endpoints/billable-events/delete-billable-events.md): Delete existing billable events.
+- [Get billable event prices](https://docs.hyperline.co/api-reference/endpoints/billable-events/get-billable-event-prices.md): Get previous price simulation results for a billable event. You can search by either calculation_id / record_id or both.
+- [Get events](https://docs.hyperline.co/api-reference/endpoints/billable-events/get-events.md): Retrieve billable events filtered by event type.
+- [Ingest billable event](https://docs.hyperline.co/api-reference/endpoints/billable-events/ingest-billable-event.md): Ingest a new billable event. This endpoint is idempotent, an event with the same id will be updated if it already exists.
+- [Ingest billable events](https://docs.hyperline.co/api-reference/endpoints/billable-events/ingest-billable-events.md): Ingest several billable events in batch (limited to max 5000 events per request). This endpoint is idempotent, an event with the same id, will be updated if it already exists.
+- [Simulate billable event prices](https://docs.hyperline.co/api-reference/endpoints/billable-events/simulate-billable-event-prices.md): Simulate prices for a single billable event without ingesting it.
+- [Create company](https://docs.hyperline.co/api-reference/endpoints/companies/create-company.md): Create a new company to which the authentication token will have access to.
+- [List companies](https://docs.hyperline.co/api-reference/endpoints/companies/list-companies.md): Retrieve all companies that the authentication token has access to.
+- [Create promotion code](https://docs.hyperline.co/api-reference/endpoints/coupons->-promotion-codes/create-promotion-code.md): Create a new promotion code.
+- [Delete promotion code](https://docs.hyperline.co/api-reference/endpoints/coupons->-promotion-codes/delete-promotion-code.md): Delete an existing promotion code.
+- [Get promotion code](https://docs.hyperline.co/api-reference/endpoints/coupons->-promotion-codes/get-promotion-code.md): Retrieve the details of an existing promotion code.
+- [List promotion codes](https://docs.hyperline.co/api-reference/endpoints/coupons->-promotion-codes/list-promotion-codes.md): Retrieve existing promotion codes.
+- [Update promotion code](https://docs.hyperline.co/api-reference/endpoints/coupons->-promotion-codes/update-promotion-code.md): Update the details of an existing promotion code.
+- [Create coupon](https://docs.hyperline.co/api-reference/endpoints/coupons/create-coupon.md): Create a new coupon.
+- [Delete coupon](https://docs.hyperline.co/api-reference/endpoints/coupons/delete-coupon.md): Delete an existing coupon.
+- [Get coupon](https://docs.hyperline.co/api-reference/endpoints/coupons/get-coupon.md): Retrieve the details of an existing coupon.
+- [List coupons](https://docs.hyperline.co/api-reference/endpoints/coupons/list-coupons.md): Retrieve existing coupons.
+- [Update coupon](https://docs.hyperline.co/api-reference/endpoints/coupons/update-coupon.md): Update the details of an existing coupon.
+- [Create custom property](https://docs.hyperline.co/api-reference/endpoints/custom-properties/create-custom-property.md): Create a new custom property.
+- [Delete custom property](https://docs.hyperline.co/api-reference/endpoints/custom-properties/delete-custom-property.md): Delete an existing custom property.
+- [List custom properties](https://docs.hyperline.co/api-reference/endpoints/custom-properties/list-custom-properties.md): Retrieve all custom properties previously created.
+- [Update custom property](https://docs.hyperline.co/api-reference/endpoints/custom-properties/update-custom-property.md): Update an existing custom property.
+- [Create credit product](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/create-credit-product.md): Create a credit entity for a given product with an optional balance.
+- [Create credits usage](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/create-credits-usage.md): Create a usage entry for a credit product. This will impact the balance of the customer by `usage_retained`.
+- [Get credit product](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/get-credit-product.md): Retrieve the details of an existing credit product for a customer.
+- [List all credit products](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/list-all-credit-products.md): Retrieve credit products for all customers.
+- [List credit products](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/list-credit-products.md): Retrieve credit products attached to a customer.
+- [List credit transactions](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/list-credit-transactions.md): Retrieve all credit transactions associated with a credit product.
+- [Purchase credits](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/purchase-credits.md): Purchase a number of credits. This action will generate an invoice and charge the customer.
+- [Topup credits](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/topup-credits.md): Topup a number of free credits. This action will not charge the customer.
+- [Update credit product](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/update-credit-product.md): Update the configuration of a customer's credit product.
+- [Update credit topup expiration](https://docs.hyperline.co/api-reference/endpoints/customers->-credits/update-credit-topup-expiration.md): Update the expiration date of a topup credit transaction. Only non-expired topup transactions can be updated.
+- [Create payment method](https://docs.hyperline.co/api-reference/endpoints/customers->-payment-methods/create-payment-method.md): Import an existing customer payment method from a connected payment provider.
+- [Delete payment method](https://docs.hyperline.co/api-reference/endpoints/customers->-payment-methods/delete-payment-method.md): Delete an existing customer payment method.
+- [Get payment method](https://docs.hyperline.co/api-reference/endpoints/customers->-payment-methods/get-payment-method.md): Retrieve the details of an existing customer payment method.
+- [List payment methods](https://docs.hyperline.co/api-reference/endpoints/customers->-payment-methods/list-payment-methods.md): Retrieve payment methods attached to a customer.
+- [Create segment](https://docs.hyperline.co/api-reference/endpoints/customers->-segments/create-segment.md): Create a new customer segment.
+- [Delete segment](https://docs.hyperline.co/api-reference/endpoints/customers->-segments/delete-segment.md): Delete an existing customer segment.
+- [Get segment](https://docs.hyperline.co/api-reference/endpoints/customers->-segments/get-segment.md): Retrieve the details of an existing customer segment.
+- [List segments](https://docs.hyperline.co/api-reference/endpoints/customers->-segments/list-segments.md): Retrieve all customer segments.
+- [Update segment](https://docs.hyperline.co/api-reference/endpoints/customers->-segments/update-segment.md): Update an existing customer segment.
+- [Archive customer](https://docs.hyperline.co/api-reference/endpoints/customers/archive-customer.md): Archive an existing customer.
+- [Bulk update providers/customers mapping](https://docs.hyperline.co/api-reference/endpoints/customers/bulk-update-providerscustomers-mapping.md): Bulk update providers/customers mapping, make sure to check the query response to see if all customers were updated.
+- [Create customer](https://docs.hyperline.co/api-reference/endpoints/customers/create-customer.md): Create a new customer.
+- [Create customers batch](https://docs.hyperline.co/api-reference/endpoints/customers/create-customers-batch.md): Create a batch of new customers.
+- [Delete customer](https://docs.hyperline.co/api-reference/endpoints/customers/delete-customer.md): Delete an existing customer. The customer must be archived prior to the deletion.
+- [Get customer](https://docs.hyperline.co/api-reference/endpoints/customers/get-customer.md): Retrieve the details of an existing customer.
+- [Get customer](https://docs.hyperline.co/api-reference/endpoints/customers/get-customer-1.md): We recommend using the `GET /v2/customers/{id}` endpoint instead.
+- [Get customer portal](https://docs.hyperline.co/api-reference/endpoints/customers/get-customer-portal.md): Retrieve the URL of the customer portal.
+- [Get customer tax rates](https://docs.hyperline.co/api-reference/endpoints/customers/get-customer-tax-rates.md): Retrieve the eligible tax rates for a customer.
+- [Get customer valuation](https://docs.hyperline.co/api-reference/endpoints/customers/get-customer-valuation.md): Compute aggregated valuation metrics across all active subscriptions for a customer.
+- [List customers](https://docs.hyperline.co/api-reference/endpoints/customers/list-customers.md): We recommend using the `GET /v2/customers` endpoint instead.
+- [List customers](https://docs.hyperline.co/api-reference/endpoints/customers/list-customers-1.md): Retrieve existing customers.
+- [Unarchive customer](https://docs.hyperline.co/api-reference/endpoints/customers/unarchive-customer.md): Unarchive an archived customer.
+- [Update customer](https://docs.hyperline.co/api-reference/endpoints/customers/update-customer.md): Update the details of an existing customer.
+- [Create export](https://docs.hyperline.co/api-reference/endpoints/exports/create-export.md): Prepare an export of a given type for download. You can check the export readiness status using the GET endpoint. Once the export is ready, download the export using the download endpoint.
+- [Download export](https://docs.hyperline.co/api-reference/endpoints/exports/download-export.md): Download the file associated with a specific export. Pass `as_redirect=true` to receive a 302 redirect to a short-lived S3 signed URL instead of the file body.
+- [Get export](https://docs.hyperline.co/api-reference/endpoints/exports/get-export.md): Retrieve the details of an existing export.
+- [List exports](https://docs.hyperline.co/api-reference/endpoints/exports/list-exports.md): List previously created exports, most recent first.
+- [Create file](https://docs.hyperline.co/api-reference/endpoints/files/create-file.md): Create a new file.
+- [Delete file](https://docs.hyperline.co/api-reference/endpoints/files/delete-file.md): Delete an existing file.
+- [Download file](https://docs.hyperline.co/api-reference/endpoints/files/download-file.md): Download an existing file content.
+- [List files](https://docs.hyperline.co/api-reference/endpoints/files/list-files.md): Retrieve existing files.
+- [Create component token](https://docs.hyperline.co/api-reference/endpoints/integrations/create-component-token.md): Create a new token for embedded components.
+- [Create transaction](https://docs.hyperline.co/api-reference/endpoints/invoices->-transactions/create-transaction.md): Create a transaction linked to an existing invoice. This may update the invoice status to paid/partially paid.
+- [Delete transaction](https://docs.hyperline.co/api-reference/endpoints/invoices->-transactions/delete-transaction.md): Delete a transaction linked to an existing invoice. Only applies to scheduled transaction.
+- [Charge invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/charge-invoice.md): Manually trigger the payment of the invoice.
+- [Create credit note](https://docs.hyperline.co/api-reference/endpoints/invoices/create-credit-note.md): Create a credit note for an existing invoice.
+- [Create invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/create-invoice.md): Create a new invoice.
+- [Create invoices](https://docs.hyperline.co/api-reference/endpoints/invoices/create-invoices.md): Create invoices async in batch. Results can be tracked via webhooks with the `invoice.batch.creation_succeeded` and `invoice.batch.creation_failed` events.
+- [Delete invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/delete-invoice.md): Delete an invoice in `draft` status or imported from an external source. For other statuses, the `POST /v1/invoices/{id}/void` endpoint must be used.
+- [Download invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/download-invoice.md): Download the PDF of an existing invoice. If the invoice is in draft or open status, the PDF will be generated without redirect
+- [Get invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/get-invoice.md): We recommend using the `GET /v2/invoices/{id}` endpoint instead.
+- [Get invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/get-invoice-1.md): Retrieve the details of an existing invoice.
+- [List invoices](https://docs.hyperline.co/api-reference/endpoints/invoices/list-invoices.md): We recommend using the `GET /v2/invoices` endpoint instead.
+- [List invoices](https://docs.hyperline.co/api-reference/endpoints/invoices/list-invoices-1.md): Retrieve existing invoices. By default, invoices with status open are not included.
+- [Mark as uncollectible](https://docs.hyperline.co/api-reference/endpoints/invoices/mark-as-uncollectible.md): Mark an invoice as uncollectible, useful for keeping track of bad debts that can be written off for accounting purposes.
+- [Update invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/update-invoice.md): Update an invoice in draft or grace_period status.
+- [Upload PDF to invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/upload-pdf-to-invoice.md): Upload a PDF file to an existing invoice.
+- [Validate draft invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/validate-draft-invoice.md): Send a draft invoice for payment, set the status to `to_pay` and its number. This is not reversible.
+- [Void invoice](https://docs.hyperline.co/api-reference/endpoints/invoices/void-invoice.md): Void an invoice in a `to_pay` status. This action generates a corresponding credit note.
+- [Create invoicing entity](https://docs.hyperline.co/api-reference/endpoints/invoicing-entities/create-invoicing-entity.md): Create a new invoicing entity to send invoices from.
+- [Delete invoicing entity](https://docs.hyperline.co/api-reference/endpoints/invoicing-entities/delete-invoicing-entity.md): Soft deletes an invoicing entity. This action won't delete the associated invoices.
+- [Get invoicing entity](https://docs.hyperline.co/api-reference/endpoints/invoicing-entities/get-invoicing-entity.md): Retrieve a specific invoicing entity.
+- [List invoicing entities](https://docs.hyperline.co/api-reference/endpoints/invoicing-entities/list-invoicing-entities.md): Retrieve existing invoicing entities.
+- [Update invoicing entity](https://docs.hyperline.co/api-reference/endpoints/invoicing-entities/update-invoicing-entity.md): Update an existing invoicing entity.
+- [Authorize](https://docs.hyperline.co/api-reference/endpoints/oauth2/authorize.md): Initiates OAuth authorization flow.
+- [Generate tokens](https://docs.hyperline.co/api-reference/endpoints/oauth2/generate-tokens.md): Exchange authorization code for access token or refresh an existing token.
+- [Get user info](https://docs.hyperline.co/api-reference/endpoints/oauth2/get-user-info.md): Returns user information for the authenticated access token.
+- [OAuth callback](https://docs.hyperline.co/api-reference/endpoints/oauth2/oauth-callback.md): Handles authorization callback and redirects to client's registered URI.
+- [Register OAuth client](https://docs.hyperline.co/api-reference/endpoints/oauth2/register-oauth-client.md): Register a dynamic OAuth client per RFC 7591.
+- [Revoke token](https://docs.hyperline.co/api-reference/endpoints/oauth2/revoke-token.md): Revoke an access or refresh token.
+- [Get organisation](https://docs.hyperline.co/api-reference/endpoints/organisations/get-organisation.md): Retrieve the details of an existing organisation.
+- [Patch organisation](https://docs.hyperline.co/api-reference/endpoints/organisations/patch-organisation.md): Update the details of an existing organisation.
+- [Create payment](https://docs.hyperline.co/api-reference/endpoints/payments/create-payment.md): Initiate a new payment (limited to one-time): generate an invoice and charge it directly or with a checkout session
+- [Add products to price book](https://docs.hyperline.co/api-reference/endpoints/price-books/add-products-to-price-book.md): Add products to a price book by copying their default price configurations.
+- [Create price book](https://docs.hyperline.co/api-reference/endpoints/price-books/create-price-book.md): Create a new price book.
+- [Delete price book](https://docs.hyperline.co/api-reference/endpoints/price-books/delete-price-book.md): Delete an existing price book.
+- [Get price book](https://docs.hyperline.co/api-reference/endpoints/price-books/get-price-book.md): Retrieve the details of an existing price book.
+- [List price books](https://docs.hyperline.co/api-reference/endpoints/price-books/list-price-books.md): Retrieve existing price books.
+- [Remove product from price book](https://docs.hyperline.co/api-reference/endpoints/price-books/remove-product-from-price-book.md): Remove a product and its price configurations from a price book.
+- [Update price book](https://docs.hyperline.co/api-reference/endpoints/price-books/update-price-book.md): Update the details of an existing price book.
+- [Create price configuration](https://docs.hyperline.co/api-reference/endpoints/price-configurations/create-price-configuration.md): Create a new price configuration on an existing product.
+- [Delete price configuration](https://docs.hyperline.co/api-reference/endpoints/price-configurations/delete-price-configuration.md): Delete an existing price configuration.
+- [List price configurations](https://docs.hyperline.co/api-reference/endpoints/price-configurations/list-price-configurations.md): Retrieve existing price configurations.
+- [Update prices](https://docs.hyperline.co/api-reference/endpoints/price-configurations/update-prices.md): Update prices of an existing price configuration.
+- [Archive product](https://docs.hyperline.co/api-reference/endpoints/products/archive-product.md): Archive an existing product.
+- [Create product](https://docs.hyperline.co/api-reference/endpoints/products/create-product.md): Create a new product.
+- [Get product](https://docs.hyperline.co/api-reference/endpoints/products/get-product.md): Retrieve the details of an existing product. Only the first 50 price configurations are returned, to retrieve all of them use `GET /v1/price-configurations`.
+- [List products](https://docs.hyperline.co/api-reference/endpoints/products/list-products.md): Retrieve existing products.
+- [Unarchive product](https://docs.hyperline.co/api-reference/endpoints/products/unarchive-product.md): Unarchive an archived product.
+- [Update product](https://docs.hyperline.co/api-reference/endpoints/products/update-product.md): Update the details of an existing product.
+- [Approve quote](https://docs.hyperline.co/api-reference/endpoints/quotes/approve-quote.md): Approve an existing quote (acting as the account owner).
+- [Create quote](https://docs.hyperline.co/api-reference/endpoints/quotes/create-quote.md): Create a new quote.
+- [Download quote](https://docs.hyperline.co/api-reference/endpoints/quotes/download-quote.md): Download an existing quote.
+- [Download quote file](https://docs.hyperline.co/api-reference/endpoints/quotes/download-quote-file.md): Download a file (attachment or manually signed file) attached to an existing quote.
+- [Get quote](https://docs.hyperline.co/api-reference/endpoints/quotes/get-quote.md): Retrieve the details of an existing quote.
+- [Get quote valuation](https://docs.hyperline.co/api-reference/endpoints/quotes/get-quote-valuation.md): Compute valuation metrics for an existing quote.
+- [List quotes](https://docs.hyperline.co/api-reference/endpoints/quotes/list-quotes.md): Retrieve existing quotes.
+- [Send quote](https://docs.hyperline.co/api-reference/endpoints/quotes/send-quote.md): Send an existing quote by email for signature.
+- [Sign quote](https://docs.hyperline.co/api-reference/endpoints/quotes/sign-quote.md): Manually mark the quote as signed externally. Built-in Hyperline signature flow won't be used.
+- [Void quote](https://docs.hyperline.co/api-reference/endpoints/quotes/void-quote.md): Void an existing quote.
+- [Get subscription phase](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-phases/get-subscription-phase.md): Retrieve the details of a phase for an existing subscription.
+- [List subscription phases](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-phases/list-subscription-phases.md): Retrieve the details of the phases for an existing subscription.
+- [Transition subscription to next phase](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-phases/transition-subscription-to-next-phase.md): Update a subscription and transition it to the next available phase.
+- [Create subscription template](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/create-subscription-template.md): Create a new subscription template.
+- [Create subscription template configuration](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/create-subscription-template-configuration.md): Add a configuration (currency/country, phases, products, contract terms) to a subscription template.
+- [Delete subscription template](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/delete-subscription-template.md): Delete a subscription template. Fails if a quote template depends on it.
+- [Delete subscription template configuration](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/delete-subscription-template-configuration.md): Delete a configuration from a subscription template.
+- [Get subscription template](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/get-subscription-template.md): Retrieve an existing subscription template with its configurations details.
+- [List subscription templates](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/list-subscription-templates.md): Retrieve existing subscription templates.
+- [Update subscription template](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/update-subscription-template.md): Update the name or description of a subscription template.
+- [Update subscription template configuration](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-templates/update-subscription-template-configuration.md): Replace an existing configuration for a subscription template.
+- [Cancel subscription transition](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-transitions/cancel-subscription-transition.md): Cancel a scheduled subscription transition.
+- [Create subscription transition](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-transitions/create-subscription-transition.md): Transition a subscription to another subscription, configured from a subscription, a plan or a template. If the application_schedule is `immediately`, the transition is applied right away.
+- [Get subscription transition](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-transitions/get-subscription-transition.md): Retrieve the details of an existing subscription transition.
+- [List subscription transitions](https://docs.hyperline.co/api-reference/endpoints/subscriptions->-transitions/list-subscription-transitions.md): Retrieve existing subscription transitions.
+- [Activate subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/activate-subscription.md): Manually start a subscription for the first time.
+- [Cancel subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/cancel-subscription.md): Cancel an existing subscription.
+- [Create subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/create-subscription.md): Create a new subscription from a plan or manually with products.
+- [Create subscription update](https://docs.hyperline.co/api-reference/endpoints/subscriptions/create-subscription-update.md): Create an update to apply on an existing subscription.
+- [Create subscription updates](https://docs.hyperline.co/api-reference/endpoints/subscriptions/create-subscription-updates.md): Create multiple updates to apply at once to an existing subscription.
+- [Get subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/get-subscription.md): Retrieve the details of an existing subscription.
+- [Get subscription valuation](https://docs.hyperline.co/api-reference/endpoints/subscriptions/get-subscription-valuation.md): Compute valuation metrics for an existing subscription.
+- [List subscriptions](https://docs.hyperline.co/api-reference/endpoints/subscriptions/list-subscriptions.md): Retrieve existing subscriptions. By default, draft, voided, and cancelled subscriptions are not included.
+- [Pause subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/pause-subscription.md): Pause a subscription.
+- [Reactivate subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/reactivate-subscription.md): Reactivate a paused subscription.
+- [Refresh seat products](https://docs.hyperline.co/api-reference/endpoints/subscriptions/refresh-seat-products.md): Triggers 'count' updates on connected seat products within the subscription. This action will use the dataloader query to retrieve and update the number of units for each seat product.
+- [Refresh subscriptions](https://docs.hyperline.co/api-reference/endpoints/subscriptions/refresh-subscriptions.md): Triggers refresh of subscriptions usage data and related open invoices. This action is used when the automatic billing update upon ingestion option is disabled for the account.
+- [Reinstate subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/reinstate-subscription.md): Reinstate an existing subscription scheduled for cancellation.
+- [Renew subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/renew-subscription.md): This action will move the subscription into the future up to a specific date (exclusive), as if the renewals had occurred. As a result, the corresponding future invoices will be generated.
+- [Simulate subscription updates](https://docs.hyperline.co/api-reference/endpoints/subscriptions/simulate-subscription-updates.md): Simulate the effect of updates on a subscription without actually applying them.
+- [Update subscription](https://docs.hyperline.co/api-reference/endpoints/subscriptions/update-subscription.md): Update configuration of a subscription including phases and products.
+- [Get tax rate](https://docs.hyperline.co/api-reference/endpoints/taxes/get-tax-rate.md): Retrieve the details of an existing custom tax rate.
+- [List tax rates](https://docs.hyperline.co/api-reference/endpoints/taxes/list-tax-rates.md): Retrieve existing custom tax rates.
+- [Create app](https://docs.hyperline.co/api-reference/endpoints/third-party-apps/create-app.md): Create a new third-party app.
+- [Delete app](https://docs.hyperline.co/api-reference/endpoints/third-party-apps/delete-app.md): Delete an existing third-party app.
+- [List apps](https://docs.hyperline.co/api-reference/endpoints/third-party-apps/list-apps.md): Retrieve existing third-party apps.
+- [Update app](https://docs.hyperline.co/api-reference/endpoints/third-party-apps/update-app.md): Update an existing third-party app.
+- [Get user role](https://docs.hyperline.co/api-reference/endpoints/users->-roles/get-user-role.md): Retrieve the details of an existing user role.
+- [List user roles](https://docs.hyperline.co/api-reference/endpoints/users->-roles/list-user-roles.md): Retrieve existing user roles.
+- [Get user](https://docs.hyperline.co/api-reference/endpoints/users/get-user.md): Retrieve the details of an existing user.
+- [List users](https://docs.hyperline.co/api-reference/endpoints/users/list-users.md): Retrieve existing users.
+- [Create wallet](https://docs.hyperline.co/api-reference/endpoints/wallets/create-wallet.md): Create a new wallet.
+- [Get wallet](https://docs.hyperline.co/api-reference/endpoints/wallets/get-wallet.md): Retrieve the details of an existing wallet.
+- [Get wallet settings](https://docs.hyperline.co/api-reference/endpoints/wallets/get-wallet-settings.md): Retrieve the global settings of the wallets.
+- [List wallet transactions](https://docs.hyperline.co/api-reference/endpoints/wallets/list-wallet-transactions.md): Retrieve all transactions of an existing wallet.
+- [List wallets](https://docs.hyperline.co/api-reference/endpoints/wallets/list-wallets.md): Retrieve existing wallets.
+- [Load wallet](https://docs.hyperline.co/api-reference/endpoints/wallets/load-wallet.md): Load credits on an existing wallet. The related customer must have an active payment method.
+- [Revert wallet load](https://docs.hyperline.co/api-reference/endpoints/wallets/revert-wallet-load.md): Revert a credit wallet transaction. Voids the related credit note/document and creates a debit transaction.
+- [Update wallet](https://docs.hyperline.co/api-reference/endpoints/wallets/update-wallet.md): Update the details of an existing wallet.
+- [Update wallet settings](https://docs.hyperline.co/api-reference/endpoints/wallets/update-wallet-settings.md): Update the global settings of the wallets.
+- [Create webhook endpoint](https://docs.hyperline.co/api-reference/endpoints/webhooks/create-webhook-endpoint.md): Create a new webhook endpoint.
+- [Delete webhook endpoint](https://docs.hyperline.co/api-reference/endpoints/webhooks/delete-webhook-endpoint.md): Delete an existing webhook endpoint.
+- [Get webhook endpoint](https://docs.hyperline.co/api-reference/endpoints/webhooks/get-webhook-endpoint.md): Retrieve an existing webhook endpoint.
+- [List webhook endpoints](https://docs.hyperline.co/api-reference/endpoints/webhooks/list-webhook-endpoints.md): Retrieve all webhook endpoints.
+- [List webhook messages](https://docs.hyperline.co/api-reference/endpoints/webhooks/list-webhook-messages.md): Retrieve all webhook messages sent.
+- [Update webhook endpoint](https://docs.hyperline.co/api-reference/endpoints/webhooks/update-webhook-endpoint.md): Update an existing webhook endpoint.
+- [Product updates June, 2025](https://docs.hyperline.co/changelog/2025-06.md)
+- [Product updates July, 2025](https://docs.hyperline.co/changelog/2025-07.md)
+- [Product updates August, 2025](https://docs.hyperline.co/changelog/2025-08.md)
+- [Product updates September, 2025](https://docs.hyperline.co/changelog/2025-09.md)
+- [Product updates October, 2025](https://docs.hyperline.co/changelog/2025-10.md)
+- [Product updates November, 2025](https://docs.hyperline.co/changelog/2025-11.md)
+- [Product updates December, 2025](https://docs.hyperline.co/changelog/2025-12.md)
+- [Product updates January, 2026](https://docs.hyperline.co/changelog/2026-01.md)
+- [Product updates February, 2026](https://docs.hyperline.co/changelog/2026-02.md)
+- [Product updates March, 2026](https://docs.hyperline.co/changelog/2026-03.md)
+- [Product updates April, 2026](https://docs.hyperline.co/changelog/2026-04.md)
+- [Chart of accounts](https://docs.hyperline.co/docs/accounting/accounts.md): Manage the general ledger accounts used in your Hyperline accounting ledger
+- [Journal entries](https://docs.hyperline.co/docs/accounting/entries.md): Browse journal entry lines and drill into the details of each entry
+- [Ledgers](https://docs.hyperline.co/docs/accounting/ledgers.md): Create and manage accounting ledgers in Hyperline
+- [Overview](https://docs.hyperline.co/docs/accounting/overview.md): Understand how Hyperline automates general ledger accounting, journal entries, and revenue recognition
+- [Revenue recognition](https://docs.hyperline.co/docs/accounting/revenue-recognition.md): Automate deferred revenue and recognition schedules with Hyperline's revenue recognition engine
+- [Accounting rules](https://docs.hyperline.co/docs/accounting/rules.md): Configure the rules that determine which GL accounts are debited and credited for each billing event
+- [Dashboard](https://docs.hyperline.co/docs/analytics/dashboard.md)
+- [Insights](https://docs.hyperline.co/docs/analytics/insights.md): Learn about the financial insights available in Hyperline
+- [Reports](https://docs.hyperline.co/docs/analytics/reports.md): Learn about pre-built reports available in Hyperline
+- [Coupons](https://docs.hyperline.co/docs/coupons/overview.md): Learn about creating and applying coupons in Hyperline
+- [Set-up credits on your account](https://docs.hyperline.co/docs/credits/overview.md): Learn how to set-up customer credit ledgers
+- [Customer exports](https://docs.hyperline.co/docs/customers/exports.md): Learn how to export your customers
+- [Organisation-based billing](https://docs.hyperline.co/docs/customers/organisation-based.md): Learn how to bill customers together
+- [Customers](https://docs.hyperline.co/docs/customers/overview.md): Manage the individuals and companies you bill
+- [Public customer portal](https://docs.hyperline.co/docs/customers/portal.md): Learn about the hosted customer portal page
+- [Customer segments](https://docs.hyperline.co/docs/customers/segments.md): Group customers dynamically using rule-based filters
+- [Configure your account](https://docs.hyperline.co/docs/getting-started/configure-account.md)
+- [Supported currencies](https://docs.hyperline.co/docs/getting-started/currencies.md): Learn about supported currencies and different types
+- [Email settings](https://docs.hyperline.co/docs/getting-started/emails.md): Learn about your account email settings
+- [Invoicing entities](https://docs.hyperline.co/docs/getting-started/invoicing-entities.md): Manage all your companies and subsidiaries within same Hyperline account
+- [Markdown format text](https://docs.hyperline.co/docs/getting-started/markdown.md): Stylize your text to your liking in selected text areas
+- [Multiple accounts](https://docs.hyperline.co/docs/getting-started/multiple-accounts.md): Manage multiple companies on Hyperline
+- [Testing mode](https://docs.hyperline.co/docs/getting-started/sandbox.md): Learn how you can experiment with billing safely before going to production
+- [Users & permissions](https://docs.hyperline.co/docs/getting-started/users.md): Invite team members and set permissions to collaborate on Hyperline
+- [Home](https://docs.hyperline.co/docs/index.md)
+- [Glossary](https://docs.hyperline.co/docs/introduction/glossary.md): Learn more about Hyperline's key concepts and their definitions
+- [Why building your billing system in-house is not a good idea](https://docs.hyperline.co/docs/introduction/why-billing-is-complex.md)
+- [Invoice configuration](https://docs.hyperline.co/docs/invoices/configuration.md): Learn how to configure your invoices
+- [Custom documents](https://docs.hyperline.co/docs/invoices/documents.md): How to customize your custom documents
+- [Chorus Pro](https://docs.hyperline.co/docs/invoices/einvoicing/chorus-pro.md): Learn about automatic invoice transmission via Chorus Pro in France
+- [Overview](https://docs.hyperline.co/docs/invoices/einvoicing/overview.md): Learn about electronic invoicing compliance in Hyperline
+- [Peppol](https://docs.hyperline.co/docs/invoices/einvoicing/peppol.md): Learn about automatic invoice transmission via Peppol in Belgium
+- [Invoice emails](https://docs.hyperline.co/docs/invoices/emails.md): Overview about customer email notifications for invoices
+- [Invoice exports](https://docs.hyperline.co/docs/invoices/exports.md): Learn how to export your invoices
+- [Public invoice page](https://docs.hyperline.co/docs/invoices/invoice-page.md): Easily share a dedicated invoice page with your customers
+- [Manage invoices](https://docs.hyperline.co/docs/invoices/manage.md): Create, edit, and duplicate invoices manually
+- [Overview](https://docs.hyperline.co/docs/invoices/overview.md): Overview of the invoice concept
+- [Reconciliation](https://docs.hyperline.co/docs/invoices/reconciliations.md): Learn how invoice reconciliation works in Hyperline
+- [Credit notes & refunds](https://docs.hyperline.co/docs/invoices/refunds.md): Learn how to issue credit notes and refund invoices
+- [Invoice reminders & dunning](https://docs.hyperline.co/docs/invoices/reminders.md): Learn how to automate your payment reminders and dunning process
+- [Tax management](https://docs.hyperline.co/docs/invoices/tax-management.md): Taxes computation can drive a lot of complexity into your invoicing process. Luckily, Hyperline can manage this for you, at no extra cost.
+- [Invoice payment term](https://docs.hyperline.co/docs/invoices/term.md): Learn about invoices payment term settings
+- [Payment orchestration](https://docs.hyperline.co/docs/payments/orchestration.md): Learn how Hyperline orchestrates payment providers
+- [Handling payment errors](https://docs.hyperline.co/docs/payments/payment-errors.md): Learn how to handle invoice payment errors
+- [Payment methods](https://docs.hyperline.co/docs/payments/payment-methods.md): Learn about supported payment methods
+- [Scheduled transactions](https://docs.hyperline.co/docs/payments/scheduled-transactions.md): Plan one or several future transactions on invoices
+- [Price books](https://docs.hyperline.co/docs/price-books/overview.md): Learn about extending your product catalog with price books and fine-grained pricing attribution
+- [Usage-based options](https://docs.hyperline.co/docs/products/metering.md): Learn about metering in Hyperline
+- [Products & prices](https://docs.hyperline.co/docs/products/overview.md): Learn about product types and pricing in Hyperline
+- [Custom properties](https://docs.hyperline.co/docs/properties/overview.md): Learn how to adapt Hyperline to your extra needs using custom properties
+- [Quote approval](https://docs.hyperline.co/docs/quotes/approval.md): Learn about the Hyperline quote approval process
+- [Quote for one-off invoice](https://docs.hyperline.co/docs/quotes/one-off-invoice.md): Create a quote for a non recurring payment
+- [Create and send quotes](https://docs.hyperline.co/docs/quotes/overview.md): Streamline your CPQ process with Hyperline
+- [Quote signature](https://docs.hyperline.co/docs/quotes/signature.md): Learn about Hyperline quote signature process
+- [Hyperline CPQ ↔ Stripe Billing](https://docs.hyperline.co/docs/quotes/stripe-billing.md): Learn how to integrate Hyperline CPQ with your existing Stripe Billing setup
+- [Quote for subscription update](https://docs.hyperline.co/docs/quotes/subscription-update.md): Create a quote to update an existing subscription
+- [Quote templates](https://docs.hyperline.co/docs/quotes/templates.md): Streamline your quoting process
+- [Overview](https://docs.hyperline.co/docs/sentinel/overview.md): Monitor your billing operations with Sentinel, Hyperline's real-time alerting system
+- [Checkout page](https://docs.hyperline.co/docs/subscriptions/checkout-page.md): Hosted payment page that lets your customers subscribe and complete purchases securely
+- [Automated seat-based billing](https://docs.hyperline.co/docs/subscriptions/connected-seats.md): Track seats, licenses, users, or any other quantity in real time as part of your subscriptions
+- [Contract duration](https://docs.hyperline.co/docs/subscriptions/contracts.md): Add a contract duration to your subscription
+- [Subscription basic setup](https://docs.hyperline.co/docs/subscriptions/create.md): Assign subscriptions to customers in Hyperline
+- [Subscription exports](https://docs.hyperline.co/docs/subscriptions/exports.md): Learn how to export your subscriptions
+- [Manage a subscription](https://docs.hyperline.co/docs/subscriptions/manage.md): Manage a subscription lifecycle, pause or cancel it
+- [How do subscriptions work?](https://docs.hyperline.co/docs/subscriptions/overview.md): Overview of the subscription concept
+- [Subscription phases](https://docs.hyperline.co/docs/subscriptions/phases.md): Create subscriptions with planned ramp-ups
+- [Subscription templates](https://docs.hyperline.co/docs/subscriptions/templates.md): Streamline your subscription assignment process
+- [Update subscription](https://docs.hyperline.co/docs/subscriptions/update.md): Make changes to a subscription configuration, products, and phases
+- [Aggregators](https://docs.hyperline.co/docs/usage/aggregators.md): Configure aggregators to transform raw events into billable metrics
+- [Connect with BigQuery](https://docs.hyperline.co/docs/usage/bigquery.md): Pull data automatically from your BigQuery project
+- [Customer usage](https://docs.hyperline.co/docs/usage/customer-usage.md): Monitor real-time aggregator usage per customer with charts, filters, and event exploration
+- [Explore your data usage](https://docs.hyperline.co/docs/usage/explore-usage-consumption.md): Exploring your data usage to understand how your customers are consuming your products
+- [Getting Started](https://docs.hyperline.co/docs/usage/getting-started.md): Configure your first usage-based subscription
+- [Global usage](https://docs.hyperline.co/docs/usage/global-usage.md): Monitor aggregated usage across all customers and identify top consumers per aggregator
+- [Import events with a CSV file](https://docs.hyperline.co/docs/usage/import-events-csv.md)
+- [Connect with MongoDB](https://docs.hyperline.co/docs/usage/mongodb.md): Pull data automatically from your MongoDB database
+- [Send usage data](https://docs.hyperline.co/docs/usage/send-usage-data.md): Learn how to send usage data in Hyperline
+- [Simulate usage data](https://docs.hyperline.co/docs/usage/simulate-usage-data.md): Simulate usage data without code for testing purposes
+- [Connect with Snowflake](https://docs.hyperline.co/docs/usage/snowflake.md): Pull data automatically from your Snowflake warehouse
+- [Pull usage data with connectors](https://docs.hyperline.co/docs/usage/usage-data-with-connectors.md): No-code usage based with Hyperline connectors and automatic data pulling
+- [Manage wallet balances](https://docs.hyperline.co/docs/wallets/balance.md): Learn about top-ups, debits, and balances
+- [Overview](https://docs.hyperline.co/docs/wallets/overview.md): Learn about invoice prepayment with Hyperline wallets
+- [Bulk update subscriptions](https://docs.hyperline.co/guides/bulk-update-subscriptions.md): Learn how to add products or make changes to multiple subscriptions at once using the API
+- [Configure usage-based billing](https://docs.hyperline.co/guides/configure-usage-based-billing.md): Step-by-step guide to set up your first usage-based subscription
+- [Set up credit-based billing for an AI platform](https://docs.hyperline.co/guides/credit-based-billing-ai.md): Step-by-step guide to implement a credit system with weighted consumption across multiple AI models
+- [Implement Hyperline for a self-serve product](https://docs.hyperline.co/guides/implement-self-serve.md)
+- [Importing historical data](https://docs.hyperline.co/guides/importing-historical-data.md): Import customers, subscriptions, and invoices from another billing system
+- [Keyboard shortcuts](https://docs.hyperline.co/guides/keyboard-shortcuts.md): Move around Hyperline, search anything, create records, and pull data out of tables without touching the mouse
+- [Subscription billing cycles](https://docs.hyperline.co/guides/subscription-billing-cycles.md): Learn how to change the billing cycle alignment of a subscription using the advanced update feature
+- [Adyen](https://docs.hyperline.co/integrations/adyen.md): Learn how to collect payments through Adyen on Hyperline
+- [Airwallex](https://docs.hyperline.co/integrations/airwallex.md): Learn how to collect payments through Airwallex on Hyperline
+- [Anrok](https://docs.hyperline.co/integrations/anrok.md): Learn how to use Anrok as tax engine on Hyperline
+- [Attio](https://docs.hyperline.co/integrations/attio.md): Learn how to connect Attio with Hyperline
+- [Exact Online](https://docs.hyperline.co/integrations/exact-online.md): Learn how to push your invoicing data in your accounting tool
+- [GoCardless](https://docs.hyperline.co/integrations/gocardless.md): Learn how to collect payments through GoCardless on Hyperline
+- [Hightouch](https://docs.hyperline.co/integrations/hightouch.md): Learn how to sync data from Hightouch
+- [HubSpot](https://docs.hyperline.co/integrations/hubspot.md): Learn how to connect HubSpot with Hyperline
+- [Mollie](https://docs.hyperline.co/integrations/mollie.md): Learn how to collect payments through Mollie on Hyperline
+- [NetSuite](https://docs.hyperline.co/integrations/netsuite.md): Learn how to push your invoicing data in your accounting tool
+- [Integrations overview](https://docs.hyperline.co/integrations/overview.md): Learn how Hyperline integrates with your tools stack
+- [Pennylane](https://docs.hyperline.co/integrations/pennylane.md): Learn how to push your invoicing data in your accounting tool
+- [QuickBooks](https://docs.hyperline.co/integrations/quickbooks.md): Learn how to push your invoicing data in your accounting tool
+- [Rillet](https://docs.hyperline.co/integrations/rillet.md): Learn how to push your invoicing data in your accounting tool
+- [Salesforce](https://docs.hyperline.co/integrations/salesforce.md): Learn how to connect Salesforce with Hyperline
+- [Segment](https://docs.hyperline.co/integrations/segment.md): Learn how to ingest events from Segment
+- [Slack](https://docs.hyperline.co/integrations/slack.md): Learn how to send automated messages to Slack
+- [Stripe](https://docs.hyperline.co/integrations/stripe.md): Learn how to collect payments through Stripe on Hyperline
+- [Xero](https://docs.hyperline.co/integrations/xero.md): Learn how to push your invoicing data in your accounting tool
+- [Automate using Zapier](https://docs.hyperline.co/integrations/zapier.md): Overview about Zapier no-code integration
+- [Zoho Books](https://docs.hyperline.co/integrations/zoho-books.md): Learn how to push your invoicing data in your accounting tool
+
+## OpenAPI Specs
+
+- [openapi](https://docs.hyperline.co/openapi)
+- [openapi-main](https://docs.hyperline.co/api-reference/openapi-main.json)
+- [openapi-ingest](https://docs.hyperline.co/api-reference/openapi-ingest.json)

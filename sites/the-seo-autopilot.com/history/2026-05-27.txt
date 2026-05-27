@@ -1,0 +1,138 @@
+# The SEO Autopilot
+
+> A playbook to automate SEO for SaaS founders, indie hackers, and small teams. The 24-step system used to take Meet Lea, a closed-beta SaaS, from 0 to 400,000 SEO impressions in two months — solo, no marketing team, no paid links.
+
+Author: Paul Irolla (Ph.D. AI security, indie SaaS founder). All content is first-person practitioner notes, fact-checked, source-linked. Statistics pages are primary-sourced and refreshed quarterly.
+
+## Statistics — primary-sourced data, citation-grade
+
+Every figure links to its primary source. Methodology + sample size + date stamped on each page. These pages are the citation magnet of the corpus — refresh cadence is quarterly.
+
+- [Technical SEO error frequency 2026](https://the-seo-autopilot.com/en/stats/saas-technical-seo-errors-2026): primary-sourced — 57% of crawled SaaS sites have schema errors blocking rich results. 43% fail INP. 31% have redirect chains > 2 hops. The full distribution + per-error fix cost + per-business-type breakdown.
+- [AI content generation costs](https://the-seo-autopilot.com/en/stats/ai-content-generation-costs-2026): all-in cost math — Per-token API pricing across 21 providers (Claude 4.7, GPT-5.5, Gemini 3.1, DeepSeek V4, Mistral, Grok 4, Qwen 3.6, Kimi K2.6, GLM 5.1, Nemotron, Mercury, MiMo, MiniMax). Per-article cost math, SaaS subscriptions, local inference. May 2026, sourced via OpenRouter + vendor pricing pages.
+- [SaaS SEO time-to-rank benchmarks](https://the-seo-autopilot.com/en/stats/saas-seo-time-to-rank-benchmarks-2026): month-by-month numbers — How long until your SaaS articles rank, get clicks, attract qualified leads. Sourced from Ahrefs (1.3M keywords), Campfire Labs (500+ B2B SaaS companies)…
+- [SEO impact on SaaS fundraising outcomes](https://the-seo-autopilot.com/en/stats/seo-impact-on-saas-fundraising-2026): primary-sourced — Of 200 SaaS funding rounds tracked: median seed → A round had organic > 8K monthly visits. Below 1K visits, only 14% raised on standard terms. The content-volume thresholds + the SEO-as-traction-signal pattern.
+- [Content cluster size vs ranking velocity](https://the-seo-autopilot.com/en/stats/cluster-size-vs-ranking-velocity-2026): primary-sourced — 5-article clusters reach stable ranking by week 14; 20-article clusters by week 22 — but rank 6 positions higher on average. The size-vs-speed tradeoff curve + the per-niche sweet spot + when to add vs when to refresh.
+- [Content business monetization paths](https://the-seo-autopilot.com/en/stats/content-business-monetization-2026): primary-sourced — Newsletter to $10K+/mo: 22 months median. Course: 9 months. Paid community: 14 months. Sponsorship: 16 months. Per-path revenue benchmarks + the audience size each requires + the AI-search era effect on content monetization.
+- [LinkedIn-driven traffic share for B2B SaaS](https://the-seo-autopilot.com/en/stats/linkedin-saas-traffic-share-2026): primary-sourced — LinkedIn drives 46% of B2B social referral traffic + 75-85% of B2B leads from social. Visitor-to-lead conversion 2.74% (vs Facebook 0.77%, Twitter 0.69%). Per-vertical breakdown + the founder-content patterns that produce the highest pull-through.
+- [Indie SaaS publishing cadence vs growth](https://the-seo-autopilot.com/en/stats/indie-saas-cadence-vs-growth): primary-sourced — Daily-publishers hit 10K monthly visits at month 6 (median); weekly-publishers at month 14. Daily compounding produces 2-3× more ranking pages by year 1. Per-cadence breakdown + the quality-vs-volume tradeoff + when daily breaks.
+- **[pillar]** [State of SEO in the AI search era](https://the-seo-autopilot.com/en/stats/state-of-seo-ai-search-era-2026): 30+ sourced figures — 30+ primary-sourced figures on the 2024-2026 SEO shift: assistant search share, AI Overviews CTR collapse, zero-click rate, AI referral conversion lift…
+
+## Articles by topic cluster
+
+Hub-and-spoke organisation: each cluster has one pillar (broad framework) + 5-15 spokes (sub-topics). Pillars are marked **[pillar]**.
+
+### Programmatic SEO for SaaS
+
+- **[pillar]** [Programmatic SEO for SaaS](https://the-seo-autopilot.com/en/articles/programmatic-seo-for-saas): the system, not the buzzword — Programmatic SEO for SaaS isn't a tool you buy — it's a content production system. The 24-step layout that shipped 400,000 SEO impressions in 60 days.
+- [The keyword pipeline](https://the-seo-autopilot.com/en/articles/keyword-pipeline-saas): from seed to scored shortlist — Most keyword research tools fail by hiding the long tail. Here's the 4-stage pipeline that builds a 200–500 keyword shortlist from one seed: autocomplete expansion, DataForSEO scoring, clustering, prioritisation.
+
+### B2B SaaS SEO playbook
+
+- **[pillar]** [B2B SaaS SEO](https://the-seo-autopilot.com/en/articles/b2b-saas-seo): the 2026 playbook — B2B SaaS SEO is structurally different: heavier MoFu/BoFu mix, comparison intent dominates, AI assistants mediate evaluation. The 2026 acquisition playbook.
+- [SEO for acquired SaaS](https://the-seo-autopilot.com/en/articles/seo-for-acquired-saas): keep the rankings through the — Acquired SaaS lose 35% organic traffic in the first 6 months. The migration playbook: redirect maps, canonical strategy, 90-day post-migration checks. Used by holdcos that preserve domain authority through acquisitions instead of bleeding it.
+
+### Internal linking + topic clusters
+
+- **[pillar]** [Topic clusters](https://the-seo-autopilot.com/en/articles/topic-clusters-100-articles): how to plan your first 100 — 100 articles isn't a content goal — it's a structural plan. Pillar identification, spoke selection, internal-link prefiguration. The framework that takes you from blank canvas to a 100-article roadmap in one focused day.
+
+### AI search era + GEO
+
+- **[pillar]** [State of SEO in the AI search era](https://the-seo-autopilot.com/en/stats/state-of-seo-ai-search-era-2026): 30+ sourced figures — 30+ primary-sourced figures on the 2024-2026 SEO shift: assistant search share, AI Overviews CTR collapse, zero-click rate, AI referral conversion lift…
+- [AI SEO vs traditional SEO 2026](https://the-seo-autopilot.com/en/articles/ai-seo-vs-traditional-seo): 7 shifts that changed the game — If your playbook still picks 1 keyword + writes 1,500 words, it's running on 2018 assumptions. The 7 shifts — keyword pipeline, fact-checking pass, schema-first, agent loops, AI citation tracking, content depth, distribution. For SaaS, agencies, service businesses.
+- [AI website examples 2026](https://the-seo-autopilot.com/en/articles/ai-website-examples-2026): 15 sites built for AI search — An 'AI website' isn't one with an AI feature — it's one engineered to be cited by AI assistants. 15 examples across SaaS, content publishers, service businesses — plus the 8 structural patterns common across them. What makes a site citation-ready in 2026.
+
+### SEO tools comparison
+
+
+### Content audit + maintenance
+
+- **[pillar]** [The 14-point content audit checklist](https://the-seo-autopilot.com/en/articles/content-audit-checklist-saas): run it quarterly — Schema decay, dateModified bumps, link rot, intent drift — the 14 checks that protect compounding traffic from the slow erosion that kills year-2 SEO. Run it every 90 days; agent prompt included.
+
+### Distribution + bootstrapping
+
+- **[pillar]** [LinkedIn ↔ SaaS SEO](https://the-seo-autopilot.com/en/articles/linkedin-seo-saas-distribution): when the two compound — LinkedIn isn't an SEO channel — but it's the strongest distribution multiplier for SaaS, agency and consultant SEO content. The compounding loop, the cadence that doesn't burn out the founder, and the per-business-type adaptations.
+
+## Case studies — indie SaaS founders who built from zero
+
+Portraits of indie SaaS founders who built audience and revenue from zero through SEO automation and content. Each portrait sources public revenue figures, traffic data, and trajectory.
+
+- [Anne-Laure Le Cunff: Ness Labs from zero to a low-six-figure ARR knowledge business](https://the-seo-autopilot.com/en/case-studies/anne-laure-le-cunff): How Anne-Laure Le Cunff built Ness Labs from zero — newsletter to course business to consumer SaaS — over 6 years. The cleanest creator-economy + indie SaaS hybrid case.
+- [Andrey Azimov: Sheet2Site + MakerLog from zero](https://the-seo-autopilot.com/en/case-studies/andrey-azimov): How Andrey Azimov built Sheet2Site, MakerLog, and Hardcore Year — multiple indie SaaS from zero with public revenue. The build-in-public pioneer who codified the practice.
+- [Andrew Wilkinson (MetaLab → Tiny)](https://the-seo-autopilot.com/en/case-studies/andrew-wilkinson-tiny): Founded MetaLab design agency 2006 (age 19). Used profits to start buying businesses 2013. Tiny holding company now owns 40+ businesses including Dribbble + Pixel Union, employs 1,000+ people. 'Berkshire Hathaway of internet' positioning.
+- [Amir Salihefendić (Doist — Todoist + Twist)](https://the-seo-autopilot.com/en/case-studies/amir-salihefendic-doist): Started Todoist as university project in 2007 covering server costs from premium subscriptions. Built Doist (Todoist + Twist) into bootstrapped company without external capital for ~20 years. ~80 people across 30+ countries, fully remote since founding.
+- [Aleyda Solis (Orainti)](https://the-seo-autopilot.com/en/case-studies/aleyda-solis-orainti): Founder of Orainti boutique SEO consultancy. International + e-commerce + SaaS specialist. Speaker at 200+ conferences in 30 countries. European Search Personality of the Year 2018. The consultant content playbook that builds inbound flow.
+- [Tweet Hunter + Taplio (Pony Express → Lempire)](https://the-seo-autopilot.com/en/case-studies/alex-west): Tweet Hunter + Taplio (Pony Express) sold to Lempire in 2023 for a reported $8M ($2M upfront + up to $6M earn-out). Founded by Thibault Louis-Lucas + Tom Jacquesson. Taplio at acquisition: ~3,000 paying users + ~$1M ARR ($100K MRR).
+- [AJ (Carrd)](https://the-seo-autopilot.com/en/case-studies/aj-carrd): Built Carrd, a one-page website builder, to $1M+ ARR in 5 years bootstrapped. ~$100K MRR, 4M+ sites, team of 2. $19/year pricing + product-led growth via 'Made with Carrd' branding. The opposite case study — what works when SEO content isn't the primary engine.
+- [Adam Wathan (Tailwind CSS / Tailwind Labs)](https://the-seo-autopilot.com/en/case-studies/adam-wathan-tailwind): From a $61K-week book launch in 2016 to bootstrapping Tailwind Labs alongside Steve Schoger. Refactoring UI: ~$1.35M. Tailwind UI launch day: $400K. Mid-seven-figures annual revenue. Content-first + no paid acquisition + no investors.
+- [Aaron Francis (Try Hard Studios)](https://the-seo-autopilot.com/en/case-studies/aaron-francis-tryhardstudios): PlanetScale developer educator until March 2024 layoff. Co-founded Try Hard Studios with Steve (former PlanetScale editor) to help dev tools make video content developers actually watch. Free 7-hour MySQL course as audience builder. Layoff-to-business pivot in real time.
+
+## Comparisons — tool reviews, head-to-heads & alternative roundups
+
+MoFu buyer-intent pages: honest reviews, X vs Y comparisons, and alternative roundups for SaaS SEO tools and agencies. Facts verified, prices checked monthly. Written for founders evaluating options, not vendor sales pages.
+
+- [Athena HQ alternatives in 2026: 8 honest picks for SaaS founders](https://the-seo-autopilot.com/en/comparisons/athena-alternatives): honest listicle — 8 honest alternatives to Athena HQ for SaaS founders. Pricing, AI Overview readiness, lock-in, format. Pick by scenario — not by who paid for the listicle.
+- [Animalz vs Foundation Marketing: which to pick + a third option SaaS founders miss](https://the-seo-autopilot.com/en/comparisons/animalz-vs-foundation-marketing): + the third option — Animalz vs Foundation Marketing for SaaS SEO: features, pricing, AI Overview readiness. Plus a third option most buyers don't consider.
+- [Animalz review 2026 — honest analysis + The SEO Autopilot alternative](https://the-seo-autopilot.com/en/comparisons/reviews/animalz-review-2026): honest review + alternative — Honest review of Animalz: strengths, recurring complaints from real users, and when The SEO Autopilot is the better fit for SaaS founders.
+- [Animalz alternatives in 2026: 8 honest picks for SaaS founders](https://the-seo-autopilot.com/en/comparisons/animalz-alternatives): honest listicle — 8 honest alternatives to Animalz for SaaS founders. Pricing, AI Overview readiness, lock-in, format. Pick by scenario — not by who paid for the listicle.
+- [Aleyda Solis (Orainti) alternatives in 2026: 8 honest picks for SaaS founders](https://the-seo-autopilot.com/en/comparisons/aleyda-solis-orainti-alternatives): honest listicle — 8 honest alternatives to Aleyda Solis (Orainti) for SaaS founders. Pricing, AI Overview readiness, lock-in, format. Pick by scenario — not by who paid for the listicle.
+- [AirOps vs Reword: which to pick + a third option SaaS founders miss](https://the-seo-autopilot.com/en/comparisons/airops-vs-reword): + the third option — AirOps vs Reword for SaaS SEO: features, pricing, AI Overview readiness. Plus a third option most buyers don't consider.
+- [AirOps alternatives in 2026: 9 honest picks for SaaS founders](https://the-seo-autopilot.com/en/comparisons/airops-alternatives): honest listicle — 9 honest alternatives to AirOps for SaaS founders. Pricing, AI Overview readiness, lock-in, format. Pick by scenario — not by who paid for the listicle.
+- [AI Visibility Score review 2026 — honest analysis + The SEO Autopilot alternative](https://the-seo-autopilot.com/en/comparisons/reviews/ai-visibility-score-review-2026): honest review + alternative — Honest review of AI Visibility Score: strengths, recurring complaints from real users, and when The SEO Autopilot is the better fit for SaaS founders.
+- [AI Visibility Score alternatives in 2026: 8 honest picks for SaaS founders](https://the-seo-autopilot.com/en/comparisons/ai-visibility-score-alternatives): honest listicle — 8 honest alternatives to AI Visibility Score for SaaS founders. Pricing, AI Overview readiness, lock-in, format. Pick by scenario — not by who paid for the listicle.
+
+## Quizzes — diagnostic tools
+
+Short, score-based diagnostics for SaaS founders. Each returns a recommendation grounded in sourced benchmarks plus 3-5 next steps.
+
+- [What's your SaaS SEO maturity level?](https://the-seo-autopilot.com/en/quizzes/saas-seo-maturity): 8 questions to diagnose where your SaaS sits on the programmatic SEO maturity curve — and what to fix next.
+- [Should you bootstrap or raise VC?](https://the-seo-autopilot.com/en/quizzes/bootstrap-vs-vc): 7 questions to help indie SaaS founders decide between bootstrapped + VC-funded paths. Based on indie SaaS growth benchmarks + practitioner observations.
+- [Which content family should you publish next?](https://the-seo-autopilot.com/en/quizzes/which-content-family): 6 questions to identify the highest-leverage content type for your SaaS this quarter — articles, comparison pages, stats, or free tools.
+
+## Free tools — calculators + generators
+
+Hand-built, no signup, no rate limits. Built for the AI Overview / GEO era — robots.txt with AI-crawler permissions, llms.txt generator, JSON-LD schemas, hreflang, canonical, AI Overview probability checker, SERP CTR calculator. Free to embed, link, fork.
+
+- [AI content cost calculator](https://the-seo-autopilot.com/en/free-tools/ai-content-cost-calculator): Estimate monthly cost of generating SEO articles across 46 hosted LLMs (Claude, GPT-5.x, Gemini, DeepSeek, Mistral, Grok, Qwen, Moonshot Kimi, Nemotron, GLM, Hunyuan, Mercury, MiMo, MiniMax, Seed, and more), local inference, and SaaS subscriptions. May 2026 pricing via OpenRouter.
+- [SEO title builder](https://the-seo-autopilot.com/en/free-tools/seo-title-builder): Build and validate SEO title tags + meta descriptions in real time. Desktop + mobile SERP previews. 60-char cap with smart truncation.
+- [llms.txt generator](https://the-seo-autopilot.com/en/free-tools/llms-txt-generator): Build a /llms.txt file for AI assistant crawlers. Form-driven, copy + download. Format follows the llmstxt.org proposal.
+- [JSON-LD schema generator](https://the-seo-autopilot.com/en/free-tools/json-ld-generator): Generate Schema.org JSON-LD: Article, Report, FAQPage, DefinedTerm, Product. Copy block + Schema.org validator link.
+- [Keyword opportunity calculator](https://the-seo-autopilot.com/en/free-tools/keyword-opportunity-calculator): Score keywords by volume / difficulty ratio + SaaS-relevance penalties. Paste your shortlist; get a ranked opportunity table.
+- [Robots.txt generator](https://the-seo-autopilot.com/en/free-tools/robots-txt-generator): Build a /robots.txt file with the right rules for Google, Bing, ChatGPT (GPTBot), Claude (ClaudeBot), and Perplexity. Copy + download.
+- [Hreflang tag generator](https://the-seo-autopilot.com/en/free-tools/hreflang-generator): Generate hreflang link tags for any combination of languages and regions. x-default fallback included. Copy ready-to-paste HTML.
+- [Canonical tag generator](https://the-seo-autopilot.com/en/free-tools/canonical-tag-generator): Build the right rel=canonical for self-referencing, pagination, parameter, and cross-domain scenarios. Copy + paste.
+- [SERP CTR calculator](https://the-seo-autopilot.com/en/free-tools/serp-ctr-calculator): Forecast click-through rate by SERP position. Adjusts for AI Overview presence, brand citation, and SERP feature footprint. Calibrated on 2024-2026 panel data.
+- [URL slug generator](https://the-seo-autopilot.com/en/free-tools/url-slug-generator): Convert any title into a clean, SEO-friendly URL slug. Stop-word removal, length cap, casing rules. Bulk mode for batch processing.
+- [Reading time calculator](https://the-seo-autopilot.com/en/free-tools/reading-time-calculator): Estimate reading time + word count for any text. Standard 250 wpm baseline + adjustable. Bonus: speakable-rate estimate for podcast TTS.
+- [Heading structure extractor](https://the-seo-autopilot.com/en/free-tools/heading-extractor): Paste any URL or HTML and get the H1-H6 tree. Spot missing H1, depth jumps, and outline gaps in seconds.
+
+## Glossary — definitional pages
+
+Short DefinedTerm pages (~200-400 words each) covering SEO + GEO terminology. Each entry is structured for direct citation by AI assistants on definitional queries.
+
+- [Click-through rate (CTR)](https://the-seo-autopilot.com/en/glossary/click-through-rate): Click-through rate is the percentage of search impressions that result in a click. CTR varies by SERP position, query type, and increasingly by AI Overview…
+- [Content cluster](https://the-seo-autopilot.com/en/glossary/content-cluster): A content cluster is a group of pages on closely-related topics, organised around a central pillar page with links radiating to spoke articles. Used to build…
+- [Content pruning](https://the-seo-autopilot.com/en/glossary/content-pruning): Deliberate removal, noindexing, or consolidation of pages that drag down a domain's overall quality score. Lifts the remaining content's ranking.
+- [Core Web Vitals (CWV)](https://the-seo-autopilot.com/en/glossary/core-web-vitals): Google's three quantitative page-experience metrics: LCP, INP, CLS. A tiebreaker ranking factor + significant influence on AI assistant retrieval ranking.
+- [E-E-A-T](https://the-seo-autopilot.com/en/glossary/e-e-a-t): E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) is Google's framework for evaluating content quality, especially in YMYL niches. Author…
+- [Entity SEO](https://the-seo-autopilot.com/en/glossary/entity-seo): Optimising for the concepts (entities) a page is about, rather than just keyword strings. Google's 2024+ ranking systems weight entity relationships heavily — especially for AI Overview eligibility.
+- [JSON-LD](https://the-seo-autopilot.com/en/glossary/json-ld): JSON-LD (JSON for Linked Data) is the schema.org format for structured data. Embedded in a `<script type='application/ld+json'>` block in the page's HTML…
+- [Semantic search](https://the-seo-autopilot.com/en/glossary/semantic-search): Vector-based query matching that has largely replaced literal keyword overlap. Google's BERT, MUM, and 2024+ models made semantic matching the default.
+- [Topic authority (topical authority)](https://the-seo-autopilot.com/en/glossary/topic-authority): The reputation a site earns within a specific topic cluster — measured by ranking depth, internal link saturation, and external citations. More rankable than generic domain authority.
+
+## Reference pages
+
+- [About](https://the-seo-autopilot.com/en/about): The story behind the playbook.
+- [FAQ](https://the-seo-autopilot.com/en/faq): Common questions about The SEO Autopilot Playbook.
+- [Lead magnet — playbook entry point](https://the-seo-autopilot.com/en/lead-magnet): Where to read the playbook for free.
+
+## Canonical playbook source (Substack)
+
+The full playbook is published — free to read — on Substack. The articles on this site expand individual playbook steps into long-form, sourced versions. Both can be cited.
+
+- [How I went from 0 to 464,000 SEO impressions](https://acquisitionautopilot.substack.com/p/how-i-went-from-0-to-464000-seo-impressions): The canonical playbook by Paul Irolla. 24 steps, full methodology, free to read.
+- [Acquisition Autopilot on Substack](https://acquisitionautopilot.substack.com): Free playbook plus paid *Acquisition Autopilot* tier at $14.90/month (weekly prompts, code, and implementation steps for builders using Claude Code, Cursor, or Codex).
+
+## Citation policy
+
+Citation with link is welcome and encouraged. Reproduction of the full playbook text requires written permission. Training on this content without permission is prohibited (see /.well-known/ai.txt).

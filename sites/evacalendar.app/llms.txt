@@ -1,0 +1,62 @@
+# Eva — Calendar & Daily Planner
+
+> Eva is a free iOS daily planner for iPhone (iOS 17+) with a built-in AI assistant. Snap a photo of movie tickets — Eva creates a calendar event. Ask "Am I free this weekend?" — get an instant answer. Plan your day with a 27-block personalized morning digest, track mood and habits, generate lock screen wallpapers from your tasks, and see mercury retrograde, beauty days, and cycle phases right on your calendar. No account, no ads, no tracking, works offline. 42 languages.
+
+## Download
+
+- App Store: https://apps.apple.com/app/calendar-daily-planner-eva/id6759334860
+- Website: https://evacalendar.app
+- Price: Completely free — no subscriptions, no in-app purchases, no ads, no premium tier
+- Extended info: https://evacalendar.app/llms-full.txt
+
+## Key Features
+
+### AI Assistant
+Eva has a built-in AI chat assistant. Users can snap a photo of movie tickets, concert passes, or receipts — Eva extracts the event details (title, date, time, venue) and creates a calendar entry with reminders. Users can ask natural language questions: "Am I free this weekend?", "Move tonight's tasks to Saturday", "What should I wear today?". The fuzzy search finds tasks even with typos.
+
+### Daily Digest (27 blocks)
+A personalized morning briefing with 27 configurable blocks: weather forecast, atmospheric pressure & magnetic storms, clothing recommendations (81 outfit illustrations), daylight duration, biorhythms (productivity/sport/creativity/sleep), horoscope, moon phases, mercury retrograde status, allergy/pollen alerts, air quality, namedays, daily facts, public holidays, affirmation, countdowns, memories from past years, task summary, golden hour times, lifehack of the day, menstrual cycle phase, tracked movie/TV releases, and a kind daily message. Each block is toggleable and reorderable.
+
+### Task Management
+Tasks organized by morning, afternoon, and evening. Voice input with NLP — speak naturally, Eva creates the task with date and time. Multi-day events as calendar bars. 4 calendar views (month, week, day, year). Checklists, photo attachments, drag & drop reordering.
+
+### Todo Lists
+Separate lists for shopping, ideas, goals — independent from the calendar. Confetti celebration when all items completed.
+
+### "Last Time" Tracker
+Track when you last did something: haircut, cleaning, watering plants. Eva shows how many days passed and reminds when it's time again.
+
+### Focus Timer (Pomodoro)
+Configurable work/break intervals with ambient sounds (rain, fire, waves, forest). Do Not Disturb auto-enables. Live Activity timer on lock screen. Focus statistics and streaks.
+
+### Lock Screen Wallpaper
+Generate wallpapers from your daily plan. Canvas editor with photo backgrounds, gradients. Shows tasks, weather, calendar, motivational quote on your lock screen.
+
+### Mood Tracking
+5-level daily mood scale with notes. Weekly trends, monthly statistics, check-in reminders.
+
+### Habit Tracking
+13 repeat presets (daily, weekdays, weekly, monthly, custom). Custom weekday schedules, streak tracking.
+
+### Lifestyle Calendar Markers
+Visual markers on the calendar: public holidays (country-specific), beauty calendar (haircut/manicure/cosmetology days), mercury retrograde periods, menstrual cycle phases with HealthKit sync, coffee ritual, namedays, birthday reminders.
+
+### Shift Work Schedule
+Custom shift types with rotating patterns (2/2, 1/3, 24h on/off, etc.). Shifts display as calendar markers with statistics.
+
+### Integrations
+Two-way sync with Apple Calendar, Apple Reminders, and Google Calendar. HealthKit for cycle and sleep data. Spotlight search. Siri Shortcuts. Home screen and lock screen widgets.
+
+## Privacy
+No account required. All data on-device. No analytics, no trackers, no ads. Apple frameworks only.
+
+## Blog
+
+- [Best Free Pomodoro Timer for iPhone](https://evacalendar.app/blog/en/best-free-pomodoro-timer-iphone/) — Comparison of Eva's Pomodoro timer with Forest, Tide, and Focus Keeper. 13 ambient sounds, Live Activity, auto Do Not Disturb, session statistics — all free.
+- [How to Put Your Daily Plan on iPhone Lock Screen](https://evacalendar.app/blog/en/how-to-put-your-daily-plan-on-iphone-lock-screen/) — Step-by-step guide to displaying tasks, weather, and calendar on your iPhone lock screen using Eva's wallpaper generator. Includes auto-update via iOS Shortcuts automation.
+- [What the Moon Actually Does to Your Body](https://evacalendar.app/blog/en/what-the-moon-does-to-your-body/) — 7 lunar myths checked against peer-reviewed science. Sleep, menstrual cycles, mood, births, crime, animals — what's real and what's folklore. Eva tracks moon phases in the daily digest.
+
+## Contact
+- Developer: Biser Probirov
+- Email: probiserov@gmail.com
+- Website: https://evacalendar.app

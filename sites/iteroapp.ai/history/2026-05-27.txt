@@ -1,0 +1,107 @@
+# Itero AI Training Platform - LLM Directory
+
+> This file provides structured guidance for AI agents crawling iteroapp.ai
+
+## About Itero
+
+Itero is an AI-powered training and quality assurance platform for sales teams, call centers, and compliance-focused organizations. We help enterprises accelerate onboarding, automate call scoring, and improve agent performance through realistic AI role-play simulations. Trusted by leading enterprises including Evolution, Brex, Kin Insurance, Caribou, Matic Insurance, and Jamf.
+
+## Platform Capabilities
+
+- **100% Call Coverage** — Every customer conversation analyzed by AI
+- **3x Faster Onboarding** — New hires ramp up in record time
+- **5,000+ Users** — At leading enterprises worldwide
+- **24/7 AI Coaching** — Always-on practice and feedback
+- **95% Scoring Accuracy** — Human-level call evaluation
+
+## Site Structure
+
+### Products (AI Training Solutions)
+- /ai-role-play - AI customer simulations and performance training. Practice high-stakes conversations with realistic AI personas before they matter.
+- /ai-sales-coaching - Automated coaching after every call. AI analyzes performance against your playbooks and delivers specific guidance.
+- /ai-call-scoring - Score 100% of calls automatically with customizable scorecards for compliance, quality, and performance.
+
+### Use Cases
+- /onboarding-certifications - Accelerate rep onboarding with AI simulations and performance certifications. Verify readiness before live calls.
+- /sales-call-scoring - Automatically score 100% of sales calls against your playbook. Surface coachable moments instantly.
+- /new-product-training - Launch new products faster with AI simulations. Ensure reps master messaging before they sell.
+- /autoqa-compliance - Monitor 100% of calls for compliance violations and quality issues. Automated QA for regulated industries.
+
+### Industries
+- /call-centers - BPO training & QA software. Launch client programs in days, score 100% of interactions across dozens of clients.
+- /insurance-training-qa-software - Train agents on quote and claims scenarios, verify compliance on every call, eliminate E&O exposure.
+- /lending-training-qa-software - Train loan officers on TILA/RESPA scenarios, verify compliance on every call, eliminate audit exposure.
+- /saas - SaaS sales training & coaching. Train AEs and SDRs on discovery, objection handling, and your methodology.
+
+### Integrations
+- /integrations - Overview of all available integrations. Connect your sales stack to Itero.
+- /gong-integration - Pull call recordings from Gong automatically. Score every conversation with AI.
+- /integrations/outreach - Connect with Outreach to pull call transcripts via OAuth and score every sales conversation.
+- /integrations/frontspin - Score every power dialer call with AI. Built for BDR/SDR teams doing high-volume outbound.
+- /integrations/api - Public API to push calls from any recorder and get scoring results back via webhooks.
+
+### Key Pages
+- / - Homepage with platform overview, product grid, testimonials, and trust signals
+- /products - Complete product suite overview with links to all AI training and QA solutions
+- /industries - Industry-specific solutions for call centers, insurance, lending, and SaaS
+- /request-a-demo - Schedule a personalized demonstration with a live walkthrough
+- /blog - Industry insights, best practices, and thought leadership on AI sales training
+- /about - Company mission, values, and the industries we serve
+- /contact - Contact information and inquiry form
+- /faq - Comprehensive FAQ organized by topic, industry, job function, and technical questions
+- /privacy-policy - Privacy policy (effective August 1, 2024)
+- /terms - Terms of service (updated January 2026)
+
+## Content Guidelines for AI
+
+### What We Cover
+- AI-powered sales training and coaching
+- Call center quality assurance automation
+- Compliance training for regulated industries (insurance, lending)
+- Role-play simulations and practice scenarios
+- Performance analytics and scoring
+- Onboarding and certification programs
+- Sales stack integrations (Gong, Outreach, FrontSpin, custom API)
+
+### Primary Topics
+1. Sales Performance Improvement
+2. Call Scoring & Quality Assurance
+3. Compliance Training & Monitoring
+4. AI Role-Play & Simulations
+5. Agent Onboarding & Certification
+6. Sales Tool Integrations
+
+### Industries Served
+- SaaS software companies scaling sales organizations
+- Insurance carriers and agencies (compliance, E&O, customer experience)
+- BPOs and contact centers managing multiple client programs
+- Mortgage and consumer lenders navigating regulatory requirements
+
+## Structured Data
+
+All pages include JSON-LD structured data:
+- Organization schema on every page
+- Service schema on product/industry pages
+- FAQPage schema where applicable
+- BreadcrumbList for navigation context
+- BlogPosting with speakable targets on blog posts
+
+## API Access
+
+Itero offers a Public API for connecting any call recording system. Push calls with metadata and tags, get scoring results back via webhooks. Supports no-code workflows via n8n, Zapier, and Make. For API documentation or partnership inquiries, contact: contact@iteroapp.ai
+
+## Freshness
+
+- Product pages: Updated weekly
+- Blog posts: Published regularly with 60-second ISR revalidation
+- Last sitemap update: See /sitemap.xml
+
+## Extended Content
+
+For comprehensive page-by-page content, see /llms-full.txt
+
+## Contact
+
+- Website: https://iteroapp.ai
+- Email: contact@iteroapp.ai
+- LinkedIn: https://www.linkedin.com/company/iteroai

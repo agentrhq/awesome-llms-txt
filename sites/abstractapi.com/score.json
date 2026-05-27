@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "domain": "abstractapi.com",
+  "display_name": "Abstract API",
+  "category": "comms",
+  "verified_url": "https://www.abstractapi.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:25Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 169725,
+  "last_modified": "Wed, 27 May 2026 05:31:31 GMT",
+  "freshness_age_days": 0,
+  "score": 66,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 6,
+      "reasons": [
+        "redirect_chain"
+      ]
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 3,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 1,
+      "reasons": [
+        "oversized_166kb"
+      ],
+      "kb": 165.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 0,
+      "reasons": [
+        "marketing_fluff",
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Abstract API",
+    "h1_count": 1,
+    "blockquote": "Abstract provides powerful, developer-friendly APIs for data validation, enrichment, and security. Our suite includes Email Validation, IP Geolocation, IP Intelligence, Phone Validation, Company Enrichment, and more — trusted by thousands of developers and businesses worldwide.",
+    "section_count": 7,
+    "subsection_count": 0,
+    "link_count": 654,
+    "value_link_count": 650,
+    "low_value_link_count": 4,
+    "raw_bytes": 169725
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

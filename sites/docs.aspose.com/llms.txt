@@ -1,0 +1,136 @@
+# Aspose Documentation
+
+Comprehensive documentation for Aspose class libraries enabling developers to manipulate and process Word, PDF, Excel, PowerPoint, HTML, Visio, CAD, and other file formats in web, desktop, and mobile applications without external software dependencies.
+
+## Aspose.Font Documentation
+
+Aspose.Font APIs for the .NET, Java, C++, JavaScript, and Node.js developers, building cool fonts processing applicaitons.
+
+### Platforms and Languages
+
+- [Aspose.Font for .NET](https://docs.aspose.com/font/net/): Aspose.Font for .NET is a comprehensive API for the developers, thinking about programming on font styles, fancy fonts and lettering styles.
+- [Aspose.Font for C++](https://docs.aspose.com/font/cpp/): Check Aspose.Font for C++ is a comprehensive API documentation to understand how to load, save, convert fonts of different font formats.
+- [Aspose.Font for Java](https://docs.aspose.com/font/java/): Java comprehensive API from Aspose.Font includes all the features you need like loading, saving, converting fonts, and getting the font metrics you need.
+- [Aspose.Font for JavaScript via C++](https://docs.aspose.com/font/javascript-cpp/): Check Aspose.Font for JavaScript is a comprehensive API documentation to understand how to load, save, convert fonts of different font formats.
+- [Aspose.Font for Node.js via C++](https://docs.aspose.com/font/nodejs-cpp/): Check Aspose.Font for Node.js is a comprehensive API documentation to understand how to load, save, convert fonts of different font formats.
+
+### Additional Resources – Aspose.Font
+
+- [Release Notes](https://releases.aspose.com/font/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/font/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/font/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.Font/): Aspose.Font for .NET NuGet Package.
+- [Maven Repository](https://mvnrepository.com/artifact/com.aspose/aspose-font): Aspose.Font for Java Package.
+- [C++ NuGet Package](https://www.nuget.org/packages/Aspose.Font.cpp) Aspose.Font for C++ NuGet Package.
+
+## Aspose.HTML Documentation
+
+Complete documentation for Aspose.HTML, a cross-platform, web standards-compliant library that can be used by developers across platforms for a variety of HTML document processing tasks.
+
+### Platforms and Languages
+
+- [Aspose.HTML for .NET](https://docs.aspose.com/html/net/): Comprehensive guide and code samples to help .NET developers load, create,  edit, parse, convert, and render HTML, and HTML-based formats using  Aspose.HTML for .NET without any additional software.
+- [Aspose.HTML for Java](https://docs.aspose.com/html/java/): Parse, process, and convert HTML and HTML-based documents with Aspose.HTML for Java, using comprehensive tutorials and code examples without additional software.
+- [Aspose.HTML for Python via .NET](https://docs.aspose.com/html/python-net/): Aspose.HTML for Python via .NET on-premise library allows your apps to perform a wide range of HTML processing tasks – create, modify, extract data, convert, and render documents.
+- [Free HTML Applications](https://docs.aspose.com/html/apps/): Aspose.HTML offers free, high-quality online apps to handle your HTML tasks with ease – convert, merge, parse, and generate HTMLs in seconds.
+- [Free AI Applications](https://docs.aspose.com/html/ai-apps/): AI-powered Aspose.HTML tools for web content – free and easy to use.
+
+### Additional Resources – Aspose.HTML
+
+- [Release Notes](https://releases.aspose.com/html/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/html/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/html/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.HTML/): Aspose.HTML for .NET NuGet Package.
+- [Maven Repository](https://mvnrepository.com/artifact/com.aspose/aspose-html): Aspose.HTML for Java Package.
+- [PyPI Package](https://pypi.org/project/aspose-html-net/) Aspose.HTML for PyPI Package.
+
+## Aspose.Page Documentation
+
+.NET, Java, C++, Python, JavaScript, and Node.js APIs for developers to manipulate and process PS, EPS, and XPS files. Develop and deploy on Windows, Linux, MacOS or Android.
+
+### Platforms and Languages
+
+- [Aspose.Page for .NET](https://docs.aspose.com/page/net/): API solution to manage Page Description Language files in .NET. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+- [Aspose.Page for JavaScript via C++](https://docs.aspose.com/page/javascript-cpp/): API solution to manage Page Description Language files in C++. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+- [Aspose.Page for Node.js via C++](https://docs.aspose.com/page/nodejs-cpp/): API solution to manage Page Description Language files in C++. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+- [Aspose.Page for Python via .NET](https://docs.aspose.com/page/python-net/): API solution to manipulate Page Description Language files in Python. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+- [Aspose.Page for Java](https://docs.aspose.com/page/java/): API solution to manipulate Page Description Language files in Java. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+- [Aspose.Page for C++](https://docs.aspose.com/page/cpp/): API solution to manage Page Description Language files in C++. It Provides you with rich functionality and supports XPS, PS and EPS formats.
+
+### Additional Resources – Aspose.Page
+
+- [Release Notes](https://releases.aspose.com/page/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/page/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/page/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.Page/): Aspose.Page for .NET NuGet Package.
+- [Maven Repository](https://mvnrepository.com/artifact/com.aspose/aspose-page): Aspose.Page for Java Package.
+- [C++ NuGet Package](https://www.nuget.org/packages/Aspose.Page.cpp) Aspose.Page for C++ NuGet Package.
+- [PyPI Package](https://pypi.org/project/aspose-page/) Aspose.Page for PyPI Package.
+
+## Aspose.PUB Documentation
+
+Aspose.PUB is the APIs to read and convert PUB files to PDF file format. It facilitates .NET, Java and C++ application developers to work with the electronic publication file format (.pub) without the need of installing it on any server or client application. With Aspose.PUB for .NET, you purely focus on your business logic instead of going into the underlying details of the .pub file format. It lets you save time and effort by allowing you to write short and simple lines of code into your applications quickly and easily.
+
+### Platforms and Languages
+
+- [Aspose.PUB for .NET](https://docs.aspose.com/pub/net/): .NET C# API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
+- [Aspose.PUB for C++](https://docs.aspose.com/pub/cpp/): C++ API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
+- [Aspose.PUB for Java](https://docs.aspose.com/pub/java/): Java API Solution to manipulate Publisher files. Rich functionality provided by Aspose.PUB Manipulation and Management API.
+
+### Additional Resources – Aspose.PUB
+
+- [Release Notes](https://releases.aspose.com/pub/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/pub/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/pub/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.PUB/): Aspose.PUB for .NET NuGet Package.
+- [Maven Repository](https://mvnrepository.com/artifact/com.aspose/aspose-pub): Aspose.PUB for Java Package.
+- [C++ NuGet Package](https://www.nuget.org/packages/Aspose.PUB.cpp) Aspose.PUB for C++ NuGet Package.
+
+## Aspose.SVG Documentation
+
+A comprehensive guide and code samples of Aspose.SVG for supported platforms – .NET and Python via .NET. Create, edit, transform, convert, and render SVG documents, create SVG filters, gradients, and patterns, vectorize raster images and text using C# or Python.
+
+### Platforms and Languages
+
+- [Aspose.SVG for .NET](https://docs.aspose.com/svg/net/): Learn to use Aspose.SVG for .NET to create applications for processing SVG documents using C#. View tutorials, code samples, and more.
+- [Aspose.SVG for Python via .NET](https://docs.aspose.com/svg/python-net/): SVG processing documentation for Python developers with DOM specifications compliance, with comprehensive coverage of SVG creation, navigation, modification, vectorization, conversion, and rendering features.
+- [Free SVG Applications](https://docs.aspose.com/svg/apps/): Aspose.SVG offers free, high-quality omline apps to handle your SVG tasks with ease – convert, edit, merge, and optimize SVGs in seconds.
+- [Free AI Applications](https://docs.aspose.com/svg/ai-apps/): AI-powered Aspose.SVG tools for vectorizing images, creating stencils, and answering SVG-related questions – free and easy to use.
+
+### Additional Resources – Aspose.SVG
+
+- [Release Notes](https://releases.aspose.com/svg/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/svg/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/svg/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.SVG/): Aspose.SVG for .NET NuGet Package.
+- [PyPI Package](https://pypi.org/project/aspose-svg-net/) Aspose.SVG for PyPI Package.
+
+## Aspose.TeX Documentation
+
+Aspose.TeX is a set of high-performance libraries for TeX/LaTeX files typesetting applications in .NET, Java, C++, and Python.
+
+### Platforms and Languages
+
+- [Aspose.TeX for .NET](https://docs.aspose.com/tex/net/): Manage TeX files within API solution for C# .NET. The Library provides ways to pass TeX input and obtain output and advanced features.
+- [Aspose.TeX for Python via .NET](https://docs.aspose.com/tex/python-net/): Manage TeX files within API solution for Python. The Library provides various ways to pass TeX input and obtain output and advanced features.
+- [Aspose.TeX for Java](https://docs.aspose.com/tex/java/): Manage TeX files within API solution for Java. The Library provides ways to pass TeX input and obtain output and features like creating your own TeX format
+- [Aspose.TeX for C++](https://docs.aspose.com/tex/cpp/): Managing TeX files API solution for C++. The Library provides ways to pass TeX input and obtain output and features like creating your own TeX format.
+
+### Additional Resources – Aspose.TeX
+
+- [Release Notes](https://releases.aspose.com/tex/): Version history and product updates, including new features and bug fixes.
+- [Product Page](https://products.aspose.com/tex/): Cross-platform document processing APIs, features, and web applications.
+- [API Reference](https://reference.aspose.com/tex/): Technical API documentation and programming reference for developers across all supported platforms and languages.
+- [.NET NuGet Package](https://www.nuget.org/packages/Aspose.TeX/): Aspose.TeX for .NET NuGet Package.
+- [Maven Repository](https://mvnrepository.com/artifact/com.aspose/aspose-tex): Aspose.TeX for Java Package.
+- [C++ NuGet Package](https://www.nuget.org/packages/Aspose.TeX.cpp) Aspose.TeX for C++ NuGet Package.
+- [PyPI Package](https://pypi.org/project/aspose-tex-net/) Aspose.TeX for PyPI Package.
+
+## Directories
+
+- [Aspose.Font](https://docs.aspose.com/font/llms.txt): Font file manipulation and processing APIs.
+- [Aspose.HTML](https://docs.aspose.com/html/llms.txt): HTML parsing, manipulation, and conversion libraries.
+- [Aspose.Page](https://docs.aspose.com/page/llms.txt): XPS and PostScript document processing APIs.
+- [Aspose.PUB](https://docs.aspose.com/pub/llms.txt): Microsoft Publisher document manipulation libraries.
+- [Aspose.SVG](https://docs.aspose.com/svg/llms.txt): SVG graphics processing and conversion APIs.
+- [Aspose.TeX](https://docs.aspose.com/tex/llms.txt): TeX and LaTeX document processing libraries.

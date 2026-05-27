@@ -1,0 +1,17 @@
+# About
+Name: Pacific Certifications
+Description: Pacific Certifications is an independent, internationally recognized certification body providing third-party audit and certification services for management system standards such as ISO 9001, ISO 14001, ISO/IEC 27001, ISO 45001, and other ISO standards. We also provide product certification services and training and personnel certification programs designed to support organizational and professional competence.
+URL: https://blog.pacificcert.com
+
+# Navigation Menu
+- Home: https://pacificcert.com
+- System Certifications: https://pacificcert.com/system-certifications/
+- Product Certifications: https://pacificcert.com/product-certifications/
+- Contact us: https://pacificcert.com/contact-us/
+
+# Blog Posts
+Posts are split into multiple files:
+
+- [Posts 1-300](https://blog.pacificcert.com/llms/llms-posts-1.txt)
+- [Posts 301-600](https://blog.pacificcert.com/llms/llms-posts-2.txt)
+- [Posts 601-773](https://blog.pacificcert.com/llms/llms-posts-3.txt)

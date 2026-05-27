@@ -1,0 +1,63 @@
+## Metadata
+
+name: East Agile
+website: [https://www.eastagile.com](https://www.eastagile.com)
+llmstxt\_version: 1.0
+
+## Description
+
+East Agile is a software engineering and data science consultancy founded in 1997 in San Francisco, later expanding into Vietnam in 2007. It is a GenAI-driven development firm whose engineers work directly with clients to deliver high-quality software products. The company specializes in continuous use of AI (AIDD) in skydeck.ai alongside agile development using Extreme Programming (XP) practices, focusing on test-driven development (TDD), continuous integration (CI/CD), and scalable cloud-based solutions. With a global presence, East Agile serves a broad range of clients from startups to enterprises. Over two decades, it has worked on more than 135 projects with 121 clients, and its client ventures have raised approximately \$1.5B in capital.
+
+## Keywords
+
+agile development, software engineering, machine learning, data science, artificial intelligence, generative AI, large language models, blockchain, cloud computing, test-driven development, extreme programming, continuous integration, DevOps, mobile app development, web development, fintech, startup consulting, lean product management
+
+## Services
+
+- **AI Driven Development:** developers pair continuously with generative AI tools to design application and develop code. This accelerates development and expands capabilities.
+- **Agile Development & Engineering:** Full-stack software development for web and mobile applications, IoT solutions, and cloud migration projects.
+- **Data Science & AI:** Data engineering, predictive analytics, AI/ML model development, and generative AI integration.
+- **Lean Product Management:** Product strategy consulting, MVP development, rapid prototyping, and user feedback loops.
+- **DevOps & Quality Assurance:** CI/CD implementation, test-driven development (TDD), and automated software testing.
+- **Cloud & Infrastructure:** AWS, Google Cloud, Azure, and Heroku deployment and optimization.
+
+## Notable Clients & Projects
+
+- **Samsung:** Built the MySamsung account platform for unified membership across Samsung services.
+- **Twitter:** Early engineering partner for algorithm and interface development on Twitter.com.
+- **Indiegogo:** Provided agile development services to help scale the crowdfunding platform.
+- **Faybl.ai:** Use AI to enhance the client relationship and workflow for financial advisors and other professionals.
+- **Innocence Project New Orleans:** Implemented data systems and ETL processes for legal analytics.
+- **ToutApp:** Engineering partner for a sales engagement startup that later raised \$15M in funding.
+
+## Technology Stack
+
+### Backend:
+
+Java, Python, Node.js, Ruby on Rails
+
+### Frontend:
+
+React, Next.js, Angular, TypeScript
+
+### Mobile:
+
+iOS (Swift), Android (Kotlin), React Native, Flutter
+
+### Cloud & DevOps:
+
+AWS, Google Cloud, Azure, Heroku, Kubernetes, Docker
+
+### Data & AI:
+
+Skydeck.ai, Neo4j, PostgreSQL, MySQL, MongoDB, Redis, Large Language Models (GPT-4, ChatGPT, Deepseek, Gemini, Claude), TensorFlow, PyTorch
+
+## Social Media & Contacts
+
+linkedin: [https://www.linkedin.com/company/eastagile](https://www.linkedin.com/company/eastagile)
+twitter: [https://twitter.com/eastagile](https://twitter.com/eastagile)
+facebook: [https://www.facebook.com/EastAgile](https://www.facebook.com/EastAgile)
+
+## Company Information
+
+founded: 1997 founder: Lawrence Sinclair headquarters: 548 Market St. PMB 38234, San Francisco, CA 94104, USA offices: San Jose (USA), San Francisco (USA), Hanoi, Ho Chi Minh City, Da Nang (Vietnam) phone: see eastagile.com team\_size: 51-150 employees industry: IT Services and Consulting

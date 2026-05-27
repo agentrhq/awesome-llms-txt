@@ -1,0 +1,45 @@
+# iCorner - Your Online Corner, Where Your Web Begins
+
+Your Personal Corner for Homepage & Bookmarks.
+Personal Space, Cloud Sync, Connect & Explore.
+
+iCorner Features:
+
+- Cloud Sync
+  - Set once, sync everywhere: Bookmarks, settings, and preferences are saved to the cloud in real-time
+  - Access your data from any browser, anytime, anywhere
+  - Break free from single-browser limitations – your data moves with you
+- Flexible Customization
+  - Five display modes: Icon, Card, List, Tile, and Image – switch seamlessly as you prefer
+  - Freely adjust display size for optimal viewing comfort
+  - Flexible control over rendering effects to create your personalized view
+  - Powerful directory management to keep your sites perfectly organized
+- Personal Collections
+  - Create your exclusive collection space for quick access to important sites
+  - Right-click quick actions: Add, edit, delete – simple and efficient
+  - One-click import of browser bookmarks for a seamless and effortless transition
+  - Automatic website icon sync for vivid, visual bookmarking
+  - Drag-and-drop sorting to keep frequently used content within easy reach
+- Trending Discoveries
+  - Popular sites across the web to stay on trend
+  - Explore undiscovered quality websites and broaden your browsing horizons
+  - Smart categorization and filtering for quick access to content you'll love
+- Sharing Plaza
+  - Share your favorite website discoveries with users worldwide
+  - Find interesting sites recommended by others and expand your knowledge
+  - Connect with like-minded individuals through community interaction
+- Smart Search
+  - Freely switch between multiple search engines to meet different needs
+  - Auto-complete functionality (supports Google/Bing/Yahoo/Baidu) for enhanced search efficiency
+- Multi Workspaces
+  - Effortlessly switch between multiple identities for different scenarios
+  - Share content with the global community
+  - Completely independent settings make each space uniquely yours
+- Visual Themes
+  - Curated selection of beautiful backgrounds to change as you please
+  - Support for custom background uploads to express your unique style
+  - Free color scheme customization to create your perfect visual space
+  - Light/Dark mode, switch freely
+- Multi-Language Support
+  - Full support for English and Chinese interfaces
+  - More languages continuously being added – we welcome your suggestions

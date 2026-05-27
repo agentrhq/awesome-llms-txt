@@ -1,0 +1,54 @@
+# Synthetix
+
+> Trader documentation for Synthetix perpetual contracts
+
+## Docs
+
+- [FAQ](/faq): If you need help, open a support ticket through the chat widget on this page (bottom right).
+- [Getting Started](/getting-started): New to Synthetix? Start here. This guide walks you through the basics of trading perpetual futures on Synthetix. You'll be ready to place your first trade in just a few steps.
+- [Snaxpot](/snaxpot): Snaxpot is a weekly rewards program powered by trading activity on Synthetix.
+- [Auto-Deleveraging (ADL)](/trading/adl): Auto-deleveraging is a last-resort risk mechanism that activates when a liquidated account reaches **bankruptcy**, meaning its collateral is insufficient to cover the loss at the current mark price. In this situation, the exchange cannot absorb the loss through normal liquidation, so it is instead distributed to the most profitable, most leveraged positions on the opposite side of the market.
+- [Advanced Order Types](/trading/advanced-order-types): Advanced order types provide additional control over execution, pricing and timing compared to standard order types.
+- [Fees](/trading/fees): Trading on Synthetix Mainnet involves fees that are applied when opening and closing positions. These fees support the operation of the protocol and its liquidity providers. This section explains how trading fees are calculated and how they may impact your execution.
+- [Funding](/trading/funding): Perpetual futures use funding to keep prices in line with the spot market. Funding is a recurring payment between longs and shorts based on the difference between the perp's mark price and the index price of the underlying asset.
+- [Glossary](/trading/glossary)
+- [Leverage & Margin](/trading/leverage-margin): Using leverage amplifies both gains and losses. Higher leverage uses less margin, but it also brings your liquidation threshold closer.
+- [Liquidations](/trading/liquidations): A liquidation occurs when a trader's positions move against them far enough that account equity falls below the required maintenance margin.
+- [Markets](/trading/markets): All markets on Synthetix are perpetual futures quoted and settled in USDT on Ethereum Mainnet.
+- [Navigating the App](/trading/navigating-the-app): The Synthetix Exchange is designed so that all the tools you need for trading, account management, and market research are a click away. Each page in the navigation provides a different view of your account or the broader market. Below is an overview of what you'll find on each page.
+- [Open Interest Limits](/trading/oi-limits): To help manage risk and maintain orderly markets, we apply Open Interest (OI) limits on a per-market basis.
+- [Order Types](/trading/order-types): Order types and order options available on the perpetual futures order book.
+- [Order Book](/trading/orderbook): Synthetix perpetual futures markets use a central limit order book (CLOB). If you have traded on a centralized exchange before, the structure will feel familiar.
+- [Trading Overview](/trading/overview): Synthetix offers perpetual futures contracts on a range of assets. Positions are margined in USDT and settled on-chain.
+- [P&L Calculations](/trading/pnl): On Synthetix, positions, margin, and settlement flows are tracked by the protocol. The UI typically surfaces convenience metrics like average entry price, unrealized PnL, and realized or closed PnL by deriving them from the position state and fills.
+- [Pricing & Indices](/trading/pricing): We publish three price types:
+- [Tiers](/trading/tiers): Synthetix uses a volume-based tier system. Your tier determines your trading fee rates, how many open orders you can hold, and how many subaccounts you can create.
+- [Wick Insurance](/trading/wick-insurance): Wick insurance is a Synthetix-specific protection mechanism that guards against **liquidations caused by brief, artificial price spikes (wicks)**. When a liquidation is triggered by what appears to be a transient price anomaly rather than a sustained market move, wick insurance can temporarily pause the liquidation and block new orders, giving the price time to recover.
+- [420 Pool Rewards](/staking/420-pool-rewards): This page explains how rewards are distributed in the 420 Pool.
+- [Debt Jubilee](/staking/debt-jubilee): The Debt Jubilee is available to eligible SNX stakers on both Ethereum and Optimism. It allows you to have your outstanding debt burned linearly over 12 months if you migrated to the 420 Pool during the Jubilee window (March 2025 – April 2026).
+- [Getting SNX and sUSD](/staking/getting-tokens): To stake on Synthetix, you need **SNX** or **sUSD** on Ethereum Mainnet.
+- [How to Stake SNX & sUSD](/staking/how-to-stake): The 420 Pool allows users to stake **SNX** or **sUSD** on Ethereum Mainnet and earn **SNX rewards**.
+- [Staking](/staking): Synthetix offers two staking products on Ethereum Mainnet.
+- [Manual Unstaking via Account NFT Transfer (sUSD & SNX)](/staking/manual-unstaking-account-nft-transfer): At this time, unstaking sUSD and SNX is only available via manual Support processing.
+- [Repaying 35% of your Debt to Unstake](/staking/repaying-35-of-your-debt-to-unstake): As part of the sUSD rebuild process outlined by the [Synthetix Blog](https://blog.synthetix.io/rebuilding-susd/), eligible users may unstake their SNX by repaying 35% of their outstanding debt.
+- [Unlock & Penalty Mechanics](/staking/unlock-penalty-mechanics): This page explains how rewards unlock and how early exit penalties are calculated.
+- [What happened to my old position (LP, Perps, Rewards, Spot) on Arbitrum?](/legacy-migration/arbitrum-positions): If you previously held a position on **Arbitrum** through **Synthetix V3**, please note that **support for Arbitrum has been deprecated**.
+- [Asset Recovery by Network](/legacy-migration/asset-recovery-by-network): This page helps you identify **where your assets may be**, based on the network you used, and directs you to the appropriate next steps.
+- [What happened to my old position (LP, Perps, Rewards, Spot) on Base?](/legacy-migration/base-positions): If you previously held a position on **Base** through **Synthetix V3**, please note that **support for Base has been deprecated**.
+- [I have Curve LP Tokens, what can I do with them?](/legacy-migration/eth-curve-lp): The **Curve Liquidity Pool DAI/USDC/USDT/sUSD is now deprecated**.
+- [I do not see my SNX staking position or history on ETH Mainnet](/legacy-migration/eth-snx-staking-missing): If you cannot see your staking position on [https://420.synthetix.io/](https://420.synthetix.io/), there are a few possible reasons.
+- [I have Synths on ETH Mainnet, what can I do with them?](/legacy-migration/eth-synths): If you are still holding **Synths** on **Ethereum** **(sETH, sBTC, sLINK etc.)**, please be aware that the legacy Synth system has now been **deprecated**.
+- [Legacy & Migration Help](/legacy-migration/legacy-migration-help): Synthetix has evolved across multiple networks and products over time. If you used Synthetix in the past, this section helps you understand **what happened to your assets** and **what to do next**.
+- [Legacy Tokens & Wallet Assets](/legacy-migration/legacy-tokens): Synthetix has used different tokens and assets across multiple products and networks over time. If you’ve found tokens or positions in your wallet and aren’t sure what they represent, use the links below to identify the asset and understand your options.
+- [I got KWENTA Tokens, where can I swap them for SNX?](/legacy-migration/op-kwenta): Kwenta (KWENTA) is being unified into the Synthetix system. The migration process allows you to convert KWENTA into SNX under a vesting schedule.
+- [I do not see my SNX staking position or history on Optimism](/legacy-migration/op-snx-staking-missing): If you cannot see your staking position on [https://420.synthetix.io/](https://420.synthetix.io/), there are a few possible reasons.
+- [I have Synths on Optimism, what can I do with them?](/legacy-migration/op-synths): If you are still holding **Synths** on **Optimism (sETH, sBTC, sLINK etc.)**, please note that the legacy Synth system on Optimism **begins deprecation on January 31, 2026**.
+- [I got TLX Tokens, where can I swap them for SNX?](/legacy-migration/op-tlx): TLX is being unified into the **Synthetix** ecosystem. As part of this process, TLX can be migrated to **SNX** through an official migration flow that uses a **vesting schedule**.
+- [Depositing Collateral](/deposits-withdrawals/depositing): Synthetix Exchange runs on **Ethereum Mainnet**. **Today, only USDT deposits are supported in the app.** Additional collateral types are planned soon.
+- [SLP Vault](/deposits-withdrawals/slp-vault): The Synthetix Liquidity Provider (SLP) Vault is the protocol's community market making vault, designed to back all perps markets on Ethereum Mainnet.
+- [Withdrawing Collateral](/deposits-withdrawals/withdrawing): You can only withdraw **available margin**, collateral not currently required to meet the margin requirements of your open positions.
+- [Delegated Trading](/account/delegated-trading): Delegated Trading allows a wallet to grant another wallet permission to trade on a specific Sub-Account.
+- [Subaccounts](/account/subaccounts): A subaccount is a trading account linked to your wallet. It holds your collateral balance, open positions, and order history. All trading activity happens within a subaccount.
+- [About Synthetix](/about-synthetix): Synthetix is the first decentralized perpetual futures protocol built on Ethereum Mainnet. The Synthetix exchange provides offchain order matching, on a high-performance Central Limit Order Book (CLOB) with onchain settlement on Ethereum, the world's most secure smart contract platform.
+- [Products](/about-synthetix/products): This page provides an overview of current and legacy products in the Synthetix ecosystem.
+- [Synthetix History](/about-synthetix/synthetix-history): Synthetix began in 2018 as Havven, a protocol for decentralized stablecoins. In 2019, Synthetix v2 launched, pioneering the minting of synthetic assets, including crypto assets, indices, and traditional finance (TradFi) assets, on Ethereum. This innovation established Synthetix as a leader in on-chain derivatives and composable DeFi infrastructure.

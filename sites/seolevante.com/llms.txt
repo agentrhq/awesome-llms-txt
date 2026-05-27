@@ -1,0 +1,82 @@
+# SEO para empresas
+
+> Consultor�a de SEO estrat�gico para empresas.
+
+## SEO estrat�gico
+- [Qu� puede hacer el SEO por mi empresa](https://seolevante.com/#estrategico):El SEO para empresas tiene como objetivo conseguir nuevos clientes aprovechando el entorno de las b�squedas hechas desde internet para lograr visibilidad primero, a continuaci�n consideraci�n y finalmente la preferencia de sus potenciales clientes frente a su competencia.
+
+## Proyecto SEO
+- [Proyecto con SEO Levante](https://seolevante.com/proyecto-seo/):Un proyecto SEO se basa en resolver: La estructura web en cuanto a la organizaci�n por silos de los contenidos; La arquitectura web o navegaci�n del usuario: men� de navegaci�n, submen�s y enlazado interno; Debida agrupaci�n y separaci�n de entidades: servicios y/o productos, contenidos y �reas de negocio; Especificidad y diferenciaci�n de cada contenido y URL, en T�tulos y Encabezados: sem�ntica; y acompa�amiento en la redacci�n y publicaci�n de los contenidos finales.
+
+## Consultor SEO
+- [Consultor SEO especializado en Datos Estructurados JSON-LD �lvaro Pich�](https://seolevante.com/consultor-seo-alvaro-picho/): �lvaro Pich� es consultor SEO freelance de Valencia (Espa�a) desde 2009 para empresas, profesionales y universidades.
+
+### Estudio SEO
+- [El estado del SEO en la Comunidad Valenciana](https://seolevante.com/consultor-seo-alvaro-picho/estado-seo-comunidad-valenciana-espana/): Foto fija del uso del SEO por parte de las empresas valencianas en Octubre 2022.
+
+### Estudio Econom�a Digital
+- [El paradigma digital: qu� es y qu� significa el paradigma digital](https://seolevante.com/consultor-seo-alvaro-picho/el-paradigma-digital/): FActualmente (a�o 2020) toda la sociedad se encuentra sumergida en una vor�gine inabarcable. Por mi parte, siento la necesidad y voluntad de desarrollar el texto que sigue, para contribuir a la sociedad en lo que concierne al paradigma digital en torno al mundo de las empresas y del trabajo.  Este texto est� pensado para el gran p�blico, las PYMES espa�olas y los aut�nomos, con un grado bajo o medio de digitalizaci�n.
+
+## Especialidad SEO
+- [SEO basado en entidades](https://seolevante.com/seo-entidades/): El SEO basado en entidades se logra desarrollando primero una estrategia de SEO sem�ntico, para despu�s reforzarla con el empleo de Datos Estructurados sujetos al est�ndar de Schema.org
+
+### Especialidad SEO
+- [SEO Sem�ntico](https://seolevante.com/seo-entidades/seo-semantico/): El SEO sem�ntico es la evaluaci�n de los sitios y p�ginas web a partir de frases y p�rrafos (conjuntos), y no solo a partir de palabras clave (unidades). Comprende y clasifica los sitios web teniendo en cuenta el contexto, favoreciendo aquellos que sean m�s coherentes y exhaustivos. El SEO sem�ntico es la evoluci�n de un SEO basado en la indexaci�n de palabras clave (keywords), a un SEO basado en la indexaci�n de frases y p�rrafos.
+
+### Especialidad SEO
+- [Redacci�n de Datos Estructurados para sitios web bajo el est�ndar de Schema.org en JSON-LD](https://seolevante.com/seo-entidades/redaccion-datos-estructurados-json-ld/): Los datos estructurados son el empleo del vocabulario estandarizado por la organizaci�n Schema.org que describe entidades y la relaci�n entre �stas. Las entidades son descritas como Tipos con Propiedades. Es en la descripci�n de las Propiedades donde personalizamos y adaptamos el vocabulario a las cualidades y circunstancias de cada Tipo como pueden ser: empresas, personas, rol de trabajo, lugar de, etc.
+
+### Datos estructurados JSON-LD
+- [Breve relato contextualizado e Historicista sobre los Datos Estructurados y Schema.org](https://seolevante.com/seo-entidades/que-son-los-datos-estructurados-en-json-ld/)
+
+## Especialidad SEO
+- [SEO para las IAs - C�mo lograr visibilidad en las IAs](https://seolevante.com/seo-para-ias/): A partir del estudio que he hecho sobre el razonamiento de recomendaci�n de empresas por parte de ChatGPT, voy a recoger aqu� una serie de recomendaciones pr�cticas.
+
+### Estudio de SEO e IA
+- [Estudio AI Overviews](https://seolevante.com/seo-para-ias/estudio-aioverviews/): Este es un estudio dirigido al empresariado, con la intenci�n de acercarles con objetividad el impacto de las IAs en relaci�n con los sitios web de cada empresa, su raz�n de ser en esta nueva etapa y qu� rendimiento esperar de �stos a partir de ahora.
+
+### Estudio de SEO e IA
+- [Estudio consulta b�sica en ChatGPT](https://seolevante.com/seo-para-ias/estudio-consulta-basica/): Estudio sobre el razonamiento de ChatGPT cuando realizo un consulta sencilla, m�s conversacional y equiparable al uso habituado en buscadores tradicionales. Junto al siguiente cap�tulo, Estudio consulta compleja, busco unos servicios empresariales similares, de tal forma que inscribo ambos estudios en la recomendaci�n de empresas.
+
+### Estudio de SEO e IA
+- [Estudio consulta compleja en ChatGPT](https://seolevante.com/seo-para-ias/estudio-consulta-compleja/): Procedo a realizar una b�squeda m�s conversacional con ChatGPT y a analizarla.
+
+## Especialidad SEO
+- [La Calidad de un sitio web](https://seolevante.com/calidad-sitio-web/): Estudio, resumen, traducci�n y publicaci�n de la Quality Rater Guidelines de Google.
+
+### Calidad web
+- [Gu�a para la clasificaci�n de la calidad de las p�ginas y sitios web](https://seolevante.com/calidad-sitio-web/google-quality-rater-guidelines-1/): Estudio, resumen, traducci�n y publicaci�n de Gu�a para la clasificaci�n de la calidad de las p�ginas y sitios web.
+
+### Calidad web
+- [Entendiendo al usuario del m�vil](https://seolevante.com/calidad-sitio-web/google-quality-rater-guidelines-2/): Estudio, resumen, traducci�n y publicaci�n de Entendiendo al usuario del m�vil.
+
+### Calidad web
+- [Gu�a de clasificaci�n de las necesidades satisfechas](https://seolevante.com/calidad-sitio-web/google-quality-rater-guidelines-3/): Estudio, resumen, traducci�n y publicaci�n de Gu�a de clasificaci�n de las necesidades satisfechas.
+
+### Calidad web
+- [Conclusiones al estudio de las Quality Rater Guidelines](https://seolevante.com/calidad-sitio-web/conclusiones-quality-rater-guidelines/): Estudio, resumen, traducci�n y publicaci�n de Gu�a para la clasificaci�n de la calidad de las p�ginas y sitios web.
+
+## Especialidad SEO
+- [Credibilidad y confiabilidad EEAT](https://seolevante.com/credibilidad/): En el mundo del SEO, y empujados por el propio Google, manejamos un t�rmino cuyo acr�nimo es EAT, siglas en ingl�s de Expertise, Authoritativeness and Trustworthiness, que torpemente podr�amos traducir por: experiencia, autoridad y confianza. Desde nuestra p�gina web, lo vamos a concentrar todo en: confiabilidad y credibilidad. Porque no se da el uno sin el otro, no se percibe autoridad sin demostrar experiencia, no se logra confianza sin demostrar autoridad, es un todo que se desgrana, pero es un todo que yo resumo, o traduzco, en Confiabilidad.
+
+## Blog profesional de �lvaro Pich�
+- [El d�a a d�a de un SEO Valenciano](https://seolevante.com/blog/)
+
+### Post
+- [SEO, del oficio a la profesi�n, y de la profesi�n a la asociaci�n](https://seolevante.com/blog/): Ante la madurez de la profesi�n de SEO quiero escribir una reflexi�n sosegada sobre nuestra profesi�n, cosa que echo en falta de entre todo lo que leo y consulto, ya que s�lo hablamos de lo operativo.
+
+### Post
+- [Estudio de la SEO Week NY 2025 (1)](https://seolevante.com/2025/09/02/estudio-seo-week-ny-2025/)
+
+### Post
+- [Estudio de la SEO Week NY (2)](https://seolevante.com/2025/09/03/estudio-seo-week-ny-2/)
+
+### Post
+- [Estudio de la SEO Week NY (3)](https://seolevante.com/2025/09/03/estudio-seo-week-ny-3/)
+
+### Post
+- [Recopilaci�n de asociaciones art�sticas a Cartograf�as de la Informaci�n](https://seolevante.com/2023/01/23/recopilacion-de-asociaciones-artisticas-a-cartografias-de-la-informacion/)
+
+## Optional
+- [Aviso Legal](https://seolevante.com/aviso-legal/): T�rminos legales del uso del sitio web.
+- [Pol�tica de privacidad y cookies](https://seolevante.com/politica-de-privacidad-y-cookies/): Informaci�n sobre la obtenci�n y gesti�n de los datos de este sitio web.

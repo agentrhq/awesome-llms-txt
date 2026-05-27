@@ -1,0 +1,244 @@
+# BugSplat
+
+## BugSplat
+
+- [Welcome](https://docs.bugsplat.com/readme.md): Technical documentation, platform integration guides, crash reporting best practices, and other useful information from BugSplat.  We're excited you're here!
+- [Getting Started](https://docs.bugsplat.com/introduction/getting-started.md)
+- [Signing Up](https://docs.bugsplat.com/introduction/getting-started/signing-up-for-an-account-with-bugsplat.md)
+- [Creating a Database](https://docs.bugsplat.com/introduction/getting-started/create-a-new-database-in-bugsplat.md)
+- [Platform Integrations](https://docs.bugsplat.com/introduction/getting-started/integrations.md)
+- [Desktop](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop.md)
+- [BugSplat for Windows (C++)](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/cplusplus.md)
+- [Full Memory Dumps](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/cplusplus/full-memory-dumps.md)
+- [BugSplat for Windows Dependencies](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/cplusplus/dependencies.md)
+- [BugSplat for Windows Upgrade Guide](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/cplusplus/bugsplat-for-windows-upgrade-guide.md): Upgrading from versions of BugSplat for Windows prior to 7.0.0
+- [BugSplat for Windows API Documentation](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/cplusplus/bugsplat-for-windows-api-documentation.md)
+- [.NET Framework](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/windows-dot-net-framework.md)
+- [macOS](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/macos.md)
+- [Linux](https://docs.bugsplat.com/introduction/getting-started/integrations/desktop/linux.md)
+- [Cross-Platform](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform.md)
+- [.NET Standard](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/dot-net-standard.md)
+- [Breakpad (Deprecated)](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/breakpad.md)
+- [Crashpad](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad.md)
+- [How to Build Google Crashpad](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad/how-to-build-google-crashpad.md)
+- [Deno](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/deno.md)
+- [Electron](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/electron.md)
+- [Java](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/java.md)
+- [Node.js](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/node.js.md)
+- [Python](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/python.md)
+- [Qt](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/qt.md)
+- [Game Development](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development.md)
+- [CRYENGINE](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/cryengine.md)
+- [Nintendo Switch](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/nintendo.md)
+- [PlayStation](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/playstation.md): Process PS4 and PS5 crash reports with BugSplat. Available for certified PlayStation developers, our SDK enhances game stability
+- [Unreal Engine](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unreal-engine.md)
+- [Unreal Engine Plugin](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unreal-engine/unreal-engine-plugin.md)
+- [Unreal Assert, Check, and Ensure Reporting](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unreal-engine/unreal-assert-check-and-ensure-reporting.md)
+- [Unity](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/unity.md)
+- [Xbox](https://docs.bugsplat.com/introduction/getting-started/integrations/game-development/xbox.md): Integrate BugSplat for crash reporting in Xbox games (Series X, S, One). Our SDK supports GDK and GDKX projects, helping certified developers enhance game stability.
+- [Mobile](https://docs.bugsplat.com/introduction/getting-started/integrations/mobile.md)
+- [Android](https://docs.bugsplat.com/introduction/getting-started/integrations/mobile/android.md)
+- [Ionic](https://docs.bugsplat.com/introduction/getting-started/integrations/mobile/ionic.md)
+- [iOS](https://docs.bugsplat.com/introduction/getting-started/integrations/mobile/ios.md)
+- [React Native](https://docs.bugsplat.com/introduction/getting-started/integrations/mobile/react-native.md)
+- [Web](https://docs.bugsplat.com/introduction/getting-started/integrations/web.md)
+- [Angular](https://docs.bugsplat.com/introduction/getting-started/integrations/web/angular.md)
+- [JavaScript](https://docs.bugsplat.com/introduction/getting-started/integrations/web/javascript.md)
+- [React](https://docs.bugsplat.com/introduction/getting-started/integrations/web/react.md)
+- [Vue](https://docs.bugsplat.com/introduction/getting-started/integrations/web/vue.md)
+- [Downloads](https://docs.bugsplat.com/introduction/getting-started/integrations/downloads.md): Direct links to platform downloads.  Note that all links can also be found in their platform specific document.
+- [Platform Samples](https://docs.bugsplat.com/introduction/getting-started/posting-a-test-crash.md)
+- [MyConsoleCrasher (C++)](https://docs.bugsplat.com/introduction/getting-started/posting-a-test-crash/myconsolecrasher-c-plus-plus.md): Testing Windows Native C++ crashes with the sample application 'MyConsoleCrasher'
+- [Address Sanitizer Reports](https://docs.bugsplat.com/introduction/getting-started/posting-a-test-crash/myconsolecrasher-c-plus-plus/address-sanitizer-reports.md)
+- [Inviting Team Members](https://docs.bugsplat.com/introduction/getting-started/adding-uses-to-your-account.md)
+- [Importing Crashes](https://docs.bugsplat.com/introduction/getting-started/migrating-crashes-from-another-tool.md)
+- [Troubleshooting](https://docs.bugsplat.com/introduction/getting-started/troubleshooting.md): BugSplat helps troubleshoot crash reporting issues, including why crashes are rejected, such as exceeding size limits or frequent submissions.
+- [Quickly Submitting Your First Crash in Under 5 Minutes](https://docs.bugsplat.com/introduction/getting-started/quickly-submitting-your-first-crash-in-under-5-minutes.md)
+- [Development](https://docs.bugsplat.com/introduction/development.md)
+- [Using the App](https://docs.bugsplat.com/introduction/development/using-the-app.md)
+- [Symbol Files](https://docs.bugsplat.com/introduction/development/working-with-symbol-files.md)
+- [How to Manually Upload Symbols](https://docs.bugsplat.com/introduction/development/working-with-symbol-files/how-to-manually-upload-symbols.md)
+- [Source Maps](https://docs.bugsplat.com/introduction/development/working-with-symbol-files/source-maps.md)
+- [Symbol Servers](https://docs.bugsplat.com/introduction/development/working-with-symbol-files/symbol-servers.md)
+- [Working with Symbol Files in Windows Environments](https://docs.bugsplat.com/introduction/development/working-with-symbol-files/working-with-windows-symbols-in-bugsplat.md)
+- [Automatic Symbol Cleanup](https://docs.bugsplat.com/introduction/development/working-with-symbol-files/automatic-symbol-cleanup.md): How symbol files are automatically removed
+- [Searching](https://docs.bugsplat.com/introduction/development/searching.md)
+- [Table Filtering](https://docs.bugsplat.com/introduction/development/searching/search.md)
+- [Table Grouping](https://docs.bugsplat.com/introduction/development/searching/grouping.md)
+- [Grouping Crashes](https://docs.bugsplat.com/introduction/development/grouping-crashes.md)
+- [Commenting](https://docs.bugsplat.com/introduction/development/commenting.md)
+- [Integrations and Third Party Tools](https://docs.bugsplat.com/introduction/development/integrating-with-tools.md)
+- [Configurable Alerts](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps.md)
+- [Slack](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps/slack.md)
+- [Microsoft Teams](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps/microsoft-teams.md)
+- [Discord](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps/discord.md)
+- [Email](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps/email.md)
+- [Webhook](https://docs.bugsplat.com/introduction/development/integrating-with-tools/messanger-apps/webhook.md)
+- [Issue Trackers](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers.md)
+- [Azure DevOps](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/azure-devops.md)
+- [Favro](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/favro.md)
+- [Jira](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/jira.md)
+- [GitHub Issues](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/github-issues.md)
+- [GitLab](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/gitlab.md)
+- [Monday.com](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/monday.md)
+- [YouTrack](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/youtrack.md)
+- [Automatic Issue Creation for Defect Tracker Integrations](https://docs.bugsplat.com/introduction/development/integrating-with-tools/issue-trackers/automatic-issue-creation.md)
+- [API](https://docs.bugsplat.com/introduction/development/web-services.md)
+- [Web Application Endpoints](https://docs.bugsplat.com/introduction/development/web-services/api.md)
+- [Company](https://docs.bugsplat.com/introduction/development/web-services/api/company.md): API Documentation for the BugSplat Company Endpoint
+- [Crash](https://docs.bugsplat.com/introduction/development/web-services/api/crash.md): API Documentation for the BugSplat Crashes Endpoint
+- [Crashes](https://docs.bugsplat.com/introduction/development/web-services/api/crashes.md): API Documentation for the BugSplat Crashes Endpoint
+- [Crash Groups](https://docs.bugsplat.com/introduction/development/web-services/api/crash-groups.md): API Documentation for various endpoints related to BugSplat Crash Groups
+- [Dashboard](https://docs.bugsplat.com/introduction/development/web-services/api/dashboard.md): API Documentation for the BugSplat Dashboard Endpoint
+- [Databases](https://docs.bugsplat.com/introduction/development/web-services/api/databases.md): API Documentation for the BugSplat Databases Endpoint
+- [Defect](https://docs.bugsplat.com/introduction/development/web-services/api/defect.md): API Documentation for the BugSplat Defect Endpoint
+- [Events](https://docs.bugsplat.com/introduction/development/web-services/api/events.md): API Documentation for the BugSplat Events Endpoint
+- [Import/Migrate](https://docs.bugsplat.com/introduction/development/web-services/api/import-migrate.md): API Documentation for the BugSplat Crashes Endpoint
+- [Support Response](https://docs.bugsplat.com/introduction/development/web-services/api/support-response.md): API Documentation for the BugSplat Support Response Endpoints
+- [User (GDPR)](https://docs.bugsplat.com/introduction/development/web-services/api/user-gdpr.md): API Documentation for the BugSplat User (GDPR) Endpoint
+- [Users](https://docs.bugsplat.com/introduction/development/web-services/api/users.md): API Documentation for the BugSplat Users Endpoint
+- [Versions](https://docs.bugsplat.com/introduction/development/web-services/api/versions.md): API Documentation for the BugSplat Versions Endpoint
+- [Deprecated](https://docs.bugsplat.com/introduction/development/web-services/api/charting.md): List of Deprecated API endpoints that are scheduled for removal
+- [Crash Post Endpoints](https://docs.bugsplat.com/introduction/development/web-services/crash.md)
+- [User Feedback](https://docs.bugsplat.com/introduction/development/web-services/user-feedback.md)
+- [OAuth2](https://docs.bugsplat.com/introduction/development/web-services/oauth2.md)
+- [Defect Tracker Options](https://docs.bugsplat.com/introduction/development/web-services/defect-tracker-options.md): To create or update a defect tracker integration, use the following endpoint.
+- [Paging, Filtering, and Grouping](https://docs.bugsplat.com/introduction/development/web-services/paging-filtering-and-grouping.md)
+- [Platform Specific API's](https://docs.bugsplat.com/introduction/development/web-services/platform-specific-apis.md)
+- [Production](https://docs.bugsplat.com/introduction/production.md)
+- [Versions](https://docs.bugsplat.com/introduction/production/managing-versions.md): BugSplat's Versions Page
+- [Regression Alerts](https://docs.bugsplat.com/introduction/production/regression-alerts.md)
+- [Security and Compliance](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance.md)
+- [Security Program](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/security-program.md): Updated 25-Oct-2023
+- [BugSplat Security Program Inquirys](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/bugsplat-security-program-inquirys.md)
+- [SOC 2](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/soc-2.md)
+- [GDPR & UK GDPR Compliance](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/gdpr.md)
+- [Avoid Collecting Personally Identifiable Information (PII)](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/avoid-collecting-personally-identifiable-information-pii.md)
+- [Crash Expiry](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/crash-expiry.md)
+- [Terms](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/terms.md)
+- [Privacy Policy](https://docs.bugsplat.com/introduction/production/security-privacy-and-compliance/privacy-policy.md)
+- [Support Responses](https://docs.bugsplat.com/introduction/production/setting-up-custom-support-responses.md)
+- [BugSplat Terminology](https://docs.bugsplat.com/education/bugsplat-terminology.md)
+- [How-Tos](https://docs.bugsplat.com/education/how-tos.md)
+- [Creating Defects](https://docs.bugsplat.com/education/how-tos/creating-a-defect.md)
+- [Contacting End-Users](https://docs.bugsplat.com/education/how-tos/contacting-users.md)
+- [Crash Dialog Branding](https://docs.bugsplat.com/education/how-tos/customize-the-crash-dialog.md)
+- [Reprocess Crashes](https://docs.bugsplat.com/education/how-tos/reprocessing-crashes.md): BugSplat can reprocess crashes that were processed incorrectly due to missing symbols, mismatched symbols, or errors during initial processing.
+- [Batch Reprocess Crashes](https://docs.bugsplat.com/education/how-tos/batch-reprocess-crashes.md): Learn how to batch reprocess multiple reports with BugSplat and easily apply updated symbols or grouping rules to your crashes or errors.
+- [Using the Crash Attribute Feature](https://docs.bugsplat.com/education/how-tos/using-the-crash-attribute-feature.md)
+- [Send Feedback](https://docs.bugsplat.com/education/how-tos/sending-feedback.md)
+- [Remove Crashes](https://docs.bugsplat.com/education/how-tos/remove-crashes.md): Remove mistakes and other clutter by deleting crashes in your BugSplat database.
+- [Videos](https://docs.bugsplat.com/education/videos.md): We're building our library of instructional videos to help you get the most out of your BugSplat account.
+- [BugSplat Product Walkthrough](https://docs.bugsplat.com/education/videos/bugsplat-product-walkthrough.md): Take three minutes to get an overview of the ways that the BugSplat web app can help you find and fix bugs in your application.
+- [FAQs](https://docs.bugsplat.com/education/faq.md)
+- [How Do I Upload Crashes with Python?](https://docs.bugsplat.com/education/faq/how-do-i-upload-crashes-with-python.md)
+- [How Do I Remove Symbol Files?](https://docs.bugsplat.com/education/faq/how-do-i-remove-symbol-files.md)
+- [Crash details 'Active Thread'](https://docs.bugsplat.com/education/faq/crash-details-active-thread.md)
+- [How long does it take to process a crash?](https://docs.bugsplat.com/education/faq/how-long-does-it-take-to-process-a-crash.md)
+- [How BugSplat handles large crash volumes](https://docs.bugsplat.com/education/faq/how-bugsplat-handles-large-crash-volumes.md)
+- [How Does Crash Rate Limiting Work?](https://docs.bugsplat.com/education/faq/how-does-crash-rate-limiting-work.md)
+- [Add Custom Branding to Support Response](https://docs.bugsplat.com/education/faq/add-custom-branding-to-support-response.md): BugSplat allows users to customize support messages with their branding and create unique support responses for different crash types, increasing the likelihood of successful troubleshooting.
+- [Finding Missing Reports](https://docs.bugsplat.com/education/faq/finding-missing-reports.md)
+- [Using Dark Mode](https://docs.bugsplat.com/education/faq/using-dark-mode.md)
+- [What If My App or Game Grows Quickly?](https://docs.bugsplat.com/education/faq/what-if-my-app-or-game-grows-quickly.md)
+- [Does BugSplat have an effect on application performance?](https://docs.bugsplat.com/education/faq/does-bugsplat-have-an-effect-on-application-performance.md)
+- [Manually Upload Crash Reports to BugSplat](https://docs.bugsplat.com/education/faq/manually-post-crash-reports-to-bugsplat.md)
+- [How to configure proxy settings in BugSplat](https://docs.bugsplat.com/education/faq/how-to-configure-proxy-settings-in-bugsplat.md)
+- [Using BugSplat's public database](https://docs.bugsplat.com/education/faq/using-bugsplats-public-database.md)
+- [How to Upload Symbol Files with Symbol-Upload](https://docs.bugsplat.com/education/faq/how-to-upload-symbol-files-with-symbol-upload.md)
+- [Using SendPdbs to Automatically Upload Symbol Files](https://docs.bugsplat.com/education/faq/using-sendpdbs-to-automatically-upload-symbol-files.md)
+- [Managing Symbol Space](https://docs.bugsplat.com/education/faq/managing-symbol-space.md)
+- [Why Group Crashes?](https://docs.bugsplat.com/education/faq/how-and-why-to-group-crashes.md)
+- [Uploading third-party DLLs without PDB files](https://docs.bugsplat.com/education/faq/uploading-third-party-dlls-without-pdb-files.md)
+- [Localized Support Responses for Windows C++, .NET, and macOS](https://docs.bugsplat.com/education/faq/localized-support-responses-for-windows-c++-.net-and-macos.md)
+- [BugSplat application uptime data](https://docs.bugsplat.com/education/faq/bugsplat-application-uptime-data.md)
+- [What are the upload size considerations with BugSplat accounts.](https://docs.bugsplat.com/education/faq/bugsplat-application-uptime-data/what-are-the-upload-size-considerations-with-bugsplat-accounts..md)
+- [Is an application's source code safe when using BugSplat?](https://docs.bugsplat.com/education/faq/is-an-applications-source-code-safe-when-using-bugsplat.md)
+- [How to get correct callstacks with BugSplat in Steam](https://docs.bugsplat.com/education/faq/how-to-get-correct-callstacks-with-bugsplat-in-steam.md)
+- [What is a crash reporter?](https://docs.bugsplat.com/education/faq/what-is-a-crash-reporter.md): A crash reporter like BugSplat is a software program that captures the state of a software application at the time of a crash to help developers understand and fix the underlying issue.
+- [Common End-User Questions](https://docs.bugsplat.com/education/faq/common-end-user-questions.md)
+- [Missing BugSplat.dll](https://docs.bugsplat.com/education/faq/common-end-user-questions/missing-bugsplat-dll.md)
+- [What should I do if I get a BugSplat?](https://docs.bugsplat.com/education/faq/common-end-user-questions/what-should-i-do-if-i-get-a-bugsplat.md)
+- [What is BsSndRpt.exe?](https://docs.bugsplat.com/education/faq/common-end-user-questions/what-is-bssndrpt-exe.md)
+- [My software just crashed. Should I contact BugSplat for help?](https://docs.bugsplat.com/education/faq/common-end-user-questions/my-software-just-crashed.-should-i-contact-bugsplat-for-help.md)
+- [Why are Crashes Missing Symbols, Function Names, and/or Line Numbers?](https://docs.bugsplat.com/education/faq/why-are-crashes-missing-symbols-function-names-and-or-line-numbers.md)
+- [Billing](https://docs.bugsplat.com/administration/billing.md)
+- [Free Trial Overview](https://docs.bugsplat.com/administration/billing/free-trial.md)
+- [Plans and Billing Overview](https://docs.bugsplat.com/administration/billing/plans-and-billing-guide.md)
+- [How to Sign Up for a BugSplat Plan](https://docs.bugsplat.com/administration/billing/how-to-sign-up-for-a-bugsplat-plan.md)
+- [Viewing Account Usage](https://docs.bugsplat.com/administration/billing/viewing-account-usage.md)
+- [Upgrading, Changing, or Canceling Your Plan](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan.md)
+- [Upgrading or Downgrading Your Plan](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan/upgrading-or-downgrading-your-plan.md)
+- [Adding Additional Crashes and Storage Space](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan/adding-additional-users-and-apps-to-your-plan.md)
+- [Updating Credit Card and Billing Information and Viewing Billing History](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan/managing-payment-details.md)
+- [Updating Tax and VAT Information](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan/updating-tax-and-vat-information.md)
+- [Canceling Your Plan](https://docs.bugsplat.com/administration/billing/upgrading-changing-or-canceling-your-plan/canceling-your-plan.md)
+- [Free and Discounted Plans](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat.md)
+- [Free Plan Overview](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/standard-free-plan.md)
+- [Free Crash Reporting for Indie Game Development](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/free-accounts-for-indie-game-development.md)
+- [Education](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/bugsplat-free-accounts-for-students-and-teachers.md)
+- [Open-Source](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/bugsplat-free-accounts-for-not-for-profit-open-source-projects.md)
+- [Good Causes](https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/good-causes.md)
+- [Plans, Upgrades, and Payments FAQ](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq.md)
+- [Fair-Refund Policy](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq/refund-policy.md)
+- [Update to Our Legacy Plans Guide](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq/legacy-plans-guide.md): Important documentation for users who signed up for a paid BugSplat account before March 15th, 2022.  Plans are being phased out starting March 28th 2024.
+- [Updates to BugSplat Pricing Plans - March 2024](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq/updates-to-bugsplat-pricing-plans-march-2024.md)
+- [Using Coupons and Promotions at BugSplat](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq/using-coupons-and-promotions-at-bugsplat.md)
+- [What is 'High Volume Fractional Crash Processing'?](https://docs.bugsplat.com/administration/billing/plans-upgrades-and-payments-faq/what-is-high-volume-fractional-crash-processing.md)
+- [Account](https://docs.bugsplat.com/administration/account-managment.md)
+- [Migrating Databases](https://docs.bugsplat.com/administration/account-managment/how-to-migrate-databases-between-users-and-accounts.md)
+- [Deleting Databases](https://docs.bugsplat.com/administration/account-managment/deleting-databases.md)
+- [Deleting a Company Account](https://docs.bugsplat.com/administration/account-managment/permanently-deleting-a-company-account.md)
+- [Changing Company Name](https://docs.bugsplat.com/administration/account-managment/changing-company-name.md)
+- [User Management](https://docs.bugsplat.com/administration/introduction.md): User management, user permissions, deleting users, MFA, SSO, requesting access to team databases, and more.
+- [User Permissions](https://docs.bugsplat.com/administration/introduction/user-permissions.md)
+- [Deleting a User](https://docs.bugsplat.com/administration/introduction/permanently-deleting-a-user-account.md)
+- [Requesting Access](https://docs.bugsplat.com/administration/introduction/requesting-access-to-your-teams-accounts.md)
+- [Login Page and Options](https://docs.bugsplat.com/administration/introduction/login-page-and-options.md)
+- [Password Settings and Reset Options](https://docs.bugsplat.com/administration/introduction/password-settings-and-reset-options.md)
+- [Required Password Reset - August 4th, 2023](https://docs.bugsplat.com/administration/introduction/password-settings-and-reset-options/required-password-reset-august-4th-2023.md): This is a copy of the email received by active BugSplat users requesting they change their password.
+- [Single Sign-On (SSO)](https://docs.bugsplat.com/administration/introduction/single-sign-on-sso.md)
+- [Multi-Factor Authentication (MFA)](https://docs.bugsplat.com/administration/introduction/multi-factor-authentication-mfa.md)
+- [Enforce MFA](https://docs.bugsplat.com/administration/introduction/enforce-mfa.md)
+- [Adding New Users in Companies with Multiple Databases](https://docs.bugsplat.com/administration/introduction/adding-new-users-in-companies-with-multiple-databases.md): Best practices for managing user access in large companies with multiple databases
+- [Contact Us](https://docs.bugsplat.com/administration/contact-us.md)
+- [What is BugSplat?](https://docs.bugsplat.com/about/what-is-bugsplat.md): BugSplat is the developer's go-to toolbox for finding, understanding, and fixing crashes.
+- [Why BugSplat?](https://docs.bugsplat.com/about/introduction.md)
+- [Who is BugSplat?](https://docs.bugsplat.com/about/who-is-bugsplat.md)
+- [Our Values](https://docs.bugsplat.com/about/who-is-bugsplat/our-values.md)
+- [Charitable Giving](https://docs.bugsplat.com/about/who-is-bugsplat/charitable-giving.md)
+- [Brand Guidelines](https://docs.bugsplat.com/about/who-is-bugsplat/brand-guidelines.md): Brand resources and design guidelines for BugSplat
+- [Misc](https://docs.bugsplat.com/about/misc.md)
+- [Promotions](https://docs.bugsplat.com/about/misc/promotions.md)
+- [March 2024 - Game Developer Free Months of Service](https://docs.bugsplat.com/about/misc/promotions/march-2024-game-developer-free-months-of-service.md)
+- [Giveaways](https://docs.bugsplat.com/about/misc/giveaways.md): Terms and Conditions
+- [April 8 - April 22, 2025](https://docs.bugsplat.com/about/misc/giveaways/april-8-april-22-2025.md)
+- [Feb 18 - March 17, 2025](https://docs.bugsplat.com/about/misc/giveaways/feb-18-march-17-2025.md)
+- [Jan 15 - Feb 13, 2025](https://docs.bugsplat.com/about/misc/giveaways/jan-15-feb-13-2025.md)
+- [December 19-29, 2024](https://docs.bugsplat.com/about/misc/giveaways/december-19-29-2024.md)
+- [November 21–28, 2024](https://docs.bugsplat.com/about/misc/giveaways/november-21-28-2024.md)
+- [October 17-24th, 2024](https://docs.bugsplat.com/about/misc/giveaways/october-17-24th-2024.md)
+- [September 19-26th, 2024](https://docs.bugsplat.com/about/misc/giveaways/september-19-26th-2024.md)
+- [July 18 - July 23, 2024](https://docs.bugsplat.com/about/misc/giveaways/july-18-july-23-2024.md)
+- [April 18 - May 12, 2024](https://docs.bugsplat.com/about/misc/giveaways/april-18-may-12-2024.md): BugSplat User Feedback Survey Giveaway Terms and Conditions
+- [March 18 - April 03, 2024](https://docs.bugsplat.com/about/misc/giveaways/march-18-april-03-2024.md)
+- [November 15-30, 2023](https://docs.bugsplat.com/about/misc/giveaways/november-15-30-2023.md): Terms for Giveaway conducted over Discord and Email.
+- [October 9-23, 2023](https://docs.bugsplat.com/about/misc/giveaways/october-9-23-2023.md): Terms for Giveaway conducted over Discord and Email.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.bugsplat.com/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

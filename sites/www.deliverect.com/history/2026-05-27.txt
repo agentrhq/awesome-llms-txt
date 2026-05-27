@@ -1,0 +1,86 @@
+# Deliverect
+
+## Overview
+Deliverect is a global ecosystem of on and off-premise solutions for digital food sales. Its API-first software helps enterprises of all sizes to sell anywhere and deliver everywhere.
+
+## Products 
+- [Deliverect Restaurants] (https://www.deliverect.com/en/deliverect-restaurants): Deliverect Restaurants acts as a hub, centralizing order management and menu management into one streamlined platform while giving you access to all sales, performance, and third-party delivery data.
+
+- [Deliverect Direct] (https://www.deliverect.com/en/deliverect-direct): Deliverect Direct gives you the tools to sell on web, Facebook, Instagram, Whatsapp, automate your marketing and promos and reward loyalty everywhere.
+
+- [Dispatch by Deliverect] (https://www.deliverect.com/en/dispatch): Dispatch by Deliverect provides reliable delivery anytime, anywhere by distributing orders across owned and third-party fleets automatically and reaching your customers faster than ever.
+
+- [Deliverect Retail] (https://www.deliverect.com/en/deliverect-retail): Deliverect Retail centralizes order and catalog management, monitors real-time sales performance, and accesses data from third-party delivery platforms, all in one place for grocery and retail operations.
+
+- [Reclaim by Deliverect] (https://www.deliverect.com/en/reclaim-by-deliverect): Reclaim by Deliverect helps restaurant operators recover revenue lost to inaccurate refund claims on delivery platforms with zero operational lift.
+
+- [Deliverect Kiosk] (https://www.deliverect.com/en/deliverect-kiosk): digital kiosk for restaurants designed to elevate your guest’s in-store experience. With our kiosk system, customers can place orders and pay in just a few steps, providing a fast, seamless experience.
+
+- [Sentinel by Deliverect] (https://www.deliverect.com/en/sentinel): Built for enterprise operators, Sentinel delivers real-time status monitoring, automated uptime recovery, AI sentiment tracking, and store-level reporting, so nothing gets missed and revenue stays protected.
+
+- [Catering by Deliverect] (https://www.deliverect.com/en-us/catering): End-to-end catering order management. Fully automated, zero commission fees.
+
+## Integrations
+- [Deliverect Integrations](https://www.deliverect.com/en/integrations): Library of all Deliverect integrations
+
+- [Deliverect POS Integrations](https://www.deliverect.com/en/integrations/pos-systems): Library of all Deliverect POS integrations
+
+- [Deliverect Deliverect Channel Integrations](https://www.deliverect.com/en/integrations/delivery-channels): Library of all Deliverect delivery channel integrations
+
+- [Deliverect Online Ordering Integrations](https://www.deliverect.com/en/integrations/online-ordering): Library of all Deliverect online ordering integrations
+
+- [Deliverect Online Ordering Integrations](https://www.deliverect.com/en/integrations/loyalty): Library of all Deliverect loyalty integrations
+
+- [Deliverect Online Ordering Integrations](https://www.deliverect.com/en/integrations/fulfilment): Library of all Deliverect fulfilment integrations
+
+- [Deliverect Online Ordering Integrations](https://www.deliverect.com/en/integrations/retail): Library of all Deliverect retail integrations
+
+- [Deliverect On Premise Integrations](https://www.deliverect.com/en/integrations/in-house-dining-apps): Library of all Deliverect kiosk and in house dining integrations
+
+- [Deliverect Payment Integrations](https://www.deliverect.com/en/integrations/payments): Library of all Deliverect payment integrations
+
+- [Deliverect Social Media Integrations](https://www.deliverect.com/en/integrations/social-media): Library of all Deliverect social media integrations
+
+## Support Information
+- [Deliverect Help Center](https://help.deliverect.com/en/): A comprehensive resource for users seeking assistance with Deliverect's services and features.
+
+- [مركز مساعدة Deliverect](https://help.deliverect.com/ar/): The Arabic version of the Deliverect Help Center, providing support and information for Arabic-speaking users.
+
+- [Deliverect - How to publish a Menu](https://help.deliverect.com/en/articles/7978992-publish-a-menu): Learn how to publish menus to your stores.
+
+- [Deliverect - How to create or import a Menu](https://help.deliverect.com/en/articles/7978980-create-or-import-a-menu): Learn how to create a menu from scratch or import one from a delivery channel.
+
+- [Deliverect - How to view orders](https://help.deliverect.com/en/articles/7979013-view-orders): Learn how to view orders from your Deliverect account.
+
+- [Deliverect - How to schedule menus](https://help.deliverect.com/en/articles/7978985-schedule-menus): Learn how to set when you want menus to be published to your channels per location.
+
+- [Deliverect - How to add or activate stores](https://help.deliverect.com/en/articles/7979291-add-or-activate-stores): Follow the steps in this article to add or activate a store for a location in your Deliverect account.
+
+## Technical Documentation
+- [Build a POS integration - Deliverect](https://developers.deliverect.com/docs/building-a-pos-integration): Technical details on how to build a POS integration with Deliverect.
+
+- [POS endpoints - Deliverect](https://developers.deliverect.com/reference/pos_endpoints): Technical details on Deliverect POS endpoints.
+
+- [Build a Channel integration - Deliverect](https://developers.deliverect.com/docs/building-a-channel-integration-overview): Technical details on how to build a channel integration with Deliverect.
+
+- [Channel endpoints - Deliverect](https://developers.deliverect.com/reference/pos_endpoints): Technical details on Deliverect channel endpoints.
+
+- [Build a store integration - Deliverect](https://developers.deliverect.com/docs/building-store-integration): Technical details on how to build a store integration with Deliverect.
+
+- [Store endpoints - Deliverect](https://developers.deliverect.com/reference/store_endpoints): Technical details on Deliverect store endpoints.
+
+- [Combination of Max and MultiMax on modifiergroups - Deliverect](https://developers.deliverect.com/discuss/617164fc4cb63104de5e07cd): Technical details on using Max and MultiMax features within modifier groups.
+
+- [Deliverect Endpoints](https://developers.deliverect.com/reference/pos_endpoints): A detailed overview of the various endpoints available for integration with Deliverect's services.
+
+- [Orders endpoint is not documented? - Deliverect](https://developers.deliverect.com/discuss/64734ec722f68d0018551171): Information regarding undocumented orders endpoints and how to address related issues.
+
+- [Creating a linked account on Staging - Deliverect](https://developers.deliverect.com/discuss/660167d74d5311003786c562): Instructions for users on how to create a linked account in the staging environment.
+
+## Webhooks and Integrations
+- [Partner Webhooks - Deliverect](https://developers.deliverect.com/reference/pos_webhooks): Documentation on setting up and using webhooks for partner integrations.
+
+## User Support and Success
+- [Contact Deliverect](https://help.deliverect.com/en/articles/7978926-contact-us): How to contact Deliverect 
+
+- [Frequently asked questions about Deliverect](https://www.deliverect.com/en/faq): A compilation of common questions and answers regarding Deliverect's services.

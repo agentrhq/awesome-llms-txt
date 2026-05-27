@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "domain": "uithing.com",
+  "display_name": "Uithing",
+  "category": "dev-tools",
+  "verified_url": "https://uithing.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:53Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 32215,
+  "last_modified": "Sun, 17 May 2026 09:52:13 GMT",
+  "freshness_age_days": 9,
+  "score": 78,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 15,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 9,
+      "reasons": [
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 9,
+      "reasons": [],
+      "age_days": 9,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 31.5
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "UI Thing | TailwindCSS Component Library for Nuxt",
+    "h1_count": 1,
+    "blockquote": "UI Thing is a flexible and modern component library for Nuxt, offering reusable UI components styled with TailwindCSS and inspired by shadcn/ui. Simplify your development process with easy-to-integrate components and a powerful CLI tool.",
+    "section_count": 4,
+    "subsection_count": 0,
+    "link_count": 191,
+    "value_link_count": 191,
+    "low_value_link_count": 0,
+    "raw_bytes": 32215
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

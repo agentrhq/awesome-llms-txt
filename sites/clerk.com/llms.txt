@@ -1,0 +1,99 @@
+# Clerk
+
+> The most comprehensive User Management Platform. Clerk is a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
+
+## Index and content files
+
+- [All llms-full.txt files](https://clerk.com/llms-full.txt): Meta-index linking to every llms-full.txt on clerk.com
+- [Documentation index](https://clerk.com/docs/llms.txt): Curated index of Clerk documentation pages, maintained in clerk-docs
+- [Documentation (full content)](https://clerk.com/docs/llms-full.txt): Complete Clerk documentation in a single file
+- [Articles index](https://clerk.com/articles/llms.txt): Index of every Clerk article
+- [Articles (detailed)](https://clerk.com/articles/articles.md): Index of all Clerk articles with metadata and table of contents
+- [Articles (full content)](https://clerk.com/articles/llms-full.txt): Complete markdown body of every Clerk article, concatenated into a single file
+- [Blog index](https://clerk.com/blog/llms.txt): Index of every Clerk blog post
+- [Blog (detailed)](https://clerk.com/blog/blog.md): Index of all Clerk blog posts with metadata and table of contents
+- [Blog (full content)](https://clerk.com/blog/llms-full.txt): Complete markdown body of every Clerk blog post, concatenated into a single file
+- [Changelog index](https://clerk.com/changelog/llms.txt): Index of every Clerk changelog entry
+- [Changelog (detailed)](https://clerk.com/changelog/changelog.md): Index of all Clerk changelog entries with metadata and table of contents
+- [Changelog (full content)](https://clerk.com/changelog/llms-full.txt): Complete markdown body of every Clerk changelog entry
+
+## Product
+
+- [User Authentication](https://clerk.com/user-authentication): Powerful options to securely authenticate and manage your users
+  - [<SignIn /> component](https://clerk.com/components/sign-in): A production-ready sign-in component with secure authentication, social login, and OTP verification
+  - [<SignUp /> component](https://clerk.com/components/sign-up): A production-ready sign-up component with secure authentication, social login, and OTP verification
+  - [<UserButton /> component](https://clerk.com/components/user-button): A production-ready user button component with account management and multi-session support
+  - [<UserProfile /> component](https://clerk.com/components/user-profile): A production-ready user profile component that centralizes profile, security, connected accounts, billing, and API keys.
+- [B2B Authentication](https://clerk.com/organizations): Add-on features built specifically for B2B applications
+  - [<CreateOrganization /> component](https://clerk.com/components/create-organization): A production-ready component for creating new organizations with member invitations
+  - [<OrganizationSwitcher /> component](https://clerk.com/components/organization-switcher): A production-ready component for switching between organizations and personal accounts
+- [Billing](https://clerk.com/billing): The easiest way to implement subscriptions for applications
+- [Pricing](https://clerk.com/pricing): Plans, pricing, and feature comparison for Clerk
+- [Clerk CLI](https://clerk.com/cli): Set up authentication, manage config, and support agent workflows from the command line
+- [Theme Editor](https://clerk.com/components/theme-editor): Customize Clerk component appearance with a visual theme editor
+
+## Solutions
+
+- [React Authentication](https://clerk.com/react-authentication): Embeddable prebuilt UI components for quick and seamless integrations
+- [Next.js Authentication](https://clerk.com/nextjs-authentication): The fastest and most seamless authentication solution for Next.js
+- [Expo Authentication](https://clerk.com/expo-authentication): Implement cross-platform authentication the React way
+- [Authentication for AI](https://clerk.com/ai-authentication): Authentication and abuse protection tailored to AI applications
+
+## Articles
+
+- [Add Clerk authentication to a Next.js app with the Clerk CLI](https://clerk.com/articles/add-clerk-authentication-to-a-next-js-app-with-the-clerk-cli): The Clerk CLI adds authentication to a Next.js 16 App Router app end-to-end: scaffold, pull keys, patch passkeys as code, and validate wiring — no dashboard round-trip.
+- [Add Clerk authentication to a TanStack Start app with the Clerk CLI](https://clerk.com/articles/add-clerk-authentication-to-a-tanstack-start-app-with-the-clerk-cli): Use the Clerk CLI to add Clerk authentication to an existing TanStack Start app. Covers `clerk init --framework tanstack-start`, config-as-code patches, and what the CLI actually writes into your project.
+- [Add Clerk authentication to a React app with the Clerk CLI](https://clerk.com/articles/add-clerk-authentication-to-a-react-app-with-the-clerk-cli): The Clerk CLI sets up React authentication in one command: scaffold a Vite + React 19 app, pull env keys, and patch passkeys, sign-in methods, and session policy as code.
+- [Authentication for Serverless and Edge Deployments](https://clerk.com/articles/authentication-for-serverless-and-edge-deployments): Ephemeral compute breaks traditional session auth. Implement stateless JWT verification and JWKS caching with Clerk across Vercel, Cloudflare Workers, Netlify Edge, and Lambda.
+- [How to Add Authentication to a Python Backend](https://clerk.com/articles/how-to-add-authentication-to-a-python-backend): Protect FastAPI, Flask, and Django endpoints with Clerk's official Python SDK — networkless JWT verification, RBAC, webhook handling, and production-ready deployment patterns.
+- [How to add SSO and SAML to my SaaS Product](https://clerk.com/articles/how-to-add-sso-and-saml-to-my-saas-product): Ship production SAML SSO in your SaaS: a complete Clerk walkthrough for Next.js, Auth0 and WorkOS snippets, and the DIY security pitfalls from 2025–2026 CVEs.
+- [How to use SwiftUI components in a React Expo and Clerk app](https://clerk.com/articles/how-to-use-swiftui-components-in-a-react-expo-and-clerk-app): Ship a React Native Expo app with real SwiftUI on iOS using Clerk's native components. Covers native Google Sign-In, Apple Sign-In, user profile, and Expo Router route protection.
+- [Clerk Compatibility in Expo 54 and 55](https://clerk.com/articles/clerk-compatibility-in-expo-54-and-55): Comprehensive compatibility reference for Clerk with Expo SDK 54 and 55 — covers @clerk/expo v3.1.x authentication approaches, native components, and known limitations.
+- [How to Add Face ID/Biometric Login to Your Expo+Clerk App](https://clerk.com/articles/how-to-add-face-id-biometric-login-to-your-expo-clerk-app): Add Face ID, Touch ID, and fingerprint login to your Expo app using Clerk's useLocalCredentials hook. Includes full TypeScript code, cross-platform handling, and security best practices.
+- [How to Handle Session Expiry in a React Native App with Clerk](https://clerk.com/articles/how-to-handle-session-expiry-in-a-react-native-app-with-clerk): Session expiry in React Native demands careful handling of background states, offline scenarios, and token refresh. Clerk automates this in Expo apps with its two-token architecture and Core 3 SDK.
+- [How to Set Up Clerk Authentication with Expo Router](https://clerk.com/articles/how-to-set-up-clerk-authentication-with-expo-router): Build secure React Native apps with Clerk and Expo Router — covering protected routes, MFA, Google and Apple sign-in, and production-ready auth patterns with full code samples.
+- [What Changed in Clerk Expo SDK 3.1](https://clerk.com/articles/what-changed-in-clerk-expo-sdk-3-1): Clerk Expo SDK 3.1 ships native SwiftUI and Jetpack Compose auth components, native Google Sign-In, and Core 3 API changes with full migration guidance for Expo apps.
+- [How to Use Clerk's AuthView in an Expo App](https://clerk.com/articles/how-to-use-clerks-authview-in-an-expo-app): Clerk's AuthView component renders native sign-in and sign-up UIs in Expo apps using SwiftUI and Jetpack Compose. Build a complete app with protected routes and user profiles.
+- [From setActive to finalize: Migrating Custom Auth Flows to Clerk Core 3](https://clerk.com/articles/from-setactive-to-finalize-migrating-custom-auth-flows-to-clerk-core-3): Migrate Clerk custom auth flows from Core 2 to Core 3 — replace setActive with finalize, swap beforeEmit for navigate, and use decorateUrl for environment-aware routing.
+- [How to Protect Routes in Expo Router with Clerk](https://clerk.com/articles/how-to-protect-routes-in-expo-router-with-clerk): Build secure mobile authentication in Expo Router apps with Clerk - covers route protection, role-based access control, deep linking, and avoiding common mobile navigation pitfalls.
+- [Expo Go vs Development Build?](https://clerk.com/articles/expo-go-or-development-build-building-production-ready-authentication-with-clerk): Learn when to use Expo Go versus a development build for mobile authentication, and build a production-ready Expo app with Clerk featuring native Google sign-in, browser-based OAuth, email OTP, protected routes, and TestFlight distribution.
+- [Migrating from @clerk/clerk-expo to @clerk/expo](https://clerk.com/articles/migrating-from-clerk-clerk-expo-to-clerk-expo-breaking-changes-native-components): A complete migration guide from @clerk/clerk-expo to @clerk/expo (Core 3). Covers the Clerk Upgrade CLI, import path changes, the Show component, Core 3 redesigned authentication hook API, native components, passkeys, offline support, and testing strategies.
+- [Clerk vs Firebase Authentication for Expo](https://clerk.com/articles/clerk-vs-firebase-authentication-for-expo): A detailed comparison of Clerk and Firebase Auth for Expo apps. Covers setup, native components, passkeys, session management, organizations, and SDK stability across Expo SDK upgrades.
+- [Expo Google Sign-In Without a WebView](https://clerk.com/articles/expo-google-sign-in-without-a-webview-the-native-approach-using-clerk): This guide explains how to implement native Google Sign-In in Expo apps using Clerk — bypassing the system browser entirely by leveraging Android's Credential Manager and iOS's ASAuthorization APIs. It covers both the zero-config <AuthView /> component and the useSignInWithGoogle hook, with setup for Google Cloud Console, the Clerk Dashboard, certificate fingerprints, and EAS Build
+- [Native vs. Browser OAuth in Expo](https://clerk.com/articles/native-vs-browser-oauth-in-expo-a-decision-guide-for-social-login): Compare browser-based and native OAuth approaches for Expo social login. Covers Google Sign-In, Apple Sign-In, passkeys, Credential Manager, ASAuthorization, and provider comparison with code examples.
+- [React Authentication: From Protected Routes to Passkeys](https://clerk.com/articles/react-authentication-from-protected-routes-to-passkeys): Build production-grade authentication in React from scratch. Covers protected routes, token security, social login, MFA, passkeys, and platform comparison with working TypeScript code.
+- [The best APIs for secure user authentication](https://clerk.com/articles/the-best-apis-for-secure-user-authentication): Compare 6 leading authentication APIs through a security-first lens. Covers OAuth 2.0, OIDC, zero-trust principles, passkeys, and implementation code for Clerk, Auth0, Firebase, Supabase, WorkOS, and AWS Cognito.
+- [How do I implement social login for my web app?](https://clerk.com/articles/how-do-i-implement-social-login-for-my-web-app): A technical guide to implementing social login with OAuth 2.0 and OIDC — comparing 15 identity providers and 6 auth services across security, account linking, token storage, and framework integration with Clerk, Auth0, Firebase Auth, Supabase, and WorkOS.
+- [What Authentication Solutions Work Well with React and Next.js?](https://clerk.com/articles/what-authentication-solutions-work-well-with-react-and-nextjs): A technical comparison of Clerk, Auth0, Firebase Auth, Supabase Auth, and WorkOS for React and Next.js — evaluating Server Component support, proxy.ts compatibility, pre-built UI components, session management, and setup complexity in Next.js 16 App Router applications.
+- [User Management for React Apps](https://clerk.com/articles/comprehensive-user-management-solutions-for-modern-react-applications): The complete 2025 guide to user management for React and Next.js. Compare Clerk, Auth0, Cognito, and more. Covers build vs. buy, security, B2B patterns, and compliance.
+- [How to sync Clerk user data to your database](https://clerk.com/articles/how-to-sync-clerk-user-data-to-your-database): Learn how to sync Clerk user data to your database using webhooks, handle user events, and implement production-ready patterns for real-time synchronization with PostgreSQL, Prisma, and Next.js.
+- [Next.js Session Management](https://clerk.com/articles/nextjs-session-management-solving-nextauth-persistence-issues): Diagnose and fix NextAuth session failures caused by cookie misconfigurations, JWT issues, and Edge incompatibilities—plus learn why managed solutions like Clerk eliminate these problems entirely.
+- [User Authentication for Next.js: Top Tools and Recommendations for 2025](https://clerk.com/articles/user-authentication-for-nextjs-top-tools-and-recommendations-for-2025): Complete guide to user authentication for Next.js in 2025. Compare Clerk, Auth0, NextAuth.js, Supabase Auth, and other solutions with security best practices, App Router integration, and implementation recommendations for modern Next.js applications.
+- [Essential user management features for startups](https://clerk.com/articles/essential-user-management-features-startups): Compare authentication platforms for startups in 2025: Clerk, Auth0, Firebase, AWS Cognito. Learn which user management features matter at each growth stage.
+- [Best Embeddable UIs for Auth](https://clerk.com/articles/complete-guide-to-embeddable-uis-for-user-management): Compare embeddable UIs for user management in 2025: Clerk, Auth0, WorkOS, Supabase & Firebase. Complete guide covering React, Next.js, setup time & pricing.
+- [Best User Management APIs for Developers](https://clerk.com/articles/best-user-management-apis-for-developers): Compare the best user management APIs for developers in 2025. In-depth analysis of Clerk, Auth0, Firebase, and Cognito for React and Next.js applications.
+- [User Management Platform Comparison for React: Clerk vs Auth0 vs Firebase (2025)](https://clerk.com/articles/user-management-platform-comparison-react-clerk-auth0-firebase): Compare Clerk, Auth0, and Firebase for React user management. See setup times (5-15 min vs weeks), pricing, RBAC features, and which fits your B2B SaaS in 2025.
+- [The Complete Guide to Auth Tools for Next.js Apps](https://clerk.com/articles/authentication-tools-for-nextjs): Compare Next.js authentication tools: Clerk (7-min setup), NextAuth.js, Supabase, Auth0. Implementation guides, security patterns, pricing & recommendations.
+- [How to Add Auth to App Router](https://clerk.com/articles/complete-authentication-guide-for-nextjs-app-router): Master Next.js App Router authentication in 2025. Compare Clerk, NextAuth.js, Supabase Auth performance & security. Fix CVE-2025-29927 vulnerability. 30-minute setup guide with React Server Components patterns.
+- [Clerk vs Auth0 for Next.js](https://clerk.com/articles/clerk-vs-auth0-for-nextjs): Clerk vs Auth0 for Next.js: Compare setup time, pricing, performance, and Next.js 15 support. Technical analysis with code examples and cost breakdowns
+
+## Blog
+
+- [Clerk Init: The fastest way to start a new project](https://clerk.com/blog/clerk-init): Bootstrap a new project in seconds using Clerk CLI`s `init` command
+- [Introducing Clerk CLI](https://clerk.com/blog/introducing-clerk-cli): The Clerk CLI gives your coding agents auth superpowers
+- [Middleware-based route protection bypass](https://clerk.com/blog/middleware-based-route-protection-bypass): A CVE has been released for a middleware-based route protection bypass affecting applications using createRouteMatcher in middleware or proxy.
+- [Postmortem: Clerk System Outage (March 10, 2026)](https://clerk.com/blog/2026-03-10-service-outage-postmortem): A detailed postmortem of the outage on March 10, 2026, including timeline, root cause analysis, and remediations.
+- [Clerk for the AI era](https://clerk.com/blog/2026-03-03-clerk-for-the-ai-era): We're doubling down on making Clerk composable by default, with clear APIs and tools that work as well for human developers as they do for agents.
+- [Add API Key support to your SaaS in minutes](https://clerk.com/blog/add-api-key-support-to-your-saas-with-clerk): Learn how to implement multi-tenant API Key functionality in your SaaS platform without the complexity.
+- [Postmortem: Clerk System Outage (February 19, 2026)](https://clerk.com/blog/2026-02-19-system-outage-postmortem): A detailed post-mortem of the system outage that occurred on February 19, 2026, including root cause analysis and planned remediations.
+
+- [Using Clerk in a React Native app](https://clerk.com/blog/using-clerk-in-a-react-native-app): Build a cross-platform time tracking app from scratch with React Native and Expo, implement secure authentication with Clerk, and set up data storage using Supabase.
+- [Postmortem: DNS Provider Outage (February 10, 2026)](https://clerk.com/blog/2026-02-10-dns-outage-postmortem): A detailed post-mortem of the DNS provider outage that occurred on February 10, 2026, including impact analysis and planned remediations.
+
+- [How do I implement passkeys in Next.js?](https://clerk.com/blog/how-do-i-implement-passkeys-in-nextjs): Learn how passkeys enable passwordless authentication with phishing-resistant cryptography. This tutorial walks through a complete Next.js WebAuthn implementation, covering registration and authentication flows.
+- [Clerk ranked #4 fastest-growing software vendor on Ramp’s December 2025 list](https://clerk.com/blog/clerk-ranked-4-fastest-growing-software-vendor-by-ramp): Recognition highlights Clerk’s rapid customer adoption
+- [How do I handle JWT verification in Next.js?](https://clerk.com/blog/how-do-i-handle-jwt-verification-in-nextjs): Learn all about JWTs: what they are, how they are created, and how to verify them in a Next.js application
+- [Committing to Agent Identity: Clerk raises $50m Series C from Menlo and Anthropic’s Anthology Fund](https://clerk.com/blog/series-c): Funding will be used to advance Agent Identity, expand products, and elevate developer experience.
+- [What is the best way to handle authentication in Next.js App Router?](https://clerk.com/blog/best-auth-nextjs-app-router): Learn about the various authentication options available when using Next.js app router, and how to properly secure access to protected areas of your application.
+- [Postmortem: Database Incident (September 14–18, 2025)](https://clerk.com/blog/2025-09-18-database-incident-postmortem): A detailed post-mortem of the database incident that occurred between September 14-18, 2025, including root cause analysis, timeline, and remediation steps.
+

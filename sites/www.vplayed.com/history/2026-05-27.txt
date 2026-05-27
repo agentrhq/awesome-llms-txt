@@ -1,0 +1,6 @@
+# llms.txt
+User-agent: *
+Allow: /
+
+Preferred-Content: https://www.vplayed.com/
+Preferred-Content: https://www.vplayed.com/blog/

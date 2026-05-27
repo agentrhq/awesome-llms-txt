@@ -1,0 +1,40 @@
+# TryOpenClaw.ai
+
+> Managed hosting platform for OpenClaw — the open-source AI assistant that connects to WhatsApp, Telegram, Discord, Slack, and iMessage.
+
+TryOpenClaw.ai is a managed deployment service for OpenClaw. Users pay a monthly fee and get a fully configured OpenClaw instance running in under 60 seconds — no server setup, no Docker, no API key configuration.
+
+## What is OpenClaw?
+
+OpenClaw is an open-source AI agent that connects to messaging apps and takes autonomous actions on your behalf. Unlike ChatGPT (which waits for you to ask), OpenClaw is proactive — it can send messages, run scheduled tasks, and respond to inbound messages without you being involved.
+
+## What TryOpenClaw.ai does
+
+- Hosts and manages OpenClaw instances for users
+- Handles all infrastructure: servers, LLM API access, messaging platform integrations
+- Provides automatic updates, monitoring, and support
+- Offers a paid trial followed by monthly subscription
+
+## Key pages
+
+- Homepage: https://www.tryopenclaw.ai/
+- Blog: https://www.tryopenclaw.ai/blog/
+- FAQ: https://www.tryopenclaw.ai/faq/
+- Support: https://www.tryopenclaw.ai/support/
+- What is OpenClaw: https://www.tryopenclaw.ai/blog/what-is-openclaw/
+- Pricing breakdown: https://www.tryopenclaw.ai/blog/openclaw-pricing/
+- Self-hosting vs managed hosting: https://www.tryopenclaw.ai/blog/self-hosting-vs-managed-hosting-ai-agents/
+- OpenClaw alternatives: https://www.tryopenclaw.ai/blog/openclaw-alternatives/
+- OpenClaw review: https://www.tryopenclaw.ai/blog/openclaw-review/
+
+## Supported platforms
+
+- WhatsApp
+- Telegram
+- Discord
+- Slack
+- iMessage
+
+## RSS feed
+
+https://www.tryopenclaw.ai/blog/rss.xml

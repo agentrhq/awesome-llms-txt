@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "domain": "www.tuttosullegalline.it",
+  "display_name": "Tuttosullegalline",
+  "category": "content",
+  "verified_url": "https://www.tuttosullegalline.it/llms.txt",
+  "fetched_at": "2026-05-27T05:32:23Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 186065,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 43,
+  "grade": "D",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 9,
+      "reasons": [
+        "multi_h1_2",
+        "sections_without_link_lists"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 5,
+      "reasons": [
+        "few_value_links",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 3,
+      "reasons": [
+        "no_auth_keywords"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 1,
+      "reasons": [
+        "oversized_182kb"
+      ],
+      "kb": 181.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Tuttosullegllne.it",
+    "h1_count": 2,
+    "blockquote": "Tutto Sulle Galline è il sito di riferimento per chi, come noi, è interessato a tutto ciò che ruota attorno a questo fantastico animale che è la gallina, sia come volatile da cui ottenere ogni giorno prelibate e freschissime uova, sia soprattutto come incredibile e a volte poco considerato animale da compagnia (ed ovviamente in tutte le su declinazioni di età e sesso: pulcino, chioccia e gallo). News e curiosità, informazioni sulle razze (sia di galline ovaiole che di galline ornamentali) e su come costruire e gestire un pollaio domestico, ricette con uova, storia e cultura, video divertenti di galline, e infine la sezione Shop con pollai e casette da acquistare online scegliendo tra tantissimi modelli. Di recente abbiamo inserito anche la sezione allevatori a cui vi potete rivolgere per acquistare gli esemplari che state cercando.",
+    "section_count": 12,
+    "subsection_count": 0,
+    "link_count": 0,
+    "value_link_count": 0,
+    "low_value_link_count": 0,
+    "raw_bytes": 186065
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

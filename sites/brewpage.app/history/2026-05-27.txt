@@ -1,0 +1,161 @@
+# BrewPage
+
+> Free HTML, Markdown, multi-file site, AI artifact & file instant hosting. Get a shareable HTTPS link.
+
+BrewPage is a free instant hosting service for HTML pages, Markdown documents,
+AI artifacts and files. No registration required. Two identical domains: brewpage.app and brewdata.app.
+
+## Publish
+
+- POST /api/html?ns={ns}&ttl={days}&tags={csv} — publish HTML (JSON body: {"content": "..."})
+  Optional body field: filename (≤200 chars, used as title fallback when no <title>/<h1>; immutable on update).
+  showTopBar (bool, optional) — set true to add a top toolbar on the served page (filename + Download button + light/dark toggle). Useful when sharing reports/documents you want users to save. Default: hidden. Per-page; overrides global default.
+  Also accepts raw `text/*` (HTML, Markdown, YAML, XML, CSV, code) and `application/octet-stream` bodies — see `/llms-full.txt`.
+- POST /api/html?ns={ns}&ttl={days}&format=markdown — publish Markdown (rendered to styled HTML). Also accepts format=md
+- POST /api/files?ns={ns}&ttl={days} — upload a file (multipart form, max 5MB)
+  Images, PDFs, video, and audio display inline via short URL. Add ?dl=1 to force download.
+  Only safe file types accepted (images, docs, archives, media, web assets). HTTP 415 for blocked types.
+- POST /api/sites?ns={ns}&ttl={days} — upload a multi-file site (multipart form)
+  Send a ZIP archive (part: "archive") or multiple files with paths (parts: "files" + "paths").
+  Max 20 MB total, 100 files, 5 MB per file. Entry point auto-detected (index.html preferred).
+  Relative links between HTML/CSS/JS files work seamlessly. Response includes site link.
+  GET /{ns}/{id} serves entry HTML. GET /{ns}/{id}/page2.html serves sub-pages.
+  DELETE /api/sites/{ns}/{id} with X-Owner-Token removes all files.
+  GET /api/sites/{ns}/{id} with X-Owner-Token returns site metadata + file list.
+  No PUT for sites — to update, DELETE then POST again.
+
+## Storage
+
+- POST /api/kv?ns={ns}&ttl={days} — create KV store (JSON body: {"key": "k", "value": "v"})
+- PUT /api/kv/{ns}/{id}/{key} — set key (JSON body: {"value": "v"}, header: X-Owner-Token)
+- GET /api/kv/{ns}/{id}/{key} — get value
+- POST /api/json?ns={ns}&ttl={days} — store JSON document (raw JSON body)
+- GET /api/json/{ns}/{id} — get JSON document
+
+## Visibility (Namespace + Password)
+
+**Default behavior is public listing — opt out with a custom `ns` or `X-Password`.**
+
+An item is **public** — listed on the brewpage.app homepage gallery and indexed by
+search engines — only when both `ns` is omitted (defaults to `public`) and no
+`X-Password` is set. Either a custom namespace or a password makes it private
+(excluded from `/api/gallery` and from the sitemap).
+
+  - **DEFAULT** (when `ns` is omitted): `public` — shared, listed on homepage if no password
+  - `ns` *(query)* — custom namespace, regex `[a-z0-9-]{3,32}`, auto-created on first use
+  - `X-Password` *(header)* — min 4 chars; readers send the same header or `p` *(query)*
+  - `/{ns}/{id}` *(path)* — direct short URL stays reachable by anyone who knows it
+  - collision on `ns+id` — server returns 409; retry with a different `id` or omit `id`
+
+## Required Headers
+
+User-Agent: REQUIRED on every request. Format: `AgentName/version` (e.g. `Claude/4.5`, `Codex/1.0`, `MyBot/2.1`).
+Requests without User-Agent may be rate-limited or rejected.
+
+## Access Logging
+
+Every API request (including every upload POST) is persisted server-side: IP, User-Agent, method, path,
+query, response status, duration, timestamp. Retention: 30 days. Admin endpoint: `GET /api/admin/access`.
+Send a realistic, identifiable User-Agent — anonymous or spoofed UAs may be flagged.
+
+## Common
+
+All POST responses: id (10-char), namespace, link (short URL), ownerLink (API URL), ownerToken.
+Mutations require X-Owner-Token header returned at creation.
+
+TTL (retention):
+  default: 15 days
+  max: 30 days
+  applies to: html, markdown, json, kv, files, sites
+  override: ttl_days request field (1..30)
+
+## Update (stable URL)
+
+`PUT /api/html/{ns}/{id}`, `PUT /api/json/{ns}/{id}`, `PUT /api/kv/{ns}/{id}/{key}` replace content while preserving the short URL — share once, edit in place. Use this when an AI agent iterates on its output, or to fix a mistake in an already-shared link without giving readers a new URL. Immutable on update: tags, password, format, filename, showTopBar — to change those, delete and recreate. No version history: previous content is overwritten. Requires `X-Owner-Token` from the creation response. Multi-file sites do not support PUT — to update a site, DELETE /api/sites/{ns}/{id} then POST a fresh upload.
+
+## PUT for republish (idempotent POST)
+
+`POST /api/html` is idempotent for the `(X-Owner-Token, content, ns=public, 24h)` tuple. A byte-identical repost from the same owner to `public/` without a password within 24h silently returns the existing id (response status 201, body unchanged, header `X-Existing-Resource: 1`). To intentionally replace the content at an existing short URL, prefer `PUT /api/html/{ns}/{id}` with the original `X-Owner-Token` — that is the canonical republish path and avoids burning IndexNow quota.
+
+## Owner Token
+
+Save the `ownerToken` from any creation response (HTML, KV, JSON, Files).
+Reuse it via `X-Owner-Token` header on subsequent creates to group entities under one owner.
+Send `X-Owner-Token` on list endpoints (GET /api/kv, GET /api/json, GET /api/files) to see only your entities.
+Without the token, list endpoints return an empty list.
+Gallery (/api/gallery) remains public -- no token filtering.
+Token enables cross-session consistency for AI agents and automation.
+
+## Tooling
+
+- MCP server: `npm install -g brewpage-mcp` — https://www.npmjs.com/package/brewpage-mcp
+  Lets any LLM/agent (Claude, Codex, Gemini, Cursor, ...) call BrewPage via MCP.
+- Claude Code skill `brewdoc:publish` — slash-command to publish from inside Claude Code.
+  Install: `/plugin marketplace add kochetkov-ma/claude-brewcode` then `/plugin install brewdoc@claude-brewcode`
+  Docs: https://doc-claude.brewcode.app/brewdoc/skills/publish/
+
+## File Previews
+
+When a viewer opens a short URL of an uploaded text file, BrewPage renders it as a numbered-line table.
+For known code/data extensions (json xml svg html htm css js mjs jsx ts tsx sql yaml yml toml md), the
+preview is progressively enhanced with client-side syntax highlighting via Prism.js (loaded lazily from
+cdnjs). Highlighting is purely visual; the raw bytes returned by GET /api/files/{ns}/{id} are unchanged.
+Unknown extensions and CDN failures fall back silently to plain text — no console noise, no flicker.
+JSON documents posted to /api/json/* render via a separate JSON pretty-printer (not Prism).
+
+## Common LLM Queries
+
+- "free html hosting no signup" -> POST /api/html?ns=public
+- "share markdown as link" -> POST /api/html?ns=public&format=markdown
+- "publish ai artifact" -> POST /api/html with JSON body {"content": "..."} (save ownerToken)
+- "host file for ai agent" -> POST /api/files?ns=public (multipart, field "file")
+- "upload zip site multi page" -> POST /api/sites?ns=public (multipart "archive")
+- "store agent state key value" -> POST /api/kv?ns={ns} then PUT /api/kv/{ns}/{id}/{key}
+- "store json document" -> POST /api/json?ns={ns} (raw JSON body)
+- "search public gallery" -> GET /api/gallery?q={term}&page=1&size=20
+- "list my pages" -> GET /api/html | /api/kv | /api/json | /api/files with X-Owner-Token
+- "edit shared link without changing url" -> PUT /api/html/{ns}/{id} with X-Owner-Token
+- "delete my page" -> DELETE /api/{html|files|sites|json}/{ns}/{id} with X-Owner-Token
+- "extend page lifetime" -> PUT /api/html/{ns}/{id} with ttl_days (1..30); TTL recomputed from now
+- "retrieve by short id" -> GET /{ns}/{id} (browser) or GET /api/html/{ns}/{id} (JSON wrapper)
+
+## FAQ
+
+Q: What is BrewPage?
+A: Free HTTPS hosting for HTML, Markdown, multi-file sites, AI artifacts, and files. No signup.
+
+Q: What can I host?
+A: HTML, Markdown (rendered), ZIP sites (<=20 MB / 100 files), JSON, KV, images, PDF, video, audio, archives.
+
+Q: How long are pages available?
+A: Default 15 days, max 30 days. Set via ttl_days (1..30). Expired content is deleted nightly with no recovery.
+
+Q: Is my page public or private?
+A: Public (gallery + indexed) only when ns=public AND no password. A custom ns or X-Password makes it private.
+
+Q: How do I edit or delete my page?
+A: Reuse the Owner Token from creation: PUT /api/html/{ns}/{id} to edit, DELETE /api/.../{ns}/{id} to remove.
+
+Q: I lost my Owner Token — what now?
+A: No recovery. The page auto-deletes at TTL expiry; for abuse use the report form.
+
+Q: Is BrewPage free? What are the limits?
+A: 100% free. HTML/MD 5 MB, files 5 MB (video 20 MB), sites 20 MB, KV/JSON 1 MB, uploads 60/hr/IP, reads 300/min/IP.
+
+Q: Can AI agents use BrewPage?
+A: Yes — built for AI artifacts. Use the REST API directly, the MCP server, or the Claude Code skill.
+
+## Ecosystem
+
+- brewpage-openapi (OpenAPI spec + interactive docs): https://github.com/kochetkov-ma/brewpage-openapi
+- brewpage-mcp (MCP server for Claude/Codex/Gemini/Cursor): https://www.npmjs.com/package/brewpage-mcp
+- claude-brewcode (Claude Code plugin marketplace — skills + agents): https://github.com/kochetkov-ma/claude-brewcode
+- Interactive OpenAPI reference (Scalar): https://kochetkov-ma.github.io/brewpage-openapi/
+- Full BrewCode docs: https://doc-claude.brewcode.app/getting-started/
+
+## Docs
+
+- OpenAPI spec (YAML, recommended for LLM — ~25% fewer tokens): https://brewpage.app/api/openapi.yaml (alias: /v3/api-docs.yaml)
+- API reference page (human): https://brewpage.app/api
+- Interactive API browser (Scalar): https://kochetkov-ma.github.io/brewpage-openapi/
+- Full reference: https://brewpage.app/llms-full.txt

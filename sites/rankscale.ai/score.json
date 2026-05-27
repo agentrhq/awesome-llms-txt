@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "rankscale.ai",
+  "display_name": "Rankscale",
+  "category": "observability",
+  "verified_url": "https://rankscale.ai/llms.txt",
+  "fetched_at": "2026-05-27T05:31:50Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 3533,
+  "last_modified": "Fri, 22 May 2026 06:54:49 GMT",
+  "freshness_age_days": 4,
+  "score": 64,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 17,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 8,
+      "reasons": [
+        "few_value_links",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_llms_full_link",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 4,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 3.5
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Rankscale.ai - Monitor Your Website or SaaS or Brand or Service or Product or Client in AI Search Engines",
+    "h1_count": 1,
+    "blockquote": "Analyze and Optimize your AI Search Visibility with Results Tracking, Deep Insights and Actionable Recommendations - in Seconds.",
+    "section_count": 11,
+    "subsection_count": 0,
+    "link_count": 12,
+    "value_link_count": 6,
+    "low_value_link_count": 6,
+    "raw_bytes": 3533
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

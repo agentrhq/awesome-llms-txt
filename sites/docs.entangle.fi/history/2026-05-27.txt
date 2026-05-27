@@ -1,0 +1,118 @@
+# Entangle Documentation
+
+## Entangle
+
+- [Overview](https://docs.entangle.fi/entangle/overview.md)
+- [Security Audits](https://docs.entangle.fi/entangle/security-audits.md)
+- [Community](https://docs.entangle.fi/entangle/community.md)
+- [Overview](https://docs.entangle.fi/universal-interoperability-protocol/overview.md)
+- [Architecture](https://docs.entangle.fi/universal-interoperability-protocol/architecture.md)
+- [Scalability and Network Stability](https://docs.entangle.fi/universal-interoperability-protocol/architecture/scalability-and-network-stability.md)
+- [L2 Utility Blockchains](https://docs.entangle.fi/universal-interoperability-protocol/architecture/scalability-and-network-stability/l2-utility-blockchains.md)
+- [Transmitter Groups](https://docs.entangle.fi/universal-interoperability-protocol/architecture/scalability-and-network-stability/transmitter-groups.md)
+- [Security and Consensus Mechanism](https://docs.entangle.fi/universal-interoperability-protocol/architecture/security-and-consensus-mechanism.md)
+- [Finality](https://docs.entangle.fi/universal-interoperability-protocol/architecture/finality.md)
+- [Execution Latency](https://docs.entangle.fi/universal-interoperability-protocol/architecture/execution-latency.md)
+- [Compatibility and Interoperability](https://docs.entangle.fi/universal-interoperability-protocol/architecture/compatibility-and-interoperability.md)
+- [Developer Guides](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides.md)
+- [Getting Started](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/getting-started.md)
+- [Solidity](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solidity.md)
+- [Simple Abstract Messenger Example](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solidity/simple-abstract-messenger-example.md)
+- [Deploying Your Custom EVM Protocol](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solidity/deploying-your-custom-evm-protocol.md)
+- [Bridging Tokens with UIP](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solidity/bridging-tokens-with-uip.md)
+- [Become an EVM Transmitter](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solidity/become-an-evm-transmitter.md)
+- [Solana](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solana.md)
+- [Simple Abstract Messenger Example](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solana/simple-abstract-messenger-example.md)
+- [Deploying Your Custom Solana Protocol](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solana/deploying-your-custom-solana-protocol.md)
+- [Become a Solana Transmitter](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/solana/become-a-solana-transmitter.md)
+- [Calculate Cross-Chain Transaction Cost](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/calculate-cross-chain-transaction-cost.md)
+- [Customizable Message Transmission Options](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/customizable-message-transmission-options.md)
+- [How to Debug Sent Messages](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/how-to-debug-sent-messages.md)
+- [SDK Setup](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/sdk-setup.md)
+- [Revenue Sharing for Transmitters](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/revenue-sharing-for-transmitters.md)
+- [How to Become a Super Transmitter](https://docs.entangle.fi/universal-interoperability-protocol/developer-guides/how-to-become-a-super-transmitter.md)
+- [Endpoints](https://docs.entangle.fi/universal-interoperability-protocol/endpoints.md)
+- [Overview](https://docs.entangle.fi/universal-data-feeds/overview.md)
+- [Architecture](https://docs.entangle.fi/universal-data-feeds/architecture.md)
+- [Data Delivery Methods](https://docs.entangle.fi/universal-data-feeds/architecture/data-delivery-methods.md)
+- [Pull Model](https://docs.entangle.fi/universal-data-feeds/architecture/data-delivery-methods/pull-model.md)
+- [Push Model](https://docs.entangle.fi/universal-data-feeds/architecture/data-delivery-methods/push-model.md)
+- [Oracle Contract & User Interaction](https://docs.entangle.fi/universal-data-feeds/architecture/oracle-contract-and-user-interaction.md)
+- [Developer Guides](https://docs.entangle.fi/universal-data-feeds/developer-guides.md)
+- [Custom Data Feeds](https://docs.entangle.fi/universal-data-feeds/developer-guides/custom-data-feeds.md)
+- [Fetch Data via Pull Model (PAYG)](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-payg.md)
+- [EVM Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-payg/evm-smart-contracts.md)
+- [Solana Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-payg/solana-smart-contracts.md)
+- [Fetch Data via Pull Model (Subscriptions)](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-subscriptions.md)
+- [EVM Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-subscriptions/evm-smart-contracts.md)
+- [Solana Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-pull-model-subscriptions/solana-smart-contracts.md)
+- [Fetch Data via Push Model](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-push-model.md)
+- [EVM Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-push-model/evm-smart-contracts.md)
+- [Solana Smart Contracts](https://docs.entangle.fi/universal-data-feeds/developer-guides/fetch-data-via-push-model/solana-smart-contracts.md)
+- [Data Publishing](https://docs.entangle.fi/universal-data-feeds/developer-guides/data-publishing.md)
+- [User Guides](https://docs.entangle.fi/universal-data-feeds/user-guides.md)
+- [Accessing Feeds](https://docs.entangle.fi/universal-data-feeds/user-guides/accessing-feeds.md)
+- [Subscribe to a Data Feed](https://docs.entangle.fi/universal-data-feeds/user-guides/subscribe-to-a-data-feed.md)
+- [Check Subscription](https://docs.entangle.fi/universal-data-feeds/user-guides/check-subscription.md)
+- [Manage Subscription](https://docs.entangle.fi/universal-data-feeds/user-guides/manage-subscription.md)
+- [Renew Subscription](https://docs.entangle.fi/universal-data-feeds/user-guides/renew-subscription.md)
+- [Configuring Pull Model](https://docs.entangle.fi/universal-data-feeds/user-guides/configuring-pull-model.md)
+- [Configuring Push Model](https://docs.entangle.fi/universal-data-feeds/user-guides/configuring-push-model.md)
+- [Data Endpoints](https://docs.entangle.fi/universal-data-feeds/data-endpoints.md)
+- [Overview](https://docs.entangle.fi/universal-token-standard/overview.md)
+- [Architecture](https://docs.entangle.fi/universal-token-standard/architecture.md)
+- [Fee Components](https://docs.entangle.fi/universal-token-standard/architecture/fee-components.md)
+- [Developer Guides](https://docs.entangle.fi/universal-token-standard/developer-guides.md)
+- [Manual Deploy](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy.md)
+- [Token Deployment Types](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/token-deployment-types.md)
+- [Create a Custom Token](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/create-a-custom-token.md)
+- [Factory Blueprint Deployment](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/factory-blueprint-deployment.md)
+- [Examples](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples.md)
+- [Initial Setup](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/initial-setup.md)
+- [UTS Connector](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-connector.md)
+- [Mint & Burn Connector Scheme](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-connector/mint-and-burn-connector-scheme.md)
+- [Lock & Unlock Connector Scheme](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-connector/lock-and-unlock-connector-scheme.md)
+- [Connector Over Native Currency](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-connector/connector-over-native-currency.md)
+- [UTS Token](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-token.md)
+- [Simple Token](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-token/simple-token.md)
+- [Token with Messages](https://docs.entangle.fi/universal-token-standard/developer-guides/manual-deploy/examples/uts-token/token-with-messages.md)
+- [Bridge SDK](https://docs.entangle.fi/universal-token-standard/developer-guides/bridge-sdk.md)
+- [Token Verification](https://docs.entangle.fi/universal-token-standard/developer-guides/token-verification.md)
+- [Fees Calculation & Gas Estimation Logic](https://docs.entangle.fi/universal-token-standard/developer-guides/fees-calculation-and-gas-estimation-logic.md)
+- [Estimations](https://docs.entangle.fi/universal-token-standard/developer-guides/estimations.md)
+- [User Guides](https://docs.entangle.fi/universal-token-standard/user-guides.md)
+- [Launch Universal Token](https://docs.entangle.fi/universal-token-standard/user-guides/launch-universal-token.md)
+- [Create a Liquidity Pool](https://docs.entangle.fi/universal-token-standard/user-guides/create-a-liquidity-pool.md)
+- [Expand Existing Token](https://docs.entangle.fi/universal-token-standard/user-guides/expand-existing-token.md)
+- [Transfer Liquidity to Connector](https://docs.entangle.fi/universal-token-standard/user-guides/transfer-liquidity-to-connector.md)
+- [Bridging](https://docs.entangle.fi/universal-token-standard/user-guides/bridging.md)
+- [Contract Addresses](https://docs.entangle.fi/universal-token-standard/contract-addresses.md)
+- [Overview](https://docs.entangle.fi/entangle-interoperable-blockchain/overview.md)
+- [Architecture](https://docs.entangle.fi/entangle-interoperable-blockchain/architecture.md)
+- [Developer Guides](https://docs.entangle.fi/entangle-interoperable-blockchain/developer-guides.md)
+- [Set up a Validator Node](https://docs.entangle.fi/entangle-interoperable-blockchain/developer-guides/set-up-a-validator-node.md)
+- [Delegating to Validators](https://docs.entangle.fi/entangle-interoperable-blockchain/developer-guides/delegating-to-validators.md)
+- [Undelegating from Validators](https://docs.entangle.fi/entangle-interoperable-blockchain/developer-guides/undelegating-from-validators.md)
+- [Supported Accounts](https://docs.entangle.fi/entangle-interoperable-blockchain/developer-guides/supported-accounts.md)
+- [Media Kit](https://docs.entangle.fi/more/media-kit.md): Take care of the below points while using the logo
+- [FAQ](https://docs.entangle.fi/more/faq.md)
+- [Report an Issue](https://docs.entangle.fi/more/report-an-issue.md)
+- [Become a Partner](https://docs.entangle.fi/more/become-a-partner.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.entangle.fi/entangle/overview.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

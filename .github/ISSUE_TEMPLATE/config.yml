@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rubric proposal
+    url: https://github.com/agentrhq/awesome-llms-txt/issues/new?title=rubric%3A+&labels=rubric
+    about: Suggest a change to weights, criteria, or thresholds. Reviewed quarterly.
+  - name: Tool bug
+    url: https://github.com/agentrhq/awesome-llms-txt/issues/new?title=bug%3A+&labels=bug
+    about: Something is wrong with the llms-txt-score CLI.

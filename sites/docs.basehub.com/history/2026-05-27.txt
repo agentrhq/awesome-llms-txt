@@ -1,0 +1,168 @@
+# BaseHub
+
+## Documentation
+
+- [Introduction](https://docs.basehub.com/introduction): BaseHub is a fast and collaborative Headless CMS.
+- [Platform Overview](https://docs.basehub.com/platform-overview): Understand the basics of the BaseHub Platform.
+
+### Next.js Integration
+
+- [Start Here](https://docs.basehub.com/nextjs-integration/start-here): Learn how to integrate your Next.js App with BaseHub in a couple of steps.
+- [Querying Basics](https://docs.basehub.com/nextjs-integration/querying-basics): Learn how to build GraphQL queries with the generated client.
+- [Rendering Rich Text](https://docs.basehub.com/nextjs-integration/rendering-rich-text): Fragments let you construct sets of fields, and then include them in queries where you need to.
+- [Environments & Caching](https://docs.basehub.com/nextjs-integration/environments-and-caching): Understand the different environments and caching strategies you can leverage to improve your content editing experience.
+
+
+### AI
+
+- [MCP](https://docs.basehub.com/ai/mcp): You can use your agent tools provided by our MCP server and connect it to your favorite apps, like Claude and Cursor.
+- [Agents](https://docs.basehub.com/ai/agents): BaseHub Agents are AI assistants that help with content management, automated workflows, and team collaboration.
+- [Workflows](https://docs.basehub.com/ai/workflows): Automate content generation across your repository with AI-powered workflows.
+
+
+### Extras
+
+- [Search](https://docs.basehub.com/extras/search): Learn how to add instant-search into your website.
+- [Analytics](https://docs.basehub.com/extras/analytics): Learn how to send analytics events from your website.
+- [Forms](https://docs.basehub.com/extras/forms): The powerful Event block lets you build a form schema from the dashboard, and consume it in code to build complex forms.
+- [Webhooks](https://docs.basehub.com/extras/webhooks): Learn how to use Webhooks to subscribe to changes that happen within BaseHub.
+- [Localization](https://docs.basehub.com/extras/localization): Learn how to add localization, or i18n, by using the Variants Block.
+
+
+### Other Frameworks
+
+- [Astro](https://docs.basehub.com/other-frameworks/astro): Get started with Astro and BaseHub.
+- [SvelteKit](https://docs.basehub.com/other-frameworks/sveltekit): Get started with SvelteKit and BaseHub.
+
+
+## API Reference
+
+
+### JavaScript SDK
+
+- [Tokens](https://docs.basehub.com/api-reference/javascript-sdk/tokens): Learn which tokens exist in BaseHub and what they are for.
+- [CLI](https://docs.basehub.com/api-reference/javascript-sdk/cli): Generates a type-safe client based on your Repo's schema.
+
+#### `basehub` Client
+
+- [query](https://docs.basehub.com/api-reference/javascript-sdk/basehub-client/query): The main method to consume data from your BaseHub repositories.
+
+##### mutation
+
+- [transaction](https://docs.basehub.com/api-reference/javascript-sdk/basehub-client/mutation/transaction): The main mutation method, covers most of the modifications that can be done to the schema with three different transaction types: create, update and delete.
+- [transactionAsync](https://docs.basehub.com/api-reference/javascript-sdk/basehub-client/mutation/transactionasync): Same as `transaction`, but runs async—as a background job.
+- [getUploadSignedURL](https://docs.basehub.com/api-reference/javascript-sdk/basehub-client/mutation/getuploadsignedurl): A helper to upload assets to our database. 
+- [transactionStatus](https://docs.basehub.com/api-reference/javascript-sdk/basehub-client/mutation/transactionstatus): Gets the current transaction status based on its ID.
+
+
+
+#### React
+
+- [<Pump />](https://docs.basehub.com/api-reference/javascript-sdk/react/pump-component): A React Server Component that queries BaseHub and can subcribe to real time changes seamlessly.
+- [<RichText />](https://docs.basehub.com/api-reference/javascript-sdk/react/rich-text-component): Our official rich text renderer. Supports passing custom handlers for native html elements and BaseHub components.
+- [<CodeBlock />](https://docs.basehub.com/api-reference/javascript-sdk/react/code-block-component): Easy-to-use component for rendering great code snippets.
+
+##### Search
+
+- [useSearch](https://docs.basehub.com/api-reference/javascript-sdk/react/search/usesearch): A React hook that instantiates your Search Client.
+- [<SearchBox.Root />](https://docs.basehub.com/api-reference/javascript-sdk/react/search/search-box-component): The Search wrapper works as a provider and comes with some optional props that can come in handy.
+- [<SearchBox.Input />](https://docs.basehub.com/api-reference/javascript-sdk/react/search/search-box-input-component): Extends the native HTML Input and consumes the search context in order to fetch hits from the indexed data. 
+- [Hit Components](https://docs.basehub.com/api-reference/javascript-sdk/react/search/hit-components): Use cases and APIReference for HitList, HitItem, HitSnippet
+
+- [<Icon />](https://docs.basehub.com/api-reference/javascript-sdk/react/lessicon-greater): A vector renderer for our icon block. Supports passing custom handlers for native svg elements.
+
+
+#### Events
+
+- [sendEvent](https://docs.basehub.com/api-reference/javascript-sdk/events/sendevent): The events method to send data through BaseHub. Flexible, type-safe and scoped by block.
+- [getEvents](https://docs.basehub.com/api-reference/javascript-sdk/events/getevents): A query method to retrieve your events stored in BaseHub.
+- [updateEvent](https://docs.basehub.com/api-reference/javascript-sdk/events/updateevent): Method that allows modifying existing events by their ID. 
+- [deleteEvent](https://docs.basehub.com/api-reference/javascript-sdk/events/deleteevent): Method that removes one or more events by their IDs.
+
+
+#### Search (core)
+
+- [search](https://docs.basehub.com/api-reference/javascript-sdk/search-core/search): Core method to perform a search query.
+- [getClientRaw](https://docs.basehub.com/api-reference/javascript-sdk/search-core/getclientraw): Get the raw search client.
+
+
+#### Next
+
+- [<Toolbar />](https://docs.basehub.com/api-reference/javascript-sdk/next/toolbar-component): The official BaseHub toolbar to manage draft mode and switch branches in your site previews.
+
+
+#### Release Notes
+
+- [Version 9](https://docs.basehub.com/api-reference/javascript-sdk/release-notes/version-9): Learn how to upgrade from v8 to v9.
+- [Version 8](https://docs.basehub.com/api-reference/javascript-sdk/release-notes/version-8): Learn how to upgrade from v7 to v8.
+
+
+
+### GraphQL API
+
+- [Explorer](https://docs.basehub.com/api-reference/graphql-api/explorer): Explore the GraphQL API interactively, thanks to the power of GraphiQL.
+- [Mutation API Guidelines](https://docs.basehub.com/api-reference/graphql-api/mutation-api-guidelines): Learn how to create, update, and delete content in BaseHub using the Mutation API with detailed examples and best practices.
+- [Query API Guidelines](https://docs.basehub.com/api-reference/graphql-api/query-api-guidelines): Master GraphQL querying in BaseHub with comprehensive examples for layout and primitive blocks, filtering, ordering, and variants.
+
+
+## Blocks Reference
+
+- [Anatomy of a Block](https://docs.basehub.com/blocks/anatomy-of-a-block): You can think of your Repository as a tree of Blocks. Let's explore how this works.
+
+### Layout Blocks
+
+- [Root](https://docs.basehub.com/blocks/layout/root): The root of the Tree.
+- [Document](https://docs.basehub.com/blocks/layout/document): The most common layout block in BaseHub. Think of them as directories in a file system.
+- [Component](https://docs.basehub.com/blocks/layout/component): The Component block functions as a modular structure within your repository, that can be reused across your schema. 
+- [Instance](https://docs.basehub.com/blocks/layout/instance): A modular block that reuses the structure from your Components.
+- [Collection](https://docs.basehub.com/blocks/layout/collection): A powerful list of blocks that can be fully customizable.
+- [Variants](https://docs.basehub.com/blocks/layout/variants): Lets you create variations of a piece of content. Useful for i18n and A/B testing.
+
+
+### Primitive Blocks
+
+- [Text](https://docs.basehub.com/blocks/primitives/text): The default plain text input in BaseHub. Cannot contain rich text formatting.
+- [Number](https://docs.basehub.com/blocks/primitives/number): The most primitive number input in BaseHub. Allows integer, float, negative and positive numbers.
+- [Boolean](https://docs.basehub.com/blocks/primitives/boolean): A primitive flag input. True or false.
+- [Date](https://docs.basehub.com/blocks/primitives/date): A primitive date input, with optional time.
+- [Rich Text](https://docs.basehub.com/blocks/primitives/rich-text): A powerful text input that not only supports markdown syntax but also it has the possibility to have many custom components made in BaseHub.
+- [Media](https://docs.basehub.com/blocks/primitives/media): All kind of assets in one block. Comes with some constraints that can make your media uploads more reliable.
+- [Select](https://docs.basehub.com/blocks/primitives/select): Choose from a pre-defined selection of text options.
+- [Reference](https://docs.basehub.com/blocks/primitives/reference): Choose from a constrained list of component types.
+- [Color](https://docs.basehub.com/blocks/primitives/color): A primitive color input. Opens a palette, and lets you select every color format.
+- [OG Image](https://docs.basehub.com/blocks/primitives/og-image): A lightweight OG Image editor used for social cards. Accepts variables and is fully customizable.
+- [Event](https://docs.basehub.com/blocks/primitives/event): A unique block that enables type-safe data submissions
+- [Workflow](https://docs.basehub.com/blocks/primitives/workflow): A unique block to automate actions, webhooks and notifications.
+- [Icon](https://docs.basehub.com/blocks/primitives/icon): Provides seamless rendering of SVG elements in your application.
+
+
+## Templates & Examples
+
+
+### Templates
+
+- [Introduction](https://docs.basehub.com/templates-and-examples/templates/introduction): Know more about how templates work in the platform.
+- [Create Your Own](https://docs.basehub.com/templates-and-examples/templates/create-your-own): Learn how to create your own template in this short guide.
+- [Marketing Website Template](https://docs.basehub.com/templates-and-examples/templates/marketing-website-template): The perfect way to start your next marketing website.
+- [Documentation Template](https://docs.basehub.com/templates-and-examples/templates/documentation-template): The template that powers this documentation website.
+- [Help Center Template](https://docs.basehub.com/templates-and-examples/templates/help-center-template): The template that powers our own Help Center. Full-text search included.
+- [Waitlist Template](https://docs.basehub.com/templates-and-examples/templates/waitlist-template): Minim ipsum veniam elit duis veniam consectetur sit.
+
+
+### Examples & Guides
+
+- [Create a Feedback Form](https://docs.basehub.com/templates-and-examples/examples-and-guides/create-a-feedback-form): A simple "Feedback" form using the Event and the Workflow Blocks.
+- [Create a Newsletter](https://docs.basehub.com/templates-and-examples/examples-and-guides/create-a-newsletter): See how you can build a fully-fledged Newsletter using the Event and Workflow Blocks, plus Resend and React Email.
+- [Create a View Counter](https://docs.basehub.com/templates-and-examples/examples-and-guides/create-a-view-counter): Track page views with the Event Block, and display them in your site.
+- [Create a Form Builder](https://docs.basehub.com/templates-and-examples/examples-and-guides/create-a-form-builder): Programmatic pages and forms using the Reference and Event Blocks.
+- [Custom Components in Rich Text](https://docs.basehub.com/templates-and-examples/examples-and-guides/custom-components-in-rich-text): Learn how to use custom components within rich text blocks.
+- [Simple A/B Testing](https://docs.basehub.com/templates-and-examples/examples-and-guides/simple-ab-testing): Learn how to perform simple A/B tests with BaseHub and the Variant Block.
+
+
+## OpenAPI Example
+
+OpenAPI Spec: https://cdn.jsdelivr.net/npm/@scalar/galaxy/dist/latest.yaml
+
+
+
+

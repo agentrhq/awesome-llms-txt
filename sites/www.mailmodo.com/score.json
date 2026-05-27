@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "domain": "www.mailmodo.com",
+  "display_name": "Mailmodo",
+  "category": "dev-tools",
+  "verified_url": "https://www.mailmodo.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:19Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 340366,
+  "last_modified": "Wed, 27 May 2026 05:32:20 GMT",
+  "freshness_age_days": 0,
+  "score": 64,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 15,
+      "reasons": [
+        "no_blockquote_summary"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 12,
+      "reasons": [
+        "thin_sectioning",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 5,
+      "reasons": [
+        "no_llms_full_link",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 1,
+      "reasons": [
+        "oversized_332kb"
+      ],
+      "kb": 332.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "marketing_fluff"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Mailmodo",
+    "h1_count": 1,
+    "blockquote": null,
+    "section_count": 1,
+    "subsection_count": 0,
+    "link_count": 1263,
+    "value_link_count": 1263,
+    "low_value_link_count": 0,
+    "raw_bytes": 340366
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,409 @@
+# Contentsquare Tech Docs
+
+> Contentsquare is a unified experience analytics, product analytics, and voice of customer platform for web and mobile applications.
+
+## Web
+
+- [The Main Tracking Tag](https://docs.contentsquare.com/en/web/index.md): The Contentsquare Main Tracking Tag or Main tag is the core 'pixel' or 'code snippet' to implement on your domain to collect analytics data
+- [Artificial Pageviews](https://docs.contentsquare.com/en/web/artificial-pageviews/index.md): Artificial pageviews are to be used when the site uses AJAX, SPA, PWA, or re-routes users without refreshing the page
+- [Dynamic Variables Tag](https://docs.contentsquare.com/en/web/dynamic-variables-tag/index.md): Dynamic vars are additional information on the session that can be used to segment users
+- [Custom Page Events](https://docs.contentsquare.com/en/web/custom-page-events/index.md): A page event or a custom page event is a value (an element or an event) triggered during a session on a specific page
+- [ETR Event Tag](https://docs.contentsquare.com/en/web/etr-event-tag/index.md): The ETR event tag allows to trigger ETR events to save the collected session of the visitor
+- [The E-commerce tag](https://docs.contentsquare.com/en/web/ecommerce-tag/index.md): The e-commerce tag is used to keep track of the e-commerce transactions happening on the site and empower analysis with revenue-related metrics
+- [Voice of Customer](https://docs.contentsquare.com/en/web/voice-of-customer/index.md): Requirements to use the Voice of Customer module
+- [Testing your implementation](https://docs.contentsquare.com/en/web/testing-your-implementation/index.md): Test your implementation using the Contentsquare Tracking Setup Assistant to make sure pageviews are sent to Contentsquare servers, on every page
+- [Wrapping it up](https://docs.contentsquare.com/en/web/wrapping-it-up/index.md): Solicit your Contentsquare contact for more feedback on your data collection tests, and explore third-party integration capabilities
+- [Troubleshooting](https://docs.contentsquare.com/en/web/troubleshooting/index.md): Frequently asked questions about data that is sent
+- [Core concepts](https://docs.contentsquare.com/en/web/core-concepts/index.md): Core concepts to learn about when implementing the Tag
+- [Sending pageviews](https://docs.contentsquare.com/en/web/sending-pageviews/index.md): Send natural and artificial pageviews from your web page
+- [Sending custom vars](https://docs.contentsquare.com/en/web/sending-custom-vars/index.md): Send custom vars from your web page
+- [Sending dynamic vars](https://docs.contentsquare.com/en/web/sending-dynamic-vars/index.md): Send dynamic vars from your web page
+- [Sending ecommerce commands](https://docs.contentsquare.com/en/web/sending-ecommerce-commands/index.md): Send ecommerce transactions from your web page
+- [Sending an add to cart](https://docs.contentsquare.com/en/web/sending-an-add-to-cart/index.md): Send an add to cart event from your web page
+- [Extending the session length](https://docs.contentsquare.com/en/web/extending-the-session-length/index.md): How the Tag works with sessions
+- [Send the users' decisions about data collection](https://docs.contentsquare.com/en/web/send-the-users-decisions-about-data-collection/index.md): Track whether users accept data collection
+- [Track Users](https://docs.contentsquare.com/en/web/track-users/index.md): Link activities to consistent IDs, enabling cross-device analysis and unified user experience insights beyond cookie limitations
+- [Personal data handling](https://docs.contentsquare.com/en/web/personal-data-handling/index.md): Understand how Contentsquare handles Personal Data
+- [Error Analysis](https://docs.contentsquare.com/en/web/error-analysis/index.md): Error Analysis enables you to quantify, prioritize and visualize errors occurring on your site
+- [Events handling](https://docs.contentsquare.com/en/web/events-handling/index.md): How the Tag handles browser events
+- [Who is included in the analysis?](https://docs.contentsquare.com/en/web/who-is-included-in-the-analysis/index.md): Understanding who the targeted users are and on what conditions
+- [Third-party integrations](https://docs.contentsquare.com/en/web/third-party-integrations-and-implementation-examples/index.md): Resources to learn more about Contentsquare and third-party integrations
+- [Tag API reference](https://docs.contentsquare.com/en/web/command-reference/index.md): Tag commands reference including signature, parameter descriptions, and examples
+- [Compatibility](https://docs.contentsquare.com/en/web/compatibility/index.md): Tag compatible browsers, frameworks, and libraries
+- [Impact on performance](https://docs.contentsquare.com/en/web/impact-on-performance/index.md): How the Tag impacts your site performance
+- [Security](https://docs.contentsquare.com/en/web/security/index.md): Contentsquare Tag and Security
+- [Sub-resource integrity (SRI)](https://docs.contentsquare.com/en/web/sri/index.md): Implement the Tag using sub-resource integrity (SRI)
+- [Content Security Policy (CSP)](https://docs.contentsquare.com/en/web/content-security-policy/index.md): List of directives, values, and domains required by the Tag
+- [Requests](https://docs.contentsquare.com/en/web/requests/index.md): The list of Tag requests and responses
+- [Collected data](https://docs.contentsquare.com/en/web/collected-data/index.md): Understand what data is collected by the Tag
+- [Cookies](https://docs.contentsquare.com/en/web/cookies/index.md): List of cookies and local storage items managed by the Contentsquare Tag
+- [IP Addresses](https://docs.contentsquare.com/en/web/ip-addresses/index.md): How Contentsquare uses IP addresses
+- [Static assets scraping](https://docs.contentsquare.com/en/web/static-assets-scraping/index.md): Options to enable static assets scraping for Zoning and Session Replay
+- [Changelog](https://docs.contentsquare.com/en/web/changelog/index.md): The Contentsquare Tracking Tag changelog
+
+## WebView
+
+- [WebView Tracking](https://docs.contentsquare.com/en/webview-tracking-tag/index.md): Enable WebView tracking in your mobile app by adding the Contentsquare Web Tracking Tag on web pages called by your mobile app
+- [Privacy](https://docs.contentsquare.com/en/webview-tracking-tag/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track Pageviews](https://docs.contentsquare.com/en/webview-tracking-tag/track-pageviews/index.md): Track pageviews in your apps using the Web Tracking Tag
+- [Track transactions](https://docs.contentsquare.com/en/webview-tracking-tag/track-transactions/index.md): Track transactions in your apps using the Web Tracking Tag
+- [Track dynamic variables](https://docs.contentsquare.com/en/webview-tracking-tag/track-dynamic-variables/index.md): Track dynamic variables in your apps using the Web Tracking Tag
+- [Session Replay](https://docs.contentsquare.com/en/webview-tracking-tag/session-replay/index.md): How to include WebViews in replays
+- [Error Analysis](https://docs.contentsquare.com/en/webview-tracking-tag/error-analysis/index.md): How to use Contentsquare Error Analysis in webviews within your mobile app
+- [Collected Data](https://docs.contentsquare.com/en/webview-tracking-tag/collected-data/index.md): What's collected by the WebView Tracking Tag
+- [Product Analytics](https://docs.contentsquare.com/en/webview-tracking-tag/product-analytics/index.md): Product Analytics capabilities made available for users of the CSQ SDK within WebViews
+- [Migration from the legacy WebView Tracking Tag](https://docs.contentsquare.com/en/webview-tracking-tag/migrate-from-the-legacy-tag/index.md): How to migrate from the legacy WebView Tracking Tag
+
+## Android
+
+- [Getting Started with Product Analytics](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/index.md): Integrate the CSQ SDK for Product Analytics into your Android app in minutes
+- [Track identity](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/track-identity/index.md): Enhance user tracking with identify and addUserProperties APIs. Link anonymous and identified user data across sessions and devices for comprehensive analytics
+- [Track push notifications](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/track-push-notifications/index.md): Learn how to track mobile notification interactions automatically with Contentsquare
+- [Track events manually](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/track-events-manually/index.md): Learn how to implement custom event tracking in your Android app with the CSQ SDK for capturing user interactions and business events
+- [Hide sensitive data](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/hide-sensitive-data/index.md): Protect sensitive data in Contentsquare by disabling text capture, masking specific views, or ignoring interactions
+- [AI skills for Android](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare Android SDK with downloadable AI skills
+- [Set up the extension](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/dxae-setup/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Heap Core SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/upgrade-from-heap-core-sdk/index.md): Learn how to migrate from the Heap Core SDK to the CSQ SDK
+- [From Heap Classic SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/upgrade-from-heap-classic-sdk/index.md): Learn how to migrate from the Heap Classic SDK to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/changelog/index.md): The Contentsquare Android SDK changelog
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare Android SDK
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/privacy/index.md): Configure privacy settings and user consent management in your Android app with the CSQ SDK to ensure regulatory compliance
+- [Security](https://docs.contentsquare.com/en/csq-sdk-android/product-analytics/security/index.md): Data transfer and security information
+- [Getting Started with Experience Analytics](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/index.md): Integrate the Contentsquare SDK into your Android app in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/in-app-features/index.md): Enable testing and debugging capabilities within your Android app using in-app features for enhanced development workflow
+- [Track screens](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/track-screens/index.md): Learn how to implement screen tracking in your Android app with CSQ SDK to capture user navigation patterns and screen interactions
+- [Track custom variables](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/track-custom-variables/index.md): Enhance analytics by capturing custom variables for detailed user behavior analysis in your Android app with the CSQ SDK
+- [Track transactions](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/track-transactions/index.md): Track transactions with the Contentsquare Android SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/track-dynamic-variables/index.md): Learn how to implement dynamic variable tracking to enrich your analytics data in your Android application with the CSQ SDK
+- [Track WebViews](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/track-webviews/index.md): Track webviews with the Contentsquare Android SDK
+- [Google Tag Manager](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/google-tag-manager/index.md): Use our integration to send Google Tag Manager events to Contentsquare
+- [Adobe Analytics](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare
+- [Session Replay](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/session-replay/index.md): Learn how to integrate and configure Session Replay capabilities in your Android app with the CSQ SDK
+- [Error Analysis](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/error-analysis/index.md): Implement error tracking and crash reporting in your Android app with the CSQ SDK to identify and resolve issues affecting user experience
+- [Set up Product Analytics data capture](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/set-up-product-analytics-data-capture/index.md): Access to acquisition analysis and lifetime metrics by implementing the Product Analytics data capture using the CSQ SDK
+- [AI skills for Android](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare Android SDK with downloadable AI skills
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/upgrade-from-cs-sdk/index.md): Learn how to migrate from the Contentsquare SDK to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Data Collection](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/data-collection/index.md): Understand how the Android SDK loads, tracks, and send data
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare Android SDK
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/changelog/index.md): The Contentsquare Android SDK changelog
+- [Impact on performance](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDK on your apps
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/privacy/index.md): Configure privacy settings and user consent management in your Android app with the CSQ SDK to ensure regulatory compliance
+- [Security](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/security/index.md): Data transfer and security information
+- [Troubleshooting](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/csq-sdk-android/experience-analytics/third-party-libraries-license/index.md): Contentsquare includes several third-party libraries, which are licensed under their own respective licenses
+
+## iOS
+
+- [Getting Started with Product Analytics](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/index.md): Integrate the CSQ SDK for Product Analytics into your iOS app with step-by-step instructions for installation and configuration
+- [Track identity](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/track-identity/index.md): Enhance user tracking with identify and addUserProperties APIs. Link anonymous and identified user data across sessions and devices for comprehensive analytics
+- [Track push notifications](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/track-push-notifications/index.md): Learn how to track mobile notification interactions automatically with Contentsquare
+- [Track events manually](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/track-events-manually/index.md): Learn how to track custom events in your iOS app using the CSQ SDK
+- [Customize autocaptured screen names](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/customize-autocaptured-screen-names/index.md): Customize screen names collected via autocapture in UIKit and SwiftUI apps
+- [Hide sensitive data](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/hide-sensitive-data/index.md): Protect sensitive data in Contentsquare by disabling text capture, masking specific views, or ignoring interactions
+- [AI skills for iOS](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare iOS SDK with downloadable AI skills
+- [Set up the extension](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/dxae-setup/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Heap Core SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/upgrade-from-heap-core-sdk/index.md): Steps to migrate from a Heap Core install to the CSQ SDK
+- [From Heap Classic SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/upgrade-from-heap-classic-sdk/index.md): Steps to migrate from a Heap Classic install to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/changelog/index.md): The Contentsquare iOS changelog
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare iOS SDK
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-ios/product-analytics/privacy/index.md): Configure privacy settings and user consent management in your iOS app with the CSQ SDK to ensure regulatory compliance
+- [Getting Started with Experience Analytics](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/index.md): Integrate the CSQ SDK for Experience Analytics into your iOS app in minutes
+- [In-app features](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/in-app-features/index.md): Enable testing and debugging capabilities within your iOS app using in-app features for enhanced development workflow
+- [Track Screens](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/track-screens/index.md): Learn how to implement screen tracking in your iOS app with CSQ SDK to capture user navigation patterns and screen interactions
+- [Track custom variables](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/track-custom-variables/index.md): Enhance analytics by capturing custom variables for detailed user behavior analysis in your iOS app with the CSQ SDK
+- [Track transactions](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/track-transactions/index.md): Track transactions with the Contentsquare iOS SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/track-dynamic-variables/index.md): Learn how to track and analyze variable metrics over time in your iOS app using the CSQ SDK
+- [Track Webviews](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/track-webviews/index.md): Track webviews with the Contentsquare iOS SDK
+- [Google Tag Manager](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/google-tag-manager/index.md): Leverage our native integration to send Google Tag Manager events to Contentsquare, with the CSQ iOS SDK
+- [Adobe Analytics](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare, with the CSQ iOS SDK
+- [Session Replay](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/session-replay/index.md): Learn how to integrate and configure Session Replay capabilities in your iOS app with the CSQ SDK
+- [Error Analysis](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/error-analysis/index.md): How to use Contentsquare Error Analysis in your iOS apps
+- [Set up Product Analytics data capture](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/set-up-product-analytics-data-capture/index.md): Access to acquisition analysis and lifetime metrics by implementing the Product Analytics data capture using the CSQ SDK
+- [AI skills for iOS](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare iOS SDK with downloadable AI skills
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/upgrade-from-cs-sdk/index.md): Migrate to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/changelog/index.md): The Contentsquare iOS changelog
+- [Data Collection](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/data-collection/index.md): Understand how the iOS SDK loads, tracks, and send data
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare iOS SDK
+- [Impact on performance](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/impact-on-performance/index.md): Metrics to evaluate the performance impact of Contentsquare iOS SDK on your apps
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/privacy/index.md): Configure privacy settings and user consent management in your iOS app with the CSQ SDK to ensure regulatory compliance
+- [Troubleshooting](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/csq-sdk-ios/experience-analytics/third-party-libraries-license/index.md): Contentsquare iOS SDK includes several third-party libraries, which are licensed under their own respective licenses
+
+## React Native
+
+- [Getting Started with Product Analytics](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/index.md): Integrate the CSQ SDK for Product Analytics into your React Native app in minutes
+- [Track identity](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/track-identity/index.md): Enhance user tracking with identify and addUserProperties APIs. Link anonymous and identified user data across sessions and devices for comprehensive analytics
+- [Track push notifications](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/track-push-notifications/index.md): Learn how to track mobile notification interactions automatically with Contentsquare
+- [Track events manually](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/track-events-manually/index.md): Learn how to implement custom event tracking in your React Native app with the CSQ SDK for capturing user interactions and business events
+- [Hide sensitive data](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/privacy-and-sensitive-data/index.md): Protect sensitive data in Contentsquare by disabling text capture, masking specific views, or ignoring interactions
+- [Set up the extension](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/dxae-setup/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Heap Core SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/upgrade-from-heap-core-sdk/index.md): Learn how to migrate from the Heap Core SDK to the CSQ SDK
+- [From Heap Classic SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/upgrade-from-heap-classic-sdk/index.md): Learn how to migrate from the Heap Classic SDK to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/changelog/index.md): The Contentsquare React Native SDK changelog
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare React Native Bridge
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/privacy/index.md): Configure privacy settings and user consent management in your React Native app with the CSQ SDK to ensure regulatory compliance
+- [Security](https://docs.contentsquare.com/en/csq-sdk-react-native/product-analytics/security/index.md): Data transfer and security information
+- [Getting Started with Experience Analytics](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/index.md): Integrate the CSQ React Native SDK into your app in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/in-app-features/index.md): Enable testing and debugging capabilities within your React Native app using in-app features for enhanced development workflow
+- [Track screens](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/track-screens/index.md): Learn how to implement screen tracking in your React Native app with CSQ SDK to capture user navigation patterns and screen interactions
+- [Track custom variables](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/track-custom-variables/index.md): Enhance analytics by capturing custom variables for detailed user behavior analysis in your React Native app with the CSQ SDK
+- [Track transactions](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/track-transactions/index.md): Track transactions with the Contentsquare bridge for React Native
+- [Track dynamic variables](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/track-dynamic-variables/index.md): Learn how to implement dynamic variable tracking to enrich your analytics data in your React Native application with the CSQ SDK
+- [Track WebViews](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/track-webviews/index.md): Track webviews with the Contentsquare React Native SDK
+- [Google Tag Manager](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/google-tag-manager/index.md): Leverage our native integration to send Google Tag Manager events to Contentsquare
+- [Adobe Analytics](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare
+- [Session Replay](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/session-replay/index.md): How to implement Session Replay with the Contentsquare React Native bridge
+- [Error Analysis](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/error-analysis/index.md): Implement error tracking and crash reporting in your React Native app with the CSQ SDK to identify and resolve issues affecting user experience
+- [Set up Product Analytics data capture](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/set-up-product-analytics-data-capture/index.md): Access to acquisition analysis and lifetime metrics by implementing the Product Analytics data capture using the CSQ SDK
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/upgrade-from-cs-sdk/index.md): Learn how to migrate from the Contentsquare SDK to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/changelog/index.md): The Contentsquare React Native SDK changelog
+- [Data Collection](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/data-collection/index.md): Understand how the React Native SDK loads, tracks, and send data
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare React Native Bridge
+- [Impact on performance](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDK on your apps
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/privacy/index.md): Configure privacy settings and user consent management in your React Native app with the CSQ SDK to ensure regulatory compliance
+- [Security](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/security/index.md): Data transfer and security information
+- [Troubleshooting](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/csq-sdk-react-native/experience-analytics/third-party-libraries-license/index.md): Contentsquare includes several third-party libraries, which are licensed under their own respective licenses
+
+## Flutter
+
+- [Getting Started with Product Analytics](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/index.md): Integrate the CSQ SDK for Product Analytics into your Flutter app with step-by-step instructions for installation and configuration
+- [Track identity](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/track-identity/index.md): Enhance user tracking with identify and addUserProperties APIs. Link anonymous and identified user data across sessions and devices for comprehensive analytics
+- [Track push notifications](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/track-push-notifications/index.md): Learn how to track mobile notification interactions automatically with CSQ
+- [Track events manually](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/track-events-manually/index.md): Learn how to track custom events in your Flutter app using the CSQ SDK
+- [Customize autocaptured screens](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/customize-autocaptured-screens/index.md): Customize screen names collected via autocapture in Flutter apps
+- [AutoRoute support](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/auto_route_support/index.md): How to use the CSQNavigatorAutoRouteObserver with AutoRoute package
+- [Hide sensitive data](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/privacy-and-sensitive-data/index.md): Protect sensitive data in Contentsquare by disabling text capture, masking specific views, or ignoring interactions
+- [AI skills for Flutter](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare Flutter SDK with downloadable AI skills
+- [Set up the extension](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/dxae-setup/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Heap Core SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/upgrade-from-heap-core-sdk/index.md): Steps to migrate from a Heap Core install to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/changelog/index.md): The Contentsquare Flutter SDK changelog
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/compatibility/index.md): Requirements and limitations to develop with the Contentsquare Flutter SDK
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-flutter/product-analytics/privacy/index.md): Configure privacy settings and user consent management in your Flutter app with the CSQ SDK to ensure regulatory compliance
+- [Getting Started with Experience Analytics](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/index.md): Integrate the CSQ SDK for Experience Analytics into your Flutter app in minutes
+- [In-app features](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/in-app-features/index.md): Enable testing and debugging capabilities within your Flutter app using in-app features for enhanced development workflow
+- [Track Screens](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/track-screens/index.md): Learn how to implement screen tracking in your Flutter app with CSQ SDK to capture user navigation patterns and screen interactions
+- [Reliable Targets](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/reliable-targets/index.md): Reliable targets enables the analysis of data across various Screenshots from different dates and versions, including layouts or A/B testing variations
+- [Track custom variables](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/track-custom-variables/index.md): Track custom variables with the CSQ Flutter SDK
+- [Track transactions](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/track-transactions/index.md): Track transactions with the CSQ Flutter SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/track-dynamic-variables/index.md): Learn how to track and analyze variable metrics over time in your Flutter app using the CSQ SDK
+- [Track WebViews](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/track-webviews/index.md): Track webviews with the CSQ Flutter SDK
+- [Adobe Analytics](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare, with the CSQ Flutter SDK
+- [Session Replay](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/session-replay/index.md): Learn how to integrate and configure Session Replay capabilities in your Flutter app with the CSQ SDK
+- [Error Analysis](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/error-analysis/index.md): How to use CSQ Error Analysis in your Flutter apps
+- [Experimental annotation](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/experimental/index.md): What is experimental in the CSQ Flutter SDK
+- [Contentsquare CLI](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/contentsquare-cli/index.md): How to use the Contentsquare CLI plugin
+- [AutoRoute support](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/auto_route_support/index.md): How to use the CSQNavigatorAutoRouteObserver with AutoRoute package
+- [Set up Product Analytics data capture](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/set-up-product-analytics-data-capture/index.md): Access to acquisition analysis and lifetime metrics by implementing the Product Analytics data capture using the CSQ SDK
+- [AI skills for Flutter](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/using-agent-skills/index.md): Use AI coding assistants to integrate, upgrade, and configure the Contentsquare Flutter SDK with downloadable AI skills
+- [Upgrade your SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/upgrade-your-sdk/index.md): Understand the benefits of upgrading to the CSQ SDK
+- [From Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/upgrade-from-cs-sdk/index.md): Migrate to the CSQ SDK
+- [From Heap Core SDK + Contentsquare SDK to CSQ SDK](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/upgrade-from-heap-and-cs-sdk/index.md): Learn how to migrate from the Heap Core and Contentsquare SDKs to the CSQ SDK
+- [SDK API reference](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/command-reference/index.md): SDK commands reference including signature, parameter descriptions, and examples
+- [Changelog](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/changelog/index.md): The CSQ Flutter SDK changelog
+- [Data collection](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/data-collection/index.md): Understand how the Flutter SDK loads, tracks, and send data
+- [Compatibility](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/compatibility/index.md): Requirements and limitations to develop with the Flutter SDK
+- [Impact on performance](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/impact-on-performance/index.md): Metrics to evaluate the performance impact of Contentsquare Flutter SDK on your apps
+- [Privacy](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/privacy/index.md): Configure privacy settings and user consent management in your Flutter app with the CSQ SDK to ensure regulatory compliance
+- [Security](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/security/index.md): Data transfer and security information
+- [Troubleshooting](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/csq-sdk-flutter/experience-analytics/third-party-libraries-license/index.md): Contentsquare Flutter SDK includes several third-party libraries, which are licensed under their own respective licenses
+
+## Android (classic)
+
+- [Getting Started](https://docs.contentsquare.com/en/android/index.md): Integrate the Contentsquare SDK into your Android app in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/android/in-app-features/index.md): Implement in-app features with the Contentsquare Android SDK
+- [Privacy](https://docs.contentsquare.com/en/android/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track screens](https://docs.contentsquare.com/en/android/track-screens/index.md): Track screens with the Contentsquare Android SDK
+- [Track custom variables](https://docs.contentsquare.com/en/android/track-custom-variables/index.md): Track custom variables with the Contentsquare Android SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/android/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare Android SDK
+- [Track transactions](https://docs.contentsquare.com/en/android/track-transactions/index.md): Track transactions with the Contentsquare Android SDK
+- [Track WebViews](https://docs.contentsquare.com/en/android/track-webviews/index.md): Track webviews with the Contentsquare Android SDK
+- [Session Replay](https://docs.contentsquare.com/en/android/session-replay/index.md): How to implement Session Replay with the Contentsquare Android SDK
+- [Error Analysis](https://docs.contentsquare.com/en/android/error-analysis/index.md): How to use Contentsquare Error Analysis in your Android apps
+- [Surveys](https://docs.contentsquare.com/en/android/surveys/index.md): How to implement Surveys in your Android app
+- [Use Adobe Analytics](https://docs.contentsquare.com/en/android/use-adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare
+- [Use Google Tag Manager](https://docs.contentsquare.com/en/android/use-google-tag-manager/index.md): Leverage our native integration to send Google Tag Manager events to Contentsquare
+- [Disabling Automatic SDK Initialization](https://docs.contentsquare.com/en/android/disable-autostart/index.md): How to disable autostart in the Contentsquare SDK for Android
+- [How the SDK works](https://docs.contentsquare.com/en/android/how-the-sdk-works/index.md): Understand how the Android SDK loads, tracks, and send data
+- [Collected data points](https://docs.contentsquare.com/en/android/collected-data-points/index.md): Events and metadata collected by the Android SDK
+- [Security](https://docs.contentsquare.com/en/android/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/android/compatibility/index.md): Requirements and limitations to develop with the Contentsquare Android SDK
+- [Impact on performance](https://docs.contentsquare.com/en/android/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDK on your apps
+- [Troubleshooting](https://docs.contentsquare.com/en/android/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/android/third-party-libraries-license/index.md): Contentsquare includes several third-party libraries, which are licensed under their own respective licenses
+- [Changelog](https://docs.contentsquare.com/en/android/changelog/index.md): The Contentsquare Android SDK changelog
+- [CSQ SDK versions mapping](https://docs.contentsquare.com/en/android/csq-sdk/index.md): Experience Analytics, Experience Monitoring and Product Analytics capabilities into a single SDK
+
+## iOS (classic)
+
+- [Getting Started](https://docs.contentsquare.com/en/ios/index.md): Integrate the Contentsquare SDK into your iOS app in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/ios/in-app-features/index.md): Implement in-app features with the Contentsquare iOS SDK
+- [Privacy](https://docs.contentsquare.com/en/ios/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track screens](https://docs.contentsquare.com/en/ios/track-screens/index.md): Track screens with the Contentsquare iOS SDK
+- [Track custom variables](https://docs.contentsquare.com/en/ios/track-custom-variables/index.md): Track custom variables with the Contentsquare iOS SDK
+- [Track transactions](https://docs.contentsquare.com/en/ios/track-transactions/index.md): Track transactions with the Contentsquare iOS SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/ios/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare iOS SDK
+- [Track Webviews](https://docs.contentsquare.com/en/ios/track-webviews/index.md): Track webviews with the Contentsquare iOS SDK
+- [Session Replay](https://docs.contentsquare.com/en/ios/session-replay/index.md): How to implement Session Replay with the Contentsquare iOS SDK
+- [Error Analysis](https://docs.contentsquare.com/en/ios/error-analysis/index.md): How to use Contentsquare Error Analysis in your iOS apps
+- [Surveys](https://docs.contentsquare.com/en/ios/surveys/index.md): How to implement Surveys in your iOS app
+- [Use Adobe Analytics](https://docs.contentsquare.com/en/ios/use-adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare, with the Contentsquare iOS SDK
+- [Use Google Tag Manager](https://docs.contentsquare.com/en/ios/use-google-tag-manager/index.md): Leverage our native integration to send Google Tag Manager events to Contentsquare, with the Contentsquare iOS SDK
+- [Disabling Automatic SDK Initialization](https://docs.contentsquare.com/en/ios/disable-autostart/index.md): Learn how to disable the autostart feature and programmatically start the SDK when needed
+- [How the SDK works](https://docs.contentsquare.com/en/ios/how-the-sdk-works/index.md): Understand how the iOS SDK is initialized, configured, tracks, and sends data
+- [Collected data points](https://docs.contentsquare.com/en/ios/collected-data-points/index.md): Events and metadata collected by the iOS SDK
+- [Security](https://docs.contentsquare.com/en/ios/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/ios/compatibility/index.md): Requirements and limitations to develop with the Contentsquare iOS SDK
+- [Impact on performance](https://docs.contentsquare.com/en/ios/impact-on-performance/index.md): Metrics to evaluate the performance impact of Contentsquare iOS SDK on your apps
+- [Troubleshooting](https://docs.contentsquare.com/en/ios/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Third-party libraries license](https://docs.contentsquare.com/en/ios/third-party-libraries-license/index.md): Contentsquare iOS SDK includes several third-party libraries, which are licensed under their own respective licenses
+- [Changelog](https://docs.contentsquare.com/en/ios/changelog/index.md): The Contentsquare iOS SDK changelog
+- [CSQ SDK versions mapping](https://docs.contentsquare.com/en/ios/csq-sdk/index.md): Experience Analytics, Experience Monitoring and Product Analytics capabilities into a single SDK
+
+## Flutter (classic)
+
+- [Getting Started](https://docs.contentsquare.com/en/flutter/index.md): Load and validate the Contentsquare Flutter SDK installation in your app
+- [In-app features](https://docs.contentsquare.com/en/flutter/in-app-features/index.md): Implement in-app features with the Contentsquare Flutter SDK
+- [Privacy](https://docs.contentsquare.com/en/flutter/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track screens](https://docs.contentsquare.com/en/flutter/track-screens/index.md): Track screens with the Contentsquare Flutter SDK
+- [Reliable Targets](https://docs.contentsquare.com/en/flutter/reliable-targets/index.md): Reliable targets enables the analysis of data across various Screenshots from different dates and versions, including layouts or A/B testing variations
+- [Track custom variables](https://docs.contentsquare.com/en/flutter/track-custom-variables/index.md): Track custom variables with the Contentsquare Flutter SDK
+- [Track transactions](https://docs.contentsquare.com/en/flutter/track-transactions/index.md): Track transactions with the Contentsquare Flutter SDK
+- [Track dynamic variables](https://docs.contentsquare.com/en/flutter/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare Flutter SDK
+- [Track WebViews](https://docs.contentsquare.com/en/flutter/track-webviews/index.md): Track webviews with the Contentsquare Flutter SDK
+- [Session Replay](https://docs.contentsquare.com/en/flutter/session-replay/index.md): How to implement Session Replay with the Contentsquare Flutter SDK
+- [Error Analysis](https://docs.contentsquare.com/en/flutter/error-analysis/index.md): How to use Contentsquare Error Analysis in your Flutter apps
+- [Adobe Analytics](https://docs.contentsquare.com/en/flutter/adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare
+- [How the SDK works](https://docs.contentsquare.com/en/flutter/how-the-sdk-works/index.md): Understand how the Flutter SDK loads, tracks, and send data
+- [Contentsquare CLI](https://docs.contentsquare.com/en/flutter/contentsquare-cli/index.md): How to use the Contentsquare CLI plugin
+- [Security](https://docs.contentsquare.com/en/flutter/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/flutter/compatibility/index.md): Requirements and limitations to develop with the Flutter SDK
+- [Troubleshooting](https://docs.contentsquare.com/en/flutter/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Changelog](https://docs.contentsquare.com/en/flutter/changelog/index.md): The Contentsquare Flutter SDK changelog
+- [Experimental annotation](https://docs.contentsquare.com/en/flutter/experimental/index.md): What is experimental in the Contentsquare Flutter SDK
+
+## React Native (classic)
+
+- [Getting Started](https://docs.contentsquare.com/en/react-native/index.md): Integrate the Contentsquare React Native bridge into your apps in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/react-native/in-app-features/index.md): Implement in-app features with the Contentsquare React Native bridge
+- [Privacy](https://docs.contentsquare.com/en/react-native/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track screens](https://docs.contentsquare.com/en/react-native/track-screens/index.md): Track screens with the Contentsquare bridge for React Native
+- [Reliable Targets (iOS only)](https://docs.contentsquare.com/en/react-native/reliable-targets/index.md): Reliable targets enables the analysis of data across various Screenshots from different dates and versions, including layouts or A/B testing variations
+- [Track custom variables](https://docs.contentsquare.com/en/react-native/track-custom-variables/index.md): Track custom variables with the Contentsquare bridge for React Native
+- [Track dynamic variables](https://docs.contentsquare.com/en/react-native/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare bridge for React Native
+- [Track transactions](https://docs.contentsquare.com/en/react-native/track-transactions/index.md): Track transactions with the Contentsquare bridge for React Native
+- [Track WebViews](https://docs.contentsquare.com/en/react-native/track-webviews/index.md): Track webviews with the Contentsquare bridge for React Native
+- [Session Replay](https://docs.contentsquare.com/en/react-native/session-replay/index.md): How to implement Session Replay with the Contentsquare React Native bridge
+- [Error Analysis](https://docs.contentsquare.com/en/react-native/error-analysis/index.md): How to use Contentsquare Error Analysis in your React Native apps
+- [Use Adobe Analytics](https://docs.contentsquare.com/en/react-native/use-adobe-analytics/index.md): Leverage our native integration to use Adobe Analytics segments in Contentsquare
+- [Use Google Tag Manager](https://docs.contentsquare.com/en/react-native/use-google-tag-manager/index.md): Leverage our native integration to send Google Tag Manager events to Contentsquare
+- [How the SDK works](https://docs.contentsquare.com/en/react-native/how-the-sdk-works/index.md): Understand how the React Native bridge loads, tracks, and send data
+- [Collected data points](https://docs.contentsquare.com/en/react-native/collected-data-points/index.md): Events and metadata collected by the Contentsquare SDKs
+- [Security](https://docs.contentsquare.com/en/react-native/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/react-native/compatibility/index.md): Requirements and limitations to develop with the Contentsquare React Native Bridge
+- [Impact on performance](https://docs.contentsquare.com/en/react-native/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDK on your apps
+- [Troubleshooting](https://docs.contentsquare.com/en/react-native/troubleshooting/index.md): Need help? We share probable causes and recommended fixes
+- [Changelog](https://docs.contentsquare.com/en/react-native/changelog/index.md): The Contentsquare React Native Bridge changelog
+
+## Capacitor
+
+- [Getting Started](https://docs.contentsquare.com/en/capacitor/index.md): Integrate Contentsquare SDKs into your Capacitor apps in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/capacitor/in-app-features/index.md): Implement in-app features with the Contentsquare SDKs
+- [Track screens](https://docs.contentsquare.com/en/capacitor/track-screens/index.md): Track screens with the Contentsquare SDKs and Capacitor
+- [Track transactions](https://docs.contentsquare.com/en/capacitor/track-transactions/index.md): Track transactions with the Contentsquare SDKs and Capacitor
+- [Privacy](https://docs.contentsquare.com/en/capacitor/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [Track dynamic variables](https://docs.contentsquare.com/en/capacitor/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare SDKs and Capacitor
+- [How the SDK works](https://docs.contentsquare.com/en/capacitor/how-the-sdk-works/index.md): Understand how the Contentsquare SDKs load, track, and send data
+- [Collected data points](https://docs.contentsquare.com/en/capacitor/collected-data-points/index.md): Events and metadata collected by the Contentsquare SDKs
+- [Session Replay](https://docs.contentsquare.com/en/capacitor/session-replay/index.md): Session Replay implementation and Personal Data masking
+- [Error analysis](https://docs.contentsquare.com/en/capacitor/error-analysis/index.md): How to use Contentsquare Error Analysis in your Capacitor apps
+- [Security](https://docs.contentsquare.com/en/capacitor/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/capacitor/compatibility/index.md): Requirements and limitations to develop with the Contentsquare SDKs
+- [Impact on performance](https://docs.contentsquare.com/en/capacitor/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDKs on your apps
+- [Changelog](https://docs.contentsquare.com/en/capacitor/changelog/index.md): The Contentsquare Capacitor plugin changelog
+
+## Cordova
+
+- [Getting Started](https://docs.contentsquare.com/en/cordova/index.md): Integrate Contentsquare SDKs into your Cordova apps in minutes (installation, user consent, screen tracking, and testing)
+- [In-app features](https://docs.contentsquare.com/en/cordova/in-app-features/index.md): Implement in-app features with the Contentsquare SDKs
+- [Track screens](https://docs.contentsquare.com/en/cordova/track-screens/index.md): Track screens with the Contentsquare Cordova plugin
+- [Track transactions](https://docs.contentsquare.com/en/cordova/track-transactions/index.md): Track transactions with the Contentsquare Cordova plugin
+- [Track Dynamic Variables](https://docs.contentsquare.com/en/cordova/track-dynamic-variables/index.md): Track dynamic variables with the Contentsquare Cordova plugin
+- [Privacy](https://docs.contentsquare.com/en/cordova/privacy/index.md): Learn how Contentsquare deals with Personal Data and related APIs
+- [How the SDK works](https://docs.contentsquare.com/en/cordova/how-the-sdk-works/index.md): Understand how the Contentsquare SDKs load, track, and send data
+- [Collected Data Points](https://docs.contentsquare.com/en/cordova/collected-data-points/index.md): Events and metadata collected by the Contentsquare SDKs
+- [Security](https://docs.contentsquare.com/en/cordova/security/index.md): Data transfer and security information
+- [Compatibility](https://docs.contentsquare.com/en/cordova/compatibility/index.md): Requirements and limitations to develop with the Contentsquare SDKs
+- [Impact on performance](https://docs.contentsquare.com/en/cordova/impact-on-performance/index.md): Metrics to evaluate the impact on performance of the SDKs on your apps
+- [Changelog](https://docs.contentsquare.com/en/cordova/changelog/index.md): The Contentsquare Cordova plugin changelog
+
+## Data Connect
+
+- [What is Data Connect?](https://docs.contentsquare.com/en/connect/index.md): Connect Contentsquare data with your warehouse or data lake for deeper business reporting, in-depth analysis, and customer modeling
+- [Data Model](https://docs.contentsquare.com/en/connect/data-model/index.md): Learn how accounts, users, sessions, pageviews, and events connect in the Contentsquare data hierarchy, plus property types and user identification.
+- [Data Syncing](https://docs.contentsquare.com/en/connect/data-syncing/index.md): Data Connect uses an ETL (Extract, Transform, Load) process to move data from Contentsquare to your data warehouse, and syncs data once per day.
+- [Data Schema](https://docs.contentsquare.com/en/connect/data-schema/index.md): Understanding the data schema and structure of Data Connect tables in your data warehouse
+- [Data Warehouses](https://docs.contentsquare.com/en/connect/data-warehouses-overview/index.md): Overview of supported data warehouse platforms for Data Connect
+- [Amazon S3](https://docs.contentsquare.com/en/connect/amazon-s3/index.md): Instructions for setting up and using Connect with Amazon S3
+- [BigQuery](https://docs.contentsquare.com/en/connect/bigquery/index.md): Instructions for setting up and using Data Connect with Google BigQuery
+- [Databricks](https://docs.contentsquare.com/en/connect/databricks/index.md): Instructions for setting up and using Data Connect with Databricks
+- [Redshift](https://docs.contentsquare.com/en/connect/redshift/index.md): Instructions for setting up and using Data Connect with Amazon Redshift
+- [Snowflake](https://docs.contentsquare.com/en/connect/snowflake/index.md): Instructions for setting up and using Data Connect with Snowflake
+- [Common Queries](https://docs.contentsquare.com/en/connect/common-queries/index.md): Common queries for analyzing Contentsquare data in your BI tool or directly on your cluster
+- [Troubleshooting](https://docs.contentsquare.com/en/connect/troubleshooting/index.md): Troubleshooting Data Connect
+
+## APIs
+
+- [Enrichment API](https://docs.contentsquare.com/en/api/enrichment/index.md): Getting started with the Enrichment API
+- [Authentication](https://docs.contentsquare.com/en/api/enrichment/authentication/index.md): How to authenticate to use the Enrichment API
+- [Definitions](https://docs.contentsquare.com/en/api/enrichment/definitions/index.md): Enrichment API resources definition
+- [Creating integrations](https://docs.contentsquare.com/en/api/enrichment/creating-integrations/index.md): Creating integrations with the Enrichment API
+- [Installing integrations](https://docs.contentsquare.com/en/api/enrichment/installing-integrations/index.md): Using the Enrichment API to install integrations
+- [Retrieving Contentsquare session identifiers from the customer's website](https://docs.contentsquare.com/en/api/enrichment/retrieving-cs-session-ids-from-customers-website/index.md): How to retrieve User Identifiers with the Enrichment API
+- [Sending enrichment data batches to Contentsquare](https://docs.contentsquare.com/en/api/enrichment/sending-enrichment-data-batches-cs/index.md): How to send enriched data with the Enrichment API
+- [Update an integration schema](https://docs.contentsquare.com/en/api/enrichment/update-an-integration-schema/index.md): Update an integration schema with the Enrichment API
+- [Update an enrichment](https://docs.contentsquare.com/en/api/enrichment/update-an-enrichment/index.md): Updating an enrichment using the API
+- [Getting Started](https://docs.contentsquare.com/en/api/export/index.md): Getting Started with the Data Export API
+- [Authentication](https://docs.contentsquare.com/en/api/export/authentication/index.md): How to authenticate to use the Export API
+- [Limits](https://docs.contentsquare.com/en/api/export/limits/index.md): Data Export API requests limits
+- [Enumerations](https://docs.contentsquare.com/en/api/export/enumerations/index.md): Data Export objects enumerations reference
+- [Endpoints reference](https://docs.contentsquare.com/en/api/export/endpoints-reference/index.md): Data Export API endpoints reference
+- [Fields reference (session)](https://docs.contentsquare.com/en/api/export/fields-reference-session/index.md): Data Export session fields reference
+- [Fields reference (pageview)](https://docs.contentsquare.com/en/api/export/fields-reference-pageview/index.md): Data Export pageview fields reference
+- [Getting Started](https://docs.contentsquare.com/en/api/metrics/index.md): Getting Started with the Metrics API
+- [Authentication](https://docs.contentsquare.com/en/api/metrics/authentication/index.md): How to authenticate to use the Metrics API
+- [Limits](https://docs.contentsquare.com/en/api/metrics/limits/index.md): Metrics API requests limits
+- [Date Ranges](https://docs.contentsquare.com/en/api/metrics/date-ranges/index.md): How to manage Metrics endpoints date ranges
+- [Object endpoints](https://docs.contentsquare.com/en/api/metrics/objects-endpoints/index.md): Metrics API objects reference
+- [Site metrics endpoints](https://docs.contentsquare.com/en/api/metrics/site-metrics-endpoints/index.md): Site metrics endpoints reference
+- [Page Group Metrics endpoints](https://docs.contentsquare.com/en/api/metrics/page-group-metrics-endpoints/index.md): Page Group Metrics endpoints reference
+- [Zone metrics for Web endpoints](https://docs.contentsquare.com/en/api/metrics/zone-metrics-endpoints-web/index.md): Zone Metrics for Web endpoints reference
+- [Zone metrics for Apps endpoints](https://docs.contentsquare.com/en/api/metrics/zone-metrics-endpoints-apps/index.md): Zone Metrics for Apps endpoints reference
+- [Getting Started](https://docs.contentsquare.com/en/api/speed-analysis-lab/index.md): Getting Started with the Speed Analysis Lab API
+- [Authentication](https://docs.contentsquare.com/en/api/speed-analysis-lab/authentication/index.md): How to authenticate to use the Speed Lab API
+- [Analysis endpoints](https://docs.contentsquare.com/en/api/speed-analysis-lab/analysis-endpoints/index.md): Speed Analysis Lab Analysis endpoints reference
+- [Monitoring endpoints](https://docs.contentsquare.com/en/api/speed-analysis-lab/monitoring-endpoints/index.md): Speed Analysis Lab Monitoring endpoints reference
+- [Scenario endpoints](https://docs.contentsquare.com/en/api/speed-analysis-lab/scenario-endpoints/index.md): Speed Analysis Lab Scenario endpoints reference
+- [Event endpoints](https://docs.contentsquare.com/en/api/speed-analysis-lab/event-endpoints/index.md): Speed Analysis Lab Event endpoints reference

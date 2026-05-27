@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "useapi.net",
+  "display_name": "Useapi",
+  "category": "ai-platform",
+  "verified_url": "https://useapi.net/llms.txt",
+  "fetched_at": "2026-05-27T05:31:53Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 9818,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 62,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 9,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 3,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 9.6
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "UseAPI.net — third-party API for popular AI services",
+    "h1_count": 1,
+    "blockquote": "UseAPI.net provides API access to leading AI models for video creation, image generation, music composition, speech synthesis, face swapping, and more — all through a single $15/month subscription. Each API connects your existing AI website account(s) to a fully-featured REST API at website subscription prices, significantly cheaper than official API rates. Multi-account configuration with automated load balancing is included. An active subscription to the underlying service (e.g. Midjourney, Runway, Kling) is required.",
+    "section_count": 13,
+    "subsection_count": 0,
+    "link_count": 14,
+    "value_link_count": 14,
+    "low_value_link_count": 0,
+    "raw_bytes": 9818
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

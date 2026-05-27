@@ -1,0 +1,65 @@
+# BotTalk Docs
+
+## BotTalk Docs
+
+- [Documentation](https://docs.bottalk.io/docs/documentation.md): Welcome to BotTalk Documentation!
+- [API](https://docs.bottalk.io/docs/api.md): Just give the link to this page to your AI Agent - it will figure out the rest.
+- [BotTalk Publishers API](https://docs.bottalk.io/docs/api/bottalk-publishers-api.md)
+- [Models](https://docs.bottalk.io/docs/api/models.md)
+- [Updates](https://docs.bottalk.io/docs/updates.md)
+- [Create BotTalk Account](https://docs.bottalk.io/docs/onboarding/create-bottalk-account.md): Create your BotTalk account to manage your projects!
+- [Create an Organization](https://docs.bottalk.io/docs/onboarding/create-an-organization.md): Create a workspace to manage your projects with your team.
+- [Create a Project](https://docs.bottalk.io/docs/onboarding/create-a-project.md): A text-to-speech project is the central piece of BotTalk Audio CMS.
+- [Configure your Project](https://docs.bottalk.io/docs/text-to-speech/configure-your-project.md): A text-to-speech project is the central piece of BotTalk Audio CMS.
+- [Organization Access Settings](https://docs.bottalk.io/docs/text-to-speech/configure-your-project/organization-access-settings.md): Add your project to an Organization
+- [Voice Selection](https://docs.bottalk.io/docs/text-to-speech/configure-your-project/voice-selection.md): Change the language and voice of your project
+- [Parser Settings](https://docs.bottalk.io/docs/text-to-speech/configure-your-project/parser-settings.md): Parse your articles automatically. Set up specific rules for how BotTalk should parse your articles.
+- [Extractor Rules](https://docs.bottalk.io/docs/text-to-speech/configure-your-project/extractor-rules.md): Add specific rules to control how BotTalk will extract text from your articles.
+- [Integrate Web Player](https://docs.bottalk.io/docs/text-to-speech/integrate-web-player.md)
+- [Create a Web Player](https://docs.bottalk.io/docs/text-to-speech/integrate-web-player/create-a-web-player.md)
+- [Configure your Web Player](https://docs.bottalk.io/docs/text-to-speech/integrate-web-player/configure-your-web-player.md): Configure a player's look and feel
+- [Integrate Web Player into your website](https://docs.bottalk.io/docs/text-to-speech/integrate-web-player/integrate-web-player-into-your-website.md)
+- [Automation Rules](https://docs.bottalk.io/docs/text-to-speech/automation-rules.md): Define unique rules to select, which content should be audified
+- [Audio Chunks Strategy](https://docs.bottalk.io/docs/text-to-speech/automation-rules/audio-chunks-strategy.md)
+- [Multiple Voice Selection](https://docs.bottalk.io/docs/text-to-speech/automation-rules/multiple-voice-selection.md): A feature that lets you select multiple voices and have each article read in a randomly chosen voice from that set.
+- [Create Custom Rule](https://docs.bottalk.io/docs/text-to-speech/automation-rules/create-custom-rule.md): Individualize your content selection
+- [Analytics](https://docs.bottalk.io/docs/text-to-speech/analytics.md): See how listeners are engaging with your audio content.
+- [Reporting](https://docs.bottalk.io/docs/text-to-speech/reporting.md): Stay up to date about your performance
+- [Elevenlabs Guides](https://docs.bottalk.io/docs/elevenlabs-guides.md): This guide will help you get started with using ElevenLabs voices in BotTalk — from setup to advanced features like multi-voice support and volume control.
+- [Multiple Voices in BotTalk Articles](https://docs.bottalk.io/docs/elevenlabs-guides/multiple-voices-in-bottalk-articles.md): This guide explains how to integrate and control multiple voices from elevenlabs in your BotTalk articles using SSML voice tags. The functionality is particularly useful for creating more dynamic, int
+- [Dictionaries](https://docs.bottalk.io/docs/features/dictionaries.md): To improve pronunciation of your selected voice
+- [SSML-Tags](https://docs.bottalk.io/docs/features/dictionaries/ssml-tags.md)
+- [Regular Expressions](https://docs.bottalk.io/docs/features/dictionaries/regular-expressions.md)
+- [Contextual Preview](https://docs.bottalk.io/docs/features/dictionaries/contextual-preview.md)
+- [Playlist Player](https://docs.bottalk.io/docs/features/playlist-player.md): Increase the dwell time with our playlist player
+- [Set up a Playlist](https://docs.bottalk.io/docs/features/playlist-player/set-up-a-playlist.md)
+- [Create a Playlist Player](https://docs.bottalk.io/docs/features/playlist-player/create-a-playlist-player.md)
+- [Configure your Playlist Player](https://docs.bottalk.io/docs/features/playlist-player/configure-your-playlist-player.md)
+- [Integrate Playlist Player into your website](https://docs.bottalk.io/docs/features/playlist-player/integrate-playlist-player-into-your-website.md)
+- [Paywall Integration](https://docs.bottalk.io/docs/monetization/paywall-integration.md): Increase your Free-Premium-Conversion
+- [Audio Advertising](https://docs.bottalk.io/docs/monetization/audio-advertising.md): Monetize your audio content by including short pre-rolls in your articles.
+- [Combining Paywall and Ads](https://docs.bottalk.io/docs/monetization/combining-paywall-and-ads.md)
+- [FAQs](https://docs.bottalk.io/docs/help/faqs.md): Frequently asked questions on different topics.
+- [General](https://docs.bottalk.io/docs/help/faqs/general.md)
+- [Billing](https://docs.bottalk.io/docs/help/faqs/billing.md)
+- [Endpoints](https://docs.bottalk.io/docs/help/endpoints.md)
+- [Articles](https://docs.bottalk.io/docs/help/endpoints/articles.md)
+- [Reports](https://docs.bottalk.io/docs/help/endpoints/reports.md): Retrieve statistics on audio articles usage programmatically
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.bottalk.io/docs/documentation.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

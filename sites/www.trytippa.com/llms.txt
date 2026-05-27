@@ -1,0 +1,67 @@
+# Tippa
+
+> Non-custodial cascading payments on the Stellar network. When the root gets paid, the foundation gets funded.
+
+Tippa lets anyone receive payments and automatically split them across configured recipients — atomically, in a single Stellar transaction. No intermediaries, no custody, no trust required.
+
+## What is Tippa?
+
+Tippa is a decentralized payment-splitting platform built on the Stellar blockchain using Soroban smart contracts. Users register a username on-chain and configure a cascade of recipients with percentage-based splits. Anyone can send USDC or XLM to a Tippa user's payment page without needing a Tippa account themselves — only a Stellar wallet (e.g. Freighter, xBull).
+
+Example flow:
+- Bob sends 100 USDC to trytippa.com/d/alice
+- Alice receives 64.50 USDC
+- Recipient A receives 15.00 USDC
+- Recipient B receives 10.00 USDC
+- Recipient C receives 10.00 USDC
+- Tippa fee: 0.50 USDC
+- All-or-nothing. One transaction. Settled in under 5 seconds.
+
+## Key Features
+
+- **Cascade payments**: Automatically split any incoming payment across up to 10 configured recipients
+- **Atomic transactions**: All splits happen in a single Stellar transaction — it either fully succeeds or fully reverts
+- **Non-custodial**: Private keys never leave the user's wallet; Tippa never holds funds
+- **No account required to send**: Senders only need a Stellar wallet — no sign-up, no KYC
+- **Username registration**: On-chain usernames registered via Soroban smart contract
+- **Multiple assets**: Supports USDC and XLM
+
+## How Cascading Works
+
+1. A user registers a username on-chain via a Soroban smart contract
+2. They configure cascade recipients — each with a Stellar wallet address and a percentage share
+3. They share their payment link: `trytippa.com/d/<username>`
+4. When a sender visits the page, connects their wallet, and sends funds, the Soroban contract atomically distributes the payment to all recipients in one transaction
+
+## Tech Stack
+
+- **Framework**: Next.js (App Router), React, TypeScript
+- **Blockchain**: Stellar network, Soroban smart contracts
+- **Auth & Database**: Supabase (email/password authentication, PostgreSQL with Row Level Security)
+- **Wallet integration**: Stellar Wallets Kit (supports Freighter, xBull, and other Stellar wallets)
+- **UI**: Tailwind CSS, shadcn/ui, Radix UI primitives
+
+## Public Routes
+
+- `/` — Landing page
+- `/d/[username]` — Public payment page for any registered Tippa user; anyone can send funds here without an account
+- `/auth/login` — Sign in to Tippa
+- `/auth/sign-up` — Create a Tippa account
+- `/waitlist` — Join the waitlist for limited access
+- `/about` — Tippa mission and values
+- `/contact` — Support and community links
+- `/privacy` — Privacy policy for non-custodial use
+- `/terms` — Terms of service
+
+## Protected Routes (require authentication)
+
+- `/dashboard` — Overview with payment stats and charts
+- `/dashboard/cascades` — Configure cascade recipients and percentage splits
+- `/dashboard/transactions` — Full payment history
+- `/dashboard/profile` — Display name, bio, and social links
+- `/dashboard/settings` — Notification preferences and cascade rules
+
+## Links
+
+- Website: https://trytippa.com
+- Payment page format: https://trytippa.com/d/{username}

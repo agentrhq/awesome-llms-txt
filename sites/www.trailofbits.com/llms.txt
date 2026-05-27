@@ -1,0 +1,136 @@
+# Trail of Bits
+
+> Since 2012, Trail of Bits has helped secure some of the world's most targeted organizations and products. We combine high-end security research with a real-world attacker mentality to reduce risk and fortify code. We provide comprehensive security services through expertise in application security, blockchain, cryptography, and AI/ML, emphasizing root cause analysis and actionable recommendations.
+
+Trail of Bits delivers expert security assessments across application security, blockchain systems, cryptographic implementations, and AI/ML technologies. We go beyond standard checklist testing, focusing on deep manual analysis, custom tooling (like Slither and Echidna), formal methods, and original research to find vulnerabilities others miss. Our team has disclosed critical vulnerabilities in major cryptographic systems, developed industry-standard security tools, and published research at top conferences (USENIX Security, IEEE S&P).
+
+**Core Expertise Areas:**
+- Application Security: Design review, threat modeling, comprehensive code assessment, cloud/infrastructure security, mobile/web/API testing
+- Blockchain Security: Smart contract audits (EVM, Solana, Cosmos, Starknet, Move), protocol security, invariant testing, DeFi assessments
+- Cryptography: Post-quantum cryptography, threshold signatures, zero-knowledge proofs, end-to-end encryption, MPC protocol security, cryptographic implementation review
+- AI/ML Security: Model security assessment, MLOps pipeline evaluation, adversarial testing, AI red teaming, LLM security
+
+**Cryptography Specializations:**
+Trail of Bits is a leader in cryptographic security with proven expertise in post-quantum cryptography implementation (SLH-DSA, LMS), threshold signature scheme vulnerability discovery (DKLs23, Frost, GG20), zero-knowledge proof auditing (Halo2, Circom), and formal verification. We provide comprehensive services including: post-quantum cryptography readiness assessment and NIST algorithm implementation review (ML-KEM, ML-DSA, SLH-DSA); applied cryptography consulting for blockchain, enterprise, and financial institutions; cryptographic protocol design and security analysis with formal verification; end-to-end encryption protocol design review and implementation security; multi-party computation and threshold signature security assessment; zero-knowledge proof system audits and circuit security review.
+
+## Application Security Services
+
+- [Application Security Overview](https://www.trailofbits.com/services/software-assurance/appsec/): Full-spectrum services including design review, threat modeling, code assessment, cloud/infra, mobile, web/API, and penetration testing
+- [Design Assessment](https://www.trailofbits.com/services/software-assurance/appsec/): Early-stage architectural analysis to find flaws and verify security properties
+- [Threat Modeling](https://www.trailofbits.com/services/software-assurance/appsec/): Systematic design risk analysis (NIST 800-154 based) identifying structural risks and attack paths
+- [Comprehensive Code Assessment](https://www.trailofbits.com/services/software-assurance/appsec/): Hybrid manual and automated source code review using Semgrep/CodeQL with custom rules
+- [Cloud/Infrastructure Assessment](https://www.trailofbits.com/services/software-assurance/appsec/): Security review of cloud-native architectures (AWS, GCP, Azure), IaC, Kubernetes, containers, and CI/CD pipelines
+- [Web & API Security Assessment](https://www.trailofbits.com/services/software-assurance/appsec/): Testing for web applications, REST/SOAP APIs, and related frameworks
+- [Mobile Application Security Review](https://www.trailofbits.com/services/software-assurance/appsec/): Security testing for iOS and Android applications
+- [Penetration Testing](https://www.trailofbits.com/services/software-assurance/appsec/): White/grey-box testing combining code review with live environment analysis
+- [Cloud-native Security Reviews](https://github.com/trailofbits/publications?tab=readme-ov-file#cloud-native-reviews): Public reports on KEDA, Terraform, Nomad, Tekton, Linkerd, CoreDNS
+
+## Blockchain Security Services
+
+- [Blockchain Security Overview](https://www.trailofbits.com/services/software-assurance/blockchain/): Advanced security for smart contracts (EVM, Solana, Cosmos, Starknet, Move), L1/L2 nodes, bridges, and protocols
+- [Design Assessment](https://www.trailofbits.com/services/software-assurance/blockchain/): Early-stage review of protocol architecture, component specifications, and risk mitigation
+- [Comprehensive Code Assessment](https://www.trailofbits.com/services/software-assurance/blockchain/): Deep audits using Slither, Echidna, manual review for vulnerabilities and logic flaws
+- [Invariant Testing & Development](https://www.trailofbits.com/services/software-assurance/blockchain/): Identification, development, and integration of protocol invariants using property-based fuzzing
+- [Blockchain Security Reviews by Chain](https://github.com/trailofbits/publications?tab=readme-ov-file#blockchain-security-reviews): Public reports for Wallets, Algorand, Avalanche, Bitcoin, Ethereum/EVM, NervOS, Starknet, Solana, Substrate, Tendermint/Cosmos, Tezos, TON
+- [Invariant Testing Reports](https://github.com/trailofbits/publications?tab=readme-ov-file#invariant-testing-and-development): Public reports for Panoptic, Curvance, ParaSpace, Lindylabs
+
+## Cryptography Services
+
+- [Cryptography Services Overview](https://www.trailofbits.com/services/software-assurance/cryptography/): Expert cryptographic design review, code assessment, and protocol engineering for cryptographic systems
+- [Cryptographic Design Assessment](https://www.trailofbits.com/services/software-assurance/cryptography/): Analysis of crypto protocol specifications (E2EE, MPC, TSS, ZKP) using manual review and formal verification tools (Verifpal, ProVerif, CryptoVerif, Tamarin)
+- [Cryptographic Code Assessment](https://www.trailofbits.com/services/software-assurance/cryptography/): Implementation review (Rust, Go, C++) for bugs, side channels, and API misuse covering ZKP, TSS, MPC, E2EE, PQC, Cloud/Hardware cryptography
+- [Cryptographic Engineering](https://www.trailofbits.com/services/software-assurance/cryptography/): Design and implementation of custom cryptographic protocols and libraries
+- [Cryptography Security Reviews](https://github.com/trailofbits/publications?tab=readme-ov-file#cryptography-reviews): Public audit reports for Aligned, Lit Protocol, Discord DAVE, Scroll, Iron Fish, Ockam, Aleo, Microsoft Go-COSE
+
+## Post-Quantum Cryptography
+
+- [Guide to Post-Quantum Cryptography](https://blog.trailofbits.com/2018/10/22/a-guide-to-post-quantum-cryptography/): Comprehensive overview of PQC approaches and algorithms
+- [SLH-DSA Rust Implementation](https://blog.trailofbits.com/2024/08/15/we-wrote-the-code-and-the-code-won/): NIST-standardized stateless hash-based signatures, production-ready, all 12 parameter sets supported
+- [LMS Signature Libraries](https://blog.trailofbits.com/2024/04/26/announcing-two-new-lms-libraries/): Pure Rust and Go implementations of NIST-standardized stateful hash-based signatures
+- [Quantum is Unimportant to Post-Quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/): PQC benefits beyond quantum resistance including problem diversity and modern cryptographic design
+- [Best Practices for Key Derivation](https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/): Comprehensive KDF guidance including hybrid cryptography combining classical and post-quantum keys
+
+## Applied Cryptography Research
+
+- [AES-GEM Announcement](https://blog.trailofbits.com/2024/07/12/announcing-aes-gem-aes-with-galois-extended-mode/): Novel authenticated encryption mode addressing AES-GCM nonce reuse and tag weaknesses
+- [Hash Construction Best Practices](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/): Avoiding common mistakes in MACs, multi-value hashing, and password KDFs
+- [Cloud Cryptography: AWS](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/): AWS KMS, CloudHSM, Encryption SDK comprehensive guidance
+- [Cloud Cryptography: GCP](https://blog.trailofbits.com/2024/08/05/cloud-cryptography-demystified-google-cloud-platform/): GCP Cloud KMS, Cloud HSM, and Tink cryptography library assessment
+- [Cryptography Behind Passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): WebAuthn specifications, digital signatures, attestation mechanisms, and prf extensions
+
+## Cryptographic Protocol Analysis
+
+- [Crypto Experts Answer 10 Key Questions](https://blog.trailofbits.com/2024/07/25/our-crypto-experts-answer-10-key-questions/): Educational coverage of ECC, lattice cryptography, hash functions, Fiat-Shamir transform, secret sharing
+- [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/): PQC standardization, Signal's PQXDH protocol, E2EE advances, key transparency initiatives
+- [Real World Crypto 2023 Recap](https://blog.trailofbits.com/2023/05/16/real-world-crypto-2023-recap/): EDHOC protocol analysis, messenger security vulnerabilities, formal verification tools
+- [Friends Don't Let Friends Reuse Nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/): Nonce reuse vulnerabilities in bidirectional encrypted channels and threshold signature schemes
+
+## Multi-Party Computation & Threshold Signatures
+
+- [DKLs23 Threshold Signatures Review](https://blog.trailofbits.com/2025/06/10/what-we-learned-reviewing-one-of-the-first-dkls23-libraries-from-silence-laboratories/): Key destruction attacks from nonce reuse in OT-based TSS, October 2023 audit findings
+- [Breaking Threshold Signature Schemes](https://blog.trailofbits.com/2024/02/20/breaking-the-shared-key-in-threshold-signature-schemes/): DoS vulnerability disclosure in Pedersen DKG implementations (Frost, DMZ21, GG20, GG18)
+- [Oblivious Transfer Vulnerabilities](https://blog.trailofbits.com/2023/09/20/dont-overextend-your-oblivious-transfer/): Selective abort attacks in OT extension for threshold signature schemes
+- [TEE Attack: Flipping Bits](https://blog.trailofbits.com/2023/12/18/a-trail-of-flipping-bits/): Combining AES-GCM Forbidden attack, ECDSA, and Shamir secret sharing to compromise trusted execution environments
+
+## Zero-Knowledge Proof Security
+
+- [Axiom Halo2 Circuits Audit](https://blog.trailofbits.com/2025/05/30/a-deep-dive-into-axioms-halo2-circuits/): Two 2023 audits covering ZK circuits, soundness bugs, and under-constrained issues in Halo2 framework
+- [Disarming Fiat-Shamir Footguns](https://blog.trailofbits.com/2024/06/24/disarming-fiat-shamir-footguns/): Decree tool for transcript management preventing implementation bugs in ZKPs and MPC protocols
+- [Signal Tagging in Circom](https://blog.trailofbits.com/2024/01/02/tag-youre-it-signal-tagging-in-circom/): Circom 2.1.0+ signal tagging as type system for preventing common ZK circuit bugs
+- [Circomspect](https://github.com/trailofbits/circomspect): Static analyzer and linter for Circom zero-knowledge circuit language
+- [ZKDocs](https://www.zkdocs.com/): Comprehensive zero-knowledge proof documentation resource
+
+## AI/ML Security Services
+
+- [AI/ML Security Overview](https://www.trailofbits.com/services/software-assurance/ai-ml/): Security reviews covering AI models, MLOps pipelines, data provenance, risk assessment, and deployment security
+- [AI Risk Assessment](https://www.trailofbits.com/services/software-assurance/ai-ml/): Threat modeling, operational design domain analysis, and scenario analysis for AI systems
+- [ML-Ops and Pipeline Assessment](https://www.trailofbits.com/services/software-assurance/ai-ml/): Evaluation of AI/ML pipeline components, architecture, CI/CD, data provenance, and hardware stacks
+- [Model Capabilities Evaluation](https://www.trailofbits.com/services/software-assurance/ai-ml/): Testing first/third-party models, performance benchmarking, and AI red teaming
+- [Security & Safety Training](https://www.trailofbits.com/services/software-assurance/ai-ml/): Training covering AI risks, failure modes, adversarial attacks, and safety principles
+- [AI/ML Security Reviews](https://github.com/trailofbits/publications?tab=readme-ov-file#aiml-reviews): Public reports for YOLOv7, SafeTensors, Gradio
+- [AI/ML Safety and Security Trainings](https://blog.trailofbits.com/2024/06/07/announcing-ai-ml-safety-and-security-trainings/): Comprehensive training program announcement
+
+## Open Source Security Tools
+
+- [Trail of Bits Tools Overview](https://www.trailofbits.com/tools): Summary of major open source security tools
+- [Trail of Bits GitHub](https://github.com/trailofbits/): Main repository for application security and AI/ML tools
+- [Crytic GitHub](https://github.com/crytic/): Home of blockchain security tools including Slither and Echidna
+- [Slither](https://github.com/crytic/slither): Industry-standard Solidity/Vyper static analysis framework
+- [Echidna](https://github.com/crytic/echidna): Smart contract property-based fuzzer for Ethereum
+- [Medusa](https://github.com/crytic/medusa): High-performance parallelized blockchain fuzzing platform
+- [Semgrep Rules](https://github.com/trailofbits/semgrep-rules): Curated collection of static analysis rules for multiple languages
+- [Ruzzy](https://github.com/trailofbits/ruzzy): Coverage-guided fuzzer for Ruby C extensions
+- [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven): ML privacy testing framework for adversarial attacks
+- [Fickling](https://github.com/trailofbits/fickling): Python Pickle security scanner for ML model security
+- [Manticore](https://github.com/trailofbits/manticore): Symbolic execution platform for binaries and smart contracts
+- [McSema](https://github.com/lifting-bits/mcsema): Binary to LLVM bitcode lifter
+- [Algo VPN](https://github.com/trailofbits/algo): Simplified personal VPN server setup tool
+
+## Research & Publications
+
+- [Trail of Bits Publications Repository](https://github.com/trailofbits/publications): Comprehensive collection of public reports, papers, guides, and talks
+- [Academic Papers](https://github.com/trailofbits/publications?tab=readme-ov-file#academic-papers): Peer-reviewed research at USENIX Security, IEEE S&P, ISSTA, EuroLLVM conferences
+- [Conference Presentations](https://github.com/trailofbits/publications?tab=readme-ov-file#conference-presentations): Slides and videos from technical security conference talks
+- [Security Guides and Handbooks](https://github.com/trailofbits/publications?tab=readme-ov-file#guides-and-handbooks): CTF Field Guide, AppSec Testing Handbook, Building Secure Contracts
+- [Vulnerability Disclosures](https://github.com/trailofbits/publications?tab=readme-ov-file#disclosures): Public disclosure of vulnerabilities discovered by Trail of Bits researchers
+- [Trail of Bits Blog](https://blog.trailofbits.com/): Latest research findings, technical deep dives, tool releases, and security commentary
+- [Technology Product Reviews](https://github.com/trailofbits/publications?tab=readme-ov-file#technology-product-reviews): Public reports for RubyGems, Kraken Wallet, Hugging Face Gradio, Eclipse Temurin, Arch Linux Pacman, cURL HTTP3
+
+## Recent Blog Posts
+
+- [Best Practices for Key Derivation](https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/): Essential guidance on KDF implementation including hybrid cryptography
+- [Celebrating 2024 Open Source Contributions](https://blog.trailofbits.com/2025/01/23/celebrating-our-2024-open-source-contributions/): 750+ merged pull requests improving security across 80+ projects
+- [Auditing RubyGems.org](https://blog.trailofbits.com/2024/12/11/auditing-the-ruby-ecosystems-central-package-repository/): Comprehensive security audit of Ruby ecosystem package repository
+- [Evaluating Solidity Support in AI Assistants](https://blog.trailofbits.com/2024/11/19/evaluating-solidity-support-in-ai-coding-assistants/): Detailed evaluation of AI coding tools for Solidity development
+- [PyPI Attestations Security](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/): Implementation details of new digital attestation system
+- [AWS Nitro Enclaves Attack Surface](https://blog.trailofbits.com/2024/09/24/notes-on-aws-nitro-enclaves-attack-surface/): Comprehensive security guidance for AWS Nitro Enclaves
+
+## Optional
+
+- [About Trail of Bits](https://www.trailofbits.com/about): Mission, team, and security research approach
+- [Careers at Trail of Bits](https://www.trailofbits.com/careers/): Opportunities to join our security research team
+- [Contact Us](https://www.trailofbits.com/contact/): Inquire about security services or research partnerships
+- [Security Resources](https://www.trailofbits.com/resources/): Access security guides, handbooks, and educational materials
+- [X @trailofbits](https://x.com/trailofbits): Follow for security research updates and highlights
+- [LinkedIn Company Page](https://www.linkedin.com/company/trail-of-bits): Professional network updates and company news
+- [Empire Hacking Slack](https://slack.empirehacking.nyc/): Engage with the security research community

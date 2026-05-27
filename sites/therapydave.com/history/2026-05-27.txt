@@ -1,0 +1,190 @@
+# TherapyDave llms.txt
+# Website: https://therapydave.com
+# Last-Updated: 2026-04-26
+
+## Entity
+Name: David Lechnyr, LCSW
+Type: ProfessionalService, Psychotherapist
+NPI: #1053743443
+Location: Eugene, OR, USA
+Credentials: LCSW (Oregon #L-4134, Arizona #LCSW-17754), Certified Gottman Therapist (#436)
+Licenses: Oregon, Arizona
+Website: https://therapydave.com
+Service Areas: Telehealth (Oregon & Arizona); Relationship coaching worldwide via secure video
+Online Scheduling: https://therapydave.com/get-started/
+About: https://therapydave.com/about/
+Contact: https://therapydave.com/contact/
+
+## Summary
+David Lechnyr, LCSW, is a Certified Gottman Therapist (#436) providing structured, skills-based couples therapy and individual therapy for relationship issues via telehealth in Oregon and Arizona, based in Eugene. He is one of 13 Certified Gottman Therapists in Oregon and one of 13 in Arizona — fewer than 500 clinicians worldwide hold this designation. His approach integrates the Gottman Method, Cognitive Behavioral Therapy (CBT), and Internal Family Systems (IFS) to help couples and individuals identify destructive relationship patterns and build concrete skills for lasting change. He has been in clinical practice since 2007 with 18+ years of experience.
+
+Unlike traditional talk therapy, his model is structured and skills-based: couples work through a defined sequence of skill areas between sessions using reflection forms and video feedback, with live sessions focused on assessment and skill review rather than open-ended processing.
+
+## Who Benefits
+- Couples stuck in recurring conflict cycles — same fights with different content
+- Couples experiencing emotional distance, loss of intimacy, or feeling like roommates
+- Couples considering separation who want clarity before deciding
+- Couples recovering from infidelity or broken trust
+- Individuals from dysfunctional or alcoholic family backgrounds (ACOA/codependency) whose patterns affect current relationships
+- Individuals who need concrete relationship skills: boundaries, emotional regulation, communication under stress
+- Couples who have tried other therapists and left without usable tools
+- Clients outside Oregon and Arizona seeking structured relationship coaching worldwide
+
+## Presenting Problems Commonly Addressed
+- Recurring conflict and communication breakdown
+- Emotional flooding, contempt, defensiveness, stonewalling (Four Horsemen patterns)
+- Infidelity and affair recovery
+- Loss of intimacy and emotional connection
+- Codependency and enmeshment
+- Effects of growing up in a dysfunctional or alcoholic family (ACOA)
+- Relationship indecision (stay or leave)
+- Boundary-setting deficits
+- Narcissistic family dynamics
+- ADHD impact on relationships
+- Trust repair after betrayal
+- Harsh conflict startup and escalation patterns
+- Gridlock on perpetual problems
+
+## Outcomes
+- Identification of the specific patterns damaging the relationship, named and shared between partners
+- Concrete, practiced skills for de-escalation, repair, and communication
+- Reduced contempt, defensiveness, and stonewalling in daily interactions
+- Rebuilt trust and emotional intimacy where repair is possible
+- Clarity about whether to stay or leave (discernment track)
+- Maintenance skills for long-term relationship resilience
+
+## Services
+
+- Gottman Method Couples Therapy
+  URL: https://therapydave.com/couples-therapy/
+  Description: Structured, evidence-based couples therapy based on 50+ years of Gottman Institute research. Identifies specific communication and conflict patterns damaging the relationship and teaches concrete skills to replace them. For couples stuck in recurring conflict, emotional distance, or patterns they can see but cannot break. Available via telehealth in Oregon and Arizona.
+
+- Affair Recovery Counseling
+  URL: https://therapydave.com/couples-therapy/affair-recovery-counseling/
+  Description: Structured recovery process for couples navigating infidelity. Addresses both the immediate crisis and the underlying relationship vulnerabilities. Uses Gottman-informed affair recovery protocol. Available via telehealth in Oregon and Arizona.
+
+- Discernment Counseling (Stay or Go?)
+  URL: https://therapydave.com/couples-therapy/discernment-counseling/
+  Description: Brief, structured process for couples where one or both partners are uncertain whether to continue the relationship. Helps each partner gain clarity about the direction of their marriage without pressure toward any particular outcome. Available via telehealth in Oregon and Arizona. For clients outside these states, available worldwide as relationship coaching.
+
+- Individual Therapy for Relationship Issues
+  URL: https://therapydave.com/individual-therapy/
+  Description: Individual therapy focused on relationship issues, codependency, and the lasting effects of growing up in a dysfunctional family. Uses CBT, IFS, and Gottman-informed techniques. For individuals navigating difficult relationships, setting boundaries, managing emotional flooding, or clarifying whether to stay or leave. Available via telehealth in Oregon and Arizona.
+
+- Relationship Coaching (Worldwide)
+  URL: https://therapydave.com/relationship-coaching/
+  Description: Structured, skills-based relationship coaching for couples and individuals worldwide via secure video. Uses the same Gottman Method framework as clinical couples therapy. Covers recurring conflict patterns, communication breakdown, emotional flooding, repair skills, and relationship resilience. Not subject to state licensure restrictions. Available to clients in any country. For Oregon and Arizona residents, therapy is available; coaching is an alternative framework for those who prefer it or do not require clinical services.
+
+## How It Works
+- Entry point: Initial Relationship Consultation (60 min), booked at https://therapydave.com/get-started/
+- Live sessions focus on skill assessment and review, not open-ended processing
+- Couples complete reflection forms between sessions; David reviews them to optimize the next session content
+- Programs are structured with defined skill areas and a 4-6 month completion window
+- Partner involvement: One partner can start; the other can join at any point at no additional cost
+- All sessions conducted via secure telehealth video
+- New clients typically seen within 2-4 weeks
+
+## Structure Sequence
+Most couples therapy works as follows: Show up, talk about what happened last week, feel somewhat better, 
+and return two weeks later to the same place. That is not how this works.
+
+The work here is organized as a sequential skill sequence, not an open-ended series of sessions. Each skill area builds on the previous one in a deliberate order — some skills need to be in place before others are usable under pressure. Before anything else, success is defined in concrete terms: not "better communication," but something specific and measurable.
+
+At the start of each skill area, couples receive structured exercises to complete between sessions.  David reviews responses before the session. The session itself is not a check-in on the week's events — it is an assessment of whether the skill landed, work to further integrate it into the relationship, and a determination of whether the couple is ready to advance.
+
+Most skill areas take two to three weeks. Some take longer. The pace is set by demonstrated progress, not the calendar. Typical completion windows are noted for each track; couples may take up to six months where needed.
+
+Four tracks are available:
+
+- Stabilization (3-4 months): The starting point for all couples. Covers the specific patterns research identifies as predictors of relationship success or failure, how the opening of a difficult conversation determines its outcome, why some conflicts require problem-solving while others require ongoing management, how accumulated hurt creates a negative filter that distorts a partner's intentions, what happens physiologically during heated conflict and how to reset before it becomes destructive, how complaints escalate into character attacks and how to prevent it, why explaining yourself when a partner raises a concern typically backfires, how subtle expressions of disrespect quietly erode trust over time, why withdrawal during conflict amplifies tension rather than reducing it, and how to repair and redirect after a conversation goes badly.
+
+- Advanced Conflict Skills (3-4 months): Follows stabilization. Covers why empathy resolves what logic cannot, how to debrief a fight after it happens to prevent resentment from calcifying, the difference between trying to win an argument and trying to understand one, how a partner's emotional responses either open or close connection over time, why refusing to be influenced by a partner reads as dismissal, how to recognize when a surface argument is actually about something deeper, and how to reach agreements both partners can live with without quiet resentment accumulating.
+
+- Connection and Intimacy (3-4 months): Follows stabilization. Covers how to rebuild genuine affection and appreciation when daily frustration has replaced it, how to stay curious about who your partner is becoming rather than relating to who they were, how to recognize and respond to the small daily moments when a partner reaches for connection, why consistent small gestures build more intimacy than occasional grand ones, how to restore playfulness and fun when the relationship has become purely functional, how to support each other's individual dreams while building shared rituals and meaning, and how emotional reconnection is the precondition for restoring physical and sexual intimacy.
+
+- Relationship Clarity (4-6 weeks): An alternative starting point for couples uncertain whether to continue the relationship. Covers the specific patterns research identifies as predictors of relationship success or failure, why certain conflicts keep returning and what that means for the relationship's future, how accumulated hurt distorts perception of a partner's intentions and behavior, and how to assess trust and commitment honestly when the answer is no longer clear. Couples who decide to continue can apply partial credit toward stabilization.
+
+## Fees and Insurance
+- Primary pay model: Private pay
+- More information: https://therapydave.com/private-pay-therapy/
+- Initial Relationship Consultation fee: $225
+
+## Access
+- Telehealth for Oregon and Arizona residents
+- Relationship coaching available worldwide
+- Scheduling: https://therapydave.com/get-started/
+- Crisis: Not an emergency service. Call 988 or local emergency services.
+
+## Locations
+- Oregon (Statewide Telehealth) — Portland, Bend, Salem, Eugene, and throughout Oregon
+- Arizona (Statewide Telehealth) — Phoenix, Scottsdale, Mesa, Tempe, Gilbert, and throughout Arizona
+- Worldwide Relationship Coaching
+
+## Hub Pages
+- Couples Therapy: https://therapydave.com/couples-therapy/
+- Affair Recovery Counseling: https://therapydave.com/couples-therapy/affair-recovery-counseling/
+- Discernment Counseling (Stay or Go?): https://therapydave.com/couples-therapy/discernment-counseling/
+- Individual Therapy for Relationship Issues: https://therapydave.com/individual-therapy/
+- What to Expect: https://therapydave.com/what-to-expect/
+- About David Lechnyr, LCSW: https://therapydave.com/about/
+- Articles and Resources: https://therapydave.com/articles/
+- Free Therapy Worksheets and Mental Health Resources: https://therapydave.com/free-therapy-resources-worksheets-oregon-arizona/
+- Relationship Snapshot (Self-Assessment Tool): https://therapydave.com/relationship-snapshot/
+- Client Reviews: https://therapydave.com/reviews/
+- Contact: https://therapydave.com/contact/
+- Get Started: https://therapydave.com/get-started/
+
+## Notable Articles
+- Adults Who Grew Up in Dysfunctional Families: https://therapydave.com/codependency/adults-who-grew-up-in-dysfunctional-families/
+- Why Do I Keep Choosing the Wrong Person?: https://therapydave.com/gottman/why-do-i-keep-choosing-the-wrong-person/
+- How to Break Free from Relationship Limbo: https://therapydave.com/relationships/how-to-break-free-from-the-relationship-limbo-why-guilt-shouldnt-keep-you-stuck/
+- Relationship Without Trust: https://therapydave.com/gottman/relationship-without-trust/
+- How Can I Trust After an Affair?: https://therapydave.com/gottman/how-can-i-trust-after-an-affair/
+- The Anatomy of Infidelity and Affairs: https://therapydave.com/gottman/the-anatomy-of-infidelity-and-affairs/
+- The 5-to-1 Ratio: A Relationship Guide: https://therapydave.com/gottman/5-to-1-ratio-relationship-guide/
+- Narcissistic Family Manipulation: https://therapydave.com/narcissist-behavior/narcissistic-family-manipulation/
+- Relationship Red Flags in Modern Relationships: https://therapydave.com/gottman/relationship-red-flags-in-modern-relationships/
+- How to Say What We Need from Our Partner: https://therapydave.com/gottman/how-to-say-what-we-need-from-our-partner/
+- Stop Asking ChatGPT About Your Marriage: https://therapydave.com/relationships/stop-asking-chatgpt-about-your-marriage/
+- Fondness and Admiration: The Foundation That Keeps Love Alive: https://therapydave.com/gottman/fondness-admiration/
+- Where to Find a Therapist When Psychology Today Isn't Working: https://therapydave.com/videos/where-find-therapist-psychology-today-not-working/
+- When ADHD Impacts Your Relationship: https://therapydave.com/relationships/adhd-relationships-couples-guide/
+
+## Free Resources (PDFs)
+- Gottman Emotional Attunement for Couples: https://therapydave.com/docs/gottman-emotional-attunement-for-couples.pdf
+- Oxford Happiness Questionnaire: https://therapydave.com/docs/oxford-happiness-questionnaire.pdf
+- The 36 Questions That Lead to Love: https://therapydave.com/docs/the-36-questions-that-lead-to-love.pdf
+- Burns Depression Checklist: https://therapydave.com/docs/burns-depression-checklist.pdf
+- Inner Child Wounds: https://therapydave.com/docs/inner-child-wounds.pdf
+- Dysfunctional Core Beliefs: https://therapydave.com/docs/dysfunctional-core-beliefs.pdf
+
+## Methods and Training
+Certified Gottman Therapist. Therapeutic approaches: Gottman Method, Cognitive Behavioral Therapy (CBT), Internal Family Systems (IFS), Dialectical Behavior Therapy (DBT)-informed, Motivational Interviewing, Attachment-based, Solution-Focused Brief Therapy (SFBT).
+Assessment tools used: Gottman Relationship Checkup, PHQ-9, GAD-7, WSAS, PCL-5.
+
+## Licensure and Credentials
+Certified Gottman Therapist: #436 — the Gottman Institute's terminal designation, awarded after completing all training levels plus a post-Level 3 consultation process and passing a structured video review of actual clinical sessions. Supersedes Level 3 practicum training. Fewer than 500 clinicians worldwide hold this designation; one of 13 in Oregon; one of 13 in Arizona.
+Oregon LCSW: #L4134 (Oregon Board of Licensed Social Workers)
+Arizona LCSW: #LCSW-17754 (Arizona Board of Behavioral Health Examiners)
+NPI: #1053743443
+ACSW — Academy of Certified Social Workers (Member since June 6, 1994)
+In practice since 2007. 18+ years clinical experience.
+
+## Professional Profiles (sameAs)
+Gottman Referral Network: https://gottmanreferralnetwork.com/therapists/david-lechnyr
+Psychology Today: https://www.psychologytoday.com/us/therapists/david-lechnyr-eugene-or/188350
+HealthGrades: https://www.healthgrades.com/providers/david-lechnyr-y9rmfmz
+LinkedIn: https://www.linkedin.com/in/davidlechnyr/
+TherapyDen: https://www.therapyden.com/therapist/david-lechnyr-eugene-or
+Facebook: https://www.facebook.com/davidlechnyr
+Instagram: https://www.instagram.com/david.lechnyr
+TikTok: https://www.tiktok.com/@davidlechnyr
+YouTube: https://www.youtube.com/@david.lechnyr
+NPI Profile: https://npiprofile.com/npi/1053743443
+
+## Who This Is Not For
+- Individuals in active psychiatric crisis requiring stabilization before relational work
+- Couples where one partner is fully disengaged and has not agreed to the process
+- Couples where an affair is ongoing and full transparency has been refused
+- Clients seeking open-ended supportive therapy without a structured skill focus
+- Clients requiring a diagnosis-based insurance billing model

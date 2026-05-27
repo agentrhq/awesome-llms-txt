@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "docs.boltz.exchange",
+  "display_name": "Boltz Documentation",
+  "category": "dev-tools",
+  "verified_url": "https://docs.boltz.exchange/llms.txt",
+  "fetched_at": "2026-05-27T05:31:34Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 1012,
+  "last_modified": "Fri, 24 Apr 2026 15:59:14 GMT",
+  "freshness_age_days": 32,
+  "score": 52,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 17,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 2,
+      "reasons": [
+        "thin_sectioning",
+        "few_value_links",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 7,
+      "reasons": [],
+      "age_days": 32,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Boltz Documentation",
+    "h1_count": 1,
+    "blockquote": "This documentation is written for anyone looking to learn about Boltz, how to integrate Boltz Swaps via the public API or use Boltz with one of the clients",
+    "section_count": 1,
+    "subsection_count": 0,
+    "link_count": 4,
+    "value_link_count": 4,
+    "low_value_link_count": 0,
+    "raw_bytes": 1012
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

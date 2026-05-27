@@ -1,0 +1,41 @@
+# Alphagate Docs
+
+## Alphagate Docs
+
+- [Introduction](https://docs.alphagate.io/introduction.md)
+- [Our Features](https://docs.alphagate.io/overview/our-features.md)
+- [Official Links](https://docs.alphagate.io/overview/official-links.md)
+- [Extension](https://docs.alphagate.io/features/extension.md)
+- [Sidepanel](https://docs.alphagate.io/features/extension/sidepanel.md)
+- [Discover](https://docs.alphagate.io/features/discover.md)
+- [Followings](https://docs.alphagate.io/features/followings.md)
+- [Project](https://docs.alphagate.io/features/project.md)
+- [KeyProfile](https://docs.alphagate.io/features/keyprofile.md)
+- [Trending](https://docs.alphagate.io/features/trending.md)
+- [Feed](https://docs.alphagate.io/features/feed.md)
+- [Watchlist](https://docs.alphagate.io/features/watchlist.md): You are able to add Projects and key profiles to your watchlist, refer to the sections below for more details!
+- [Projects](https://docs.alphagate.io/features/watchlist/projects.md)
+- [Key profiles](https://docs.alphagate.io/features/watchlist/key-profiles.md)
+- [Preferences](https://docs.alphagate.io/features/watchlist/preferences.md)
+- [Telegram Bot](https://docs.alphagate.io/features/telegram-bot.md)
+- [Chat](https://docs.alphagate.io/features/chat.md)
+- [Referrals](https://docs.alphagate.io/other/referrals.md)
+- [Discord Role](https://docs.alphagate.io/other/discord-role.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.alphagate.io/introduction.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

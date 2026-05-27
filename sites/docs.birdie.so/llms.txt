@@ -1,0 +1,188 @@
+# Birdie
+
+## Birdie Documentation
+
+- [What is Birdie?](https://docs.birdie.so/birdie-docs/what-is-birdie.md): Welcome! We're so glad you're here.💙
+- [Getting started](https://docs.birdie.so/birdie-docs/getting-started.md): Get started in just 2 minutes
+- [Invite teammates](https://docs.birdie.so/birdie-docs/invite-teammates.md): Invite teammates: The more, the merrier!
+- [Overview](https://docs.birdie.so/birdie-docs/request-screen-recordings/overview.md): Request Screen Recordings from customers.
+- [Installation](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation.md)
+- [Helpdesk Integrations](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/helpdesk-integrations.md): Which Helpdesk are you using?
+- [Customize Appearance](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/customize-appearance.md): What kind of vibe are you going for?
+- [Custom Domain Setup](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/custom-domain-setup.md): Serve request links and video recordings from your own domain instead of birdie.so. Give customers a fully branded experience they recognize and trust.
+- [Snippet](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/snippet.md): How to install the Birdie snippet
+- [Browser compatibility](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/browser-compatibility.md)
+- [Languages](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/languages.md): Supporting customers around the world?
+- [Web SDK](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/web-sdk.md): Open Birdie recorder from a specific button, link or element in your web app!
+- [Universal Request Link](https://docs.birdie.so/birdie-docs/request-screen-recordings/installation/universal-request-link.md): This guide provides concise instructions for using our screen recording request link with any helpdesk
+- [DevTools: Console Logs & Network Requests](https://docs.birdie.so/birdie-docs/request-screen-recordings/devtools-console-logs-and-network-requests.md): Birdie DevTools for incoming screen recordings
+- [How to Improve Logs Capture with Birdie](https://docs.birdie.so/birdie-docs/request-screen-recordings/devtools-console-logs-and-network-requests/how-to-improve-logs-capture-with-birdie.md)
+- [Transcript, Captions & AI Summary](https://docs.birdie.so/birdie-docs/request-screen-recordings/transcript-captions-and-ai-summary.md): Get an instant overview of your recordings.
+- [Misc.](https://docs.birdie.so/birdie-docs/request-screen-recordings/misc..md)
+- [Forward recordings](https://docs.birdie.so/birdie-docs/request-screen-recordings/misc./forward-recordings.md): Make it work your way
+- [Routing rules for folders](https://docs.birdie.so/birdie-docs/request-screen-recordings/misc./routing-rules-for-folders.md): Set up rules to automatically send recordings to the right folder
+- [API](https://docs.birdie.so/birdie-docs/request-screen-recordings/misc./api.md): Use Birdie API to access our endpoints
+- [How-to's Library](https://docs.birdie.so/birdie-docs/request-screen-recordings/misc./how-tos-library.md): Create once. Use infinite times.
+- [Overview](https://docs.birdie.so/birdie-docs/record-my-screen/overview.md): Record. Share. Resolve.
+- [Recording Options](https://docs.birdie.so/birdie-docs/record-my-screen/recording-options.md): Customize your recording experience to capture exactly what you need
+- [DevTools: Console Logs & Network Requests](https://docs.birdie.so/birdie-docs/record-my-screen/devtools-console-logs-and-network-requests.md): Birdie DevTools for outgoing screen recordings
+- [Keyboard Shortcuts](https://docs.birdie.so/birdie-docs/record-my-screen/keyboard-shortcuts.md): Ctrl + Shift + S
+- [Incognito Mode](https://docs.birdie.so/birdie-docs/record-my-screen/incognito-mode.md): Using Birdie in Incognito Mode
+- [Troubleshooting](https://docs.birdie.so/birdie-docs/record-my-screen/troubleshooting.md)
+- [How to quickly fix common recording errors](https://docs.birdie.so/birdie-docs/record-my-screen/troubleshooting/how-to-quickly-fix-common-recording-errors.md): This is a great place to start your troubleshooting. 🔧
+- [How to troubleshoot Microphone issues in Birdie Extension](https://docs.birdie.so/birdie-docs/record-my-screen/troubleshooting/how-to-troubleshoot-microphone-issues-in-birdie-extension.md): Is your recording missing audio? Try these fixes.
+- [How to troubleshoot Screen Recording issues in Birdie Extension](https://docs.birdie.so/birdie-docs/record-my-screen/troubleshooting/how-to-troubleshoot-screen-recording-issues-in-birdie-extension.md): Is your recording facing screen recording issues? Try these fixes.
+- [Deploy Birdie Extension Across Your Org](https://docs.birdie.so/birdie-docs/record-my-screen/deploy-birdie-extension-across-your-org.md)
+- [Zendesk](https://docs.birdie.so/birdie-docs/helpdesk/zendesk.md): Birdie with Zendesk
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/installation.md): How to install Birdie on Zendesk
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows.md): Birdie x Zendesk
+- [Human-Initiated Requests](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/human-initiated-requests.md): Request screen recordings from customers through both the Zendesk sidebar and editor
+- [Zendesk Macros](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-macros.md): Add Birdie to Zendesk Macros
+- [Zendesk Ticket Form](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-ticket-form.md): How to add Birdie to your Zendesk ticket form
+- [Zendesk Auto-Reply](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-auto-reply.md): Add Birdie to Zendesk Triggers and/or Automations
+- [Zendesk AI Agents](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-ai-agents.md): Add Birdie to your Conversation Bots
+- [Zendesk Agent Signature](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-agent-signature.md): Add Birdie to agent signatures on Zendesk
+- [Zendesk Widget (Classic)](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/flows/zendesk-widget-classic.md): How to add Birdie to your Zendesk widget on your web app
+- [Analytics](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/analytics.md): How to Track Birdie ROI in Zendesk with a Tag
+- [Uninstall](https://docs.birdie.so/birdie-docs/helpdesk/zendesk/uninstall.md): Bye Bye
+- [Intercom](https://docs.birdie.so/birdie-docs/helpdesk/intercom.md): Birdie with Intercom
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/intercom/installation.md): How to install Birdie on Intercom
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/intercom/flows.md): Birdie x Intercom
+- [Human-Initiated Requests](https://docs.birdie.so/birdie-docs/helpdesk/intercom/flows/human-initiated-requests.md): Request screen recordings from customers through both the Intercom sidebar and editor
+- [Intercom Workflows](https://docs.birdie.so/birdie-docs/helpdesk/intercom/flows/intercom-workflows.md): Add Birdie to your Intercom Operator
+- [FIN](https://docs.birdie.so/birdie-docs/helpdesk/intercom/flows/fin.md): Add Birdie to your custom answers in FIN
+- [Intercom Messenger Home](https://docs.birdie.so/birdie-docs/helpdesk/intercom/flows/intercom-messenger-home.md): Birdie with your Intercom Messenger
+- [Analytics](https://docs.birdie.so/birdie-docs/helpdesk/intercom/analytics.md): Measure Birdie ROI
+- [Freshdesk](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk.md): Birdie with Freshdesk
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/installation.md): How to install Birdie on Freshdesk
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows.md): Birdie x Freshdesk
+- [Human Request](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows/human-request.md): Request screen recordings from customers through both the Freshdesk sidebar and editor
+- [Portal](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows/portal.md): How to add Birdie to your Zendesk ticket form
+- [Canned Answers](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows/canned-answers.md): Add Birdie to your Canned Responses
+- [Auto Reply](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows/auto-reply.md): Add Birdie to your Requester Notifications to create auto replies.
+- [Agent Signature](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/flows/agent-signature.md): Add Birdie to agent signatures on Freshdesk
+- [Analytics](https://docs.birdie.so/birdie-docs/helpdesk/freshdesk/analytics.md): Measure Birdie ROI
+- [Freshchat](https://docs.birdie.so/birdie-docs/helpdesk/freshchat.md): Birdie with Freshchat
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/freshchat/installation.md): How to install Birdie on Freshchat
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/freshchat/flows.md): Birdie x Freshchat
+- [Manual Request](https://docs.birdie.so/birdie-docs/helpdesk/freshchat/flows/manual-request.md): Request screen recordings from customers through both the Freshchat sidebar and editor
+- [Jira Service Management](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management.md): Birdie with Jira Service Management
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management/installation.md)
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management/flows.md): Birdie x Jira
+- [Human Request](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management/flows/human-request.md): Request screen recordings from customers through Jira agent view
+- [Customer Portal](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management/flows/customer-portal.md)
+- [Uninstall](https://docs.birdie.so/birdie-docs/helpdesk/jira-service-management/uninstall.md): Bye Bye
+- [Help Scout](https://docs.birdie.so/birdie-docs/helpdesk/help-scout.md): Birdie with Help Scout
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/help-scout/installation.md): How to install Birdie on Helpscout
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/help-scout/flows.md): Birdie x Help Scout
+- [Human Request](https://docs.birdie.so/birdie-docs/helpdesk/help-scout/flows/human-request.md): Request screen recordings from customers through both the Help Scout sidebar and editor
+- [Saved Replies](https://docs.birdie.so/birdie-docs/helpdesk/help-scout/flows/saved-replies.md): Add Birdie to your Saved Replies in HelpScout
+- [Auto Reply](https://docs.birdie.so/birdie-docs/helpdesk/help-scout/flows/auto-reply.md): Add Birdie to your Auto Reply in HelpScout
+- [Salesforce Service Cloud](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud.md): Birdie with Salesforce Service Cloud
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/installation.md): Add Birdie to Salesforce Service Cloud
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/flows.md): Birdie x Salesforce Service Cloud
+- [Agent-Initiated Requests (Cases)](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/flows/agent-initiated-requests-cases.md)
+- [Agent-Initiated Requests (Messaging – In-App & Web)](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/flows/agent-initiated-requests-messaging-in-app-and-web.md)
+- [Ticket Form](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/flows/ticket-form.md): Add Birdie to your Salesforce Ticket Form
+- [Customer Portal](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/flows/customer-portal.md)
+- [Analytics](https://docs.birdie.so/birdie-docs/helpdesk/salesforce-service-cloud/analytics.md): Tracking Recordings & Requests Inside Salesforce
+- [HubSpot](https://docs.birdie.so/birdie-docs/helpdesk/hubspot.md)
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/installation.md): Add Birdie to Hubspot
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/flows.md): Birdie x HubSpot
+- [Human Request via sidebar](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/flows/human-request-via-sidebar.md): Request screen recordings from customers via HubSpot sidebar:
+- [Human Request via snippet](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/flows/human-request-via-snippet.md)
+- [Forms](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/flows/forms.md): How to add Birdie to your HubSpot ticket form
+- [Auto Reply (Marketing email)](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/flows/auto-reply-marketing-email.md)
+- [Analytics](https://docs.birdie.so/birdie-docs/helpdesk/hubspot/analytics.md): How to Track Birdie ROI in HubSpot with a Property
+- [Pylon](https://docs.birdie.so/birdie-docs/helpdesk/pylon.md): Birdie X Pylon
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/pylon/installation.md): Birdie x Pylon
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/pylon/flows.md): Birdie X Pylon
+- [Human-Initiated Requests (via sidebar)](https://docs.birdie.so/birdie-docs/helpdesk/pylon/flows/human-initiated-requests-via-sidebar.md): Request screen recordings from customers in Pylon sidebar
+- [Human-Initiated Requests (via Macro)](https://docs.birdie.so/birdie-docs/helpdesk/pylon/flows/human-initiated-requests-via-macro.md): Request screen recordings from customers in Pylon using Macros
+- [Triggers](https://docs.birdie.so/birdie-docs/helpdesk/pylon/flows/triggers.md): Adding Birdie to Your Pylon Triggers
+- [Plain](https://docs.birdie.so/birdie-docs/helpdesk/plain.md): Birdie X Plain
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/plain/installation.md): Birdie x Plain
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/plain/flows.md)
+- [Human-Initiated Requests (via Snippet)](https://docs.birdie.so/birdie-docs/helpdesk/plain/flows/human-initiated-requests-via-snippet.md): Request screen recordings from customers in Plain using Snippets
+- [Crisp](https://docs.birdie.so/birdie-docs/helpdesk/crisp.md): Birdie x Crisp
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/crisp/flows.md): Birdie x Crisp
+- [Human-Initiated Requests](https://docs.birdie.so/birdie-docs/helpdesk/crisp/flows/human-initiated-requests.md): Request screen recordings from customers through the Crisp sidebar
+- [AI Agent](https://docs.birdie.so/birdie-docs/helpdesk/crisp/flows/ai-agent.md): This will guide you through setting up your Birdie Plugin with Hugo AI Agent
+- [Workflows](https://docs.birdie.so/birdie-docs/helpdesk/crisp/flows/workflows.md): This will guide you through setting up a Request Recording step when building a Workflow
+- [Front](https://docs.birdie.so/birdie-docs/helpdesk/front.md): Birdie x Front
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/front/flows.md): Birdie x Front
+- [Human-Initiated Requests](https://docs.birdie.so/birdie-docs/helpdesk/front/flows/human-initiated-requests.md): Request screen recordings from customers through the Front sidebar
+- [Others](https://docs.birdie.so/birdie-docs/helpdesk/others.md)
+- [Happyfox](https://docs.birdie.so/birdie-docs/helpdesk/others/happyfox.md): Birdie with Happyfox
+- [Installation](https://docs.birdie.so/birdie-docs/helpdesk/others/happyfox/installation.md): How to install Birdie on Happyfox
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/others/happyfox/flows.md): Birdie x Happyfox
+- [Human Request](https://docs.birdie.so/birdie-docs/helpdesk/others/happyfox/flows/human-request.md): Request screen recordings from customers through Happyfox
+- [Support Center Ticket Form](https://docs.birdie.so/birdie-docs/helpdesk/others/happyfox/flows/support-center-ticket-form.md): How to add Birdie to your Happyfox ticket form
+- [Ada](https://docs.birdie.so/birdie-docs/helpdesk/others/ada.md): Add Birdie to your Ada flows
+- [Forethought](https://docs.birdie.so/birdie-docs/helpdesk/others/forethought.md): Add Birdie Recording Links to your Forethought flows
+- [Maven AGI](https://docs.birdie.so/birdie-docs/helpdesk/others/maven-agi.md): Add Birdie Recording Links to your Maven AGI flows
+- [Service Now](https://docs.birdie.so/birdie-docs/helpdesk/others/service-now.md): Birdie X Service Now CSM
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/others/service-now/flows.md): Birdie x Service Now CSM
+- [Zoho Desk](https://docs.birdie.so/birdie-docs/helpdesk/others/zoho-desk.md): Birdie x Zoho Desk
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/others/zoho-desk/flows.md): Birdie x Zoho Desk
+- [Other Helpdesk](https://docs.birdie.so/birdie-docs/helpdesk/others/other-helpdesk.md): Birdie x Other Helpdesk
+- [Flows](https://docs.birdie.so/birdie-docs/helpdesk/others/other-helpdesk/flows.md)
+- [Human Request](https://docs.birdie.so/birdie-docs/helpdesk/others/other-helpdesk/flows/human-request.md): Birdie x Other Helpdesk
+- [Ticket Form](https://docs.birdie.so/birdie-docs/helpdesk/others/other-helpdesk/flows/ticket-form.md)
+- [Linear Integration](https://docs.birdie.so/birdie-docs/linear-integration.md): Birdie’s Linear integration lets your team send screen recordings directly to Linear, so bugs and product issues can be reported with all the right context in a few clicks.
+- [MCP Server](https://docs.birdie.so/birdie-docs/mcp-server.md): Use the Birdie MCP server to give AI agents access to recordings and debugging data, including transcripts, console logs, network requests, user events, and structured metadata.coming soon....
+- [Storage Location](https://docs.birdie.so/birdie-docs/security/storage-location.md): Where does Birdie keep the data?
+- [Storage in your own AWS S3 bucket(s)](https://docs.birdie.so/birdie-docs/security/storage-location/storage-in-your-own-aws-s3-bucket-s.md)
+- [Storage in your own GCP bucket(s)](https://docs.birdie.so/birdie-docs/security/storage-location/storage-in-your-own-gcp-bucket-s.md)
+- [Storage in your Azure Container](https://docs.birdie.so/birdie-docs/security/storage-location/storage-in-your-azure-container.md): This guide explains how to create a dedicated Azure Storage Account for Birdie, configure it for secure video delivery, and share the credentials with Birdie.
+- [Custom Data Retention Policies](https://docs.birdie.so/birdie-docs/security/custom-data-retention-policies.md): Meet your organization’s compliance requirements by automatically deleting recordings on a pre-determined schedule (e.g. 90 days).
+- [One-time Request links](https://docs.birdie.so/birdie-docs/security/one-time-request-links.md)
+- [Recordings Privacy Settings](https://docs.birdie.so/birdie-docs/security/recordings-privacy-settings.md)
+- [Incoming Recordings: Allow Public Access](https://docs.birdie.so/birdie-docs/security/recordings-privacy-settings/incoming-recordings-allow-public-access.md): Allow access to anyone with the link.
+- [Outgoing Recordings: Restrict Access to Workspace Members + Selected Externals](https://docs.birdie.so/birdie-docs/security/recordings-privacy-settings/outgoing-recordings-restrict-access-to-workspace-members-+-selected-externals.md): Restrict access to workspace members and selected externals
+- [Hide sensitive data](https://docs.birdie.so/birdie-docs/security/hide-sensitive-data.md): How to blur sensitive data in your web app automatically
+- [GDPR opt-in](https://docs.birdie.so/birdie-docs/security/gdpr-opt-in.md): Comply with your privacy requirements.
+- [Audit Logs](https://docs.birdie.so/birdie-docs/security/audit-logs.md)
+- [Two-factor authentication](https://docs.birdie.so/birdie-docs/security/two-factor-authentication.md): How to set up two-factor authentication for your Birdie account.
+- [Remote log out](https://docs.birdie.so/birdie-docs/security/remote-log-out.md)
+- [SAML SSO](https://docs.birdie.so/birdie-docs/security/saml-sso.md): Access Birdie using your Identity Provider (Okta, Microsoft Azure, Google workspace, etc...)
+- [Setup SSO with Okta](https://docs.birdie.so/birdie-docs/security/saml-sso/setup-sso-with-okta.md)
+- [SCIM](https://docs.birdie.so/birdie-docs/security/scim.md): Automating user provisioning
+- [Okta settings](https://docs.birdie.so/birdie-docs/security/scim/okta-settings.md): Some specifics for setting up SCIM with Okta described in the following recording.
+
+## Birdie API
+
+- [Overview](https://docs.birdie.so/birdie-docs/birdie-api/overview.md): Welcome to the Birdie API! You can use this API to access our endpoints, such as the Birdie API to get your recordings.
+- [Authentication](https://docs.birdie.so/birdie-docs/birdie-api/authentication.md): The Birdie API uses Personal access tokens, called API Key, to authenticate requests.
+- [Pagination](https://docs.birdie.so/birdie-docs/birdie-api/pagination.md): Some methods return paginated results. The formatting of a paginated result is always:
+- [HTTP Status & Errors](https://docs.birdie.so/birdie-docs/birdie-api/http-status-and-errors.md): All responses from the API will include a standard HTTP successful or error status code.
+- [API Reference](https://docs.birdie.so/birdie-docs/birdie-api/reference/api-reference.md): Here you can find a list of the different endpoints available to use across the Screendesk API. Click into each card to learn more.
+- [Get a Recording](https://docs.birdie.so/birdie-docs/birdie-api/reference/api-reference/get-a-recording.md): This is the method to request a single recording if you have its identifier or its sharing link code.
+- [List Recordings](https://docs.birdie.so/birdie-docs/birdie-api/reference/api-reference/list-recordings.md): This is the method to get a list a recordings, you can query them with some parameters.
+- [Webhook Integration Guide](https://docs.birdie.so/birdie-docs/birdie-api/webhook-integration-guide.md): This guide explains how to securely and reliably receive Birdie screen recording webhooks in your backend.
+
+## Troubleshooting
+
+- [Something not working right?](https://docs.birdie.so/birdie-docs/troubleshooting/something-not-working-right.md): Quick guides to help you fix specific issues when they pop up
+- [Zendesk](https://docs.birdie.so/birdie-docs/troubleshooting/zendesk.md)
+- [How to prevent sending an email notification to the customer after recording](https://docs.birdie.so/birdie-docs/troubleshooting/zendesk/how-to-prevent-sending-an-email-notification-to-the-customer-after-recording.md): How to prevent sending an email notification to the customer when they make a recording
+- [Extension](https://docs.birdie.so/birdie-docs/troubleshooting/extension.md)
+- [Error: This page cannot be scripted due to an ExtensionsSettings policy](https://docs.birdie.so/birdie-docs/troubleshooting/extension/error-this-page-cannot-be-scripted-due-to-an-extensionssettings-policy.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.birdie.so/birdie-docs/what-is-birdie.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

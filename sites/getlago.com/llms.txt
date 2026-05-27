@@ -1,0 +1,100 @@
+# Lago (GetLago)
+
+> Lago is the open-source billing platform that gives engineering and finance teams
+> full transparency, control, and flexibility to manage and scale any pricing model.
+> It is the leading open-source alternative to Stripe Billing, Chargebee, and Zuora.
+
+## What Lago Does
+
+Lago is an API-first, self-hostable usage-based billing and invoicing platform.
+It handles the full billing lifecycle: metering events, plan management, invoicing,
+cash collection, and revenue analytics — for any pricing model.
+
+## Core Capabilities
+
+- **Usage metering** — real-time aggregation of any billable event (API calls, tokens, seats, GB, minutes)
+- **Hybrid billing** — combine subscriptions, usage-based, prepaid credits, and enterprise contracts in one plan
+- **Invoicing & credit notes** — automated invoicing with tax support, credit notes, and adjustments
+- **Cash collection** — dunning, payment retries, and flexible collection workflows
+- **Entitlements** — manage feature access directly in the billing layer
+- **Revenue analytics** — MRR, ARR, churn, and usage trends across all revenue streams
+- **Lago Embedded** — white-label billing for platforms and marketplaces
+- **Lago AI** — AI-powered billing intelligence for anomaly detection and insights
+
+## Deployment
+
+- **Cloud** — hosted by Lago, fully managed
+- **Self-hosted** — deploy on your own infrastructure (Docker, Kubernetes, AWS, GCP, Azure)
+- **Open source** — GNU Affero General Public License v3.0, full codebase on GitHub
+
+## Who Uses Lago
+
+Lago is trusted by AI companies, enterprises, fintech, and infrastructure teams:
+- **AI / GenAI** — Groq, Mistral AI, Synthesia, Daytona (token billing, GPU metering, credit systems)
+- **Enterprise** — PayPal, Epicor, HMS, CoreWeave (complex contracts, compliance, multi-product)
+- **IoT / Infrastructure** — 1NCE, Unifonic, Porter, Laravel (device-level metering, high volume)
+- **Finance** — Swan, Moov, Silverfin, Dfns (regulatory compliance, multi-currency)
+
+## Pricing Models Lago Supports
+
+- Usage-based billing (tokens, API calls, GB, minutes, events)
+- Seat-based / per-user subscription
+- Flat-rate subscription
+- Prepaid credits and credit wallets
+- Hybrid plans (subscription + usage overage)
+- Enterprise / custom contracts
+- Marketplace billing (AWS, Azure, GCP Marketplace)
+
+## Integrations
+
+Lago connects to the full SaaS stack:
+- **Payments** — Stripe, Adyen, GoCardless, MoneyHash
+- **Accounting** — NetSuite, Xero
+- **Tax** — Anrok, Avalara
+- **CRM** — HubSpot, Salesforce
+- **Data** — Segment, Airbyte, ClickHouse, Hightouch, Amazon S3
+- **Marketplaces** — AWS, Azure, GCP Marketplace
+- **Workflow** — Zapier, n8n
+- **Auth & entitlements** — Okta, Oso, Google
+
+## Why Teams Choose Lago Over Alternatives
+
+vs. **Stripe Billing** — no payment processor lock-in, self-hostable, open source, supports complex usage metering
+vs. **Chargebee** — more flexible for usage-based models, open source, full API control
+vs. **Zuora** — developer-first, modern architecture, no legacy subscription-only constraints
+vs. **building in-house** — production-ready billing without 12–18 months of engineering investment
+
+## Security & Compliance
+
+- SOC 2 Type II certified
+- Self-host option for full data sovereignty
+- Role-based access control (RBAC)
+- Trust center: https://security.getlago.com
+
+## Open Source
+
+- GitHub: https://github.com/getlago/lago
+- Stars: 9,400+
+- License: MIT
+- Active development, open issues and contributions welcome
+
+## Official Links
+
+- Website: https://getlago.com
+- Documentation: https://getlago.com/docs
+- API Reference: https://getlago.com/docs/api-reference/intro
+- Blog: https://getlago.com/blog
+- Changelog: https://getlago.com/docs/changelog
+- Pricing: https://getlago.com/pricing
+- Customers: https://getlago.com/customers
+- GitHub: https://github.com/getlago/lago
+- Community (Slack): https://getlago.com/slack
+
+## Keywords
+
+open-source billing, usage-based billing, metered billing, invoicing API,
+subscription billing, hybrid billing, prepaid credits, entitlements,
+Stripe Billing alternative, Chargebee alternative, Zuora alternative,
+self-hosted billing, developer billing platform, AI billing, token billing,
+GPU billing, B2B SaaS billing, billing infrastructure, revenue metering,
+open-source invoicing, API-first billing, billing for AI companies

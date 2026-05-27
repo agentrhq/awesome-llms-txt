@@ -1,0 +1,155 @@
+# X-CMD
+
+> X-CMD is a POSIX shell toolkit: 333+ modules, 500+ portable packages, 1200+ software installation recipes.
+
+## 1. Installation & Setup
+
+### Installation
+
+**Quick install (Linux/macOS/BSD/Windows WSL/GitBash, bash/zsh):**
+- curl: `eval "$(curl https://get.x-cmd.com)"`
+- wget: `eval "$(wget -O- https://get.x-cmd.com)"`
+
+**Non-POSIX shells (Fish, Elvish, Nushell, xonsh, tcsh):**
+- Fish docs: https://x-cmd.com/start/fish.md
+- Elvish docs: https://x-cmd.com/start/elvish.md
+- Nushell docs: https://x-cmd.com/start/nushell.md
+- xonsh docs: https://x-cmd.com/start/xonsh.md
+- tcsh docs: https://x-cmd.com/start/tcsh.md
+
+**System package managers:**
+- Homebrew: `brew install x-cmd`, then run `x-cmd` to activate
+- AUR: `sudo yay -S x-cmd`, then run `x-cmd` to activate
+
+**Windows PowerShell:**
+- PowerShell docs: https://x-cmd.com/start/powershell.md
+
+**Docker containers (minimal environments without curl/wget):**
+- From host: `x docker run -x -it <container>` or `x docker setup <container>`
+
+**Verify installation**: check `~/.x-cmd.root/X` and `~/.x-cmd.root/bin/x-cmd` exist.
+**Update**: `x upgrade` or re-run the install script.
+**Uninstall**: `x uninstall self`
+
+### Loading & Fallback
+
+1.  **Load**: Before using `x` commands, run:
+    ```sh
+    [ -f ~/.x-cmd.root/X ] || eval "$(curl https://get.x-cmd.com)"
+    . ~/.x-cmd.root/X
+    ```
+2.  **Fallback**: If `x` is not available (non-persistent shell session), use standalone command `x-cmd <module> [args]` (located at `~/.x-cmd.root/bin/x-cmd`, no shell function loading required).
+3.  **Final Fallback**: If `x-cmd` is also not found, use absolute path: `~/.x-cmd.root/bin/x-cmd <module> [args]`
+
+## 2. AI Usage Rules
+
+- **Tool Availability**: `x <tool>` (e.g., `x jq`, `x python`) auto-detects whether the tool is installed; if missing, silently installs a portable version. Use when you need to ensure a tool is available.
+- **Enhanced Modules**: Some modules provide enhanced functionality and behave differently from native commands (e.g., `x docker` ≠ `docker`, provides metadata extraction and status monitoring). Run `x <module> --help` before use.
+- **Structured Output**: `x` modules output TSV, JSON, or `key: value` formats in pipe mode. Prefer `--json` flag when available.
+- **No TTY Constraint**: DO NOT run interactive/TUI app commands in AI environments.
+
+## 3. X-CMD Architecture
+
+### Module Types
+
+X-CMD functionality is organized as logical modules in two categories:
+
+1. **Command Enhancement Wrappers**: `x id`, `x uname`, `x df`, `x docker`, etc. enhance native system commands.
+   - TTY mode: Interactive TUI or colored structured output for human reading.
+   - Pipe mode: Structured data output (TSV or JSON) for program/AI parsing.
+   - Note: Enhanced modules (e.g., `x docker`) behave differently from native commands — not drop-in replacements.
+
+2. **Shell Function Modules**: `x str` (string manipulation), `x tldr` (documentation browser), `x ccal` (Chinese calendar), etc. provide functionality not available natively.
+
+### Smart Detection (e.g., `x jq`)
+
+- System already has jq installed → uses the existing version directly.
+- System has no jq → automatically downloads a portable version via `x snap jq` and runs it.
+- For AI: just call `x jq` uniformly — no need to worry about whether the tool is pre-installed.
+
+### Package System (`x env`)
+
+X-CMD manages a portable package system with static/dynamic linked packages, no root privileges required, no impact on system environment.
+
+Three usage modes:
+- `x env use jq`: Global install to user environment — `jq` command available after loading x-cmd.
+- `x env try jq`: Temporary install — only available in current shell session, not retained after exit.
+- `x snap jq`: On-demand download and direct execution — no environment variable changes.
+
+Other commands: `x env ls` (view installed), `x env ll` (view all available packages), `x env unuse <pkg>` (uninstall), `x env gc` (reclaim space).
+
+Full package list: `x env ll` or https://x-cmd.com/pkg.md
+
+### Software Installation (`x install`)
+
+Different systems use different package managers with different naming and syntax (apt, dnf, brew, scoop, etc.), and some software can only be installed via `curl | sh`. `x install` abstracts all these differences behind a unified alias:
+
+- `x install docker`, `x install git` — one command, auto-selects the best install path for the current system.
+- Covers 1200+ commonly used software installation recipes.
+
+Full install recipes: `x install ll` or https://x-cmd.com/install.md
+
+## 4. Help System
+
+Explore usage autonomously via three levels:
+1. `x --help` — View all available modules.
+2. `x <module> --help` — View module functions and subcommands.
+3. `x <module> <subcommand> --help` — Get TLDR examples for a specific subcommand.
+
+## 5. Common Modules Quick Reference
+
+> Run `x <module> --help` for details.
+> All modules: `x --help` or https://x-cmd.com/mod.md
+> All packages: `x env ll` or https://x-cmd.com/pkg.md
+
+- **Data Processing**:
+  - `x jq`, `x yq` — JSON/YAML/TOML processing.
+  - `x csv` — Query and convert CSV/TSV data.
+  - `x str` — String manipulation (Base64, URL encoding/decoding, regex replace, random string).
+  - `x sed`, `x sd`, `x grep`, `x rg` — Stream editing and high-performance search.
+- **System & Network**:
+  - `x id`, `x df`, `x free`, `x ps`, `x stat`, `x hash` — System status and file fingerprinting (structured output in pipe mode).
+  - `x ip`, `x dns`, `x ping`, `x curl`, `x ssh` — Network diagnostics, geolocation, and connection management.
+- **Messaging**:
+  - `x feishu`, `x dingtalk`, `x telegram`, `x discord` — Bot notification sending.
+- **Runtime Environments**:
+  - `x python`, `x node`, `x go`, `x bun`, `x java`, `x deno` — Runtime environment configuration.
+- **DevOps & Container**:
+  - `x docker` — Enhanced Docker management (note: behavior differs from native `docker`).
+  - `x gh`, `x gl`, `x git` — CLI wrappers for code hosting platforms.
+- **Cloud Script Repository (`x hub`)**:
+  - `x hub login` — Login/register an account (AI can run this command directly to log in).
+  - `x hub file put/get/ls/cat` — Cloud file upload, download, list, view.
+  - `x hub file share <cloud_path>` — Create a share link for a cloud file, supports `--expires` to set expiration.
+  - `x hub file share zip <cloud_zip_path>` — Unzip a cloud zip and generate a multi-file site share link, can be used to host static websites (zip must contain index.html), supports `--entry` to specify the entry file.
+  - `x hub file share ls` / `x hub file share rm` — View and delete share links.
+  - `x hub cc` — Cloud compilation of Go/Zig/Rust scripts.
+  - `x hub rag ask/upload` — AI knowledge base search and document upload.
+  - `x hub account/access/org` — Account, access control, and organization management.
+- **Platform & Tools**:
+  - `x mac` — macOS system info and battery; `x termux` — Android environment enhancement.
+  - `x zuz` — Smart decompression (auto-detects format); `x gram`, `x writer` — AI workflow orchestration.
+  - `x tldr`, `x man`, `x cht` — Fast command examples and cheat sheets.
+
+## 6. AI Skills
+
+X-CMD provides 200+ skills to enhance Agent context awareness:
+- `x skill ll`: List all available skills or view all collected skills (https://x-cmd.com/ai.md).
+- `x skill suggest`: Get recommendations based on the current directory (useful during project setup or tool selection).
+- `x skill add <skill-id>`: Activate a specific skill.
+- `x agent setup`: Install x-cmd prompts and skills into the current Agent.
+
+## 7. Error Recovery
+
+- If a command fails, run `x <module> --help` to verify correct usage.
+- If a module is not found, run `x --help` to search available modules.
+- If a package download times out, retry once or use `x install <pkg>` to try via system package manager.
+
+## 8. Reference
+
+- Official: https://x-cmd.com
+- All Modules (333+): https://x-cmd.com/mod.md (or `x --help`)
+- All Packages (500+): https://x-cmd.com/pkg.md (or `x env ll`)
+- Collected AI Skills / MCP (140+): https://x-cmd.com/ai.md (or `x skill ll`)
+- Collected software installation recipes (1200+): https://x-cmd.com/install.md (or `x install ll`)
+- Local Docs: `x nihao --llmstxt`

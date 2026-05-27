@@ -1,0 +1,73 @@
+---
+domain: www.cartography.capital
+display_name: Cartography
+category: billing
+score: 57
+grade: C
+last_scored: 2026-05-27
+verified_url: https://www.cartography.capital/llms.txt
+file_size_bytes: 7013
+link_count: 0
+value_link_count: 0
+section_count: 6
+freshness_age_days: 0
+---
+
+# Cartography
+
+![Score 57/100 — Grade C](../../web/badge/www.cartography.capital.svg)
+
+Category: **billing** · [Live llms.txt](https://www.cartography.capital/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
+
+**H1:** Cartography — Crypto Market Intelligence for AI Agents
+
+> Human-curated crypto signals, altcoin analysis, Bitcoin cycle positioning, airdrop alpha, and DCA tools. x402 payment protocol on Base.
+
+**File facts:** 6.8 KB · 6 `## sections` · 0 links (0 after low-value discount) · Freshness: 0 days (per `Last-Modified`).
+
+## Scorecard
+
+| Criterion | Score | Notes |
+|---|---:|---|
+| Spec compliance | 11/18 | _sections_without_link_lists, malformed_link_items_ |
+| Coverage | 8/20 | _few_value_links_ |
+| Agent-action declarations | 0/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
+| Linked-content stability | 6/10 | _not_sampled_ |
+| Freshness | 10/10 | |
+| Discoverability | 8/8 | |
+| Auth signposting | 2/8 | _no_auth_section_ |
+| Size discipline | 6/6 | |
+| Content-Type & encoding | 4/4 | |
+| Voice | 2/2 | |
+
+## What's exceptional
+
+- Freshness (10/10)
+- Discoverability (8/8)
+- Size discipline (6/6)
+- Content-Type & encoding (4/4)
+- Voice (2/2)
+
+## What's weak
+
+- Coverage (8/20): few_value_links
+- Agent-action declarations (0/14): no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec
+- Auth signposting (2/8): no_auth_section
+
+## Embed the badge
+
+```markdown
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cartography.capital.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cartography.capital)
+```
+
+## Reproduce this score
+
+```bash
+npx llms-txt-score https://www.cartography.capital/llms.txt
+```
+
+See [the rubric](../../RUBRIC.md) for what each criterion checks.
+
+---
+
+Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

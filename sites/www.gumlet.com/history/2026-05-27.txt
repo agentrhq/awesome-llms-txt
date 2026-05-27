@@ -1,0 +1,198 @@
+
+# Gumlet
+
+> Gumlet provides video and image optimization services, automating media processing for seamless website and app performance. Our solution is simple, versatile, and comprehensive, designed to help businesses and creators optimize their media content and maximize engagement. With studio-level video protection features, customizable ad-free video players, and detailed analytics, we help you create a powerful media experience. By optimizing video and images, we help boost SEO, improve web performance, reduce CDN costs by up to 30%, and significantly reduce visitor bounce rates.
+
+## Core Documentation
+- [Video Overview](https://www.gumlet.com/video-overview/) - Learn about our video optimization and delivery solutions.
+- [Video Library](https://www.gumlet.com/video-cms/) - Organize, manage, and scale your video assets with ease.
+- [Customizable Video Player](https://www.gumlet.com/player-customization/) - Build your own branded, ad-free video player that works everywhere.
+- [Multi-layered Video Protection](https://www.gumlet.com/video-protection/) - Secure your video content with studio-level protection features, including encryption and dynamic watermarking.
+- [Live Streaming](https://www.gumlet.com/live-streaming/) - Real-time, high-quality broadcasting for your audience.
+- [Video for Devs](https://www.gumlet.com/video-api/) - Build custom video pipelines at scale using our powerful API and SDKs.
+- [Optimized Image Compression](https://www.gumlet.com/image-compression/) - Significantly reduce bandwidth and improve load times with advanced image compression techniques.
+- [Auto-format Conversion](https://www.gumlet.com/format-conversion/) - Automatically deliver the latest image formats, ensuring faster load times and better performance across devices.
+- [Auto-responsive Resize](https://www.gumlet.com/responsive-resize/) - Ensure a flawless, responsive experience for end users, no matter the device.
+- [Image Optimization](https://www.gumlet.com/image-optimization) - Comprehensive image optimization features that allow you to control every aspect of your image for better web performance.
+- [Image Operations](https://www.gumlet.com/image-operations/) - Access an extensive library of image transformations like resizing, cropping, filtering, and more.
+- [WordPress Plugin](https://www.gumlet.com/wordpress/) - Streamline workflows and optimize image delivery directly within your WordPress site.
+- [API Documentation](https://docs.gumlet.com/reference/getting-started) - A detailed API reference guide for developers integrating Gumlet's media optimization tools into their applications.
+
+## Why Choose Gumlet?
+Gumlet offers a unique set of advantages for businesses looking to optimize their media workflows:
+
+- Comprehensive Media Optimization: Gumlet optimizes video and images, ensuring that your website or app is performing at its best without compromising quality.
+- Easy Setup and Integration: Integrating Gumlet into your existing workflows is simple and straightforward, with low to no-code solutions and easy-to-follow documentation.
+- Cost-Efficient: Gumlet’s minute-based pricing for video hosting is designed to be more economical than traditional GB-based pricing models, making it a cost-effective solution for businesses of all sizes.
+- Scalable for Any Business: Whether you are a startup or an enterprise, Gumlet can scale with your media needs, handling thousands of assets with ease.
+- Superior User Experience: With features like auto-responsive resizing, fast load times, and seamless video streaming, Gumlet ensures a superior experience for your users across devices.
+- Advanced Security: Gumlet provides advanced video protection with DRM encryption, dynamic watermarking, and signed URLs, ensuring that your content is secure and protected.
+- Expert Support: Gumlet’s team of experts is available to assist you at every step, ensuring you get the most out of the platform. 24/7 chat support.
+
+### Video Hosting
+Gumlet’s Video Hosting is designed for a video-first world, providing a seamless, high-performance solution for uploading, managing, securing, and streaming videos. It offers a versatile platform tailored for various use cases including e-learning, e-commerce, and media companies.
+
+- Fastest Way to Start Streaming: Going from upload to stream with Gumlet is quick and easy. Upload your videos from anywhere, manage them efficiently, and stream in minutes without any waiting queues.
+- Upload and Manage: Upload videos directly from your device or cloud storage (e.g., Vimeo, S3, Zoom) using powerful APIs and integrations. Organize your videos in collections, playlists, and tags. Manage and customize privacy settings and video processing with ease.
+- Personalization and Branding: Gumlet allows easy customization of the video player with your branding. Add thumbnails, subtitles, CTAs, and more. Set up multi-layered video protection with DRM encryption to prevent piracy and theft.
+- Video Player Customization: Add your branding to the video player for an ad-free experience. Control player settings such as preload, autoplay, loop, and seek bar customization to match your specific needs.
+- Multi-Layered Video Protection: Ensure your videos are protected with Digital Rights Management (DRM), preventing unauthorized copying, downloading, sharing, or screen recording. You can also restrict access using domain restrictions, geo-blocking, password protection, and dynamic watermarks.
+- Seamless Video Sharing and Streaming: Embed videos easily across websites, apps, and emails using iFramely, oEmbed, and Embedly. Share embed codes and streaming URLs instantly after upload. Provide viewers with a smooth streaming experience with adaptive bitrate HLS streaming from 360p to 4k HDR.
+- High-Quality Streaming: Deliver a YouTube-like experience with snappy start times and adaptive streaming quality that adjusts based on user’s device and network conditions, ensuring seamless playback across all devices, even with slower connections.
+- Comprehensive Analytics: Track video performance with detailed analytics. Measure engagement, monitor user interactions, and gain insights into viewer behavior. Customize metrics and create dashboards to make data-driven decisions.
+- Developer Tools and Integrations: Use APIs, SDKs, and Webhooks to automate workflows, including video upload, transcoding, and streaming pipelines. Easily integrate Gumlet with tools like Zapier, Pabbly, and cloud services like Google Drive, Dropbox, Zoom, etc.
+- Flexible and Scalable: Gumlet’s video hosting can scale to accommodate small businesses or large enterprises. No matter your video storage or streaming needs, Gumlet can grow with you.
+- Global Reach: Ensure fast, worldwide delivery with Gumlet’s CDN. Your videos are served from the nearest edge node to viewers, guaranteeing quick load times across different geographies.
+
+### Video CMS
+- Video Organization: Create collections, playlists, and tags for easy video management.
+- Customizable Processing & Privacy: Set custom privacy and video processing settings for each collection.
+- Simplified Workflow: A snappy, intuitive dashboard to organize and manage your video assets.
+
+### Video Protection
+- Digital Rights Management (DRM): Widevine and FairPlay support to prevent unauthorized access and redistribution of videos.
+- Dynamic Watermarking: Embeds unique identifiers like email addresses or IP addresses to trace leaks.
+- Geo-Blocking & Domain Restrictions: Limit video access based on location or referrer domains.
+- Password Protection: Videos can be secured with a password for restricted access.
+- Signed URLs: Temporary access to videos with time-limited URLs to restrict unauthorized sharing.
+
+### Player Customization
+- Branded Player: Customizable video player with no ads and full branding control.
+- Player Settings: Adjust settings like preload, autoplay, loop, and seek bar customization.
+- Adaptive Streaming: Optimized for different devices and networks for a seamless viewing experience.
+
+### Interactive Video Tools
+- Chapters & Thumbnails: Add chapters and custom thumbnails, creating interactive and engaging videos.
+- Engagement: Enhance user experience with custom CTAs, subtitles, and interactive overlays.
+
+### AI Subtitle Generator
+- Automatic Transcription: Automatically transcribe video audio into subtitles.
+- Multiple Languages: Supports over 30 languages for transcription and translation into 90+ languages.
+- Customizable Subtitles: Edit and adjust subtitles, making content more accessible and globally reach.
+
+### Video Embedding
+- Easy Embed: Share videos across platforms using embed codes, with support for iFramely, oEmbed, and Embedly.
+- SEO Optimization: VideoObject structured data ensures better search indexing.
+
+### Video Settings
+- Custom Configurations: Set up a variety of playback options like quality, speed, and language for personalized viewing.
+- Privacy Controls: Fine-tune access and visibility, with domain-level and geo-level restrictions.
+
+### Live Streaming
+- Real-Time Broadcast: Seamlessly stream live events with low latency.
+- Adaptive Bitrate: Automatically adjust streaming quality based on the viewer’s device and network speed.
+- Multi-Device Compatibility: Viewers can enjoy a flawless experience across different devices, from desktops to mobile phones.
+
+### Video for Developers
+- Automation: Automate video uploads, transcoding, and streaming processes using robust APIs.
+- Custom Workflows: Build custom workflows and integrate seamlessly with existing systems.
+
+### Video Transcoding
+- Multiple Formats: Convert videos into various formats to ensure compatibility across devices.
+- Optimization: Automatically transcode videos to optimize for performance without losing quality.
+
+### Video Streaming
+- Buffer-Free Streaming: Deliver high-quality HLS (HTTP Live Streaming) video with adaptive streaming.
+- Global Delivery: Low-latency streaming globally with fast start times and different quality levels based on network.
+
+### Video Analytics
+- Engagement Metrics: Track and analyze viewer engagement, including play counts, retention, and more.
+- Custom Dashboards: Create personalized dashboards with data from different videos, helping optimize performance.
+
+---
+
+### Image Features
+
+#### 1. Image Optimization
+- Automated Optimization: Compress and optimize images for faster loading times and better SEO.
+- Format Conversion: Automatically convert images into modern formats like WebP and AVIF for improved performance.
+- Custom Settings: Customize quality and resolution to balance performance and visual appeal.
+
+#### 2. Image Compression
+- Lossless and Lossy Compression: Compress images without compromising quality.
+- Cost Savings: Reduce image size to save bandwidth and lower CDN costs.
+- Batch Processing: Compress multiple images in one go for streamlined workflows.
+
+#### 3. Responsive Resize
+- Automatic Resizing: Images are automatically resized based on the user’s device and screen size for responsive layouts.
+- Optimized for Devices: Ensures images look great across smartphones, tablets, and desktops.
+
+#### 4. Format Conversion
+- Advanced Conversion: Convert images into the latest formats like WebP and AVIF to reduce file size and improve page load times.
+- Automatic Delivery: Automatically deliver images in the best format based on the viewer’s device for improved performance.
+
+#### 5. Image Operations
+- Resizing and Cropping: Perform real-time transformations like resizing, cropping, and rotating images directly from the dashboard.
+- Filters and Effects: Apply custom filters and effects to improve the visual appeal of images without using extra resources.
+
+#### 6. Easy Integration
+- Plugin Support: Seamlessly integrate with platforms like WordPress, Shopify, and others for easy image delivery optimization.
+- API Support: Easily integrate Gumlet’s image optimization features into your custom applications via APIs.
+
+---
+### How to Host and Stream videos with Gumlet
+
+1. Sign Up: Create a Gumlet account if you haven’t already.
+2. Upload Your Videos: 
+   - You can upload videos directly through the [Gumlet Dashboard](https://www.gumlet.com/login). Alternatively, integrate with your platform (e.g., Vimeo, Wistia) using the import options.
+3. Video Protection: Set up multi-layered protection for your videos including DRM encryption, dynamic watermarking, and signed URLs by visiting the [Video Protection](https://www.gumlet.com/video-protection/) page.
+4. Customize Your Video Player: 
+   - Use the [Customizable Video Player](https://www.gumlet.com/player-customization/) to create an ad-free player that matches your brand and provides the best user experience.
+5. Start Streaming: If you want to broadcast live events, enable live streaming via the [Live Streaming](https://www.gumlet.com/live-streaming/) feature.
+6. Optimize Video Delivery: 
+   - Use our [Video CMS](https://www.gumlet.com/video-cms/) to organize, manage, and serve videos with minimal effort and maximum performance.
+7. Monitor Performance: Use detailed analytics in the dashboard to track video performance and engagement.
+
+### How to Start with Image Optimization
+
+1. Sign Up: Create a Gumlet account to get started.
+2. Upload Your Images: 
+   - Upload your images via the [Gumlet Dashboard](https://www.gumlet.com/login), or integrate directly into your CMS like WordPress or Shopify.
+3. Select Optimization Settings: 
+   - Choose the optimization settings that fit your needs, such as image quality, resolution, and format (e.g., JPEG, PNG, WebP).
+4. Use Image Operations: 
+   - Utilize our [Image Operations](https://www.gumlet.com/image-operations/) tools to resize, crop, or apply filters to your images automatically.
+5. Enable Auto-Responsive Resize: 
+   - Ensure your images are always correctly sized for any device using the [Auto-Responsive Resize](https://www.gumlet.com/responsive-resize/) feature.
+6. Optimize Your Images: 
+   - Visit the [Image Compression](https://www.gumlet.com/image-compression/) page to compress images for faster load times and better SEO.
+7. Monitor Performance: Track image performance through our analytics to see improvements in load time and SEO ranking.
+
+---
+
+
+### Who is Gumlet for?
+
+#### Ecommerce
+Gumlet reduces file size, optimizes media for improved SEO, and automates workflows, helping businesses cut down on CDN costs and eliminate development-heavy in-house setups while ensuring faster page loads.
+
+#### Consumer Apps
+Gumlet optimizes images to accelerate page loading times, simplifies media management, and takes full ownership of media performance, which helps reduce high media costs and streamline pipelines.
+
+#### News and Media
+Gumlet reduces CDN costs and improves engagement by optimizing media, enhancing SEO with the latest formats, and ensuring a smooth user experience with auto-responsive resizing across devices.
+
+#### EdTech Companies
+Gumlet speeds up video load times, lowers CDN costs, and provides DRM protection to prevent piracy, all while optimizing content for better search rankings and a more engaging learning experience.
+
+---
+
+### Pricing
+Gumlet uses a minute-based pricing model for video hosting, which is more cost-efficient than traditional GB-based pricing models. This approach ensures you only pay for the time your content is streamed, making it ideal for businesses with varying video consumption workloads. Pricing details can be found on the [Pricing Page](https://www.gumlet.com/pricing).
+
+---
+
+### Compliance
+Gumlet adheres to industry standards and ensures data security and privacy compliance. The platform is SOC2 and GDPR compliant, offering robust data protection measures including AES 128-bit encryption for stored content and two-factor authentication for user accounts.
+
+---
+
+### Integrations and Import Options
+Gumlet supports seamless integrations with various platforms and tools, including:
+
+- Vimeo: Import videos directly from Vimeo to Gumlet for optimization and streaming.
+- Wistia: Migrate your Wistia-hosted videos to Gumlet for better performance and cost-efficiency.
+- S3: Upload and manage your videos using Amazon S3 integration.
+- Zoom: Easily import Zoom recordings into Gumlet for optimized storage and playback.
+
+---

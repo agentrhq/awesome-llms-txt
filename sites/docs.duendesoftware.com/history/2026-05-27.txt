@@ -1,0 +1,19 @@
+# Duende Software Docs
+
+## Documentation Sets
+
+- [Abridged documentation](https://docs.duendesoftware.com/llms-small.txt): a compact version of the documentation for Duende Software Docs, with non-essential content removed
+- [Complete documentation](https://docs.duendesoftware.com/llms-full.txt): the full documentation for Duende Software Docs
+- [General Information](https://docs.duendesoftware.com/_llms-txt/general-information.txt): General Information about Duende products, including license information, support options, security best practices and a glossary.
+- [IdentityServer](https://docs.duendesoftware.com/_llms-txt/identityserver.txt): Documentation for Duende IdentityServer
+- [IdentityServer Quickstarts](https://docs.duendesoftware.com/_llms-txt/identityserver-quickstarts.txt): Step-by-step tutorials to get started with Duende IdentityServer
+- [IdentityServer Sample Code](https://docs.duendesoftware.com/_llms-txt/identityserver-sample-code.txt): Sample projects for Duende IdentityServer
+- [BFF Security Framework](https://docs.duendesoftware.com/_llms-txt/bff-security-framework.txt): Documentation for Duende's Backend for Frontend (BFF) framework, used to secure browser-based frontends (e.g. SPAs with React, Vue, Angular, or Blazor applications) with ASP.NET Core backends
+- [Access Token Management](https://docs.duendesoftware.com/_llms-txt/access-token-management.txt): Documentation for Duende's open-source Access Token Management library which provides automatic access token management features for .NET worker and ASP.NET Core web applications
+- [IdentityModel](https://docs.duendesoftware.com/_llms-txt/identitymodel.txt): Documentation for Duende's open-source IdentityModel library which provides an object model to interact with the endpoints defined in the various OAuth and OpenId Connect specifications
+- [IdentityModel.OidcClient](https://docs.duendesoftware.com/_llms-txt/identitymodeloidcclient.txt): Documentation for Duende's open-source IdentityModel.OidcClient library which can be used to build OIDC native clients with a variety of .NET UI tools
+
+## Notes
+
+- The complete documentation includes all content from the official documentation
+- The content is automatically generated from the same source as the official documentation

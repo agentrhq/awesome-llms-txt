@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "domain": "absoluteinternship.com",
+  "display_name": "Absolute Internship",
+  "category": "dev-tools",
+  "verified_url": "https://absoluteinternship.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:25Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 9289,
+  "last_modified": "Thu, 13 Feb 2025 15:15:06 GMT",
+  "freshness_age_days": 467,
+  "score": 52,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 17,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 10,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 1,
+      "reasons": [
+        "stale_467_days"
+      ],
+      "age_days": 467,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 9.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Absolute Internship",
+    "h1_count": 1,
+    "blockquote": "Absolute Internship offers award-winning in-person and remote international internships across elite cities worldwide, providing students and graduates with valuable professional experience.",
+    "section_count": 5,
+    "subsection_count": 0,
+    "link_count": 49,
+    "value_link_count": 48,
+    "low_value_link_count": 1,
+    "raw_bytes": 9289
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

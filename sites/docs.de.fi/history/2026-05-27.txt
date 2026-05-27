@@ -1,0 +1,41 @@
+# De.Fi Docs
+
+## De.Fi Docs
+
+- [Introduction](https://docs.de.fi/welcome/readme.md)
+- [Getting Started](https://docs.de.fi/welcome/getting-started.md)
+- [The De.Fi Dashboard](https://docs.de.fi/dashboard/the-defi-dashboard.md)
+- [Address Book](https://docs.de.fi/dashboard/the-defi-dashboard/address-book.md)
+- [Wallet](https://docs.de.fi/dashboard/the-defi-dashboard/wallet.md)
+- [Deposit](https://docs.de.fi/dashboard/the-defi-dashboard/deposit.md)
+- [Lending](https://docs.de.fi/dashboard/the-defi-dashboard/lending.md)
+- [NFTs](https://docs.de.fi/dashboard/the-defi-dashboard/nfts.md)
+- [Explore Yields](https://docs.de.fi/dashboard/the-defi-dashboard/explore-yields.md)
+- [Supported Blockchains](https://docs.de.fi/dashboard/the-defi-dashboard/supported-blockchains.md)
+- [Supported Protocols](https://docs.de.fi/dashboard/the-defi-dashboard/supported-protocols.md)
+- [Shield](https://docs.de.fi/security-toolkit/shield.md)
+- [Scanner](https://docs.de.fi/security-toolkit/scanner.md)
+- [DEFI Token](https://docs.de.fi/defi-ecosystem/defi-token.md)
+- [Governance](https://docs.de.fi/defi-ecosystem/governance.md)
+- [Audit Database](https://docs.de.fi/audits/audit-database.md)
+- [Rekt Database](https://docs.de.fi/audits/rekt-database.md)
+- [API](https://docs.de.fi/api/api.md)
+- [Brand Assets](https://docs.de.fi/resources/brand-assets.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.de.fi/welcome/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

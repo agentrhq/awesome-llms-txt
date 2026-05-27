@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "domain": "www.unkey.com",
+  "display_name": "Unkey",
+  "category": "auth",
+  "verified_url": "https://www.unkey.com/llms.txt",
+  "fetched_at": "2026-05-27T05:02:03Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 3070,
+  "last_modified": "Wed, 27 May 2026 05:02:03 GMT",
+  "freshness_age_days": 0,
+  "score": 76,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 15,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 5,
+      "reasons": [
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 3,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 3
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Unkey",
+    "h1_count": 1,
+    "blockquote": "Unkey is the developer platform for modern APIs. Deploy and secure APIs instantly, route traffic through a global gateway, manage API keys and rate limits, and understand usage — all in one place.",
+    "section_count": 10,
+    "subsection_count": 0,
+    "link_count": 22,
+    "value_link_count": 18,
+    "low_value_link_count": 4,
+    "raw_bytes": 3070
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

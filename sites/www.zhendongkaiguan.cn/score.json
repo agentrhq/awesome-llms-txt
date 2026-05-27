@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "domain": "www.zhendongkaiguan.cn",
+  "display_name": "Zhendongkaiguan",
+  "category": "dev-tools",
+  "verified_url": "https://www.zhendongkaiguan.cn/llms.txt",
+  "fetched_at": "2026-05-27T05:32:24Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 1320,
+  "last_modified": "Wed, 14 May 2025 02:06:50 GMT",
+  "freshness_age_days": 378,
+  "score": 47,
+  "grade": "D",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "multi_h1_2"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 5,
+      "reasons": [
+        "few_value_links",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 1,
+      "reasons": [
+        "stale_378_days"
+      ],
+      "age_days": 378,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 1.3
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "www.zhendongkaiguan.cn",
+    "h1_count": 2,
+    "blockquote": "东莞市颖鑫电子有限公司厂家供应micro USB连接器,小型防水轻触开关,防水按键开关,拨动开关,电位器,DC插头,TYPE-c,网线插座,USB母座公头,贴片按键开关等防水按钮电子元件品类供应及采购信息,为企业提供电器元气件. 东莞市颖鑫电子有限公司厂家供应micro USB连接器,小型防水轻触开关,防水按键开关,拨动开关,电位器,DC插头,TYPE-c,网线插座,USB母座公头",
+    "section_count": 3,
+    "subsection_count": 0,
+    "link_count": 6,
+    "value_link_count": 6,
+    "low_value_link_count": 0,
+    "raw_bytes": 1320
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

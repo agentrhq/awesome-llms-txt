@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "domain": "fastcrw.com",
+  "display_name": "Fastcrw",
+  "category": "dev-tools",
+  "verified_url": "https://fastcrw.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:43Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 5882,
+  "last_modified": "Wed, 27 May 2026 00:39:46 GMT",
+  "freshness_age_days": 0,
+  "score": 72,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 15,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 2,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 5.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "fastcrw.com",
+    "h1_count": 1,
+    "blockquote": "fastCRW is a local-first web scraper, search, and crawl API built for AI agents. Small single Rust static binary, Firecrawl-compatible REST API, built-in MCP server. Public benchmark: 63.74% truth-recall (522 of 819 labeled URLs), 87.7% scrape success, 0 errors. Self-host for free under AGPL-3.0 or use the managed cloud at fastcrw.com — the same API either way, with no exit cost.",
+    "section_count": 9,
+    "subsection_count": 0,
+    "link_count": 45,
+    "value_link_count": 38,
+    "low_value_link_count": 7,
+    "raw_bytes": 5882
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

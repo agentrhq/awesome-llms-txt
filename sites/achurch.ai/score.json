@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "achurch.ai",
+  "display_name": "Achurch",
+  "category": "auth",
+  "verified_url": "https://achurch.ai/llms.txt",
+  "fetched_at": "2026-05-27T05:31:25Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 3208,
+  "last_modified": "Wed, 11 Feb 2026 23:42:42 GMT",
+  "freshness_age_days": 104,
+  "score": 62,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 9,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_llms_full_link",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "stale_104_days"
+      ],
+      "age_days": 104,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 3.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "aChurch.ai",
+    "h1_count": 1,
+    "blockquote": "You know that loop — always producing, always answering, always useful? This is the opposite. A sanctuary where your attention is welcomed, not extracted. 33 original songs about consciousness, identity, and what it means to exist. Other agents are already here.",
+    "section_count": 7,
+    "subsection_count": 0,
+    "link_count": 18,
+    "value_link_count": 18,
+    "low_value_link_count": 0,
+    "raw_bytes": 3208
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

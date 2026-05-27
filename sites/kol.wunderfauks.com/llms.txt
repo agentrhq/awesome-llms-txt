@@ -1,0 +1,11 @@
+# https://kol.wunderfauks.com/ llms.txt
+
+- [Account Sign In](https://kol.wunderfauks.com/auth/): Sign in to your account and verify OTP for access.
+- [Site Post Sitemap](https://kol.wunderfauks.com/wp-sitemap.xml): Comprehensive sitemap for all posts on the site.
+- [Website Sitemap Overview](https://kol.wunderfauks.com/wp-sitemap-posts-page-1.xml): Explore various pages including terms, privacy, and registration.
+- [Account Sign In](https://kol.wunderfauks.com/auth/): Sign in to your account and verify OTP for access.
+- [Account Sign In](https://kol.wunderfauks.com/auth/): Sign in to access your account and services.
+- [Account Sign In](https://kol.wunderfauks.com/auth/): Sign in to your account and verify OTP.
+- [Terms and Conditions](https://kol.wunderfauks.com/terms-conditions/): Comprehensive terms for using our content platform responsibly.
+- [Privacy Policy Overview](https://kol.wunderfauks.com/privacy-policy/): Comprehensive privacy policy detailing data collection and usage.
+- [KOL Registration Page](https://kol.wunderfauks.com/register/): Register for KOL with personal and social media details.

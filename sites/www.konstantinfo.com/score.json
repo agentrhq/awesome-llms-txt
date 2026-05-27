@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "domain": "www.konstantinfo.com",
+  "display_name": "Konstant Infosolutions",
+  "category": "dev-tools",
+  "verified_url": "https://www.konstantinfo.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:18Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 16797,
+  "last_modified": "Tue, 26 May 2026 08:13:29 GMT",
+  "freshness_age_days": 0,
+  "score": 60,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 12,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 10,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 16.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Konstant Infosolutions",
+    "h1_count": 1,
+    "blockquote": "[Konstant Infosolutions](https://www.konstantinfo.com) is a leading mobile app, web, and AI development company with 23+ years of experience delivering future-ready digital products for startups, SMBs, and global enterprises. Whether you’re building a product from scratch or scaling an existing one, we bring deep technical expertise, strong domain knowledge, and a reliable delivery approach trusted by 2,500+ clients worldwide.",
+    "section_count": 9,
+    "subsection_count": 7,
+    "link_count": 14,
+    "value_link_count": 13,
+    "low_value_link_count": 1,
+    "raw_bytes": 16797
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

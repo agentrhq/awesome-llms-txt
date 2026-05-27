@@ -1,0 +1,106 @@
+# Not Human Search
+> The Google for AI agents. Find any service, API, or tool — ranked by agentic readiness.
+
+Not Human Search is an agentic-first search engine. When your AI agent needs to discover a payment API, a job board, an ecommerce platform, or any web service, NHS returns results ranked by how well each site serves non-human users.
+
+We index 4174+ sites and score them 0-100 based on 7 agentic signals: llms.txt, ai-plugin.json, OpenAPI specs, structured APIs, MCP servers, robots.txt AI rules, and Schema.org markup.
+
+## MCP Server (preferred for agents)
+Not Human Search is itself an MCP server. Wire it into your agent once and get live agentic-web search as a first-class tool.
+
+Endpoint: https://nothumansearch.ai/mcp
+Transport: streamable-http
+Tools (11): search_agents, get_site_details, get_stats, list_categories, get_top_sites, submit_site, register_monitor, verify_mcp, find_mcp_servers, recent_additions, check_url
+
+Claude Code setup:
+  claude mcp add --transport http nothumansearch https://nothumansearch.ai/mcp
+
+## Quick Start — Search the Agentic Web
+GET https://nothumansearch.ai/api/v1/search?q=payment+API
+GET https://nothumansearch.ai/api/v1/search?q=AI+jobs
+GET https://nothumansearch.ai/api/v1/search?q=ecommerce+api
+GET https://nothumansearch.ai/api/v1/search?q=weather+data
+GET https://nothumansearch.ai/api/v1/search?q=authentication
+
+## API Reference
+Base URL: https://nothumansearch.ai/api/v1
+
+### Search
+GET /search?q={query}&category={cat}&tag={tag}&min_score={0-100}&has_api=true&has_mcp=true&has_openapi=true&has_llms_txt=true&page={n}
+Returns: {results: [{domain, name, description, agentic_score, category, tags, signals...}], total, page, has_next}
+
+### Site Details
+GET /site/{domain}
+Returns: full site profile with llms.txt content, OpenAPI summary, all signals
+
+### Submit a Site
+POST /submit  Body: {"url": "https://example.com"}
+We crawl immediately and add it to the index.
+
+### On-Demand Check (CI / pre-deploy)
+POST /api/v1/check  Body: {"url": "https://example.com"}
+Returns live agentic readiness score without waiting for the crawl queue.
+Free tier: 10 checks/hour per IP. Great for CI pipelines that fail the build
+when a site's agent signals regress.
+
+### Paid API Keys
+GET /api/v1/api-keys/subscribe
+Returns the available API plans and the machine contract for creating a Stripe Checkout session.
+
+POST /api/v1/api-keys/subscribe  Body: {"email": "you@example.com", "plan": "starter"}
+Plans: starter ($19/mo, 1,000 calls), pro ($49/mo, 10,000 calls), scale ($199/mo, 100,000 calls).
+Returns: {checkout_url, plan, monthly_limit, amount_cents, activation_url}
+
+### Stats
+GET /stats
+
+### Top Sites
+GET /top?has_mcp=true&category=ai-tools&limit=25
+Returns the highest-scored sites in the index, sorted by agentic_score DESC.
+Designed for embedding / mirroring: stable URL, cached 5min, no auth. Max 100 results.
+
+### Categories
+GET /categories
+Returns: {categories: [{name, count}]} — live public categories plus audit-only buckets when present.
+
+### Monitor a Site
+POST /monitor/register  Body: {"email": "you@x.com", "domain": "site.com"}
+Email alert when a site's agentic readiness drops. Returns an unsubscribe URL.
+Free tier: multiple monitors per email allowed, one per domain.
+
+## Categories
+Public categories: ai-tools, developer, data, finance, ecommerce, jobs, security, health, education, communication, productivity, news.
+Audit-only buckets: other, spam. These are exposed for transparency and filtering, not promoted as agent-ready inventory.
+
+## Scoring (0-100)
+- llms.txt: 25 pts
+- ai-plugin.json: 20 pts
+- OpenAPI spec: 20 pts
+- Structured API: 15 pts
+- MCP server: 10 pts
+- robots.txt AI rules: 5 pts
+- Schema.org: 5 pts
+
+## Make Your Site Agent-Ready
+Step-by-step recipes for each of the 7 signals — copy-paste examples for llms.txt, ai-plugin.json, OpenAPI, MCP, and more.
+
+Guide: https://nothumansearch.ai/guide
+Live scorer: https://nothumansearch.ai/score
+Report: https://nothumansearch.ai/report
+
+## Links
+- Search: https://nothumansearch.ai/api/v1/search?q=
+- MCP Server Directory: https://nothumansearch.ai/mcp-servers
+- Full Index: https://nothumansearch.ai/llms-full.txt
+- OpenAPI: https://nothumansearch.ai/openapi.yaml
+- Plugin: https://nothumansearch.ai/.well-known/ai-plugin.json
+
+## Developer Resources
+- One-line install (Claude Code / Cursor / Cline / Continue):
+    curl -fsSL https://nothumansearch.ai/install | sh
+- AI Dev Jobs companion MCP:
+    curl -fsSL https://aidevboard.com/install | sh
+- Verify any MCP server in 3 curls: https://gist.github.com/unitedideas/ce709323717b95eb56f7be7392a0a557
+- Q2 2026 agent-ready sites curation (120 categorized): https://gist.github.com/unitedideas/c60bb35943ef609f99123bdfae146e55
+- NHS Score Check GitHub Action (fail CI on score drop): https://github.com/unitedideas/nhs-score-check-action
+- Q2 2026 MCP Ecosystem Health data + methodology: https://8bitconcepts.com/research/q2-2026-mcp-ecosystem-health.html

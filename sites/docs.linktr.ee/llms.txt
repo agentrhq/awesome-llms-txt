@@ -1,0 +1,27 @@
+# Linktree LinkApp SDK
+
+> Official documentation for the Linktree LinkApp SDK
+
+## Docs
+
+- [linkapp add](https://docs.linktr.ee/cli/add.md): Add components from the registry to your project
+- [linkapp build](https://docs.linktr.ee/cli/build.md): Create an optimized production build of your LinkApp
+- [linkapp deploy](https://docs.linktr.ee/cli/deploy.md): Deploy your LinkApp to Linktree
+- [linkapp dev](https://docs.linktr.ee/cli/dev.md): Start the development server with live preview and hot reloading
+- [linkapp login](https://docs.linktr.ee/cli/login.md): Authenticate with Linktree
+- [linkapp logout](https://docs.linktr.ee/cli/logout.md): Sign out of Linktree
+- [linkapp test-url-match-rules](https://docs.linktr.ee/cli/test-url-match-rules.md): Validate url_match_rules.json against a URL
+- [Configuration](https://docs.linktr.ee/essentials/configuration.md): Configure your LinkApp with linkapp.config.ts
+- [Manifest Reference](https://docs.linktr.ee/essentials/configuration/manifest.md): Complete reference for LinkApp manifest configuration
+- [Settings Configuration](https://docs.linktr.ee/essentials/configuration/settings.md): Build user-facing settings forms for your LinkApp
+- [URL Matching](https://docs.linktr.ee/essentials/configuration/url-matching.md): Auto-suggest your LinkApp when users enter matching URLs
+- [Visibility & Discovery](https://docs.linktr.ee/essentials/configuration/visibility.md): Control how users find and access your LinkApp
+- [Deployment](https://docs.linktr.ee/essentials/deployment.md): Deploy your LinkApp to Linktree
+- [Layouts](https://docs.linktr.ee/essentials/layouts.md): Learn how LinkApp layouts work and how to create them
+- [Settings Element Reference](https://docs.linktr.ee/essentials/settings-reference.md): Complete reference for all LinkApp settings element types
+- [Advanced Elements](https://docs.linktr.ee/essentials/settings/advanced.md): Arrays, integrations, conditional display, and specialized elements
+- [Location Element](https://docs.linktr.ee/essentials/settings/location.md): Google Places location picker for collecting place data
+- [Selection Elements](https://docs.linktr.ee/essentials/settings/selections.md): Select, radio, and checkbox elements for choosing options
+- [Text Input Elements](https://docs.linktr.ee/essentials/settings/text-inputs.md): Text, textarea, URL, and number input elements
+- [Toggle Elements](https://docs.linktr.ee/essentials/settings/toggles.md): Switch and link behavior elements for on/off controls
+- [Installation](https://docs.linktr.ee/installation.md): Build custom LinkApps for Linktree in minutes

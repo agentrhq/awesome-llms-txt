@@ -1,0 +1,38 @@
+# 02AI.DEV
+
+> 02AI.DEV is an AI Solutions Partner for solopreneurs and SMBs. We help you plan, build, and maintain AI workflows—no bloat, just results.
+
+## Services
+
+- AI Strategy & Planning
+- Custom LLM App Development
+- Agent & Chatbot Integration
+- Developer Workflow Automation
+- Maintenance & Scaling
+
+## Projects
+
+- Document Chat AI Assistant: Chat with PDFs and docs offline.
+- Tokwa AI Chat: Compare OpenAI vs Gemini in real-time.
+- TradingView AI Agent: Autonomous crypto signal generator.
+- GPT Clone: Host your own dev-friendly GPT frontend.
+- Cyberpunk Game (48h): Procedural flight sim made with GPT.
+
+## Technologies
+
+OpenAI GPT-4, Gemini, LangChain, Firebase, Tailwind, React, Three.js
+
+## Contact
+
+- Founder: Raymel  
+- Email: landing@02ai.dev  
+- Website: https://02ai.dev  
+- GitHub: https://github.com/02aidev  
+- X: https://x.com/02AIDEV  
+- LinkedIn: https://www.linkedin.com/company/02AIDEV  
+
+## Extras
+
+- Pricing: https://02ai.dev/#pricing  
+- Contact: https://02ai.dev/contact  
+- Portfolio: https://02ai.dev/#sample-work

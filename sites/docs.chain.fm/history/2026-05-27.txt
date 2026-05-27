@@ -1,0 +1,51 @@
+# Docs
+
+## English
+
+- [Welcome](https://docs.chain.fm/docs/welcome/welcome.md)
+- [Track smart money trading activities](https://docs.chain.fm/docs/use-cases/track-smart-money-trading-activities.md)
+- [Keep track of my wallet balance changes](https://docs.chain.fm/docs/use-cases/keep-track-of-my-wallet-balance-changes.md)
+- [Tutorials](https://docs.chain.fm/docs/tutorials.md)
+- [Setting up Your Homepage](https://docs.chain.fm/docs/tutorials/setting-up-your-homepage.md)
+- [Getting to Know Your Homepage](https://docs.chain.fm/docs/tutorials/getting-to-know-your-homepage.md)
+- [Filtering Acitvity Feed](https://docs.chain.fm/docs/tutorials/filtering-acitvity-feed.md)
+- [Get alerted via Telegram](https://docs.chain.fm/docs/tutorials/get-alerted-via-telegram.md)
+- [Chrome Extension](https://docs.chain.fm/docs/chrome-extension.md)
+- [Install Chrome Extension](https://docs.chain.fm/docs/chrome-extension/install-chrome-extension.md)
+- [Using the Chrome Extension](https://docs.chain.fm/docs/chrome-extension/using-the-chrome-extension.md)
+- [Chrome Extension FAQ](https://docs.chain.fm/docs/chrome-extension/chrome-extension-faq.md)
+- [Create your first channel](https://docs.chain.fm/docs/create-your-first-channel.md)
+- [Introduce address library](https://docs.chain.fm/docs/introduce-address-library.md)
+- [Introduce destination library](https://docs.chain.fm/docs/introduce-destination-library.md)
+- [How to create a Telegram bot](https://docs.chain.fm/docs/how-to-create-a-telegram-bot.md)
+
+## 简体中文
+
+- [欢迎使用](https://docs.chain.fm/docs/zh-cn/huan-ying-shi-yong.md)
+- [教程](https://docs.chain.fm/docs/zh-cn/jiao-cheng.md)
+- [定制您的首页](https://docs.chain.fm/docs/zh-cn/jiao-cheng/ding-zhi-nin-de-shou-ye.md)
+- [熟悉您的首页](https://docs.chain.fm/docs/zh-cn/jiao-cheng/shu-xi-nin-de-shou-ye.md)
+- [筛选首页动态](https://docs.chain.fm/docs/zh-cn/jiao-cheng/shai-xuan-shou-ye-dong-tai.md)
+- [Telegram 通知设置](https://docs.chain.fm/docs/zh-cn/jiao-cheng/telegram-tong-zhi-she-zhi.md)
+- [Chrome 插件](https://docs.chain.fm/docs/zh-cn/chrome-cha-jian.md)
+- [安装 Chrome 插件](https://docs.chain.fm/docs/zh-cn/chrome-cha-jian/an-zhuang-chrome-cha-jian.md)
+- [使用 Chrome 插件](https://docs.chain.fm/docs/zh-cn/chrome-cha-jian/shi-yong-chrome-cha-jian.md)
+- [常见问题](https://docs.chain.fm/docs/zh-cn/chrome-cha-jian/chang-jian-wen-ti.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.chain.fm/docs/welcome/welcome.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

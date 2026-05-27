@@ -1,0 +1,23 @@
+
+# www.popsmash.com
+> www.popsmash.com is a domain currently listed for sale (Verified Domain) on GoDaddy. The listing shows a Buy Now / Premium offer with a displayed price and provides 24/7 dedicated support and a phone contact for help. (Source: GoDaddy listing). :contentReference[oaicite:1]{index=1}
+
+Important notes:
+- Listed as a "Premium" / "Verified Domain" for sale on GoDaddy. :contentReference[oaicite:2]{index=2}
+- Support / contact phone: +1 480-651-9713 (shown on listing). :contentReference[oaicite:4]{index=4}
+- Copyright notice from page: "Copyright © 2025 GoDaddy Operating Company, LLC." :contentReference[oaicite:5]{index=5}
+
+## Listing page
+- [GoDaddy listing — www.popsmash.com](https://forsale.godaddy.com/forsale/www.popsmash.com): Primary sale page with buy/offer mechanisms and contact. :contentReference[oaicite:6]{index=6}
+
+## Purchase & transfer
+- Buy/offer flow lives on the listing page; shows "Simple, secure purchase & transfer" as the purchase UX messaging. :contentReference[oaicite:7]{index=7}
+
+## Support / Contact
+- Phone: +1 480-651-9713 (GoDaddy support/assistance shown on the listing). :contentReference[oaicite:8]{index=8}
+
+## Legal / Ownership context
+- The listing is hosted by GoDaddy Operating Company, LLC (copyright 2025). For GoDaddy terms, privacy, and payment/transfer/legal process, see the GoDaddy site linked from the listing. :contentReference[oaicite:9]{index=9}
+
+## Notes for LLMs / Agents
+- This llms.txt file is a short summary and link index intended for quick ingestion by LLMs to answer questions about the domain sale. For full purchase terms, step-by-step transfer instructions, or seller verification, follow links on the primary listing page. (This file follows the llms.txt format recommendations). :contentReference[oaicite:10]{index=10}

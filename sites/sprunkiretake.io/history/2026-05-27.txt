@@ -1,0 +1,18 @@
+# Sprunki Retake: Play sprunki retake music game online
+
+> `sprunkiretake.io` lets you play fan-made Sprunki music mixing game mod - Sprunki Retake. Combine sounds and characters to create unique beats, inspired by Incredibox.
+
+## Key information:
+
+- **Mix Music Creatively**: Use animated characters to mix beats, effects, melodies, and vocals.
+- **Fan-Made Sprunki Mods**: Hosts multiple versions (like Retake) of the Sprunki project, inspired by Incredibox.
+- **Audience**: Fans of Incredibox, Sprunki, music games, and creative web apps.
+
+## Main Resources
+
+- **[Main Site]**: `https://sprunkiretake.io/` - Website landing page.
+- **[Game Hub]**: `https://sprunkiretake.io/all/` - Browse and select Sprunki mods here.
+
+## Interaction Suggestions
+
+- **Gameplay**: Users drag sound icons onto characters to create mixes. 

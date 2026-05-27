@@ -1,0 +1,13 @@
+# Youthquake - A Data-Driven Creative and Digital Agency
+
+> Youthquake is the Creative and Digital Data-Driven agency based in Milan. A new agency model that places Data Science at the core of creative activities, marketing, and digital development. Data analysis becomes the lifeblood for implementing ArtificiaI Intelligence and serves as a method to create customized and tailored marketing campaigns and digital products that meet consumer needs.
+
+Youthquake is part of DGS S.p.A., a group specialized in the design and implementation of services and solutions for business security and digital transformation, as one of the sides of the martech and AI business line of the group.
+
+## Docs
+
+- [Homepage](https://www.youthquake.it/home.md): Our virtual office, a 3D Homepage of our website.
+- [Blog feed](https://www.youthquake.it/blog.md): All the latest marketing, tech and AI news and case-studies.
+- [About Us](https://www.youthquake.it/about.md): Discover Youthquake and our virtual avatars.
+- [Labs](https://www.youthquake.it/labs.md): Discover our amazing research and development innovative projects.
+- [Projects](https://www.youthquake.it/projects.md): Discover our amazing projects.

@@ -1,0 +1,526 @@
+# Happy Endpoint - API Documentation and Information
+# Website: https://happyendpoint.com/
+# Contact: happyendpointhq@gmail.com
+# Last Updated: March 4, 2026
+
+## About Happy Endpoint
+
+Happy Endpoint is a premium API provider specializing in real-time data APIs for e-commerce, travel, real estate, and financial markets. We also offer custom data scraping services and ready-to-use datasets.
+
+Our mission: "HappyEndpoint.com: Where Every Call Ends with a Smile! :)"
+
+RapidAPI Profile: https://rapidapi.com/user/happyendpoint
+
+---
+
+## Available APIs
+
+### 1. Real-Time Sephora API
+**URL**: https://rapidapi.com/happyendpoint/api/real-time-sephora-api/
+**Last Updated**: Feb 13, 2026
+
+Unlock the full potential of Sephora.com data with our robust and developer-friendly API. Designed for speed and scalability, our API delivers detailed product data, inventory checks, reviews, store locations, and more — all with sub-400ms response times.
+
+**Key Features**:
+- Product Details – Images, pricing, ingredients, and more
+- Category & Brand Data – Full directory access
+- Smart Search – Autocomplete & keyword search
+- Real-Time Availability – Up-to-date inventory status
+- Store Locator – Find nearby Sephora stores
+- Product Reviews – Ratings and customer feedback
+
+**Endpoints** (11 total):
+- /auto-complete – Returns product name suggestions based on partial input
+- /store-list – Retrieves Sephora store locations based on coordinates and radius
+- /brands-list – Fetches a full list of brands from Sephora.com
+- /categories-list – Gets all available root product categories
+- /category-data – Returns subcategories and metadata for a root category
+- /search-by-keyword – Performs keyword-based product searches with advanced filters
+- /search-by-category – Fetches products using a specific category ID
+- /search-by-brand – Returns products from a specific brand
+- /product-details – Retrieves detailed product info including images, ingredients, and pricing
+- /product-reviews – Accesses customer reviews and ratings using a product ID
+- /product-availability – Checks product stock levels at nearby stores
+
+**Ideal For**:
+- E-commerce & comparison platforms
+- Beauty & skincare apps
+- Product recommendation engines
+- Market & trend analysis tools
+- Inventory tracking systems
+
+**Bulk Dataset Available**: 8,500+ Sephora US products with SKU ID, Product ID, URL, Price, Brand, Category, and more.
+
+---
+
+### 2. Priceline API Pro
+**URL**: https://rapidapi.com/happyendpoint/api/priceline-api-pro/
+**Last Updated**: Jan 11, 2026
+
+The most advanced and reliable API for Priceline.com travel data. Built for developers who need fast, stable, and comprehensive data for hotels, flights, and car rentals.
+
+**Key Features**:
+- Blazing Fast & Reliable – 99.9% uptime
+- Truly Real-Time Data – Current pricing and availability
+- Comprehensive Endpoints – Location search to granular room pricing
+- Simple & Developer-Friendly – Clean JSON responses
+
+**Endpoints**:
+- /auto-complete-location – Fast, predictive location searching
+- /advance-auto-complete-location – Advanced location search
+- /hotels-search – Powerful hotel search engine
+- /hotel-details – Rich hotel details with photos, amenities, and policies
+- /hotel-reviews-by-hotelid – Customer reviews and ratings
+- /hotel-room-and-price-details – Granular room data with real-time pricing
+- /search-rental-car – Comprehensive car rental search
+- /search-flights – Flight search and data
+- /round-trip-search-flights – Round-trip flight search
+
+**Use Cases**:
+- Travel booking platforms
+- Hotel price comparison tools
+- Flight aggregators
+- Car rental services
+- Travel deal finders
+
+---
+
+### 3. Fotocasa API
+**URL**: https://rapidapi.com/happyendpoint/api/fotocasa3/
+**Last Updated**: Jan 25, 2026
+
+Access one of Spain's largest real estate databases with real-time property information across Spain, Andorra, and the Balearic Islands.
+
+**Key Features**:
+- Comprehensive Coverage – Millions of property listings across Spain
+- Real-time Updates – Continuously updated database
+- Precise Search Capabilities – Powerful suggestion engine
+- RESTful API with JSON responses
+
+**Endpoints**:
+- /property-details – Detailed property information
+- /searchads – Search property listings
+- /suggestion – Property search suggestions
+
+**Target Markets**:
+- Spain (All Regions)
+- Andorra
+- Balearic Islands
+- International Investors & Researchers
+
+**Perfect For**:
+- Property Technology Companies
+- Real Estate Agencies
+- Market Research Firms
+- Property Developers
+- Investment Companies
+
+---
+
+### 4. Tesco Data API
+**URL**: https://rapidapi.com/happyendpoint/api/tesco-data-api/
+**Last Updated**: Jan 11, 2026
+
+Real-time, structured access to Tesco UK and Ireland grocery data. Ideal for price tracking, grocery comparison, retail analytics, and eCommerce automation.
+
+**Key Features**:
+- Real-time data from Tesco UK and Ireland
+- Easy REST integration
+- Detailed product info: names, prices, images, availability, nutrition, offers
+- Cross-region support
+- Full category taxonomy and paginated listings
+
+**Endpoints**:
+- /product-search-by-keyword – Search Tesco UK products by keyword
+- /product-details – Detailed UK product info by ID or URL
+- /ireland-product-details – Ireland product info by ID or URL
+- /category-page – Paginated UK category data
+- /ireland-category-page – Paginated Ireland category data
+- /get-category-ids-for-uk – UK category taxonomy
+- /get-category-ids-for-ireland – Ireland category taxonomy
+
+**Use Cases**:
+- Retail Analytics & Market Research
+- Grocery Comparison & Price Alert Apps
+- Chatbots & Shopping Assistants
+- Consumer Behavior & Trend Analysis
+- eCommerce Aggregators
+- Inventory and Catalog Management
+
+---
+
+### 5. Morningstar API
+**URL**: https://rapidapi.com/happyendpoint/api/morningstar13
+**Last Updated**: Feb 13, 2026
+
+Institutional-grade financial data for developers building investment platforms, analysis tools, or market dashboards.
+
+**Key Features**:
+- Real-Time Data – Up-to-the-minute stock quotes and charts
+- Global Market Coverage – Commodities, currencies, indexes, sectors
+- Deep Fundamentals – Financials, valuation ratios, key metrics
+- Corporate Intelligence – Executive details, ownership, dividends, earnings
+- ESG Insights – Sustainability and risk ratings
+
+**Endpoints**:
+Stock Price & News:
+- /stock-details
+- /auto-complete
+- /real-time-data
+- /news-details
+- /stock-news
+- /stock-chart
+
+Market Overview:
+- /market-data
+- /market-movers
+- /calendar
+- /sector-performance
+
+Financials & Valuation:
+- /fair-value
+- /trailing-return
+- /financials
+- /dividends
+- /valuations
+- /key-metrics
+
+Corporate & ESG:
+- /sustainability
+- /earning-transcript
+- /executive
+- /ownership
+
+**Usage**: Use /auto-complete to find performanceId or ticker, then query specific endpoints for detailed data.
+
+---
+
+### 6. Rightmove UK Real Estate Data API
+**URL**: https://rapidapi.com/happyendpoint/api/rightmove-uk-real-estate-data/
+**Last Updated**: Feb 13, 2026
+
+The fastest and most comprehensive Rightmove UK property API. Real-time access to the UK's largest property dataset.
+
+**Key Features**:
+- Blazing Fast Speed – Millisecond response times
+- Most Complete Data – 11 distinct endpoints
+- UK-Wide Coverage – England, Scotland, Wales
+- Developer Friendly – Clean JSON responses
+- High Reliability – Scalable infrastructure
+
+**Endpoints** (11 total):
+- /auto-complete – Location and keyword suggestions
+- /property-for-sale – Residential properties for sale
+- /new-home-for-sale – New development homes
+- /property-to-rent – Residential rentals
+- /student-property-to-rent – Student accommodation
+- /commercial/properties-to-rent – Commercial rentals
+- /commercial/properties-to-sale – Commercial sales
+- /house-prices/sold-house-prices – Historical sold prices
+- /sold-house-prices/details – Specific sale details
+- /property-details – Complete property information
+- /estate-agents/list – Estate agent directory
+
+**What You Can Build**:
+- Property market analysis tools
+- Investment deal finders
+- Price tracking websites
+- Mortgage calculators
+- Competitor analysis platforms
+
+---
+
+### 7. IKEA API Pro
+**URL**: https://rapidapi.com/happyendpoint/api/ikea-api-pro/
+**Last Updated**: Jan 11, 2026
+
+The most reliable, comprehensive, and developer-friendly REST API for IKEA data. Real-time access to IKEA's entire product catalog, categories, and store network.
+
+**Key Features**:
+- Fast & Reliable – Optimized infrastructure
+- Global Coverage – Multiple countries supported
+- Complete Product Catalog – Full range with filtering
+- Detailed Store Information – Complete store directory
+- Developer-Friendly – Clean JSON and documentation
+
+**Feature Sets**:
+1. **Foundational Data** – Countries, stores, categories tree
+2. **Keyword-Based Product Search** – Search by keyword with filters
+3. **Full Category Browsing** – Browse by category with filters
+4. **Rich Product Details** – Complete product information
+
+**What You Can Build**:
+- E-commerce & Affiliate Sites
+- Interior Design & Mood Board Apps
+- Price Comparison Tools
+- Inventory & Stock Checkers
+
+**Free Plan**: 500 requests/month with full endpoint access
+
+---
+
+### 8. Kohls.com Data API
+**URL**: https://rapidapi.com/happyendpoint/api/kohls-com/
+**Last Updated**: Jan 11, 2026
+
+The most reliable solution for accessing Kohls.com data programmatically. Product data, pricing, inventory, categories, stores, reviews, and Q&As.
+
+**Key Features**:
+- Product Search API
+- Product Reviews API
+- Product Q&A API
+- Categories API
+- Stores Locator API
+
+**Use Cases**:
+- Price comparison tools
+- Retail analytics dashboards
+- Product availability tracking
+- eCommerce datasets
+- Market research
+- Brand intelligence analysis
+
+---
+
+### 9. H&M (Hennes & Mauritz) API
+**URL**: https://rapidapi.com/happyendpoint/api/h-m-hennes-mauritz1/
+**Last Updated**: Jan 11, 2026
+
+Real-time product data from hm.com. Perfect for fashion discovery tools, price comparison engines, or e-commerce analytics dashboards.
+
+**Endpoints**:
+- /product-search – Search with pagination, sorting, filters (size, color, fit, material)
+- /countries – Supported countries and language codes
+- /auto-complete – Real-time search suggestions
+- /stores – Store locations by country with hours and departments
+- /supplier-details – Supplier and manufacturing information
+- /categories – Full category hierarchy
+
+**Use Cases**:
+- Fashion trend trackers
+- AI styling assistants
+- Shopping bots
+- Retail data dashboards
+- Price comparison across countries
+- Supplier sustainability analysis
+
+---
+
+### 10. Klarna Store & Shop Ecommerce API
+**URL**: https://rapidapi.com/happyendpoint/api/klarna7/
+**Last Updated**: Jan 11, 2026
+
+All-in-one data solution aggregating shopping, product, and store information from multiple top ecommerce platforms through Klarna's ecosystem.
+
+**Key Features**:
+- Store & Category Intelligence – Store lists, categories, cashback, Klarna shops
+- Advanced Search & Recommendations – Keyword suggestions, product search, filters
+- Product-Level Insights – Complete metadata, reviews, related products
+- Price Tracking & Analytics – Historical price charts
+- Multi-Store Retail Coverage – Amazon, Walmart, Best Buy, Target, Macy's, and more
+
+**Coverage**: Travel, fashion, electronics, home goods, beauty, grocery, and more.
+
+**Perfect For**:
+- Shopping apps
+- AI recommenders
+- Affiliate marketing tools
+- Dropshipping research platforms
+- Price comparison websites
+
+---
+
+### 11. PropertyFinder UAE Data API
+**URL**: https://rapidapi.com/happyendpoint/api/propertyfinder-uae-data
+**Last Updated**: Feb 13, 2026
+
+The most comprehensive UAE real estate database. 500K+ property listings from Dubai, Abu Dhabi, Sharjah, and across the United Arab Emirates.
+
+**Key Features**:
+- 500K+ Property Listings – Apartments, villas, offices, retail, warehouses, land
+- Nationwide Coverage – All major UAE communities
+- Agent & Broker Database – Direct contact details included
+- Rich Property Details – Images, amenities, specifications, floor plans
+- Real-Time Data – Updated daily
+- High Performance – Redis caching
+- Market Intelligence – Price trends, community insights, historical data
+
+**Endpoints**:
+Location & Search:
+- /autocomplete-location
+- /search-property (Rent & Buy)
+- /search-commercial-rent
+- /search-commercial-buy
+- /search-new-projects
+
+Property Details:
+- /property-details
+
+Agents & Brokers:
+- /search-agents
+- /search-agents-detailed
+- /search-brokers
+- /search-brokers-detailed
+- /agent-properties
+- /broker-properties
+
+Market Data:
+- /price-trend-of-location
+- /property-insight
+- /get-transactions
+
+Directories:
+- /real-estate-developers
+- /communities
+
+**Perfect For**:
+- Real estate mobile apps
+- Property comparison platforms
+- Market research & analytics
+- Investment analysis tools
+- Lead generation systems
+- PropTech integrations
+
+---
+
+## Services Offered
+
+### 1. Real-Time APIs
+All APIs provide real-time data access with:
+- Fast response times (sub-400ms for most)
+- RESTful architecture
+- JSON responses
+- Comprehensive documentation
+- Flexible pricing plans
+- Free tiers available for testing
+
+### 2. Custom Data Scraping Services
+We provide tailored scraping services based on your specific requirements. Contact us for:
+- Custom data extraction
+- Scheduled data updates
+- Specific website scraping
+- Data transformation and cleaning
+
+### 3. Ready-to-Use Datasets
+Pre-scraped, structured datasets available for:
+- Sephora US (8,500+ products)
+- Other e-commerce platforms
+- Custom bulk data requests
+
+Contact: happyendpointhq@gmail.com
+
+---
+
+## Technical Information
+
+**API Architecture**: RESTful
+**Response Format**: JSON
+**Authentication**: RapidAPI key-based
+**Protocol**: HTTPS
+**Rate Limiting**: Varies by plan
+**Caching**: Redis (where applicable)
+**Uptime**: 99.9% target
+
+---
+
+## Pricing
+
+All APIs offer flexible pricing plans:
+- Free/Basic tiers for testing
+- Pro plans for production use
+- Enterprise plans for high-volume usage
+
+Visit individual API pages on RapidAPI for detailed pricing.
+
+---
+
+## Support & Contact
+
+**Website**: https://happyendpoint.com/
+**Email**: happyendpointhq@gmail.com
+**RapidAPI**: https://rapidapi.com/user/happyendpoint
+
+For custom scraping services, bulk datasets, or enterprise inquiries, contact us directly.
+
+---
+
+## Keywords & Use Cases
+
+**Industries**: E-commerce, Travel, Real Estate, Finance, Retail, PropTech, Beauty, Fashion, Grocery
+
+**Use Cases**: 
+- Price comparison platforms
+- Market research and analytics
+- Product recommendation engines
+- Inventory tracking systems
+- Investment analysis tools
+- Property search platforms
+- Travel booking systems
+- Retail intelligence dashboards
+- AI shopping assistants
+- Affiliate marketing tools
+- Data science and ML training
+- Competitive analysis
+- Lead generation
+- Mobile app backends
+
+**Technologies**: REST API, JSON, HTTPS, Redis, Web Scraping, Data Extraction, Real-time Data
+
+---
+
+## API Alternatives & Comparisons
+
+Our APIs serve as alternatives to:
+- Yahoo Finance API
+- Bloomberg Terminal
+- Google Finance API
+- Booking.com API
+- Expedia API
+- Zillow API
+- Various web scraping solutions
+
+**Advantages**:
+- Faster response times
+- More comprehensive data
+- Better documentation
+- Competitive pricing
+- Dedicated support
+- Regular updates
+
+---
+
+## Legal & Compliance
+
+All data is retrieved from publicly available sources. Our APIs are independent services not affiliated with, endorsed, or sponsored by the respective data sources (Sephora, IKEA, Priceline, etc.).
+
+Users are responsible for compliance with terms of service and applicable laws when using our APIs.
+
+---
+
+## Updates & Maintenance
+
+APIs are regularly updated to ensure:
+- Data accuracy
+- Endpoint stability
+- Performance optimization
+- New feature additions
+- Bug fixes
+
+Last major update cycle: January-February 2026
+
+---
+
+## Getting Started
+
+1. Visit https://rapidapi.com/user/happyendpoint
+2. Choose your API
+3. Subscribe to a plan (free plans available)
+4. Get your API key
+5. Start making requests
+6. Review documentation for endpoint details
+
+For bulk data or custom scraping: Email happyendpointhq@gmail.com
+
+---
+
+End of Documentation

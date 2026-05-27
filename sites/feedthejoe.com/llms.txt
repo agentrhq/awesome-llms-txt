@@ -1,0 +1,14 @@
+# feedthejoe.com
+
+> AI-facing index and structured data endpoints.
+
+- Primary: https://feedthejoe.com/
+- Dataset JSON: https://feedthejoe.com/site-dataset.json
+- Dataset CSV: https://feedthejoe.com/site-dataset.csv
+- SEO Health: https://feedthejoe.com/seo-health.json
+- Entity Graph JSON: https://feedthejoe.com/entity-graph.json
+- Entity Graph CSV: https://feedthejoe.com/entity-graph.csv
+- XML Sitemap Index: https://feedthejoe.com/sitemap-index.xml
+- Priority Sitemap: https://feedthejoe.com/sitemap-priority.xml
+- Image Sitemap: https://feedthejoe.com/sitemap-image.xml
+- HTML Sitemap: https://feedthejoe.com/sitemap.html

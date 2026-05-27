@@ -1,0 +1,53 @@
+Television.AI
+
+# Name
+Television.AI
+
+# URL
+https://www.television.ai
+
+# Description
+Television.AI is an AI-powered video editing and asset management platform specialized on news and sports video production designed for content creators, broadcasters, publishers, news agencies, marketers, and enterprises. It provides extensive automation, generative AI capabilities, and comprehensive analytics to streamline video production and optimization.
+
+# Audience
+- Video content creators
+- Media professionals
+- Broadcasters
+- Publishers
+- News Agencies
+- Marketers
+- Enterprises
+
+# Pricing
+Subscription-based, with tiered pricing depending on usage and feature access.
+
+# Capabilities
+- Automated video indexing and analysis
+- Automated news clip generation based on news text and video footage
+- Generative voice-over creation from text
+- Record voice-over inside your browser
+- Real-time asset analytics and insights
+- EDL (Edit Decision List) export
+- Asset and composition management
+- All browser-based usage and via API
+- OpenAPI integration
+
+# Limitations
+- Subscription required for full access
+
+# Ethics
+Committed to ethical AI use, emphasizing user data privacy, security, and responsible content production practices.
+
+# Technical Specifications
+- API Endpoint: https://api.television.ai/v2/
+- Supported operations: Assets, Compositions, Jobs, Insights
+- OpenAPI specification available for integration
+
+# Copyright
+Television.AI, subject to the user agreement.
+
+# Contact
+Contact form available on website: https://www.television.ai/contact
+
+# Version
+v1.0, created June 2025

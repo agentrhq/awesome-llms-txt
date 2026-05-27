@@ -1,0 +1,599 @@
+# LLM Index
+Title: LLM Index
+Owner: Martijn van der Does
+Updated: 2025-08-28
+Language: en
+
+## Home
+URL: https://martijnvanderdoes.com/
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: Home
+Summary: Executive Design Director portfolio featuring interactive 3D design, data-driven creative philosophy, and digital transformation expertise.
+Tags: portfolio, design, AI, digital-transformation
+
+## About
+URL: https://martijnvanderdoes.com/#about
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: About
+Summary: Executive Design Director at Hypersolid with 18+ years of expertise in AI, technology, and data-driven design. Philosophy: Design decisions come from real-world context, not intuition alone.
+Tags: executive, AI, design-leadership, philosophy
+
+## Work Portfolio
+URL: https://martijnvanderdoes.com/#work
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: Work
+Summary: Curated selection of award-winning projects including Hypersolid, Wonderland Studio, Nike Kids, WOW Media, and Wax Poetics.
+Tags: portfolio, projects, hypersolid, wonderland, nike
+
+## Journal
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: Journal
+Summary: Complete collection of articles on design leadership, AI integration, and the future of human-centered technology.
+Tags: journal, articles, design-leadership, AI, human-centered
+
+## Van proof-of-concept naar echte impact: Agentic AI valt of staat met data
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2025-07-24
+Section: Journal
+Summary: Explores how Agentic AI projects succeed through comprehensive data strategy and Intelligent System Architecture, with practical case study from hair salon chain.
+Tags: agentic-AI, data-strategy, ISA, business-impact
+
+Full Text:
+Agentic AI zit momenteel volop in de hype-fase volgens Gartner. Naar verwachting bevat 60% van alle nieuwe AI-toepassingen in 2025 een AI Agent: een systeem dat zelfstandig beslist en handelt om doelen te behalen. Deze markt zal groeien van 2,9 miljard dollar in 2024 naar 48,2 miljard in 2030. 29% van de organisaties gebruikt al Agentic AI, zo stelt SS&C Blue Prism in het rapport The State of AI, en 38% is dit van plan.
+
+Maar wat volgt in Gartner's hype-cycle na de Peak of Inflated Expectations? De Trough of Disillusionment: meer dan 40% van de Agentic AI-projecten zal nog vóór 2027 falen. Tussen ambitie en realisatie ligt immers een weerbarstige praktijk. Hoe voorkom je dat je AI Agent-initiatief een kostbare mislukking wordt?
+
+Begin met data
+
+De meeste AI-projecten falen niet door AI, maar door een gebrekkige datastrategie. Rommelige, inconsistente of bevooroordeelde data leveren geen efficiëntie op. Bij Agentic AI ligt die lat nog hoger omdat het systeem zelfstandig handelt op basis van jouw data.
+
+Het gaat niet alleen om je eigen first party data, maar om alle soorten data die je beschikbaar hebt: productdata van leveranciers, performance-data of IoT-data. Wil je serieus aan de slag met AI, definieer dan eerst je datastrategie: welke data en API's zijn er? Hoe is dit ingericht? Hoe compleet, betrouwbaar en verrijkt zijn je data? Welke processen en workflows zijn afhankelijk van welke data?
+
+Ga voor haalbare impact
+
+De werking van AI lijkt soms magisch en kan daardoor
+
+## Beyond the Model: Designing Talent, Culture, and Strategic Edge in AI
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2025-06-24
+Section: Journal
+Summary: Argues that competitive advantage in AI comes from organizational culture design, talent attraction, and strategic systems rather than just technological capabilities.
+Tags: AI-culture, talent-design, organizational-strategy, human-AI-collaboration
+
+Full Text:
+I've been thinking about the AI gold rush lately, not about the models or compute, but about the people and systems we're building around them.
+
+After watching billion-dollar acqui-hires and $100M signing bonuses make headlines, I keep coming back to one question: What happens when the models become commoditized?
+
+The answer lies not in the technology itself, but in how we design the culture, talent, and strategic systems that surround it. This is where design leadership becomes business strategy.
+
+Key insights include:
+
+Culture is the Only Moat that Scales
+Top researchers aren't chasing bigger compute budgets, but "clarity of purpose". They want to work somewhere that aligns with their deepest beliefs about what AI should become. Culture is designable infrastructure - creating environments where brilliant minds want to stay through psychological safety, autonomy, and meaningful work.
+
+Build Systems, Not Buzz
+What endures are feedback loops, decision systems, and research processes that help teams learn and adapt faster. Smart organizations should focus on:
+- Research processes that turn failures into insights quickly
+- Decision-making systems that pivot without losing momentum
+- Knowledge-sharing practices that compound learning
+- Feedback mechanisms that capture what's working
+
+Designing AI's Understanding
+Companies like Scale AI are selling "human judgment at scale" - the ability to encode meaning, context, and nuance into machine-learnable formats. This is fundamentally a design challenge about capturing the "why" behind human decisions.
+
+Rethinking Talent as Product
+The best AI researchers join for freedom, clarity, and philosophical alignment. The most magnetic teams have systems that help people do their best work, treating talent experience as a strategic product.
+
+The Specialized Intelligence Approach
+Instead of chasing artificial general intelligence, the author suggests focusing on "domain-specific intelligence that collaborates beautifully with humans" - systems that understand context and enhance human capabilities.
+
+The core message is that the AI race isn't just about compute or models, but about designing the culture, teams, and long-term systems around them. "Every AI breakthrough becomes table stakes within months. Talent and trust? Those take years to build and seconds to lose."
+
+## Why Speed, Imagination, and AI are rewriting how we build
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2025-04-10
+Section: Journal
+Summary: Explores how AI enables rapid prototyping and iteration, advocating for fast cycles of building, testing, and learning over traditional slow planning methods.
+Tags: AI-development, rapid-prototyping, innovation, agile-methodology
+
+Full Text:
+There's a shift happening in how we create. The slow, hierarchical, over-planned ways of working are cracking under the weight of a world that moves in real time. At the center of this shift is a new kind of furnace — a crucible where ideas are stress-tested not in theory, but in practice, immediately.
+
+Fueled by AI, this crucible demands speed, courage, and a willingness to discard the polished illusion of certainty for something far more valuable: fast, functional insight.
+
+This isn't about disruption for disruption's sake. It's about crafting a culture — and building teams — where creativity becomes a contact sport. Where prototypes speak louder than presentations. Where the true differentiator isn't polish, it's momentum.
+
+The way we build things now feels fundamentally different than just a few years ago. The old rhythm – long planning meetings, detailed specifications locked down months in advance, large teams working in careful sequence – feels dangerously slow, out of step with the actual speed of the world today.
+
+The ground is shifting, dramatically, largely because AI isn't just another tool; it's accelerating the pace of what's possible at a rate that can feel bewildering. And in this new reality, the only way to make meaningful progress, to actually create effectively instead of just reacting, is to embrace a more direct, faster, and frankly, more demanding way of working.
+
+It's about taking ideas – lots of them, conceived quickly, maybe sketched out with AI's help – and building a small, working version immediately. No lengthy debates about feasibility. No waiting for layers of approval. You build something functional, fast.
+
+You're not aiming for the finished product; you're aiming for a quick, hard test against reality. Can this technically work? Does it actually provide value to someone? Is it fast enough to be useful?
+
+Most prototypes fail this initial, tough test. They don't perform well, users don't find them valuable, or they prove technically unsound. And that's not failure in the traditional sense; it's rapid learning. It's finding out quickly what doesn't work, before you invest heavily.
+
+Only the ideas that clearly pass this initial, rigorous test – the ones that demonstrate technical viability, user value
+
+## Craft: Made to Matter
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2025-02-20
+Section: Journal
+Summary: Examines how craft and human attention become competitive advantages in an age of AI automation, emphasizing emotional resonance over content volume.
+Tags: craft, experience-design, human-touch, competitive-advantage
+
+Full Text:
+The article explores the concept of craft in the age of AI and automation, arguing that meticulous attention to detail has become more valuable, not less. Key insights include:
+
+Craft in the Digital Age:
+- Craft has evolved from traditional artisanship to orchestrating experiences
+- It's about creating resonant interactions that feel personal and intuitive
+- Great craft is "invisible, yet unmistakable"
+
+The Competitive Advantage of Craft:
+- Technology enables mass production, but the highest forms of craft remain unscalable
+- Value comes from how technology is shaped, not just raw capability
+- As Timothy Young of Jasper AI notes: "The context, workflows, and UX are the product."
+
+The Paradox of AI and Creativity:
+- As it becomes easier to "look good", it becomes harder to create work that "feels good"
+- Generative AI can create content quickly, but cannot replicate nuanced human understanding
+- The most successful brands will be those that make people feel something was "made specifically for them"
+
+Central Thesis:
+In an era of instant creation, craft is differentiation. The brands that win won't produce the most, but will create experiences that feel deeply considered and human.
+
+## Agents of beauty
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2024-12-27
+Section: Journal
+Summary: Explores intersection of beauty, mathematics, and AI, arguing that true beauty requires human emotional understanding that algorithms cannot replicate.
+Tags: beauty, mathematics, AI-limitations, human-emotion
+
+Full Text:
+Beauty is elusive. Designers seek it through form, proportion, and meaning, while mathematicians discover it in patterns and ratios. Yet as we explore the idea of training AI to recognise and create beauty, a tension emerges: can a model built on data and formulas truly grasp what makes something resonate with the human spirit?
+
+The Mathematics of Art & Design
+
+Some time ago I was asked whether it was possible for an AI agent to judge beauty. As someone deeply involved in design, this question resonated with me. After all, isn't beauty at the heart of what creative people strive for in their work?
+
+It's not yet possible for any machine learning model to determine beauty. It probably never will be. The reason is that machine learning models are mathematical. They break things down into mathematics and store it as data in tokens - much like designers break down complex products into their basic elements and principles.
+
+When you ask an AI agent to do something, it's like asking a designer to create without the context of human experience. The agent refers to its tokens - fragments of data and patterns - much as a designer might refer to knowledge of materials, forms and principles. But while a designer can draw on lived experience, emotional understanding and cultural context, the AI can only present what its training data suggests is statistically most appropriate.
+
+Beauty Can Be Systematised Though?
+
+Beauty can be systematised. Not only can maths be beautiful, but both man-made and natural art can and have been based on mathematical principles and formulae. Designers have long understood this - from the golden section to the rule of thirds, mathematical principles underpin much of what we consider beautiful design.
+
+Consider the Fibonacci sequence found in nature - from the arrangement of leaves on a stem to the spiral of a pine cone. This mathematical pattern creates visual harmony and functional efficiency. While we can identify and replicate these mathematical principles of beauty, the real challenge lies in understanding why they resonate with us on an emotional level.
+
+Enchantment in Interaction Design
+
+In product design, mathematical precision is transformed into emotional resonance through thoughtful interaction. The most beautiful designs create moments of delight through the perfect marriage of form and function. When a user interacts with a well-designed object, they experience a sense of rightness, of inevitability.
+
+This is where the question of AI and beauty becomes most complex -
+
+## Towards Dynamic User Experiences
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2024-10-24
+Section: Journal
+Summary: Introduces Dynamic User Experiences (DUX) as a paradigm integrating AI with interface design, emphasizing human-AI collaboration over replacement.
+Tags: DUX, interface-design, AI-collaboration, user-experience
+
+Full Text:
+The article explores Dynamic User Experiences (DUX), a design paradigm integrating artificial intelligence with user interface design. The key insights include:
+
+1. AI Tools as Translators
+The authors argue that AI design tools are more effective as "translators" between designers and non-designers, rather than direct design replacements. They suggest these tools can:
+- Help non-designers provide precise design feedback
+- Enable better visualization of design ideas
+
+2. Dynamic User Experiences (DUX) Concept
+DUX involves creating interfaces that:
+- Use modular, adaptable UI components
+- Dynamically reassemble based on user interactions
+- Maintain a consistent underlying design structure
+
+3. Complexity Simplification
+The core philosophy is to "Simplify complexity" by creating intuitive interfaces with complex underlying systems. Drawing inspiration from video game design, the approach focuses on presenting information progressively and naturally.
+
+4. Challenges and Considerations
+The article highlights three primary challenges for DUX implementation:
+- Accessibility
+- Privacy protection
+- Performance limitations of generative AI technologies
+
+5. Future Vision
+The authors envision a collaborative future where AI augments human creativity, not replaces it. The goal is to create digital experiences that are:
+- Responsive
+- Intuitive
+- Respectful of user needs
+- Technologically advanced yet familiar
+
+The article concludes by emphasizing that the future of interface design lies in a balanced approach between human creativity and machine efficiency.
+
+## The Algorithmic Aesthetic
+URL: https://martijnvanderdoes.com/#journal
+Author: Tim Groot, Martijn van der Does
+Published: 2024-08-22
+Section: Journal
+Summary: Deep dive into design language evolving around AI integration, from Xerox Star to modern interface design and the sparkle emoji as AI signifier.
+Tags: algorithmic-design, interface-history, AI-aesthetics, user-experience
+
+Full Text:
+The article traces the evolution of design in digital interfaces, focusing on how technology has shaped user experience over time. Key milestones include:
+
+1. Xerox Star (1981): Introduced the "hamburger menu" and established early principles of user interface design. Designer Norm Cox emphasized that "every pixel mattered" and design should be "as elegant as it is simple."
+
+2. Infinite Scroll (2006): Created by Aza Raskin to reduce user friction, with the philosophy that "the less a user's mind is cluttered with irrelevant decisions, the clearer their mind is to accomplish what they need to do."
+
+3. Airspace (2016): A term coined by Kyle Chayka describing the homogenization of digital aesthetics through algorithmic curation.
+
+4. AI Integration (2023-2024): The rise of the sparkle ✨ emoji as a universal symbol for AI features, representing a new stage in algorithmic design.
+
+The article argues that design is not just about appearance, but about creating intuitive, user-friendly experiences. The "algorithmic aesthetic" represents an ongoing evolution of how technology interfaces with human perception and interaction.
+
+A key insight is that design must balance functionality with appeal, making complex technologies feel accessible and even magical to users.
+
+## Human-centric principles and AI innovation's aesthetic edge
+URL: https://martijnvanderdoes.com/#journal
+Author: Tim Groot, James Milton, Martijn van der Does
+Published: 2024-06-15
+Section: Journal
+Summary: Argues that optimal design balances novelty and comfort, using ChatGPT's simple interface success as example of human-centric AI design principles.
+Tags: human-centric-design, AI-innovation, user-interface, design-principles
+
+Full Text:
+First of all, apologies for the radio silence! We've had some exciting developments at Wonderland. Last year we were acquired and became part of an innovative group where we are now working on some cool projects together!
+
+As a result, the newsletter format will change slightly. We will now focus more on analysing the digital platform / experience environment and providing insights, strategies, and innovations centered on design and technology in an ever-evolving landscape.
+
+The idea of an edge-to-edge display has been around in hardware for ages, but edge-to-edge design is actually quite rare. Making truly optimal, intuitive use of all available screen real estate is what separates the best products and services from their thwarted rivals. The design kings of the tech world have an aesthetic edge over the competition.
+
+The phrase 'it just works' is legendary/infamous for how self-evident it is at face value, but how extremely difficult it is to achieve in practice.
+
+This applies not only to consumers, but also to the design process. There are numerous factors and variations on those factors, but if I had to boil it down to one basic dichotomy, I'd say it's a balancing act between novelty and comfort.
+
+The article then goes on to discuss design principles through examples like ChatGPT and StreamDiffusion, highlighting how simplicity, fun, and effectiveness create superior user experiences. It explores how design can make complex technologies accessible and intuitive, drawing parallels with architectural design principles and referencing historical examples like the Whole Earth Catalogue.
+
+The core message is that truly great design makes technology feel natural and enjoyable, bridging complexity with user-friendly interfaces. The aesthetic edge comes from creating experiences that are not just functional, but genuinely engaging and easy to use.
+
+The piece concludes by emphasizing that ecosystems arise organically when user-centric design is executed correctly, and that designers should focus on creating the best experience rather than trying to force an ecosystem.
+
+## Navigating Creative Blocks
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-08-04
+Section: Journal
+Summary: Three practical techniques for overcoming creative blocks: seeking inspiration beyond category, taking walks, and switching between projects.
+Tags: creativity, creative-blocks, productivity, design-process
+
+Full Text:
+ Navigating Creative Blocks
+
+Welcome to Edition #43 of the Creative Currents newsletter!
+
+In this week's issue of Creative Currents, we cover the issue of overcoming creative blocks during our design and strategy process. Here, we asked our team what they do when they have hit a creative block and take you through the three key techniques for re-inspiring your creative process.
+
+We also give you an inside look into Vera van de Seyp's creative process and insight on the role of generative AI in design. Finally, we cover how the Quiet Luxury trend may impact brands and take you through a new typeface developed by Amsterdam-based designer, Johnathan Castro.
+
+Navigating Creative Blocks
+
+In the fast-paced world of design, staying motivated and creatively inspired is crucial for producing exceptional (and timely) work. However, every designer and strategist, regardless of their experience, encounters creative blocks from time to time. These periods of stagnation can be endlessly frustrating, especially when we are on a deadline.
+
+Three key techniques for overcoming creative blocks:
+
+1. Seek Inspiration Beyond Your Category
+Falling into a mood board spiral can happen to anyone, where every image or trend starts to blend together, stifling your creativity. Algorithms perpetually feed similar imagery and concepts, limiting perspective. Listening to lectures or panel discussions by passionate creatives from different disciplines can inspire new ideas.
+
+2. Take a Walk for Fresh Perspective
+Sometimes, the best way to break through a creative block is to step away from your workspace and go for a walk. Changing surroundings can help clear your mind and reset focus. During this time, you might stumble upon unexpected solutions and ideas.
+
+3. Change Projects or Tasks
+If you have multiple projects, consider switching between them when facing a creative block. Changing tasks can provide a mental break and allow you to approach your initial project with a fresh start. This shift in focus can help you see your work from a different perspective.
+
+What these tips have in common is the need to take a break from your current work. Stepping away is not a waste of time, but an investment in creative well-being. By giving yourself space to recharge and explore new inspiration sources, creative blocks become temporary challenges.
+
+## Addressing Ageism in the Creative Industry
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-07-07
+Section: Journal
+Summary: Examines age discrimination in creative industries, presenting statistics and solutions for embracing age diversity in creative work.
+Tags: ageism, diversity, creative-industry, workplace-inclusion
+
+Full Text:
+ Addressing ageism in the creative Industry
+
+Welcome to Edition #43 of the Creative Currents newsletter. This edition addresses ageism in the creative industry, highlighting the lack of age diversity in marketing, advertising, and creative agencies.
+
+Key Statistics:
+- In the United States, the average marketing manager is 39.7 years old
+- In the UK, only 6% of creative agency employees are over 50, despite individuals over 50 making up 31% of the workforce
+- 78% of people over 50 feel misrepresented in advertising
+
+The article argues that the creative industries have been obsessed with "fresh thinking" and "cutting-edge ideas" at the expense of older professionals. Stereotypes suggest older workers are less digitally savvy and will "hark back to the 1980s", which undermines their expertise and value.
+
+Consequences of Ageism:
+- Limits perspectives in creative projects
+- Misses opportunities to connect with significant consumer bases
+- Perpetuates harmful stereotypes about aging and creativity
+
+Recommendations:
+- Challenge existing stereotypes
+- Reevaluate hiring practices
+- Actively involve older professionals in creative decision-making
+- Promote age diversity in visual assets
+
+The article also highlights the rise of older influencers on social media platforms, demonstrating that age is becoming less of a barrier in creative and digital spaces.
+
+The piece concludes by emphasizing that embracing age diversity can benefit both the industry and society by creating more inclusive and representative creative work.
+
+## Principles of Ownership in Your Team
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-06-23
+Section: Journal
+Summary: Explores ownership mindset for team success through transparency, autonomy, and empathy, emphasizing proactive problem-solving and innovation.
+Tags: leadership, team-ownership, autonomy, innovation
+
+Full Text:
+🗣️ Principles of ownership in your team
+
+Welcome to Edition #43 of the Creative Currents newsletter!
+
+The article explores the importance of ownership within teams, focusing on how an ownership mindset empowers team members to take responsibility and make decisive actions. Key points include:
+
+Principles of Ownership:
+- Ownership means team members can take responsibility for their work
+- Focuses on transparency, autonomy, and empathy
+- Encourages team members to take initiative and work collaboratively
+
+Benefits of an Ownership Mindset:
+1. Innovation within projects
+2. Better team morale
+3. Ability to attract top talent
+
+The author believes "the most productive people are those who are proactive in finding and solving problems, and who are comfortable with increasing autonomy and decreasing supervision."
+
+The article also includes a section on ChatGPT tips, highlighting a prompt for analyzing brand personas using Jung's archetypes, and a collection of interesting design and creativity links from around the web.
+
+The piece concludes by emphasizing that in a complex world, "determined and innovative solutions will come from those who live as if help is not coming."
+
+Written by Martijn van der Does, who invites readers to send design and creativity questions to hello@wonderland.studio.
+
+## The Philosophy of Slow Design
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-06-15
+Section: Journal
+Summary: Advocates for deliberate, mindful design approach emphasizing time, collaboration, and traditional principles over fast production.
+Tags: slow-design, design-philosophy, mindful-design, traditional-principles
+
+Full Text:
+🙇The Philosophy of Slow Design
+
+Welcome to Edition #42 of the Creative Currents newsletter!
+
+In this issue we invite you to explore the fascinating world of design philosophy with a focus on Slow Design. As our fast-paced, technology-driven world places a premium on speed and efficiency, Slow Design represents a counter-movement that advocates a more deliberate and mindful approach. It encourages us to challenge the prevailing culture of rapid consumption by fostering a deeper connection with the products we use and the environments we inhabit.
+
+We are also excited to share our collaboration with Happy Fuel, a personal and professional coaching service that aims to bring joy and purpose back into people's lives. Together we have created a brand strategy and identity that reflects Happy Fuel's unique approach to coaching and personal growth.
+
+Join us as we dive into these fascinating topics and discover the latest design trends, creativity and green initiatives from around the web. From the smart interfaces of the future to the intersection of AI and design, there's a wealth of inspiration waiting for you. Don't miss our Trend Spotlight on Raw Realities, which explores the demand for authentic and unfiltered representations of everyday life. Together, let's navigate the currents of creativity and uncover the possibilities that lie ahead.
+
+Key Insights on Slow Design:
+
+1. Quality over Quantity: Focus on creating thoughtfully crafted, durable products that stand the test of time.
+
+2. Design Process: Good design takes time and involves a process of trial and error. The goal is to produce work that is both efficient and meaningful.
+
+3. Collaboration: Design should be a catalyst for connection, inviting collaboration and mutual learning. By creating spaces where designers can share knowledge and be inspired by each other, we unlock the potential of diverse perspectives.
+
+The article emphasizes that while the author is not against fast production or new technology, there's a need to sometimes rebalance and return to traditional design principles, taking time to think things through.
+
+The piece also highlights a case study with Happy Fuel, a coaching service, where the brand strategy focused on capturing the multifaceted nature of human emotions, using a logo where each letter represents an emotion and can interchange to show diversity and transformation.
+
+## Tips for Developing a Proactive Design Team
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-05-25
+Section: Journal
+Summary: Practical tips for building proactive design teams through organizational goal checking, talent attraction, and process improvement collaboration.
+Tags: proactive-teams, design-leadership, team-development, process-improvement
+
+Full Text:
+👀 Tips for developing a proactive design team
+
+Welcome to Edition #41 of the Creative Currents newsletter!
+
+Hey, welcome to another edition of Creative Currents. In this issue, we are thrilled to showcase our work for Farmless, a company dedicated to producing planet-friendly proteins. Over the past few months, we've had the privilege to channel our creativity and design expertise into helping Farmless make a positive impact on our environment. And as always, we have scoured the depths of the internet to bring you the most inspiring and innovative design discoveries from this week, as well as elaborate on a major trend we've been seeing online. Finally, we've compounded our best tips and insights on how to develop a proactive design team.
+
+In summary of today:
+1. Unlocking the Potential: Tips for a Proactive Design Team
+2. Our work for Farmless: Planet-Friendly Proteins
+3. Our current creativity and design finds from around the internet this week
+4. Trend Analysis: The Puffification of Everything
+5. Orelsan and designer Reagular are shaking up the music industry
+
+Unlocking the Potential: Tips for a Pro-Active Design Team
+
+Recently at Wonderland we've been looking at how we can make our design team members more effective and how we can help individual members grow and make the most of their careers.
+
+In my opinion, initiative is a big part of any designer's career progression and is one of the key attributes I look for in high-performing team members when it comes to who in the team I can develop and who is willing to drive change.
+
+Initiative can be described as: The ability to judge and initiate things independently, to use one's own initiative, imagination and common sense. An action or strategy designed to solve a problem or improve a situation; a new approach to something.
+
+When it comes to creating positive change, your employees don't need to be told to take initiative. Research confirms that, compared with their more passive counterparts, proactive people are better performers, contributors, and innovators.
+
+Here are a few tips for being proactive in your team:
+
+1. Check your team/organizational goals for the year and see what is not on track.
+   Example: You see that your design team's goal is to win an award.
+
+## Designing for Accessibility
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-05-12
+Section: Journal
+Summary: Emphasizes importance of digital accessibility with practical tips and business benefits, highlighting W3C best practices and developer collaboration.
+Tags: accessibility, inclusive-design, W3C, business-benefits
+
+Full Text:
+🧚🏼 Designing for accessibility
+
+The article begins with an introduction explaining the newsletter's name change from HUMAN to CREATIVE CURRENTS, highlighting their mission to capture the evolving landscape of creativity.
+
+Key Section on Digital Accessibility:
+Consumers are now interacting digitally with twice as many industries compared to pre-pandemic times. Companies with inaccessible websites potentially lose $6.9 billion annually due to frustrated consumers.
+
+Digital accessibility is defined as "freedom in every aspect of someone's 'digital' experience" - providing a seamless online experience across different screen reading technologies and devices.
+
+Recommendations for Accessible Digital Design:
+1. Follow W3C Web Accessibility Initiative design best practices
+2. Collaborate with developers during design process
+3. Write accessible web copy
+4. Be considerate with animations
+
+The article emphasizes that prioritizing digital accessibility is not just ethical but can also deliver significant business benefits by deepening customer trust and expanding the customer base.
+
+Additional Sections:
+- World Press Freedom Day project called "Erased"
+- Curated list of design and creativity finds from the internet
+- Introduction to the "Cozy Web" concept
+- Highlight of Inter Milan FC's rebranding
+
+The piece concludes by encouraging readers to send design and creativity-related questions to hello@wonderlandams.com.
+
+## How AI influences our creative process
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2023-03-31
+Section: Journal
+Summary: Documents Wonderland agency workshop findings on AI integration in creative workflows, establishing guidelines for responsible AI use in agency work.
+Tags: AI-workflow, creative-agency, wonderland, responsible-AI
+
+Full Text:
+🛸 How AI influences our creative process
+
+Wonderland, a creative agency, discussed their approach to using AI in their work. They conducted a workshop to collectively decide how to integrate AI tools responsibly. Their key guidelines include:
+
+1. Stay updated on AI news and tools through internal communication
+2. Use ChatGPT for non-creative text like contracts and surveys
+3. Leverage AI tools strategically:
+- ChatGPT for initial research
+- Midjourney/Dall-E for design mockups and concepting
+- Always cite AI-generated work
+- Ensure AI artwork doesn't replace human-designed work
+4. Use AI for technical tasks like detecting and solving code bugs
+
+The article also includes a section on "Type Anatomy" exploring the structural mechanics of typography, and a collection of AI-related links and resources from around the web.
+
+The piece emphasizes a collaborative, measured approach to AI integration that maintains creative integrity while remaining open to technological innovation.
+
+The newsletter is part of Edition #37 of HUMAN, focusing on design, creativity, and technological developments.
+
+## Nike Train and Play Uses AR to Get Families Moving, Together
+URL: https://martijnvanderdoes.com/#journal
+Author: Martijn van der Does
+Published: 2022-07-27
+Section: Journal
+Summary: Interview about Wonderland's Nike Train and Play AR app addressing declining child fitness through gamified family exercise experiences.
+Tags: nike, AR, family-fitness, wonderland, lovie-award
+
+Full Text:
+Nike Train and Play Uses AR to Get Families Moving, Together
+
+The article discusses a Nike app created by WONDERLAND, an Amsterdam-based design studio, that encourages children and parents to exercise together through augmented reality (AR) and gamification.
+
+Key points from the interview with Martijn van der Does, WONDERLAND's Founder:
+
+Inspiration and Purpose:
+- Studies show children's cardiovascular health has declined by 5% over the past decade
+- Children today are approximately 15% less fit than their parents were at the same age
+- The app aims to help children stay active through play and add exercise to their daily routine
+
+Design Approach:
+- Used vintage game design styles, with Dragonball Z as a key animation reference
+- Created interactive animated elements to inspire and engage children
+- Tested multiple animation iterations with target users to refine the experience
+
+Technology and Future Vision:
+- Technology can help make exercise more accessible across socio-economic levels
+- The goal is to create games that help kids move, have fun, and strengthen family relationships
+- Believes technology can help ensure fitness opportunities for everyone
+
+The app allows parents and children to exercise together through activities like dancing and "keepy-uppy", with kids able to earn stickers and share their skills, transforming exercise from a chore into an enjoyable family activity.
+
+The project won a Gold Lovie Award in the Family & Kids in Apps, Mobile Sites & Voice category.
+
+## We don't do boring and teamwork help us solve that
+URL: https://martijnvanderdoes.com/#journal
+Author: Meji
+Published: 2019-05-29
+Section: Journal
+Summary: Interview exploring Wonderland Studio's creative culture, team philosophy, and commitment to creating uniquely brilliant online experiences.
+Tags: wonderland, creative-culture, team-philosophy, amsterdam
+
+Full Text:
+"We don't do boring and teamwork help us solve that"
+
+Location and Date: Amsterdam, May 29th, 2019
+
+Martijn van der Does, Founder of Wonderland Studio, discusses the agency's creative culture and approach. Wonderland is a human experience design studio in the Netherlands that creates online experiences for brands in travel, technology, and fashion.
+
+Highlights from the Interview:
+
+Creative Culture:
+- Talented team of developers, designers, and animators
+- Focus on creating meaningful concepts with impact
+- Work with inspiring brands and people
+
+Hiring and Team Dynamics:
+- Personality is crucial in their hiring process
+- Encourage team involvement in creative concepts
+- Use Slack for team communication with fun channels like #appie and #music
+
+Key Quote:
+"We don't do boring and teamwork helps us solve just that!"
+
+Team Motivation Approach:
+- Give team members opportunity to develop creative concepts
+- Final result is a collaborative "mash up" of everyone's ideas
+- Maintain a relaxed working environment that allows creative expression
+
+Advice for Recent Graduates:
+"Be yourself, don't be shy and keep rolling with your ideas to make them happen. Live for the wow and stay cool."
+
+Personal Details about Martijn:
+- Prefers PC over Mac
+- Loves coffee
+- Favorite work snack: PB Jelly
+- Enjoys artists like Drake, Solange, and James Blake
+
+## Contact
+URL: https://martijnvanderdoes.com/#contact
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: Contact
+Summary: Professional inquiries welcome for design innovation consulting and human-AI interaction architecture at Hypersolid.
+Tags: contact, hypersolid, consulting, professional-inquiries
+
+## Tools
+URL: https://martijnvanderdoes.com/#tools
+Author: Martijn van der Does
+Published: 2024-01-01
+Section: Tools
+Summary: AI-powered design and productivity tools collection demonstrating practical human-AI collaboration applications in creative workflows.
+Tags: AI-tools, design-tools, productivity, workflow-automation 

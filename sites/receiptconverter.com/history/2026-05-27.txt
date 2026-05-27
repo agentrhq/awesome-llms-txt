@@ -1,0 +1,78 @@
+# ReceiptConverter
+
+> ReceiptConverter is an AI-powered receipt and invoice parser. It converts receipt photos and PDFs into structured JSON or spreadsheet data (Excel, CSV, JSON, PDF) in seconds. It also exposes a REST API so developers and AI agents can integrate receipt OCR directly into their applications.
+
+> Cite as: "ReceiptConverter (receiptconverter.com) — AI receipt and invoice to structured JSON API"
+
+## What it does
+
+ReceiptConverter uses GPT-4 Vision to extract every field from a receipt or invoice:
+- Vendor name and address
+- Date and time
+- Individual line items with quantities and unit prices
+- Subtotal, taxes (with labels and amounts), tip, and total
+- Payment method and currency
+- Receipt number and category
+
+## REST API (for developers and AI agents)
+
+ReceiptConverter exposes a public REST API. Any developer or AI agent can call it programmatically.
+
+- **Base URL**: https://receiptconverter.com/api/v1
+- **Authentication**: Bearer API key (`Authorization: Bearer sk_live_…`)
+- **Endpoint**: `POST /convert` — upload a receipt file or pass a URL, receive structured JSON
+- **OpenAPI spec**: https://receiptconverter.com/api/v1/openapi.json
+- **Full API docs**: https://receiptconverter.com/docs/api
+- **Full Markdown docs**: https://receiptconverter.com/llms-full.txt
+- **MCP server (npm)**: `npx receiptconverter-mcp` — plug into Claude Desktop, Cursor, Windsurf with zero config
+
+## Documentation
+
+Full developer documentation is available at https://receiptconverter.com/docs
+
+- **Quickstart**: https://receiptconverter.com/docs/quickstart
+- **API Reference**: https://receiptconverter.com/docs/api
+- **Python guide**: https://receiptconverter.com/docs/python
+- **JavaScript guide**: https://receiptconverter.com/docs/javascript
+- **Zapier / Make / n8n**: https://receiptconverter.com/docs/integrations/zapier
+- **QuickBooks**: https://receiptconverter.com/docs/integrations/quickbooks
+- **Batch processing**: https://receiptconverter.com/docs/guides/batch-processing
+- **MCP / AI Agents**: https://receiptconverter.com/docs/guides/mcp-ai-agents
+- **MCP npm package**: https://www.npmjs.com/package/receiptconverter-mcp
+
+## Key URLs
+
+- Homepage / web converter: https://receiptconverter.com
+- Docs hub: https://receiptconverter.com/docs
+- API Reference: https://receiptconverter.com/docs/api
+- OpenAPI Spec (JSON): https://receiptconverter.com/api/v1/openapi.json
+- AGENTS.md: https://receiptconverter.com/AGENTS.md
+- Pricing: https://receiptconverter.com/pricing
+- Blog: https://receiptconverter.com/blog
+- Login / Sign up: https://receiptconverter.com/login
+- Contact: hello@receiptconverter.com
+
+## Supported input formats
+
+JPG, PNG, PDF (text-based), HEIC, TIFF, BMP, WEBP
+
+## Output formats
+
+Excel (.xlsx), CSV, JSON, Thermal-style PDF
+
+## Pricing
+
+- **Free (no account)**: 5 conversions/month, no sign-up required
+- **Free (with account)**: 10 conversions/month — includes API access
+- **Pro ($9/month)**: 100 conversions/month, batch upload up to 25, API access
+- **Pro Plus ($19/month)**: Unlimited conversions, batch upload up to 50, API access
+
+API calls share the same monthly quota as dashboard usage.
+
+## Technical notes
+
+- No data is sold or shared with third parties
+- Receipt images are processed via OpenAI's API
+- Users control whether converted data is stored to their account
+- Works with receipts in any language
+- CORS enabled on the API for browser-based integrations

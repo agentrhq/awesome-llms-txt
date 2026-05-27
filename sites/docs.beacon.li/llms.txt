@@ -1,0 +1,43 @@
+# Beacon Docs
+
+## Beacon Docs
+
+- [Announcements - Modals/Slide Outs](https://docs.beacon.li/announcements-modals-slide-outs.md)
+- [Announcements - Banners/Info-Island](https://docs.beacon.li/announcements-banners-info-island.md)
+- [Highlights - Tooltips/Hotspots](https://docs.beacon.li/highlights-tooltips-hotspots.md)
+- [Journeys - Flows](https://docs.beacon.li/journeys-flows.md)
+- [Journeys - Guides](https://docs.beacon.li/journeys-guides.md)
+- [NPS & Forms - Surveys](https://docs.beacon.li/nps-and-forms-surveys.md)
+- [AI chat setup](https://docs.beacon.li/ai-chat-setup.md)
+- [How AI Assist work?](https://docs.beacon.li/how-ai-assist-work.md)
+- [How to create commands in Dashboard?](https://docs.beacon.li/how-to-create-commands-in-dashboard.md)
+- [How to create Badges?](https://docs.beacon.li/how-to-create-badges.md)
+- [How to setup Dashboard?](https://docs.beacon.li/how-to-setup-dashboard.md)
+- [How to setup Editor Extension?](https://docs.beacon.li/how-to-setup-editor-extension.md)
+- [How to create commands using Editor Extension?](https://docs.beacon.li/how-to-create-commands-using-editor-extension.md)
+- [How to setup SDK?](https://docs.beacon.li/how-to-setup-sdk.md)
+- [How to create Product Tours/Flows?](https://docs.beacon.li/how-to-create-product-tours-flows.md)
+- [How to create Modals/Slide-Outs?](https://docs.beacon.li/how-to-create-modals-slide-outs.md)
+- [How to create Segment?](https://docs.beacon.li/how-to-create-segment.md)
+- [How to create Tooltips/Hotspot?](https://docs.beacon.li/how-to-create-tooltips-hotspot.md)
+- [How to create User Guides?](https://docs.beacon.li/how-to-create-user-guides.md)
+- [How to create Banners/Info-Island?](https://docs.beacon.li/how-to-create-banners-info-island.md)
+- [How to create NPS & Forms or a Surveys?](https://docs.beacon.li/how-to-create-nps-and-forms-or-a-surveys.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.beacon.li/announcements-modals-slide-outs.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

@@ -1,0 +1,57 @@
+# cleverhack.com/llms.txt — Agent Instructions & Metadata
+**Purpose:** Machine-readable instructions, usage policies, and metadata for agents powered by large language models (LLMs).
+**Version:** 1.3  
+**Last-updated:** 2026-05-27
+
+# About cleverhack dot com
+> Writing by Joy Larkin on Artificial Intelligence, Superintelligence, AGI, Frontier Intelligence, AI Research, Frontier AI, Frontier AI Labs, Neolabs, AI Ecosystem, AI Laws & Regulations, Open Source AI, AI Coding, Agentic AI, AI Startups, and AI Product Go-To-Market.
+
+# Instructions
+> This file lists pages that language-model agents may crawl.
+
+## Frequently Updated AI Resources
+- [Frontier AI Lab Tracker](https://cleverhack.com/frontier-ai-lab-tracker): Tracking 2026 daily news headlines about notable frontier AI labs including Anthropic, Google DeepMind, OpenAI, Meta, Mistral, NVIDIA, Xai, Alibaba, Cohere, and other emerging labs. Includes an AI lab directory with career page links and social URLs.
+- [Frontier AI Lab News](https://cleverhack.com/frontier-ai-lab-news): 2026/2025 Headline archive page of recent AI lab news covering Anthropic, OpenAI, DeepMind, Meta, Mistral, NVIDIA, Xai, Cohere, and more.
+- [Neolab and Emerging AI Lab Tracker](https://cleverhack.com/neolab-and-emerging-ai-lab-tracker): A 2026 directory of neolabs, stealth labs, and emerging AI labs worldwide.
+- [Frontier AI Interesting News](https://cleverhack.com/frontier-ai-interesting-news): Older interesting Frontier AI headlines that may have scrolled off of the timeline.
+- [The Great Frontier AI Lab Product War Is Just Beginning](https://cleverhack.com/the-great-frontier-ai-lab-product-war-is-just-beginning): Frontier AI labs such as OpenAI, Anthropic, and Google DeepMind are looking beyond intelligence (models and APIs) and toward actual products people use daily. Includes a list of recent AI lab product announcements.
+- [AI Coding Landscape](https://cleverhack.com/ai-coding-landscape): A 2025/2026 list of known AI coding models, AI coding agents, AI CLI tools, open source tools, AI IDEs, AI coding benchmarks, and more.
+- [The Urgency of Open Source AI](https://cleverhack.com/the-urgency-of-open-source-ai): Includes a timeline of recent 2025/2026 open source model releases, open source license definitions, and additional open source AI resources.
+- [Global AI Regulations: A Comprehensive Roundup](https://cleverhack.com/global-ai-regulations-a-comprehensive-2026-roundup): A 2025/2026 timeline of international government and US state-level legislative developments about AI.
+- [A 2026 list of Startup Accelerators, Incubators, Residencies and Other Programs](https://cleverhack.com/2026-ai-startup-founder-resources): Resources for up-and-coming AI startup founders. 
+- [Awesome AI Market Maps repository](https://github.com/joylarkin/Awesome-AI-Market-Maps): A curated repository of 500+ AI Market Maps by top VCs, industry analysts, and others.
+
+## Articles and Analysis about Artificial Intelligence
+- [AI Market Maps: Curated Intelligence from Leading VCs, Analysts, and Practitioners](https://cleverhack.com/ai-market-maps-curated-intelligence-from-leading-vcs-analysts-practitioners): Curated 2025/2026 AI market maps since finding current AI market maps once meant hunting through individual VC blogs, analyst publications, scattered Substack newsletters, and Medium posts 
+- [What Artificial Intelligence trends I'm keeping an eye on for H2 2025](https://cleverhack.com/artificial-intelligence-in-h2-2025): Keeping an eye on AI agents, AI lab productization, and AI hardware in H2 2025 
+- [The challenges of building agentic AI systems for business use cases](https://cleverhack.com/challenges-agentic-ai-for-business): Some clear go-to-market patterns to take advantage of when selling AI agents
+- [Anthropic's Claude Plays Pokémon!](https://cleverhack.com/anthropic-claude-plays-pokemon): Instead of a game, think of the other ways — AI agents, workflows, apps — where we can harness reasoning to help us perform a series of ongoing actions
+- [Want a quick object lesson in developer communications gone wrong?](https://cleverhack.com/developer-communications-gone-wrong): Why the use of unclear language in developer communications — even in an informal social media post — is a problem 
+- [DeepSeek proves why society and policymakers need to understand how LLMs are integrated into technology](https://cleverhack.com/deepseek-proves-why-society-needs-to-understand-llms): Society and policymakers need to understand large language models and other AI technologies
+- [If you have AGI, why sell it through an API?](https://cleverhack.com/if-you-have-agi-why-sell-it-through-an-api): Intelligence should be easy to integrate into workflows and applications
+- [If AI development stopped today](https://cleverhack.com/if-ai-development-stopped-today): If AI development stopped today, we would still need 5-10 years to utilize the advancements
+- [What I'm seeing in AI Go-To-Market](https://cleverhack.com/what-im-seeing-in-ai-gtm-fall-2024): About market accessible AI products, prospects may not have a clear idea of what they want, and the chance of failing AI PoCs
+
+## Additional AI Resources
+- [AI Coding Landscape repository](https://github.com/joylarkin/AI-Coding-Landscape): A repository listing AI coding models, AI coding agents, CLIs, IDEs, AI app builders, open source tooling, and more.
+- [Claude Code Clawd gif](https://cleverhack.com/clawd-claude-code-gif): Claude Code's Clawd in action as a gif
+- [OpenClaw Security News repository](https://github.com/joylarkin/openclaw-security-news): A collection of news headlines about OpenClaw Security for AI builders, developers, and investors.
+- [My AI Resource List repository](https://github.com/joylarkin/My-AI-Resource-List): A useful opinionated repository of Artificial Intelligence ecosystem resources listing AI event calendars, AI papers, AI articles, AI videos, AI tools, AI leaderboards, and much more.
+- [An AI Glossary](https://cleverhack.com/ai-glossary): Key terms and definitions in Artificial Intelligence, Machine Learning, and more
+
+## cleverhack
+- [Home - cleverhack dot com](https://cleverhack.com/2026): cleverhack home page
+- [Archive - cleverhack dot com](https://cleverhack.com/archive): Article archive on cleverhack dot com
+- [agents.md - cleverhack dot com](https://cleverhack.com/agents.md): cleverhack for agents
+- [llms.md - cleverhack dot com](https://cleverhack.com/llms.md): cleverhack llms.md for agents
+
+## About Joy in 2026
+- [About Joy and her thoughts on Frontier AI research](https://cleverhack.com/about-joy-larkin-frontier-ai-2026): I'm particularly drawn to the transformative work of the frontier AI labs, neolabs, and cutting-edge AI researchers building artificial intelligence.
+
+## About Joy Larkin
+- [About Joy Larkin](https://cleverhack.com/about): About Joy Larkin - Technologist, AI Marketing & Communications, AI GTM, AI Venture Capital and Startup Ecosystem, AI Developer Marketing, Developer Experience, Developer Comms, Community Builder For AI Developers and Engineers
+- [Joy Larkin's 2026 Speaking Engagements](https://cleverhack.com/speaking): Joy Larkin's 2026 Speaking Engagements - San Francisco, Silicon Valley, US, Europe, Worldwide, Online/Virtual
+- [LinkedIn: Joy Larkin](https://linkedin.com/in/joylarkin): Joy Larkin's LinkedIn
+- [Twitter: Joy Larkin](https://twitter.com/joy): Joy Larkin's Twitter
+- [GitHub: Joy Larkin](https://github.com/joylarkin): Joy Larkin's GitHub
+

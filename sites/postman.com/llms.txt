@@ -1,0 +1,36 @@
+# Postman
+
+> Postman is the API platform for designing, testing, documenting, and monitoring APIs in one place, with seamless Git and API gateway integrations across the lifecycle.
+
+## Product
+
+- [Postman API Platform](https://www.postman.com/product/): Postman is the leading API platform for building, testing, and managing APIs. Empower your team to streamline the entire API lifecycle.
+- [Downloads](https://www.postman.com/downloads/): Try Postman for free! Join 40 million users who rely on Postman, the collaboration platform for API development. Create better APIs—faster.
+- [Pricing](https://www.postman.com/pricing/): Compare Postman pricing plans for individuals, teams, and enterprises. Build, test, and automate APIs with built-in AI, collaboration, and advanced governance tools.
+- [Postman Enterprise](https://www.postman.com/postman-enterprise/): Design, test, govern, and secure APIs at scale with an AI-native API platform that consolidates workflows and provides visibility across teams and environments.
+
+## Solutions
+
+- [Solutions](https://www.postman.com/solutions/): How Postman supports API-first development across teams and industries.
+- [AI](https://www.postman.com/ai/): Building AI-ready APIs and using Postman with LLMs and AI agents.
+- [API Platform](https://www.postman.com/api-platform/): Learn what an API platform is and how they enable teams to succeed in an API-first world by harnessing the full potential of APIs—whether they are private, partner, or public.
+
+## Resources
+
+- [Learning Center](https://www.postman.com/learn/): Learn how to build, test, and collaborate on APIs with Postman. Access free resources including docs, on-demand or instructor-led courses, and video tutorials, to create elegant APIs that actually get used.
+- [Templates](https://www.postman.com/templates/): Ready-to-use Postman collections, flows, and AI agents.
+- [Postman Best Practices](https://www.postman.com/postman-best-practices/): Recommended patterns for building, organizing, and managing APIs in Postman.
+- [API Glossary](https://www.postman.com/api-glossary/): Get a full list of common API and programming terms used by developers across the globe. Only from Postman, the world's leading API platform with over 40 million users.
+
+## Company
+
+- [About Postman](https://www.postman.com/company/about-postman/): Meet Postman's founders and learn about our platform, our customers, our investors, our locations, and more.
+- [Careers](https://www.postman.com/company/careers/): Interested in working at Postman? Learn about who we are, what we do, how we do it and get a list of our job openings.
+- [Security](https://www.postman.com/security/): Trusted by 98% of the Fortune 500, Postman's rigorous security program and adherence to global privacy regulations like GDPR and CCPA ensure data security.
+- [Legal](https://www.postman.com/legal/): From the Postman Terms of Service to our Privacy Policies and more, discover how Postman protects your data and privacy.
+
+## Optional
+
+- [API-First](https://www.postman.com/api-first/): Postman's Guide to API-First explores the API lifecycle and how organizations are implementing API-first initiatives.
+- [Postman vs. Alternatives](https://www.postman.com/alternatives/): Learn why Postman is the #1 API platform. Postman streamlines every stage of the API lifecycle, from first design to production, in a single, secure platform.
+- [Community](https://www.postman.com/community/): Programs and resources for the Postman developer community.

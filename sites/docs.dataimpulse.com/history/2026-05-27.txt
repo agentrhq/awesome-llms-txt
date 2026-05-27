@@ -1,0 +1,63 @@
+# DataImpulse
+
+## 🇺🇸 English&#x20;
+
+- [Welcome](https://docs.dataimpulse.com/readme.md)
+- [Proxies](https://docs.dataimpulse.com/proxies.md): Complete DataImpulse proxy documentation. Explore proxy types, connection methods, and best practices for residential, mobile, and datacenter IP configurations.
+- [Types of connections](https://docs.dataimpulse.com/proxies/types-of-connections.md): We offer two types of proxy connections: Rotating and Sticky.
+- [Protocols](https://docs.dataimpulse.com/proxies/protocols.md): The proxies support HTTP, HTTPS, and SOCKS5 protocols.
+- [Connection Hosts](https://docs.dataimpulse.com/proxies/connection-hosts.md): To connect proxies, you have two options for hostnames:
+- [Targeting](https://docs.dataimpulse.com/proxies/targeting.md): Master DataImpulse proxy targeting options. Configure country, city, ASN, session type, and more parameters to target the exact location you need.
+- [Default Targeting](https://docs.dataimpulse.com/proxies/targeting/default-targeting.md): Understand DataImpulse default proxy targeting behavior. Learn what location and parameters are used when no specific targeting is set in your proxy request.
+- [Target Filters](https://docs.dataimpulse.com/proxies/targeting/target-filters.md): Configure advanced target filters for DataImpulse proxies. Refine your proxy selection by country, city, ASN, and more for precise geo-targeting results.
+- [Parameters](https://docs.dataimpulse.com/proxies/parameters.md): Full reference of DataImpulse proxy parameters. Learn how to configure country, session, anonymity, ASN exclusion, and other targeting options via URL.
+- [Country](https://docs.dataimpulse.com/proxies/parameters/country.md): Use the country parameter with DataImpulse proxies to target a specific country. Full documentation on country codes, usage examples, and targeting behavior.
+- [Exclude Country](https://docs.dataimpulse.com/proxies/parameters/exclude-country.md): Learn how to use the exclude-country parameter in DataImpulse proxies to filter out specific countries from your proxy pool for more targeted IP selection.
+- [Exclude ASN](https://docs.dataimpulse.com/proxies/parameters/exclude-asn.md): Learn how to use the exclude-ASN parameter in DataImpulse proxies. Filter out specific autonomous systems from your proxy pool for better IP quality control.
+- [State](https://docs.dataimpulse.com/proxies/parameters/state.md): Traffic routed through this parameter is billed at double the standard rate
+- [ASN](https://docs.dataimpulse.com/proxies/parameters/asn.md): Traffic routed through this parameter is billed at double the standard rate
+- [ZIP](https://docs.dataimpulse.com/proxies/parameters/zip.md): Traffic routed through this parameter is billed at double the standard rate
+- [City](https://docs.dataimpulse.com/proxies/parameters/city.md): Traffic routed through this parameter is billed at double the standard rate
+- [Anonymous](https://docs.dataimpulse.com/proxies/parameters/anonymous.md): Learn how to use the anonymous parameter with DataImpulse proxies to request high-anonymity IPs that hide proxy usage from target servers. Full guide inside.
+- [Session Id](https://docs.dataimpulse.com/proxies/parameters/session-id.md): Learn how to use the session-id parameter with DataImpulse proxies to maintain sticky sessions and keep the same IP across multiple consecutive requests.
+- [Session Interval](https://docs.dataimpulse.com/proxies/parameters/session-interval.md): Understand the session-interval parameter in DataImpulse proxies. Control how frequently your IP rotates to balance anonymity and session continuity.
+- [Threads](https://docs.dataimpulse.com/proxies/threads.md): Learn how concurrent threads work with DataImpulse proxies. Understand thread limits, parallel connections, and how to optimize throughput for your use case.
+- [UDP](https://docs.dataimpulse.com/proxies/udp.md): Learn about UDP proxy support in DataImpulse. Understand use cases, configuration options, and limitations of UDP protocol for proxy connections.
+- [Authentication methods](https://docs.dataimpulse.com/authentication-methods.md): Explore all DataImpulse proxy authentication methods: username/password and IP whitelisting. Choose the right method for your use case and setup.
+- [User:pass authentication](https://docs.dataimpulse.com/authentication-methods/user-pass-authentication.md): Learn how to use username and password authentication with DataImpulse proxies. Generate credentials and connect in seconds from any device or app.
+- [Whitelist IPs](https://docs.dataimpulse.com/authentication-methods/whitelist-ips.md): Set up IP whitelisting for DataImpulse proxy authentication. Allow specific IPs to connect without credentials for seamless and secure proxy access.
+- [Port access](https://docs.dataimpulse.com/port-access.md): Learn about DataImpulse proxy port access configuration. Understand which ports are available and how to connect using HTTP, HTTPS, and SOCKS5 protocols.
+- [Blocked Websites](https://docs.dataimpulse.com/blocked-websites.md): DataImpulse blocked websites list: domains inaccessible via proxy servers to maintain network security, stability, and abuse prevention.
+- [Errors](https://docs.dataimpulse.com/errors.md): Troubleshoot DataImpulse proxy errors with our comprehensive error code reference. Understand what each error means and how to resolve connection issues fast.
+- [Resellers](https://docs.dataimpulse.com/resellers.md): DataImpulse reseller program documentation. Learn how to set up a white-label proxy business, manage sub-users, and configure your reseller account.
+- [Custom DNS host](https://docs.dataimpulse.com/resellers/custom-dns-host.md): Set a custom DNS host for your DataImpulse reseller business. Learn how to configure a branded proxy endpoint for your white-label proxy service customers.
+- [Manage SSL Certificates](https://docs.dataimpulse.com/resellers/manage-ssl-certificates.md): Learn how to manage SSL certificates for your DataImpulse reseller domain. Secure your white-label proxy endpoints with custom HTTPS certificate configuration.
+- [Deposit Calculation Update](https://docs.dataimpulse.com/resellers/deposit-calculation-update.md): Understand the DataImpulse reseller deposit calculation update. Learn how deposits are computed for your sub-users and how billing works for resellers.
+- [Target Filters for sub-users](https://docs.dataimpulse.com/resellers/target-filters-for-sub-users.md): Configure proxy targeting filters for sub-users in your DataImpulse reseller account. Control which countries and parameters each sub-user can access.
+- [Affiliate Program](https://docs.dataimpulse.com/affiliate-program.md): Learn how the DataImpulse affiliate program works. Earn commissions by referring customers. Find out about payouts, tracking, and how to get started.
+- [Payment Methods](https://docs.dataimpulse.com/billing/payment-methods.md): DataImpulse offers several ways to top up your balance and purchase plans. Available methods can vary by region.
+- [Auto-recharge](https://docs.dataimpulse.com/billing/auto-recharge.md): Set up auto-recharge for your DataImpulse account. Never run out of proxy traffic — configure automatic top-ups based on your balance threshold.
+- [2FA](https://docs.dataimpulse.com/dashboard/2fa.md): Enable two-factor authentication on your DataImpulse account. Step-by-step guide to securing your proxy dashboard with 2FA for enhanced account safety.
+- [Recovering your account if you lose your 2FA credentials](https://docs.dataimpulse.com/dashboard/2fa/recovering-your-account-if-you-lose-your-2fa-credentials.md)
+- [Account security best practices](https://docs.dataimpulse.com/dashboard/account-security-best-practices.md)
+- [Active Session management](https://docs.dataimpulse.com/dashboard/active-session-management.md): This feature allows you to monitor unauthorized access and manage your active connections in real-time.
+- [Telegram Notifications](https://docs.dataimpulse.com/dashboard/telegram-notifications.md): This feature allows you to receive real-time notifications directly to your mobile device or desktop Telegram app, duplicating the critical updates usually sent via email.
+- [Support](https://docs.dataimpulse.com/support.md): Have a Question? Our support team is available 24/7.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.dataimpulse.com/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

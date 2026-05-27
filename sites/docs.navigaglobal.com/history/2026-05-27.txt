@@ -1,0 +1,132 @@
+# Naviga Content
+
+## Naviga Content
+
+- [Welcome](https://docs.navigaglobal.com/general/master.md): Welcome to Naviga Content - solutions of Infomaker Universe.
+- [Getting started](https://docs.navigaglobal.com/general/project-planning/getting-started.md)
+- [Try our environment](https://docs.navigaglobal.com/general/project-planning/getting-started/try-our-environment.md)
+- [Projects with us](https://docs.navigaglobal.com/general/project-planning/projects-with-us.md)
+- [Naviga Dashboard](https://docs.navigaglobal.com/general/authoring/dashboard.md): Dashboard is a modular framework for applications
+- [Release notes](https://docs.navigaglobal.com/general/authoring/dashboard/release-notes.md)
+- [Dashboard Plugins and apps](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard.md)
+- [Article Search](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/article-search.md)
+- [Action Widget](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/action-widget.md)
+- [Concept Admin](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/concept-admin.md)
+- [Content Agent](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/content-agent.md)
+- [Dashboard Image Content Provider](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/image-content-provider.md)
+- [Dashboard notification agent](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-notification-agent.md)
+- [Dashboard OC list](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/oc-list.md)
+- [Dashboard OC-search](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-oc-search.md)
+- [Dashboard RSS Reader](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-rss-reader.md)
+- [Dashboard Status Map](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-status-map.md)
+- [Dashboard Web view](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-web-view.md)
+- [Dashboard Widget Buttons](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-widget-buttons.md)
+- [Dashboard Writer](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/dashboard-writer.md)
+- [File Library](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/file-library.md)
+- [Naviga Photos](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/naviga-photos-draft.md)
+- [Newsroom Planner](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/newsroom-planner.md)
+- [Presentation Preview](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/presentation-preview.md): Preview not yet published articles directly from writer, to see how they will look in Naviga Web for example (using the Naviga Web plugin).
+- [Publication Planner](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/newsday-planner.md)
+- [Push Notification](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/push-notification.md)
+- [User Manager](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/user-manager.md)
+- [Naviga Wire](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/naviga-wire.md)
+- [Wire dashboard](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/wire-dashboard.md): User guide and setup information for the Wire Dashboard
+- [Page Hub](https://docs.navigaglobal.com/general/authoring/dashboard/infomaker-dashboard/page-hub.md): User guide and setup information for Pagehub.
+- [Naviga Writer](https://docs.navigaglobal.com/general/authoring/digital-writer.md)
+- [NavigaDoc](https://docs.navigaglobal.com/general/authoring/digital-writer/navigadoc.md): The Naviga JSON Content format, a modern, web friendly JSON representation of the NewsML documents.
+- [Writer Plugins](https://docs.navigaglobal.com/general/authoring/digital-writer/writer-plugins.md)
+- [Wingman](https://docs.navigaglobal.com/general/authoring/digital-writer/writer-plugins/wingman.md): Wingman writer plugin for writing assistance using AI
+- [Newspilot integration](https://docs.navigaglobal.com/general/authoring/digital-writer/newspilot-editorial-system.md)
+- [Third party developers](https://docs.navigaglobal.com/general/authoring/third-party-developers.md): This page describes plugins that are made available by third parties, that have chosen to develop plugins to the Naviga Content Creation platform.
+- [Content Creation Releases](https://docs.navigaglobal.com/general/authoring/content-creation-releases.md): Landing page for a monthly summary of releases from the Naviga Content Creation teams, with a majority of releases in Dashboard, Dashboard applications as well as Writer and Writer plugins.
+- [11–12/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/11-12-2021-release-update.md): The latest release update from the Naviga Content Creation team.
+- [09-10/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/09-10-2021-release-update.md): The latest release update from the Naviga Content Creation team.
+- [06–08/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/08-2021-release-update.md): The latest release update from the Naviga Content Creation team.
+- [05/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/05-2021-release-update.md): The latest release update from the Naviga Content Creation team.
+- [04/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/04-2021-release-update.md): The latest release update from the Naviga Content Creation team.
+- [03/2021 Release update](https://docs.navigaglobal.com/general/authoring/content-creation-releases/03-21-release-update.md): The latest release update from the Naviga Content Creation team.
+- [Naviga Web](https://docs.navigaglobal.com/general/publishing/naviga-web.md)
+- [Naviga Mobile](https://docs.navigaglobal.com/general/publishing/mobile.md)
+- [Newspilot Print](https://docs.navigaglobal.com/general/publishing/newspilot-print.md)
+- [Naviga Replica](https://docs.navigaglobal.com/general/publishing/epaper.md)
+- [Content Creation API (CCA)](https://docs.navigaglobal.com/general/backendservices/content-creation-api.md): The Content Creation API (CCA) is a CRUD API for dealing with all kind of documents in the Creation Tools.
+- [Distribution API (DAPI)](https://docs.navigaglobal.com/general/backendservices/distribution-api-dapi.md): The DAPI API is a read-only API that replaces the public OC with a content distribution API (DAPI). All services that serve content to the public should hit the distribution API to fetch documents.
+- [Naviga Open Content](https://docs.navigaglobal.com/general/backendservices/opencontent.md): Content repositry of Creation and Presentation universe
+- [Imengine](https://docs.navigaglobal.com/general/backendservices/imengine.md): Naviga Image cropping service.
+- [CCA Importer Service](https://docs.navigaglobal.com/general/backendservices/cca-importer-service.md): The CCA Importer
+- [Customer S3 replication setup](https://docs.navigaglobal.com/general/backendservices/cca-importer-service/customer-s3-replication-setup.md): Describes how to set up replication rules to our CCA-Importer S3 buckets, dev,stage and prod.
+- [Flow](https://docs.navigaglobal.com/general/backendservices/flow.md): Print Automation Service
+- [Introduction](https://docs.navigaglobal.com/general/introduction.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-1.md)
+- [Functional Details](https://docs.navigaglobal.com/general/introduction-1/functional-details.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-1/configuration.md)
+- [AI Service Data Security Details](https://docs.navigaglobal.com/general/introduction-1/ai-service-data-security-details.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-2.md)
+- [AI Service Data Security Details](https://docs.navigaglobal.com/general/introduction-2/ai-service-data-security-details.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-2/configuration.md)
+- [Service Provider & Model ID Details](https://docs.navigaglobal.com/general/introduction-2/configuration/service-provider-and-model-id-details.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-3.md)
+- [AI Service Data Security Details](https://docs.navigaglobal.com/general/introduction-3/ai-service-data-security-details.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-3/configuration.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-4.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-4/configuration.md)
+- [Backend Configurations](https://docs.navigaglobal.com/general/introduction-4/configuration/backend-configurations.md)
+- [2.0.0 configuration](https://docs.navigaglobal.com/general/introduction-4/configuration/2.0.0-configuration.md)
+- [AI Service Data Security Details](https://docs.navigaglobal.com/general/introduction-4/ai-service-data-security-details.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/introduction-4/ai-service-data-security-details/aws-bedrock.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/aws-bedrock.md)
+- [Functional Details](https://docs.navigaglobal.com/general/functional-details.md)
+- [Backend Configurations](https://docs.navigaglobal.com/general/backend-configurations.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/aws-bedrock-1.md)
+- [AI Service Data Security Details](https://docs.navigaglobal.com/general/ai-service-data-security-details.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/ai-service-data-security-details/aws-bedrock.md)
+- [Configuration](https://docs.navigaglobal.com/general/configuration.md)
+- [3.0.0 configuration](https://docs.navigaglobal.com/general/configuration/3.0.0-configuration.md)
+- [Change Log](https://docs.navigaglobal.com/general/change-log.md)
+- [Change Log](https://docs.navigaglobal.com/general/change-log-1.md)
+- [Service Provider & Model ID Details](https://docs.navigaglobal.com/general/service-provider-and-model-id-details.md)
+- [Backend Configurations](https://docs.navigaglobal.com/general/backend-configurations-1.md)
+- [Model List](https://docs.navigaglobal.com/general/model-list.md)
+- [Service Provider & Model ID Details](https://docs.navigaglobal.com/general/service-provider-and-model-id-details-1.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/aws-bedrock-2.md)
+- [Change Log](https://docs.navigaglobal.com/general/change-log-2.md)
+- [Functional Details](https://docs.navigaglobal.com/general/functional-details-1.md)
+- [Model List](https://docs.navigaglobal.com/general/model-list-1.md)
+- [Functional Details](https://docs.navigaglobal.com/general/functional-details-2.md)
+- [Service Provider & Model ID Details](https://docs.navigaglobal.com/general/service-provider-and-model-id-details-2.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-5.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-5/configuration.md)
+- [Model List](https://docs.navigaglobal.com/general/introduction-5/model-list.md)
+- [ai-service-data-security-details](https://docs.navigaglobal.com/general/introduction-5/ai-service-data-security-details.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/introduction-5/ai-service-data-security-details/aws-bedrock.md)
+- [Backend Configurations](https://docs.navigaglobal.com/general/backend-configurations-2.md)
+- [Change Log](https://docs.navigaglobal.com/general/change-log-3.md)
+- [Functional Details](https://docs.navigaglobal.com/general/functional-details-3.md)
+- [Service Provider & Model ID Details](https://docs.navigaglobal.com/general/service-provider-and-model-id-details-3.md)
+- [2.1.0 configuration](https://docs.navigaglobal.com/general/2.1.0-configuration.md)
+- [Functional Details](https://docs.navigaglobal.com/general/functional-details-4.md)
+- [Change Log](https://docs.navigaglobal.com/general/change-log-4.md)
+- [Introduction](https://docs.navigaglobal.com/general/introduction-6.md)
+- [ai-service-data-security-details](https://docs.navigaglobal.com/general/introduction-6/ai-service-data-security-details.md)
+- [AWS Bedrock](https://docs.navigaglobal.com/general/introduction-6/ai-service-data-security-details/aws-bedrock.md)
+- [Change Log](https://docs.navigaglobal.com/general/introduction-6/change-log.md)
+- [Functional Details](https://docs.navigaglobal.com/general/introduction-6/functional-details.md)
+- [Configuration](https://docs.navigaglobal.com/general/introduction-6/configuration.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.navigaglobal.com/general/master.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

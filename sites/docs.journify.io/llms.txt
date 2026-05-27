@@ -1,0 +1,156 @@
+# Journify Docs
+
+## Journify
+
+- [Welcome to Journify](https://docs.journify.io/readme.md): Learn what Journify is and how you can use it to level up your data game.
+- [Getting Started](https://docs.journify.io/getting-started.md): Get started with Journify by configuring your first sync.
+- [Tracking API](https://docs.journify.io/tracking.md): Tracking enables you to collect all the valuable behavioral event data across your customer experiences.
+- [Track Event](https://docs.journify.io/tracking/track-event.md): Track specific behaviors and activities your customers perform on your app or website to help build meaningful audiences.
+- [Page Event](https://docs.journify.io/tracking/page-event.md): Track which pages your users have visited on your web app or website with the PageEvent call.
+- [Identify Event](https://docs.journify.io/tracking/identify-event.md): Identify your users and keep an ongoing record of their behavior on your app or website.
+- [Screen Event](https://docs.journify.io/tracking/screen-event.md): Track which screens your users have visited on your mobile app with the ScreenEvent call.
+- [Common fields](https://docs.journify.io/tracking/common-fields.md): This are the list of fields that can be included with any call in the Journify spec (Identify, Track, Page and Screen Events).
+- [First Party Tracking](https://docs.journify.io/tracking/first-party-tracking.md)
+- [Conversion Attribution](https://docs.journify.io/tracking/conversion-attribution.md)
+- [Consent Management](https://docs.journify.io/tracking/consent.md): How Journify enforces user consent preferences before forwarding events to destinations.
+- [Sources](https://docs.journify.io/sources.md): Sources are websites, servers, mobile SDKs or cloud applications that can send customer data into Journify.
+- [Android SDK](https://docs.journify.io/sources/android-sdk.md)
+- [Bitrix24](https://docs.journify.io/sources/bitrix24.md)
+- [BigQuery](https://docs.journify.io/sources/bigquery.md)
+- [CleverTap](https://docs.journify.io/sources/clevertap.md): Enrich your customers data with CleverTap events
+- [CSV](https://docs.journify.io/sources/csv.md): Import or enrich user profiles directly from a CSV file.
+- [Google Sheets](https://docs.journify.io/sources/google-sheets.md)
+- [Google Tag Manager Browser Template](https://docs.journify.io/sources/google-tag-manager-browser-template.md)
+- [Google Tag Manager Server Template](https://docs.journify.io/sources/google-tag-manager-server-template.md)
+- [Go](https://docs.journify.io/sources/go.md)
+- [Hubspot](https://docs.journify.io/sources/hubspot.md): Build dynamic audiences using customer data sent from Hubspot
+- [iOS SDK](https://docs.journify.io/sources/ios-sdk.md)
+- [Java SDK](https://docs.journify.io/sources/java.md)
+- [Javascript SDK](https://docs.journify.io/sources/javascript.md)
+- [MySQL](https://docs.journify.io/sources/mysql.md)
+- [Magento](https://docs.journify.io/sources/magento.md)
+- [Node.js SDK](https://docs.journify.io/sources/node.js-sdk.md)
+- [React Native SDK](https://docs.journify.io/sources/react-native-sdk.md)
+- [Flutter SDK](https://docs.journify.io/sources/flutter-sdk.md)
+- [Offline Conversions](https://docs.journify.io/sources/offline-conversions.md)
+- [Offline Custom Audience](https://docs.journify.io/sources/offline-custom-audience.md)
+- [PHP](https://docs.journify.io/sources/php.md)
+- [Python](https://docs.journify.io/sources/python.md)
+- [PostgreSQL](https://docs.journify.io/sources/postgres.md)
+- [Salesforce](https://docs.journify.io/sources/salesforce.md): Build dynamic audiences using customer data sent from Salesforce
+- [Salla](https://docs.journify.io/sources/salla.md)
+- [Segment](https://docs.journify.io/sources/segment.md)
+- [SendGrid](https://docs.journify.io/sources/sendgrid.md): Enrich your customers data with SendGrid email events
+- [Shopify](https://docs.journify.io/sources/shopify.md)
+- [Snowflake](https://docs.journify.io/sources/snowflake.md)
+- [Sparkpost](https://docs.journify.io/sources/sparkpost.md): Enrich your customers data with Sparkpost events
+- [HTTP API](https://docs.journify.io/sources/http-api.md)
+- [Whatsapp Business](https://docs.journify.io/sources/whatsapp-business.md): Track your customers messages, orders and their transactions.
+- [WooCommerce](https://docs.journify.io/sources/woocommerce.md)
+- [Zid](https://docs.journify.io/sources/zid.md)
+- [Zoho](https://docs.journify.io/sources/zoho.md): Enrich your customers data with Zoho webhook events
+- [Destinations](https://docs.journify.io/destinations.md): Destinations are the business tools and apps that Journify sends your customer audiences to.
+- [ActiveCampaign](https://docs.journify.io/destinations/activecampaign.md): Sync customers' data to contacts on ActiveCampaign
+- [Amplitude](https://docs.journify.io/destinations/amplitude.md): Sync event data to Amplitude
+- [Apollo.io](https://docs.journify.io/destinations/apollo.io.md): Sync your customers' data to contacts on Apollo.io
+- [Adjust](https://docs.journify.io/destinations/adjust.md)
+- [Adjust Server-to-Server](https://docs.journify.io/destinations/adjust-server-to-server.md)
+- [Attio](https://docs.journify.io/destinations/attio.md): Push enriched data from your warehouse into Attio
+- [Brevo](https://docs.journify.io/destinations/brevo.md): Sync customers' data to contacts on Brevo
+- [Bing Ads Offline Conversions](https://docs.journify.io/destinations/bing-ads-offline-conversions.md): Send offline conversion events to Bing Ads and optimize your return on ad spend
+- [CleverTap](https://docs.journify.io/destinations/clevertap.md): Create personalized experiences to retain your most valuable customers, forever
+- [Close](https://docs.journify.io/destinations/close.md): Sync customers' data to contacts on Close
+- [Courier](https://docs.journify.io/destinations/courier.md): Sync customers' data to contacts on Courier
+- [Customer.io](https://docs.journify.io/destinations/customer.io.md): Sync your data to customers on Customer.io
+- [Facebook Ads Custom Audiences](https://docs.journify.io/destinations/facebook-ads-custom-audiences.md): Sync customers' data to Facebook Custom Audiences
+- [Facebook Ads Pixel](https://docs.journify.io/destinations/facebook-ads-pixel.md): Track your website's customers events with Facebook Pixel
+- [Facebook Conversions API](https://docs.journify.io/destinations/facebook-conversions-api.md): Enhance conversion insights by funnelling your customer's event data to Facebook Conversions API in realtime.
+- [Facebook Offline Conversions](https://docs.journify.io/destinations/facebook-offline-conversions.md): Enhance conversion insights by uploading your offline conversion events to Facebook.
+- [Freshsales](https://docs.journify.io/destinations/freshsales.md): Transform your selling experience with Freshsales
+- [Google Ads Custom Audiences](https://docs.journify.io/destinations/google-ads-custom-audiences.md): Sync customer's first party data to Google Custom Audiences
+- [Google Ads Conversions](https://docs.journify.io/destinations/google-ads-conversions.md): Enhance conversion insights by funnelling your customer's event data to Google Ads enhanced conversions in real time.
+- [Google Analytics 4](https://docs.journify.io/destinations/google-analytics-4.md): Track your website's customers events with Google Analytics 4
+- [Google Sheets](https://docs.journify.io/destinations/googlesheets.md): Sync your customer event data directly to Google Sheets for easy analysis and reporting
+- [Google Measurement Protocol](https://docs.journify.io/destinations/ga4-measurement-protocol.md): Send server-side events to Google Analytics 4 using the Measurement Protocol
+- [Google Measurement Protocol Mobile](https://docs.journify.io/destinations/ga4-measurement-protocol-mobile.md): Send server-side mobile app events to Google Analytics 4 using the Mobile Measurement Protocol
+- [HubSpot](https://docs.journify.io/destinations/hubspot.md): Sync customers' data to contacts on HubSpot CRM
+- [Criteo](https://docs.journify.io/destinations/criteo.md): Sync customers' data to audiences on Criteo
+- [Intercom](https://docs.journify.io/destinations/intercom.md): Sync customers' data to contacts on Intercom
+- [Klaviyo](https://docs.journify.io/destinations/klaviyo.md): Power e-commerce focused email marketing with your warehouse data in Klaviyo
+- [LaunchDarkly](https://docs.journify.io/destinations/launchdarkly.md): Keep your team's feature flags up-to-date with fresh list of contexts
+- [LinkedIn Insight Tag](https://docs.journify.io/destinations/linkedin-ads-insight-tag.md): Track your website's conversions with LinkedIn Insight Tag
+- [LinkedIn Ads Web Conversions](https://docs.journify.io/destinations/linkedin-ads-web-conversions.md): Enhance conversion insights by funneling your customer's event data to Linkedin Conversions API in realtime.
+- [Mailchimp](https://docs.journify.io/destinations/mailchimp.md): Sync customers' data to subscribers on Mailchimp
+- [MoEngage](https://docs.journify.io/destinations/moengage.md): Sync customers' data to users on MoEngage
+- [MoEngage Server-to-Server](https://docs.journify.io/destinations/moengage-server-to-server.md)
+- [OneSignal](https://docs.journify.io/destinations/onesignal.md): Sync customers' data to devices on OneSignal
+- [Pinterest Custom audiences](https://docs.journify.io/destinations/pinterest-custom-audiences.md): Sync customers' data to customer lists on Pinterest Ads
+- [Pinterest Tag](https://docs.journify.io/destinations/pinterest-tag.md): Track conversions using Pinterest client-side tag
+- [Pinterest web conversions](https://docs.journify.io/destinations/pinterest-web-conversions.md): Send web conversions to Pinterest via server to server integration
+- [Reply.io](https://docs.journify.io/destinations/reply.io.md): Supercharge your sales team by syncing your most up-to-date customer and lead data from your warehouse
+- [Salesforce](https://docs.journify.io/destinations/salesforce.md): Sync customers' data to contacts on Salesforce
+- [Sendgrid](https://docs.journify.io/destinations/sendgrid.md): Sync customers' data to contacts on Sendgrid
+- [Slack](https://docs.journify.io/destinations/slack.md): Get customers' actions via Slack messages
+- [Snapchat Custom Audiences](https://docs.journify.io/destinations/snapchat-custom-audiences.md): Sync customer's first party data to Customer Lists on Snapchat Ads
+- [Snapchat Ads Pixel](https://docs.journify.io/destinations/snapchat-ads-pixel.md): Track your website's customers events with Snapchat Pixel
+- [Snapchat Ads Web Conversions](https://docs.journify.io/destinations/snapchat-ads-web-conversions.md): Enhance conversion insights by funneling your customer's event data to Snapchat Conversions API in realtime.
+- [Snapchat Ads Mobile Conversions](https://docs.journify.io/destinations/snapchat-ads-mobile-conversions.md): Enhance conversion insights by funnelling your customer's app event sdata to Snapchat Conversions API in realtime.
+- [Snapchat Offline Conversions](https://docs.journify.io/destinations/snapchat-offline-conversions.md): Enhance conversion insights by uploading your offline conversion events to Snapchat.
+- [Stripe](https://docs.journify.io/destinations/stripe.md): Sync customers' data to contacts on Stripe
+- [TikTok Custom Audiences](https://docs.journify.io/destinations/tiktok-custom-audiences.md): Sync customers' first party data to TikTok custom audiences
+- [TikTok Pixel](https://docs.journify.io/destinations/tiktok-pixel.md): Track your website's customers events with TikTok Pixel
+- [TikTok Events API](https://docs.journify.io/destinations/tiktok-events-api.md): Enhance conversion insights by funnelling your customer's event data to TikTok Events API in realtime.
+- [TikTok Offline Conversions](https://docs.journify.io/destinations/tiktok-offline-conversions.md): Enhance conversion insights by uploading your offline conversion events to TikTok.
+- [X Conversions](https://docs.journify.io/destinations/x-conversions.md): Send conversion web events to X and optimize your return on ad spend
+- [X Mobile Conversions](https://docs.journify.io/destinations/x-mobile-conversions.md): Send mobile conversion events to X and optimize your return on ad spend
+- [X Pixel](https://docs.journify.io/destinations/x-pixel.md): Track your website's customers events with X Pixel
+- [Zendesk Support](https://docs.journify.io/destinations/zendesk-support.md): Deliver better support by making user events and attributes available inside Zendesk Support
+- [Zendesk Sell](https://docs.journify.io/destinations/zendesk-sell.md): Sync customers' data to contacts on Zendesk Sell
+- [Zoho](https://docs.journify.io/destinations/zoho.md): Sync customers' data to contacts on Zoho CRM
+- [Pipedrive](https://docs.journify.io/destinations/pipedrive.md): Sync customers' data to contacts on Pipedrive
+- [Syncs](https://docs.journify.io/syncs.md): Syncs are the connections that send your customer data from Journify to your destinations.
+- [Event Mapping](https://docs.journify.io/syncs/event_mapping.md)
+- [Field Mapping](https://docs.journify.io/syncs/field_mapping.md)
+- [Signals](https://docs.journify.io/signals.md): Signals pulls data from ad platforms, analytics, and stores to give you one place to understand your real performance.
+- [Facebook Ads](https://docs.journify.io/signals/facebook-ads.md)
+- [Google Ads](https://docs.journify.io/signals/google-ads.md)
+- [Google Analytics 4](https://docs.journify.io/signals/google-analytics4.md)
+- [Snapchat Ads](https://docs.journify.io/signals/snapchat-ads.md)
+- [TikTok Ads](https://docs.journify.io/signals/tiktok-ads.md)
+- [X Ads](https://docs.journify.io/signals/x-ads.md)
+- [Salla](https://docs.journify.io/signals/salla.md)
+- [Zid](https://docs.journify.io/signals/zid.md)
+- [Shopify](https://docs.journify.io/signals/shopify.md)
+- [Looker Studio](https://docs.journify.io/signals/looker-studio.md)
+- [Power BI](https://docs.journify.io/signals/powerbi.md)
+- [Tableau](https://docs.journify.io/signals/tableau.md)
+- [BI Integration - Schema Reference](https://docs.journify.io/signals/schema-ref.md)
+- [Data Terminology](https://docs.journify.io/data-terminology.md): Learn more about important data concepts and terminology used throughout Journify's documentation.
+- [Data Ingestion](https://docs.journify.io/data-terminology/data-ingestion.md): Learn the basics of what data ingestion is and how Journify can perform this important data function for your business.
+- [Data Warehouse](https://docs.journify.io/data-terminology/data-warehouse.md): Learn what a data warehouse is and why it has become an important part of the modern data stack.
+- [Data Activation](https://docs.journify.io/data-terminology/data-activation.md): Learn the basics of what data activation is, what it can do for your business, and how you can get started.
+- [Reverse ETL](https://docs.journify.io/data-terminology/reverse-etl.md): Learn all about Reverse ETL and why it is becoming the new standard in data activation.
+- [Data health alerts](https://docs.journify.io/data-health-alerts.md): Guides to investigate any data issues that were detected in your Journify account
+- [Drop in the number of events received by a source](https://docs.journify.io/data-health-alerts/drop-in-the-number-of-events-received-by-a-source.md)
+- [Drop in the number of events delivered by a sync](https://docs.journify.io/data-health-alerts/drop-in-the-number-of-events-delivered-by-a-sync.md)
+- [Increase in the number of invalid events skipped by a sync](https://docs.journify.io/data-health-alerts/increase-in-the-number-of-invalid-events-skipped-by-a-sync.md)
+- [Drop in the number of monitored fields delivered by a sync](https://docs.journify.io/data-health-alerts/drop-in-the-number-of-monitored-fields-delivered-by-a-sync.md)
+- [Increase in the number of failed events on a sync](https://docs.journify.io/data-health-alerts/increase-in-the-number-of-failed-events-on-a-sync.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.journify.io/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

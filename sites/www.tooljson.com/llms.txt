@@ -1,0 +1,477 @@
+# 在线工具集
+
+> 在线工具集是一个全面的在线工具大全，专注于提供 JSON 处理、数据转换、开发工具和实用工具等功能，旨在提高开发者的工作效率和数据处理能力。
+
+重要说明：
+
+- 所有工具均支持在线使用，无需安装任何软件
+- 工具支持多种数据格式的转换和处理
+- 所有工具均支持中英文界面
+- 数据安全：所有处理均在本地完成，不会上传到服务器
+
+## JSON 工具
+
+- [JSON 格式化工具](https://tooljson.com/jsonformatter): 提供 JSON 数据格式化和美化功能，支持自定义缩进和排序
+- [JSON 键名排序](https://tooljson.com/jsonsort): 按键名升序或降序排序 JSON 对象，支持递归排序，便于数据比对和审查。
+- [JSON 验证工具](https://tooljson.com/jsonvalidator): 验证 JSON 数据格式，实时显示错误位置和提示
+- [JSON 比较工具](https://tooljson.com/jsondiff): 可视化比较两个 JSON 数据集的差异，支持多种比较模式
+- [JSON 压缩工具](https://tooljson.com/jsonminify): 压缩 JSON 数据，移除所有空白字符，提高传输效率
+- [JSON 格式转换](https://tooljson.com/jsonconverter): 支持 JSON 与 YAML、XML、CSV 等多种格式的相互转换
+- [JSON 路径查询](https://tooljson.com/jsonpathquery): 使用 JSONPath 语法查询和提取 JSON 数据，支持复杂查询
+- [JSON 思维导图](https://tooljson.com/jsonmindmap): 将 JSON 数据可视化为思维导图，支持自定义样式和导出
+- [JSON 代码生成器](https://tooljson.com/jsoncodegenerator): 将 JSON 数据转换为多种编程语言的代码，支持自定义模板
+- [JSON 树状图工具](https://tooljson.com/json/tree): 将 JSON 数据可视化为树状结构图，支持节点展开折叠和数据导航
+- [JSON 扁平化 / 反扁平化](https://tooljson.com/json/json-flatten): 轻松将复杂的嵌套 JSON 转换为扁平的点式标记结构，或将扁平数据还原为嵌套对象。
+- [JSON Schema 全能工具](https://tooljson.com/json/jsonschema): 集成 Schema 生成、Mock 数据生成、JSON 校验、代码生成与可视化的一站式解决方案。
+
+## 编码转换工具
+
+- [Unicode 转换工具](https://tooljson.com/unicode): 支持 Unicode、中文字符和英文字符之间的安全转换
+- [URL 编码解码工具](https://tooljson.com/urlencode): 提供多种模式的 URL 编码和解码功能，支持批量处理
+- [Base64 编码解码](https://tooljson.com/encrypt/base64): 支持文本和图片的 Base64 编码和解码，提供预览功能
+- [图片转 Base64](https://tooljson.com/image2base64): 将图片转换为 Base64 编码，支持多种图片格式
+
+## 加密工具
+
+- [JWT 工具](https://tooljson.com/encrypt/jwt): 提供 JWT 令牌的解析、验证和生成功能，支持自定义密钥
+- [MD5 加密工具](https://tooljson.com/encrypt/md5): 生成输入文本的 MD5 哈希值，支持批量处理
+- [UUID 生成器](https://tooljson.com/uuid): 快速生成唯一标识符，支持多种 UUID 版本
+- [摩斯电码工具](https://tooljson.com/encrypt/morse): 提供摩斯电码与文本之间的相互转换，支持音频播放和自定义速度
+- [邮箱加密工具](https://tooljson.com/encrypt/email): 对邮箱地址进行加密处理，保护隐私信息，支持多种加密算法
+- [AES 加解密](https://www.tooljson.com/encrypt/aes): AES (Advanced Encryption Standard) 是一种对称加密算法，被广泛应用于数据保护。支持128、192、256位密钥长度，提供CBC、ECB、CFB、OFB、CTR等多种加密模式。
+- [API 签名生成工具](https://www.tooljson.com/encrypt/hmac-generator): 专业的 HMAC 和 MD5 签名生成工具，支持多种哈希算法，适用于 API 签名、数据验证等场景。 所有计算均在本地浏览器执行，安全无忧。
+- [RSA 密钥与加解密工具](https://www.tooljson.com/encrypt/rsa-sign-verify): 专业的在线 RSA 工具，支持密钥生成、公钥加密、私钥解密、数字签名与验证。 所有计算均在本地浏览器执行，安全无忧。
+- [国密算法工具](https://www.tooljson.com/encrypt/sm): 提供SM2、SM3、SM4等国密算法的在线加解密和摘要计算。
+
+## 开发工具
+
+- [文本差异对比](https://tooljson.com/diff): 比较两段文本的差异，支持多种显示模式和导出格式
+- [Markdown 编辑器](https://tooljson.com/markdown): 提供实时预览和语法高亮的 Markdown 编辑功能
+- [CSS 玻璃拟态生成器](https://tooljson.com/code/css-glassmorphism-generator): 生成现代玻璃拟态效果的 CSS 代码，支持自定义透明度和模糊效果
+- [CSS 代码生成器](https://tooljson.com/code/css-code-generate): 快速生成常用 CSS 样式代码，支持渐变、阴影、动画等效果
+- [HTML/JS 格式化](https://tooljson.com/code/html-js-format): 格式化和美化 HTML、JavaScript 代码，支持语法高亮和错误检测
+- [SQL 格式化工具](https://tooljson.com/code/sql-format): 格式化 SQL 查询语句，提高代码可读性，支持多种数据库语法
+- [正则表达式工具](https://tooljson.com/code/regex): 测试和验证正则表达式，提供实时匹配结果和语法说明
+- [API 测试工具](https://tooljson.com/code/api-tester): 测试 REST API 接口，支持多种请求方法和认证方式
+- [二维码生成器](https://tooljson.com/code/qrcode): 生成自定义二维码，支持文本、URL、WiFi 等多种数据类型
+- [二维码解码器](https://tooljson.com/code/qrcode-decoder): 支持上传图片、粘贴截图和启用摄像头识别二维码内容，适合客服、运营和日常扫码核验
+- [HTML Entity 编解码器](https://tooljson.com/code/html-entity): 在普通文本与 HTML 实体之间快速转换，适合前端模板、邮件内容和 CMS 富文本处理
+- [密码生成器](https://tooljson.com/code/password-generate): 生成安全密码，支持自定义长度和字符类型组合
+- [在线代码运行器](https://www.tooljson.com/code/online-code-runner): 在线运行多种编程语言代码，支持实时输出和调试
+- [哈希值生成工具](https://tooljson.com/calculator/hash-generator): 支持多种哈希算法，快速生成文件和文本的哈希值
+- [随机数据生成器](https://www.tooljson.com/common/random-data): 专业的随机数据生成工具，支持用户信息、联系方式、金融数据、基础数据类型、复杂数据结构和业务领域数据的生成。 所有数据在本地生成，确保隐私安全。支持多种导出格式，满足不同场景需求。
+- [字符编码转换工具](https://www.tooljson.com/code/character-encoding): 专业的字符编码转换工具，支持多种编码格式的实时转换、自动检测和批量处理
+- [代码依赖分析工具](https://www.tooljson.com/code/dependency-analyzer): 专业的软件依赖管理工具，提供可视化依赖树展示、安全漏洞检测、许可证合规性检查等企业级功能
+- [SQL注入安全检测工具](https://www.tooljson.com/code/sql-injection): 专业的 SQL 注入漏洞检测工具，支持多种注入类型检测，提供详细的安全分析报告和修复建议
+- [XML 格式验证工具](https://www.tooljson.com/common/xml-validator): 专业的 XML 格式验证工具，支持实时验证和错误提示，确保 XML 文档的正确性和完整性
+- [YAML 转 Properties 工具](https://www.tooljson.com/common/yaml-to-peroperties): 专业的 YAML 转 Properties 工具，支持批量转换和自定义配置，方便在不同环境中使用
+- [全角半角转换工具](https://www.tooljson.com/common/full-half-converter): 专业的全角半角转换工具，支持批量转换和自定义配置，方便在不同环境中使用
+- [PDF 水印工具](https://www.tooljson.com/file/watermark-pdf): 专业的 PDF 水印工具，支持批量添加和自定义配置，保护文档版权
+- [用户代理解析工具](https://www.tooljson.com/common/ua-parser): 专业的用户代理解析工具，支持解析和分析用户代理字符串，方便在不同环境中使用
+- [Tailwind 完整调色板生成器](https://www.tooljson.com/code/tailwind-colors-template): 支持 HEX、RGB、HSL、CSS 变量与类，参考 shadcn/ui 颜色系列，可直接复制粘贴
+
+## 实用工具
+
+- [汉字笔画顺序](https://tooljson.com/search/hanzi-stroke-order): 查询汉字的标准笔画顺序，支持动画演示和笔画分解
+- [垂直文本生成器](https://tooljson.com/common/vertical-text): 生成垂直排列的文本，适用于中文传统排版和设计需求
+- [时区会议规划器](https://tooljson.com/date/meeting-planner): 跨时区会议时间规划工具，自动计算最佳会议时间
+- [进制转换器](https://tooljson.com/common/base-converter): 支持二进制、八进制、十进制、十六进制之间的相互转换
+- [数字转换工具](https://www.tooljson.com/text/number-converter): 支持数字转中文大写、英文、罗马数字、二进制、八进制、十六进制，也支持英文、罗马数字和进制字符串反向转换。
+- [单位换算器](https://tooljson.com/common/unit-converter): 支持长度、面积、体积、重量、温度、速度、存储、功率、压强的在线换算，适合日常和专业场景
+- [中文简繁转换](https://tooljson.com/common/chinese-converter): 简体中文与繁体中文之间的相互转换，支持批量处理
+- [高级节拍器](https://tooljson.com/common/advanced-metronome): 专业音乐节拍器，支持复合拍子和节奏模式自定义
+- [血型遗传计算器](https://tooljson.com/common/blood-type-genetics): 根据父母血型计算子女可能的血型组合和概率
+- [元素周期表](https://tooljson.com/common/periodic-table): 交互式化学元素周期表，提供详细的元素信息和属性
+- [朝代查询工具](https://tooljson.com/common/dynasty): 查询中国历史朝代信息，包括时间、皇帝、重大事件等
+- [Crontab 生成器](https://tooljson.com/date/crontab): 生成 Linux Crontab 定时任务表达式，支持可视化配置
+- [字符计数器](https://tooljson.com/common/word-count): 统计文本的字符数、词数、行数等信息，支持多语言
+- [CSV / TSV / JSON 转换器](https://tooljson.com/common/csv-tsv-json-converter): 轻量表格与结构化数据互转工具，支持 CSV、TSV、JSON 实时转换、复制和下载
+- [文本清洗工具](https://tooljson.com/common/text-cleaner): 集中提供去空行、去重、排序、批量替换、空白规范化等高频文本整理能力
+- [Emoji 大全](https://tooljson.com/common/emoji): 完整的 Emoji 表情符号集合，支持分类浏览和快速搜索
+- [签名设计器](https://tooljson.com/common/signature-designer): 在线设计个性化签名，支持多种字体和样式
+- [在线印章生成器](https://tooljson.com/common/seal-generator): 生成圆形公章、合同专用章、防伪码和老化仿真印章，支持复制、下载和分享参数
+- [证件照打印排版工具](https://tooljson.com/common/id-photo-print): 内置一寸、二寸、护照、签证等常用规格，支持 5 寸/6 寸相纸排版、换底色、裁切线与 300DPI 打印导出。
+- [在线域名提取器](https://tooljson.com/common/domain-extractor): 从网址列表、日志、邮件或任意文本中批量提取域名，支持去重、排序、转小写、去除 www 和仅保留主域名。
+- [在线屏幕测试工具](https://tooljson.com/common/screen-test): 提供全屏纯色、灰阶、渐变与网格测试，用于检测显示器和手机屏幕坏点、亮点、漏光与色彩均匀度。
+- [占位文本生成器](https://tooljson.com/common/lorem-ipsum-generator): 生成 Lorem Ipsum 占位文本，支持自定义长度和格式
+- [SEO 分析工具](https://www.tooljson.com/web/seo-analysis): 分析网页 SEO 优化情况，提供改进建议和评分
+- [货币实时转换](https://tooljson.com/common/currency-converter): 实时汇率查询和货币转换，支持全球主要货币
+- [色盲检测工具](https://tooljson.com/common/colorblind-test-tool): 色盲和色弱检测测试，提供详细的视觉分析报告
+- [时间戳工具](https://tooljson.com/date/timestamp-dev-tool): Unix 时间戳与日期时间的相互转换，支持多种时区
+- [经纬度转换器](https://tooljson.com/search/coordinate-converter): 地理坐标系统转换，支持多种坐标格式
+- [生肖查询工具](https://tooljson.com/search/zodiac-query): 查询十二生肖信息，包括性格特征和运势分析
+- [星座查询工具](https://tooljson.com/search/constellation): 支持公历/农历生日换算，查询12星座、配对、分享链接与 Pro AI 个性化报告。
+- [反应速度测试](https://tooljson.com/common/reaction-speed-test): 测试用户的反应速度和手眼协调能力
+- [动物年龄计算](https://tooljson.com/date/animal-age-calculator): 计算宠物的人类等效年龄，支持多种动物类型
+- [今日吃什么](https://tooljson.com/what-to-eat-today): 随机推荐美食和菜谱，解决选择困难症
+- [中文名生成器](https://tooljson.com/chinese-name-generator): 根据姓氏和偏好生成中文姓名，支持五行和寓意筛选
+- [英文字符串处理](https://tooljson.com/string-converter): 实现文本中英文字符串的快速处理
+- [历史上的今天](https://tooljson.com/todayonhistory): 查询历史上今天发生的重要事件和名人生日
+- [世界时钟](https://tooljson.com/date/world-clock): 显示全球主要城市的当前时间，支持时区对比
+- [秒表计时器](https://tooljson.com/date/stopwatch): 精确的秒表和计时器功能，支持分段计时和倒计时
+- [农历老黄历](https://tooljson.com/date/huangli): 专业免费的在线老黄历查询工具。提供每日宜忌、十二时辰吉凶、财神喜神方位、彭祖百忌、二十八宿、建除十二神、天干地支、纳音五行等详细信息。
+- [二十四节气](https://tooljson.com/date/solar-terms-tool): 查询二十四节气的具体时间和相关知识
+- [保质期计算](https://tooljson.com/date/shelflife): 计算食品和药品的保质期和剩余有效时间
+- [在线家教排课工具](https://tooljson.com/date/tutoring-schedule): 专业的在线家教排课工具，支持多学生管理、智能排课、时间冲突自动检测。可视化周视图，轻松管理家教日程。
+- [复利计算器](https://tooljson.com/date/compound-interest-calculator): 计算投资复利收益，支持多种计息方式
+- [在线抽奖工具](https://tooljson.com/common/lottery): 支持名单粘贴、权重随机、不重复中奖、结果复制、CSV 下载和分享还原的活动抽奖助手
+- [Excel在线编辑器](https://www.tooljson.com/common/excel-online): 强大的在线表格编辑工具，支持多种数据格式和丰富的编辑功能
+- [数字明信片](https://tooljson.com/common/postcard-online): 创建个性化明信片，支持图片上传、文字编辑、地址填写，让每一张明信片都充满温暖与回忆
+- [在线八卦图](https://www.tooljson.com/common/bagua): 在线八卦图 - 先天八卦后天八卦方位图解析工具 | 易经八卦。
+- [One Link](https://www.tooljson.com/one-link): 个人链接聚合页生成器 - 一键创建个人信息聚合页面。
+- [Markdown转HTML工具](https://md-to-html.tooljson.com): 专业Markdown转HTML工具，将 Markdown 文档转换为 HTML 格式，支持语法扩展和样式自定义。
+
+## 健康工具
+
+- [BMI 计算器](https://tooljson.com/health/bmi): 计算身体质量指数，评估体重健康状况
+- [基础代谢率 (BMR)](https://tooljson.com/health/bmr): 计算基础代谢率，了解身体基本能量需求
+- [每日总能耗 (TDEE)](https://tooljson.com/health/tdee): 计算每日总能量消耗，制定科学的饮食计划
+- [体脂率计算](https://tooljson.com/health/body-fat): 估算体脂率，评估身体成分健康状况
+- [理想体重计算](https://tooljson.com/health/ideal-weight): 根据身高和体型计算理想体重范围
+- [腰臀比计算](https://tooljson.com/health/waist-hip): 计算腰臀比，评估内脏脂肪风险
+- [骨量计算器](https://tooljson.com/health/bone-mass): 估算骨骼重量，评估骨骼健康状况
+- [代谢年龄计算](https://tooljson.com/health/metabolic-age): 计算代谢年龄，了解身体机能状态
+- [蛋白质需求](https://tooljson.com/health/protein-needs): 计算每日蛋白质需求量，制定营养计划
+- [睡眠需求计算](https://tooljson.com/health/sleep-needs): 根据年龄和生活方式计算最佳睡眠时间
+- [每日饮水量](https://tooljson.com/health/water-needs): 计算每日推荐饮水量，保持身体水分平衡
+- [心率计算器](https://tooljson.com/health/heart-rate): 计算目标心率区间，优化运动效果
+- [游泳配速计算器](https://tooljson.com/health/swim-pace-calculator): 输入距离、总时间和泳池长度，计算每100米配速、每圈时间、总圈数和训练分段表。
+- [CSS 临界游速计算器](https://tooljson.com/health/swim-css-calculator): 输入400米和200米测试成绩，计算 CSS 阈值配速、训练区间和示例主训练组。
+- [泳池圈数换算器](https://tooljson.com/health/pool-lap-converter): 根据距离、目标成绩和泳池长度换算总趟数、往返数、单趟时间与分段计划。
+- [游泳热量消耗计算器](https://tooljson.com/health/swimming-calories): 输入体重、时长、泳姿和强度，估算游泳卡路里燃烧、补水建议与恢复提示。
+- [游泳比赛分段策略生成器](https://tooljson.com/health/swim-race-strategy): 输入目标距离、总成绩和泳池长度，自动生成匀速、负分段和前快后稳三种分段策略。
+- [开放水域游泳配速与补给规划器](https://tooljson.com/health/open-water-swim-planner): 基于泳池基准配速、水流、浪况、水温和补给间隔，估算开放水域配速、完赛时间与补给计划。
+- [健康年龄评估](https://tooljson.com/health/health-age): 综合评估身体健康年龄，提供改善建议
+- [卡路里计算器](https://tooljson.com/health/calorie): 计算食物卡路里和运动消耗，管理体重
+- [血压评估](https://tooljson.com/health/blood-pressure): 根据收缩压、舒张压评估血压等级并给出健康建议
+- [糖尿病风险评估](https://tooljson.com/health/diabetes-risk): 基于年龄、BMI、腰围与生活方式等评估2型糖尿病风险并提供干预建议
+- [肺活量测评](https://tooljson.com/health/lung-capacity): 将测量值与预测肺活量比较，给出呼吸训练与改善建议
+- [心理健康评估](https://tooljson.com/health/mental-health): 简短心理与压力问卷，返回分级与自助建议
+- [营养与能量分析](https://tooljson.com/health/nutrition): 计算BMR/TDEE并给出宏量营养素分配与饮食建议
+- [睡眠计算器](https://www.tooljson.com/health/sleep): 睡眠计算器 - 最佳入睡与起床时间在线计算。科学的睡眠周期计算器，支持"我要起床"、"我要入睡"及"现在入睡"三种模式。
+- [孕期计算器](https://www.tooljson.com/health/pregnancy): 孕期计算器 - 预产期在线计算与胎儿发育周报。专业免费在线孕期计算器，支持末次月经和受孕日期计算。
+- [蛋白质需求计算器](https://www.tooljson.com/health/protein): 蛋白质需求计算器 - 每日蛋白质摄入量计算工具。专业免费在线蛋白质需求计算器，精准帮助您科学计算每日所需蛋白质摄入量与营养配比。
+
+
+## 图片工具
+
+
+- [图片拼接工具](https://tooljson.com/images/photo-collage): 免费在线照片拼图工具，支持多种布局模式（1-16张照片）、长图拼接（横向/竖向）、图片旋转缩放、实时预览导出。轻松制作九宫格、朋友圈拼图、长图海报，无需下载APP。
+- [图片压缩工具](https://tooljson.com/images/compress): 在线压缩图片文件大小，保持画质的同时减少存储空间
+- [图片格式转换](https://tooljson.com/images/image-converter): 支持多种图片格式之间的相互转换，如 JPG、PNG、WebP 等
+- [图片编辑器](https://tooljson.com/images/image-editor): 在线图片编辑工具，支持本地裁剪、旋转、滤镜调色、分享参数、PNG/JPEG/WebP 下载与 Pro 2x/3x 高清导出
+- [图片裁剪器](https://tooljson.com/images/image-cropper): 所见即所得的在线裁剪工具，支持拖拽取景、滚轮缩放、自定义尺寸以及 PNG、JPG、WebP 导出
+- [图片缩放工具](https://tooljson.com/images/resize-image): 调整图片尺寸和分辨率，支持批量处理和比例锁定
+- [PDF 编辑器](https://tooljson.com/images/pdf-editor): 在线 PDF 编辑工具，支持合并、分割、添加水印等功能
+- [在线涂鸦工具](https://tooljson.com/online-graffiti): 在线涂鸦工具，支持绘制、擦除、保存等功能
+- [AI背景去除工具](https://www.tooljson.com/images/background-remover): 基于计算机视觉算法的智能背景去除工具，支持本地处理、阈值调节与结果导出
+- [SVG 编辑器](https://www.tooljson.com/images/svg-editor): 在线编辑 SVG 图形，支持图层管理、路径绘制、样式调整和导出 SVG
+- [文本转吉卜力风格图片](https://tooljson.com/text-to-ghibli): 将文字变成吉卜力风格的艺术作品
+- [专业条形码生成器](https://tooljson.com/images/barcode-generator): 支持CODE128、CODE128A、CODE128B、CODE128C、EAN-13多种条形码格式，提供丰富的自定义选项和批量生成功能
+- [图片识别工具](https://tooljson.com/images/image-ocr): 支持图片中的文字识别，提取图片中的文本内容
+- [图片水印工具](https://www.tooljson.com/images/watermark): 支持文字和图片水印，可自定义透明度、旋转、平铺防盗等，支持批量处理和 EXIF 保留。
+- [EXIF 信息查看器](https://www.tooljson.com/images/exif-detail): 专业的图片 EXIF 信息查看工具，支持查看拍摄参数、GPS 位置、相机型号等详细信息，支持地图展示拍摄地点。
+
+## 图表工具
+
+- [在线图表制作工具集](https://www.tooljson.com/data/chart): 支持柱状图、折线图、饼图、环形图、堆积柱状图、桑基图、热力图等多种图表，输入数据后可配置颜色、坐标轴、图例与动画并导出 PNG / SVG / JSON。
+- [柱状图制作工具](https://www.tooljson.com/data/chart/bar): 在线柱状图制作工具，支持多系列、颜色主题、坐标轴与图例自定义、动画与数据标签，一键导出 PNG / SVG / 配置 JSON。
+- [折线图制作工具](https://www.tooljson.com/data/chart/line): 在线折线图制作工具，支持平滑曲线、多系列、坐标轴自定义与动画，免费导出图片与 ECharts 配置。
+- [饼图制作工具](https://www.tooljson.com/data/chart/pie): 在线饼图制作工具，支持多分类、颜色主题与数据标签，适用于占比、分布类数据展示。
+- [环形图制作工具](https://www.tooljson.com/data/chart/doughnut): 在线环形图制作工具，支持自定义颜色、图例、数据标签，导出 PNG / SVG / JSON。
+- [条形图制作工具](https://www.tooljson.com/data/chart/horizontal-bar): 在线条形图制作工具，适合排名榜单、长名称类别展示，支持配色与动画。
+- [堆积柱状图制作工具](https://www.tooljson.com/data/chart/stacked-bar): 在线堆积柱状图制作工具，叠加多系列展示构成与总量，支持颜色与动画自定义。
+- [堆叠折线图制作工具](https://www.tooljson.com/data/chart/stacked-line): 在线堆叠折线图制作工具，多维度数据趋势叠加展示。
+- [散点图制作工具](https://www.tooljson.com/data/chart/scatter): 在线散点图制作工具，用于相关性分析、分布展示，支持多系列与样式自定义。
+- [雷达图制作工具](https://www.tooljson.com/data/chart/radar): 在线雷达图制作工具，多维能力评分对比，支持多系列、自定义颜色与动画。
+- [漏斗图制作工具](https://www.tooljson.com/data/chart/funnel): 在线漏斗图制作工具，适用于转化率、流程留存分析，支持配色与数据标签。
+- [瀑布图制作工具](https://www.tooljson.com/data/chart/waterfall): 在线瀑布图制作工具，可视化展示正负贡献与累计变化，支持期初、合计标记。
+- [矩形树图制作工具](https://www.tooljson.com/data/chart/treemap): 在线矩形树图制作工具，通过面积可视化层次结构数据，支持嵌套节点与多级钻取。
+- [桑基图制作工具](https://www.tooljson.com/data/chart/sankey): 在线桑基图制作工具，可视化流量、转化、能量流向，支持多级节点与权重配色。
+- [热力图制作工具](https://www.tooljson.com/data/chart/heatmap): 在线热力图制作工具，用矩阵形式展示二维数据密度，支持自定义颜色映射、单元格标签。
+- [K 线图制作工具](https://www.tooljson.com/data/chart/candlestick): 在线 K 线图制作工具，支持开盘价、收盘价、最低价、最高价数据展示，适合股票、基金和价格走势分析。
+- [仪表盘图制作工具](https://www.tooljson.com/data/chart/gauge): 在线仪表盘图制作工具，输入指标值、最小值、最大值和单位，即可生成完成率、评分、进度等仪表盘图。
+- [关系图制作工具](https://www.tooljson.com/data/chart/graph): 在线关系图制作工具，展示节点关系、业务链路、知识网络与实体连接，支持分类、节点大小和连接权重。
+- [柱状图工具](https://www.tooljson.com/images/bar-chart): 创建专业的柱状图，支持多种样式、主题和导出格式。适用于数据分析、报告制作和演示文稿。
+- [折线图工具](https://www.tooljson.com/images/line-chart): 创建专业的折线图，支持多种样式、主题和导出格式。适用于趋势分析、报告制作和演示文稿。
+- [雷达图工具](https://tooljson.com/images/radar-chart): 功能强大的雷达图制作工具，支持多数据源导入、丰富的样式定制、交互功能和数据分析。
+- [南丁格尔玫瑰图生成器](https://www.tooljson.com/images/nightingale-rose-chart): 展示不同风向的出现频率或强度分布，用于气象与环境监测。
+- [专业堆叠面积图生成器](https://www.tooljson.com/images/stacked-area-chart): 专业堆叠面积图生成器，支持配置化堆叠面积图、平滑/折线切换、主题一键应用、导出图片与复制到剪贴板。
+- [3D 图表生成器](https://tooljson.com/3D/chart): 生成立体数据图表，支持多种 3D 可视化效果。
+
+
+## 游戏工具
+- [2048 游戏](https://tooljson.com/games/2048): 经典的数字合并益智游戏，挑战最高分数
+- [五子棋游戏](https://tooljson.com/games/gomoku): 传统五子棋对战游戏，支持人机对战和双人模式
+- [跳跃小游戏](https://tooljson.com/games/jump): 简单有趣的跳跃闯关游戏，测试反应能力
+- [贪吃蛇游戏](https://tooljson.com/games/snake): 经典贪吃蛇游戏，控制蛇吃食物并避免撞墙
+- [俄罗斯方块](https://tooljson.com/games/tetris): 经典俄罗斯方块游戏，挑战高分和速度
+- [井字棋游戏](https://tooljson.com/games/tictactoe): 经典井字棋游戏，支持3x3、5x5、7x7多种棋盘大小和AI对战
+- [记忆配对游戏](https://tooljson.com/games/memory-match): 翻牌记忆游戏，训练记忆力和专注力
+- [连连看游戏](https://tooljson.com/games/link-link): 经典连连看消除游戏，考验观察力和策略
+- [推箱子游戏](https://tooljson.com/games/sokoban): 经典推箱子游戏，考验策略和操作技巧
+- [数独游戏](https://tooljson.com/games/sudoku): 数独数字逻辑游戏，提供多种难度级别
+- [扫雷游戏](https://tooljson.com/games/minesweeper): 经典扫雷游戏，考验逻辑推理能力
+- [飞机射击游戏](https://tooljson.com/games/aircraft-shooting): 经典飞机射击游戏，挑战反应速度和操作技巧
+- [24点游戏](https://tooljson.com/games/24): 数学计算游戏，用四个数字通过运算得到24
+- [中国象棋](https://tooljson.com/games/chinese-chess): 传统中国象棋游戏，支持人机对战
+- [快乐元素游戏](https://tooljson.com/games/happy-elements): 三消类休闲游戏，轻松愉快的游戏体验
+- [成语填字游戏](https://www.tooljson.com/games/idiom-crossword-puzzle): 在娱乐中学习和巩固成语知识，提升中华文化素养
+- [蜘蛛纸牌游戏](https://www.tooljson.com/games/ancient-spider): 经典蜘蛛纸牌游戏
+- [空当接龙](https://www.tooljson.com/games/free-cell): 空当接龙纸牌
+- [经典纸牌](https://www.tooljson.com/games/klondike): 经典纸牌
+- [连连看大师](https://www.tooljson.com/games/onet-master): 连连看大师
+- [国际象棋](https://www.tooljson.com/games/chess): 国际象棋
+- [打字游戏](https://www.tooljson.com/games/fast-typer): 打字游戏
+- [在线飞镖](https://www.tooljson.com/games/online-darts): 在线飞镖游戏
+- [气球打字游戏](https://www.tooljson.com/games/ballon-typer): 气球打字游戏
+- [打字游戏2](https://www.tooljson.com/games/fast-typer2): 打字游戏2
+- [中国跳棋](https://www.tooljson.com/games/chinese-checkers): 中国跳棋
+- [经典弹球游戏](https://www.tooljson.com/games/pong): 经典弹球游戏，玩家通过控制球拍移动来反弹球，得分的一方获胜
+- [围棋](https://www.tooljson.com/games/go): 经典围棋游戏
+- [脑筋急转弯](https://www.tooljson.com/games/brain-teasers): 经典脑筋急转弯游戏
+- [倒水游戏](https://www.tooljson.com/games/water): 经典倒水益智游戏
+
+- [寿命测试](https://www.tooljson.com/when-will-i-die): 寿命测试，帮助您确定自己的寿命
+
+## 测评工具
+- [舒尔特方格](https://www.tooljson.com/test/shuerte): 舒尔特方格训练工具，支持 3x3-6x6、标准/盲打/禅模式、结果分享恢复与本地历史记录。
+- [IQ测试](https://www.tooljson.com/test/IQ-test): 智商(IQ)测试 - 在线智力水平评估。免费在线智商(IQ)测试，通过多维度题目快速评估您的智力水平。
+- [Holland 职业测试](https://www.tooljson.com/holland-vocational-test): 霍兰德职业兴趣测试 2026 版基于 RIASEC 六型模型评估职业偏好，生成兴趣代码、优势解释、适合专业与职业方向，支持结果保存、分享和 Pro 报告。
+- [mbti 性格测试](https://www.tooljson.com/mbti): 专业的 MBTI 性格测试工具，提供简介版、标准版和完整版测试，帮助您深入了解自己的性格特点。提供详细分析报告，职业建议，性格匹配功能。
+- [明尼苏达多项人格测试 (MMPI)](https://www.tooljson.com/mmpi-test): 免费在线MMPI-2明尼苏达多项人格测验，既可用于精神疾病的初步筛查，也能对人格特征进行全面评估。
+- [SDS 抑郁自评量表](https://www.tooljson.com/yiyu-sds-test): SDS抑郁自评量表，专业的抑郁情绪评估工具，帮助您了解心理健康状况
+- [Big Five (OCEAN) 测评](https://www.tooljson.com/test/big-five-personality-traits): 免费专业的大五人格 (Big Five Personality Traits) 测评，包含外向性、宜人性、尽责性、神经质、开放性五个维度的深度分析。提供详细的性格雷达图、职业发展建议。
+- [九型人格测评在线版](https://www.tooljson.com/test/enneagram-test): 27/54/72 题测出九型人格主型、翼型和本能副型，支持本地缓存、分享恢复、PDF 报告与 Pro AI 行动分析。
+- [人格障碍筛查测试](https://www.tooljson.com/test/personality-disorder-test): 基于DSM-5标准的30题快速筛查，评估偏执、边缘、自恋、强迫等10种常见人格障碍倾向。
+- [职业倦怠测试 (MBI)](https://www.tooljson.com/test/burnout): 免费且专业的在线职业倦怠测试工具，基于马斯拉奇倦怠量表 (MBI)。通过情绪耗竭、去人性化和个人成就感三个维度，科学评估您的工作压力和职业倦怠程度。
+- [SBTI 人格测试在线测试](https://www.tooljson.com/test/sbti): 30 道题快速测出你的抽象人格类型，输出 15 维落点、27 种结果、分享链接恢复、结果复制与 JSON 下载。Pro 会员可继续生成 AI 关系策略与成长建议。
+- [洛克-华莱氏恋爱/婚姻调适量表](https://www.tooljson.com/test/locke-wallace-marital-adjustment-test): 15 题快速评估关系满意度与调适状态，输出总分与三维度剖面，支持分享恢复、结果下载与 Pro AI 沟通修复计划。
+- [DISC行为风格测评](https://www.tooljson.com/test/disc): 专业的DISC行为风格测评系统，基于Dominance（主导）、Influence（影响）、Steadiness（稳健）、Compliance（服从）四个核心维度，为您提供深度职场行为风格分析。
+- [EQ 情商测试](https://www.tooljson.com/test/eq): 专业的EQ情商测试系统，从情绪觉察、情绪调节、共情能力、社交处理四个维度全面评估您的情绪智力。基于科学的心理学量表，助您提升职场人际关系与领导力。
+- [全方位学习风格测评](https://www.tooljson.com/test/learning-style): 基于VARK模型和多元智能理论，深度分析您的学习偏好和智能优势。
+- [拖延症测试](https://www.tooljson.com/test/tuoyan): 专业拖延症评估工具，分析学业、工作和决策拖延倾向，提供针对性建议，助你战胜拖延。
+- [专注力评估](https://www.tooljson.com/test/concentration): 基于心理学维度的多方位专注力评估工具，帮助你了解自己的专注深度、抗干扰能力及心流体验倾向。
+- [AI 知识问答](https://www.tooljson.com/test/trivia): 选择分类、难度和题量进行在线问答挑战。Pro 会员可用 AI 实时题库，普通用户可体验示例题库。
+- [小气值仪表盘](https://www.tooljson.com/test/pettiness-meter): 输入你的吐槽，查看从“合理关切”到“先放下”的刻薄值仪表盘，并获得行动建议。
+- [双向情感障碍测评工具](https://www.tooljson.com/test/bipolar-disorder-test): MDQ 风格双相障碍筛查，评估情绪高涨、睡眠减少、冲动行为与功能影响，支持结果复制、下载、分享恢复与 Pro AI 就医沟通报告。
+
+## 音频工具
+- [音频格式转换器](https://www.tooljson.com/common/audio-converter): 免费在线音频格式转换工具，支持MP3, WAV, AAC, OGG, FLAC等多种格式互转。支持批量转换。
+- [在线音频编辑器专业版](https://www.tooljson.com/audio-editor): AI 智能在线音频编辑器，支持多轨道剪辑、录音、降噪、混音、格式转换与无损导出。
+- [键盘 MIDI 钢琴播放器](https://www.tooljson.com/common/keyboard-midi-player): 在线钢琴键盘工具，支持电脑键盘演奏、和弦播放、简谱映射与自动播放，提供更专业的音色体验。
+- [押韵时钟](https://www.tooljson.com/common/rhyming-clock): 极简拟物化诗意时钟，每分钟自动生成一首包含当前时刻的中文短诗，仅展示诗句并以打字动画更新。
+
+
+## AI 工具
+- [儿童睡前故事机](https://www.tooljson.com/ai/bedtime-story): 输入年龄、性别、兴趣、风格和教育主题，生成高质量中文睡前故事。
+- [5 Whys 根因分析](https://www.tooljson.com/ai/five-whys): 回答五次为什么，借助 DeepSeek 找出根本原因、解决方案与关键见解。
+- [AI 团队头脑风暴策划](https://www.tooljson.com/ai/brainstorming-planner): 输入公司、产品、时间线、团队目标与会议类型，先输出业务理解摘要，再生成 6 条上下文化创意方案。
+- [AI 文本人类化](https://www.tooljson.com/ai/aihumanize): 检测 AI 痕迹，将机器文本转化为自然流畅的人类语言。保留原意，提升可读性。
+- [提示词生成器](https://www.tooljson.com/ai/prompt-generator): 深度优化提示词，支持多模型、多语言与结构化增强。
+- [AI手相分析](https://www.tooljson.com/ai/palm-reading): AI手相分析工具。
+- [AI Logo 生成器](https://www.tooljson.com/common/online-logo-maker): 使用我们的AI Logo生成器，快速、免费地为您的品牌创建专业Logo。只需输入您的公司名称和想法，即可获得独特的设计。支持多种风格，包括现代、简约、复古等。
+
+## 文本工具
+- [ASCII艺术字生成器](https://www.tooljson.com/text/text-to-ascii):一个强大的ASCII艺术字生成器，支持多种字体、实时预览和多种导出格式。Create cool ASCII art from text with various fonts
+- [文本转图片工具](https://www.tooljson.com/convert-text-to-image): 文本转图片工具 - 在线文本转图片工具。
+- [哲学词典](https://www.tooljson.com/philosophy-dictionary): 哲学词典 - 在线哲理名言与智慧语录。
+- [文本片段链接生成器](https://www.tooljson.com/common/text-fragment-generator): 文本片段链接生成器 - Text Fragment Link Generator。
+- [成语词典](https://www.tooljson.com/common/chengyu): 成语词典 - 在线成语查询工具。
+- [中文字符转拼音](https://www.tooljson.com/characters-to-pinyin): 中文字符转拼音分析系统 - 专业中文字符转拼音规律计算工具。
+
+## 计算工具
+- [国家育儿补贴计算器](https://www.tooljson.com/childcare-subsidy-calculator): 国家育儿补贴计算器，输入宝宝出生日期，快速计算可获得的育儿补贴金额
+- [房贷计算器](https://www.tooljson.com/calculator/mortgage-calculator): 专业的房贷计算工具，支持等额本息、等额本金、组合贷款多种方式
+
+## 日期工具
+- [十二时辰养生工具](https://www.tooljson.com/date/shichen-converter): 十二时辰养生工具，融合古代智慧与现代科学，为您提供专业的时辰养生指导
+- [人生时间轴](https://www.tooljson.com/date/life-timeline): 可视化您的人生历程，记录重要时刻，珍惜时间。
+- [工作日计算器](https://www.tooljson.com/date/working-day): 在线计算两个日期之间的工作日天数，支持自定义节假日。
+- [周数计算器](https://www.tooljson.com/date/current-week): 专业的周数计算工具，支持 ISO 8601 标准，提供日期查询和计划安排功能。
+- [万年历](https://www.tooljson.com/date/2026-calenedar): 万年历 - 专业日历查询工具 | 节假日查询 | 农历转换。专业的万年历工具，支持1900-2100年任意日期查询。
+- [时区会议计划工具](https://www.tooljson.com/date/timezone-meeting-planner): 跨时区会议时间协调器 - 在线时区转换与会议安排工具。专业的跨时区会议协调工具，支持多人多时区时间重叠检测。
+- [日期计算器](https://www.tooljson.com/date/date-calculator): 日期计算器 - 专业的在线日期差、年龄、工作日及倒计时工具。
+- [日期区间分析器](https://www.tooljson.com/date/date-interval-analyzer): 专业日期区间分析工具，支持自然日、工作日、周末、法定节假日、财年季度与月度分布拆解。
+- [循环排期生成器](https://www.tooljson.com/date/recurrence-schedule-planner): 支持按日、按周、按月规则生成执行计划，自动生成 RRULE，并支持 ICS 日历导出。
+- [SLA截止时间计算器](https://www.tooljson.com/date/sla-deadline-calculator): 自动考虑工作时段、周末和节假日，计算真实可执行的截止时间与时效风险。
+
+
+## 网络工具
+- [DNS 查询工具](https://www.tooljson.com/dns-lookup): 专业DNS查询工具 实时DNS记录查询和解析 - 支持所有主要记录类型
+- [在线图标提取工具](https://www.tooljson.com/get-web-favicon): 在线图标提取工具，提取网站图标（Favicon）并保存为图片文件
+- [专业IP子网计算器](https://www.tooljson.com/network/subnetmask-calculator):专业的IP子网计算器，支持IPv4和IPv6。快速计算网络地址、广播地址、主机范围和子网掩码。提供VLSM计算、路由汇总和批量处理功能，是网络工程师的必备工具。
+- [MAC地址生成工具](https://www.tooljson.com/network/mac-address-generator): 专业的MAC地址生成工具，支持批量生成和自定义格式。方便用户在网络配置中使用唯一的MAC地址。
+- [子域名发现工具](https://www.tooljson.com/network/subdomains-query): 专业的子域名枚举工具，支持 DNS 枚举、证书透明度、搜索引擎等多种发现方式，并附带状态检测。
+- [网站测速工具](https://www.tooljson.com/network/site-speed): 专业的网站性能测试与加载速度分析工具，支持核心 Web 指标检测、移动端与桌面端测速。
+- [SSL证书检查工具](https://www.tooljson.com/ssl-check): 免费在线 SSL 证书检测与分析工具，检查证书有效期、协议支持、安全评分和配置问题。
+- [HTTP头部分析工具](https://www.tooljson.com/web/http-header-analyzer): 专业的HTTP头部分析工具，提供安全性检测、性能优化建议、合规性检查等功能。 支持实时分析、历史记录、比较功能和详细的优化建议
+- [WebSocket测试工具](https://www.tooljson.com/web/websocket-test-tool): 专业的WebSocket测试工具，支持多种WebSocket协议，提供实时数据传输、性能测试和安全性分析功能。支持多种WebSocket协议，提供实时数据传输、性能测试和安全性分析功能。
+- [MIME 类型查询工具](https://www.tooljson.com/web/mime-type-search): 专业的MIME类型查询和管理工具，支持文件扩展名与MIME类型的双向查询，如：.jpg、image/jpeg、text/plain等。
+- [URL 解析器](https://www.tooljson.com/web/url-parser): 拆解协议、域名、路径、查询参数和 Hash，并支持重新编辑生成链接
+- [Slug 生成器](https://www.tooljson.com/web/slug-generator): 把中英文标题快速转换为适合 URL、CMS、博客和落地页的 Slug，支持分隔符、停用词和拼音模式
+
+
+## 查询工具
+
+- [天气预报](https://www.tooljson.com/search/weather): 免费在线天气预报工具，支持全球城市天气查询，提供实时天气、24小时预报和7天天气预报。包含温度、湿度、风速等详细信息。支持多城市对比，天气预警提醒。
+- [汇率查询工具](https://www.tooljson.com/search/currency): 免费在线汇率查询工具，支持全球主要货币实时汇率查询和转换。提供准确的汇率数据，支持历史汇率查询。支持多货币对比，汇率走势图表，一键计算器功能。
+
+## Web 工具
+
+- [网页截图工具](https://www.tooljson.com/web/web-screenshot): 输入网址，一键生成网页截图，支持多种分辨率和格式。
+- [网页性能分析工具](https://www.tooljson.com/web/website-performance-analyzer): 测试网页加载速度，提供优化建议和性能分析。
+- [网站链接检查工具](https://www.tooljson.com/web/web-link-checker): 检查网站链接的有效性，快速发现死链和错误链接。
+- [IP地址查询工具](https://www.tooljson.com/search/ip): 专业的IP地址查询工具，支持IPv4和IPv6查询。免费获取IP地理位置、ISP信息、ASN、时区、国家区域等详细信息。支持批量查询、历史记录、收藏管理。
+- [在线Ping工具](https://www.tooljson.com/network/ping): 免费专业的在线Ping网络测试工具，支持快速Ping测试和持续监控。实时检测网络延迟、丢包率、连接质量，支持域名和IP地址测试。
+- [HTTP状态查询工具](https://www.tooljson.com/network/http-status-query): HTTP状态查询工具
+- [WHOIS查询工具](https://www.tooljson.com/network/whois-query): WHOIS查询工具
+- [浏览器指纹探测器](https://www.tooljson.com/search/fingerprint): 免费在线浏览器指纹探测器，支持深度探测浏览器特征、WebGL、Canvas、音频指纹、字体检测等。提供直观的指纹信息展示，支持多种浏览器环境。
+- [颜色转换工具](https://www.tooljson.com/web/color-converter): 免费在线颜色转换工具，支持 HEX、RGB、HSL、CMYK、LAB 等多种颜色空间转换。提供颜色和谐性分析、可访问性检查、色盲测试等功能。
+
+## 3D 工具
+- [几何体生成器](https://tooljson.com/3D/geometry-generator): 生成各种 3D 几何体模型，支持参数自定义和导出
+- [太阳系模拟](https://tooljson.com/3D/solar-system): 3D 太阳系模拟器，探索行星运行轨道
+- [3D 数字时钟](https://3d.tooljson.com/3D/clock): 沉浸式 3D 数字时钟工具，实时显示当前时间，适合全屏展示与桌面氛围场景
+- [3D 圣诞树](https://www.tooljson.com/3D/christmas): 炫酷的3D交互式圣诞树，支持手势控制、照片上传、粒子特效。通过摄像头手势识别控制圣诞树变换，握拳聚合、张开散开、捏合聚焦照片、剪刀手画廊模式。
+
+## 金融工具
+- [iban](https://www.tooljson.com/finance/iban): 专业的IBAN（国际银行账户号码）在线验证和解析工具。支持全球70+国家和地区的IBAN格式验证、MOD-97校验算法、银行代码解析、账户信息提取。提供详细的IBAN结构分析和格式说明，适合金融机构、开发人员和个人用户使用。
+- [salary-calculator](https://www.tooljson.com/finance/salary-calculator): 专业的工资计算器，支持小时工资、日薪、周薪、月薪、年薪等多种薪资计算。自动调整节假日和休假日，提供未调整和调整后的薪资数据。简化您的工资计算流程，支持多种支付周期转换。
+- [asset-allocation](https://www.tooljson.com/finance/asset-allocation-recommendations): 专业的资产配置建议工具，根据年龄、风险承受能力、投资目标等因素，为您量身定制股票、债券、现金、保险的最优配置比例。提供科学的投资组合建议，帮助您实现财务目标。
+- [financial-freedom-calculator](https://www.tooljson.com/finance/financial-freedom-calculator):专业的财务自由计算器，基于经典4%法则计算达到财务自由所需资产。支持时间轴规划可视化、复合增长计算、通胀调整，帮助您科学规划财务自由之路。
+- [保险需求计算器](https://www.tooljson.com/finance/insurance-needs-calculator): 保险需求计算器 - 专业保险保额需求分析工具。专业的保险需求计算器，根据家庭收入、负债、抚养人数等因素科学计算所需保额。
+- [定投计算器](https://www.tooljson.com/finance/dollar-cost-averaging): 在线定投工具 - XIRR与年化收益可视化。专业的在线定投工具，支持每日/每周/每月/每季度频率，计算总投入、最终市值、累计收益、简单年化与XIRR。
+- [租房还是买房计算器](https://www.tooljson.com/finance/rent-vs-buy-calculator): 全方位分析购房与租房的长期财务影响，助您做出明智决策。支持自定义房价、首付、贷款利率、房租增长率、投资回报率等关键参数。
+- [个税计算器2026](https://www.tooljson.com/finance/tax-calculator): 最新个人所得税计算器，支持月薪、年终奖、五险一金自定义计算。精准计算税后工资，一键生成个税明细。
+- [债务雪球/雪崩还款计算器](https://www.tooljson.com/finance/debt-payoff-calculator): 多债务还款规划工具，对比雪球法与雪崩法的还清时间和总利息，帮助您降低债务成本。
+- [养老金缺口计算器](https://www.tooljson.com/finance/retirement-gap-calculator): 测算退休所需资产、预计可积累资产和资金缺口，并给出每月储蓄建议。
+- [在线 IRR 计算器](https://www.tooljson.com/finance/irr-calculator): 输入现金流序列计算 IRR 内部收益率、年化收益率、NPV、MIRR、回收期与回报倍数，并绘制 NPV 曲线。
+- [在线金价查询](https://www.tooljson.com/common/gold-price): 实时查看上海金、伦敦金、纽约金与白银行情，支持克、千克、盎司换算估算参考市值，并可复制结果、下载摘要与分享恢复。
+
+## 数学工具
+- [正态分布计算器](https://www.tooljson.com/calculator/normal-distribution): 全面的正态分布计算器：PDF/CDF/分位数、区间概率、Z分数/百分位互转、曲线可视化与导出、Z检验与置信区间、正态性检验与 Q-Q 图。
+- [代数计算器](https://www.tooljson.com/calculator/algebra-calculator): 代数计算器 - 在线方程求解工具。免费在线代数计算器，支持一元一次、一元二次、一元三次方程求解。
+- [微积分计算器](https://www.tooljson.com/calculator/calculus-calculator): 微积分计算器 - 在线求导/积分/极限/级数与函数图像工具。支持符号计算、图像可视化与 AI 解析，适合学习与工程场景。
+- [排列组合计算器](https://www.tooljson.com/calculator/permutation-combination): 排列组合计算器 - 精确计算 P(n,k)、C(n,k) 与阶乘 n!（支持大数）。提供输入校验、历史记录与一键复制结果。
+- [函数图像绘制工具](https://www.tooljson.com/math/function-graph-plotter): 高级在线函数图像绘制工具 - 2D/3D 交互式绘图与导数计算。免费的高级在线函数图像绘制工具，支持 2D 和 3D 函数绘图。
+- [多项式计算器](https://www.tooljson.com/math/integer-calculator): 在线整式与多项式计算工具，支持展开、化简、因式分解、合并同类项、代入求值、批量计算、分享链接与 Pro AI 识别代入求值。
+- [贝叶斯算法与应用](https://www.tooljson.com/math/bayesian-algorithm-and-applications): 贝叶斯算法专业工具 - 交互式贝叶斯定理学习与应用平台。专业的贝叶斯算法可视化学习工具。
+- [表达式数学计算器](https://www.tooljson.com/math/expression-math-calculator): 表达式数学计算器 - 在线解析与计算。支持数学表达式解析与计算，涵盖四则运算、括号优先级、幂与平方根等。
+- [矩阵计算器](https://www.tooljson.com/math/matrix-calculator): 矩阵计算器 - 在线矩阵运算、分解与线性代数工具。支持矩阵加减乘、转置、行列式、逆矩阵等常见运算。
+- [线性回归分析器](https://www.tooljson.com/math/linear-regression): 基于最小二乘法的一元线性回归分析工具，输出拟合方程、R²、RMSE、残差统计与单点预测。
+- [二次方程求解器](https://www.tooljson.com/math/quadratic-equation-solver): 输入 a、b、c 快速求解 ax²+bx+c=0，支持实根/复根、判别式、顶点、对称轴、顶点式/交点式转换，提供详细解题步骤和图像可视化。
+- [描述统计计算器](https://www.tooljson.com/math/descriptive-statistics-calculator): 对一组数据计算均值、中位数、众数、方差、标准差、偏度、峰度、分位数和 95% 置信区间，提供直方图/正态曲线/箱线图可视化及 CSV 导出。
+- [基础统计计算器](https://www.tooljson.com/math/basic-statistics-calculator): 输入一组数据实时计算均值、中位数、方差、标准差、四分位数、百分位数和 95% 置信区间，支持异常值识别、散点图、历史记录、分享恢复和 CSV 导出。
+- [小学数学计算器](https://www.tooljson.com/math/primary-arithmetic-practice):专为小学生、家长和老师设计，可根据知识点无限生成计算题。支持在线练习和打印，是辅导孩子数学、巩固计算能力的得力助手。 
+- [5以内加法](https://www.tooljson.com/math/primary-arithmetic-practice/1): 练习5以内的数字相加
+- [5以内减法](https://www.tooljson.com/math/primary-arithmetic-practice/2): 练习5以内的数字相减
+- [10以内加法](https://www.tooljson.com/math/primary-arithmetic-practice/3): 练习10以内的数字相加
+- [10以内减法](https://www.tooljson.com/math/primary-arithmetic-practice/4): 练习10以内的数字相减
+- [20以内加法](https://www.tooljson.com/math/primary-arithmetic-practice/5): 20以内进位与不进位加法
+- [20以内退位减法](https://www.tooljson.com/math/primary-arithmetic-practice/6): 学习借位和退位技巧
+- [两位数无进位加法](https://www.tooljson.com/math/primary-arithmetic-practice/7): 练习个位与十位分别相加
+- [两位数有进位加法](https://www.tooljson.com/math/primary-arithmetic-practice/8): 掌握满十进一的计算方法
+- [两位数无借位减法](https://www.tooljson.com/math/primary-arithmetic-practice/9): 练习个位与十位分别相减
+- [两位数有借位减法](https://www.tooljson.com/math/primary-arithmetic-practice/10): 掌握借一当十的计算方法
+- [三位数无进位加法](https://www.tooljson.com/math/primary-arithmetic-practice/11): 百位数以内的简单加法
+- [三位数有进位加法](https://www.tooljson.com/math/primary-arithmetic-practice/12): 练习连续进位的加法计算
+- [三位数无借位减法](https://www.tooljson.com/math/primary-arithmetic-practice/13): 百位数以内的简单减法
+- [三位数有借位减法](https://www.tooljson.com/math/primary-arithmetic-practice/14): 练习连续借位的减法计算
+- [乘法口诀(1-9)](https://www.tooljson.com/math/primary-arithmetic-practice/15): 九九乘法口诀表练习
+- [一位数乘两位数](https://www.tooljson.com/math/primary-arithmetic-practice/16): 学习多位数乘法的基本方法
+- [两位数乘两位数](https://www.tooljson.com/math/primary-arithmetic-practice/17): 掌握两位数相乘的竖式计算
+- [两位数除一位数](https://www.tooljson.com/math/primary-arithmetic-practice/18): 表内除法和有余数的除法
+- [三位数除一位数](https://www.tooljson.com/math/primary-arithmetic-practice/19): 学习长除法和商的定位
+- [小数加法](https://www.tooljson.com/math/primary-arithmetic-practice/20): 小数点对齐，按位计算
+- [小数减法](https://www.tooljson.com/math/primary-arithmetic-practice/21): 小数点对齐，不够减时借位
+- [小数乘法](https://www.tooljson.com/math/primary-arithmetic-practice/22): 按整数乘法计算，再点小数点
+- [小数除法](https://www.tooljson.com/math/primary-arithmetic-practice/23): 将除数转换为整数再计算
+- [同分母分数加法](https://www.tooljson.com/math/primary-arithmetic-practice/24): 分母不变，分子相加
+- [同分母分数减法](https://www.tooljson.com/math/primary-arithmetic-practice/25): 分母不变，分子相减
+- [分数加减混合运算](https://www.tooljson.com/math/primary-arithmetic-practice/26): 练习三个分数的加减法
+- [分数乘法](https://www.tooljson.com/math/primary-arithmetic-practice/28): 分子乘分子，分母乘分母
+- [分数除法](https://www.tooljson.com/math/primary-arithmetic-practice/29): 乘以一个数等于除以它的倒数
+- [长方形/正方形周长](https://www.tooljson.com/math/primary-arithmetic-practice/30): 计算常见图形的周长
+- [长方形/正方形面积](https://www.tooljson.com/math/primary-arithmetic-practice/31): 计算常见图形的面积
+- [三角形周长](https://www.tooljson.com/math/primary-arithmetic-practice/32): 三角形三条边的长度之和
+- [平行四边形面积](https://www.tooljson.com/math/primary-arithmetic-practice/33): 底乘以高
+- [梯形面积](https://www.tooljson.com/math/primary-arithmetic-practice/34): 上底加下底的和乘以高再除以2
+- [圆周长](https://www.tooljson.com/math/primary-arithmetic-practice/35): 直径乘以圆周率
+- [圆面积](https://www.tooljson.com/math/primary-arithmetic-practice/36): 半径的平方乘以圆周率
+- [体积计算](https://www.tooljson.com/math/primary-arithmetic-practice/37): 如长方体体积计算
+- [单位换算(长度)](https://www.tooljson.com/math/primary-arithmetic-practice/38): 米、厘米、千米之间的换算
+- [单位换算(时间)](https://www.tooljson.com/math/primary-arithmetic-practice/39): 时、分、秒之间的换算
+- [单位换算(重量)](https://www.tooljson.com/math/primary-arithmetic-practice/40): 克、千克、吨之间的换算
+- [单位换算(容量)](https://www.tooljson.com/math/primary-arithmetic-practice/41): 升、毫升之间的换算
+- [距离计算](https://www.tooljson.com/math/primary-arithmetic-practice/42): 速度、时间、路程的关系
+- [比例计算](https://www.tooljson.com/math/primary-arithmetic-practice/43): 解比例和比例应用题
+- [100以内填括号](https://www.tooljson.com/math/primary-arithmetic-practice/44): 练习加减法中的未知数求解
+- [10以内三个数连加](https://www.tooljson.com/math/primary-arithmetic-practice/45): 练习多个数字的连续相加
+- [10以内三个数连减](https://www.tooljson.com/math/primary-arithmetic-practice/46): 练习多个数字的连续相减
+- [10以内加减混合](https://www.tooljson.com/math/primary-arithmetic-practice/47): 练习带加减的三个数运算
+- [20以内三个数连加](https://www.tooljson.com/math/primary-arithmetic-practice/48): 20以内连加法练习
+- [20以内三个数连减](https://www.tooljson.com/math/primary-arithmetic-practice/49): 20以内连减法练习
+- [20以内加减混合](https://www.tooljson.com/math/primary-arithmetic-practice/50): 20以内加减混合运算练习
+- [元角分换算](https://www.tooljson.com/math/primary-arithmetic-practice/51): 人民币单位之间的换算
+- [100以内三个数连加](https://www.tooljson.com/math/primary-arithmetic-practice/52): 百以内多位数连加
+- [100以内三个数连减](https://www.tooljson.com/math/primary-arithmetic-practice/53): 百以内多位数连减
+- [100以内加减混合](https://www.tooljson.com/math/primary-arithmetic-practice/54): 百以内加减混合运算
+- [千以内的四则运算](https://www.tooljson.com/math/primary-arithmetic-practice/55): 带乘除和加减的混合运算
+- [千以内含括号的四则运算](https://www.tooljson.com/math/primary-arithmetic-practice/56): 带括号的混合运算
+- [巧算-凑整加法](https://www.tooljson.com/math/primary-arithmetic-practice/57): 利用加法交换律和结合律凑整
+- [巧算-乘法交换律](https://www.tooljson.com/math/primary-arithmetic-practice/58): 交换因数位置使计算更简单
+- [近似数认识](https://www.tooljson.com/math/primary-arithmetic-practice/59): 学习使用“四舍五入”法取近似数
+- [巧算-乘法分配律](https://www.tooljson.com/math/primary-arithmetic-practice/60): 两个数的和或差乘以一个数
+- [三位数除两位数](https://www.tooljson.com/math/primary-arithmetic-practice/61): 商是两位数的除法
+- [整百整十数乘一位数](https://www.tooljson.com/math/primary-arithmetic-practice/62): 末尾有0的乘法
+- [整百整十数除以整十数](https://www.tooljson.com/math/primary-arithmetic-practice/63): 被除数和除数末尾都有0的除法
+- [巧算-加法结合律](https://www.tooljson.com/math/primary-arithmetic-practice/64): 改变加数顺序，让计算更简单
+- [圆柱的体积](https://www.tooljson.com/math/primary-arithmetic-practice/65): 底面积乘以高
+- [圆锥的体积](https://www.tooljson.com/math/primary-arithmetic-practice/66): 底面积乘以高的三分之一
+- [凑十法](https://www.tooljson.com/math/primary-arithmetic-practice/67): 将一个数拆分，使两个数相加等于10
+- [破十法](https://www.tooljson.com/math/primary-arithmetic-practice/68): 将十几拆成10和几，用10减另一个数
+- [借十法](https://www.tooljson.com/math/primary-arithmetic-practice/69): 个位不够减，向十位借1作10
+- [平十法](https://www.tooljson.com/math/primary-arithmetic-practice/70): 将被减数拆分，分步减除数 
+
+## 初中数学计算器
+- [junior-high-arithmetic-practice](https://www.tooljson.com/math/junior-high-arithmetic-practice):专为初中生、家长和老师设计，可根据知识点无限生成计算题。支持在线练习和打印，是辅导孩子数学、巩固计算能力的得力助手。
+- [有理数加减法](https://www.tooljson.com/math/junior-high-arithmetic-practice/rational-addition-subtraction): 练习有理数的加减运算，包括正负数、小数和分数。
+- [有理数乘除法](https://www.tooljson.com/math/junior-high-arithmetic-practice/rational-multiplication-division): 练习有理数的乘除运算。
+- [整数指数运算](https://www.tooljson.com/math/junior-high-arithmetic-practice/integer-exponentiation): 练习正整数指数的幂运算。
+- [科学计数法计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/scientific-notation): 练习使用科学计数法进行加减乘除。
+- [整式加减](https://www.tooljson.com/math/junior-high-arithmetic-practice/polynomial-addition-subtraction): 合并同类项，进行整式的加减运算。
+- [整式乘法](https://www.tooljson.com/math/junior-high-arithmetic-practice/polynomial-multiplication): 包括单项式×多项式、多项式×多项式。
+- [特殊乘法公式](https://www.tooljson.com/math/junior-high-arithmetic-practice/special-multiplication-formulas): 应用平方差、完全平方公式进行计算。
+- [代数式求值](https://www.tooljson.com/math/junior-high-arithmetic-practice/evaluating-algebraic-expressions): 已知变量的值，计算代数式的结果。
+- [一元一次方程](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-equations-one-variable): 求解简单的一元一次方程。
+- [一元一次方程应用](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-equations-one-variable-applications): 将实际问题转化为一元一次方程求解。
+- [一元一次不等式](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-inequalities-one-variable): 求解一元一次不等式并表示解集。
+- [一元二次方程](https://www.tooljson.com/math/junior-high-arithmetic-practice/quadratic-equations-one-variable): 求解整式系数的一元二次方程。
+- [分式加减](https://www.tooljson.com/math/junior-high-arithmetic-practice/fractional-addition-subtraction): 练习同分母或异分母分式的加减运算。
+- [分式乘除](https://www.tooljson.com/math/junior-high-arithmetic-practice/fractional-multiplication-division): 练习分式的乘法和除法运算。
+- [分式方程](https://www.tooljson.com/math/junior-high-arithmetic-practice/fractional-equations): 求解简单的分式方程。
+- [根式化简](https://www.tooljson.com/math/junior-high-arithmetic-practice/radical-simplification): 化简二次根式，使其最简。
+- [根式加减乘除](https://www.tooljson.com/math/junior-high-arithmetic-practice/radical-operations): 练习二次根式的混合运算。
+- [一次函数值的计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-function-value): 已知自变量，求一次函数的值。
+- [一次函数斜率与截距](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-function-slope-intercept): 从函数表达式中确定斜率和截距。
+- [由两点求一次函数](https://www.tooljson.com/math/junior-high-arithmetic-practice/linear-function-from-two-points): 根据两个点的坐标求一次函数表达式。
+- [平面几何角度计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/plane-geometry-angles): 涉及补角、余角、三角形内角和、平行线性质等。
+- [勾股定理计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/pythagorean-theorem): 在直角三角形中，已知两边求第三边。
+- [圆与扇形计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/circle-calculations): 计算圆的周长、面积，以及扇形的弧长和面积。
+- [相似三角形比例计算](https://www.tooljson.com/math/junior-high-arithmetic-practice/similar-triangles-ratio): 利用相似三角形的对应边成比例求解。
+- [简单事件概率](https://www.tooljson.com/math/junior-high-arithmetic-practice/probability-simple-events): 计算简单随机事件发生的概率。
+- [平均数、中位数、众数](https://www.tooljson.com/math/junior-high-arithmetic-practice/statistics-mean-median-mode): 计算一组数据的集中趋势。
+- [含括号的四则混合运算](https://www.tooljson.com/math/junior-high-arithmetic-practice/mixed-operations-with-parentheses): 练习整数或有理数范围内含多级括号的混合运算。
+- [代数式综合运算](https://www.tooljson.com/math/junior-high-arithmetic-practice/comprehensive-algebraic-expression): 整式、分式、根式的化简与求值。 
+
+
+## 音频工具
+
+- [文本转语音](https://www.tooljson.com/ai/text-to-speech): 将文本转换为语音，支持多种语言和音调选择。  
+
+## 关于我们
+
+- [关于我们](https://tooljson.com/about): 了解我们的使命和愿景
+- [隐私政策](https://tooljson.com/privacy): 查看我们的隐私政策
+- [使用条款](https://tooljson.com/terms): 查看服务使用条款

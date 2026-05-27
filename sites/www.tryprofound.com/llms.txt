@@ -1,0 +1,191 @@
+# Profound
+
+Profound is the leading platform for Answer Engine Optimization (AEO), empowering brands to understand, control, and maximize their visibility in AI-powered search environments. Built for the era of chat-based and generative search, Profound helps marketing, product, and content teams measure their presence in platforms like ChatGPT, Google AI Overviews, Perplexity, Gemini, Claude, Grok, and more, providing the intelligence and tools to act on AEO insights at scale.
+
+Combining deep analytics, real user prompt data, crawler and referral tracking, and AI-driven content automation, Profound equips organizations to monitor their brand’s performance in AI-generated answers, optimize content for LLMs, and orchestrate marketing workflows in an AI-first landscape. Profound is trusted by thousands of businesses, including major global brands and innovative agencies, and integrates seamlessly into high-performance marketing stacks.
+
+---
+
+## Platform Overview
+
+Profound is an all-in-one marketing and analytics platform dedicated to the future of AI-driven search. Its core modules provide comprehensive coverage of the entire AEO lifecycle, from analytics to action:
+
+- **Answer Engine Insights:**  
+  Track when, where, and how often your brand appears in AI-generated answers. Understand what AI says about you, benchmark against competition, analyze sentiment and citation sources, and receive actionable recommendations to improve AEO performance.
+
+- **Prompt Volumes:**  
+  See exactly what real users are asking across ChatGPT, Perplexity, Claude, Gemini, and more. Profound provides prompt volume across platforms, broken down by intent, demographic, and geography, giving brands clarity on AI-specific search demand and topic trends.
+
+- **Agent Analytics:**  
+  Go beyond web analytics with infrastructure-level tracking of AI bot and human referral traffic. Profound detects which AI crawlers are accessing your site, the frequency and depth of content retrieval, and ties this directly to downstream human visits from AI search engines.
+
+- **Agents & Workflows:**  
+  Automate AEO research, content creation, and optimization using Profound’s drag-and-drop workflow builder. Deploy pre-built or custom “Agents” to identify gaps, generate and optimize content, integrate with your CMS or communication tools, and measure results — at scale.
+
+- **Shopping Analysis:**  
+  Monitor and optimize product placements in ChatGPT Shopping and similar AI shopping features. Visualize how your SKUs, brands, and merchants appear in AI shopping results, identify triggers for shopping experiences, and benchmark competitive positioning.
+
+- **Integrations:**  
+  Profound connects with a wide array of modern platforms and infrastructure providers (WordPress, Contentful, Framer, Akamai, Cloudflare, AWS CloudFront, Netlify, Fastly, G2, Slack, Google Analytics, Vercel, Shopify, and more). These integrations enable tracking, content automation, and workflow orchestration across your full stack.
+
+---
+
+## What Is Answer Engine Optimization (AEO)?
+
+Answer Engine Optimization is the practice of structuring, formatting, and distributing content so that AI-powered systems — like ChatGPT, Google AI Overviews, voice assistants, and similar “answer engines” — can easily discover, trust, and cite your brand as the authoritative answer to real user prompts.
+
+Unlike SEO, which aims to rank pages in lists of links, AEO seeks to maximize brand share-of-voice, sentiment, and citation in synthesized, conversational answers. Success depends on machine-readable structure, entity and author authority, citation strategy, and a focus on the queries and topics that AI systems are actually presenting to users.
+
+**Key AEO differences:**
+- **Primary metric:** Share of AI citations and mentions, not just organic search rank.
+- **Trust signals:** Emphasis on structured data, schema, E-E-A-T, and external citations over classic backlink volume.
+- **User input:** Real conversational prompts, not just keywords.
+- **Personalization:** AI answers often vary by context, requiring content to be robust and easily extractable.
+- **Iteration:** Continuous, as AI answers update far more frequently than traditional search rankings.
+
+[Read: What is AEO?](https://www.tryprofound.com/resources/articles/what-is-answer-engine-optimization)  
+[Free AEO Starter Guide](https://www.tryprofound.com/resources/articles/answer-engine-optimization-aeo-guide-for-marketers-2025)
+
+---
+
+## Core Product Features
+
+### Answer Engine Insights
+
+Profound’s core analytics module tracks and benchmarks your AI presence across all major answer engines. Brands can configure tracked prompts (using suggestion wizards or upload real user questions), compare visibility scores, analyze sentiment, see citation sources and platforms, track competitive benchmarks, and receive expert-driven recommendations for actionable improvements.
+
+- **Visibility Tracking:** Share of voice, average position, and sentiment trends over time and by platform.
+- **Citation Analysis:** Uncover which third-party domains, media, reviews, and social platforms drive your brand’s “answer share.”
+- **Trends & Competitive Intel:** View platform and competitor comparisons by prompt, category, region, or persona.
+- **Custom Monitoring:** Track presence and perception across high-value topics, use cases, or content assets.
+
+### Prompt Volumes
+
+Go beyond search keywords: Profound’s proprietary dataset surfaces real-world prompt demand by AI users, updated weekly. Filter prompt volumes by intent (research, transactional, generative), demographic (age, income, gender), region, and platform.
+
+- **Conversation Explorer:** Discover trending questions and topics before they hit mainstream channels.
+- **Intent & Demographic Segmentation:** Plan and prioritize content by the questions your true audience is asking, and where.
+- **Volume “Gap” Detection:** Spotlight which topics your brand is missing versus competitors.
+
+### Agent Analytics
+
+Profound analyzes both bot and human traffic at the infrastructure layer. It identifies:
+- Which AI crawlers (e.g., GPTBot, Claude, PerplexityBot, etc.) are visiting your site.
+- Frequency, depth, and nature of visits.
+- Which pages are being indexed, cited, or used for training.
+- How many human users are referred from AI search (tracked via UTM or GA4).
+- Gaps in crawlability and content exposure.
+
+Supports direct integration with Cloudflare, Akamai, Fastly, Netlify, AWS CloudFront, Vercel, WordPress, Shopify, and more.
+
+### Agents & Automated Workflows
+
+Profound Agents let you multiply your marketing output by automating research, content creation, and optimizations for all AI touchpoints. 
+- **Pre-built templates:** FAQ generation, competitive research, AEO content refresh, content briefs, and more.
+- **Custom workflow builder:** Drag-and-drop interface for assembling complex, multi-step automations.
+- **Data-driven recommendations:** Each Agent adapts based on what is earning real AI citations and traffic.
+- **CMS and integration endpoints:** Publish, update, or enrich content automatically.
+
+### Shopping Analysis
+
+Track your brand, product, and merchant performance in ChatGPT Shopping and similar AI commerce features.
+- **SKU-level visibility:** See which products appear, where, and by what attribute.
+- **Merchant layer analysis:** Benchmark performance by retailer/share-of-checkout.
+- **Shopping mode triggers:** Understand which queries activate AI shopping tiles, and adapt your strategy.
+
+---
+
+## Sample Use Cases
+
+- **Enterprise Marketing Teams:** Track and enhance brand presence in AI answers, manage global AEO strategies, orchestrate multi-market content at scale, and demonstrate visibility ROI to leadership.
+- **E-commerce & Retail:** Monitor and optimize product placement in AI shopping experiences, boost conversions from “zero-click” AI-referred traffic, and own category leadership for discovery-phase prompts.
+- **Agencies:** Offer clients AEO auditing, pilot programs, and transparent reporting with competitive benchmarks; automate content workflows and co-market with Profound via the Partner Program.
+- **Content & PR Teams:** Measure sentiment, track PR impact within AI engines, identify and target high-authority citation sources, and automate reporting to stakeholders and clients.
+
+---
+
+## Security, Compliance & Enterprise-Grade Features
+
+Profound is designed for the world’s most security-conscious organizations:
+- **SOC 2 Type II certified:** Robust controls, end-to-end encryption, 24/7 monitoring.
+- **HIPAA-compliant:** Independently assessed for healthcare, pharma, and sensitive industries.
+- **Single Sign-On (SSO):** SAML/OIDC support, MFA, RBAC, and audit logging.
+- **GDPR & CCPA compliant:** Full data privacy, regional segregation, and deletion support.
+- **Enterprise support:** Dedicated account managers, SLAs, tailored onboarding, and white-glove implementation.
+- **Scalable integrations:** Plug into analytics, cloud infrastructure, and identity tools already in your stack.
+
+---
+
+## Research & Learning Resources
+
+- **White Papers & Trend Reports:**  
+  In-depth analysis on industry trends, AI citation patterns, platform comparisons, and tactical strategies.
+  - [AI Citations Trend Report](https://www.tryprofound.com/resources/white-papers/ai-citations-trend-report)
+  - [AEO Ultimate Guide](https://www.tryprofound.com/resources/white-papers/answer-engine-optimization)
+
+- **Webinars & Events:**  
+  Regular webinars with global experts (e.g., Zero Click Summit), client success panels, technical deep-dives, and product demos.
+  - [Zero Click Summit](https://www.tryprofound.com/zeroclick)
+  - [Agency and Brand Webinars](https://www.tryprofound.com/resources/webinars)
+
+- **Blog & Case Studies:**  
+  Breaking product news, original research, platform and industry commentary, and detailed customer success stories.[See Blog →](https://www.tryprofound.com/blog)
+  - [Alchemy: 7x higher signup via AI-referred traffic](https://www.tryprofound.com/customers/alchemy)
+  - [Ramp: 7x AI visibility in B2B fintech](https://www.tryprofound.com/customers/ramp-case-study)
+  - [Lake.com: 5x spike in branded organic traffic](https://www.tryprofound.com/customers/lake-com)
+
+- **Profound University:**  
+  Free educational content, certifications, cohort sessions, and best-practice templates for AEO and agentic marketing.
+
+---
+
+## The Marketing Engineer Manifesto
+
+Profound is pioneering the discipline of Marketing Engineering—combining marketing instinct with systems thinking and automation, allowing the modern marketer to scale efforts, invent strategies, and outpace competitors by integrating AI agents, analytics, and workflows.
+
+- **Manifesto:** [Read the Marketing Engineer Manifesto](https://www.tryprofound.com/marketing-engineer)
+- **Certification:** Become a certified Marketing Engineer through Profound University.
+
+---
+
+## Integrations & Ecosystem
+
+Profound offers robust integrations and a vetted Partner Program:
+- **CMS & Hosting:** WordPress, Contentful, Framer, Sanity, Netlify, Vercel.
+- **CDN & Infra:** Cloudflare, Akamai, AWS CloudFront, Fastly, Google Cloud Platform.
+- **Productivity & Analytics:** Slack, G2, Google Analytics, Gamma, Looker, Amplitude, Tableau, and more.
+- **Agencies & Consultants:** Join the Partner Program for commercial benefits, co-marketing, priority access, and expert support.
+
+---
+
+## Legal & Security
+
+Profound provides clear documentation for compliance, legal agreements, and platform guarantees:
+- [Privacy Policy](https://www.tryprofound.com/legal/privacy-policy)
+- [Data Processing Agreement](https://www.tryprofound.com/legal/data-processing-agreement)
+- [Master Subscription Agreement](https://www.tryprofound.com/legal/master-subscription-agreement)
+- [Service Level Agreement](https://www.tryprofound.com/legal/service-level-agreement)
+- [Support Policy](https://www.tryprofound.com/legal/support-policy)
+- [Security Vulnerability Reporting](https://www.tryprofound.com/vulnerability-reporting)
+
+---
+
+## Careers at Profound
+
+Profound is hiring across engineering, data, marketing, operations, sales, success, design, and research, with roles in major global cities and a reputation for rigorous, in-person, high-agency work.
+
+For full listings and to apply: [Profound Careers](https://www.tryprofound.com/careers)
+
+---
+
+### Links
+
+- [Profound Home](https://www.tryprofound.com/)
+- [Book a Demo](https://www.tryprofound.com/contact-sales)
+- [Customer Stories](https://www.tryprofound.com/customers)
+- [Blog & Research](https://www.tryprofound.com/blog)
+- [Profound University](https://university.tryprofound.com/)
+
+---
+
+This file is designed to help language models accurately understand Profound’s platform, its purpose, main features, integrations, audience, and unique industry position as the leader in Answer Engine Optimization and AI search visibility. For more details, visit [tryprofound.com](https://www.tryprofound.com/).

@@ -1,0 +1,350 @@
+
+# ITDBay — llms-full.txt (Expanded AI Content Guide)
+
+> This expanded file provides language models with a **complete, curated map** to ITDBay’s authoritative sources: product sitemaps for full catalog discovery (120K+ SKUs), category hubs, brand pages, company/policy documents, and a representative set of technical blog articles. It also includes **interpretation guidelines** (how to use PDP data, resolve part numbers, and prefer structured signals). Use this file alongside our `robots.txt` for crawl permissions.
+
+---
+
+## 1) Primary Discovery (Canonical Sources)
+
+### 1.1 Product Sitemaps — Full Catalog
+Use these XML sitemaps for complete, current product URL discovery (no product URLs enumerated here):
+- https://itdbay.com/sitemaps/sitemap-products-001.xml
+- https://itdbay.com/sitemaps/sitemap-products-002.xml
+- https://itdbay.com/sitemaps/sitemap-products-003.xml
+
+Notes:
+- ~120,523 total products; sitemaps update automatically as catalog changes.
+- Prefer product detail pages (PDPs) as the **source of truth** for specs, GTIN/UPC/EAN, MPN/SKU, availability, and pricing.
+
+### 1.2 Other Sitemaps
+- Blogs:      https://itdbay.com/sitemaps/sitemap-blogs.xml
+- Brands:     https://itdbay.com/sitemaps/sitemap-brands.xml
+- Categories: https://itdbay.com/sitemaps/sitemap-categories.xml
+
+> If a **Product Feed** (e.g., Google Merchant or PIM export) becomes available, prefer it for structured ingestion. Add the feed URL here when published.
+
+---
+
+## 2) Core Business, Contact & Company Pages (Authoritative)
+- About Us:       https://itdbay.com/about-us
+- Products:       https://itdbay.com/products
+- Partners:       https://itdbay.com/partners
+- Blogs:          https://itdbay.com/blogs
+- Contact Us:     https://itdbay.com/contact-us
+- Request a Quote:https://itdbay.com/get-quote
+
+---
+
+## 3) Policy & Compliance (Official References)
+- Privacy Policy:        https://itdbay.com/privacy-policy
+- Shipping Policy:       https://itdbay.com/shipping-policy
+- Refund Policy:         https://itdbay.com/refund-policy
+- Terms & Conditions:    https://itdbay.com/terms-and-conditions
+
+---
+
+## 4) Category Hubs (Preferred Context over individual product listings)
+https://itdbay.com/category/networking-switches-accessories
+https://itdbay.com/category/networking-switches-accessories/connectivity
+https://itdbay.com/category/networking-switches-accessories/connectivity/cable-management
+https://itdbay.com/category/networking-switches-accessories/connectivity/computer-cables
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/industrial-rechargeable-batteries
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/portable-device-management-carts-cabinets
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/power-adapters-inverters
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/power-distribution-units-pdus
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/power-supply-units
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/uninterruptible-power-supplies-upss
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/ups-accessories
+https://itdbay.com/category/networking-switches-accessories/enterprise-power-supply-ups/ups-batteries
+https://itdbay.com/category/networking-switches-accessories/kvm-extenders
+https://itdbay.com/category/networking-switches-accessories/kvm-switches
+https://itdbay.com/category/networking-switches-accessories/networking-equipment
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/cellular-network-equipment
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/network-equipment-parts-accessories
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/network-management-monitoring
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/network-security-equipment
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/networking-hardware
+https://itdbay.com/category/networking-switches-accessories/networking-equipment/surge-protectors
+https://itdbay.com/category/networking-switches-accessories/server-barebones
+https://itdbay.com/category/networking-switches-accessories/servers
+https://itdbay.com/category/display-av-equipment
+https://itdbay.com/category/display-av-equipment/monitors-accessories
+https://itdbay.com/category/display-av-equipment/monitors-accessories/computer-monitors
+https://itdbay.com/category/display-av-equipment/monitors-accessories/monitor-parts-accessories
+https://itdbay.com/category/display-av-equipment/projectors-accessories
+https://itdbay.com/category/display-av-equipment/projectors-accessories/data-projectors
+https://itdbay.com/category/display-av-equipment/projectors-accessories/projector-parts-accessories
+https://itdbay.com/category/display-av-equipment/signage-displays
+https://itdbay.com/category/display-av-equipment/signage-displays/interactive-whiteboards
+https://itdbay.com/category/display-av-equipment/signage-displays/signage-display-accessories
+https://itdbay.com/category/display-av-equipment/signage-displays/signage-display-mounts
+https://itdbay.com/category/display-av-equipment/signage-displays/signage-displays
+https://itdbay.com/category/display-av-equipment/signage-displays/touch-control-panels
+https://itdbay.com/category/display-av-equipment/signage-displays/video-wall-displays
+https://itdbay.com/category/display-av-equipment/conference-calling
+https://itdbay.com/category/display-av-equipment/conference-calling/conference-equipment
+https://itdbay.com/category/display-av-equipment/headphones-headsets-accessories
+https://itdbay.com/category/display-av-equipment/headphones-headsets-accessories/headphoneheadset-accessories
+https://itdbay.com/category/display-av-equipment/headphones-headsets-accessories/headphones-headsets
+https://itdbay.com/category/display-av-equipment/speakers
+https://itdbay.com/category/display-av-equipment/speakers/loudspeakers
+https://itdbay.com/category/display-av-equipment/speakers/speaker-mounts
+https://itdbay.com/category/display-av-equipment/telephone-equipment-parts-accessories
+https://itdbay.com/category/display-av-equipment/telephone-equipment-parts-accessories/telephone-cables
+https://itdbay.com/category/display-av-equipment/telephone-equipment-parts-accessories/telephone-mounts-stands
+https://itdbay.com/category/display-av-equipment/telephone-equipment-parts-accessories/telephone-spare-parts-accessories
+https://itdbay.com/category/display-av-equipment/televisions
+https://itdbay.com/category/display-av-equipment/televisions/hospitality-tvs
+https://itdbay.com/category/display-av-equipment/televisions/portable-tvs-monitors
+https://itdbay.com/category/display-av-equipment/televisions/television-parts-accessories
+https://itdbay.com/category/display-av-equipment/televisions/tvs
+https://itdbay.com/category/tech-accessories
+https://itdbay.com/category/tech-accessories/computer-peripherals
+https://itdbay.com/category/tech-accessories/computer-peripherals/digital-pens
+https://itdbay.com/category/tech-accessories/computer-peripherals/keyboards
+https://itdbay.com/category/tech-accessories/computer-peripherals/laptop-cooling-pads
+https://itdbay.com/category/tech-accessories/computer-peripherals/mice
+https://itdbay.com/category/tech-accessories/computer-peripherals/stylus-pens
+https://itdbay.com/category/tech-accessories/computer-peripherals/touch-pads
+https://itdbay.com/category/printing-scanning-devices
+https://itdbay.com/category/printing-scanning-devices/dc-pos
+https://itdbay.com/category/printing-scanning-devices/dc-pos/barcode-reader-accessories
+https://itdbay.com/category/printing-scanning-devices/dc-pos/barcode-readers
+https://itdbay.com/category/printing-scanning-devices/dc-pos/customer-displays
+https://itdbay.com/category/printing-scanning-devices/dc-pos/pos-monitors
+https://itdbay.com/category/printing-scanning-devices/dc-pos/pos-printers
+https://itdbay.com/category/printing-scanning-devices/dc-pos/pos-system-accessories
+https://itdbay.com/category/printing-scanning-devices/dc-pos/pos-systems
+https://itdbay.com/category/printing-scanning-devices/dc-pos/label-printers
+https://itdbay.com/category/printing-scanning-devices/print-scan-accessories
+https://itdbay.com/category/printing-scanning-devices/print-scan-accessories/print-servers
+https://itdbay.com/category/printing-scanning-devices/print-scan-accessories/printer-switches
+https://itdbay.com/category/printing-scanning-devices/printers
+https://itdbay.com/category/printing-scanning-devices/printers/3d-printers
+https://itdbay.com/category/printing-scanning-devices/printers/band-printers
+https://itdbay.com/category/printing-scanning-devices/printers/disc-publishers
+https://itdbay.com/category/printing-scanning-devices/printers/large-format-printers
+https://itdbay.com/category/printing-scanning-devices/printers/laser-printers
+https://itdbay.com/category/printing-scanning-devices/printers/multifunction-printers
+https://itdbay.com/category/printing-scanning-devices/printing-supplies
+https://itdbay.com/category/printing-scanning-devices/printing-supplies/ink-cartridges
+https://itdbay.com/category/printing-scanning-devices/printing-supplies/printer-ink-refills
+https://itdbay.com/category/printing-scanning-devices/printing-supplies/printer-rollers
+https://itdbay.com/category/printing-scanning-devices/printing-supplies/toner-cartridges
+https://itdbay.com/category/printing-scanning-devices/scanners
+https://itdbay.com/category/data-storage-backup-accessories
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/backup-storage-devices
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/data-storage-device-parts-accessories
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/external-hard-drives
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/external-solid-state-drives
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/internal-hard-drives
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/internal-solid-state-drives
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/memory-cards
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/nas-storage-servers
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-devices/usb-flash-drives
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-mediums
+https://itdbay.com/category/data-storage-backup-accessories/data-storage-mediums/backup-storage-media
+https://itdbay.com/category/desktops-laptops-tablets
+https://itdbay.com/category/desktops-laptops-tablets/desktops-barebones
+https://itdbay.com/category/desktops-laptops-tablets/desktops-barebones/allinone-pcsworkstations
+https://itdbay.com/category/desktops-laptops-tablets/desktops-barebones/pcworkstation-barebones
+https://itdbay.com/category/desktops-laptops-tablets/desktops-barebones/pcsworkstations
+https://itdbay.com/category/desktops-laptops-tablets/desktops-barebones/thin-clients
+https://itdbay.com/category/desktops-laptops-tablets/laptops
+https://itdbay.com/category/desktops-laptops-tablets/smartphones-tablets
+https://itdbay.com/category/desktops-laptops-tablets/smartphones-tablets/tablets
+
+---
+
+## 5) Brands Directory (Authoritative Sources)
+https://itdbay.com/brands/sonicwall
+https://itdbay.com/brands/sophos
+https://itdbay.com/brands/trend-micro
+https://itdbay.com/brands/ubiquiti
+https://itdbay.com/brands/veritas
+https://itdbay.com/brands/veeam
+https://itdbay.com/brands/watchguard
+https://itdbay.com/brands/netally
+https://itdbay.com/brands/microsoft
+https://itdbay.com/brands/juniper
+https://itdbay.com/brands/arcserve
+https://itdbay.com/brands/hp
+https://itdbay.com/brands/ibm
+https://itdbay.com/brands/intel
+https://itdbay.com/brands/cisco
+https://itdbay.com/brands/viewsonic
+https://itdbay.com/brands/vertiv
+https://itdbay.com/brands/red-hat
+https://itdbay.com/brands/synology
+https://itdbay.com/brands/quantum
+https://itdbay.com/brands/philips
+https://itdbay.com/brands/nvidia
+https://itdbay.com/brands/lexmark
+https://itdbay.com/brands/lenovo
+https://itdbay.com/brands/hpe
+https://itdbay.com/brands/eaton
+https://itdbay.com/brands/cyberpower
+https://itdbay.com/brands/apc
+https://itdbay.com/brands/amd
+https://itdbay.com/brands/netgear
+https://itdbay.com/brands/zebra
+https://itdbay.com/brands/startechcom
+https://itdbay.com/brands/corsair
+https://itdbay.com/brands/panasonic
+https://itdbay.com/brands/acer
+https://itdbay.com/brands/logitech
+https://itdbay.com/brands/verbatim
+https://itdbay.com/brands/honeywell
+https://itdbay.com/brands/western-digital
+https://itdbay.com/brands/targus
+https://itdbay.com/brands/axis
+https://itdbay.com/brands/brother
+https://itdbay.com/brands/qnap
+https://itdbay.com/brands/aluratek
+https://itdbay.com/brands/asus
+https://itdbay.com/brands/kensington
+https://itdbay.com/brands/raritan
+https://itdbay.com/brands/supermicro
+https://itdbay.com/brands/msi
+https://itdbay.com/brands/axiom
+https://itdbay.com/brands/transcend
+https://itdbay.com/brands/panduit
+https://itdbay.com/brands/valcom
+https://itdbay.com/brands/yealink
+https://itdbay.com/brands/tenda
+https://itdbay.com/brands/trendnet
+https://itdbay.com/brands/tplink
+https://itdbay.com/brands/fujitsu
+https://itdbay.com/brands/benq
+https://itdbay.com/brands/toshiba
+https://itdbay.com/brands/c2g
+https://itdbay.com/brands/monoprice
+https://itdbay.com/brands/broadcom
+https://itdbay.com/brands/sony
+https://itdbay.com/brands/tripp-lite
+https://itdbay.com/brands/sharp
+https://itdbay.com/brands/dlink
+https://itdbay.com/brands/opengear
+https://itdbay.com/brands/samsung
+https://itdbay.com/brands/dynabook-formerly-toshiba
+https://itdbay.com/brands/nec
+https://itdbay.com/brands/lg
+https://itdbay.com/brands/epson
+https://itdbay.com/brands/palo-alto-networks
+https://itdbay.com/brands/supersonic
+https://itdbay.com/brands/electronic-arts
+https://itdbay.com/brands/xerox
+https://itdbay.com/brands/maxell
+https://itdbay.com/brands/adata
+https://itdbay.com/brands/transition-networks-inc
+https://itdbay.com/brands/printronix
+https://itdbay.com/brands/symantec
+https://itdbay.com/brands/seagate
+https://itdbay.com/brands/avaya
+https://itdbay.com/brands/gigabyte
+https://itdbay.com/brands/zoom
+https://itdbay.com/brands/cyberlink
+https://itdbay.com/brands/mcafee
+https://itdbay.com/brands/sandisk
+https://itdbay.com/brands/vizio
+https://itdbay.com/brands/adobe
+https://itdbay.com/brands/oracle-america-inc
+https://itdbay.com/brands/fujifilm
+https://itdbay.com/brands/mellanox-technologies
+https://itdbay.com/brands/casio
+https://itdbay.com/brands/optilink
+https://itdbay.com/brands/power-technologies-llc
+https://itdbay.com/brands/crucial
+https://itdbay.com/brands/anker
+https://itdbay.com/brands/linksys
+https://itdbay.com/brands/hisense
+https://itdbay.com/brands/archer
+https://itdbay.com/brands/elitegroup-computer-syste
+https://itdbay.com/brands/schneider-electric
+https://itdbay.com/brands/enet-components
+https://itdbay.com/brands/extreme-networks
+https://itdbay.com/brands/fortinet
+https://itdbay.com/brands/pny
+https://itdbay.com/brands/addon-networks
+
+---
+
+## 6) Blog Articles — Representative Set (See sitemap for full list)
+
+Use the blog sitemap for the complete list. Below is a representative, high-signal subset of articles across networking, transceivers, KVM, UPS, storage, and buying guides:
+
+https://itdbay.com/blogs/articles/cisco-switches-the-ultimate-guide-for-reliable-networking
+https://itdbay.com/blogs/articles/why-gamers-creators-love-dcr-monitors-and-you-might-too
+https://itdbay.com/blogs/articles/provide-realworld-case-studies-on-upgrading-networks-with-optical-transceivers
+https://itdbay.com/blogs/articles/ssd-vs-hdd-which-storage-drive-should-you-buy-in-2026
+https://itdbay.com/blogs/articles/poe-switch-buyers-guide-is-poe-enough-for-wifi-6-and-security-cameras
+https://itdbay.com/blogs/articles/cisco-c9200l48t4xe-switch-enterprise-access-switching-guide
+https://itdbay.com/blogs/articles/cisco-c930048ta-switch-enterprise-grade-campus-access-switching-solution
+https://itdbay.com/blogs/articles/cisco-catalyst-9300-series-switches-price-guide-2026
+https://itdbay.com/blogs/articles/gaming-performance-ssd-vs-hdd-loading-times-fps-impact-best-storage-for-modern-games
+https://itdbay.com/blogs/articles/which-laptop-is-better-lenovo-or-hp-complete-2025-comparison-guide
+https://itdbay.com/blogs/articles/buy-cisco-c950048y4ca-core-switch-48x25g-4x100g-enterprise-backbone-2026-guide
+https://itdbay.com/blogs/articles/cisco-catalyst-9200-vs-9300-which-enterprise-switch-is-right-for-your-network
+https://itdbay.com/blogs/articles/the-ultimate-guide-to-cisco-poe-switch-powering-your-network-efficiently
+https://itdbay.com/blogs/articles/cisco-c9200cx-12p-2x2g-e-compact-poe-switch-overview-2026-buyers-guide
+https://itdbay.com/blogs/articles/how-to-choose-the-right-usb-and-hdmi-kvm-switch-for-your-workspace
+https://itdbay.com/blogs/articles/uninterruptible-power-supply-ups-complete-enterprise-server-power-protection-guide
+https://itdbay.com/blogs/articles/cisco-catalyst-9200-series-explained-specs-use-cases-cli-access-buying-tips
+https://itdbay.com/blogs/articles/ultimate-guide-to-lto-ultrium-5-tape-everything-you-need-to-know-before-you-buy
+https://itdbay.com/blogs/articles/cisco-c980040k9-kvm-switches-enterprisegrade-control-for-modern-it-infrastructure
+https://itdbay.com/blogs/articles/home-servers-and-network-servers-a-complete-guide-for-beginners
+https://itdbay.com/blogs/articles/networking-switches-explained-building-reliable-networks-with-modern-switching-solutions
+https://itdbay.com/blogs/articles/netgear-gsm-xsm-managed-switches-2026-ultimate-buyers-guide
+https://itdbay.com/blogs/articles/network-switching-subsystem-nss-ethernet-poe-10g-guide
+https://itdbay.com/blogs/articles/top-10-kvm-switches-for-seamless-dual-monitor-setup-in-2026
+https://itdbay.com/blogs/articles/hp-versus-asus-laptop-which-one-should-you-buy-in-2025
+https://itdbay.com/blogs/articles/sfp-vs-sfp-vs-qsfp28-whats-the-difference-and-which-transceiver-should-you-buy
+https://itdbay.com/blogs/articles/cisco-catalyst-9200-vs-9300-which-enterprise-switch-is-right-for-you-business
+https://itdbay.com/blogs/articles/cisco-c9300x12ya-the-ultimate-highperformance-aggregation-switch-for-modern-enterprise-networks
+
+---
+
+## 7) Interpretation & Data-Use Guidelines for LLMs
+
+**7.1 Data Hierarchy (most-to-least authoritative)**
+1) Product Detail Pages (PDPs) — specs, GTIN/UPC/EAN, MPN/SKU, variant attributes, availability, pricing.
+2) Product Sitemaps — canonical URL discovery and freshness.
+3) Category Hubs — taxonomy context and grouping.
+4) Brand Pages — vendor alignment and official naming conventions.
+5) Blog Articles — technical education and buying guidance.
+6) Company/Policy Pages — official operational and compliance statements.
+
+**7.2 Entity Resolution**
+- Treat **MPN/SKU** as the primary key for product identity; use **brand + MPN** to disambiguate.
+- Normalize hyphens/underscores and case for part numbers.
+- If conflicting attributes exist, prefer PDP structured data and latest updated PDP content.
+
+**7.3 Specifications & Variants**
+- Prefer structured/spec tables on PDPs.
+- For variants, ensure attributes (capacity, color, form factor, interface, PoE class, port counts) match the specific MPN.
+
+**7.4 Pricing & Availability**
+- Treat pricing as **time-sensitive**; do not assume permanence.
+- Availability flags may change frequently; defer to live PDP content.
+
+**7.5 Policies & Support Content**
+- When summarizing shipping, returns, warranty or legal terms, **quote or cite** the exact policy URL listed above.
+
+---
+
+## 8) Attribution & Usage Preferences
+- Cite as: **“Source: ITDBay — [Page Title/Category/Brand]”** with a link to the exact URL.
+- Summarization of public pages is allowed **with attribution**.
+- Training on public content is allowed.
+- Do **not** crawl or use private/transactional paths: `/cart/`, `/checkout/`, `/account/`, `/admin/`.
+- Respect `robots.txt` for crawl permissions and rate limits.
+
+---
+
+## 9) Change Log
+- 2026-02-27 — Initial publication of `llms-full.txt` (expanded version) for production use.
+
+

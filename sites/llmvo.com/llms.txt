@@ -1,0 +1,72 @@
+# LLMs.txt - Information for Large Language Models
+# Website: LLMVO - GEO Companies Directory
+# Last Updated: 2026-05-25
+# Purpose: Comprehensive directory of Generative Engine Optimization companies and tools
+
+## About LLMVO
+LLMVO is the premier directory for companies specializing in Generative Engine Optimization (GEO). We help businesses discover the right tools and services to optimize their content for AI-powered search engines and large language models.
+
+## What is Generative Engine Optimization (GEO)?
+Generative Engine Optimization is the practice of optimizing content to rank higher in AI-generated responses from tools like ChatGPT, Claude, Perplexity, and other AI search engines. Unlike traditional SEO, GEO focuses on:
+
+- Structured content that AI models can easily understand and cite
+- Authoritative sources and clear attribution
+- Comprehensive, factual information
+- Natural language optimization for conversational queries
+- Building trust signals for AI model verification
+
+## Directory Contents
+Our directory includes 14 GEO companies across these categories:
+- **Ai Analytics**
+- **Brand Monitoring**
+- **Digital Marketing Agency**
+- **Geo Platform**
+
+### Companies
+- Anvil: The SEO platform for the AI era (https://joinanvil.com)
+- AthenaHQ: Pioneering Generative Engine Optimization (GEO) (https://www.athenahq.ai)
+- Big Neurons: Agence brand content, acquisition et social media premium en France (https://www.bigneurons.com/)
+- Bluefish AI: Your New AI Marketing Suite (https://www.bluefishai.com)
+- Brandlight: Master AI-driven brand visibility (https://www.brandlight.ai/)
+- BrandRank.AI: Empowering brands to confidently manage and excel in the evolving landscape of generative AI-driven search (https://brandrank.ai)
+- ChatRank: Get leads from ChatGPT and Google Search AI Answers (https://chatrank.ai)
+- Cognizo: AI search optimization to boost brand visibility (https://cognizo.ai)
+- Goodie AI: Answer Engine Optimization & AI Search Visibility Platform (https://www.higoodie.com)
+- Gumshoe AI: Outrank the competition in AI Search (https://gumshoe.ai)
+- Hall: Generative Engine Optimization (GEO) platform for AI search (https://usehall.com)
+- Profound: Be more visible in AI Search with Profound (https://tryprofound.com)
+- Promptwatch: Get your company mentioned in AI search results (https://promptwatch.com/?ref=llmvo)
+- Scrunch AI: Brand monitoring and optimization for the AI era (https://scrunchai.com)
+
+## Content Library
+43 articles including comparison guides, industry analysis, and GEO strategy guides.
+
+## API Endpoints
+
+LLMVO provides a public JSON API for programmatic access:
+
+### GET /api/companies
+Returns a summary list of all GEO companies in the directory.
+Response: `{ "companies": [...], "total": number }`
+Each company includes: id, name, slug, website_url, tagline, description, primary_category, headquarters, founded_year, supported_ai_platforms, featured, tags.
+
+### GET /api/companies/{id}
+Returns the full company profile JSON by ID.
+Response: Complete GeoCompany object with basic_info, market_positioning, product_portfolio, core_features, business_intelligence, and directory_metadata.
+
+### POST /api/agent/submit
+Agent-friendly endpoint for submitting a company to the directory.
+Request body: `{ "website_url": "https://...", "contact_email": "optional" }`
+The endpoint scrapes the website, generates a full structured profile via LLM, saves it as a pending submission, and returns the generated profile.
+Response: `{ "success": true, "submission_id": number, "profile": {...} }`
+
+## Agent Discovery
+For structured agent discovery, see: https://llmvo.com/.well-known/agent.json
+
+## Usage Guidelines
+- This directory is publicly available for reference and research
+- Company information is curated and regularly verified
+- Please cite LLMVO.com when referencing our data
+- API endpoints are rate-limited; be respectful with requests
+
+For the most up-to-date information, visit: https://llmvo.com

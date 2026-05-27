@@ -1,0 +1,119 @@
+# Docs and guides
+
+## Docs
+
+- [Create ad](https://docs.beyondwords.io/api-reference/ads/create.md): Creates an ad in a project
+- [Delete ad](https://docs.beyondwords.io/api-reference/ads/delete.md): Deletes an ad from a project
+- [List ads](https://docs.beyondwords.io/api-reference/ads/list.md): Lists ads within a project
+- [Get ad](https://docs.beyondwords.io/api-reference/ads/show.md): Gets an ad from a project
+- [Update ad](https://docs.beyondwords.io/api-reference/ads/update.md): Updates an ad in a project
+- [Get ad analytics](https://docs.beyondwords.io/api-reference/analytics/ad-analytics.md): Retrieve analytics for a single ad in a project.
+- [List ads analytics](https://docs.beyondwords.io/api-reference/analytics/ads-analytics.md): Retrieve analytics overview for all ads in a project.
+- [Get content analytics](https://docs.beyondwords.io/api-reference/analytics/content-analytics.md): Retrieve analytics for some specific content.
+- [List content analytics](https://docs.beyondwords.io/api-reference/analytics/contents-analytics.md): Retrieves an analytics overview for all content items in a project
+- [Get organization analytics](https://docs.beyondwords.io/api-reference/analytics/organization-analytics.md): Retrieves analytics for all projects within an organization
+- [Get project analytics](https://docs.beyondwords.io/api-reference/analytics/project-analytics.md): Retrieves analytics for a project
+- [List projects analytics](https://docs.beyondwords.io/api-reference/analytics/projects-analytics.md): Retrieves an analytics overview for all projects within an organization
+- [Create content](https://docs.beyondwords.io/api-reference/content/create.md): Creates a content item in your project
+- [Delete content](https://docs.beyondwords.io/api-reference/content/delete.md): Delete a content item from your project
+- [List content](https://docs.beyondwords.io/api-reference/content/list.md): Lists content within a project
+- [Content overview](https://docs.beyondwords.io/api-reference/content/overview.md): Overview of the content object and its properties
+- [Regenerate content](https://docs.beyondwords.io/api-reference/content/regenerate.md): Reprocess content in a project.
+- [Introduction to segments](https://docs.beyondwords.io/api-reference/content/segments.md)
+- [Get content](https://docs.beyondwords.io/api-reference/content/show.md): Get a content item from your project
+- [Syndicated articles](https://docs.beyondwords.io/api-reference/content/syndicated.md): Reuse audio articles across multiple projects or websites without generating audio for each one.
+- [Update content](https://docs.beyondwords.io/api-reference/content/update.md): Update a content item from your project
+- [Overview](https://docs.beyondwords.io/api-reference/overview.md): Learn about the BeyondWords API
+- [Get player by content ID](https://docs.beyondwords.io/api-reference/player/show.md): Gets player data related to a content item
+- [Get player by playlist ID](https://docs.beyondwords.io/api-reference/player/show-1.md): Gets player data related to a playlist
+- [Get player by source ID](https://docs.beyondwords.io/api-reference/player/show-2.md): Gets player data related to a content item
+- [Get player by source URL](https://docs.beyondwords.io/api-reference/player/show-3.md): Gets player data related to a content item
+- [Get player by multiple identifiers](https://docs.beyondwords.io/api-reference/player/show-4.md): Gets player data related to a content item
+- [Create playlist](https://docs.beyondwords.io/api-reference/playlists/create.md): Creates a playlist in a project
+- [Delete playlist](https://docs.beyondwords.io/api-reference/playlists/delete.md): Deletes a custom playlist from a project
+- [List playlists](https://docs.beyondwords.io/api-reference/playlists/list.md): Lists playlists within a project
+- [Get playlist](https://docs.beyondwords.io/api-reference/playlists/show.md): Gets a playlist from a project
+- [Get playlist settings](https://docs.beyondwords.io/api-reference/playlists/show-1.md): Gets the feed settings for a playlist
+- [Update playlist](https://docs.beyondwords.io/api-reference/playlists/update.md): Updates a playlist in a project
+- [Update playlist settings](https://docs.beyondwords.io/api-reference/playlists/update-1.md): Updates the feed settings for a playlist
+- [Create project](https://docs.beyondwords.io/api-reference/projects/create.md): Creates a project in your organization
+- [Delete project](https://docs.beyondwords.io/api-reference/projects/delete.md): Deletes a project
+- [List projects](https://docs.beyondwords.io/api-reference/projects/list.md): Lists all projects in your organization
+- [Get project](https://docs.beyondwords.io/api-reference/projects/show.md): Gets a project from your organization
+- [Update project](https://docs.beyondwords.io/api-reference/projects/update.md): Updates a project in your organization
+- [Get project voices](https://docs.beyondwords.io/api-reference/projects/voices.md): Gets a project voices
+- [Create pronunciation rule](https://docs.beyondwords.io/api-reference/rules/create.md): Creates a rule in a organization
+- [Delete pronunciation rule](https://docs.beyondwords.io/api-reference/rules/delete.md): Deletes a rule from your organization
+- [List pronunciation rules](https://docs.beyondwords.io/api-reference/rules/list.md): Lists rules in a organization
+- [Get pronunciation rule](https://docs.beyondwords.io/api-reference/rules/show.md): Gets a rule from your organization
+- [Update pronunciation rule](https://docs.beyondwords.io/api-reference/rules/update.md): Updates rule in a organizaiton
+- [Get project summarization settings](https://docs.beyondwords.io/api-reference/summarization-settings/show.md): Get the summarization settings for your project
+- [Update project summarization settings](https://docs.beyondwords.io/api-reference/summarization-settings/update.md): Update the summarization settings for your project
+- [Get video settings](https://docs.beyondwords.io/api-reference/video-settings/show.md): Get the video settings for your project
+- [Update video settings](https://docs.beyondwords.io/api-reference/video-settings/update.md): Update the video settings for your project
+- [Credits](https://docs.beyondwords.io/docs-and-guides/administration/credits.md): Learn how BeyondWords credits work.
+- [Members and Roles](https://docs.beyondwords.io/docs-and-guides/administration/members-and-roles.md): Learn how to manage team members and their roles in BeyondWords
+- [Organization](https://docs.beyondwords.io/docs-and-guides/administration/organization.md): Update your organization details in BeyondWords
+- [Profile](https://docs.beyondwords.io/docs-and-guides/administration/profile.md): Update your profile in BeyondWords
+- [Projects](https://docs.beyondwords.io/docs-and-guides/administration/projects.md): Create and update your projects in BeyondWords
+- [SAML SSO](https://docs.beyondwords.io/docs-and-guides/administration/saml-sso.md): Learn how to enable SAML for your Organization to manage logins through an Identity Provider
+- [Subscription and billing](https://docs.beyondwords.io/docs-and-guides/administration/subscriptions.md): Manage your BeyondWords subscription and billing.
+- [Usage analytics](https://docs.beyondwords.io/docs-and-guides/administration/usage.md): Track article and character usage across your whole organization.
+- [Event schema](https://docs.beyondwords.io/docs-and-guides/analytics/event-schema.md): Learn about the structure of analytics events
+- [Player](https://docs.beyondwords.io/docs-and-guides/analytics/player.md): Track and analyze audio engagement
+- [Preferences](https://docs.beyondwords.io/docs-and-guides/analytics/preferences.md): Configure analytics settings and preferences
+- [Changelog](https://docs.beyondwords.io/docs-and-guides/changelog.md)
+- [Audio articles](https://docs.beyondwords.io/docs-and-guides/content/articles.md): Learn how to manage your audio articles in BeyondWords
+- [Data attributes](https://docs.beyondwords.io/docs-and-guides/content/data-attributes.md): Learn how content extraction can use data attributes.
+- [Editor](https://docs.beyondwords.io/docs-and-guides/content/editor.md): Learn how to generate audio and video using the Editor
+- [Background music](https://docs.beyondwords.io/docs-and-guides/content/preferences/background-music.md): Learn how to add background music to your audio articles with BeyondWords
+- [Pronunciations](https://docs.beyondwords.io/docs-and-guides/content/preferences/pronunciations.md): Learn how to customize the pronunciation of words in your articles with BeyondWords
+- [Scripts](https://docs.beyondwords.io/docs-and-guides/content/preferences/summarization.md): Learn how to use script templates to transform your articles into editable scripts for audio and video, using prompts that shape tone, length, and format.
+- [Video](https://docs.beyondwords.io/docs-and-guides/content/preferences/video.md): Learn how to turn your articles into videos with BeyondWords.
+- [Voices](https://docs.beyondwords.io/docs-and-guides/content/preferences/voices.md): Configure voice preferences
+- [Access tiers](https://docs.beyondwords.io/docs-and-guides/distribution/player/access-tiers.md): Customize the player experience based on the visitor's access tier.
+- [Overview](https://docs.beyondwords.io/docs-and-guides/distribution/player/overview.md): Get started with the BeyondWords player
+- [Getting started](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/android/getting-started.md)
+- [Segments playback](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/android/segments-playback.md)
+- [Custom CDN domain](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/custom-cdn-domain.md)
+- [Getting started](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/ios/getting-started.md)
+- [Segments playback](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/ios/segments-playback.md)
+- [Building your own UI](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/building-ui.md)
+- [Getting started](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/getting-started.md)
+- [Player events](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/player-events.md): List of player events emitted and listening for events
+- [Programmatic control](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/player-sdk.md)
+- [Player settings](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/player-settings.md): List of configurable properties in the player
+- [Segments playback](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/javascript/segments-playback.md)
+- [Overview](https://docs.beyondwords.io/docs-and-guides/distribution/player/sdk/overview.md): The BeyondWords player SDKs
+- [Settings](https://docs.beyondwords.io/docs-and-guides/distribution/player/settings.md): Configure the BeyondWords player settings
+- [Playlists](https://docs.beyondwords.io/docs-and-guides/distribution/playlists.md): Create, curate, publish, and share audio or video playlists.
+- [Podcast feeds](https://docs.beyondwords.io/docs-and-guides/distribution/podcast-feeds.md): Create, curate, and share audio or video podcast feeds.
+- [Concepts](https://docs.beyondwords.io/docs-and-guides/getting-started/concepts.md): Understanding how BeyondWords is structured will help you get the most out of it.
+- [Overview](https://docs.beyondwords.io/docs-and-guides/getting-started/overview.md): BeyondWords connects publishers and their audiences through the possibilities of AI voice.
+- [Quickstart](https://docs.beyondwords.io/docs-and-guides/getting-started/quickstart.md): Learn how to make your first audio article with BeyondWords.
+- [API](https://docs.beyondwords.io/docs-and-guides/integrations/api.md): Learn how to use the BeyondWords API
+- [Content extraction](https://docs.beyondwords.io/docs-and-guides/integrations/extraction/content-extraction.md): Content Extraction settings
+- [Filters](https://docs.beyondwords.io/docs-and-guides/integrations/extraction/filters.md): Content filter settings
+- [Ghost](https://docs.beyondwords.io/docs-and-guides/integrations/ghost.md): Integrate BeyondWords with Ghost
+- [Overview](https://docs.beyondwords.io/docs-and-guides/integrations/magic-embed/overview.md): Easily embed BeyondWords on any web page.
+- [Support](https://docs.beyondwords.io/docs-and-guides/integrations/magic-embed/support.md): Frequently asked questions about setting up Magic Embed
+- [RSS Feed Importer](https://docs.beyondwords.io/docs-and-guides/integrations/rss-feed-importer.md): Turn articles from your RSS feeds into audio.
+- [Webhooks](https://docs.beyondwords.io/docs-and-guides/integrations/webhooks.md): Configure and manage webhooks
+- [Filters](https://docs.beyondwords.io/docs-and-guides/integrations/wordpress/filters.md)
+- [Plugin Overview](https://docs.beyondwords.io/docs-and-guides/integrations/wordpress/overview.md): Integrate BeyondWords with WordPress
+- [Support](https://docs.beyondwords.io/docs-and-guides/integrations/wordpress/support.md)
+- [API (Legacy)](https://docs.beyondwords.io/docs-and-guides/migration-guides/api-legacy.md): Migrate from legacy API to current version
+- [Player (Legacy)](https://docs.beyondwords.io/docs-and-guides/migration-guides/player-legacy.md): Migrate from legacy player to current version
+- [Custom](https://docs.beyondwords.io/docs-and-guides/monetization/custom.md): Launch direct ads with BeyondWords
+- [VAST](https://docs.beyondwords.io/docs-and-guides/monetization/vast.md): Connect to an ad server via VAST to serve ads through the BeyondWords player
+- [Customization](https://docs.beyondwords.io/docs-and-guides/voices/customization.md): Learn how to customize voices used in BeyondWords.
+- [Languages](https://docs.beyondwords.io/docs-and-guides/voices/languages-and-accents.md): Discover the languages supported across each voice model.
+- [Overview](https://docs.beyondwords.io/docs-and-guides/voices/overview.md): An overview of voice options and capabilities in BeyondWords.
+- [Premade voices](https://docs.beyondwords.io/docs-and-guides/voices/premade-voices.md): Use premade ElevenLabs voices for audio and video generation.
+- [Voice cloning](https://docs.beyondwords.io/docs-and-guides/voices/voice-cloning.md): Learn how to create and use voice clones in BeyondWords.
+- [Voice generation](https://docs.beyondwords.io/docs-and-guides/voices/voice-generation.md): Create a custom AI voice from a text prompt.
+
+## OpenAPI Specs
+
+- [swagger](https://docs.beyondwords.io/swagger)
+- [openapi](https://docs.beyondwords.io/api-reference/openapi.json)

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "domain": "docs.apify.com",
+  "display_name": "Apify Documentation",
+  "category": "infra",
+  "verified_url": "https://docs.apify.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:33Z",
+  "http_status": 200,
+  "content_type": "text/markdown; charset=utf-8",
+  "file_size_bytes": 86554,
+  "last_modified": "Tue, 26 May 2026 13:26:16 GMT",
+  "freshness_age_days": 0,
+  "score": 81,
+  "grade": "A-",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 20,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 9,
+      "reasons": [
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 2,
+      "reasons": [
+        "oversized_85kb"
+      ],
+      "kb": 84.5
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Apify Documentation",
+    "h1_count": 1,
+    "blockquote": "Apify is the largest marketplace of tools for AI. Thousands of ready-made Actors to automate your business. Get real-time web data, track competitors, generate leads, analyze sentiment, and orchestrate your apps. Actors are created by a global community of builders earning over $1M every month. Apify takes care of infrastructure, billing, and distribution.",
+    "section_count": 9,
+    "subsection_count": 0,
+    "link_count": 403,
+    "value_link_count": 390,
+    "low_value_link_count": 13,
+    "raw_bytes": 86554
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

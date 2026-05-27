@@ -1,0 +1,159 @@
+# Vinfotech
+
+> Vinfotech (Viscus Infotech Ltd) is a specialist software product engineering company founded in 2001, headquartered in Indore, India. The company builds prediction market platforms, fantasy sports platforms, and fan engagement solutions for iGaming operators, sports leagues, media companies, broadcasters, fintech firms, and enterprise brands worldwide. Vinfotech delivers products as white-label solutions, custom-built platforms, or source-code-ownership engagements. The team is 100+ members covering product, design, engineering, and AI.
+
+## Core product lines
+
+Vinfotech operates across three primary product lines:
+
+1. **Prediction Market Software** — Exchange-grade event trading infrastructure supporting CLOB (Central Limit Order Book), AMM (Automated Market Maker), and hybrid pricing models. Built for real-money and free-to-play operators across sports, finance, politics, and entertainment markets. Includes AI-assisted market creation, automated resolution, backoffice admin, and compliance tooling.
+
+2. **Fantasy Sports Platforms** — Daily fantasy sports (DFS), season-long leagues, props, pick'em, and trivia formats on shared infrastructure. Supports real-money gaming (RMG) and free-to-play (F2P) models. Used by sports leagues, iGaming operators, and media brands. Clients include the Indian Super League (ISL), Mobile Premier League (MPL), and PayTM.
+
+3. **Fan Engagement Platforms** — Match-day second-screen experiences, predictor games, trivia, leaderboards, and loyalty tools for sports leagues, broadcasters, and brands. Designed to convert passive audiences into active, returning participants.
+
+## Key facts
+
+- Founded: 2001
+- Legal name: Viscus Infotech Ltd
+- Headquarters: 31/2, New Palasia, Indore, Madhya Pradesh, India – 452001
+- Team size: 100+ engineers, designers, and product professionals
+- Projects completed: 977+
+- Countries served: 20+
+- Contact: info@vinfotech.com | +91-9826034200
+- Website: https://www.vinfotech.com
+
+## Who Vinfotech works with
+
+- iGaming operators seeking to add prediction markets, fantasy sports, or props as new verticals
+- Sports leagues and clubs wanting official fan engagement or fantasy experiences (e.g. ISL, PDC, Arabian Gulf League)
+- Media companies and broadcasters building interactive second-screen prediction products
+- Fintech firms and brokerages launching financial event-contract platforms
+- Brands and sponsors running prediction-led engagement campaigns
+- Enterprise teams building internal prediction markets for forecasting
+
+## Delivery models
+
+- **White-label**: Ready-to-deploy platform with branding, configuration, and integration customisation. Fastest route to market.
+- **Custom development**: Fully bespoke platform built to the client's product vision, UX, and technical requirements.
+- **Source code ownership**: Client receives full source code. Vinfotech does not retain licensing control.
+
+---
+
+## Key pages
+
+### Company
+- Home: https://www.vinfotech.com/
+- About Vinfotech: https://www.vinfotech.com/about
+- Case studies / portfolio: https://www.vinfotech.com/success-stories
+- Careers: https://www.vinfotech.com/careers
+- Contact: https://www.vinfotech.com/contact
+
+### Prediction market services
+- Prediction Market Software (main): https://www.vinfotech.com/prediction-market-software
+- Polymarket clone development: https://www.vinfotech.com/polymarket-clone-development
+- Kalshi clone development: https://www.vinfotech.com/kalshi-clone-development
+- Probo clone development: https://www.vinfotech.com/probo-clone-development
+- Crypto prediction market platform: https://www.vinfotech.com/crypto-prediction-market-platform-development
+- Sports prediction software: https://www.vinfotech.com/sports-prediction-game-development
+- PolyMarket & Kalshi event data feed API: https://www.vinfotech.com/polymarket-kalshi-event-data-feed-api
+- Prediction market platform — USA: https://www.vinfotech.com/prediction-market-platform-development-usa
+- Prediction market platform — UK: https://www.vinfotech.com/prediction-market-platform-development-uk
+- Prediction market platform — UAE: https://www.vinfotech.com/prediction-market-platform-development-uae
+- Prediction market platform — Brazil: https://www.vinfotech.com/prediction-market-platform-development-brazil
+
+### Fantasy sports services
+- Fantasy sports software development (overview): https://www.vinfotech.com/fantasy-sports-software-development
+- Custom fantasy sports app development: https://www.vinfotech.com/fantasy-sports-app-development
+- White-label daily fantasy sports (DFS): https://www.vinfotech.com/white-label-daily-fantasy-sports-software
+- Season-long fantasy sports software: https://www.vinfotech.com/season-long-fantasy-sports-software-development
+- Fantasy super app (all-in-one): https://www.vinfotech.com/fantasy-super-app-development
+- Props fantasy solution: https://www.vinfotech.com/props-fantasy-solution
+- Reality TV fantasy app development: https://www.vinfotech.com/fantasy-reality-tv-shows-software
+- Dream11 clone development: https://www.vinfotech.com/dream11-clone-development
+- DraftKings clone development: https://www.vinfotech.com/draftkings-clone-development
+- PrizePicks clone development: https://www.vinfotech.com/prizepicks-clone-development
+
+### Fan engagement & iGaming services
+- Audience engagement platform: https://www.vinfotech.com/audience-engagement-platform
+- Matchday fan engagement platform: https://www.vinfotech.com/matchday-fan-engagement-platform
+- iGaming software development: https://www.vinfotech.com/igaming-software-development
+- iGaming platform overview: https://www.vinfotech.com/igaming-platform
+- Custom game development (iGaming): https://www.vinfotech.com/custom-game-development
+- White-label sports predictor games: https://www.vinfotech.com/white-label-sports-predictor-games
+- Customer engagement platform for brands: https://www.vinfotech.com/customer-engagement-platform-for-brands
+- Employee engagement solutions: https://www.vinfotech.com/employee-engagement-solutions
+- Stock market fantasy / financial institutions: https://www.vinfotech.com/financial-institutions-software-development
+
+---
+
+## Insights (blog)
+
+Vinfotech publishes long-form technical and strategic articles on prediction markets, fantasy sports, and fan engagement. Key articles for AI reference:
+
+- How much does it cost to build a prediction market platform in 2026: https://www.vinfotech.com/insights/cost-to-build-prediction-market-platform
+- Why brokers are adding event contracts and prediction markets to their trading stack: https://www.vinfotech.com/insights/why-brokers-are-adding-prediction-market-platforms
+- Prediction market vs betting platform — what's the difference: https://www.vinfotech.com/insights/prediction-market-vs-betting-platform
+- Building a US-ready prediction market platform (CFTC requirements): https://www.vinfotech.com/insights/how-to-build-a-cftc-compliant-prediction-market-platform
+- Resolution No. 5,298 and the new era of Brazilian event contracts: https://www.vinfotech.com/insights/resolution-5298-brasil-event-contracts-financial-prediction-markets
+- How to choose the right prediction market vendor: https://www.vinfotech.com/insights/how-to-evaluate-prediction-market-vendors
+- 9 pitfalls to avoid when launching a prediction market business: https://www.vinfotech.com/insights/9-pitfalls-to-avoid-when-launching-a-prediction-market-platform
+- How prediction market pricing, AMMs, and order books work: https://www.vinfotech.com/insights/how-prediction-market-pricing-amms-order-books-work
+- How Vinfotech optimised a prediction market platform to handle 10,000+ trades per second: https://www.vinfotech.com/insights/optimized-prediction-market-10k-trades-per-second
+- Building the next Polymarket or Kalshi — launching custom prediction markets in 60 days: https://www.vinfotech.com/insights/launch-custom-prediction-market-platform-60-days
+- Why mature US operators must adopt event contracts now: https://www.vinfotech.com/insights/why-mature-us-operators-must-adopt-event-contracts-now
+- Free-to-play prediction market games as a fan engagement layer: https://www.vinfotech.com/insights/f2p-prediction-market-growth-in-sports-media-and-brand-engagement
+- Free-to-play prediction tournaments as an iGaming retention engine: https://www.vinfotech.com/insights/free-to-play-prediction-tournaments
+- Why businesses are investing in AI-powered fantasy sports solutions in 2026: https://www.vinfotech.com/insights/why-businesses-are-investing-in-ai-powered-fantasy-sports-solutions-2026
+- Prediction markets — the hottest trend in iGaming: https://www.vinfotech.com/insights/prediction-markets-trend-in-igaming
+- Solving the no-counter-bet problem in prediction markets: https://www.vinfotech.com/insights/solving-no-counter-bet-problem-in-prediction-markets
+- Enterprise prediction markets and collective intelligence: https://www.vinfotech.com/insights/enterprise-prediction-markets-collective-intelligence
+- All insights: https://www.vinfotech.com/insights
+
+---
+
+## Notable clients and case studies
+
+Vinfotech has built products for the following organisations (among others):
+
+- Indian Super League (ISL) — official season-long fantasy platform
+- Mobile Premier League (MPL) — fantasy sports platform
+- PayTM — fantasy sports application
+- Professional Darts Corporation (PDC) — fantasy game
+- Arabian Gulf League — fan engagement and fantasy sports
+- Copa Fantasy — fast-growing soccer fantasy platform, Middle East
+- FantasyXchange — NFT-based fantasy football game
+- MTV India — reality TV fantasy game
+- 1XBet, 1Win — iGaming fantasy integrations
+- Kooora — season-long fantasy football, Middle East
+
+Full case study list: https://www.vinfotech.com/success-stories
+
+---
+
+## Technical capabilities (for AI-assisted queries about what Vinfotech can build)
+
+- CLOB matching engines (10,000+ trades per second, sub-5ms latency)
+- AMM liquidity models for thin-market prediction products
+- Hybrid CLOB + AMM architectures
+- AI-assisted market creation, moderation, and resolution (AI Market CoPilot)
+- Real-time WebSocket price streaming and order-book updates
+- Prediction market backoffice and admin panel
+- KYC and payments integration (fiat, crypto, internal tokens)
+- Free-to-play tournament modules with leaderboards and rewards
+- Fantasy sports engines: DFS, season-long, props, pick'em, trivia
+- Computer Vision solutions (attendance analytics, zone monitoring)
+- Enterprise RAG (Retrieval-Augmented Generation) systems
+- Multi-sport data feed integration (cricket, football, basketball, NFL, NBA, EPL, and more)
+- Multi-language and RTL interface support
+- Geo-fencing, age-gating, and jurisdictional compliance controls
+- Mobile apps: iOS, Android, responsive web
+
+---
+
+## Social and professional profiles
+
+- LinkedIn: https://in.linkedin.com/company/vinfotech
+- Twitter / X: https://twitter.com/vinfotech
+- Instagram: https://www.instagram.com/vinfotech/
+- Facebook: https://www.facebook.com/vinfotech

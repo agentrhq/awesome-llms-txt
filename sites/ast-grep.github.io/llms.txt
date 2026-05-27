@@ -1,0 +1,174 @@
+# AST-GREP
+
+> Find Code by Syntax
+
+ast-grep(sg) is a fast and polyglot tool for code structural search, lint, rewriting at large scale.
+
+## Table of Contents
+
+### Guide
+
+- [Quick Start](/guide/quick-start.md): Learn how to install ast-grep and use it to quickly find and refactor code in your codebase. This powerful tool can help you save time and improve the quality of your code.
+- [Pattern Syntax](/guide/pattern-syntax.md)
+- [Rule Essentials](/guide/rule-config.md)
+- [Scan Your Project!](/guide/scan-project.md)
+- [Rewrite Code](/guide/rewrite-code.md)
+- [Command Line Tooling Overview](/guide/tooling-overview.md)
+- [API Usage](/guide/api-usage.md)
+
+#### Rule Essentials
+
+- [Atomic Rule](/guide/rule-config/atomic-rule.md)
+- [Relational Rules](/guide/rule-config/relational-rule.md)
+- [Composite Rule](/guide/rule-config/composite-rule.md)
+- [Reusing Rule as Utility](/guide/rule-config/utility-rule.md)
+
+#### Project Setup
+
+- [Project Configuration](/guide/project/project-config.md)
+- [Lint Rule](/guide/project/lint-rule.md)
+- [Test Your Rule](/guide/test-rule.md)
+- [Handle Error Reports](/guide/project/severity.md)
+
+#### Rewrite Code
+
+- [`transform` Code in Rewrite](/guide/rewrite/transform.md)
+- [Rewriter in Fix](/guide/rewrite/rewriter.md)
+
+#### Tooling Overview
+
+- [Editor Integration](/guide/tools/editors.md)
+- [JSON Mode](/guide/tools/json.md)
+
+#### API Usage
+
+- [JavaScript API](/guide/api-usage/js-api.md)
+- [Python API](/guide/api-usage/py-api.md)
+- [Performance Tip for napi usage](/guide/api-usage/performance-tip.md)
+
+### Examples
+
+- [C](/catalog/c.md)
+- [Cpp](/catalog/cpp.md)
+- [Go](/catalog/go.md)
+- [HTML](/catalog/html.md)
+- [Java](/catalog/java.md)
+- [Kotlin](/catalog/kotlin.md)
+- [Python](/catalog/python.md)
+- [Ruby](/catalog/ruby.md)
+- [Rust](/catalog/rust.md)
+- [TypeScript](/catalog/typescript.md)
+- [TSX](/catalog/tsx.md)
+- [YAML](/catalog/yaml.md)
+
+### Cheat Sheet
+
+- [Rule Cheat Sheet](/cheatsheet/rule.md)
+- [Config Cheat Sheet](/cheatsheet/yaml.md)
+
+### Reference
+
+- [Command Line Reference](/reference/cli.md)
+- [`sgconfig.yml` Reference](/reference/sgconfig.md)
+- [Configuration Reference](/reference/yaml.md)
+- [Rule Object Reference](/reference/rule.md)
+- [API Reference](/reference/api.md)
+- [List of Languages with Built-in Support](/reference/languages.md)
+- [ast-grep Playground Manual](/reference/playground.md)
+
+#### Command Line Interface
+
+- [`ast-grep run`](/reference/cli/run.md)
+- [`ast-grep scan`](/reference/cli/scan.md)
+- [`ast-grep test`](/reference/cli/test.md)
+- [`ast-grep new`](/reference/cli/new.md)
+
+#### Rule Config
+
+- [Fix](/reference/yaml/fix.md)
+- [Transformation Object](/reference/yaml/transformation.md)
+- [Rewriter](/reference/yaml/rewriter.md)
+
+#### Rule Object
+
+- [ESQuery Style Kind](/reference/rule/esquery.md)
+
+### Advanced Topics
+
+- [Using ast-grep with AI Tools](/advanced/prompting.md)
+- [Frequently Asked Questions](/advanced/faq.md)
+- [How ast-grep Works: A bird's-eye view](/advanced/how-ast-grep-works.md)
+- [Custom Language Support](/advanced/custom-language.md)
+- [Search Multi-language Documents in ast-grep](/advanced/language-injection.md)
+- [Comparison With Other Frameworks](/advanced/tool-comparison.md)
+
+#### How ast-grep Works
+
+- [Core Concepts in ast-grep's Pattern](/advanced/core-concepts.md)
+- [Deep Dive into ast-grep's Pattern Syntax](/advanced/pattern-parse.md)
+- [Deep Dive into ast-grep's Match Algorithm](/advanced/match-algorithm.md)
+- [Find & Patch: A Novel Functional Programming like Code Rewrite Scheme](/advanced/find-n-patch.md)
+
+### Contributing
+
+- [Contributing](/contributing/how-to.md)
+- [Development Guide](/contributing/development.md)
+- [Add New Language to ast-grep](/contributing/add-lang.md)
+
+### Links
+
+- [Playground](/playground.md): ast-grep playground is an online tool that lets you explore AST, debug custom lint rules, and inspect code rewriting with instant feedback.
+
+### Other
+
+- [define a rewriter to remove the await keyword](/catalog/python/remove-async-await.md)
+- [efine test(x) (2*x)](/catalog/c/match-function-call.md)
+- [ensure it only matches modal/tooltip but not tag](/catalog/html/upgrade-ant-design-vue.md)
+- [find the barrel import statement](/catalog/typescript/speed-up-barrel-import.md)
+- [find-all-imports-and-identifiers.yaml](/catalog/typescript/find-import-identifiers.md)
+- [or without fixer](/catalog/rule-template.md)
+- [Pattern 1: Rails.root.join with variable](/catalog/ruby/detect-path-traversal.md)
+- [rewrite Optional[T] to T | None](/catalog/python/recursive-rewrite-type.md)
+- [Should not be transformed](/catalog/python/rewrite-sqlalchemy-mapped-column.md)
+- [TODO:](/links/roadmap.md)
+- [Untitled](/catalog/c/rewrite-method-to-function-call.md)
+- [Untitled](/catalog/cpp/find-struct-inheritance.md)
+- [Untitled](/catalog/c/yoda-condition.md)
+- [Untitled](/catalog/cpp/fix-format-vuln.md)
+- [Untitled](/catalog/go/defer-func-call-antipattern.md)
+- [Untitled](/catalog/go/find-func-declaration-with-prefix.md)
+- [Untitled](/catalog/go/match-package-import.md)
+- [Untitled](/catalog/go/match-function-call.md)
+- [Untitled](/catalog/go/unmarshal-tag-is-dash.md)
+- [Untitled](/catalog/html/extract-i18n-key.md)
+- [Untitled](/catalog/java/find-field-with-type.md)
+- [Untitled](/catalog/kotlin/ensure-clean-architecture.md)
+- [Untitled](/catalog/java/no-unused-vars.md)
+- [Untitled](/catalog/python/migrate-openai-sdk.md)
+- [Untitled](/catalog/python/optional-to-none-union.md)
+- [Untitled](/catalog/python/prefer-generator-expressions.md)
+- [Untitled](/catalog/python/refactor-pytest-fixtures.md)
+- [Untitled](/catalog/python/use-walrus-operator-in-if.md)
+- [Untitled](/catalog/ruby/migrate-action-filter.md)
+- [Untitled](/catalog/rust/avoid-duplicated-exports.md)
+- [Untitled](/catalog/ruby/prefer-symbol-over-proc.md)
+- [Untitled](/catalog/rust/boshen-footgun.md)
+- [Untitled](/catalog/rust/get-digit-count-in-usize.md)
+- [Untitled](/catalog/rust/rewrite-indoc-macro.md)
+- [Untitled](/catalog/rust/redundant-unsafe-function.md)
+- [Untitled](/catalog/tsx/avoid-jsx-short-circuit.md)
+- [Untitled](/catalog/tsx/avoid-nested-links.md)
+- [Untitled](/catalog/tsx/redundant-usestate-type.md)
+- [Untitled](/catalog/tsx/rewrite-mobx-component.md)
+- [Untitled](/catalog/tsx/reverse-react-compiler.md)
+- [Untitled](/catalog/tsx/rename-svg-attribute.md)
+- [Untitled](/catalog/tsx/unnecessary-react-hook.md)
+- [Untitled](/catalog/typescript/find-import-usage.md)
+- [Untitled](/catalog/typescript/find-import-file-without-extension.md)
+- [Untitled](/catalog/typescript/migrate-xstate-v5.md)
+- [Untitled](/catalog/typescript/missing-component-decorator.md)
+- [Untitled](/catalog/typescript/no-await-in-promise-all.md)
+- [Untitled](/catalog/typescript/no-console-except-catch.md)
+- [Untitled](/catalog/typescript/switch-from-should-to-expect.md)
+- [Untitled](/catalog/typescript/use-logical-assignment.md)
+- [Untitled](/catalog/yaml/find-key-value.md)

@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "domain": "www.databuddy.cc",
+  "display_name": "Databuddy Documentation",
+  "category": "observability",
+  "verified_url": "https://www.databuddy.cc/llms.txt",
+  "fetched_at": "2026-05-27T05:32:15Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 6276,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 75,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 15,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 9,
+      "reasons": [
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 6.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Databuddy Documentation",
+    "h1_count": 1,
+    "blockquote": "Privacy-first web analytics. 65x faster than Google Analytics, GDPR compliant, no cookies required. For the full documentation corpus, see [llms-full.txt](https://www.databuddy.cc/llms-full.txt).",
+    "section_count": 7,
+    "subsection_count": 0,
+    "link_count": 42,
+    "value_link_count": 41,
+    "low_value_link_count": 1,
+    "raw_bytes": 6276
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

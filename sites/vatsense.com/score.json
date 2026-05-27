@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "domain": "vatsense.com",
+  "display_name": "VAT Sense",
+  "category": "dev-tools",
+  "verified_url": "https://vatsense.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:53Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 4507,
+  "last_modified": "Mon, 25 May 2026 18:01:16 GMT",
+  "freshness_age_days": 1,
+  "score": 75,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 7,
+      "reasons": [
+        "no_md_url_twins"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 1,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 4.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "VAT Sense",
+    "h1_count": 1,
+    "blockquote": "Developer-friendly REST API for VAT/GST compliance. Validate VAT and EORI numbers, look up VAT/GST rates by country or product type, convert currencies, and generate VAT-compliant invoices. Used by Oracle, Siemens, and thousands of developers worldwide. Sub-15ms response times, 99.9%+ uptime, 256-bit SSL on all plans including free.",
+    "section_count": 4,
+    "subsection_count": 0,
+    "link_count": 31,
+    "value_link_count": 29,
+    "low_value_link_count": 2,
+    "raw_bytes": 4507
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

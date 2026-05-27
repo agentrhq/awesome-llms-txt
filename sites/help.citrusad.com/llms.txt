@@ -1,0 +1,116 @@
+# Retail Media Platform
+
+## Epsilon Retail Media Platform
+
+- [Welcome to the new Epsilon Retail Media Platform](https://help.citrusad.com/retail-media-interface/welcome-to-the-new-epsilon-retail-media-platform.md)
+- [Feature availability & support](https://help.citrusad.com/retail-media-interface/feature-availability-and-support.md): Find out which features are available, supported, or coming soon in the Retail Media Platform.
+- [Release notes](https://help.citrusad.com/retail-media-interface/release-notes.md)
+- [Upcoming changes](https://help.citrusad.com/retail-media-interface/release-notes/upcoming-changes.md)
+- [Platform & UI release notes](https://help.citrusad.com/retail-media-interface/release-notes/platform-and-ui-release-notes.md): Stay informed about the latest features, enhancements, and updates to our new Retail Media Platform.
+- [API release notes](https://help.citrusad.com/retail-media-interface/release-notes/api-release-notes.md)
+- [Legacy UI release notes](https://help.citrusad.com/retail-media-interface/release-notes/legacy-ui-release-notes.md)
+- [Demo hub](https://help.citrusad.com/retail-media-interface/demo-hub.md)
+- [Legacy UI deprecation & transition](https://help.citrusad.com/retail-media-interface/legacy-ui-deprecation-and-transition.md)
+- [Frequently asked questions (FAQs)](https://help.citrusad.com/retail-media-interface/frequently-asked-questions-faqs.md)
+- [What's new](https://help.citrusad.com/retail-media-interface/whats-new/whats-new.md)
+- [New UI video](https://help.citrusad.com/retail-media-interface/whats-new/new-ui-video.md)
+- [Impression pricing display update (CPI → CPM)](https://help.citrusad.com/retail-media-interface/whats-new/impression-pricing-display-update-cpi-cpm.md)
+- [Quick edit campaign name & dates](https://help.citrusad.com/retail-media-interface/whats-new/quick-edit-campaign-name-and-dates.md)
+- [Keyword Explorer: AI suggested keywords](https://help.citrusad.com/retail-media-interface/whats-new/keyword-explorer-ai-suggested-keywords.md)
+- [Manage campaigns with bulk actions](https://help.citrusad.com/retail-media-interface/whats-new/manage-campaigns-with-bulk-actions.md)
+- [Switch between retailers and teams](https://help.citrusad.com/retail-media-interface/whats-new/switch-between-retailers-and-teams.md)
+- [Logging in](https://help.citrusad.com/retail-media-interface/platform-navigation/logging-in.md)
+- [Navigating the platform](https://help.citrusad.com/retail-media-interface/platform-navigation/navigating-the-platform.md)
+- [Switching teams](https://help.citrusad.com/retail-media-interface/platform-navigation/switching-teams.md)
+- [Navigating the on-site campaign manager](https://help.citrusad.com/retail-media-interface/campaign-management/navigating-the-on-site-campaign-manager.md)
+- [Campaign statuses](https://help.citrusad.com/retail-media-interface/campaign-management/campaign-statuses.md)
+- [Campaign pacing indicators](https://help.citrusad.com/retail-media-interface/campaign-management/campaign-pacing-indicators.md)
+- [Filtering the on-site campaign manager](https://help.citrusad.com/retail-media-interface/campaign-management/filtering-the-on-site-campaign-manager.md)
+- [Viewing the campaign report page](https://help.citrusad.com/retail-media-interface/campaign-management/viewing-the-campaign-report-page.md)
+- [View and quick edit campaigns](https://help.citrusad.com/retail-media-interface/campaign-management/view-and-quick-edit-campaigns.md)
+- [Manage multiple campaigns with bulk actions](https://help.citrusad.com/retail-media-interface/campaign-management/manage-multiple-campaigns-with-bulk-actions.md)
+- [Using the bulk edit CSV tool](https://help.citrusad.com/retail-media-interface/campaign-management/using-the-bulk-edit-csv-tool.md)
+- [Keyword Explorer: AI suggested keywords](https://help.citrusad.com/retail-media-interface/campaign-management/keyword-explorer-ai-suggested-keywords.md)
+- [Navigating the campaign wizard](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/navigating-the-campaign-wizard.md)
+- [Campaign set-up](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/campaign-set-up.md)
+- [Products](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/products.md)
+- [Targeting](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/targeting.md)
+- [Creative](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/creative.md)
+- [Strategy](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/strategy.md)
+- [Autobidding (SPA)](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/strategy/autobidding-spa.md)
+- [How average daily limit works](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/strategy/how-average-daily-limit-works.md)
+- [How floor pricing is applied](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/strategy/how-floor-pricing-is-applied.md)
+- [Review](https://help.citrusad.com/retail-media-interface/campaign-creation-and-editing/review.md)
+- [Brand Pages overview](https://help.citrusad.com/retail-media-interface/brand-page-creation-and-editing/brand-pages-overview.md)
+- [How Brand Page URLs work](https://help.citrusad.com/retail-media-interface/brand-page-creation-and-editing/how-brand-page-urls-work.md)
+- [Creating and Editing Brand Pages](https://help.citrusad.com/retail-media-interface/brand-page-creation-and-editing/creating-and-editing-brand-pages.md)
+- [Managing Brand Pages](https://help.citrusad.com/retail-media-interface/brand-page-creation-and-editing/managing-brand-pages.md)
+- [Troubleshooting & support](https://help.citrusad.com/retail-media-interface/brand-page-creation-and-editing/troubleshooting-and-support.md)
+- [Forecasting overview](https://help.citrusad.com/retail-media-interface/onsite-forecasting/forecasting-overview.md): Get started with Forecasting and jump to setup, saved forecasts, results, and troubleshooting guides.
+- [Accessing Forecasting](https://help.citrusad.com/retail-media-interface/onsite-forecasting/accessing-forecasting.md): Learn how to open Forecasting and move between its main areas.
+- [Creating a forecast](https://help.citrusad.com/retail-media-interface/onsite-forecasting/creating-a-forecast.md): Create a forecast with the setup wizard, configure inputs, and handle no-data responses.
+- [Managing saved forecasts](https://help.citrusad.com/retail-media-interface/onsite-forecasting/managing-saved-forecasts.md): Use the dashboard to find, open, and manage saved forecasts for your team.
+- [Viewing results and exports](https://help.citrusad.com/retail-media-interface/onsite-forecasting/viewing-results-and-exports.md): Review the latest forecast run, reopen saved results, and export available data for offline use.
+- [Troubleshooting Forecasting](https://help.citrusad.com/retail-media-interface/onsite-forecasting/troubleshooting-forecasting.md): Fix common Forecasting issues with access, team context, saved forecasts, and missing data.
+- [On-site performance reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/on-site-performance-reporting.md)
+- [Off-site reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/off-site-reporting.md)
+- [Unified reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/unified-reporting.md)
+- [Campaign-level reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/campaign-level-reporting.md): Campaign reporting has been streamlined in the new interface, with key functions enhanced for improved usability.
+- [Product reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/product-reporting.md)
+- [Keyword reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/keyword-reporting.md)
+- [Keyword impression share](https://help.citrusad.com/retail-media-interface/advertiser-reporting/keyword-impression-share.md)
+- [History reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/history-reporting.md)
+- [Category reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/category-reporting.md)
+- [Wallet reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/wallet-reporting.md)
+- [Brand Page reporting](https://help.citrusad.com/retail-media-interface/advertiser-reporting/brand-page-reporting.md)
+- [Understanding reporting data delays and time zones in the new interface](https://help.citrusad.com/retail-media-interface/advertiser-reporting/understanding-reporting-data-delays-and-time-zones-in-the-new-interface.md)
+- [Understanding on-site standard and enhanced metrics](https://help.citrusad.com/retail-media-interface/advertiser-reporting/understanding-on-site-standard-and-enhanced-metrics.md)
+- [Understanding click and view-through attribution](https://help.citrusad.com/retail-media-interface/advertiser-reporting/understanding-click-and-view-through-attribution.md)
+- [Reporting reference](https://help.citrusad.com/retail-media-interface/advertiser-reporting/reporting-reference.md)
+- [Navigating the wallet manager](https://help.citrusad.com/retail-media-interface/advertiser-wallet-management/navigating-the-wallet-manager.md)
+- [Creating a wallet](https://help.citrusad.com/retail-media-interface/advertiser-wallet-management/creating-a-wallet.md)
+- [Editing a wallet](https://help.citrusad.com/retail-media-interface/advertiser-wallet-management/editing-a-wallet.md)
+- [Managing email notifications](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/managing-email-notifications.md)
+- [Managing teams](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/managing-teams.md)
+- [Managing team members](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/managing-team-members.md)
+- [Editing a team](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/editing-a-team.md)
+- [Inviting multiple team members](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/inviting-multiple-team-members.md)
+- [My profile](https://help.citrusad.com/retail-media-interface/advertiser-team-and-user-management/my-profile.md)
+- [Campaign reviews](https://help.citrusad.com/retail-media-interface/retailer-campaign-management/campaign-reviews.md)
+- [Creating fixed tenancy ad campaigns](https://help.citrusad.com/retail-media-interface/retailer-campaign-management/creating-fixed-tenancy-ad-campaigns.md)
+- [Retailer campaign manager](https://help.citrusad.com/retail-media-interface/retailer-campaign-management/retailer-campaign-manager.md)
+- [Campaign performance dashboard](https://help.citrusad.com/retail-media-interface/retailer-campaign-management/campaign-performance-dashboard.md)
+- [Keyword reporting](https://help.citrusad.com/retail-media-interface/retailer-reporting/keyword-reporting.md)
+- [Product reporting](https://help.citrusad.com/retail-media-interface/retailer-reporting/product-reporting.md)
+- [History reporting](https://help.citrusad.com/retail-media-interface/retailer-reporting/history-reporting.md)
+- [Retailer wallet manager](https://help.citrusad.com/retail-media-interface/retailer-wallet-management/retailer-wallet-manager.md)
+- [Creating wallets](https://help.citrusad.com/retail-media-interface/retailer-wallet-management/creating-wallets.md)
+- [Editing wallets and managing funds](https://help.citrusad.com/retail-media-interface/retailer-wallet-management/editing-wallets-and-managing-funds.md)
+- [Archiving and unarchiving wallets](https://help.citrusad.com/retail-media-interface/retailer-wallet-management/archiving-and-unarchiving-wallets.md)
+- [Viewing wallet performance](https://help.citrusad.com/retail-media-interface/retailer-wallet-management/viewing-wallet-performance.md)
+- [Viewing team performance](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/viewing-team-performance.md)
+- [Managing teams](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/managing-teams.md)
+- [Creating a new team](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/creating-a-new-team.md)
+- [Managing users](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/managing-users.md)
+- [Bulk adding users to teams](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/bulk-adding-users-to-teams.md)
+- [Bulk removing users from teams](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/bulk-removing-users-from-teams.md)
+- [Resending invitations](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/resending-invitations.md)
+- [Campaigns pending review notification](https://help.citrusad.com/retail-media-interface/retailer-team-and-user-management/campaigns-pending-review-notification.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://help.citrusad.com/retail-media-interface/welcome-to-the-new-epsilon-retail-media-platform.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

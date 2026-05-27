@@ -1,0 +1,104 @@
+# SEO Suite Help Center
+
+## Avada SEO Suite Help Center
+
+- [Welcome](https://docs.avada.io/seo-suite-help-center/welcome.md): Welcome to Avada SEO Suite - all you need for Shopify SEO and store performance.
+- [Intro to SEO Suite](https://docs.avada.io/seo-suite-help-center/getting-started/intro-to-seo-suite.md): SEO Suite helps you get more people to visit your Shopify store and improve your conversion rate by having better store performance.
+- [Quick start guide](https://docs.avada.io/seo-suite-help-center/getting-started/quick-start-guide.md): Quick start guide helps walk you through the very first steps of SEO journey
+- [Tutorials videos](https://docs.avada.io/seo-suite-help-center/getting-started/tutorials-videos.md): Get hands-on tutorial videos for getting started with Avada SEO Suites
+- [SEO Dictionary](https://docs.avada.io/seo-suite-help-center/getting-started/seo-dictionary.md): Get clear definitions of key SEO terms and concepts to help enhance your SEO knowledge
+- [Pricing](https://docs.avada.io/seo-suite-help-center/getting-started/pricing.md): How much you need to pay to use Avada SEO Suite and what you'll get
+- [Referral code](https://docs.avada.io/seo-suite-help-center/getting-started/referral-code.md): Share your referral code with partners and earn free rewards (such as extra months of the Pro plan) when they successfully install and use Avada SEO Suite.
+- [Overview](https://docs.avada.io/seo-suite-help-center/shop-seo-checklist/overview.md): Learn how our SEO audit analyzes your site's performance with clear, actionable insights to improve your search rankings
+- [SEO checklist](https://docs.avada.io/seo-suite-help-center/shop-seo-checklist/seo-checklist.md): Explore essential tips for understanding and fixing your SEO checklist. Improve your website's visibility and attract more organic traffic with expert insights and actionable strategies.
+- [On-page SEO](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/on-page-seo.md): Explore our On-Page SEO page to uncover techniques for optimizing your site's content and HTML, directly boosting your search engine relevance.
+- [Checklist](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/checklist.md): The SEO Checklist analyzes your page across 7 categories and 20+ checks. Each issue comes with a clear description and a fix suggestion. Resolve all issues to push your SEO score toward 100.
+- [Keyword research](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/keyword-research.md): Discover the right terms with our Keyword Research guide helps you effectively target your audience
+- [Collection page](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/collection-page.md): Mastering On-Page SEO for collection pages
+- [FAQs builder](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/faqs-builder.md): Make FAQs eligible for rich results on Google Search
+- [Social meta tags](https://docs.avada.io/seo-suite-help-center/seo-on-page-audit/social-meta-tags.md): Customize how your page looks like when shared on social media
+- [Image compression](https://docs.avada.io/seo-suite-help-center/image-optimization/image-compression.md): Avada SEO Suite's Image compression helps slim down images for faster load times, improved SEO, and a smoother user experience.
+- [Image compression (legacy version)](https://docs.avada.io/seo-suite-help-center/image-optimization/image-compression-legacy-version.md): Avada SEO Suite's Image compression helps slim down images for faster load times, improved SEO, and a smoother user experience.
+- [Image alt text optimizer](https://docs.avada.io/seo-suite-help-center/image-optimization/image-alt-text-optimizer.md): Optimize how images shows on search results
+- [Example](https://docs.avada.io/seo-suite-help-center/image-optimization/image-alt-text-optimizer/example.md): Some examples of image alt and filename for you to take reference
+- [Compress image tool](https://docs.avada.io/seo-suite-help-center/image-optimization/compress-image-tool.md): Compress and resize images effortlessly for speed-optimized online experience with AVADA SEO Suite
+- [Speed up](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up.md): Boost your website's performance with Avada SEO Suite's speed up modes. Experience faster loading times and better user engagement.
+- [Compare modes](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up/compare-modes.md): Compare 3 automatic speed up modes
+- [Web performance](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up/web-performance.md): Understand web performance and how important it is in SEO within Avada SEO Suites
+- [Speed up - custom mode](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode.md): Customize your speed up feature with our advanced features
+- [JS deferral](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/js-deferral.md): The Script Manager and JS deferral are crucial tools in SEO for organizing and selectively loading various scripts on your website, enhancing site speed and user experience
+- [Style optimization](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/style-optimization.md): Style optimization helps your store have a good-looking and well-organize experience to visitors.
+- [Assets optimization](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/assets-optimization.md): Optimize all images in assets file to load page faster
+- [Lazy loading](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/lazy-loading.md): Lazy loading images on a website improves performance by loading images only as they scroll into view.
+- [Minification](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/minification.md): Learn the importance of minification in SEO through our detailed guide, which helps reduce load times and improve user experience by streamlining your website's code
+- [Instant page](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/instant-page.md): Instant page helps your site's pages load instantly and improve your conversion rate.
+- [Preconnect](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/preconnect.md): Preconnect helps your store load external resources faster, improving page speed and user experience.
+- [Font-display: swap](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/font-display-swap.md): Ensure your store's text loads immediately — even before custom fonts are fully downloaded.
+- [🧩 Critical CSS](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/critical-css.md): Boost your store’s speed by prioritizing only the CSS needed for above-the-fold content.
+- [⚡ Hyperspeed](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/hyperspeed.md): Boost page performance by optimizing non-essential JavaScript execution.
+- [🔄 Page Loader](https://docs.avada.io/seo-suite-help-center/site-speed-up/speed-up-custom-mode/page-loader.md): Deliver a smoother browsing experience by optimizing how your store loads - right from the first interaction.
+- [Meta tags](https://docs.avada.io/seo-suite-help-center/search-appearance/meta-tags.md): Meta tags provide information for search engines to understand the content and relevance of a webpage.
+- [Default Meta Tags](https://docs.avada.io/seo-suite-help-center/search-appearance/meta-tags/default-meta-tags.md): Meta tags basic helps you to set up meta tags faster and more consistent across your website
+- [Custom meta tags](https://docs.avada.io/seo-suite-help-center/search-appearance/meta-tags/custom-meta-tags.md): Meta tags rule helps set up meta tags faster and more dynamic across your website
+- [Custom meta tags details](https://docs.avada.io/seo-suite-help-center/search-appearance/meta-tags/custom-meta-tags-details.md): Custom meta tags helps you set up meta tags for special cases
+- [Variables](https://docs.avada.io/seo-suite-help-center/search-appearance/meta-tags/variables.md): What variables are and how to use it to set up content on your website
+- [Instant indexing](https://docs.avada.io/seo-suite-help-center/search-appearance/instant-indexing.md): Instant indexing refers to the process of getting a webpage quickly added to a search engine's index
+- [Google Indexing API](https://docs.avada.io/seo-suite-help-center/search-appearance/instant-indexing/google-indexing-api.md): Activate the Google Indexing API from Google Cloud Console
+- [Social networks](https://docs.avada.io/seo-suite-help-center/search-appearance/social-networks.md): Connect your store with the right social metadata to boost visibility, branding, and click-through rates.
+- [Google structured data](https://docs.avada.io/seo-suite-help-center/search-appearance/google-structured-data.md): Google uses structured data to understand the content on the page and show that content in a richer appearance in search results
+- [Rich results](https://docs.avada.io/seo-suite-help-center/search-appearance/google-structured-data/rich-results.md): List of rich results on Search your Shopify website can be eligible for
+- [Test Google Structured Data](https://docs.avada.io/seo-suite-help-center/search-appearance/google-structured-data/test-google-structured-data.md): How to test if Google Structured Data works on your store for any eligible rich results
+- [Robots.txt editor](https://docs.avada.io/seo-suite-help-center/search-appearance/robots.txt-editor.md): Robots.txt tells search engines which pages they should or shouldn't crawl
+- [Wildcards](https://docs.avada.io/seo-suite-help-center/search-appearance/robots.txt-editor/wildcards.md): How to use wildcards in URL path for robots.txt file
+- [Site verification](https://docs.avada.io/seo-suite-help-center/other-features/site-verification.md): How to verify site on various web management tools
+- [Google search consoles](https://docs.avada.io/seo-suite-help-center/other-features/google-search-consoles.md): How to set up Google search consoles & take advantage of it
+- [Broken link](https://docs.avada.io/seo-suite-help-center/other-features/broken-link.md): Broken link manager helps you to detect 404 links and remove them by redirecting
+- [301 and 302 redirect](https://docs.avada.io/seo-suite-help-center/other-features/broken-link/301-and-302-redirect.md): The difference between 301 and 302 redirect
+- [Internal link](https://docs.avada.io/seo-suite-help-center/other-features/internal-link.md): Automatically build internal links across your store so every page gets discovered and ranked.
+- [Sitemap generator](https://docs.avada.io/seo-suite-help-center/other-features/sitemap-generator.md): Generate custom HTML/XML sitemaps to optimize your SEO
+- [XML sitemap](https://docs.avada.io/seo-suite-help-center/other-features/sitemap-generator/xml-sitemap.md): How to create your XML sitemap for search engines to easily find and index your website
+- [HTML sitemap](https://docs.avada.io/seo-suite-help-center/other-features/sitemap-generator/html-sitemap.md): How to create HTML sitemap to improve user navigation, making it easier for visitors to find important pages on your site
+- [Email notification](https://docs.avada.io/seo-suite-help-center/other-features/email-notification.md): Set up email notifications to get emails for your SEO report
+- [Shopify Flow](https://docs.avada.io/seo-suite-help-center/other-features/shopify-flow.md): How to make an workflow to automate your SEO with Shopify Flow
+- [Settings](https://docs.avada.io/seo-suite-help-center/other-features/settings.md): General settings in Avada SEO Suite
+- [Air reviews](https://docs.avada.io/seo-suite-help-center/integration/air-reviews.md): How to integrate Avada SEO Suite to Air Reviews
+- [Ali reviews](https://docs.avada.io/seo-suite-help-center/integration/ali-reviews.md): How to integrate Avada SEO Suite to Ali Reviews
+- [Judge.me](https://docs.avada.io/seo-suite-help-center/integration/judge.me.md): How to integrate Avada SEO Suite to Judge.me
+- [LAI Reviews](https://docs.avada.io/seo-suite-help-center/integration/lai-reviews.md): How to integrate Avada SEO Suite to LAI Reviews
+- [Loox](https://docs.avada.io/seo-suite-help-center/integration/loox.md): How to integrate Avada SEO Suite to Loox
+- [eComposer](https://docs.avada.io/seo-suite-help-center/integration/ecomposer.md): How to integrate Avada SEO Suite to Air Reviews
+- [Gempages](https://docs.avada.io/seo-suite-help-center/integration/gempages.md): Build SEO-friendly pages in Gempages using the Avada SEO Suite integration
+- [Search Engine Optimization (SEO) 101](https://docs.avada.io/seo-suite-help-center/knowledge-hub/search-engine-optimization-seo-101.md): Discover SEO basics with our comprehensive guide. Learn essential techniques to boost website visibility and drive organic traffic.
+- [Hands-on guide to improve on-page product SEO audit score](https://docs.avada.io/seo-suite-help-center/knowledge-hub/hands-on-guide-to-improve-on-page-product-seo-audit-score.md): Discover how to improve your on-page SEO audit scores with Avada SEO Suites as your sidekick with a hands-on walkthrough.
+- [Basic Core Web Vitals](https://docs.avada.io/seo-suite-help-center/knowledge-hub/basic-core-web-vitals.md): Help you gain basic understanding of the Core Web Vitals and use it to better troubleshoot your site performance issues.
+- [Web performance and speed with Shopify eCommerce in 2024](https://docs.avada.io/seo-suite-help-center/knowledge-hub/web-performance-and-speed-with-shopify-ecommerce-in-2024.md): The in and out, the upside and downside of the web performance situation at Shopify now to achieve better store speed
+- [The Google Algorithm leak and what it has to do with your SEO in Shopify](https://docs.avada.io/seo-suite-help-center/knowledge-hub/the-google-algorithm-leak-and-what-it-has-to-do-with-your-seo-in-shopify.md): Discover the impact of the Google Algorithm leak on your Shopify eCommerce SEO. Learn how to adapt your strategies and improve your online store's visibility with our expert insights and tips.
+- [Critical CSS Extraction deep dive](https://docs.avada.io/seo-suite-help-center/knowledge-hub/critical-css-extraction-deep-dive.md): Improve your First Contentful Paint (FCP) with Critical CSS Extraction
+- [Does outbound links matter in SEO?](https://docs.avada.io/seo-suite-help-center/knowledge-hub/does-outbound-links-matter-in-seo.md): Learn how outbound links can boost your SEO by enhancing credibility and user experience. Discover best practices for effective linking.
+- [Tips writing your meta title](https://docs.avada.io/seo-suite-help-center/knowledge-hub/tips-writing-your-meta-title.md): SEO best practice for writing your meta title tag
+- [Writing a good product description that sales and "SEO"](https://docs.avada.io/seo-suite-help-center/knowledge-hub/writing-a-good-product-description-that-sales-and-seo.md): Learn how to write effective product descriptions for Shopify that boost sales and improve SEO
+- [App Deferral for Shopify Store Speed Optimization deep dive](https://docs.avada.io/seo-suite-help-center/knowledge-hub/app-deferral-for-shopify-store-speed-optimization-deep-dive.md): Discover the key to unparalleled speed in your Shopify store with App Deferral. Learn how to optimize performance by strategically deferring third-party app scripts, ensuring a seamless UX
+- [Google update 2024](https://docs.avada.io/seo-suite-help-center/knowledge-hub/google-update-2024.md): What to know and what to do next about Google August 2024 core update
+- [Black Friday deal 2024](https://docs.avada.io/seo-suite-help-center/black-friday-deal-2024.md): Boost your SEO and sales this Black Friday season with Avada SEO Suite
+- [Step-by-step guide](https://docs.avada.io/seo-suite-help-center/black-friday-deal-2024/step-by-step-guide.md): BFCM SEO Boost 2024: 4 Steps to skyrocket your holiday sales
+- [Changelog](https://docs.avada.io/seo-suite-help-center/product-roadmap/changelog.md): Avada SEO suite changelog for merchants who wants a regularly-updated product.
+- [FAQs](https://docs.avada.io/seo-suite-help-center/faqs.md): Find answers for your questions about Avada SEO Suite
+- [Privacy Policy](https://docs.avada.io/seo-suite-help-center/privacy-policy.md): How Avada collects, handles, and processes data of its clients and customers
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.avada.io/seo-suite-help-center/welcome.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

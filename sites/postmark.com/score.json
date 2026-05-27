@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "domain": "postmark.com",
+  "display_name": "Postmark",
+  "category": "comms",
+  "verified_url": "https://postmarkapp.com/llms.txt",
+  "fetched_at": "2026-05-27T05:00:23Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 62246,
+  "last_modified": "Thu, 21 May 2026 22:23:14 GMT",
+  "freshness_age_days": 5,
+  "score": 69,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 13,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 17,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 5,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 6,
+      "reasons": [
+        "redirect_chain"
+      ]
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 6,
+      "reasons": []
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 4,
+      "reasons": [],
+      "kb": 60.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Postmark",
+    "h1_count": 1,
+    "blockquote": "Postmark is a reliable transactional email service that helps developers deliver and track application emails. It provides REST APIs, SMTP support, webhooks, and comprehensive email templates to replace traditional SMTP with a scalable, developer-friendly solution.",
+    "section_count": 20,
+    "subsection_count": 73,
+    "link_count": 42,
+    "value_link_count": 42,
+    "low_value_link_count": 0,
+    "raw_bytes": 62246
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

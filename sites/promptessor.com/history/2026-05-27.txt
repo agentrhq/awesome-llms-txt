@@ -1,0 +1,59 @@
+# PrompTessor
+
+> AI Prompt Analysis and Optimization Platform
+
+PrompTessor is a comprehensive platform for analyzing, improving, and optimizing AI prompts to unlock the full potential of LLMs. With deep insights, detailed metrics, and actionable suggestions, it helps developers craft prompts that consistently deliver higher-quality results.
+
+Beyond optimization, PrompTessor can reverse-engineer likely prompts from video, images, text, or URLs, providing strong starting points you can refine into reliable, production-ready prompts.
+
+> **Full Documentation & Context:**
+> [https://promptessor.com/llms-full.txt](https://promptessor.com/llms-full.txt)
+
+## Core Features
+
+### Prompt Analysis and Optimization
+- **Basic Analysis**: Quick evaluation with suggestions and one optimized prompt version
+- **Advanced Analysis**: Deep analysis with detailed metrics, multiple optimized prompt versions, and implementation guides
+
+### Evaluation Metrics
+- Clarity: How clear and unambiguous the instructions are
+- Specificity: How precise and detailed the requirements are
+- Context: How well background and situational awareness is provided
+- Goal Orientation: How effectively the prompt guides toward desired outcomes
+- Structure: How well-organized and logical the prompt flow is
+- Constraints: How clearly boundaries and limitations are specified
+
+### Reverse Prompt Engineering
+Generate prompts from existing content:
+- Image-to-Prompt: Analyze images and generate prompts to recreate them
+- Text-to-Prompt: Extract prompt patterns from text outputs
+- Video-to-Prompt: Analyze video content for prompt generation
+
+### Refine with Your Feedback
+Provide feedback on optimized versions to get even better, personalized prompt refinements tailored to your specific needs.
+
+## Pricing Plans
+
+- **Free**: 5 basic analyses/day, 1 advanced analysis/day
+- **Pro**: Unlimited basic, 2000 advanced/month, priority support
+- **Pro+**: Unlimited everything, priority processing
+
+## Languages Supported
+
+Analysis available in 50+ languages including English, Indonesian, Spanish, French, German, Portuguese, Japanese, Korean, Chinese, Arabic, Hindi, Russian, and many more.
+
+## Contact
+
+- Website: https://promptessor.com
+- Email: info@promptessor.com
+- Documentation: https://promptessor.com/docs
+
+## Links
+
+- Home: https://promptessor.com
+- Prompt Analysis: https://promptessor.com/prompt/optimize
+- Reverse Prompt: https://promptessor.com/prompt/reverse
+- Documentation: https://promptessor.com/docs
+- Pricing: https://promptessor.com/plans
+- Privacy Policy: https://promptessor.com/privacy
+- Terms of Service: https://promptessor.com/terms

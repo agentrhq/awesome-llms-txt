@@ -1,0 +1,55 @@
+# Pikaicons
+
+> Pikaicons is a premium icon library offering 5,000+ customizable SVG icons in multiple styles for web, mobile, and digital products—trusted by designers and brands worldwide.
+
+Key features and benefits:
+- Pikaicons is a comprehensive icon library that gives designers and developers access to 5,000+ hand-crafted SVG icons across 27+ specialized categories.
+- With Pikaicons, designers get five distinct styles per icon (Stroke, Solid, Contrast, Duo Stroke, Duo Solid), eliminating the need for multiple icon libraries.
+- Pikaicons offers lifetime access with no subscription fees, providing long-term value and predictable costs for teams and individuals.
+- Pikaicons integrates natively with Figma through organized component files, enabling seamless workflow integration for design teams.
+- Pikaicons provides developer-optimized formats including React, Solid.js, and SVG components ready for immediate implementation.
+- Pikaicons offers comprehensive commercial licensing, allowing unlimited project usage without attribution requirements for paid plans.
+- Pikaicons maintains consistent design language with 2px stroke clarity, 60% corner smoothing, and 24px grid alignment across all icons.
+- Pikaicons provides custom icon request services for paid plan users, ensuring perfect fit for specific project needs.
+
+- [Browse Icon Library](https://pikaicons.com/categories): Discover 5,000+ hand-crafted SVG icons across 27+ categories including AI, development, social media, and essential UI elements.
+- [Get Started Free](https://pikaicons.lemonsqueezy.com/buy/c509ce78-1b50-4ff3-a26d-1b0557e81e02): Download 537 premium icons immediately with lifetime access, no commitment required for commercial and personal projects.
+- [Compare Pricing Plans](https://pikaicons.com/pricing): Choose from Solo ($99), Startup ($149), or Enterprise ($299) with lifetime updates, Figma integration, and team licenses.
+- [View License Terms](https://pikaicons.com/license): Understand usage rights for Free and paid plans, including commercial use, team restrictions, and modification permissions.
+
+## Icon Collections
+- [Essential Icons](https://pikaicons.com/essential-icons-(general-purpose)): 950 general-purpose icons for any UI project including buttons, navigation, and common interface elements.
+- [Files & Folders](https://pikaicons.com/files-folders): 554 document and organization icons for file management, storage systems, and data handling interfaces.
+- [Arrows & Navigation](https://pikaicons.com/arrows-navigation): 400 directional and navigation icons for user flow, menus, and interface guidance.
+- [Devices & Gadgets](https://pikaicons.com/devices-gadgets): 349 technology device icons for smartphones, computers, wearables, and digital hardware.
+- [Media & Multimedia](https://pikaicons.com/media-multimedia): 344 icons for audio, video, photography, and multimedia content creation and playback.
+- [Social Media & Apps](https://pikaicons.com/social-media-apps): 305 platform icons and UI symbols for popular social networks and applications.
+- [Development & Coding](https://pikaicons.com/development-coding): 269 developer-focused icons for code editors, programming languages, tools, and technical documentation.
+- [Charts & Graphs](https://pikaicons.com/charts-graphs): 255 data visualization icons for analytics, reporting, and statistical presentations.
+- [Communication & Messaging](https://pikaicons.com/communication-messaging): 225 icons for chat, email, calls, and digital communication platforms.
+- [Editing & Design Tools](https://pikaicons.com/editing-design-tools): 188 creative tools icons for design software, art creation, and visual editing applications.
+- [Users & Profiles](https://pikaicons.com/users-profiles): 185 people and account management icons for user interfaces and profile systems.
+- [Web3 & Cryptocurrency](https://pikaicons.com/web3-cryptocurrency): 162 blockchain-related icons for crypto, DeFi, NFTs, and decentralized applications.
+- [Security & Protection](https://pikaicons.com/security-protection): 147 cybersecurity icons for privacy, encryption, authentication, and data protection.
+- [Time & Date](https://pikaicons.com/time-date): 134 calendar and scheduling icons for time management, appointments, and temporal interfaces.
+- [Appliances & Electronics](https://pikaicons.com/appliances-home-electronics): 120 home and electronic device icons for smart homes and consumer technology.
+- [AI (Artificial Intelligence)](https://pikaicons.com/ai-(artificial-intelligence)): 112 cutting-edge icons for AI applications, neural networks, automation, and machine learning interfaces.
+
+## Solutions
+- **SaaS Applications**: Complete icon sets for software applications including dashboards, user interfaces, and management tools using Essential Icons, Charts & Graphs, and Users & Profiles collections.
+- **Mobile Apps**: Optimized icons for iOS and Android applications with perfect rendering at all screen densities from Devices & Gadgets and Essential Icons categories.
+- **Web Development**: Developer-focused iconography for websites and web applications from Development & Coding, Files & Folders, and Security & Protection collections.
+- **E-commerce Platforms**: Shopping, payment, and customer service icons for online retail experiences using Money & Finance, Communication & Messaging, and Essential Icons.
+- **Design Systems**: Consistent, scalable icon libraries for enterprise design systems using all categories with five unified styles per icon.
+- **Marketing Materials**: Professional icons for presentations, infographics, and campaigns from Social Media & Apps, Charts & Graphs, and Communication collections.
+
+## Product Features
+- **Five Icon Styles**: Each icon available in Stroke, Solid, Contrast, Duo Stroke, and Duo Solid styles for design flexibility.
+- **Figma Integration**: Access complete icon library directly in Figma with organized components and instant updates.
+- **Developer Formats**: Download optimized SVG, React, and Solid.js components ready for immediate implementation.
+- **Custom Icon Requests**: Request specific icons for your project needs with priority support for paid plan users.
+
+## Resources
+- [Latest Updates](https://pikaicons.com/changelog): Track new icon releases, improvements, and feature additions with detailed version history.
+- [Contact Support](mailto:pikaicon@gmail.com): Get help with licensing, technical issues, or custom requests via email or social media.
+- [Affiliate Program](https://pikaicons.lemonsqueezy.com/affiliates): Earn 30% commission by recommending Pikaicons to your network and community.

@@ -1,0 +1,358 @@
+# Clore.ai
+
+## Clore.ai
+
+- [Overview](https://docs.clore.ai/readme.md)
+- [Info](https://docs.clore.ai/main/info.md): Introduction to Clore.ai
+- [Tokenomics](https://docs.clore.ai/main/tokenomics.md)
+- [Clore VPN](https://docs.clore.ai/main/clore-vpn.md)
+- [Clore coin](https://docs.clore.ai/clore-coin.md)
+- [Wallet](https://docs.clore.ai/wallet.md)
+- [Conclusion](https://docs.clore.ai/conclusion.md)
+- [Company](https://docs.clore.ai/quickstart.md)
+- [Marketplace Overview](https://docs.clore.ai/for-renters/overview.md): Clore.ai GPU Leasing Product
+- [Fee Structure](https://docs.clore.ai/for-renters/fee-structure.md)
+- [On-Demand vs Spot](https://docs.clore.ai/for-renters/on-demand-vs-spot.md)
+- [How to Connect](https://docs.clore.ai/for-renters/how-to-connect.md)
+- [Available Docker Images](https://docs.clore.ai/for-renters/docker-images.md)
+- [Order Management](https://docs.clore.ai/for-renters/order-management.md)
+- [How to use templates (Mass rent)](https://docs.clore.ai/for-renters/how-to-use-templates-mass-rent.md)
+- [Renter Troubleshooting](https://docs.clore.ai/for-renters/renter-troubleshooting.md)
+- [Use cases](https://docs.clore.ai/for-renters/use-cases.md)
+- [Getting Started](https://docs.clore.ai/for-hosts/installing-clore-hosting.md)
+- [Installing on Ubuntu](https://docs.clore.ai/for-hosts/installing-clore-hosting/installing-clore-hosting-ubuntu.md)
+- [Installing Software](https://docs.clore.ai/for-hosts/installing-clore-hosting/installing-clore-hosting-software.md)
+- [Network Requirements](https://docs.clore.ai/for-hosts/installing-clore-hosting/network-requirements.md)
+- [Server Management](https://docs.clore.ai/for-hosts/server-settings.md)
+- [How to Price Your Servers](https://docs.clore.ai/for-hosts/server-settings/how-to-price-your-servers-for-rental.md)
+- [Server Rating System](https://docs.clore.ai/for-hosts/server-settings/server-rating.md)
+- [Telegram bot](https://docs.clore.ai/for-hosts/server-settings/telegram-bot.md)
+- [Host Fee Guide](https://docs.clore.ai/for-hosts/host-fees.md)
+- [MFP Lock](https://docs.clore.ai/for-hosts/mfp-lock-a-complete-breakdown-of-mechanics.md)
+- [Troubleshooting](https://docs.clore.ai/for-hosts/server-offline-on-clore.ai.md)
+- [Docker Failure](https://docs.clore.ai/for-hosts/server-offline-on-clore.ai/docker-failure.md)
+- [How to Reinstall Drivers](https://docs.clore.ai/for-hosts/server-offline-on-clore.ai/how-to-reinstall-drivers.md)
+- [Reinstall While Keeping Token](https://docs.clore.ai/for-hosts/server-offline-on-clore.ai/how-to-reinstall-while-keeping-the-old-token.md)
+- [Docker Disk Space Cleanup](https://docs.clore.ai/for-hosts/server-offline-on-clore.ai/docker-disk-space-cleanup.md)
+- [Advanced](https://docs.clore.ai/for-hosts/advanced.md)
+- [Bare Metal](https://docs.clore.ai/for-hosts/advanced/bare-metal.md)
+- [HiveOS Integration](https://docs.clore.ai/for-hosts/advanced/hiveos-integration.md): This section shows how to add a server (rig) to Clore.ai using HiveOS: system preparation, installing Clore Hosting, applying the token, starting a flightsheet
+- [Clore Fleet (Mass onboarding)](https://docs.clore.ai/for-hosts/advanced/clore-fleet-mass-onboarding.md): Instruction for Using Clore Fleet
+- [Clore Partners](https://docs.clore.ai/for-hosts/advanced/clore-partners-high-volume-rental-system-for-major-clients.md)
+- [Banned GPUs](https://docs.clore.ai/for-hosts/list-of-all-banned-gpus.md)
+- [API](https://docs.clore.ai/for-hosts/api.md)
+- [Overview](https://docs.clore.ai/gigaspot/overview.md): GigaSPOT - Market leading compute power trading system
+- [Current Market Specifics](https://docs.clore.ai/gigaspot/current-market-specifics.md)
+- [Deploying on GigaSPOT](https://docs.clore.ai/gigaspot/deploying-on-gigaspot.md)
+- [Overview](https://docs.clore.ai/proof-of-holding/overview.md)
+- [PoH Staking](https://docs.clore.ai/proof-of-holding/poh-staking.md)
+- [PoH Marketplace](https://docs.clore.ai/proof-of-holding/poh-marketplace.md)
+- [Use cases](https://docs.clore.ai/proof-of-holding/use-cases.md)
+- [Team](https://docs.clore.ai/about/team.md)
+- [Links](https://docs.clore.ai/about/links.md)
+- [FAQ](https://docs.clore.ai/help/faq.md)
+- [Glossary](https://docs.clore.ai/help/glossary.md)
+- [Support & Contact](https://docs.clore.ai/help/support.md)
+- [Python SDK (clore-ai)](https://docs.clore.ai/developers/python-sdk.md)
+- [CLI Reference](https://docs.clore.ai/developers/cli-guide.md)
+- [CLI & SDK Guide](https://docs.clore.ai/developers/cli-sdk.md)
+- [New to Clore?](https://docs.clore.ai/getting-started/deposit-withdrawal.md)
+- [Supported Currencies](https://docs.clore.ai/getting-started/deposit-withdrawal/supported-currencies.md)
+- [Account Security](https://docs.clore.ai/getting-started/deposit-withdrawal/account-security.md)
+- [Referral Program](https://docs.clore.ai/getting-started/deposit-withdrawal/referral-program.md)
+- [Changelog](https://docs.clore.ai/changelog.md)
+- [CLORE Migration (completed)](https://docs.clore.ai/clore-migration.md)
+- [Claim Window (closed)](https://docs.clore.ai/claim-instructions-for-migration.md)
+- [Terms of Service](https://docs.clore.ai/legal/terms-of-service.md)
+- [Privacy Policy](https://docs.clore.ai/legal/privacy-policy.md)
+
+## Guides
+
+- [Introduction](https://docs.clore.ai/guides/readme.md)
+- [Quickstart](https://docs.clore.ai/guides/quickstart.md)
+- [Overview](https://docs.clore.ai/guides/getting-started/getting-started.md)
+- [Python SDK Quickstart](https://docs.clore.ai/guides/getting-started/python-quickstart.md): Find a GPU, rent it, and SSH in — all from Python or terminal in 5 minutes
+- [FAQ](https://docs.clore.ai/guides/getting-started/faq.md): Frequently asked questions about using Clore.ai for AI workloads
+- [GPU Comparison](https://docs.clore.ai/guides/getting-started/gpu-comparison.md): Complete GPU comparison guide for AI workloads on Clore.ai
+- [Model Compatibility](https://docs.clore.ai/guides/getting-started/model-compatibility.md): AI model and GPU compatibility matrix for Clore.ai
+- [Cost Calculator](https://docs.clore.ai/guides/getting-started/cost-calculator.md): Estimate your AI workload costs on Clore.ai
+- [Docker Images](https://docs.clore.ai/guides/getting-started/docker-images.md): Ready-to-deploy Docker images for AI workloads on Clore.ai
+- [GPU Pricing](https://docs.clore.ai/guides/getting-started/pricing.md): Current GPU rental pricing on Clore.ai marketplace
+- [Troubleshooting](https://docs.clore.ai/guides/getting-started/clore-troubleshooting.md): Common issues and solutions for Clore.ai GPU rentals
+- [Overview](https://docs.clore.ai/guides/language-models/language-models.md)
+- [Ollama](https://docs.clore.ai/guides/language-models/ollama.md): Run LLMs locally with Ollama on Clore.ai GPUs
+- [Open WebUI](https://docs.clore.ai/guides/language-models/open-webui.md): ChatGPT-like interface for running LLMs on Clore.ai GPUs
+- [vLLM](https://docs.clore.ai/guides/language-models/vllm.md): High-throughput LLM inference with vLLM on Clore.ai GPUs
+- [Llama.cpp Server](https://docs.clore.ai/guides/language-models/llamacpp-server.md): Efficient LLM inference with llama.cpp server on Clore.ai GPUs
+- [Text Generation WebUI](https://docs.clore.ai/guides/language-models/text-generation-webui.md): Run text-generation-webui for LLM inference on Clore.ai GPUs
+- [ExLlamaV2](https://docs.clore.ai/guides/language-models/exllamav2-fast.md): Maximum speed LLM inference with ExLlamaV2 on Clore.ai GPUs
+- [LocalAI](https://docs.clore.ai/guides/language-models/localai-openai-compatible.md): Self-hosted OpenAI-compatible API with LocalAI on Clore.ai
+- [Llama 3.3 70B](https://docs.clore.ai/guides/language-models/llama33.md): Run Meta's Llama 3.3 70B model on Clore.ai GPUs
+- [Mistral & Mixtral](https://docs.clore.ai/guides/language-models/mistral-mixtral.md): Run Mistral and Mixtral models on Clore.ai GPUs
+- [DeepSeek Coder](https://docs.clore.ai/guides/language-models/deepseek-coder.md): Best-in-class code generation with DeepSeek Coder on Clore.ai
+- [DeepSeek-V3](https://docs.clore.ai/guides/language-models/deepseek-v3.md): Run DeepSeek-V3 with exceptional reasoning on Clore.ai GPUs
+- [DeepSeek-R1 Reasoning Model](https://docs.clore.ai/guides/language-models/deepseek-r1.md): Run DeepSeek-R1 open-source reasoning model on Clore.ai GPUs
+- [Qwen2.5](https://docs.clore.ai/guides/language-models/qwen25.md): Run Alibaba's Qwen2.5 multilingual LLMs on Clore.ai GPUs
+- [CodeLlama](https://docs.clore.ai/guides/language-models/codellama.md): Generate, complete, and explain code with CodeLlama on Clore.ai
+- [Gemma 2](https://docs.clore.ai/guides/language-models/gemma2.md): Run Google's Gemma 2 models efficiently on Clore.ai GPUs
+- [Phi-4](https://docs.clore.ai/guides/language-models/phi4.md): Run Microsoft's Phi-4 small language model on Clore.ai GPUs
+- [Llama 4 (Scout & Maverick)](https://docs.clore.ai/guides/language-models/llama4.md): Run Meta Llama 4 Scout & Maverick MoE models on Clore.ai GPUs
+- [Gemma 3](https://docs.clore.ai/guides/language-models/gemma3.md): Run Google Gemma 3 multimodal models on Clore.ai — beats Llama-405B at 15x smaller
+- [Gemma 4 (26B MoE, 4B active)](https://docs.clore.ai/guides/language-models/gemma4.md): Deploy Gemma 4 (26B MoE, 4B active) by Google on Clore.ai — the open-weight model released April 2026 that climbed to
+- [Mistral Small 3.1](https://docs.clore.ai/guides/language-models/mistral-small.md): Deploy Mistral Small 3.1 (24B) on Clore.ai — the ideal single-GPU production model
+- [Qwen3.5](https://docs.clore.ai/guides/language-models/qwen35.md): Run Alibaba Qwen3.5 on Clore.ai — the freshest frontier model (Feb 2026)
+- [Qwen3.5-Omni (Multimodal)](https://docs.clore.ai/guides/language-models/qwen35-omni.md)
+- [GLM-5](https://docs.clore.ai/guides/language-models/glm5.md): Deploy GLM-5 (744B MoE) by Zhipu AI on Clore.ai — API access and self-hosting with vLLM
+- [GLM-4.7-Flash](https://docs.clore.ai/guides/language-models/glm-47-flash.md): Deploy GLM-4.7-Flash (30B MoE) by Zhipu AI on Clore.ai — efficient language model with 59.2% SWE-bench performance
+- [Kimi K2.5](https://docs.clore.ai/guides/language-models/kimi-k2.md): Deploy Kimi K2.5 (1T MoE multimodal) by Moonshot AI on Clore.ai GPUs
+- [Mistral Large 3 (675B MoE)](https://docs.clore.ai/guides/language-models/mistral-large3.md): Run Mistral Large 3 — a 675B MoE frontier model with 41B active parameters on Clore.ai GPUs
+- [Mistral Medium 3.5 (128B Dense, 256K)](https://docs.clore.ai/guides/language-models/mistral-medium35.md): Deploy Mistral Medium 3.5 on Clore.ai — 128B dense, 256K context, dual-mode reasoning released April 2026. Production vLLM/SGLang setup on 4× H100 or 2× H200.
+- [MiMo-V2-Flash](https://docs.clore.ai/guides/language-models/mimo-v2-flash.md): Deploy MiMo-V2-Flash (309B MoE) with speculative decoding on Clore.ai — ultra-fast inference with 150+ tok/s
+- [Ling-2.5-1T (1 Trillion Parameters)](https://docs.clore.ai/guides/language-models/ling25.md): Run Ling-2.5-1T — Ant Group's 1 trillion parameter open-source LLM with hybrid linear attention on Clore.ai GPUs
+- [LFM2-24B-A2B](https://docs.clore.ai/guides/language-models/lfm2-24b.md): Deploy LFM2-24B-A2B by Liquid AI on Clore.ai — hybrid SSM+Attention architecture with 24B total / 2B active parameters
+- [DeepSeek V4 (1.6T MoE, Multimodal)](https://docs.clore.ai/guides/language-models/deepseek-v4.md): Deploy DeepSeek V4 (1.6T-param Pro and 284B Flash) on Clore.ai — the open-weight frontier MoE released April 22, 2026
+- [GLM-5.1 (744B MoE, #1 SWE-Bench Pro)](https://docs.clore.ai/guides/language-models/glm-5-1.md): Deploy GLM-5.1 (744B MoE, 40B active) by Z.ai on Clore.ai — the open-weight model that topped SWE-Bench Pro in April 2026
+- [NVIDIA Nemotron 3 Super (120B MoE)](https://docs.clore.ai/guides/language-models/nvidia-nemotron-3-super.md)
+- [Gemini 3.1 Flash Lite](https://docs.clore.ai/guides/language-models/gemini-3-1-flash-lite.md)
+- [Hy3 Preview (Tencent Hunyuan 3, 295B MoE)](https://docs.clore.ai/guides/language-models/hy3-preview.md): Deploy Tencent's Hy3 Preview (295B MoE, 21B active, 256K ctx) on Clore.ai — the first model from Tencent Hunyuan's rebuilt training stack, tuned for long-horizon reasoning and agentic coding
+- [MiMo-V2.5-Pro (Xiaomi 1T MoE)](https://docs.clore.ai/guides/language-models/mimo-v25-pro.md): Deploy MiMo-V2.5-Pro (1.02T MoE, 42B active, 1M context) by Xiaomi on Clore.ai — the first open-weight Pro tier from the MiMo team, FP8 native, hybrid attention
+- [MiniMax M2.7 (229B MoE Coding)](https://docs.clore.ai/guides/language-models/minimax-m27.md): Deploy MiniMax M2.7 (229B MoE) on Clore.ai — the open-weight self-hosted release behind MiniMax's coding agent push, with FP8 single-node deployment on H100/H200
+- [Ling-2.6-flash (Ant Group 104B MoE)](https://docs.clore.ai/guides/language-models/ling-26-flash.md): Deploy Ling-2.6-flash (104B MoE, 7.4B active) by Ant Group on Clore.ai — the agent-tuned flash sibling that fits on a single RTX 4090
+- [Qwen3.6-27B (Dense, Single-GPU)](https://docs.clore.ai/guides/language-models/qwen36-27b.md): Deploy Qwen3.6-27B by Alibaba on Clore.ai — a dense 27B that fits on one RTX 4090 and ships with 262K native context
+- [TGI (Text Generation Inference)](https://docs.clore.ai/guides/language-models/tgi.md): Run HuggingFace Text Generation Inference (TGI) for production LLM serving on Clore.ai GPUs
+- [SGLang](https://docs.clore.ai/guides/language-models/sglang.md): Deploy SGLang for high-performance LLM serving with RadixAttention on Clore.ai GPUs
+- [Aphrodite Engine](https://docs.clore.ai/guides/language-models/aphrodite-engine.md): Run Aphrodite Engine for LLM inference on legacy and modern GPUs on Clore.ai
+- [LiteLLM AI Gateway](https://docs.clore.ai/guides/language-models/litellm.md): Deploy LiteLLM as an AI Gateway proxy for 100+ LLMs on Clore.ai GPUs
+- [MLC-LLM](https://docs.clore.ai/guides/language-models/mlc-llm.md)
+- [PowerInfer](https://docs.clore.ai/guides/language-models/powerinfer.md)
+- [LMDeploy](https://docs.clore.ai/guides/language-models/lmdeploy.md)
+- [Mistral.rs](https://docs.clore.ai/guides/language-models/mistral-rs.md)
+- [Overview](https://docs.clore.ai/guides/image-generation/image-generation.md)
+- [FLUX.1](https://docs.clore.ai/guides/image-generation/flux.md): Run FLUX.1 image generation from Black Forest Labs on Clore.ai
+- [Stable Diffusion 3.5](https://docs.clore.ai/guides/image-generation/stable-diffusion-3-5.md): Generate high-fidelity images with accurate text rendering using Stable Diffusion 3.5 on Clore.ai GPUs.
+- [Stable Diffusion WebUI](https://docs.clore.ai/guides/image-generation/stable-diffusion-webui.md): Run AUTOMATIC1111 Stable Diffusion WebUI on Clore.ai GPUs
+- [ComfyUI](https://docs.clore.ai/guides/image-generation/comfyui.md): Node-based Stable Diffusion interface with ComfyUI on Clore.ai
+- [Fooocus](https://docs.clore.ai/guides/image-generation/fooocus-simple-sd.md): Easy Stable Diffusion image generation with Fooocus on Clore.ai
+- [PixArt](https://docs.clore.ai/guides/image-generation/pixart-image-gen.md): Fast image generation with PixArt-Alpha and PixArt-Sigma
+- [SDXL Turbo & LCM](https://docs.clore.ai/guides/image-generation/sdxl-turbo.md): Generate images in 1-4 steps with SDXL Turbo and LCM on Clore.ai
+- [FLUX.2 Klein](https://docs.clore.ai/guides/image-generation/flux2-klein.md): FLUX.2 Klein — sub-second image generation on Clore.ai GPUs
+- [HunyuanImage 3.0](https://docs.clore.ai/guides/image-generation/hunyuan-image3.md): Run HunyuanImage 3.0 — Tencent's 80B MoE multimodal image generation and editing model on Clore.ai GPUs
+- [InvokeAI](https://docs.clore.ai/guides/image-generation/invokeai.md): Run InvokeAI professional Stable Diffusion toolkit with node-based canvas on Clore.ai GPUs
+- [SD WebUI Forge](https://docs.clore.ai/guides/image-generation/sd-webui-forge.md): Deploy Stable Diffusion WebUI Forge with optimized VRAM management and FLUX support on Clore.ai GPUs
+- [Overview](https://docs.clore.ai/guides/image-processing/image-processing.md)
+- [Real-ESRGAN Upscaling](https://docs.clore.ai/guides/image-processing/real-esrgan-upscaling.md): Upscale and enhance images with Real-ESRGAN on Clore.ai GPUs
+- [GFPGAN Face Restore](https://docs.clore.ai/guides/image-processing/gfpgan-face-restore.md): Restore and enhance faces in photos using GFPGAN on Clore.ai
+- [ControlNet](https://docs.clore.ai/guides/image-processing/controlnet-advanced.md): Precise control over AI image generation with ControlNet
+- [Segment Anything](https://docs.clore.ai/guides/image-processing/segment-anything.md): Precise image segmentation with Meta's SAM on Clore.ai GPUs
+- [Depth Anything](https://docs.clore.ai/guides/image-processing/depth-anything.md): Monocular depth estimation with Depth Anything on Clore.ai
+- [ICLight](https://docs.clore.ai/guides/image-processing/iclight.md): AI-powered image relighting with IC-Light on Clore.ai GPUs
+- [Overview](https://docs.clore.ai/guides/audio-and-voice/audio-voice.md)
+- [Whisper Transcription](https://docs.clore.ai/guides/audio-and-voice/whisper-transcription.md): Transcribe audio and video with OpenAI Whisper on Clore.ai GPUs
+- [WhisperX with Diarization](https://docs.clore.ai/guides/audio-and-voice/whisperx.md): Run WhisperX for fast speech transcription with word-level timestamps and speaker diarization on Clore.ai GPUs.
+- [Bark TTS](https://docs.clore.ai/guides/audio-and-voice/bark-tts.md): Generate realistic speech and audio with Bark AI on Clore.ai
+- [XTTS (Coqui)](https://docs.clore.ai/guides/audio-and-voice/xtts-coqui.md): Natural speech generation with voice cloning using Coqui XTTS
+- [F5-TTS](https://docs.clore.ai/guides/audio-and-voice/f5-tts.md): Fast and fluent text-to-speech with F5-TTS on Clore.ai GPUs
+- [Zonos TTS Voice Cloning](https://docs.clore.ai/guides/audio-and-voice/zonos-tts.md): Run Zonos TTS by Zyphra for voice cloning with emotion and pitch control on Clore.ai GPUs.
+- [OpenVoice](https://docs.clore.ai/guides/audio-and-voice/openvoice-clone.md): Clone any voice with seconds of audio using OpenVoice on Clore.ai
+- [RVC Voice Clone](https://docs.clore.ai/guides/audio-and-voice/rvc-voice-clone.md): Clone and convert voices with RVC on Clore.ai GPUs
+- [Demucs Separation](https://docs.clore.ai/guides/audio-and-voice/demucs-separation.md): Separate music into vocals, drums, bass, and more with Demucs
+- [AudioCraft Music](https://docs.clore.ai/guides/audio-and-voice/audiocraft-music.md): Generate music and audio with Meta's AudioCraft on Clore.ai
+- [Stable Audio](https://docs.clore.ai/guides/audio-and-voice/stable-audio.md): Generate music and sound effects with Stable Audio on Clore.ai
+- [Dia TTS (Nari Labs)](https://docs.clore.ai/guides/audio-and-voice/dia-tts.md): Generate multi-speaker dialog with emotion using Dia TTS by Nari Labs
+- [Qwen3-TTS Voice Cloning](https://docs.clore.ai/guides/audio-and-voice/qwen3-tts.md): Multilingual voice cloning and TTS with Qwen3-TTS — 10+ languages, streaming, emotion control
+- [Kokoro TTS](https://docs.clore.ai/guides/audio-and-voice/kokoro-tts.md): Run Kokoro TTS — an ultra-lightweight 82M-parameter text-to-speech model on Clore.ai GPUs.
+- [ChatTTS Conversational Speech](https://docs.clore.ai/guides/audio-and-voice/chattts.md): Run ChatTTS conversational text-to-speech with fine-grained prosody control on Clore.ai GPUs.
+- [Chatterbox Voice Cloning](https://docs.clore.ai/guides/audio-and-voice/chatterbox-tts.md): Run Chatterbox TTS by Resemble AI for zero-shot voice cloning and multilingual speech synthesis on Clore.ai GPUs.
+- [Kani-TTS-2 Voice Cloning](https://docs.clore.ai/guides/audio-and-voice/kani-tts.md): Run Kani-TTS-2 — an ultra-efficient 400M parameter text-to-speech model with voice cloning on Clore.ai GPUs
+- [MiniMax Speech 2.6](https://docs.clore.ai/guides/audio-and-voice/minimax-speech.md): Deploy MiniMax Speech 2.6 — ultra-low latency voice agent TTS — on Clore.ai GPU servers
+- [Fish Speech](https://docs.clore.ai/guides/audio-and-voice/fish-speech.md): Run Fish Speech multilingual TTS and zero-shot voice cloning on Clore.ai GPUs
+- [StyleTTS2](https://docs.clore.ai/guides/audio-and-voice/styletss2.md): Run StyleTTS2 human-level text-to-speech via style diffusion on Clore.ai GPUs
+- [MeloTTS](https://docs.clore.ai/guides/audio-and-voice/melotts.md): Run MeloTTS high-quality multilingual TTS with fast inference on Clore.ai GPUs
+- [Voxtral TTS](https://docs.clore.ai/guides/audio-and-voice/voxtral-tts.md)
+- [MOSS-TTS (CPU-only, 100M)](https://docs.clore.ai/guides/audio-and-voice/moss-tts.md): Run MOSS-TTS — ultra-lightweight 100M-parameter CPU-first multilingual text-to-speech from OpenMOSS (MOSI.AI + Fudan NLP) on Clore.ai.
+- [Overview](https://docs.clore.ai/guides/video-generation/video-generation.md)
+- [Hunyuan Video](https://docs.clore.ai/guides/video-generation/hunyuan-video.md): Generate high-quality videos with Tencent's Hunyuan Video on Clore.ai
+- [CogVideoX Video Generation](https://docs.clore.ai/guides/video-generation/cogvideox.md): Generate 6-second videos from text or images with Zhipu AI's CogVideoX diffusion transformer on Clore.ai GPUs.
+- [LTX-Video Real-Time Generation](https://docs.clore.ai/guides/video-generation/ltx-video.md): Generate 5-second videos faster than real-time with Lightricks' LTX-Video on Clore.ai GPUs.
+- [Stable Video Diffusion](https://docs.clore.ai/guides/video-generation/stable-video-diffusion.md): Generate videos from images with Stable Video Diffusion on Clore.ai
+- [AI Video Generation](https://docs.clore.ai/guides/video-generation/ai-video-generation.md): Generate videos with SVD, AnimateDiff, and more on Clore.ai
+- [Wan2.1 Video](https://docs.clore.ai/guides/video-generation/wan-video.md): Generate videos with Alibaba's Wan2.1 model on Clore.ai GPUs
+- [Wan 2.2 VBVR (Motion Control)](https://docs.clore.ai/guides/video-generation/wan22-vbvr.md)
+- [OpenSora](https://docs.clore.ai/guides/video-generation/opensora.md): Generate videos with OpenSora, the open-source Sora alternative
+- [FramePack Video Generation](https://docs.clore.ai/guides/video-generation/framepack.md): Generate AI videos with just 6GB VRAM using FramePack on Clore.ai
+- [LTX-2 (Audio + Video)](https://docs.clore.ai/guides/video-generation/ltx-video-2.md): Generate videos with native audio — foley, ambience, and lip-sync — using LTX-2 on Clore.ai GPUs.
+- [SkyReels-V3](https://docs.clore.ai/guides/video-generation/skyreels.md): Generate 24fps video with SkyReels-V3, Kunlun's Wan2.1-based open video model, on Clore.ai GPUs.
+- [AnimateDiff](https://docs.clore.ai/guides/video-generation/animatediff.md)
+- [Mochi-1 Video](https://docs.clore.ai/guides/video-generation/mochi-1.md)
+- [CubeComposer 4K 360° Video](https://docs.clore.ai/guides/video-generation/cubecomposer-360-video.md)
+- [Overview](https://docs.clore.ai/guides/video-processing/video-processing.md)
+- [FFmpeg NVENC](https://docs.clore.ai/guides/video-processing/ffmpeg-nvenc.md): GPU-accelerated video encoding with FFmpeg NVENC on Clore.ai
+- [RIFE Interpolation](https://docs.clore.ai/guides/video-processing/rife-interpolation.md): Increase video frame rate with RIFE AI interpolation on Clore.ai
+- [Overview](https://docs.clore.ai/guides/vision-models/vision-models.md)
+- [Llama 3.2 Vision](https://docs.clore.ai/guides/vision-models/llama-vision.md): Run Meta's Llama 3.2 Vision for image understanding on Clore.ai
+- [LLaVA](https://docs.clore.ai/guides/vision-models/llava-vision-language.md): Chat with images using LLaVA vision-language model on Clore.ai
+- [Qwen2.5-VL Vision Language Model](https://docs.clore.ai/guides/vision-models/qwen-vl.md): Run Qwen2.5-VL, the leading open vision-language model, for image/video/document understanding on Clore.ai GPUs.
+- [Florence-2](https://docs.clore.ai/guides/vision-models/florence2.md): Microsoft Florence-2 for captioning, detection, and segmentation
+- [SAM2 Video](https://docs.clore.ai/guides/vision-models/sam2-video.md): Track and segment objects in video with Meta's SAM2 on Clore.ai
+- [GroundingDINO](https://docs.clore.ai/guides/vision-models/groundingdino.md): Detect any object using text descriptions with GroundingDINO
+- [Overview](https://docs.clore.ai/guides/face-and-identity/face-identity.md)
+- [FaceFusion](https://docs.clore.ai/guides/face-and-identity/facefusion.md): Professional face swapping and enhancement on Clore.ai GPUs
+- [InstantID](https://docs.clore.ai/guides/face-and-identity/instantid.md): Generate images with any face identity from one reference photo
+- [IP-Adapter](https://docs.clore.ai/guides/face-and-identity/ip-adapter.md): Use images as prompts for Stable Diffusion with IP-Adapter
+- [Overview](https://docs.clore.ai/guides/talking-heads/talking-heads.md)
+- [LivePortrait](https://docs.clore.ai/guides/talking-heads/liveportrait.md): Create realistic animated portraits from single images on Clore.ai
+- [SadTalker](https://docs.clore.ai/guides/talking-heads/sadtalker.md): Create talking head videos from audio and images on Clore.ai
+- [Wav2Lip](https://docs.clore.ai/guides/talking-heads/wav2lip.md): Accurate lip sync to any audio with Wav2Lip on Clore.ai GPUs
+- [Overview](https://docs.clore.ai/guides/training/training.md)
+- [Jupyter ML Training](https://docs.clore.ai/guides/training/jupyter-ml-training.md): Set up JupyterLab with GPU support for ML training on Clore.ai
+- [DreamBooth](https://docs.clore.ai/guides/training/dreambooth.md): Train custom image models with DreamBooth on Clore.ai GPUs
+- [Kohya Training](https://docs.clore.ai/guides/training/kohya-training.md): Train LoRA and DreamBooth for Stable Diffusion with Kohya on Clore.ai
+- [Fine-tune LLM](https://docs.clore.ai/guides/training/finetune-llm.md): Fine-tune custom LLMs with efficient techniques on Clore.ai GPUs
+- [Unsloth 2x Faster Fine-tuning](https://docs.clore.ai/guides/training/unsloth-finetune.md): Fine-tune LLMs 2x faster with 70% less VRAM using Unsloth on Clore.ai
+- [Axolotl Universal Fine-tuning](https://docs.clore.ai/guides/training/axolotl-training.md): YAML-driven LLM fine-tuning with Axolotl on Clore.ai — LoRA, QLoRA, DPO, multi-GPU
+- [DeepSpeed Training](https://docs.clore.ai/guides/training/deepspeed-training.md): Train large models efficiently with DeepSpeed on Clore.ai GPUs
+- [HuggingFace Transformers](https://docs.clore.ai/guides/training/huggingface-transformers.md): Use HuggingFace Transformers for NLP, vision, and audio on Clore.ai
+- [LLaMA-Factory](https://docs.clore.ai/guides/training/llama-factory.md): Fine-tune 100+ LLMs with LoRA/QLoRA and a web UI on Clore.ai GPUs using LLaMA-Factory
+- [LitGPT](https://docs.clore.ai/guides/training/litgpt.md)
+- [Mergekit Model Merging](https://docs.clore.ai/guides/training/mergekit.md)
+- [TRL (RLHF/DPO Training)](https://docs.clore.ai/guides/training/trl.md)
+- [Overview](https://docs.clore.ai/guides/computer-vision/computer-vision.md)
+- [YOLOv8 Detection](https://docs.clore.ai/guides/computer-vision/yolov8-detection.md): Real-time object detection with YOLOv8 and YOLOv11 on Clore.ai
+- [YOLOv9/v10 Detection](https://docs.clore.ai/guides/computer-vision/yolov9-v10.md)
+- [Overview](https://docs.clore.ai/guides/3d-generation/3d-generation.md)
+- [TripoSR](https://docs.clore.ai/guides/3d-generation/triposr.md): Generate 3D models from single images with TripoSR on Clore.ai
+- [TRELLIS 3D Generation](https://docs.clore.ai/guides/3d-generation/trellis-3d.md): Convert images to 3D meshes and Gaussian splats with Microsoft TRELLIS on Clore.ai
+- [Hunyuan3D 2.1](https://docs.clore.ai/guides/3d-generation/hunyuan3d.md): Generate 3D meshes from text or images with Tencent Hunyuan3D 2.1 on Clore.ai
+- [Hunyuan World 2.0 (3D World Model)](https://docs.clore.ai/guides/3d-generation/hunyuan-world-2.md): Deploy Tencent HY-World 2.0 — the first open-source SOTA 3D world model — on Clore.ai GPUs for text/image/video-to-3D scene generation
+- [Nerfstudio](https://docs.clore.ai/guides/3d-generation/nerfstudio.md)
+- [3D Gaussian Splatting](https://docs.clore.ai/guides/3d-generation/gaussian-splatting.md)
+- [Overview](https://docs.clore.ai/guides/comparisons/comparisons.md)
+- [LLM Serving: Ollama vs vLLM vs TGI](https://docs.clore.ai/guides/comparisons/llm-serving-comparison.md): Compare vLLM vs SGLang vs Ollama vs TGI vs LocalAI for LLM serving
+- [Image Gen: ComfyUI vs SD WebUI vs Fooocus](https://docs.clore.ai/guides/comparisons/image-gen-ui-comparison.md): Compare ComfyUI vs SD WebUI vs Fooocus for image generation
+- [RAG Frameworks Comparison](https://docs.clore.ai/guides/comparisons/rag-frameworks-comparison.md)
+- [Vector Database Comparison](https://docs.clore.ai/guides/comparisons/vector-db-comparison.md)
+- [Fine-tuning Tools Comparison](https://docs.clore.ai/guides/comparisons/finetuning-comparison.md)
+- [Video Generation Comparison](https://docs.clore.ai/guides/comparisons/video-gen-comparison.md)
+- [TTS Engine Comparison](https://docs.clore.ai/guides/comparisons/tts-comparison.md)
+- [Overview](https://docs.clore.ai/guides/music-generation/music-generation.md): AI music generation on Clore.ai GPU marketplace
+- [ACE-Step Music Generation](https://docs.clore.ai/guides/music-generation/ace-step.md): Generate full songs with vocals using ACE-Step — open-source Suno alternative on <4GB VRAM
+- [Overview](https://docs.clore.ai/guides/ai-platforms-and-agents/ai-platforms.md): Deploy AI agent platforms, assistants, and workflow builders on Clore.ai GPU servers — from autonomous coding agents to visual AI workflow builders.
+- [Dify.ai Workflow Platform](https://docs.clore.ai/guides/ai-platforms-and-agents/dify.md): Deploy Dify.ai on Clore.ai — build production-ready AI workflows, RAG pipelines, and agent applications with a visual interface at GPU cloud prices.
+- [n8n AI Workflows](https://docs.clore.ai/guides/ai-platforms-and-agents/n8n.md): Deploy n8n on Clore.ai — self-host a powerful AI workflow automation platform with 400+ integrations and native LLM agent support for pennies per hour.
+- [AutoGPT Autonomous Agent](https://docs.clore.ai/guides/ai-platforms-and-agents/autogpt.md): Deploy AutoGPT on Clore.ai — run the original autonomous AI agent platform with web browsing, code execution, and long-horizon task automation.
+- [CrewAI Multi-Agent Framework](https://docs.clore.ai/guides/ai-platforms-and-agents/crewai.md): Deploy CrewAI on Clore.ai — orchestrate teams of role-playing autonomous AI agents for complex multi-step tasks using any LLM provider.
+- [OpenHands AI Developer](https://docs.clore.ai/guides/ai-platforms-and-agents/openhands.md): Deploy OpenHands (formerly OpenDevin) on Clore.ai — run a fully autonomous AI software engineer on affordable GPU cloud servers for coding, debugging, and GitHub issue resolution.
+- [Langflow Visual AI Builder](https://docs.clore.ai/guides/ai-platforms-and-agents/langflow.md): Deploy Langflow on Clore.ai — build and run visual AI pipelines, RAG systems, and multi-agent workflows on affordable GPU cloud infrastructure with a drag-and-drop no-code interface.
+- [Flowise AI Agent Builder](https://docs.clore.ai/guides/ai-platforms-and-agents/flowise.md): Deploy Flowise on Clore.ai — build and host visual LLM chatbots, AI agents, and RAG pipelines on affordable GPU cloud servers with a drag-and-drop no-code interface and instant API endpoints.
+- [MetaGPT Software Company](https://docs.clore.ai/guides/ai-platforms-and-agents/metagpt.md): Deploy MetaGPT on Clore.ai — run a fully autonomous multi-agent AI software company on affordable GPU cloud servers to generate complete codebases, PRDs, architecture designs, and QA tests from a sing
+- [SuperAGI Agent Framework](https://docs.clore.ai/guides/ai-platforms-and-agents/superagi.md): Deploy SuperAGI on Clore.ai — a developer-first autonomous AI agent framework with GUI dashboard, tool marketplace, concurrent agents, and optional local LLM support on powerful GPU cloud servers.
+- [LobeChat AI Assistant](https://docs.clore.ai/guides/ai-platforms-and-agents/lobechat.md): Deploy LobeChat on Clore.ai — a stunning, feature-rich AI chat interface with multi-provider support, knowledge base, and plugins running on affordable GPU-backed cloud servers.
+- [LibreChat Multi-Provider](https://docs.clore.ai/guides/ai-platforms-and-agents/librechat.md): Deploy LibreChat on Clore.ai — a powerful, self-hosted ChatGPT alternative with multi-provider AI support, conversation branching, and plugin ecosystem on affordable GPU cloud infrastructure.
+- [AnythingLLM RAG Platform](https://docs.clore.ai/guides/ai-platforms-and-agents/anythingllm.md): Deploy AnythingLLM on Clore.ai — an all-in-one RAG application and AI agent platform with built-in document chat, no-code agent builder, and MCP support running on cost-effective GPU cloud servers.
+- [Jan.ai Offline Assistant](https://docs.clore.ai/guides/ai-platforms-and-agents/jan.md): Deploy Jan.ai Server on Clore.ai — a fully offline, OpenAI-compatible LLM server with model hub, conversation management, and GPU-accelerated inference powered by the Cortex engine.
+- [GPT4All Local LLM](https://docs.clore.ai/guides/ai-platforms-and-agents/gpt4all.md): Deploy GPT4All on Clore.ai — run privacy-first local LLMs with an OpenAI-compatible API server using Docker, supporting GGUF models with optional CUDA acceleration for maximum performance.
+- [SWE-agent Code Fixer](https://docs.clore.ai/guides/ai-platforms-and-agents/swe-agent.md): Deploy SWE-agent on Clore.ai — automate GitHub issue resolution and software engineering tasks using AI agents with Docker sandboxing, supporting Claude, GPT-4, and open-source LLMs.
+- [Haystack AI Framework](https://docs.clore.ai/guides/ai-platforms-and-agents/haystack.md): Deploy Haystack by deepset on Clore.ai — build production RAG pipelines, semantic search, and LLM agent workflows on affordable GPU infrastructure.
+- [Continue.dev AI Coding](https://docs.clore.ai/guides/ai-platforms-and-agents/continue-dev.md): Power Continue.dev with Clore.ai GPUs — run CodeLlama 34B, DeepSeek Coder, and Qwen2.5-Coder locally on cheap GPU rentals for private AI coding assistance.
+- [Open Interpreter](https://docs.clore.ai/guides/ai-platforms-and-agents/open-interpreter.md)
+- [Overview](https://docs.clore.ai/guides/ai-coding-tools/ai-coding.md): Self-hosted AI coding tools on Clore.ai GPUs
+- [Aider AI Coding](https://docs.clore.ai/guides/ai-coding-tools/aider.md): Terminal-based AI coding with Aider on Clore.ai — Git-aware, multi-file, local models via Ollama
+- [TabbyML Code Completion](https://docs.clore.ai/guides/ai-coding-tools/tabby.md): Self-host TabbyML as a private GitHub Copilot alternative on Clore.ai
+- [Overview](https://docs.clore.ai/guides/advanced/advanced.md)
+- [Python SDK Guide](https://docs.clore.ai/guides/advanced/python-sdk.md): Complete Python SDK guide — sync/async clients, marketplace filtering, order lifecycle, spot market, wallet ops, and error handling
+- [CLI Automation](https://docs.clore.ai/guides/advanced/cli-automation.md): Automate GPU rentals with the clore CLI — bash scripts, CI/CD pipelines, monitoring, and batch operations
+- [Multi-GPU Setup](https://docs.clore.ai/guides/advanced/multi-gpu-setup.md): Run large AI models across multiple GPUs on Clore.ai
+- [API Integration](https://docs.clore.ai/guides/advanced/api-integration.md): Integrate AI models running on Clore.ai into your applications
+- [Batch Processing](https://docs.clore.ai/guides/advanced/batch-processing.md): Process large AI workloads efficiently on Clore.ai GPUs
+- [Overview](https://docs.clore.ai/guides/other-workloads/other-workloads.md)
+- [Blender Rendering](https://docs.clore.ai/guides/other-workloads/blender-rendering.md): GPU-accelerated Blender 3D rendering on Clore.ai
+- [Kandinsky](https://docs.clore.ai/guides/other-workloads/kandinsky.md): Generate images with Kandinsky's multilingual model on Clore.ai
+- [OpenClaw on Clore](https://docs.clore.ai/guides/other-workloads/openclaw-on-clore.md): Deploy OpenClaw AI assistant on a Clore.ai GPU server — always-on, GPU-accelerated, with Telegram/Discord integration, local LLM inference, and voice capabilities.
+- [Overview](https://docs.clore.ai/guides/rag-and-vector-databases/rag-vectordb.md): RAG & Vector Database guides for Clore.ai GPU cloud
+- [RAGFlow](https://docs.clore.ai/guides/rag-and-vector-databases/ragflow.md): Deploy RAGFlow deep document understanding RAG engine on Clore.ai GPUs
+- [LlamaIndex](https://docs.clore.ai/guides/rag-and-vector-databases/llamaindex.md): Build LlamaIndex data-to-LLM pipelines and RAG applications on Clore.ai GPUs
+- [ChromaDB](https://docs.clore.ai/guides/rag-and-vector-databases/chromadb.md): Deploy ChromaDB open-source vector database for AI applications on Clore.ai GPUs
+- [Qdrant](https://docs.clore.ai/guides/rag-and-vector-databases/qdrant.md)
+- [Milvus](https://docs.clore.ai/guides/rag-and-vector-databases/milvus.md)
+- [Weaviate](https://docs.clore.ai/guides/rag-and-vector-databases/weaviate.md)
+- [Overview](https://docs.clore.ai/guides/mlops-and-deployment/mlops.md): MLOps guides for Clore.ai GPU cloud
+- [MLflow](https://docs.clore.ai/guides/mlops-and-deployment/mlflow.md)
+- [Triton Inference Server](https://docs.clore.ai/guides/mlops-and-deployment/triton-inference-server.md)
+- [BentoML](https://docs.clore.ai/guides/mlops-and-deployment/bentoml.md)
+- [ClearML](https://docs.clore.ai/guides/mlops-and-deployment/clearml.md)
+- [Overview](https://docs.clore.ai/guides/science-and-research/science.md): Scientific Computing guides for Clore.ai GPU cloud
+- [AlphaFold2 Protein Prediction](https://docs.clore.ai/guides/science-and-research/alphafold2.md)
+- [ESMFold Protein Structure](https://docs.clore.ai/guides/science-and-research/esmfold.md)
+- [GROMACS Molecular Dynamics](https://docs.clore.ai/guides/science-and-research/gromacs.md)
+- [Overview](https://docs.clore.ai/guides/gpu-devops/devops-gpu.md): Devops Gpu guides for Clore.ai GPU cloud
+- [TensorRT-LLM](https://docs.clore.ai/guides/gpu-devops/tensorrt-llm.md)
+- [ONNX Runtime GPU](https://docs.clore.ai/guides/gpu-devops/onnx-runtime.md)
+- [Overview](https://docs.clore.ai/guides/crypto-and-mining/crypto-mining.md): Crypto Mining guides for Clore.ai GPU cloud
+- [XMRig Mining](https://docs.clore.ai/guides/crypto-and-mining/xmrig.md)
+- [Overview](https://docs.clore.ai/guides/gaming-and-streaming/gaming-streaming.md): Gaming Streaming guides for Clore.ai GPU cloud
+- [Sunshine + Moonlight Remote Gaming](https://docs.clore.ai/guides/gaming-and-streaming/sunshine-moonlight.md)
+
+## Developers
+
+- [Introduction](https://docs.clore.ai/dev/readme.md)
+- [Quick Start: Rent Your First GPU](https://docs.clore.ai/dev/getting-started/quick-start.md)
+- [Setting Up Your Development Environment](https://docs.clore.ai/dev/getting-started/dev-environment.md)
+- [Automating GPU Rental with Python](https://docs.clore.ai/dev/getting-started/automation-basics.md)
+- [Python SDK Quick Start](https://docs.clore.ai/dev/getting-started/python-sdk-quickstart.md)
+- [Understanding Spot vs On-Demand](https://docs.clore.ai/dev/getting-started/spot-vs-ondemand.md)
+- [Training a PyTorch Model on Clore](https://docs.clore.ai/dev/machine-learning-and-training/pytorch-basics.md)
+- [Distributed Training Across Multiple Servers](https://docs.clore.ai/dev/machine-learning-and-training/distributed-training.md)
+- [Fine-Tuning Models with Hugging Face](https://docs.clore.ai/dev/machine-learning-and-training/huggingface-finetuning.md)
+- [Hyperparameter Sweeps with Optuna](https://docs.clore.ai/dev/machine-learning-and-training/hyperparameter-sweeps.md)
+- [Auto-Scaling ML Training Pipeline](https://docs.clore.ai/dev/machine-learning-and-training/auto-scaling-pipeline.md)
+- [Training YOLO Object Detection Models](https://docs.clore.ai/dev/machine-learning-and-training/yolo-training.md)
+- [Reinforcement Learning on Cloud GPUs](https://docs.clore.ai/dev/machine-learning-and-training/reinforcement-learning.md)
+- [Model Training Scheduler (Auto-Rent on Price Drop)](https://docs.clore.ai/dev/machine-learning-and-training/training-scheduler.md)
+- [Deploying a REST API for Model Inference](https://docs.clore.ai/dev/inference-and-deployment/rest-api-deployment.md)
+- [Building Inference-as-a-Service with FastAPI](https://docs.clore.ai/dev/inference-and-deployment/fastapi-inference.md)
+- [Batch Inference at Scale: Processing 1M Images](https://docs.clore.ai/dev/inference-and-deployment/batch-inference.md)
+- [Real-Time Video Processing Pipeline](https://docs.clore.ai/dev/inference-and-deployment/video-processing.md)
+- [Multi-Model Inference Router](https://docs.clore.ai/dev/inference-and-deployment/model-router.md)
+- [Auto-Scaling Inference Workers](https://docs.clore.ai/dev/inference-and-deployment/auto-scaling-workers.md)
+- [GPU-Accelerated Data Processing with RAPIDS](https://docs.clore.ai/dev/data-processing-and-pipelines/rapids-processing.md)
+- [Video Transcoding Pipeline](https://docs.clore.ai/dev/data-processing-and-pipelines/video-transcoding.md)
+- [Building a Distributed Rendering Farm](https://docs.clore.ai/dev/data-processing-and-pipelines/rendering-farm.md)
+- [Large-Scale Image Processing](https://docs.clore.ai/dev/data-processing-and-pipelines/image-processing.md)
+- [ETL Pipeline with GPU Acceleration](https://docs.clore.ai/dev/data-processing-and-pipelines/gpu-etl.md)
+- [CI/CD Pipeline with GPU Testing](https://docs.clore.ai/dev/devops-and-automation/cicd-gpu-testing.md)
+- [Building a GPU Job Scheduler](https://docs.clore.ai/dev/devops-and-automation/job-scheduler.md)
+- [Monitoring with Prometheus + Grafana](https://docs.clore.ai/dev/devops-and-automation/prometheus-monitoring.md)
+- [Auto-Provisioning from GitHub Actions](https://docs.clore.ai/dev/devops-and-automation/github-actions.md)
+- [Spot Instance Manager (Auto-Rebid)](https://docs.clore.ai/dev/devops-and-automation/spot-manager.md)
+- [Cost Optimization: Smart Bidding Strategies](https://docs.clore.ai/dev/devops-and-automation/cost-optimization.md)
+- [CI/CD with clore-ai SDK](https://docs.clore.ai/dev/devops-and-automation/cicd-clore-sdk.md)
+- [Crypto Mining Profit Calculator](https://docs.clore.ai/dev/advanced-use-cases/mining-calculator.md)
+- [Telegram Bot for GPU Management](https://docs.clore.ai/dev/advanced-use-cases/telegram-bot.md)
+- [Price Tracking Dashboard (React)](https://docs.clore.ai/dev/advanced-use-cases/price-dashboard.md)
+- [Multi-Cloud GPU Orchestrator](https://docs.clore.ai/dev/advanced-use-cases/multi-cloud.md)
+- [Webhook-Based Order Management](https://docs.clore.ai/dev/advanced-use-cases/webhook-orders.md)
+- [Using the Official clore-ai SDK](https://docs.clore.ai/dev/advanced-use-cases/python-sdk.md)
+- [SDK Automation Recipes](https://docs.clore.ai/dev/advanced-use-cases/sdk-automation-recipes.md)
+- [Python SDK (clore-ai)](https://docs.clore.ai/dev/reference/python-sdk.md)
+- [Clore API Client Reference](https://docs.clore.ai/dev/reference/clore-client.md)
+- [API Quick Reference](https://docs.clore.ai/dev/reference/api-reference.md)
+- [Common Error Codes](https://docs.clore.ai/dev/reference/error-codes.md)
+- [Docker Images Reference](https://docs.clore.ai/dev/reference/docker-images.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.clore.ai/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

@@ -1,0 +1,50 @@
+# Documentation
+
+## v2
+
+- [Introduction](https://docs.autentique.com.br/api/master.md): Integration guide with autentique.com.br API using GraphQL. It is not available in REST, if it ever exists we will remove this sentence.
+- [About GraphQL](https://docs.autentique.com.br/api/sobre-o-graphql.md): GraphQL is a query language for APIs and a runtime for executing those queries with existing data. Unlike REST, it lets you structure your request however you prefer.
+- [API pricing](https://docs.autentique.com.br/api/api-pricing.md): This page provides detailed information about Autentique’s API pricing structure. It includes tables with the costs for different actions, along with usage and billing examples.
+- [Using Altair](https://docs.autentique.com.br/api/integration-basics/altair.md): Altair is an application for running GraphQL queries/mutations. With it, you can build and check the results of requests on the web before integrating them into your code.
+- [Sandbox/tests](https://docs.autentique.com.br/api/integration-basics/sandbox-testes.md): A great way to run tests on the platform without extra costs or using up your free documents.
+- [Webhooks](https://docs.autentique.com.br/api/integration-basics/webhooks.md): Receive events from your organization on Autentique through your webhook endpoints.
+- [Webhooks (deprecated)](https://docs.autentique.com.br/api/integration-basics/webhooks-1.md): How to set up Webhooks and receive document status notifications
+- [Error messages](https://docs.autentique.com.br/api/integration-basics/mensagens-de-erro.md): Examples of error messages or validations returned by the API and what they are
+- [Fetch current user](https://docs.autentique.com.br/api/queries/fetch-current-user.md): How to retrieve data of the user making API Calls
+- [Retrieving documents](https://docs.autentique.com.br/api/queries/resgatando-documentos.md): Almost everything you need to know to list or search for specific documents of a user.
+- [Listing organizations](https://docs.autentique.com.br/api/queries/listing-organizations.md): How to list the organizations in your account
+- [Listing Folders](https://docs.autentique.com.br/api/queries/listing-folders.md): How to list folders in your account
+- [Listing email templates](https://docs.autentique.com.br/api/queries/listing-email-templates.md): How to list the email templates in your account
+- [Creating a document](https://docs.autentique.com.br/api/mutations/criando-um-documento.md): To create a document/send a document for signature
+- [Sending Documents via WhatsApp Flow](https://docs.autentique.com.br/api/mutations/criando-um-documento/sending-documents-via-whatsapp-flow.md): How to configure documents for signature using WhatsApp Flow
+- [Signing a document](https://docs.autentique.com.br/api/mutations/assinando-um-documento.md): How to sign a document
+- [Editing a document](https://docs.autentique.com.br/api/mutations/editing-a-document.md): How to edit an already created document
+- [Removing a document](https://docs.autentique.com.br/api/mutations/removing-a-document.md): How to delete a created document.
+- [Transfering a document](https://docs.autentique.com.br/api/mutations/transfering-a-document.md): How to transfer a documento to an organization
+- [Adding a signer](https://docs.autentique.com.br/api/mutations/adding-a-signer.md): How to add a signer to an already created document
+- [Removing a signer](https://docs.autentique.com.br/api/mutations/removing-a-signer.md): How to remove a signer from an existing document .
+- [Creating folders](https://docs.autentique.com.br/api/mutations/criando-pastas.md): How to create a regular or shared folder with the organization
+- [Removing folders](https://docs.autentique.com.br/api/mutations/removing-folders.md): How to delete a folder
+- [Moving document to a folder](https://docs.autentique.com.br/api/mutations/movendo-documento-para-pasta.md): How to move a document to a folder
+- [Resend signatures](https://docs.autentique.com.br/api/mutations/resend-signatures.md): How to resend signatures via API
+- [Create signature link](https://docs.autentique.com.br/api/mutations/create-signature-link.md): How to generate a signing link for a signer using a different sending method
+- [Approve Pending Biometric Verification](https://docs.autentique.com.br/api/mutations/approve-pending-biometric-verification.md): How to approve a pending biometric verification via API
+- [Reject Pending Biometric Verification](https://docs.autentique.com.br/api/mutations/reject-pending-biometric-verification.md): How to reject a pending biometric verification via API
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.autentique.com.br/api/master.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

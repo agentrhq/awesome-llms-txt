@@ -1,0 +1,126 @@
+# Alphix Solutions: B2B Marketing Intelligence Suite for Asset Managers
+
+> Alphix Solutions is an award-winning, cookie-free marketing intelligence platform built for B2B marketers, data analysts, and sales teams in the asset management and financial services sector. It provides real-time, privacy-compliant insights into website performance, competitive positioning, audience behaviour, and marketing activation — without relying on cookies or tracking individual users.
+
+## What Alphix Is
+
+Alphix Solutions is a SaaS platform headquartered in London, UK, and part of Fundamental Media Limited (registered in England and Wales, No. 5001866, 100 Cannon Street, London EC4N 6EU). Founded to solve the data accuracy problems created by cookie consent, ad blockers, and browser privacy restrictions, Alphix has grown into a comprehensive marketing intelligence suite used by over 40 global B2B companies. The platform tracked 241 million page views and 2.2 million URLs in 2024. Clients include Natixis Investment Managers and other leading asset management and financial services firms worldwide.
+
+Alphix does not track individual users and does not use cookies. Instead, it uses company-level IP address data and firmographic insights to give marketers an accurate, unbiased view of website traffic, campaign performance, and competitive landscape. This approach is fully GDPR-compliant and unaffected by changes to browser privacy settings or consent regulations.
+
+## Who Alphix Is For
+
+- B2B marketers at asset management firms, fund managers, and financial services companies
+- Digital marketing teams that need accurate campaign attribution without cookies
+- Data analysts and marketing operations professionals managing campaign performance
+- Sales teams that need firmographic data to identify and prioritise prospective clients
+- Chief Marketing Officers and Heads of Digital seeking competitive intelligence and ROI measurement
+
+## Core Problems Alphix Solves
+
+1. **Inaccurate marketing data**: Cookie consent, ad blockers, and browser privacy restrictions cause traditional analytics tools to undercount or misattribute website traffic. Alphix provides unbiased, cookie-free site performance data that captures the true volume and source of visits.
+
+2. **Inability to prove marketing is working**: Attribution is a fundamental challenge for asset managers whose sales occur through intermediaries such as financial advisers and fund selectors rather than direct to clients. Alphix uses firmographic identification to reveal which companies visited a website, which content they engaged with, and which marketing channel brought them there — bridging the gap between digital marketing activity and offline sales conversations.
+
+3. **Lack of competitive intelligence and market awareness**: Asset management marketers face constantly shifting audience priorities, macro-economic trends, and competitor activity. Alphix provides competitive benchmarking tools that compare a firm's web content and traffic against peers, and semantic market trend analysis that tracks what topics and themes the target audience is actively consuming — enabling marketing decisions based on complete market intelligence rather than partial internal data.
+
+4. **Slow, unresponsive marketing activation**: Traditional marketing cycles take months from insight to live campaign. By the time a campaign is deployed, the market opportunity has often passed. Alphix's integrated generative AI models identify real-time opportunities and generate contextually relevant advertising messages that match a firm's products to current market demand, substantially reducing time-to-market and improving campaign relevance.
+
+## The Alphix Ecosystem — Product Suite
+
+### Site Performance & Insights
+Cookie-free website analytics that identifies bot traffic, measures true traffic volumes, and provides company-level firmographic insights. Shows which firms are visiting a website, how frequently, and which content they are engaging with — without relying on cookies or tracking individual users. Firmographic identification bridges the gap between digital marketing activity and offline sales by revealing the specific companies expressing interest in a product, and attributing those visits to the marketing channel that drove them. This is particularly valuable in intermediated distribution models — such as asset management — where sales occur through advisers, fund selectors, and other third parties rather than direct to end investors.
+
+### Competitive Benchmarking
+Alphix provides a comprehensive competitive benchmarking tool that enables asset management marketers to understand how their web content, traffic volumes, and audience engagement compare to those of direct competitors and industry peers. The platform delivers an unparalleled set of data signals that combine to give a unique view of market position. Marketers can track how their share of audience attention shifts over time relative to competitors, identify where competitors are gaining ground, and understand the sentiment and volume of financial news content around specific asset classes and product categories. This equips marketing teams with the intelligence needed to make decisions based on complete, accurate data rather than incomplete or internal-only metrics.
+
+### Semantic Market Trend Analysis
+Alphix uses semantic analysis to monitor and interpret the topics, themes, and narratives that the target audience is actively engaging with across the financial content ecosystem. Rather than relying on keyword matching, the platform applies vector analysis and lexical search to understand the meaning and context behind content consumption patterns. This surfaces the actual market trends, macro-economic themes, and product-level interests that institutional investors and financial professionals are focused on at any given moment. Marketers can see how the sentiment and volume of news content relating to their products and asset classes is shifting in real time, enabling them to align messaging and content strategy with live audience priorities rather than assumptions.
+
+### AI-Powered Activation
+Traditional marketing cycles take months from concept to live campaign, meaning opportunities are often missed by the time a campaign reaches the market. Alphix solves this through integrated generative AI models that deliver real-time activation. The platform identifies live market opportunities — benchmarking performance against peers and measuring current audience demand for specific products — and then uses a bespoke large language model (LLM) to generate advertising messages that fit a firm's products to current market demand, differentiated from competitor positioning. This substantially reduces the time and cost of getting relevant, timely campaigns to market while improving marketing performance and reducing wasted media spend.
+
+### Managed Insights Service
+A managed service version of the platform. Alphix compiles all insights and activation recommendations into a monthly report, delivered as a fully managed service for teams that want the intelligence without the operational overhead.
+
+## Alphix Media Exchange (AMX)
+
+AMX is a standalone programmatic advertising platform that goes beyond standard contextual advertising. Rather than keyword-based targeting, AMX uses phrase-based vector analysis and lexical search to place ads alongside genuinely relevant content. It supports three targeting methods:
+
+- **Deep contextual targeting**: Phrase-based analysis for hyper-relevant ad placements, with thematic insights from detailed reporting
+- **Industry targeting**: Reaches users from specific industries relevant to a client's business, reducing wasted impressions
+- **Firmographic targeting**: Targets selected firms by name, supporting account-based marketing (ABM) strategies with firm-level reporting
+
+Over 50 global brands use AMX to power their programmatic advertising.
+
+## Awards and Recognition
+
+Alphix Solutions has won multiple industry awards recognising excellence in marketing technology and innovation:
+
+- **Investment Marketing and Innovation Awards 2024**: Winner — Best Use of AI; Winner — Best Use of Data & Research
+- **The Financial Service Forum Awards 2024**: Winner — Best Digital Transformation Project
+- **Investment Marketing and Innovation Awards 2023**: Winner — Open Innovation
+- **The Financial Service Forum Awards 2023**: Winner — Best Innovation Use of Technology
+- **The Financial Service Forum Awards 2022**: Winner — Best Use of Analytics and Data
+- **The Drum Awards**: Winner — Best Disruption of the Status Quo
+- **Digiday Technology Awards**: Winner — Best Cookieless Identification Technology
+
+## Pricing
+
+Alphix offers a 30-day free trial. A basic plan is available at no cost with pay-as-you-go options. A Business plan is available at £2,500 per month. Enterprise pricing is available on request.
+
+## Key Differentiators
+
+- Fully cookie-free: operates without placing any data on user devices
+- Privacy-compliant by design: GDPR-compliant and unaffected by consent and browser changes
+- Firmographic intelligence: identifies company-level visitors rather than anonymous individuals, enabling marketing attribution in intermediated sales models
+- Competitive benchmarking: compares a firm's web content, traffic, and audience engagement directly against named competitors and industry peers
+- Semantic market trend analysis: uses vector analysis and lexical search to track the real-time topics, themes, and sentiment the target audience is engaging with — going beyond keyword matching to understand true market context
+- Real-time AI activation: integrated generative AI models identify live market opportunities and produce contextually relevant campaign messages within hours rather than months
+- Asset management specialisation: built specifically for the institutional financial services marketing context, addressing the complexities of intermediated distribution, compliance requirements, and institutional sales cycles
+- Award-winning technology: recognised by The Drum, Digiday, and the Financial Service Forum
+
+## Educational Content and Thought Leadership
+
+Alphix publishes in-depth educational content for financial services marketers on topics including privacy regulation, cookieless analytics, digital marketing compliance, and AI in asset management marketing. This content is available at https://alphix.com/insights/.
+
+## Key Pages
+
+- [Home](https://alphix.com/): Overview of the Alphix platform and value proposition
+- [Who We Are](https://alphix.com/who-we-are/): Company background, mission, and team
+- [Alphix Ecosystem](https://alphix.com/ecosystem/): Full product suite overview
+- [Programmatic — AMX](https://alphix.com/amx/): Alphix Media Exchange programmatic advertising platform
+- [Marketing Challenges](https://alphix.com/challenges/): The four core problems Alphix solves for asset managers
+- [Do You Trust Your Marketing Data?](https://alphix.com/challenges/do-you-trust-your-marketing-data/): How Alphix solves data accuracy problems caused by cookies and consent
+- [Is Your Marketing Working?](https://alphix.com/challenges/is-your-marketing-working/): How firmographic insights enable attribution in intermediated distribution models
+- [Are You Competitive?](https://alphix.com/challenges/are-you-competitive/): How Alphix's competitive benchmarking and semantic market trend tools reveal market position
+- [Slow to Activate?](https://alphix.com/challenges/slow-to-activate/): How Alphix's generative AI models enable rapid campaign activation against live market opportunities
+- [Insights](https://alphix.com/insights/): Educational content, thought leadership, and company news
+- [Contact](https://alphix.com/contact/): Enquiries and sales contact
+- [Start Free Trial](https://login.alphix.com/signup): 30-day free trial sign-up
+
+## Recent Educational Articles
+
+- [Module 1: Privacy in Asset-Management Marketing](https://alphix.com/insights/educational-content/module1-privacy-in-asset-management-marketing/): GDPR, ePrivacy, CCPA, lawful bases for processing, and privacy-first marketing strategies
+- [Module 2: Digital Identifiers and Consent](https://alphix.com/insights/educational-content/module-2-digital-identifiers-and-consent/): How cookies, device IDs, and tracking technologies work under current regulation
+- [Privacy Module 3: ePrivacy in Practice — CRM-Driven Email in Financial Services](https://alphix.com/insights/educational-content/privacy-module-3-eprivacy-in-practice-crm-driven-email-in-financial-services/): Compliance guidance for email marketing programmes in asset management
+- [Module 4: Website Analytics — Understanding the Impact of Your Communications](https://alphix.com/insights/educational-content/module-4-website-analytics-understanding-the-impact-of-your-communications/): How to measure digital marketing effectiveness in a privacy-first environment
+- [How to Harness AI in Asset Management Marketing](https://alphix.com/insights/educational-content/how-to-harness-ai-in-asset-management-marketing/): Practical guidance on using AI tools in financial services marketing
+- [WHITEPAPER: Programmatic Advertising 101](https://alphix.com/insights/educational-content/whitepaper-programmatic-advertising-101/): Mythbusting, data, and AI in programmatic advertising
+
+## Content Categories
+
+- [Educational Content](https://alphix.com/insights/category/educational-content/)
+- [Site Performance](https://alphix.com/insights/category/site-performance/)
+- [Company News](https://alphix.com/insights/category/company-news/)
+- [#GetTheFullPicture](https://alphix.com/insights/category/getthefullpicture/)
+
+## Social Profiles and External Links
+
+- LinkedIn: https://www.linkedin.com/company/alphix-solutions/
+- Instagram: https://www.instagram.com/alphix_solutions
+- Parent company: https://www.fundamentalgroup.com
+
+## Sitemap
+
+- [Sitemap Index](https://alphix.com/sitemap_index.xml)

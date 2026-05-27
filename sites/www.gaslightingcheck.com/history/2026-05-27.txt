@@ -1,0 +1,27 @@
+# Gaslighting Check
+
+> Gaslighting Check is an AI-powered tool that analyzes text, audio, and conversations to detect manipulation tactics like gaslighting, blame shifting, and emotional abuse. Features AI coach for personalized guidance and building a supportive community for abuse survivors.
+
+## Features
+
+- [Gaslighting Check](https://www.gaslightingcheck.com/dashboard/check): Analyze text, audio, and files for gaslighting patterns
+- [AI Coach](https://www.gaslightingcheck.com/dashboard/ai-coach): Interactive assistant for processing abuse experiences and discussing analysis results
+- [Blog](https://www.gaslightingcheck.com/blog): Educational content about gaslighting and recovery
+
+## Get Started
+
+- [Sign Up](https://www.gaslightingcheck.com/auth/signup): Create free account with 50 monthly analyses
+- [Pricing](https://www.gaslightingcheck.com/pricing): Free (50 tokens), Plus ($9.99/month, 1000 tokens), Pro ($19.99/month, 3000 tokens)
+
+## Community
+
+- [Discord Community](https://discord.gg/SgFWtJ5qEd): Support community for abuse survivors
+- [X/Twitter](https://x.com/GaslightingChk): Updates and educational content
+- [Reddit](https://www.reddit.com/r/gaslightingcheck): Community discussions and support
+
+## Optional
+
+- [API Documentation](https://www.gaslightingcheck.com/api): Developer integration endpoints
+- [Privacy Policy](https://www.gaslightingcheck.com/privacy): Data protection and user rights
+- [Terms of Service](https://www.gaslightingcheck.com/terms): Usage guidelines and agreements
+- [Support](mailto:support@gaslightingcheck.com): Technical assistance and help

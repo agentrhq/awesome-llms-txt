@@ -1,0 +1,90 @@
+# Title
+
+## Docs
+- Getting Started [Introduction to Sales Tax Calculation](https://docs.complyt.io/doc-557000.md): 
+- Getting Started [Step By Step - Creating your first transaction](https://docs.complyt.io/doc-558483.md): 
+- Getting Started [Step By Step - Creating VAT / Global Tax Transaction](https://docs.complyt.io/doc-559067.md): 
+- Endpoints > Authentication [Authentication - Getting Started](https://docs.complyt.io/doc-550428.md): 
+- Endpoints > Customers [Get to Know](https://docs.complyt.io/doc-556063.md): 
+- Endpoints > Exemptions [Get to Know](https://docs.complyt.io/doc-556085.md): 
+- Endpoints > Transactions [Get to Know](https://docs.complyt.io/doc-556104.md): 
+- Endpoints > Transactions [The Importance of Shipping Address](https://docs.complyt.io/doc-556105.md): 
+- Endpoints > Transactions [How to Use Credit Memos](https://docs.complyt.io/doc-844508.md): 
+- Endpoints > Address Validation [Address Validation Intro](https://docs.complyt.io/doc-824413.md): 
+- Special Features [Global Tax Rate](https://docs.complyt.io/doc-558391.md): 
+- Special Features [Partial Address](https://docs.complyt.io/doc-558390.md): 
+- Special Features [Discounts](https://docs.complyt.io/doc-558392.md): 
+- Special Features [Inclusive Tax](https://docs.complyt.io/doc-558450.md): 
+- Special Features [Vat Validation](https://docs.complyt.io/doc-839214.md): 
+- Applications [Xero - Integration & User Manual](https://docs.complyt.io/doc-1207051.md): 
+
+## API Docs
+- Endpoints > Authentication [Create JWT](https://docs.complyt.io/api-8041522.md): 
+- Endpoints > Customers [Get Customer](https://docs.complyt.io/api-7838830.md): Get Customer by External ID and Source
+- Endpoints > Customers [Get All Customers](https://docs.complyt.io/api-7838832.md): Get all Customers
+- Endpoints > Customers [Upsert Customer](https://docs.complyt.io/api-7838831.md): Update or Insert Customer by External ID and source
+- Endpoints > Customers [Update Customer](https://docs.complyt.io/api-7838835.md): Patch Customer by  Complyt Id
+- Endpoints > Exemptions [Get All Exemptions](https://docs.complyt.io/api-8021450.md): 
+- Endpoints > Exemptions [Post Exemption](https://docs.complyt.io/api-8021452.md): 
+- Endpoints > Exemptions [Update Exemption](https://docs.complyt.io/api-8021453.md): 
+- Endpoints > Exemptions [Patch Exemption](https://docs.complyt.io/api-8021454.md): 
+- Endpoints > Transactions [Get Transaction (thin)](https://docs.complyt.io/api-12694340.md): Get Transaction by External ID and Source.
+- Endpoints > Transactions [Get Transaction](https://docs.complyt.io/api-7838824.md): Get Transaction by External ID and Source.
+- Endpoints > Transactions [Upsert Transaction](https://docs.complyt.io/api-7838825.md): Update or Insert Transaction by External ID and source
+- Endpoints > Transactions [Delete Transaction](https://docs.complyt.io/api-7838826.md): 
+- Endpoints > Transactions [Get All Transactions (thin)](https://docs.complyt.io/api-12694354.md): Returns a list of transactions.
+- Endpoints > Transactions [Get All Transactions](https://docs.complyt.io/api-7838827.md): Returns a list of transactions.
+- Endpoints > Transactions [Upsert VAT / GT Transactio](https://docs.complyt.io/api-8103808.md): Update or Insert Transaction by External ID and source
+- Endpoints > Address Validation [Validate Address](https://docs.complyt.io/api-13481178.md): The Validate Address endpoint returns valid address suggestions based on the provided input address.
+- Endpoints > Sales Tax Rates [Get Sales Tax Rates](https://docs.complyt.io/api-13715757.md): The Sales Tax Rates endpoint returns a rate based on the provided input address. Currently, the endpoint supports addresses within the United States only.
+- Endpoints > Vat Validation [Validate Vat](https://docs.complyt.io/api-13850084.md): 
+- Special Features [Post exemptions from CSV](https://docs.complyt.io/api-13490438.md): This endpoint processes a CSV file for creating exemptions. The uploaded CSV file is validated for required columns, and exemptions are created for valid data. It provides a detailed response with success, errors, and skipped data.
+
+## Schemas
+- Schemas [Item Response](https://docs.complyt.io/schema-2583628.md): 
+- Schemas [Item Request](https://docs.complyt.io/schema-2589684.md): 
+- Schemas [ExchangeRateInfo](https://docs.complyt.io/schema-3407097.md): 
+- Schemas [shippingAddress Copy](https://docs.complyt.io/schema-3590380.md): 
+- Schemas [transaction Copy](https://docs.complyt.io/schema-3613912.md): 
+- Schemas [transaction (thin)](https://docs.complyt.io/schema-4598216.md): 
+- Schemas [Item (thin)](https://docs.complyt.io/schema-4598217.md): 
+- Schemas [SalesTaxRates (thin)](https://docs.complyt.io/schema-4598222.md): 
+- Schemas [GtRates (thin)](https://docs.complyt.io/schema-4598223.md): 
+- Schemas [ShippingFee (thin)](https://docs.complyt.io/schema-4598228.md): 
+- Schemas [Address Response](https://docs.complyt.io/schema-4973272.md): 
+- Schemas [SalesTaxRates Response](https://docs.complyt.io/schema-5095389.md): 
+- Schemas [Referral](https://docs.complyt.io/schema-5930398.md): 
+- Schemas [Partnership](https://docs.complyt.io/schema-5930427.md): 
+- Schemas [internalTimestamps](https://docs.complyt.io/schema-2332038.md): 
+- Schemas [externalTimestamps](https://docs.complyt.io/schema-2332039.md): 
+- Schemas [ShippingFee](https://docs.complyt.io/schema-2332066.md): 
+- Schemas [billingAddress](https://docs.complyt.io/schema-2332040.md): 
+- Schemas [addressOfCustomer](https://docs.complyt.io/schema-2332041.md): 
+- Schemas [timestamp](https://docs.complyt.io/schema-2332043.md): 
+- Schemas [Certificate](https://docs.complyt.io/schema-2332044.md): 
+- Schemas [Classification](https://docs.complyt.io/schema-2332045.md): 
+- Schemas [Exemption](https://docs.complyt.io/schema-2332046.md): 
+- Schemas [State](https://docs.complyt.io/schema-2332047.md): 
+- Schemas [Status](https://docs.complyt.io/schema-2332048.md): 
+- Schemas [TimestampsDto](https://docs.complyt.io/schema-2332049.md): 
+- Schemas [validationDates](https://docs.complyt.io/schema-2332050.md): 
+- Schemas [ClientTrackingDto](https://docs.complyt.io/schema-2332051.md): 
+- Schemas [EconomicNexusTracker](https://docs.complyt.io/schema-2332052.md): 
+- Schemas [NexusCalculationSummaryDto](https://docs.complyt.io/schema-2332053.md): 
+- Schemas [NexusDto](https://docs.complyt.io/schema-2332054.md): 
+- Schemas [NexusStateRuleDto](https://docs.complyt.io/schema-2332055.md): 
+- Schemas [NexusThresholdDto](https://docs.complyt.io/schema-2332056.md): 
+- Schemas [PhysicalNexusTracker](https://docs.complyt.io/schema-2332057.md): 
+- Schemas [SalesTaxTracking](https://docs.complyt.io/schema-2332058.md): 
+- Schemas [Customer](https://docs.complyt.io/schema-2332059.md): 
+- Schemas [GtRates](https://docs.complyt.io/schema-2332060.md): 
+- Schemas [Item](https://docs.complyt.io/schema-2332061.md): 
+- Schemas [JurisdictionalSalesTaxRules](https://docs.complyt.io/schema-2332062.md): 
+- Schemas [RatesMetaData](https://docs.complyt.io/schema-2332063.md): 
+- Schemas [SalesTax](https://docs.complyt.io/schema-2332064.md): 
+- Schemas [SalesTaxRates](https://docs.complyt.io/schema-2332065.md): 
+- Schemas [SubJurisdictionalTaxRules](https://docs.complyt.io/schema-2332067.md): 
+- Schemas [transaction Request](https://docs.complyt.io/schema-2589782.md): 
+- Schemas [transaction Response](https://docs.complyt.io/schema-2589781.md): 
+- Schemas [transaction](https://docs.complyt.io/schema-2332068.md): 
+- Schemas [shippingAddress](https://docs.complyt.io/schema-2332042.md): 

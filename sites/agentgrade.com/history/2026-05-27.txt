@@ -1,0 +1,139 @@
+# AgentGrade
+
+> Lighthouse for AI agents. Scan any URL for a 0–100 agent-readiness score covering payment protocols, discovery files, MCP endpoints, OpenAPI, identity, and infrastructure.
+
+## For AI agents
+
+If you are an agent helping a user improve their site's agent-readiness, follow these steps.
+
+1. Scan the site:
+
+```bash
+curl "https://agentgrade.com/api/scan?url=https://example.com"
+```
+
+   The response is JSON with the shape:
+
+```json
+{
+  "score": { "pct": 0..100, "grade": "A".."F", "groups": [ ... ] },
+  "summary": "one-paragraph natural-language summary",
+  "domain": "example.com",
+  "checks": [ ... ]
+}
+```
+
+2. Interpret the score:
+
+   - score.pct is the percentage of weighted checks passed.
+   - score.grade is the letter grade (A 90+, B 80+, C 70+, D 60+, F <60).
+   - score.groups[] groups checks by topic (Discovery, Payment, Identity, etc.).
+   - Each group has a kbSlug field pointing to the knowledge base article that explains it.
+
+3. File remediation. For each failing check (passed: false):
+
+   - Read the check.hint field — it contains the exact fix instructions.
+   - Fetch the linked KB article for protocol details:
+     curl "https://agentgrade.com/kb/<group.kbSlug>"
+   - Apply the smallest change that turns the check green, then rescan.
+
+4. Prefer the compact endpoint for batch work:
+
+```bash
+curl "https://agentgrade.com/api/v1/scan?url=https://example.com"
+```
+
+   Returns flat JSON with score, grade, and passed-check count only. Faster, cheaper to parse.
+
+5. For MCP-based tool use, call https://agentgrade.com/mcp with JSON-RPC 2.0. Available tools:
+
+   - scan_url — full scan (same shape as GET /api/scan)
+   - scan_compact — flat JSON, score-only
+   - get_history — past scans for a domain
+   - validate_x402_json — validate a /.well-known/x402.json document
+
+## What AgentGrade checks
+
+- x402, MPP, L402, SPT payment protocols (HTTP 402 headers, well-known endpoints, live probes)
+- Bazaar service catalogs (discoverable agentic endpoints)
+- MCP (Model Context Protocol) endpoints — Streamable HTTP and SSE
+- AI plugin / Claude manifests
+- OpenAPI specs, llms.txt, agents.txt, SKILL.md, A2A, WebMCP
+- Identity (WebFinger, DID, Nostr, AT Protocol)
+- Content negotiation, JS-rendering dependence, infrastructure hygiene
+
+## API reference
+
+```
+GET  /api/scan?url=...        — full scan; each failing check includes a "hint" field
+GET  /api/v1/scan?url=...     — compact M2M scan (flat JSON)
+GET  /api/badge?url=...       — SVG badge for embedding
+GET  /api/report?url=...      — full report with historical comparison and delta
+GET  /api/history?url=...     — past scan summaries (requires database)
+GET  /mcp                     — MCP tool manifest
+POST /mcp                     — JSON-RPC 2.0 tool calls
+GET  /openapi.json            — OpenAPI 3.0 spec
+GET  /llms-full.txt           — full text corpus for RAG ingestion (this file's companion)
+GET  /health                  — health check
+```
+
+## Badge
+
+Add an AgentGrade badge to your README or landing page:
+
+Badge image URL: https://agentgrade.com/api/badge?url=https://YOURDOMAIN.COM
+Report link URL: https://agentgrade.com/s/YOURDOMAIN.COM
+
+Markdown:
+
+```markdown
+[![AgentGrade](https://agentgrade.com/api/badge?url=https://YOURDOMAIN.COM)](https://agentgrade.com/s/YOURDOMAIN.COM)
+```
+
+HTML:
+
+```html
+<a href="https://agentgrade.com/s/YOURDOMAIN.COM"><img src="https://agentgrade.com/api/badge?url=https://YOURDOMAIN.COM" alt="AgentGrade badge"></a>
+```
+
+Replace YOURDOMAIN.COM with your actual domain. The report URL uses /s/ (not /report/).
+
+## Payment
+
+Payment gating for premium endpoints is planned but not currently active. All endpoints above are free.
+
+## Example
+
+```bash
+curl "https://agentgrade.com/api/scan?url=https://agent.news"
+```
+
+## Knowledge Base
+
+- [Getting Started — Make Your Site Agent-Ready](https://agentgrade.com/kb/getting-started): Quick checklist to make your site discoverable and usable by AI agents.
+- [Understanding Your Score](https://agentgrade.com/kb/understanding-your-score): How AgentGrade scores your site, what verified vs declared means, and how to improve.
+- [Cloudflare & Agent Access](https://agentgrade.com/kb/cloudflare-agent-access): Why Cloudflare blocks agent traffic and how to configure it for agent accessibility.
+- [Comparing Payment Protocols](https://agentgrade.com/kb/comparing-payment-protocols): x402 vs MPP vs L402 — when to use each machine payment protocol.
+- [About Scanning](https://agentgrade.com/kb/about-scanning): How AgentGrade scans sites, what data it collects, and how to opt out.
+- [x402 — HTTP Payment Protocol](https://agentgrade.com/kb/x402): The HTTP 402 payment protocol that lets agents pay per-request with USDC on Base. Specification, comparison with traditional API monetization, ecosystem, and how to implement.
+- [MPP — Machine Payment Protocol](https://agentgrade.com/kb/mpp): Micropayment protocol using pathUSD on the Tempo network for sub-second agent payments.
+- [SPT — Stripe Shared Payment Tokens](https://agentgrade.com/kb/spt): Stripe card payments for AI agents via Shared Payment Tokens and the MPP 402 flow.
+- [How AI Agents Actually Browse the Web](https://agentgrade.com/kb/how-ai-agents-browse): How ChatGPT, Perplexity, and Gemini retrieve and process web content — and what it means for your site.
+- [L402 — Lightning Payments](https://agentgrade.com/kb/l402): Bitcoin Lightning Network payments for API access using macaroons and invoices.
+- [MCP — Model Context Protocol](https://agentgrade.com/kb/mcp): The open standard for connecting AI assistants to external tools. Spec, transport options, ecosystem, authentication, debugging, and how to implement an MCP server.
+- [x-payment-info — OpenAPI Payment Discovery](https://agentgrade.com/kb/x-payment-info): Pre-request payment discovery via OpenAPI extensions so agents know pricing before triggering a 402.
+- [Bazaar — Service Discovery](https://agentgrade.com/kb/bazaar): The x402 service catalog that lets agents discover and browse paid API endpoints.
+- [OpenAPI — API Specification](https://agentgrade.com/kb/openapi): Machine-readable API description that tells agents what endpoints exist and how to call them.
+- [llms.txt — LLM Context File](https://agentgrade.com/kb/llms-txt): Plain-text file that explains your service to large language models.
+- [llms-full.txt — Full Content for LLMs](https://agentgrade.com/kb/llms-full-txt): Companion to llms.txt: the entire site text concatenated into one file so non-browsing LLMs can ingest your content in a single fetch.
+- [agents.txt — Agent Access Policies](https://agentgrade.com/kb/agents-txt): Defines what AI agents are allowed to do on your service.
+- [Organization JSON-LD — Entity Graph for Agents](https://agentgrade.com/kb/organization-jsonld): Declare your site as a schema.org Organization with sameAs links to your other canonical surfaces. The linked-data signal LLMs use to consolidate scattered surfaces into one entity in their knowledge graph.
+- [robots.txt for Agents](https://agentgrade.com/kb/robots-txt): Agent-specific directives in robots.txt that signal your site welcomes AI crawlers.
+- [Identity Protocols](https://agentgrade.com/kb/identity): Decentralized identity standards that let agents verify who owns a domain.
+- [Skill file (SKILL.md)](https://agentgrade.com/kb/skills): A markdown file with YAML frontmatter that tells agents how to use your service.
+- [Content Negotiation for AI Agents](https://agentgrade.com/kb/content-negotiation): How to serve agent-optimized responses based on User-Agent and Accept headers.
+- [Web Bot Auth (RFC 9421)](https://agentgrade.com/kb/web-bot-auth): How AI agents prove their identity with cryptographic HTTP message signatures.
+- [A2A — Agent-to-Agent Protocol](https://agentgrade.com/kb/a2a): Google's protocol for AI agents to discover and communicate with other agents.
+- [WebMCP — Browser Agent Interaction](https://agentgrade.com/kb/webmcp): A W3C draft protocol that lets browser-based AI agents interact with websites through annotated forms.
+- [Infrastructure — Cache, Errors, Redirects](https://agentgrade.com/kb/infrastructure): HTTP-level behaviors agents rely on: cache headers, structured errors, HTTPS redirect, sitemap.
+- [JavaScript-Rendered Sites and Agent Visibility](https://agentgrade.com/kb/javascript-rendering): Why client-rendered SPAs are invisible to AI crawlers, what it does and does not break, and how to fix it.

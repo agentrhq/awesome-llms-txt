@@ -1,0 +1,223 @@
+# Docs
+
+## Launchpad
+
+- [Ready for lift off](https://docs.flip.to/readme.md)
+
+## Documentation
+
+- [Quickstart](https://docs.flip.to/docs/get-started/readme.md)
+- [Discovery](https://docs.flip.to/docs/platform/discovery.md)
+- [Launchpad](https://docs.flip.to/docs/platform/discovery/launchpad.md)
+- [Day-to-day](https://docs.flip.to/docs/platform/discovery/day-to-day.md)
+- [Experiences](https://docs.flip.to/docs/platform/discovery/experiences.md)
+- [Collection management](https://docs.flip.to/docs/platform/discovery/experiences/collection-management.md)
+- [Library](https://docs.flip.to/docs/platform/discovery/experiences/library.md)
+- [Add, edit and manage Experiences](https://docs.flip.to/docs/platform/discovery/experiences/add-edit-and-manage-experiences.md)
+- [Flip.to 🤝 OccasionGenius](https://docs.flip.to/docs/platform/discovery/experiences/flip.to-occasiongenius.md): Together, we believe that travel marketing can be both authentic, and really great for business, making travel better for everyone.
+- [Planner audiences](https://docs.flip.to/docs/platform/discovery/planner-audiences.md)
+- [Special Codes](https://docs.flip.to/docs/platform/discovery/special-codes.md)
+- [Advocacy](https://docs.flip.to/docs/platform/advocacy.md)
+- [First campaign](https://docs.flip.to/docs/platform/advocacy/first-campaign.md)
+- [Places](https://docs.flip.to/docs/platform/advocacy/places.md): Let guests share where their stories happened in the community
+- [Curation](https://docs.flip.to/docs/platform/advocacy/curation.md)
+- [Getting the most out of Curation](https://docs.flip.to/docs/platform/advocacy/curation/getting-the-most-out-of-curation.md)
+- [Stories](https://docs.flip.to/docs/platform/advocacy/stories.md)
+- [Promoting a campaign](https://docs.flip.to/docs/platform/advocacy/promoting-a-campaign.md)
+- [Top storytellers](https://docs.flip.to/docs/platform/advocacy/top-storytellers.md): Every day, your travelers are sharing their stories with friends and family around the world. That adds up to som incredible impact, measured in a massive new audience who are the perfect demographic.
+- [Spacetime](https://docs.flip.to/docs/platform/spacetime.md)
+- [Getting started](https://docs.flip.to/docs/platform/spacetime/getting-started.md)
+- [Goals](https://docs.flip.to/docs/platform/spacetime/goals.md)
+- [Historical transactions import](https://docs.flip.to/docs/platform/spacetime/goals/historical-transactions-import.md)
+- [Analytics taxonomy](https://docs.flip.to/docs/platform/spacetime/analytics-taxonomy.md)
+- [Direct data access](https://docs.flip.to/docs/platform/spacetime/direct-data-access.md)
+- [Collaboratives](https://docs.flip.to/docs/platform/collaboratives.md)
+- [Collaborative Insights](https://docs.flip.to/docs/platform/collaboratives/collaborative-insights.md)
+- [Campaign Tracking](https://docs.flip.to/docs/platform/collaboratives/campaign-tracking.md)
+- [Brand Resources](https://docs.flip.to/docs/platform/collaboratives/brand-resources.md)
+- [Mission Control](https://docs.flip.to/docs/platform/mission-control.md)
+- [Branding](https://docs.flip.to/docs/platform/mission-control/branding.md)
+- [Point person](https://docs.flip.to/docs/platform/mission-control/point-person.md)
+- [Seasonal photos](https://docs.flip.to/docs/platform/mission-control/seasonal-photos.md)
+- [Booking engine URL](https://docs.flip.to/docs/platform/mission-control/booking-engine-url.md)
+- [Custom domains](https://docs.flip.to/docs/platform/mission-control/custom-domains.md)
+- [Languages](https://docs.flip.to/docs/platform/mission-control/languages.md)
+- [Team](https://docs.flip.to/docs/platform/mission-control/team.md)
+- [Websites](https://docs.flip.to/docs/integrations/websites.md)
+- [Set up your website (legacy)](https://docs.flip.to/docs/integrations/websites/set-up-your-website-legacy.md)
+- [Set up your website](https://docs.flip.to/docs/integrations/websites/set-up-your-website.md)
+- [Consent management for your website](https://docs.flip.to/docs/integrations/websites/consent-management-for-your-website.md)
+- [Cross-domain tracking](https://docs.flip.to/docs/integrations/websites/cross-domain-tracking.md)
+- [Member tracking](https://docs.flip.to/docs/integrations/websites/member-tracking.md)
+- [Website markup](https://docs.flip.to/docs/integrations/websites/website-markup.md)
+- [Feature previews](https://docs.flip.to/docs/integrations/websites/feature-previews.md)
+- [Booking Engines](https://docs.flip.to/docs/integrations/booking-engines.md)
+- [Set up your booking engine](https://docs.flip.to/docs/integrations/booking-engines/set-up-your-booking-engine.md)
+- [Consent management for your booking engine](https://docs.flip.to/docs/integrations/booking-engines/consent-management-for-your-booking-engine.md)
+- [E-commerce tracking](https://docs.flip.to/docs/integrations/booking-engines/e-commerce-tracking.md)
+- [Vendors](https://docs.flip.to/docs/integrations/booking-engines/vendors.md)
+- [SynXis](https://docs.flip.to/docs/integrations/booking-engines/vendors/synxis.md)
+- [iHotelier](https://docs.flip.to/docs/integrations/booking-engines/vendors/ihotelier.md)
+- [Cloudbeds](https://docs.flip.to/docs/integrations/booking-engines/vendors/cloudbeds.md)
+- [RevRaise by AZDS](https://docs.flip.to/docs/integrations/booking-engines/vendors/revraise-by-azds.md)
+- [Newbook](https://docs.flip.to/docs/integrations/booking-engines/vendors/newbook.md)
+- [SiteMinder](https://docs.flip.to/docs/integrations/booking-engines/vendors/siteminder.md)
+- [Selfbook](https://docs.flip.to/docs/integrations/booking-engines/vendors/selfbook.md)
+- [RezTrip](https://docs.flip.to/docs/integrations/booking-engines/vendors/reztrip.md)
+- [Cloudbeds (beta)](https://docs.flip.to/docs/integrations/booking-engines/vendors/cloudbeds-beta.md)
+- [Campspot](https://docs.flip.to/docs/integrations/booking-engines/vendors/campspot.md)
+- [Analytics](https://docs.flip.to/docs/integrations/analytics.md)
+- [Signals & subscriptions](https://docs.flip.to/docs/integrations/analytics/signals-and-subscriptions.md)
+- [Looker Studio](https://docs.flip.to/docs/integrations/analytics/looker-studio.md)
+- [Consent management](https://docs.flip.to/docs/integrations/analytics/consent-management.md)
+- [CRMs](https://docs.flip.to/docs/integrations/crms.md)
+- [Zapier](https://docs.flip.to/docs/integrations/crms/zapier.md)
+- [Using Zapier with Mailchimp](https://docs.flip.to/docs/integrations/crms/zapier/using-zapier-with-mailchimp.md)
+- [Revinate](https://docs.flip.to/docs/integrations/crms/revinate.md)
+- [Salesforce](https://docs.flip.to/docs/integrations/crms/salesforce.md)
+- [SFTP](https://docs.flip.to/docs/integrations/crms/sftp.md)
+- [Email Marketing](https://docs.flip.to/docs/integrations/email-marketing.md)
+- [Providers](https://docs.flip.to/docs/integrations/email-marketing/providers.md)
+- [Salesforce Marketing Cloud](https://docs.flip.to/docs/integrations/email-marketing/providers/salesforce-marketing-cloud.md)
+- [Snippets](https://docs.flip.to/docs/integrations/email-marketing/snippets.md)
+- [Confirmation email](https://docs.flip.to/docs/integrations/email-marketing/snippets/confirmation-email.md)
+- [Pre-arrival email](https://docs.flip.to/docs/integrations/email-marketing/snippets/pre-arrival-email.md)
+- [Post-stay email](https://docs.flip.to/docs/integrations/email-marketing/snippets/post-stay-email.md)
+- [Cancellation email](https://docs.flip.to/docs/integrations/email-marketing/snippets/cancellation-email.md)
+- [Advertising](https://docs.flip.to/docs/integrations/advertising.md)
+- [Google Ads](https://docs.flip.to/docs/integrations/advertising/google-ads.md)
+- [Google DV360](https://docs.flip.to/docs/integrations/advertising/google-dv360.md)
+- [Microsoft Advertising](https://docs.flip.to/docs/integrations/advertising/microsoft-advertising.md)
+- [Permissions for a Microsoft work account](https://docs.flip.to/docs/integrations/advertising/microsoft-advertising/permissions-for-a-microsoft-work-account.md)
+- [Microsoft Advertising Account Permissions](https://docs.flip.to/docs/integrations/advertising/microsoft-advertising/account-permissions.md)
+- [Meta Ads](https://docs.flip.to/docs/integrations/advertising/meta-ads.md)
+- [Alternative approach for Meta Ads](https://docs.flip.to/docs/integrations/advertising/meta-ads/alternative-approach-for-meta-ads.md)
+- [TikTok Ads](https://docs.flip.to/docs/integrations/advertising/tiktok-ads.md)
+- [Reddit Ads](https://docs.flip.to/docs/integrations/advertising/reddit-ads.md): This is a working draft for this integration.
+- [MNTN (Connected TV)](https://docs.flip.to/docs/integrations/advertising/mntn-connected-tv.md): This is a working draft for this integration.
+- [Introduction](https://docs.flip.to/docs/api/introduction.md)
+- [Reference](https://docs.flip.to/docs/api/reference.md)
+- [Platform API](https://docs.flip.to/docs/api/reference/platform-api.md)
+- [Collaborative API](https://docs.flip.to/docs/api/reference/collaborative-api.md)
+- [Updating a website or booking engine](https://docs.flip.to/docs/gameplans/updating-a-website-or-booking-engine.md): To ensure your Flip.to platform continues to drive impact, follow the best practices below. We'll take it from there to get you to a successful launch! 🚀
+- [Customer Success](https://docs.flip.to/docs/support/customer-success.md)
+
+## Partners
+
+- [Welcome aboard](https://docs.flip.to/partners/readme.md): Resources + implementation guide for Flip.to partners rolling out Spacetime to customers.
+- [Introduce Spacetime](https://docs.flip.to/partners/introducing-spacetime.md): A customer-ready template to announce the Spacetime rollout.
+- [Spacetime access](https://docs.flip.to/partners/spacetime-access.md): How partners enable Spacetime access for mutual customers: the contractual basis, the workflow, and the templates.
+
+## Developers
+
+- [Introduction](https://docs.flip.to/developers/api/readme.md)
+- [Reference](https://docs.flip.to/developers/api/reference.md)
+- [Platform API](https://docs.flip.to/developers/api/reference/platform-api.md)
+- [Collaborative API](https://docs.flip.to/developers/api/reference/collaborative-api.md)
+- [Websites](https://docs.flip.to/developers/integrations/websites.md)
+- [Set up your website](https://docs.flip.to/developers/integrations/websites/set-up-your-website.md)
+- [Consent management for your website](https://docs.flip.to/developers/integrations/websites/consent-management-for-your-website.md)
+- [Cross-domain tracking](https://docs.flip.to/developers/integrations/websites/cross-domain-tracking.md)
+- [Member tracking](https://docs.flip.to/developers/integrations/websites/member-tracking.md)
+- [Website markup](https://docs.flip.to/developers/integrations/websites/website-markup.md)
+- [Feature previews](https://docs.flip.to/developers/integrations/websites/feature-previews.md)
+- [Booking Engines](https://docs.flip.to/developers/integrations/booking-engines.md)
+- [Set up your booking engine](https://docs.flip.to/developers/integrations/booking-engines/set-up-your-booking-engine.md)
+- [Consent management for your booking engine](https://docs.flip.to/developers/integrations/booking-engines/consent-management-for-your-booking-engine.md)
+- [E-commerce tracking](https://docs.flip.to/developers/integrations/booking-engines/e-commerce-tracking.md)
+- [Vendors](https://docs.flip.to/developers/integrations/booking-engines/vendors.md)
+- [SynXis](https://docs.flip.to/developers/integrations/booking-engines/vendors/synxis.md)
+- [iHotelier](https://docs.flip.to/developers/integrations/booking-engines/vendors/ihotelier.md)
+- [Cloudbeds](https://docs.flip.to/developers/integrations/booking-engines/vendors/cloudbeds.md)
+- [RevRaise by AZDS](https://docs.flip.to/developers/integrations/booking-engines/vendors/revraise-by-azds.md)
+- [Newbook](https://docs.flip.to/developers/integrations/booking-engines/vendors/newbook.md)
+- [SiteMinder](https://docs.flip.to/developers/integrations/booking-engines/vendors/siteminder.md)
+- [Selfbook](https://docs.flip.to/developers/integrations/booking-engines/vendors/selfbook.md)
+- [RezTrip](https://docs.flip.to/developers/integrations/booking-engines/vendors/reztrip.md)
+- [Campspot](https://docs.flip.to/developers/integrations/booking-engines/vendors/campspot.md)
+
+## Changelog
+
+- [Changelog](https://docs.flip.to/changelog/readme.md)
+- [Campaigns get more granular](https://docs.flip.to/changelog/april-2026/campaigns-get-more-granular.md): 28 April 2026
+- [One visual to rule them all](https://docs.flip.to/changelog/january-2026/one-visual-to-rule-them-all.md): 16 January 2026
+- [Understanding space and time](https://docs.flip.to/changelog/december-2025/understanding-space-and-time.md): 18 December 2025
+- [Getting even more global](https://docs.flip.to/changelog/december-2025/getting-even-more-global.md): 17 December 2025
+- [Your Marketing, reignited 🔥](https://docs.flip.to/changelog/november-2025/your-marketing-reignited.md): 24 November 2025
+- [Spacetime: a first look](https://docs.flip.to/changelog/october-2025/spacetime-a-first-look.md): 24 October 2025
+- [Coming soon: entirely new Discovery journeys](https://docs.flip.to/changelog/september-2025/coming-soon-entirely-new-discovery-journeys.md): 17 September 2025
+- [A better way to manage experiences](https://docs.flip.to/changelog/august-2025/a-better-way-to-manage-experiences.md): 21 August 2025
+- [Real-time OccasionGenius Collection updates](https://docs.flip.to/changelog/august-2025/real-time-occasiongenius-collection-updates.md): 13 August 2025
+- [Coming soon: connect in clicks](https://docs.flip.to/changelog/july-2025/coming-soon-connect-in-clicks.md): Updates for marketing integrations and more
+- [The who, what, and now the where for traveler's favorite moments](https://docs.flip.to/changelog/june-2025/the-who-what-and-now-the-where-for-travelers-favorite-moments.md): 3 June 2025
+- [Search and sort stories with ease](https://docs.flip.to/changelog/april-2025/search-and-sort-stories-with-ease.md): 30 April 2025
+- [Enhanced tagging for richer Experience Collections](https://docs.flip.to/changelog/april-2025/enhanced-tagging-for-richer-experience-collections.md): 7 April 2025
+- [Better maps have arrived: inspiring travelers with community](https://docs.flip.to/changelog/march-2025/better-maps-have-arrived-inspiring-travelers-with-community.md): 17 March 2025
+- [New Marketing Integrations](https://docs.flip.to/changelog/march-2025/new-marketing-integrations.md): 4 March 2025
+- [New support for sold out inventory and group bookings](https://docs.flip.to/changelog/february-2025/new-support-for-sold-out-inventory-and-group-bookings.md): 26 February 2025
+- [Say hello to Chewy](https://docs.flip.to/changelog/february-2025/say-hello-to-chewy.md): 20 February 2025
+- [Better maps coming soon](https://docs.flip.to/changelog/february-2025/better-maps-coming-soon.md): 18 February 2025
+- [New and improved Planner Flow and Experiences Management on the way](https://docs.flip.to/changelog/february-2025/new-and-improved-planner-flow-and-experiences-management-on-the-way.md): 7 February 2025
+- [Sneak peek: Discovery Performance](https://docs.flip.to/changelog/january-2025/sneak-peek-discovery-performance.md): 14 January 2025
+- [New CRM 🤝 integrations](https://docs.flip.to/changelog/december-2024/new-crm-integrations.md): 11 December 2024
+- [Stay in control with consent management and two-factor](https://docs.flip.to/changelog/stay-in-control-with-consent-management-and-two-factor.md): 10 December 2024
+- [Even better support for complex booking requirements](https://docs.flip.to/changelog/november-2024/even-better-support-for-complex-booking-requirements.md): 25 November 2024
+- [A ✨shiny✨ new Account update](https://docs.flip.to/changelog/a-shiny-new-account-update.md): 22 November 2024
+- [Speak peek: Experiences Management](https://docs.flip.to/changelog/speak-peek-experiences-management.md): 8 November 2024
+- [Discovery Big Picture gets a refresh](https://docs.flip.to/changelog/discovery-big-picture-gets-a-refresh.md): 5 November 2024
+- [The latest on ADA](https://docs.flip.to/changelog/september-2024/the-latest-on-ada.md): 25 September 2024
+- [Sneak peek: Feature Previews](https://docs.flip.to/changelog/sneak-peek-feature-previews.md): 24 September 2024
+- [A better handling of headcount](https://docs.flip.to/changelog/a-better-handling-of-headcount.md): 17 September 2024
+- [New support: Flip.to 🤝 Newbook](https://docs.flip.to/changelog/new-support-flip.to-newbook.md): 10 September 2024
+- [Experiences get a refresh](https://docs.flip.to/changelog/august-2024/experiences-get-a-refresh.md): 14 August 2024
+- [Introducing Collaborative Collections](https://docs.flip.to/changelog/july-2024/introducing-collaborative-collections.md): 26 July 2024
+- [Supporting Special Codes](https://docs.flip.to/changelog/july-2024/supporting-special-codes.md): 18 June 2024
+- [More language support: Help Center edition](https://docs.flip.to/changelog/april-2024/more-language-support-help-center-edition.md): 16 April 2024
+- [New phone support in Advocacy](https://docs.flip.to/changelog/april-2024/new-phone-support-in-advocacy.md): 2 April 2024
+- [Web experiences are even more impactful](https://docs.flip.to/changelog/february-2024/web-experiences-are-even-more-impactful.md): 28 February 2024
+- [New referrals insight for Collaborative sponsors](https://docs.flip.to/changelog/february-2024/new-referrals-insight-for-collaborative-sponsors.md): 19 February 2024
+- [Guest stories join the planner journey](https://docs.flip.to/changelog/february-2024/guest-stories-join-the-planner-journey.md): 19 February 2024
+- [Discovery headcount refreshes](https://docs.flip.to/changelog/january-2024/discovery-headcount-refreshes.md): 8 and 12 January 2024
+
+## Policies
+
+- [Policies](https://docs.flip.to/policies/readme.md)
+- [Master Subscription Agreement](https://docs.flip.to/policies/legal/master-subscription-agreement.md)
+- [Technology and Agency Partner Addendum](https://docs.flip.to/policies/legal/technology-and-agency-partner-addendum.md)
+- [Channel Partner Addendum](https://docs.flip.to/policies/legal/channel-partner-addendum.md)
+- [Service Level Agreement](https://docs.flip.to/policies/legal/service-level-agreement.md)
+- [Data Processing Agreement](https://docs.flip.to/policies/legal/data-processing-agreement.md)
+- [Archive](https://docs.flip.to/policies/legal/archive.md)
+- [Master Subscription Agreement 20221111](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20221111.md)
+- [Master Subscription Agreement 20220912](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20220912.md)
+- [Master Subscription Agreement 20220119](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20220119.md)
+- [Master Subscription Agreement 20210428](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20210428.md)
+- [Master Subscription Agreement 20190619](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20190619.md)
+- [Master Subscription Agreement 20190523](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20190523.md)
+- [Master Subscription Agreement 20170313](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20170313.md)
+- [Master Subscription Agreement 20160106](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20160106.md)
+- [Master Subscription Agreement 20130501](https://docs.flip.to/policies/legal/archive/master-subscription-agreement-20130501.md)
+- [Privacy and Security Overview](https://docs.flip.to/policies/platform/privacy-and-security-overview.md)
+- [Privacy Policy](https://docs.flip.to/policies/platform/privacy-policy.md)
+- [Sub-Processors](https://docs.flip.to/policies/platform/sub-processors.md)
+- [Reporting a Security Vulnerability](https://docs.flip.to/policies/platform/reporting-a-security-vulnerability.md)
+- [Site Terms of Service](https://docs.flip.to/policies/website/site-terms-of-service.md)
+- [Accessibility Statement](https://docs.flip.to/policies/website/accessibility-statement.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.flip.to/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

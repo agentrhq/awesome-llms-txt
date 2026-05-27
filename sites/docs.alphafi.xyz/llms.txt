@@ -1,0 +1,44 @@
+# AlphaFi Docs
+
+## AlphaFi Docs
+
+- [What is AlphaFi](https://docs.alphafi.xyz/introduction/what-is-alphafi.md): The Premium Smart Yield Aggregator on SUI
+- [How It Works](https://docs.alphafi.xyz/introduction/how-it-works.md)
+- [Roadmap](https://docs.alphafi.xyz/introduction/roadmap.md)
+- [Yield Farming Pools](https://docs.alphafi.xyz/strategies/yield-farming-pools.md): Auto compounding, Auto rebalancing concentrated liquidity pools
+- [Tokenomics](https://docs.alphafi.xyz/alpha-token/tokenomics.md): Max supply: 10,000,000 ALPHA tokens.
+- [ALPHA Airdrops](https://docs.alphafi.xyz/alpha-token/alpha-airdrops.md)
+- [stSUI](https://docs.alphafi.xyz/alphafi-stsui-standard/stsui.md)
+- [stSUI Audit](https://docs.alphafi.xyz/alphafi-stsui-standard/stsui-audit.md)
+- [stSUI Integration](https://docs.alphafi.xyz/alphafi-stsui-standard/stsui-integration.md)
+- [Bringing Assets to AlphaFi](https://docs.alphafi.xyz/getting-started/bringing-assets-to-alphafi.md): Bridging assets from other blockchains
+- [Supported Assets](https://docs.alphafi.xyz/getting-started/bringing-assets-to-alphafi/supported-assets.md)
+- [Community Links](https://docs.alphafi.xyz/info/community-links.md)
+- [Introduction](https://docs.alphafi.xyz/alphalend/introduction.md)
+- [What is AlphaLend?](https://docs.alphafi.xyz/alphalend/introduction/what-is-alphalend.md)
+- [How it works](https://docs.alphafi.xyz/alphalend/introduction/how-it-works.md)
+- [Concepts](https://docs.alphafi.xyz/alphalend/introduction/concepts.md)
+- [Security](https://docs.alphafi.xyz/alphalend/security.md)
+- [Audit Report](https://docs.alphafi.xyz/alphalend/security/audit-report.md)
+- [Risks](https://docs.alphafi.xyz/alphalend/security/risks.md)
+- [Liquidation](https://docs.alphafi.xyz/alphalend/security/liquidation.md)
+- [Developers](https://docs.alphafi.xyz/alphalend/developers.md)
+- [Contract & Object IDs](https://docs.alphafi.xyz/alphalend/developers/contract-and-object-ids.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.alphafi.xyz/introduction/what-is-alphafi.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

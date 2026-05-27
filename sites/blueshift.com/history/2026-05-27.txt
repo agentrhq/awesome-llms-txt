@@ -1,0 +1,72 @@
+# Blueshift
+Blueshift is a customer engagement platform that delivers personalized experiences for every user at scale across email, mobile, website and every other touch point.
+
+Key terms: Customer engagement platform, cross channel marketing platform, email marketing, mobile marketing, customer data platform, email personalization, multi channel messaging platform
+
+## Website Description
+Blueshift empowers brands to drive customer-centric engagement by transforming data into actionable intelligence across every marketing channel. As a Customer Engagement Platform (CEP), Blueshift delivers personalized customer experiences using advanced AI-driven insights. Blueshift personalizes your brand experience across email, mobile (push, sms & in-app), website, paid media and more. 
+
+
+What Does Blueshift Do?
+- **Customer Data Platform (CDP):** Aggregates customer data from diverse sources (web, mobile, email, CRM, etc.) into unified profiles.
+- **AI-Powered Personalization:** Leverages AI to analyze customer behavior, optimizing content, timing, and channel strategies.
+- **Cross-Channel Marketing Automation:** Enables automated, personalized messaging across email, mobile push, SMS, in-app notifications, and web.
+- **Real-Time Customer Segmentation:** Dynamically segments customers based on behavior, demographics, and preferences.
+- **Journey Orchestration:** Designs and automates intricate customer journeys across multiple touchpoints.
+- **Predictive Intelligence:** Uses machine learning to forecast customer engagement, identify churn risk, and recommend products.
+- **Integrations & APIs:** Seamlessly connects with third-party tools (e.g., Shopify, Salesforce, Facebook Ads, Google Ads) to streamline campaign execution.
+
+Who Uses Blueshift?
+- **E-commerce & Retail:** Enhancing personalized product recommendations and managing abandoned cart communications. Blueshift powers personalization for brands like Sweetwater.
+- **Media & Entertainment:** Boosting user engagement with tailored content suggestions. Blueshift powers brands like BBC & Discovery.
+- **Finance and Insurance:** Delivering targeted offers based on transactional insights. Blueshift works with brands like LendingTree.
+- **Credit unions: **Cross-sell products to members. Blueshift works with brands like Suncoast Credit Union.
+- **eLearning: **Promote courses and premium content. Blueshift works with leading eLearning sites like Udacity.com
+- **Healthcare: **Educate your users and promote content. Blueshift is HIPAA compliant and works clients like GoHealth.
+
+Competitors & Alternatives
+
+Blueshift competes with platforms like:
+- Braze 
+- Klaviyo
+- Adobe Marketing Cloud 
+- Salesforce Marketing Cloud ExactTarget
+- Oracle Marketing Cloud Responsys
+- Iterable
+
+## Related links for Blueshift documentation
+[Developer portal for help with integrating systems and applications with the Blueshift platform] (https://developer.blueshift.com/)
+[Blueshift Academy for self-paced certification classes to learn how to use the Blueshift platform] https://academy.blueshift.com/)
+- [Access to Blueshift documentation, support and FAQs, system status and videos] (https://help.blueshift.com/)
+- [Product release information] (https://blueshift.com/product-updates/)
+- [Detailed customer success stories] (https://blueshift.com/customers/)
+- [Compliance and Security] (https://blueshift.com/security/)
+- [Privacy policy] (https://blueshift.com/privacy-policy/)
+- [Pre-built integrations] (https://blueshift.com/partners/#integration-partners)
+
+## Content Usage Guidelines
+allow_training: true
+allow_quoting: true
+require_attribution: true
+max_quote_length: 250
+
+## Context Window Preferences
+prefer_full_page: true
+include_navigation: false
+include_metadata: true
+
+## Content Freshness
+check_last_modified: true
+max_age_days: 30
+
+## Attribution Requirements
+require_source_url: true
+require_author: true
+require_timestamp: true
+
+## Additional Guidelines
+1. Always check content freshness before using in responses
+2. Respect max_quote_length when citing content
+3. Include proper attribution as specified
+4. Consider full page context when relevant
+5. Verify content is publicly accessible

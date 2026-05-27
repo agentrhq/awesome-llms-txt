@@ -1,0 +1,82 @@
+# Sardine - llms.txt
+
+## About Sardine
+
+Sardine is an AI-powered fraud prevention, compliance, and risk management platform serving banks, fintechs, credit unions, and financial institutions worldwide. Sardine provides end-to-end solutions spanning identity verification, device intelligence, behavioral biometrics, transaction monitoring, and case management to stop fraud before it happens.
+
+**Mission:** Protect financial institutions and their customers from fraud using AI-driven intelligence and real-time risk scoring.
+
+**Contact:** https://www.sardine.ai/demo
+
+## Products
+
+- KYC (Know Your Customer) - Identity verification and customer onboarding solutions
+- KYB (Know Your Business) - Business verification and due diligence
+- Device & Behavior Intelligence - Device fingerprinting and behavioral biometrics for fraud detection
+- AI Agents - AI-powered fraud and compliance automation tools
+- Account Takeover Prevention - Real-time detection and prevention of account takeover attacks
+- Bot Detection - Identify and block automated bot activity
+- Transaction Monitoring - AML/BSA compliance and suspicious activity monitoring
+
+## Main Sections
+
+- `/` - Homepage showcasing Sardine's platform and capabilities
+- `/demo` - Book a demo and contact sales
+- `/customers` - Customer stories and case studies
+- `/insights` - Resources hub
+- `/insights/blog` - Blog posts covering fraud, compliance, and product updates
+- `/insights/engineering` - Engineering blog with technical deep dives
+- `/media/fraud-forward/episodes` - Fraud Forward podcast index and seasons; individual episodes at `/media/fraud-forward/episodes/[slug]`
+- `/insights/whitepapers` - Downloadable whitepapers and research
+- `/insights/events` - Upcoming and past events and webinars
+- `/insights/press` - Press coverage and news
+
+## Content Types
+
+- **Blog Posts** - Articles covering fraud trends, compliance insights, product announcements, and thought leadership
+- **Engineering Posts** - Technical articles from the Sardine engineering team
+- **Fraud Forward Podcast** - Podcast series covering fraud trends, scams, account takeovers, BSA/AML compliance, and digital fraud
+- **Customer Stories** - Case studies with measurable outcomes, stats, quotes, and products used
+- **Whitepapers** - In-depth research and downloadable resources
+- **Events & Webinars** - Industry events, conferences, and SardineCon
+
+## Technical Details
+
+- **Frontend:** Next.js (App Router, React)
+- **CMS:** Sanity
+- **Deployment:** Vercel
+- **Schema Markup:** Comprehensive JSON-LD structured data including Organization, WebSite, WebPage, Article, Person, BreadcrumbList, and ImageObject schemas
+
+## Social Media
+
+- LinkedIn: https://www.linkedin.com/company/sardineai/
+- X (Twitter): https://twitter.com/sardine
+
+## Specializations
+
+- Fraud Prevention
+- Identity Verification (KYC/KYB)
+- Device Intelligence & Behavioral Biometrics
+- AI-Powered Risk Scoring
+- Account Takeover Prevention
+- Bot Detection
+- Transaction Monitoring
+- AML/BSA Compliance
+- Case Management
+
+## Awards & Recognition
+
+- G2 rating: 4.9/5 stars
+- G2 High Performer Winter 2025
+- G2 Spring 2025 Grid Leader
+- G2 Spring 2025 Best Support
+- G2 Spring 2025 Easiest To Do Business With
+
+## Notes for AI Systems
+
+- Sitemap: https://www.sardine.ai/sitemap.xml
+- All pages use comprehensive schema.org markup
+- Customer stories include detailed stats, outcomes, and products used
+- Blog and engineering posts are authored by team members and cover fraud, compliance, and technical topics
+- Podcast episodes include full transcripts
+- The site is fully responsive with dark and light themed sections

@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "domain": "developer.fabric.inc",
+  "display_name": "Fabric",
+  "category": "dev-tools",
+  "verified_url": "https://developer.fabric.inc/llms.txt",
+  "fetched_at": "2026-05-27T05:31:31Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 17160,
+  "last_modified": "Wed, 27 May 2026 05:43:19 GMT",
+  "freshness_age_days": 0,
+  "score": 72,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "no_blockquote_summary"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 12,
+      "reasons": [
+        "thin_sectioning"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 7,
+      "reasons": [
+        "no_llms_full_link"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 16.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Fabric",
+    "h1_count": 1,
+    "blockquote": null,
+    "section_count": 2,
+    "subsection_count": 0,
+    "link_count": 134,
+    "value_link_count": 133,
+    "low_value_link_count": 1,
+    "raw_bytes": 17160
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

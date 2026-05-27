@@ -1,0 +1,92 @@
+# Listen Notes (ListenNotes.com)
+
+**Listen Notes** is the premier podcast search engine and database on the Internet, the definitive tool for podcast discovery.
+
+We take pride in offering a platform exclusively for human-crafted podcasts, ensuring you avoid AI-generated content.
+
+Our ecosystem is designed to help you search, explore, and manage high-quality podcast metadata effortlessly.
+
+## Podcast API (PodcastAPI.com)
+
+- [Podcast API Docs OpenAPI Spec - YAML](https://listen-api.listennotes.com/api/v2/openapi.yaml):
+  Discover all endpoints and response data schemas for podcast search, directory access, and insights.
+
+- [Podcast API Docs OpenAPI Spec - Markdown](https://www.listennotes.com/api/docs/openapi.md):
+  Discover all endpoints and response data schemas for podcast search, directory access, and insights.
+
+- [Podcast API Docs](https://docs.podcastapi.com/): Full documentation of the Podcast API with all API endpoints and response data schema.
+
+- [Podcast API Tutorials](https://www.listennotes.com/api/tutorials/)
+
+- [Podcast API Demo Project](https://github.com/ListenNotes/ListenApiDemo): A simplified podcast search engine web app, using Django, React, and Listen Notes Podcast API.
+
+- [Podcast API Javascript SDK](https://github.com/ListenNotes/podcast-api-js)
+
+- [Podcast API Python SDK](https://github.com/ListenNotes/podcast-api-python)
+
+- [Podcast API Go SDK](https://github.com/ListenNotes/podcast-api-go)
+
+- [Podcast API Kotlin SDK](https://github.com/ListenNotes/podcast-api-kotlin)
+
+- [Podcast API Scala SDK](https://github.com/ListenNotes/podcast-api-scala)
+
+- [Podcast API .Net SDK](https://github.com/ListenNotes/podcast-api-dotnet)
+
+- [Podcast API Swift SDK](https://github.com/ListenNotes/podcast-api-swift)
+
+- [Podcast API Rust SDK](https://github.com/ListenNotes/podcast-api-rust)
+
+- [Podcast API Ruby SDK](https://github.com/ListenNotes/podcast-api-ruby)
+
+- [Podcast API PHP SDK](https://github.com/ListenNotes/podcast-api-php)
+
+- [Podcast API ChatGPT Plugin](https://github.com/ListenNotes/listennotes-chatgpt-plugin)
+
+
+## Podcast Discovery Web Tools
+
+- [Podcast Search Engine](https://www.listennotes.com/):
+  Experience full-text search across all podcasts and episodes globally.
+
+- [Listen Later Playlists](https://www.listennotes.com/listen-later/):
+  Curate and organize your favorite podcasts and episodes.
+  You can also use [CurateKit.com](https://www.curatekit.com) for curating general digital contents on your own domain.
+
+- [Podcast Real-Time](https://www.listennotes.com/podcast-realtime/):
+  Monitor podcast activity in real time—it's like Google Analytics, but for podcasts.
+
+- [Similar Podcasts](https://www.listennotes.com/similar-podcasts-explorer/):
+  Easily find podcasts that match your interests.
+
+- [Best Podcasts](https://www.listennotes.com/best-podcasts/):
+  Explore top podcasts by country and category.
+
+- [Classified Ads for Podcasting](https://www.listennotes.com/podcast-classifieds/):
+
+- [Podcast Clips](https://www.listennotes.com/podcast-clips/):
+  Create and share podcast clips for free.
+
+- [Batch Export Podcast Datasets](https://www.listennotes.com/podcast-datasets/):
+  Export large datasets of podcast information in batch for your projects.
+
+- [Navigating Listen Notes website: Your Essential Guide to Finding New Podcasts](https://www.listennotes.help/article/4-listen-notes-website-podcast-discovery)
+
+- [Podcast PR Guide: How to Find Podcasts and Reach Out to be a Guest](https://www.listennotes.help/article/104-podcast-pr-guide-how-to-find-podcasts-and-reach-out-to-be-a-guest)
+
+- [How to Curate and Share Podcast Playlists with Listen Notes, for free](https://www.listennotes.help/article/103-how-to-curate-podcast-playlists)
+
+## Podcast API Tools and Free Datasets
+
+- [NotebookLM Detector](https://github.com/ListenNotes/notebooklm-detector): Open-source tool to detect NotebookLM-generated fake podcasts.
+
+- [AI-generated fake podcasts, mostly via NotebookLM](https://www.kaggle.com/datasets/listennotes/ai-generated-fake-podcasts-spams): This dataset represents a small subset of AI-generated fake podcasts that were flagged during attempts to add them to the Listen Notes podcast database. These "podcasts" were predominantly created using Notebook LM and are not designed for human consumption.
+
+## Podcast Transcription and Summarization
+
+- [Listen411](https://www.listen411.com/): Lightning-Fast podcast transcription tool. Transcribe a 1-hour audio file in 1 minute.
+
+- [Transcript.New](https://transcript.new): The easiest way to get transcripts for any podcasts.
+
+## Free Podcast Hosting
+
+- [microfeed](https://www.microfeed.org/): Free and Open-source podcast hosting on Cloudflare. Custom domain name + 10GB free storage.

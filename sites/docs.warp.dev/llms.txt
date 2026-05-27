@@ -1,0 +1,27 @@
+# Warp
+
+> Documentation for Warp, the agentic development environment, and Oz, Warp's programmable agent for running and coordinating agents at scale.
+
+## Documentation Sets
+
+- [Abridged documentation](https://docs.warp.dev/llms-small.txt): a compact version of the documentation for Warp, with non-essential content removed
+- [Complete documentation](https://docs.warp.dev/llms-full.txt): the full documentation for Warp
+- [Terminal](https://docs.warp.dev/_llms-txt/terminal.txt): Warp Terminal features and configuration.
+- [Agent Platform](https://docs.warp.dev/_llms-txt/agent-platform.txt): Warp's Agent Platform: capabilities, local agents, CLI agents, cloud agents.
+- [Code](https://docs.warp.dev/_llms-txt/code.txt): Code editor, code review, and Git worktrees.
+- [Enterprise](https://docs.warp.dev/_llms-txt/enterprise.txt): Enterprise features, SSO, team management, and security.
+- [Getting Started](https://docs.warp.dev/_llms-txt/getting-started.txt): Installation, quickstart, and migration guides.
+- [Knowledge and Collaboration](https://docs.warp.dev/_llms-txt/knowledge-and-collaboration.txt): Warp Drive, teams, and the Admin Panel.
+- [Reference](https://docs.warp.dev/_llms-txt/reference.txt): CLI and API reference.
+- [Support](https://docs.warp.dev/_llms-txt/support.txt): Troubleshooting, billing, and privacy.
+- [Guides](https://docs.warp.dev/_llms-txt/guides.txt): Task-oriented walkthroughs and tutorials.
+- [Changelog](https://docs.warp.dev/_llms-txt/changelog.txt): Warp release notes by year.
+
+## Notes
+
+- The complete documentation includes all content from the official documentation
+- The content is automatically generated from the same source as the official documentation
+
+## Optional
+
+- [Oz Agent API (OpenAPI spec)](https://docs.warp.dev/openapi.yaml): Machine-readable OpenAPI 3.0 specification for the Oz Agent API.

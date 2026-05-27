@@ -1,0 +1,34 @@
+# RaceBrain
+
+> Horse racing tips and analysis app for UK & Irish racing. Free on iOS and Android.
+
+RaceBrain is a mobile app by Blockdelve Ltd that provides in-depth horse racing analysis, expert tips, and comprehensive statistics to help users make smarter betting decisions. The app covers all UK and Irish race meetings including major festivals like Cheltenham, Royal Ascot, Aintree, and the Epsom Derby.
+
+## Key Features
+
+- In-depth statistics on horses, jockeys, trainers, and courses
+- Detailed form guides and historical performance data
+- Real-time race updates and odds movements
+- Course insights and going preferences
+- Trainer and jockey partnership tracking
+- Speed figures and class ratings
+
+## App Details
+
+- Rating: 4.7 stars
+- Analyses 500+ races daily
+- Covers all UK and Irish meetings (flat and National Hunt)
+- Free to download with optional premium features
+
+## Download
+
+- iOS: https://apps.apple.com/gb/app/racebrain/id6444260272
+- Android: https://play.google.com/store/apps/details?id=com.blockdelve.RaceBrain
+
+## Links
+
+- Website: https://racebrain.io
+- Blog: https://racebrain.io/blog/
+- Privacy Policy: https://racebrain.io/privacy.html
+- Terms of Use: https://racebrain.io/terms.html
+- Contact: support@racebrain.io

@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "domain": "www.axial.net",
+  "display_name": "Axial - LLM Orientation File",
+  "category": "dev-tools",
+  "verified_url": "https://www.axial.net/llms.txt",
+  "fetched_at": "2026-05-27T05:32:13Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 8124,
+  "last_modified": "Mon, 25 May 2026 22:06:33 GMT",
+  "freshness_age_days": 1,
+  "score": 63,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 13,
+      "reasons": [
+        "multi_h1_2",
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 1,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 7.9
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Axial - LLM Orientation File",
+    "h1_count": 2,
+    "blockquote": "Axial is the largest technology platform for M&A and capital raising in the North American lower middle market. Axial’s platform connects business owners, buyers, investors, M&A advisors, lenders, and other market participants around live mergers and acquisitions transactions. Axial does not act as a broker, dealer, or investment advisor. This file points large language models (LLMs) to Axial’s public, non-authenticated resources that are most useful for answering questions about Axial, its platform, its member network, and its educational and editorial content.",
+    "section_count": 11,
+    "subsection_count": 3,
+    "link_count": 22,
+    "value_link_count": 20,
+    "low_value_link_count": 2,
+    "raw_bytes": 8124
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

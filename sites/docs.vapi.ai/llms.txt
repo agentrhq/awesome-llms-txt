@@ -1,0 +1,304 @@
+# Vapi
+
+## Instructions for AI Agents
+
+- For clean Markdown of any page, append `.md` to the page URL
+- For a complete documentation index, see https://docs.vapi.ai/llms.txt
+- For full documentation content in one file, see https://docs.vapi.ai/llms-full.txt
+- For section-specific indexes, append `/llms.txt` to any section URL
+- For AI client integration (Claude Code, Cursor, etc.), connect to the MCP server at https://docs.vapi.ai/_mcp/server
+
+## Docs
+
+- [Introduction](https://docs.vapi.ai/quickstart/introduction.mdx): Build voice AI agents that can make and receive phone calls
+- [Phone calls](https://docs.vapi.ai/quickstart/phone.mdx): Learn to make your first phone call with a voice agent
+- [Web calls](https://docs.vapi.ai/quickstart/web.mdx): Build voice interfaces and backend integrations using Vapi's Web and Server SDKs
+- [Guides](https://docs.vapi.ai/guides.mdx): Explore real-world, cloneable examples to build voice agents with Assistants and Squads
+- [Composer](https://docs.vapi.ai/composer.mdx): Build and configure voice AI agents through natural conversation
+- [Vapi CLI](https://docs.vapi.ai/cli.mdx): Command-line interface for building voice AI applications faster
+- [Assistants quickstart](https://docs.vapi.ai/assistants/quickstart.mdx): Build your first assistant and make a phone call in minutes
+- [Transient vs permanent configurations](https://docs.vapi.ai/assistants/concepts/transient-vs-permanent-configurations.mdx): Learn to choose between inline and stored assistant configurations
+- [Variables](https://docs.vapi.ai/assistants/dynamic-variables.mdx): Personalize assistant messages with dynamic and default variables
+- [Multilingual support](https://docs.vapi.ai/customization/multilingual.mdx): Configure multilingual voice AI agents with automatic language detection, cross-language conversation, and localized voices
+- [Personalization with user information](https://docs.vapi.ai/assistants/personalization.mdx): Add customer-specific information to your voice assistant conversations
+- [Voice formatting plan](https://docs.vapi.ai/assistants/voice-formatting-plan.mdx): Format LLM output for natural-sounding speech
+- [Flush syntax](https://docs.vapi.ai/assistants/flush-syntax.mdx): Force immediate voice transmission with VAPI's flush syntax for real-time interactions
+- [Background messages](https://docs.vapi.ai/assistants/background-messages.mdx): Silently update chat history with background messages
+- [Idle messages](https://docs.vapi.ai/assistants/idle-messages.mdx): Keep users engaged during conversation pauses
+- [Assistant hooks](https://docs.vapi.ai/assistants/assistant-hooks.mdx): Automate actions on call events and interruptions
+- [Background speech denoising](https://docs.vapi.ai/documentation/assistants/conversation-behavior/background-speech-denoising.mdx): Filter out noise and background speech while users are talking
+- [Pronunciation dictionaries](https://docs.vapi.ai/assistants/pronunciation-dictionaries.mdx): Control how your AI assistant pronounces specific words and phrases
+- [Email address reading](https://docs.vapi.ai/assistants/email-address-reading.mdx): Get your voice agent to collect, read back, and confirm email addresses clearly
+- [Speech configuration](https://docs.vapi.ai/customization/speech-configuration.mdx): Control when your assistant starts and stops speaking
+- [Voice pipeline configuration](https://docs.vapi.ai/customization/voice-pipeline-configuration.mdx): Complete guide to configuring VAPI's voice pipeline for optimal conversation timing and interruption handling
+- [Voice fallback configuration](https://docs.vapi.ai/voice-fallback-plan.mdx): Configure fallback voices that activate automatically if your primary voice fails.
+- [Transcriber fallback configuration](https://docs.vapi.ai/customization/transcriber-fallback-plan.mdx): Configure fallback transcribers that activate automatically if your primary transcriber fails.
+- [OpenAI Realtime](https://docs.vapi.ai/openai-realtime.mdx): Build voice assistants with OpenAI's native speech-to-speech models for ultra-low latency conversations
+- [Provider Keys](https://docs.vapi.ai/customization/provider-keys.mdx): Bring your own API keys to Vapi.
+- [Introduction to Tools](https://docs.vapi.ai/tools.mdx): Extend your assistant's capabilities with powerful function calling tools.
+- [Default Tools](https://docs.vapi.ai/tools/default-tools.mdx): Adding Transfer Call, End Call, Dial Keypad, and API Request capabilities to your assistants.
+- [Voicemail Tool](https://docs.vapi.ai/tools/voicemail-tool.mdx): Learn how to use the assistant-controlled voicemail tool for flexible voicemail handling
+- [Custom Tools](https://docs.vapi.ai/tools/custom-tools.mdx): Learn how to create and configure Custom Tools for use by your Vapi assistants.
+- [Code Tool](https://docs.vapi.ai/tools/code-tool.mdx): Execute custom TypeScript code directly within your assistant without setting up a server.
+- [Client-side Tools (Web SDK)](https://docs.vapi.ai/tools/client-side-websdk.mdx): Handle tool-calls in the browser without a server URL
+- [Tool rejection plan](https://docs.vapi.ai/tools/tool-rejection-plan.mdx): Prevent unintended tool calls using conditions based on conversation state
+- [Static variables and aliases](https://docs.vapi.ai/tools/static-variables-and-aliases.mdx): Inject server-controlled values into tool calls without LLM involvement, and chain values across tool calls deterministically.
+- [Custom tools troubleshooting](https://docs.vapi.ai/tools/custom-tools-troubleshooting.mdx): Resolve common issues with custom tool integrations
+- [Google Calendar Integration](https://docs.vapi.ai/tools/google-calendar.mdx): Connect your assistant to Google Calendar for seamless appointment scheduling and availability checking.
+- [Google Sheets Integration](https://docs.vapi.ai/tools/google-sheets.mdx): Connect your assistant to Google Sheets for seamless data entry.
+- [Slack Integration](https://docs.vapi.ai/tools/slack.mdx): Connect your assistant to Slack for seamless message sending.
+- [GoHighLevel Integration](https://docs.vapi.ai/tools/go-high-level.mdx): Connect your assistant to GoHighLevel for seamless appointment scheduling, contact creation, and availability checking.
+- [Introduction to Knowledge Bases](https://docs.vapi.ai/knowledge-base.mdx): Learn how to create and integrate custom knowledge bases into your AI assistants.
+- [Using the Query Tool for Knowledge Bases](https://docs.vapi.ai/knowledge-base/using-query-tool.mdx): Learn how to configure and use the query tool to enhance your AI assistants with custom knowledge bases.
+- [Custom Knowledge Base](https://docs.vapi.ai/knowledge-base/custom-knowledge-base.mdx): Create and implement your own knowledge base server for full control over document retrieval
+- [Tool Arguments Encryption](https://docs.vapi.ai/tools/encryption.mdx): Learn to encrypt tool arguments and protect sensitive data
+- [Deepgram Keywords and Keyterm Prompting](https://docs.vapi.ai/customization/custom-keywords.mdx): Boost STT accuracy for domain words and phrases
+- [Custom voices](https://docs.vapi.ai/customization/custom-voices/custom-voice.mdx): Use a custom voice with your preferred provider
+- [ElevenLabs](https://docs.vapi.ai/customization/custom-voices/elevenlabs.mdx): Set up a custom ElevenLabs voice in Vapi
+- [PlayHT](https://docs.vapi.ai/customization/custom-voices/playht.mdx): Set up a custom PlayHT voice in Vapi
+- [Custom transcriber](https://docs.vapi.ai/customization/custom-transcriber.mdx): Integrate your own transcription service with Vapi
+- [Custom TTS integration](https://docs.vapi.ai/customization/custom-voices/custom-tts.mdx): Learn to integrate your own text-to-speech system with VAPI
+- [Fine-tuned OpenAI models](https://docs.vapi.ai/customization/custom-llm/fine-tuned-openai-models.mdx): Use Another LLM or Your Own Server
+- [Connecting Your Custom LLM to Vapi: A Comprehensive Guide](https://docs.vapi.ai/customization/custom-llm/using-your-server.mdx)
+- [Custom LLM Tool Calling Integration](https://docs.vapi.ai/customization/tool-calling-integration.mdx)
+- [Appointment scheduling assistant](https://docs.vapi.ai/assistants/examples/appointment-scheduling.mdx): Build a voice AI appointment scheduling assistant with Google Calendar integration, availability checking, and automated confirmations using Vapi Assistants.
+- [Lead qualification assistant](https://docs.vapi.ai/assistants/examples/lead-qualification.mdx): Build a voice AI outbound sales assistant with BANT data capture, CRM integration, objection handling, and automated follow-ups using Vapi Assistants.
+- [Inbound customer support](https://docs.vapi.ai/assistants/examples/inbound-support.mdx): Build a voice AI banking support agent with tools for account lookup, balance and transaction retrieval.
+- [Web Snippet](https://docs.vapi.ai/assistants/examples/voice-widget.mdx): Easily integrate the Vapi Voice Widget into your website for enhanced user interaction.
+- [Documentation agent](https://docs.vapi.ai/assistants/examples/docs-agent.mdx): Build a voice assistant that answers questions about your docs
+- [Customer support escalation system](https://docs.vapi.ai/assistants/examples/support-escalation.mdx): Build a voice AI customer support system with dynamic escalation that routes calls based on customer data, issue type, and real-time agent availability using transfer tools and webhooks.
+- [Multilingual support agent](https://docs.vapi.ai/assistants/examples/multilingual-agent.mdx): Build a multilingual voice AI customer support agent with automatic language detection, native voices, and comprehensive tools for international customer service
+- [Evals quickstart](https://docs.vapi.ai/observability/evals-quickstart.mdx): Get started with AI agent testing in 5 minutes
+- [Advanced eval testing](https://docs.vapi.ai/observability/evals-advanced.mdx): Master testing strategies and best practices for production AI agents
+- [Simulations quickstart](https://docs.vapi.ai/observability/simulations-quickstart.mdx): Test your AI assistants with realistic AI-powered callers
+- [Simulations advanced](https://docs.vapi.ai/observability/simulations-advanced.mdx): Master testing strategies and best practices for AI voice agent simulations
+- [Boards quickstart](https://docs.vapi.ai/observability/boards-quickstart.mdx): Create custom analytics dashboards in minutes
+- [Structured outputs quickstart](https://docs.vapi.ai/assistants/structured-outputs-quickstart.mdx): Get started with structured data extraction in 5 minutes
+- [Structured outputs examples](https://docs.vapi.ai/assistants/structured-outputs-examples.mdx): Real-world examples and templates for common use cases
+- [Scorecard quickstart](https://docs.vapi.ai/observability/scorecard-quickstart.mdx): Automatically grade calls against KPIs using structured outputs
+- [Monitoring quickstart](https://docs.vapi.ai/observability/monitoring-quickstart.mdx): Set up automated quality monitoring for your voice AI agents
+- [Configuring Inbound and Outbound Calls for Squads](https://docs.vapi.ai/squads-example.mdx): Configuring assistants for inbound/outbound calls.
+- [Introduction to Squads (Multi-Assistant Conversations)](https://docs.vapi.ai/squads.mdx): Use Squads to handle complex workflows and tasks.
+- [Handoff tool](https://docs.vapi.ai/squads/handoff.mdx): Transfer the call to another assistant, squad, or dynamically determined destination.
+- [Passing data between assistants](https://docs.vapi.ai/squads/passing-data-between-assistants.mdx): Three approaches for forwarding context to the next assistant in a squad — when to use each, and what each one costs.
+- [Clinic triage with handoff tools](https://docs.vapi.ai/squads/examples/clinic-triage-scheduling-handoff-tool.mdx): Build a multi-assistant clinic experience with specialized assistants for triage, emergency handling, and scheduling using handoff tools.
+- [Clinic triage and scheduling squad](https://docs.vapi.ai/squads/examples/clinic-triage-scheduling.mdx): Build a multi-assistant clinic experience with specialized assistants for triage, emergency handling, and scheduling using Squads.
+- [E‑commerce order management squad](https://docs.vapi.ai/squads/examples/ecommerce-order-management.mdx): Build a multi-assistant experience for order tracking, returns processing, and VIP handling using Squads.
+- [Property management routing squad](https://docs.vapi.ai/squads/examples/property-management.mdx): Build a property management Squad with a router assistant plus maintenance and leasing specialists for accurate transfers.
+- [Multilingual support squad](https://docs.vapi.ai/squads/examples/multilingual-support.mdx): Build a Squad with dedicated English, Spanish, and French assistants and a language selection entrance flow.
+- [Silent Handoffs](https://docs.vapi.ai/squads/silent-handoffs.mdx)
+- [Voice AI Prompting Guide](https://docs.vapi.ai/prompting-guide.mdx): How to write effective prompts for voice AI assistants
+- [Debugging voice agents](https://docs.vapi.ai/debugging.mdx): Learn to identify, diagnose, and fix common issues with your voice assistants and workflows
+- [Enterprise environments (DEV/UAT/PROD)](https://docs.vapi.ai/documentation/best-practices/enterprise-environments-dev-uat-prod.mdx): Promotion and configuration management for assistants and squads
+- [IVR Navigation](https://docs.vapi.ai/ivr-navigation.mdx): How to navigate IVR menu systems effectively
+- [Test Suites](https://docs.vapi.ai/test/test-suites.mdx): End-to-end test automation for AI voice agents
+- [Chat Testing](https://docs.vapi.ai/test/chat-testing.mdx): Automated text-based testing for AI agents
+- [Voice Testing](https://docs.vapi.ai/test/voice-testing.mdx): Automated voice call testing for AI voice agents
+- [Creating Free Phone Numbers](https://docs.vapi.ai/free-telephony.mdx): Creating free phone numbers on the Vapi platform.
+- [Inbound SMS](https://docs.vapi.ai/phone-numbers/inbound-sms.mdx): Let agents auto-start chats from incoming text messages (US only)
+- [Import number from Twilio](https://docs.vapi.ai/phone-numbers/import-twilio.mdx): Import a new or existing number from Twilio
+- [Import number from Telnyx](https://docs.vapi.ai/telnyx.mdx): Import and use your Telnyx numbers with Vapi
+- [SIP introduction](https://docs.vapi.ai/advanced/sip.mdx): Make SIP calls to your Vapi assistant
+- [SIP Trunking](https://docs.vapi.ai/advanced/sip/sip-trunk.mdx): How to integrate your SIP provider with Vapi
+- [SIP networking and firewall configuration](https://docs.vapi.ai/advanced/sip/sip-networking.mdx): Learn to configure your network to allow SIP signalling and media traffic with Vapi
+- [Twilio SIP Integration](https://docs.vapi.ai/advanced/sip/twilio.mdx): How to integrate Twilio SIP with Vapi
+- [Telnyx SIP integration](https://docs.vapi.ai/advanced/sip/telnyx.mdx): How to integrate SIP Telnyx to Vapi
+- [Zadarma SIP Integration](https://docs.vapi.ai/advanced/sip/zadarma.mdx): How to integrate SIP Zadarma to Vapi
+- [Plivo SIP Integration](https://docs.vapi.ai/advanced/sip/plivo.mdx): Learn to connect your Plivo SIP trunk to Vapi for inbound and outbound calls
+- [Amazon Chime SDK SIP Integration](https://docs.vapi.ai/advanced/sip/amazon-chime.mdx): How to integrate Amazon Chime SDK Voice Connector with Vapi
+- [Troubleshoot SIP trunk credential errors](https://docs.vapi.ai/advanced/sip/troubleshoot-sip-trunk-credential-errors.mdx): Learn to resolve gateway creation failures when setting up a BYO SIP trunk
+- [Phone Number Hooks](https://docs.vapi.ai/phone-numbers/phone-number-hooks.mdx)
+- [Phone Calling](https://docs.vapi.ai/phone-calling.mdx): Learn how to create and configure phone numbers with Vapi
+- [Outbound Calling](https://docs.vapi.ai/calls/outbound-calling.mdx): Learn how to send outbound calls from Vapi.
+- [WebSocket Transport](https://docs.vapi.ai/calls/websocket-transport.mdx): Stream audio directly via WebSockets for real-time, bidirectional communication
+- [Live Call Control](https://docs.vapi.ai/calls/call-features.mdx)
+- [Customer Join Timeout](https://docs.vapi.ai/calls/customer-join-timeout.mdx): Set maximum time for users to join web calls before automatic termination
+- [Voicemail Detection](https://docs.vapi.ai/calls/voicemail-detection.mdx)
+- [Call Forwarding](https://docs.vapi.ai/call-forwarding.mdx)
+- [Assistant-based warm transfer](https://docs.vapi.ai/calls/assistant-based-warm-transfer.mdx): Use AI assistants to facilitate call transfers
+- [Dynamic call transfers](https://docs.vapi.ai/calls/call-dynamic-transfers.mdx): Learn how Vapi's dynamic call transfers work and explore implementation patterns for intelligent call routing.
+- [Call Handling with Vapi and Twilio](https://docs.vapi.ai/calls/call-handling-with-vapi-and-twilio.mdx)
+- [Debug call forwarding drops](https://docs.vapi.ai/phone-calling/in-call-control/transfer-calls/debug-forwarding-drops.mdx): Learn to troubleshoot calls that drop immediately after initiating transfer
+- [Call queue management with Twilio](https://docs.vapi.ai/calls/call-queue-management.mdx): Build a call queue system using Twilio to handle large volumes of calls while respecting Vapi concurrency limits, ensuring no calls are dropped.
+- [Understanding Call Concurrency](https://docs.vapi.ai/calls/call-concurrency.mdx): Learn how concurrency slots work, how to stay within the default limit, and how to raise capacity for larger campaigns.
+- [Call ended reasons](https://docs.vapi.ai/calls/call-ended-reason.mdx): All possible call ended reason codes and what they mean.
+- [Troubleshoot call errors](https://docs.vapi.ai/calls/troubleshoot-call-errors.mdx): Learn to diagnose failed calls based on what the caller experienced.
+- [Call analysis](https://docs.vapi.ai/assistants/call-analysis.mdx): Summarize and evaluate calls automatically
+- [Call recording, logging and transcribing](https://docs.vapi.ai/assistants/call-recording.mdx): Learn how to configure artifact plans to record calls, generate transcripts, and store logs for analysis
+- [Outbound campaigns quickstart](https://docs.vapi.ai/outbound-campaigns/quickstart.mdx): Build a simple personalized outbound campaign that conducts post-service feedback and follow-up calls to improve customer experience
+- [Outbound campaigns overview](https://docs.vapi.ai/outbound-campaigns/overview.mdx): Learn how to efficiently schedule calls, manage recipients, analyze performance metrics, and review detailed call logs and transcripts with Vapi's Outbound Call Campaigns
+- [Chat quickstart](https://docs.vapi.ai/chat/quickstart.mdx): Build your first text-based conversation with a Vapi assistant in 5 minutes
+- [Streaming chat](https://docs.vapi.ai/chat/streaming.mdx): Build real-time chat experiences with token-by-token responses like ChatGPT
+- [Non-streaming chat](https://docs.vapi.ai/chat/non-streaming.mdx): Build reliable chat integrations with complete response patterns for batch processing and simple UIs
+- [OpenAI compatibility](https://docs.vapi.ai/chat/openai-compatibility.mdx): Seamlessly migrate existing OpenAI integrations to Vapi with zero code changes
+- [Session management](https://docs.vapi.ai/chat/session-management.mdx): Maintain conversation context using previousChatId vs sessionId
+- [Variable substitution in sessions](https://docs.vapi.ai/chat/variable-substitution.mdx): Learn how template variables behave with sessions and chats
+- [SMS chat](https://docs.vapi.ai/chat/sms-chat.mdx): Enable text-based conversations with assistants via SMS messaging
+- [Web widget](https://docs.vapi.ai/chat/web-widget.mdx): Add AI chat and voice capabilities to any website with a simple embeddable widget
+- [Server URLs](https://docs.vapi.ai/server-url.mdx): Learn how to set up your server to receive and respond to messages from Vapi.
+- [Setting server URLs](https://docs.vapi.ai/server-url/setting-server-urls.mdx): Learn about where you can set server URLs to handle call events.
+- [Server events](https://docs.vapi.ai/server-url/events.mdx): Learn about different events that can be sent to a Server URL.
+- [Spam call rejection](https://docs.vapi.ai/server-url/spam-call-rejection.mdx): Screen inbound calls and reject known spam using your Server URL
+- [Developing locally](https://docs.vapi.ai/server-url/developing-locally.mdx): Learn how to receive server events in your local development environment.
+- [Server authentication](https://docs.vapi.ai/server-url/server-authentication.mdx)
+- [Workflows quickstart](https://docs.vapi.ai/workflows/quickstart.mdx): Build a simple agent that greets users and gathers basic information using Vapi workflows.
+- [Workflows overview](https://docs.vapi.ai/workflows/overview.mdx): Learn to create robust, deterministic conversation flows with a visual builder.
+- [Appointment scheduling workflow](https://docs.vapi.ai/workflows/examples/appointment-scheduling.mdx): Build a voice AI appointment scheduling workflow with calendar integration, availability checking, and automated confirmations using Vapi's workflow builder.
+- [Lead qualification workflow](https://docs.vapi.ai/workflows/examples/lead-qualification.mdx): Build a voice AI outbound sales workflow with lead qualification, CRM integration, and automated follow-up using Vapi's visual workflow builder.
+- [Clinic triage and scheduling workflow](https://docs.vapi.ai/workflows/examples/clinic-triage-scheduling.mdx): Build a voice AI clinic workflow with medical triage protocols, appointment booking, and emergency routing using Vapi's visual workflow builder.
+- [E-commerce order management workflow](https://docs.vapi.ai/workflows/examples/ecommerce-order-management.mdx): Build a voice AI e-commerce workflow with order tracking, return processing, and customer support automation using Vapi's visual workflow builder.
+- [Property management call routing](https://docs.vapi.ai/workflows/examples/property-management.mdx): Build a voice AI property management system with dynamic call routing that determines destinations based on tenant verification, inquiry type analysis, and real-time agent availability using workflow API requests.
+- [Multilingual support workflow](https://docs.vapi.ai/workflows/examples/multilingual-support.mdx): Build a multilingual voice AI customer support workflow with language selection, dedicated conversation nodes, and cultural context using Vapi's workflow builder.
+- [Frequently Asked Questions](https://docs.vapi.ai/faq.mdx): Frequently asked questions about Vapi.
+- [Core Models](https://docs.vapi.ai/quickstart.mdx): Learn about the three core components to Vapi's voice AI pipeline.
+- [Orchestration Models](https://docs.vapi.ai/how-vapi-works.mdx): Learn about the real-time models Vapi runs on top of STT, LLM, and TTS.
+- [Vapi Voices](https://docs.vapi.ai/providers/voice/vapi-voices.mdx): Our curated selection of high-quality voices
+- [Legacy voice migration guide](https://docs.vapi.ai/providers/voice/vapi-voices/legacy-migration.mdx): Legacy Vapi Voices were retired on March 1, 2026. Here's what changed and how to update if needed.
+- [ElevenLabs](https://docs.vapi.ai/providers/voice/elevenlabs.mdx): How Vapi Integrates Text-to-Speech Platforms?
+- [PlayHT](https://docs.vapi.ai/providers/voice/playht.mdx)
+- [Azure](https://docs.vapi.ai/providers/voice/azure.mdx)
+- [OpenAI](https://docs.vapi.ai/providers/voice/openai.mdx)
+- [Cartesia](https://docs.vapi.ai/providers/voice/cartesia.mdx)
+- [LMNT](https://docs.vapi.ai/providers/voice/imnt.mdx)
+- [Minimax](https://docs.vapi.ai/providers/voice/minimax.mdx): Configure Minimax TTS voices and word-level subtitle timing
+- [RimeAI](https://docs.vapi.ai/providers/voice/rimeai.mdx)
+- [Deepgram](https://docs.vapi.ai/providers/voice/deepgram.mdx)
+- [Inworld](https://docs.vapi.ai/providers/voice/inworld.mdx)
+- [OpenAI](https://docs.vapi.ai/providers/model/openai.mdx): What is OpenAI?
+- [Azure OpenAI](https://docs.vapi.ai/providers/model/azure-openai.mdx): Use custom Azure OpenAI instances with your own rate limits and configurations
+- [Anthropic Bedrock](https://docs.vapi.ai/providers/model/anthropic-bedrock.mdx): Use Anthropic Claude models via AWS Bedrock with your own AWS resources
+- [Gemini by Google](https://docs.vapi.ai/providers/model/gemini.mdx): What is Gemini?
+- [Groq](https://docs.vapi.ai/providers/model/groq.mdx): What is Groq?
+- [DeepInfra](https://docs.vapi.ai/providers/model/deepinfra.mdx): DeepInfra is a provider for Vapi.
+- [Perplexity](https://docs.vapi.ai/providers/model/perplexity.mdx): What is Perplexity.ai?
+- [TogetherAI](https://docs.vapi.ai/providers/model/togetherai.mdx): TogetherAI is a provider for Vapi.
+- [OpenRouter](https://docs.vapi.ai/providers/model/openrouter.mdx): What is OpenRouter?
+- [Deepgram](https://docs.vapi.ai/providers/transcriber/deepgram.mdx): What is Deepgram?
+- [Google](https://docs.vapi.ai/providers/transcriber/google.mdx)
+- [Gladia](https://docs.vapi.ai/providers/transcriber/gladia.mdx)
+- [Speechmatics](https://docs.vapi.ai/providers/transcriber/speechmatics.mdx)
+- [Talkscriber](https://docs.vapi.ai/providers/transcriber/talkscriber.mdx): What is Talkscriber?
+- [AssemblyAI](https://docs.vapi.ai/providers/transcriber/assembly-ai.mdx)
+- [AWS S3](https://docs.vapi.ai/providers/cloud/s3.mdx): Store recordings of chat conversations in AWS S3
+- [GCP Cloud Storage](https://docs.vapi.ai/providers/cloud/gcp.mdx): Store recordings of chat conversations in GCP Cloud Storage
+- [Cloudflare R2](https://docs.vapi.ai/providers/cloud/cloudflare.mdx): Store recordings of chat conversations in Cloudflare R2
+- [Supabase S3 Storage](https://docs.vapi.ai/providers/cloud/supabase.mdx): Store recordings of chat conversations in Supabase Storage
+- [Langfuse Integration with Vapi](https://docs.vapi.ai/providers/observability/langfuse.mdx): Integrate Vapi with Langfuse for enhanced voice AI telemetry monitoring, enabling improved performance and reliability of your AI applications.
+- [Voiceflow](https://docs.vapi.ai/providers/voiceflow.mdx): Vapi x Voiceflow
+- [ChatDash Integration with Vapi](https://docs.vapi.ai/providers/chat-dash.mdx): ChatDash is a white-label dashboard platform that integrates with Vapi to provide analytics, call logs, and Stripe billing for AI agent agencies.
+- [Vapify Integration with Vapi](https://docs.vapi.ai/providers/vapify.mdx): Vapify is a white-label dashboard for Vapi. It helps you turn your agency into a voice AI powerhouse—without writing a single line of code.
+- [Voicerr AI - Whitelabel AI Voice Agents](https://docs.vapi.ai/providers/voicerr-ai.mdx): Voicerr AI is a Vapi-powered voice platform that lets agencies brand dashboards, automate billing, launch campaigns, and run full call-center operations at unlimited scale.
+- [VoiceAIWrapper Integration with Vapi](https://docs.vapi.ai/providers/voiceaiwrapper.mdx): White-Label Vapi Integration | Launch Your Voice AI Agency in 30 Minutes
+- [Sympana Connector](https://docs.vapi.ai/providers/sympana-connector.mdx): Native GoHighLevel automation for Vapi agents
+- [Support](https://docs.vapi.ai/support.mdx): We are open to all kinds of help inquiry, feedback and feature request, help inquiry.
+- [How to Report Issues Effectively](https://docs.vapi.ai/issue-reporting.mdx): Learn how to structure your issue reports for fast and accurate resolution
+- [Vapi Enterprise](https://docs.vapi.ai/enterprise/plans.mdx): Build and scale with Vapi.
+- [Definitions](https://docs.vapi.ai/glossary.mdx): Useful terms and definitions for Vapi & voice AI applications.
+- [RSS Feed](https://docs.vapi.ai/rss-feed.mdx): Stay updated with the latest incidents from Vapi or third party providers
+- [Data Flow](https://docs.vapi.ai/security-and-privacy/data-flow.mdx): Understand how data flows through Vapi when using custom storage and custom models
+- [JWT Authentication](https://docs.vapi.ai/customization/jwt-authentication.mdx): Secure API authentication guide
+- [Recording consent plan](https://docs.vapi.ai/security-and-privacy/recording-consent-plan.mdx): Learn how to configure recording consent plans to ensure compliance with privacy laws and regulations
+- [GDPR Compliance](https://docs.vapi.ai/security-and-privacy/GDPR.mdx): Learn how Vapi ensures GDPR compliance for its voice assistant platform.
+- [HIPAA Compliance](https://docs.vapi.ai/security-and-privacy/hipaa.mdx): Learn how to ensure privacy when using Vapi's voice assistant platform.
+- [Retrieve call artifacts](https://docs.vapi.ai/security-and-privacy/retrieve-call-artifacts.mdx): Download recordings and call logs from Vapi's private storage using authenticated, short-lived URLs.
+- [PCI Compliance](https://docs.vapi.ai/security-and-privacy/pci.mdx): Ensure secure payment data handling while using Vapi’s voice assistant platform.
+- [Proxy server guide](https://docs.vapi.ai/security-and-privacy/proxy-server.mdx): Keep assistant configs and API keys on your backend. Route Web SDK calls through your proxy.
+- [Static IP addresses](https://docs.vapi.ai/security-and-privacy/static-ip-addresses.mdx): Whitelist Vapi IP addresses
+- [TCPA Consent Guide](https://docs.vapi.ai/tcpa-consent.mdx): Understanding consent requirements for outbound calls using Vapi's voice agent service.
+- [Model Context Protocol (MCP) Integration](https://docs.vapi.ai/tools/mcp.mdx): Connect your assistant to dynamic tools through MCP servers for enhanced capabilities.
+- [Vapi MCP Server](https://docs.vapi.ai/sdk/mcp-server.mdx): Connect Vapi to AI assistants with Model Context Protocol (MCP)
+- [Ecosystem](https://docs.vapi.ai/resources.mdx): Find all of our resources here.
+- [Project integration](https://docs.vapi.ai/cli/init.mdx): Initialize Vapi in your existing projects with intelligent auto-detection
+- [MCP integration](https://docs.vapi.ai/cli/mcp.mdx): Turn your IDE into a Vapi expert with Model Context Protocol
+- [Local webhook testing](https://docs.vapi.ai/cli/webhook.mdx): Forward webhooks to your local development server with vapi listen
+- [Authentication management](https://docs.vapi.ai/cli/auth.mdx): Manage multiple Vapi accounts and environments with the CLI
+- [What's New?](https://docs.vapi.ai/whats-new.mdx)
+
+## API Docs
+
+- API reference > Assistants [List Assistants](https://docs.vapi.ai/api-reference/assistants/list.mdx)
+- API reference > Assistants [Create Assistant](https://docs.vapi.ai/api-reference/assistants/create.mdx)
+- API reference > Assistants [Get Assistant](https://docs.vapi.ai/api-reference/assistants/get.mdx)
+- API reference > Assistants [Delete Assistant](https://docs.vapi.ai/api-reference/assistants/delete.mdx)
+- API reference > Assistants [Update Assistant](https://docs.vapi.ai/api-reference/assistants/update.mdx)
+- API reference > Squads [List Squads](https://docs.vapi.ai/api-reference/squads/list.mdx)
+- API reference > Squads [Create Squad](https://docs.vapi.ai/api-reference/squads/create.mdx)
+- API reference > Squads [Get Squad](https://docs.vapi.ai/api-reference/squads/get.mdx)
+- API reference > Squads [Delete Squad](https://docs.vapi.ai/api-reference/squads/delete.mdx)
+- API reference > Squads [Update Squad](https://docs.vapi.ai/api-reference/squads/update.mdx)
+- API reference > Calls [List Calls](https://docs.vapi.ai/api-reference/calls/list.mdx)
+- API reference > Calls [Create Call](https://docs.vapi.ai/api-reference/calls/create.mdx)
+- API reference > Calls [Get Call](https://docs.vapi.ai/api-reference/calls/get.mdx)
+- API reference > Calls [Delete Call](https://docs.vapi.ai/api-reference/calls/delete.mdx)
+- API reference > Calls [Update Call](https://docs.vapi.ai/api-reference/calls/update.mdx)
+- API reference > Chats [List Chats](https://docs.vapi.ai/api-reference/chats/list.mdx)
+- API reference > Chats [Create Chat](https://docs.vapi.ai/api-reference/chats/create.mdx)
+- API reference > Chats [Get Chat](https://docs.vapi.ai/api-reference/chats/get.mdx)
+- API reference > Chats [Delete Chat](https://docs.vapi.ai/api-reference/chats/delete.mdx)
+- API reference > Chats [Create Chat (OpenAI Compatible)](https://docs.vapi.ai/api-reference/chats/create-response.mdx)
+- API reference > Campaigns [List Campaigns](https://docs.vapi.ai/api-reference/campaigns/campaign-controller-find-all.mdx)
+- API reference > Campaigns [Create Campaign](https://docs.vapi.ai/api-reference/campaigns/campaign-controller-create.mdx)
+- API reference > Campaigns [Get Campaign](https://docs.vapi.ai/api-reference/campaigns/campaign-controller-find-one.mdx)
+- API reference > Campaigns [Delete Campaign](https://docs.vapi.ai/api-reference/campaigns/campaign-controller-remove.mdx)
+- API reference > Campaigns [Update Campaign](https://docs.vapi.ai/api-reference/campaigns/campaign-controller-update.mdx)
+- API reference > Sessions [List Sessions](https://docs.vapi.ai/api-reference/sessions/list.mdx)
+- API reference > Sessions [Create Session](https://docs.vapi.ai/api-reference/sessions/create.mdx)
+- API reference > Sessions [Get Session](https://docs.vapi.ai/api-reference/sessions/get.mdx)
+- API reference > Sessions [Delete Session](https://docs.vapi.ai/api-reference/sessions/delete.mdx)
+- API reference > Sessions [Update Session](https://docs.vapi.ai/api-reference/sessions/update.mdx)
+- API reference > Phone Numbers [List Phone Numbers](https://docs.vapi.ai/api-reference/phone-numbers/list.mdx)
+- API reference > Phone Numbers [Create Phone Number](https://docs.vapi.ai/api-reference/phone-numbers/create.mdx)
+- API reference > Phone Numbers [Get Phone Number](https://docs.vapi.ai/api-reference/phone-numbers/get.mdx)
+- API reference > Phone Numbers [Delete Phone Number](https://docs.vapi.ai/api-reference/phone-numbers/delete.mdx)
+- API reference > Phone Numbers [Update Phone Number](https://docs.vapi.ai/api-reference/phone-numbers/update.mdx)
+- API reference > Tools [List Tools](https://docs.vapi.ai/api-reference/tools/list.mdx)
+- API reference > Tools [Create Tool](https://docs.vapi.ai/api-reference/tools/create.mdx)
+- API reference > Tools [Get Tool](https://docs.vapi.ai/api-reference/tools/get.mdx)
+- API reference > Tools [Delete Tool](https://docs.vapi.ai/api-reference/tools/delete.mdx)
+- API reference > Tools [Update Tool](https://docs.vapi.ai/api-reference/tools/update.mdx)
+- API reference > Files [List Files](https://docs.vapi.ai/api-reference/files/list.mdx)
+- API reference > Files [Upload File](https://docs.vapi.ai/api-reference/files/create.mdx)
+- API reference > Files [Get File](https://docs.vapi.ai/api-reference/files/get.mdx)
+- API reference > Files [Delete File](https://docs.vapi.ai/api-reference/files/delete.mdx)
+- API reference > Files [Update File](https://docs.vapi.ai/api-reference/files/update.mdx)
+- API reference > Structured Outputs [List Structured Outputs](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-find-all.mdx)
+- API reference > Structured Outputs [Create Structured Output](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-create.mdx)
+- API reference > Structured Outputs [Get Structured Output](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-find-one.mdx)
+- API reference > Structured Outputs [Delete Structured Output](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-remove.mdx)
+- API reference > Structured Outputs [Update Structured Output](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-update.mdx)
+- API reference > Structured Outputs [Run Structured Output](https://docs.vapi.ai/api-reference/structured-outputs/structured-output-controller-run.mdx)
+- API reference > Insight [Get Insights](https://docs.vapi.ai/api-reference/insight/insight-controller-find-all.mdx)
+- API reference > Insight [Create Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-create.mdx)
+- API reference > Insight [Get Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-find-one.mdx)
+- API reference > Insight [Delete Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-remove.mdx)
+- API reference > Insight [Update Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-update.mdx)
+- API reference > Insight [Run Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-run.mdx)
+- API reference > Insight [Preview Insight](https://docs.vapi.ai/api-reference/insight/insight-controller-preview.mdx)
+- API reference > Eval [List Evals](https://docs.vapi.ai/api-reference/eval/eval-controller-get-paginated.mdx)
+- API reference > Eval [Create Eval](https://docs.vapi.ai/api-reference/eval/eval-controller-create.mdx)
+- API reference > Eval [Get Eval](https://docs.vapi.ai/api-reference/eval/eval-controller-get.mdx)
+- API reference > Eval [Delete Eval](https://docs.vapi.ai/api-reference/eval/eval-controller-remove.mdx)
+- API reference > Eval [Update Eval](https://docs.vapi.ai/api-reference/eval/eval-controller-update.mdx)
+- API reference > Eval [Get Eval Run](https://docs.vapi.ai/api-reference/eval/eval-controller-get-run.mdx)
+- API reference > Eval [Delete Eval Run](https://docs.vapi.ai/api-reference/eval/eval-controller-remove-run.mdx)
+- API reference > Eval [List Eval Runs](https://docs.vapi.ai/api-reference/eval/eval-controller-get-runs-paginated.mdx)
+- API reference > Eval [Create Eval Run](https://docs.vapi.ai/api-reference/eval/eval-controller-run.mdx)
+- API reference > Observability Scorecard [Get Scorecard](https://docs.vapi.ai/api-reference/observability-scorecard/scorecard-controller-get.mdx)
+- API reference > Observability Scorecard [Delete Scorecard](https://docs.vapi.ai/api-reference/observability-scorecard/scorecard-controller-remove.mdx)
+- API reference > Observability Scorecard [Update Scorecard](https://docs.vapi.ai/api-reference/observability-scorecard/scorecard-controller-update.mdx)
+- API reference > Observability Scorecard [List Scorecards](https://docs.vapi.ai/api-reference/observability-scorecard/scorecard-controller-get-paginated.mdx)
+- API reference > Observability Scorecard [Create Scorecard](https://docs.vapi.ai/api-reference/observability-scorecard/scorecard-controller-create.mdx)
+- API reference > Provider Resources [List Provider Resources](https://docs.vapi.ai/api-reference/provider-resources/provider-resource-controller-get-provider-resources-paginated.mdx)
+- API reference > Provider Resources [Create Provider Resource](https://docs.vapi.ai/api-reference/provider-resources/provider-resource-controller-create-provider-resource.mdx)
+- API reference > Provider Resources [Get Provider Resource](https://docs.vapi.ai/api-reference/provider-resources/provider-resource-controller-get-provider-resource.mdx)
+- API reference > Provider Resources [Delete Provider Resource](https://docs.vapi.ai/api-reference/provider-resources/provider-resource-controller-delete-provider-resource.mdx)
+- API reference > Provider Resources [Update Provider Resource](https://docs.vapi.ai/api-reference/provider-resources/provider-resource-controller-update-provider-resource.mdx)
+- API reference > Analytics [Create Analytics Queries](https://docs.vapi.ai/api-reference/analytics/get.mdx)
+- Webhooks [Server Message](https://docs.vapi.ai/api-reference/webhooks/server-message.mdx)
+- Webhooks [Client Message](https://docs.vapi.ai/api-reference/webhooks/client-message.mdx)
+
+## OpenAPI Specification
+
+The raw OpenAPI 3.1 specification for this API is available at:
+- [OpenAPI JSON](https://docs.vapi.ai/openapi.json)
+- [OpenAPI YAML](https://docs.vapi.ai/openapi.yaml)

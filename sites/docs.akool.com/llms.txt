@@ -1,0 +1,87 @@
+# Akool open api documents
+
+## Docs
+
+- [AI Model](https://docs.akool.com/ai-tools-suite/aimodel.md): Get available AI models for different generation tasks including text-to-image, image-to-video, and more.
+- [Character Swap API Overview](https://docs.akool.com/ai-tools-suite/character-swap/character-swap.md): Comprehensive guide to the Character Swap API
+- [Create Character Swap](https://docs.akool.com/ai-tools-suite/character-swap/create.md): Create animated video from character image and source video using WaveSpeed AI's advanced animation models
+- [Get Video Info Result](https://docs.akool.com/ai-tools-suite/character-swap/get-result.md): Retrieve character swap video results by ID
+- [ErrorCode](https://docs.akool.com/ai-tools-suite/error-code.md): Error codes and meanings
+- [Face Detection API Overview](https://docs.akool.com/ai-tools-suite/face-detection.md): Comprehensive guide to the Face Detection API
+- [Analyze Frames](https://docs.akool.com/ai-tools-suite/face-detection/analyze-frames.md): Face analysis for single or multiple images with automatic person deduplication
+- [Detect Faces](https://docs.akool.com/ai-tools-suite/face-detection/detect-faces.md): Unified endpoint to detect faces in either video or image from URL or base64-encoded image
+- [Face Swap API Overview](https://docs.akool.com/ai-tools-suite/faceswap.md): Comprehensive guide to the Face Swap API
+- [Delete Faceswap Results](https://docs.akool.com/ai-tools-suite/faceswap/delete-result.md): Delete faceswap results by IDs
+- [Face Detect (Legacy)](https://docs.akool.com/ai-tools-suite/faceswap/face-detect.md): Detect faces in images and get landmark information
+- [Face Swap Plus (Image & Video)](https://docs.akool.com/ai-tools-suite/faceswap/faceswap-plus.md): Multi-face swap for images and videos
+- [Get User Credit Info](https://docs.akool.com/ai-tools-suite/faceswap/get-credit.md): Get faceswap user credit information
+- [Get Faceswap Result List](https://docs.akool.com/ai-tools-suite/faceswap/get-result.md): Get faceswap results by IDs
+- [Image Faceswap](https://docs.akool.com/ai-tools-suite/faceswap/image-faceswap.md): Swap faces in images with high quality
+- [Face Swap Pro](https://docs.akool.com/ai-tools-suite/faceswap/image-faceswap-v4.md): Highest quality face swap for images
+- [Video Faceswap](https://docs.akool.com/ai-tools-suite/faceswap/video-faceswap.md): Swap faces in videos with high quality
+- [Create Head Swap Task](https://docs.akool.com/ai-tools-suite/head-swap/create.md): Create a head-swap video generation task using the same video_url as analysis and obj_id to reference-face mappings.
+- [Get Analysis Result (Head Swap)](https://docs.akool.com/ai-tools-suite/head-swap/get-analysis-detail.md): Poll head-swap person analysis status and read detected people (obj_id, preview URLs, optional video_info).
+- [Get Head Swap Task Detail](https://docs.akool.com/ai-tools-suite/head-swap/get-result.md): Poll head-swap generation task status, progress, and output video URL by task _id.
+- [Head Swap API Overview](https://docs.akool.com/ai-tools-suite/head-swap/head-swap.md): Guide to the Head Swap Open API: detect people in a source video, then create head-swap generation tasks.
+- [Submit Person Analysis (Head Swap)](https://docs.akool.com/ai-tools-suite/head-swap/submit-analysis.md): Submit a head-swap scene analysis job to detect people in a source video and obtain obj_id values for mapping.
+- [Generate 4K or Variations](https://docs.akool.com/ai-tools-suite/image-generate/create-by-button.md): Upscale images to 4K or generate variations from existing image generation results
+- [Text to Image / Image to Image](https://docs.akool.com/ai-tools-suite/image-generate/create-by-prompt.md): Create images from text prompts or transform existing images with AI-powered generation
+- [Get Image Result](https://docs.akool.com/ai-tools-suite/image-generate/get-result.md): Retrieve image generation results by ID
+- [Image Generate API Overview](https://docs.akool.com/ai-tools-suite/image-generate/image-generate.md): Comprehensive guide to the Image Generate API
+- [Create Batch Image to Video](https://docs.akool.com/ai-tools-suite/image2video/create-batch.md): Create multiple videos from images in a single request with AI-powered animation
+- [Create Image to Video](https://docs.akool.com/ai-tools-suite/image2video/create-video.md): Transform a static image into a dynamic video with AI-powered animation, effects, and audio
+- [Delete Videos](https://docs.akool.com/ai-tools-suite/image2video/delete-videos.md): Delete generated Image to Video results by IDs
+- [Get Available Effects](https://docs.akool.com/ai-tools-suite/image2video/get-effects.md): List all available video effects for Image to Video
+- [Get Image to Video Results](https://docs.akool.com/ai-tools-suite/image2video/get-results.md): Retrieve image to video generation results by IDs
+- [Image to Video API Overview](https://docs.akool.com/ai-tools-suite/image2video/image2video.md): Comprehensive guide to the Image to Video API
+- [Update Video Audio](https://docs.akool.com/ai-tools-suite/image2video/update-audio.md): Add or replace audio on a generated Image to Video result
+- [Jarvis Moderator](https://docs.akool.com/ai-tools-suite/jarvis-moderator.md)
+- [Knowledge Base](https://docs.akool.com/ai-tools-suite/knowledge-base.md): Create and manage knowledge bases with documents and URLs to enhance Streaming Avatar AI responses, providing contextual information for more accurate and relevant interactions
+- [LipSync](https://docs.akool.com/ai-tools-suite/lip-sync.md)
+- [Streaming Avatar API Overview](https://docs.akool.com/ai-tools-suite/live-avatar.md): Comprehensive guide to the Streaming Avatar API
+- [Close Session](https://docs.akool.com/ai-tools-suite/live-avatar/close-session.md): Close an active streaming avatar session
+- [Create Session](https://docs.akool.com/ai-tools-suite/live-avatar/create-session.md): Create a new streaming avatar session
+- [Get Streaming Avatar Detail](https://docs.akool.com/ai-tools-suite/live-avatar/detail.md): Retrieve detailed information about a specific streaming avatar
+- [Get Streaming Avatar List](https://docs.akool.com/ai-tools-suite/live-avatar/list.md): Retrieve a list of all streaming avatars
+- [Get Session List](https://docs.akool.com/ai-tools-suite/live-avatar/list-sessions.md): Retrieve a list of all streaming avatar sessions
+- [Get Session Detail](https://docs.akool.com/ai-tools-suite/live-avatar/session-detail.md): Retrieve detailed information about a specific streaming avatar session
+- [Upload Streaming Avatar](https://docs.akool.com/ai-tools-suite/live-avatar/upload.md): Create a new streaming avatar from a video URL
+- [Vision Sense](https://docs.akool.com/ai-tools-suite/live-camera.md)
+- [Live Face Swap](https://docs.akool.com/ai-tools-suite/live-faceswap.md): Real-time Face Swap API Documentation
+- [Reage](https://docs.akool.com/ai-tools-suite/reage.md)
+- [Talking Avatar](https://docs.akool.com/ai-tools-suite/talking-avatar.md): Talking Avatar API documentation
+- [Talking Photo API Overview](https://docs.akool.com/ai-tools-suite/talking-photo.md): Comprehensive guide to the Talking Photo API
+- [Create By Talking Photo](https://docs.akool.com/ai-tools-suite/talking-photo/create-video.md): Create animated video from photo and audio
+- [Get Video Info Result](https://docs.akool.com/ai-tools-suite/talking-photo/get-result.md): Retrieve talking photo video results by ID
+- [Video Translation API Overview](https://docs.akool.com/ai-tools-suite/video-translation.md): Comprehensive guide to the Video Translation API for multilingual video content
+- [Create Video Translation](https://docs.akool.com/ai-tools-suite/video-translation/create-translation.md): Translate videos into multiple languages with AI voices and lip-sync
+- [Get Language List](https://docs.akool.com/ai-tools-suite/video-translation/get-languages.md): Retrieve supported languages for video translation
+- [Get Video Translation Result](https://docs.akool.com/ai-tools-suite/video-translation/get-result.md): Check the status and retrieve results of video translation jobs
+- [VoiceLab](https://docs.akool.com/ai-tools-suite/voiceLab.md): VoiceLab API documentation
+- [Webhook](https://docs.akool.com/ai-tools-suite/webhook.md)
+- [Usage](https://docs.akool.com/authentication/usage.md)
+- [Change Logs](https://docs.akool.com/changelog.md): API release notes and version history
+- [CLI](https://docs.akool.com/cli.md): Create AI-powered media from the terminal. Drive AKOOL with code, not clicks.
+- [LiveKit Agent Integration](https://docs.akool.com/implementation-guide/livekit-agent.md): Set up and run a LiveKit Agent server for Streaming Avatar integration
+- [Streaming Avatar Integration Guide](https://docs.akool.com/implementation-guide/streaming-avatar.md): Learn how to integrate streaming avatars using Agora, LiveKit, or TRTC SDK
+- [Akool AI Tools Suite Documentation](https://docs.akool.com/index.md): Comprehensive documentation for Akool AI tools including face swap, voice lab, video translation, and more.
+- [MCP](https://docs.akool.com/mcp.md): Connect AKOOL AI capabilities to Claude, Cursor, Codex, and any MCP-compatible client.
+- [Streaming Avatar SDK API Reference](https://docs.akool.com/sdk/jssdk-api.md): Complete API documentation for akool-streaming-avatar-sdk
+- [Streaming Avatar SDK Best Practices](https://docs.akool.com/sdk/jssdk-best-practice.md): Learn how to implement the Akool Streaming Avatar SDK securely and efficiently
+- [Streaming Avatar SDK Quick Start](https://docs.akool.com/sdk/jssdk-start.md): Learn what is the Streaming Avatar SDK
+
+## OpenAPI Specs
+
+- [talking-photo](https://docs.akool.com/openapi/talking-photo.yaml)
+- [video-translation](https://docs.akool.com/openapi/video-translation.yaml)
+- [faceswap](https://docs.akool.com/openapi/faceswap.yaml)
+- [live-avatar](https://docs.akool.com/openapi/live-avatar.yaml)
+- [face-detection](https://docs.akool.com/openapi/face-detection.yaml)
+- [face-detect-legacy](https://docs.akool.com/openapi/face-detect-legacy.yaml)
+- [openapi](https://docs.akool.com/api-reference/openapi.json)
+
+## Optional
+
+- [Github](https://github.com/AKOOL-Official)
+- [Postman](https://www.postman.com/akoolai/team-workspace/collection/40971792-f9172546-2d7e-4b28-bb20-b86988f3ab1d?action=share&creator=40971792)
+- [Blog](https://akool.com/blog)

@@ -1,0 +1,50 @@
+# OmniAI Docs
+
+## Docs
+
+- [Admin Emails](https://docs.getomni.ai/ai-agent/admin-emails.md)
+- [Autopilot](https://docs.getomni.ai/ai-agent/autopilot.md)
+- [Checklist](https://docs.getomni.ai/ai-agent/checklist.md)
+- [Conversation](https://docs.getomni.ai/ai-agent/conversation.md)
+- [Email Setup](https://docs.getomni.ai/ai-agent/email-setup.md)
+- [Fine-tuning](https://docs.getomni.ai/ai-agent/fine-tuning.md)
+- [Agent Settings](https://docs.getomni.ai/ai-agent/settings.md)
+- [SMS Setup](https://docs.getomni.ai/ai-agent/sms-setup.md)
+- [Agent Tools](https://docs.getomni.ai/ai-agent/tools.md)
+- [Get Analytics](https://docs.getomni.ai/api-reference/analytics/get-analytics.md): Fetch aggregate totals and per-lead analytics for your workspace
+- [Get Document](https://docs.getomni.ai/api-reference/documents/get-document.md): Fetch a single document by ID
+- [Upload Documents](https://docs.getomni.ai/api-reference/documents/upload-document.md): Upload one or more documents for a lead. Uses the same pipeline as the in-app Document Vault: S3 storage, action logs, Mastra memory, and document workflow.
+- [API Introduction](https://docs.getomni.ai/api-reference/introduction.md): Introduction to the OmniAI API
+- [Create Activity](https://docs.getomni.ai/api-reference/leads/create-activity.md): Push a structured activity event to the action log for a lead
+- [Create Lead](https://docs.getomni.ai/api-reference/leads/create-lead.md): Create a new lead with optional checklist item updates
+- [Create Lead Checklist Item](https://docs.getomni.ai/api-reference/leads/create-lead-checklist-item.md): Add a one-off checklist requirement to a single lead
+- [Get Lead](https://docs.getomni.ai/api-reference/leads/get-lead.md): Retrieve a single lead with all associated data
+- [Get Lead Action Logs](https://docs.getomni.ai/api-reference/leads/get-lead-action-logs.md): Fetch all action logs (activity history) for a specific lead
+- [Get Lead Checklist](https://docs.getomni.ai/api-reference/leads/get-lead-checklist.md): Fetch the checklist for a specific lead
+- [Get Lead Documents](https://docs.getomni.ai/api-reference/leads/get-lead-documents.md): Fetch all documents associated with a specific lead
+- [List Leads](https://docs.getomni.ai/api-reference/leads/list-leads.md): Fetch all leads in your workspace
+- [Update Lead](https://docs.getomni.ai/api-reference/leads/update-lead.md): Update an existing lead with optional checklist item updates
+- [Create Webhook](https://docs.getomni.ai/api-reference/webhooks/create-webhook.md): Create a new webhook for receiving real-time event notifications
+- [action_log.completed](https://docs.getomni.ai/api-reference/webhooks/events/action-log-completed.md)
+- [action_log.failed](https://docs.getomni.ai/api-reference/webhooks/events/action-log-failed.md)
+- [document.extracted](https://docs.getomni.ai/api-reference/webhooks/events/document-extracted.md)
+- [document.received](https://docs.getomni.ai/api-reference/webhooks/events/document-received.md)
+- [lead.completed](https://docs.getomni.ai/api-reference/webhooks/events/lead-completed.md)
+- [lead.created](https://docs.getomni.ai/api-reference/webhooks/events/lead-created.md)
+- [lead.updated](https://docs.getomni.ai/api-reference/webhooks/events/lead-updated.md)
+- [List Webhooks](https://docs.getomni.ai/api-reference/webhooks/list-webhooks.md): Fetch all webhooks configured for your workspace
+- [Webhook Events](https://docs.getomni.ai/api-reference/webhooks/webhook-events.md)
+- [Week of April 14, 2026](https://docs.getomni.ai/changelog/2026-04-14.md)
+- [Week of April 27, 2026](https://docs.getomni.ai/changelog/2026-04-27.md)
+- [Week of May 4, 2026](https://docs.getomni.ai/changelog/2026-05-04.md)
+- [Week of May 18, 2026](https://docs.getomni.ai/changelog/2026-05-18.md)
+- [Domain Configuration](https://docs.getomni.ai/domain-configuration.md)
+- [Introduction](https://docs.getomni.ai/introduction.md)
+- [Document Vault](https://docs.getomni.ai/leads/document-vault.md)
+- [Lead Imports](https://docs.getomni.ai/leads/imports.md)
+- [Timeline](https://docs.getomni.ai/leads/timeline.md)
+- [Portal Domain](https://docs.getomni.ai/portals/domain-configuration.md)
+- [White-Label Applicant Portal](https://docs.getomni.ai/portals/white-label-portal.md)
+- [Document Collection](https://docs.getomni.ai/use-cases/document-collection-email.md)
+- [Dropoff Follow-up](https://docs.getomni.ai/use-cases/dropoff-follow-up.md)
+- [Webhooks](https://docs.getomni.ai/webhooks.md)

@@ -1,0 +1,31 @@
+# Guma - Wellness Programs Platform
+
+> Guma is a wellness platform connecting people with qualified practitioners through personalized programs.
+
+## Available Languages & Countries
+
+### France (French)
+- Main file: https://www.gu.ma/fr/llms.txt
+- Full catalog: https://www.gu.ma/fr/llms-full.txt
+- API: https://www.gu.ma/api/public/fr/programmes
+- Needs pages: https://www.gu.ma/fr/besoin/
+
+### Other countries (coming soon)
+- English version: Coming soon
+- German version: Coming soon
+- Spanish version: Coming soon
+
+---
+
+## Quick Links
+
+- Website: https://www.gu.ma
+- Program generator: https://www.gu.ma/generer
+
+---
+
+## About Guma
+
+Guma offers complete wellness programs combining multiple complementary practitioners for lasting transformation. Programs typically last 6-12 weeks and include 10-15 sessions.
+
+For French-speaking users in France, please refer to the French version: https://www.gu.ma/fr/llms.txt

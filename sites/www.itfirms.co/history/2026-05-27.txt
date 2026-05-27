@@ -1,0 +1,57 @@
+# ITFirms.co
+
+## About ITFirms
+ITFirms.co is an independent IT services research and listing platform that curates and ranks technology service providers worldwide.
+
+Website: https://www.itfirms.co
+Industry: IT Services Research & Company Listings
+Focus: Curated lists of IT service providers across technologies and regions
+
+## Purpose
+ITFirms.co helps startups, SMEs, enterprises, and investors discover reliable IT service providers by offering structured, research-based company listings.
+
+## Categories Covered
+- Mobile App Development
+- Web Development
+- AI & Machine Learning Development
+- Blockchain Development
+- Cloud & DevOps Services
+- Software Development
+- UI/UX Design
+- E-commerce Development
+- Digital Marketing Services
+- App Creators
+
+## Software Covered
+- Project Management Software and Tools
+- Game Making Software & Development Tools 
+- Game Making Software & Development Tools
+- CRM Software, Customer Relationship Management Software
+- App Development Software
+- Learning Management Systems (LMS) Software
+
+## Geographic Coverage
+Listings are categorized by country, region, and city including USA, India, UAE, UK, Canada, Australia, Europe, Middle East and Asia-Pacific.
+
+## Methodology
+Companies are evaluated based on:
+- Core expertise and service offerings
+- Industry experience
+- Portfolio strength
+- Market presence
+- Technology capabilities
+- Editorial review process
+
+Rankings are curated and not randomly generated.
+
+## Audience
+- Startup founders
+- Growing businesses (SMEs)
+- Enterprise decision-makers
+- Technology investors
+
+## Contact
+Website: https://www.itfirms.co
+
+## Last Update Completed
+Date: Today

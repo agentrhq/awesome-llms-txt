@@ -1,0 +1,1071 @@
+# Parseable Documentation
+
+This document contains [Parseable's official documentation and guides](https://www.parseable.com/docs) in a single-file easy-to-search form.
+If you find any issues, please report them [as a GitHub issue](https://github.com/parseablehq/parseable/issues).
+Contributions are very welcome in the form of [pull requests](https://github.com/parseablehq/parseable/pulls).
+If you are considering submitting a contribution to the documentation, please consult our [contributor guide](https://github.com/parseablehq/parseable/blob/main/CONTRIBUTING.md).
+
+Code repositories:
+
+* Parseable source code: [github.com/parseablehq/parseable](https://github.com/parseablehq/parseable)
+
+This content is designed to be easily copied and provided to Large Language Models (LLMs) for summarization and analysis. Use the copy button on the Parseable LLM Text page to easily transfer this content to your favorite AI assistant.
+
+Title: What is Parseable
+
+URL Source: https://www.parseable.com/docs/introduction
+
+Markdown Content:
+Parseable is a modern, unified observability platform designed for SRE and DevOps teams to construct observability pipelines for large-scale production systems. The platform ingests, processes, stores, and queries telemetry data — logs, metrics, and traces — from applications, infrastructure, and services. It includes built-in support for predictive alerting and anomaly detection so teams can identify and resolve issues proactively.
+
+Built on a purpose-built telemetry data lake and written in Rust, Parseable leverages advanced compression and caching techniques to deliver strong performance and scalability characteristics.
+
+### Key Differentiators
+
+*   **Resource Efficient**: Up to 70% less CPU than traditional Java-based solutions like Elasticsearch under similar workloads.
+*   **High Compression**: Up to 90% compression for telemetry data using Apache Parquet.
+*   **Fast Queries**: Rust-based design with modern query techniques and intelligent caching on SSD/NVMe and memory.
+*   **Object Storage First**: S3, GCS, Azure Blob, MinIO — the only required dependency.
+*   **OpenTelemetry Native**: Direct support for ingesting OpenTelemetry logs, metrics, and traces with zero configuration.
+*   **AI Native**: Natural-language Q&A (Keystone), dataset summarization, anomaly detection, and Text-to-SQL out of the box.
+*   **Deploy Anywhere**: Public/private cloud, containers, VMs, or bare metal — with complete data ownership and privacy.
+*   **Single Binary**: Built-in Prism UI, no external dependencies, deployable in minutes.
+
+Title: Quickstart
+
+URL Source: https://www.parseable.com/docs/get-started
+
+Markdown Content:
+Three ways to get started with Parseable:
+
+### 1. Cloud Pro (recommended)
+
+Sign up for [Parseable Cloud Pro](https://www.parseable.com/) — free 14-day trial, no credit card required.
+
+### 2. Local Docker
+
+Run Parseable locally in standalone mode using local disk as storage:
+
+```
+docker run -p 8000:8000 \
+  parseable/parseable:edge \
+  parseable local-store
+```
+
+Open `http://localhost:8000` and log in with `admin` / `admin`. On first login, click **Import sample data** to populate the instance with example dashboards and queries.
+
+### 3. Self-Hosted Production
+
+For production deployments, follow the [self-hosted installation guide](https://www.parseable.com/docs/self-hosted/installation) to deploy a distributed cluster on Kubernetes, Docker Compose, VMs, or bare metal — backed by S3, GCS, Azure Blob, or MinIO.
+
+Title: Architecture
+
+URL Source: https://www.parseable.com/docs/architecture
+
+Markdown Content:
+Parseable ships as a single, unified binary (or container image) that includes the Prism UI and Parseable DB. There is no additional dependency to run Parseable other than an object store for production workloads.
+
+The binary runs in two modes:
+
+*   **Standalone**: For testing and small environments. Uses the local disk as storage when run with `local-store`.
+*   **Distributed**: For production. Each node has a specific role — `ingestion`, `query`, `indexer`, or `prism` (leader).
+
+### Ingestion
+
+Ingestion nodes use a shared-nothing architecture, each independently capable of running the full pipeline end-to-end. In production, a load balancer fronts two or more ingestion nodes.
+
+When a node receives an ingestion request:
+
+1.  The request is validated and the HTTP/Kafka payload is converted to Apache Arrow.
+2.  Schema is auto-detected for intelligent log classification.
+3.  The Arrow file is written to a dedicated staging directory (`$PWD/staging` by default).
+4.  A background job converts staged Arrow files into compressed Parquet and uploads to the configured object store, generating manifest metadata in the process.
+
+A small, reliable disk (NFS, EBS, EFS, Azure Files, or similar) is recommended for staging to protect against disk failures.
+
+### Query
+
+The Query node primarily responds to the query API and acts as the leader for the cluster. The query workflow:
+
+1.  Client calls the Query API with a PostgreSQL-compatible SQL query and a `start`/`end` timestamp.
+2.  The query node looks up metadata locally first, falling back to the object store if not found.
+3.  Based on the manifest, only the relevant Parquet files are pulled (using S3 GetRange) for the columns and time range needed.
+
+The query node also handles role, user, dataset, and access management APIs.
+
+### Prism (Leader)
+
+The Prism node serves the UI, dataset configuration, and access control. It is a single-node component that handles user-facing requests except queries and searches.
+
+### Indexer
+
+Manages on-demand search and indexing operations. Currently single-node, with multi-node capability planned.
+
+### Recommended Sizing
+
+| Node Type            | vCPU | Memory  |
+| -------------------- | ---- | ------- |
+| Prism / Query / Index| 16   | 32 GiB  |
+| Ingestor             | 8    | 16 GiB  |
+
+### Key Design Principles
+
+*   Columnar Parquet storage for cost efficiency and fast aggregations.
+*   Metadata-driven query planning to minimize object store calls.
+*   Smart caching with automatic eviction.
+*   Indexing only on demand, not by default.
+*   Standard SQL as the unified query language across logs, metrics, and traces.
+
+Title: Features Overview
+
+URL Source: https://www.parseable.com/docs/features
+
+Markdown Content:
+Parseable provides a focused set of capabilities for production observability:
+
+*   [AI Native](https://www.parseable.com/docs/user-guide/ai-native) — Keystone Q&A, dataset summarization, and natural-language to SQL.
+*   [Alerting](https://www.parseable.com/docs/user-guide/alerting) — Real-time threshold, anomaly, and forecasting alerts.
+*   [Dashboards](https://www.parseable.com/docs/user-guide/dashboards) — Customisable dashboards with eight chart types.
+*   [SQL Editor](https://www.parseable.com/docs/user-guide/sql-editor) — Full PostgreSQL-compatible SQL editor with auto-complete and history.
+*   [Role-Based Access Control](https://www.parseable.com/docs/user-guide/rbac) — Fine-grained permissions for users, datasets, and tags.
+*   [Log IQ](https://www.parseable.com/docs/user-guide/log-iq) — Auto-parse 40+ unstructured log formats into queryable columns.
+*   [OpenID Connect](https://www.parseable.com/docs/user-guide/openid) — SSO via any OIDC-compliant identity provider.
+*   [Retention Policies](https://www.parseable.com/docs/user-guide/retention) — Per-dataset lifecycle management.
+*   [Smart Cache](https://www.parseable.com/docs/user-guide/smart-cache) — Hot-tier storage on query nodes for sub-second queries.
+*   [API Keys](https://www.parseable.com/docs/user-guide/api-keys) — Scoped, role-bound keys for automation.
+
+Title: Key Concepts
+
+URL Source: https://www.parseable.com/docs/key-concepts
+
+Markdown Content:
+Foundational concepts for using Parseable effectively:
+
+*   **Data Modelling** — How to structure datasets, manage schema, and aggregate observability data.
+*   **[Partitioning](https://www.parseable.com/docs/key-concepts/partitioning)** — Optimize query performance by partitioning datasets on commonly-filtered columns.
+*   **[Query](https://www.parseable.com/docs/key-concepts/query)** — Use PostgreSQL-compatible SQL to query telemetry with powerful filtering and aggregation.
+*   **Storage** — Cost-effective storage on object stores (S3, GCS, Azure Blob, MinIO).
+*   **[High Availability](https://www.parseable.com/docs/key-concepts/high-availability)** — Distributed deployment with independently scalable ingest and query tiers.
+
+Title: Partitioning
+
+URL Source: https://www.parseable.com/docs/key-concepts/partitioning
+
+Markdown Content:
+Partitioning splits telemetry based on specific columns and value pairs to improve query performance. By organizing data physically by partition values, the query engine can skip irrelevant partitions entirely, reducing the data scanned per query.
+
+### When to Use Partitioning
+
+Partitioning works best when:
+
+*   The most common access patterns (which columns users `filter` or `group` by) are well known.
+*   The dataset is substantial — several TB or more. For small datasets, the overhead outweighs the benefit.
+
+### Selecting Partition Columns
+
+Choose columns with:
+
+*   **Low cardinality** — e.g., `log_level` (`ERR`, `WARN`, `INFO`).
+*   **High query frequency** — columns used in nearly every filter.
+*   **Good value distribution** — even spread across values.
+
+Avoid high-cardinality columns like `log_message` or unique IDs — partitioning on these creates many tiny partitions and degrades performance.
+
+### Setting Up
+
+Configure partitioning when creating a dataset (Create Stream → Custom Partition Field) on the Parseable Console, or edit it later (Stream → Manage → Info). Only one partition column per dataset is supported. New partitioning settings apply only to data ingested after the change.
+
+### How It Works
+
+When a query is run with a filter on the partition column, Parseable scans only the relevant partition(s), not the entire dataset. Physically on object storage, you'll see directories like `log_level=ERR/`, `log_level=WARN/`, etc.
+
+Title: Query
+
+URL Source: https://www.parseable.com/docs/key-concepts/query
+
+Markdown Content:
+Parseable provides a PostgreSQL-compatible SQL interface alongside a simple filter UI for log data. Every query requires a `start` and `end` timestamp; results are inclusive of both.
+
+### Execution
+
+After parsing and creating the execution plan, the query server:
+
+1.  Uses the data manifest file to identify relevant Parquet files for the time range and filters.
+2.  Adds those file paths as a data source via a custom DataFusion table provider.
+3.  Reads only the required columns and row groups via the S3 `GetRange` API.
+
+### Supported Functions
+
+Parseable supports the full Apache DataFusion SQL surface:
+
+*   [Aggregate Functions](https://datafusion.apache.org/user-guide/sql/aggregate_functions.html)
+*   [Window Functions](https://datafusion.apache.org/user-guide/sql/window_functions.html)
+*   [Scalar Functions](https://datafusion.apache.org/user-guide/sql/scalar_functions.html)
+
+### Regular Expressions
+
+```sql
+SELECT * FROM frontend WHERE message ~ 'failing' LIMIT 9000;       -- case sensitive
+SELECT * FROM frontend WHERE message ~* 'application' LIMIT 9000;  -- case insensitive
+SELECT * FROM frontend WHERE message !~ 'started' LIMIT 9000;      -- negated
+SELECT REGEXP_REPLACE(uuid, '[0-9]', '*', 'g') FROM frontend;
+SELECT SPLIT_PART(email, '@', 1) FROM frontend WHERE email IS NOT NULL;
+```
+
+### Case Sensitivity
+
+Column names are case-sensitive. Unquoted identifiers are lower-cased; uppercase columns must be wrapped in double quotes:
+
+```sql
+SELECT * FROM stream WHERE "Foo" = 'bar';
+```
+
+### Query Analysis
+
+Use `EXPLAIN ANALYZE` to view the execution plan and per-step timings:
+
+```json
+{
+  "query": "EXPLAIN ANALYZE SELECT * FROM frontend LIMIT 100",
+  "startTime": "2025-03-07T05:28:10.428Z",
+  "endTime": "2025-03-08T05:28:10.428Z"
+}
+```
+
+Add `?fields=true` to the query API to include result-field metadata in the response.
+
+Title: High Availability
+
+URL Source: https://www.parseable.com/docs/key-concepts/high-availability
+
+Markdown Content:
+Parseable's distributed mode is designed for production environments requiring continuous operation. The architecture decouples compute from storage and segregates ingest, query, and indexer paths so each can scale independently.
+
+### Node Types
+
+*   **Prism (Leader)** — Single-node UI, dataset configuration, and access control.
+*   **Querier** — Stateless analytics layer; scales horizontally with query load.
+*   **Ingestor** — Receives events and writes Arrow → Parquet to object storage. Scales horizontally with ingest volume.
+*   **Indexer** — Search and indexing operations (currently single-node).
+
+Each node maintains a `NodeMetadata` file in object storage with domain info, auth tokens, and configuration to enable inter-node coordination — there is no separate consensus layer.
+
+### Migration
+
+A standalone deployment can be upgraded to distributed by simply starting servers in distributed mode; metadata and manifests migrate automatically. This is one-way — you cannot move from distributed back to standalone.
+
+Title: Ingestion
+
+URL Source: https://www.parseable.com/docs/ingestion
+
+Markdown Content:
+Parseable accepts logs, metrics, traces, and events via HTTP(S) as JSON, OpenTelemetry Protobuf over HTTP, or via any logging agent that can POST JSON.
+
+### Required Headers
+
+| Header           | Purpose                                                  |
+| ---------------- | -------------------------------------------------------- |
+| `X-P-Stream`     | Target dataset name.                                     |
+| `Authorization`  | Basic auth credentials (base64-encoded user:pass) or API key. |
+| `X-P-Tenant-ID`  | Target tenant for multi-tenant setups.                   |
+
+### Field Handling
+
+*   Fields starting with `@` are renamed with `_` (e.g. `@timestamp` → `_timestamp`).
+*   Type-conflicting fields receive type-suffixed columns (e.g. `body_timestamp_utf8`).
+*   Nested JSON is automatically flattened: `{"foo": {"bar": "baz"}}` becomes `foo.bar = baz` and is queried as `SELECT "foo.bar" FROM stream`.
+
+### Operational Limits
+
+*   Maximum payload: **10 MiB** per request.
+*   Batching is recommended; single payloads can contain one event or an array of events.
+*   Timestamps in [RFC3339](https://tools.ietf.org/html/rfc3339) are preferred. If absent, Parseable adds `p_timestamp` (ingest-time).
+
+### Staging
+
+Once an HTTP request is accepted, events are converted to Arrow in memory and written to the staging directory. Every minute, staged Arrow data is converted to Parquet and pushed to object storage. Data in staging is queryable in real time.
+
+Configure staging with `P_STAGING_DIR`. For production, allocate enough storage for 5-10 minutes of expected ingest volume, on a redundant disk (EBS, EFS, Azure Files, NAS, or SAN).
+
+Title: OpenTelemetry Ingestion
+
+URL Source: https://www.parseable.com/docs/ingest-data/otel
+
+Markdown Content:
+Parseable provides native OpenTelemetry support across all three signal types — logs, metrics, and traces — via OTLP/HTTP with zero configuration.
+
+*   **Logs** — Ingest structured logs from applications and infrastructure.
+*   **Metrics** — Capture and visualise performance and health metrics for real-time observation.
+*   **Traces** — Track request flows across distributed services to find bottlenecks.
+
+Title: Auto Instrumentation (Kubernetes)
+
+URL Source: https://www.parseable.com/docs/ingest-data/auto-instrumentation
+
+Markdown Content:
+Parseable Auto Instrumentation (PAI) is a Kubernetes operator that automatically collects logs, metrics, traces, and events from a cluster and forwards them to Parseable — with zero manual OpenTelemetry configuration.
+
+### Supported Languages (Auto Tracing)
+
+Java, Python, Node.js, .NET. PAI's detection agent identifies the application language automatically, even in distroless containers.
+
+### Prerequisites
+
+*   Kubernetes v1.26+
+*   Helm v3
+*   OpenTelemetry Operator v0.99.0+
+*   A running Parseable instance
+
+### Install
+
+```
+helm repo add open-telemetry https://open-telemetry.github.io/opentelemetry-helm-charts
+helm install opentelemetry-operator open-telemetry/opentelemetry-operator \
+  --namespace otel-operator --create-namespace \
+  --set "manager.collectorImage.repository=otel/opentelemetry-collector-k8s" \
+  --set admissionWebhooks.certManager.enabled=false \
+  --set admissionWebhooks.autoGenerateCert.enabled=true
+
+helm repo add parseable https://charts.parseable.com/helm-releases
+helm install pai parseable/pai -n pai-system --create-namespace
+
+kubectl create secret generic parseable-creds \
+  --from-literal=username=<USERNAME> \
+  --from-literal=password=<PASSWORD> \
+  -n pai-system
+```
+
+Apply a `ParseableConfig` resource specifying the Parseable endpoint, target datasets, and namespaces to monitor. PAI provisions collectors as DaemonSets/Deployments and an Instrumentation CR for SDK injection into application pods.
+
+Title: eBPF (Zero Instrumentation)
+
+URL Source: https://www.parseable.com/docs/ingest-data/zero-instrumentation
+
+Markdown Content:
+Parseable supports eBPF-based runtime observability via [Tetragon](https://github.com/cilium/tetragon), the open-source Cilium project. Tetragon tracks processes, system calls, file operations, and network activity at the kernel level — no application code instrumentation needed.
+
+### Setup
+
+```
+helm repo add cilium https://helm.cilium.io
+helm install tetragon cilium/tetragon -n kube-system
+
+helm repo add vector https://helm.vector.dev
+wget https://www.parseable.com/blog/vector/vector-tetragon-values.yaml
+helm install vector vector/vector --namespace vector --create-namespace --values vector-tetragon-values.yaml
+```
+
+Vector tails Tetragon's output and ships it to Parseable. Logs land in the `tetrademo` dataset.
+
+Title: LLM and AI Agent Observability
+
+URL Source: https://www.parseable.com/docs/ingest-data/ai-agents
+
+Markdown Content:
+Parseable provides observability for LLM applications and AI agents — addressing the unique challenges of non-deterministic outputs, token costs, latency sensitivity, and complex multi-step chains.
+
+### Supported Integrations
+
+OpenAI, Anthropic, LiteLLM, OpenRouter, vLLM, LangChain, LlamaIndex, AutoGen, CrewAI, DSPy, n8n, and any OpenTelemetry-instrumented framework.
+
+### What's Tracked
+
+*   **API Interactions** — Request parameters, prompts, completions, metadata.
+*   **Token Economics** — Input/output tokens, cost in USD.
+*   **Performance** — Time-to-first-token, response latencies, tokens-per-second.
+*   **Reliability** — Rate limits, API failures, timeouts.
+
+Title: Telemetry Agents
+
+URL Source: https://www.parseable.com/docs/ingest-data/logging-agents
+
+Markdown Content:
+Parseable accepts data from any agent that can POST JSON over HTTP. First-class support exists for:
+
+*   **Fluent Bit** — Lightweight, high-performance log processor.
+*   **Vector** — High-performance observability data pipeline.
+*   **Fluentd** — Unified logging layer.
+*   **Logstash** — Server-side data processing pipeline. See the [Logstash HTTP output plugin](https://www.elastic.co/guide/en/logstash/current/plugins-outputs-http.html).
+*   **Filebeat** — Lightweight shipper for logs.
+*   **Promtail** — Loki agent that also works with Parseable.
+*   **OpenTelemetry Collector** — Vendor-agnostic telemetry collection.
+*   **Syslog** — Standard logging protocol.
+*   **Apache Log4j** — Java logging framework.
+*   **Prometheus** — Metrics collection and forwarding.
+
+Title: Logs Explorer
+
+URL Source: https://www.parseable.com/docs/user-guide/logs
+
+Markdown Content:
+The Logs Explorer is the central interface for log investigation. It has four areas: a top toolbar, a left sidebar field browser, a histogram visualization, and a paginated log table.
+
+### Search and Filter
+
+*   **Field-level filters** — Add filters from the left panel; fields are organised semantically (Service, Kubernetes, Container, Cloud, HTTP, Telemetry).
+*   **Pattern detection** — Auto-detection of log formats, user agents, and source IPs.
+*   **Find in data** — Client-side text search within visible records.
+
+### Field Organisation
+
+The fields panel splits into three sections: System Fields (auto-detected patterns), Table Fields (currently visible columns), and Available Fields (the rest of the schema). Drag-and-drop reorders columns; plus/minus icons toggle visibility.
+
+### Time Range
+
+Every query requires a time range. The picker supports presets (10 minutes to 3 days) and custom date/time selection with timezone support.
+
+### Advanced
+
+*   **Forecasting** — Predictive log-volume visualisation.
+*   **Group by** — Aggregate over any field.
+*   **SQL Editor** — Open the current query in the [SQL Editor](https://www.parseable.com/docs/user-guide/sql-editor) for advanced analysis.
+*   **AI Summarise** — One-click pattern summarisation via "Summarize my data".
+*   **Export** — CSV or JSON of query results.
+*   **Saved Views** — Persist filters, time ranges, and column layouts as reusable templates.
+*   **Auto-refresh** — 10 seconds to 20 minutes.
+
+Title: Metrics Explorer
+
+URL Source: https://www.parseable.com/docs/user-guide/metrics
+
+Markdown Content:
+The Metrics Explorer is the central interface for browsing, analysing, and acting on metrics data. It has three tabs:
+
+### All Metrics
+
+Default view: a summary timeseries chart of total data-point volume plus a sortable table of all metrics with name, count, description, and type (e.g. `sum`, `gauge`). Click any row to open the metric detail panel.
+
+### Insights
+
+Tile-based analysis with bar charts and aggregation toggles (`count`, `sum`, `avg`, `min`, `max`). Each tile supports unit assignment, precision adjustment, label-value filtering, dimension grouping, and a time-grain selector (default: minute). Tile menus add to dashboard, create alert, or export PNG.
+
+### Table
+
+Raw metric records in tabular form with Ingestion Time and Data columns. Field browser, search, pagination, and group-by support.
+
+### Filters and Time Range
+
+Filters are categorised (Service, Kubernetes, Container, Error, Metric, Cloud, Database, Telemetry) with positive/negative chips showing occurrence counts. Time presets from 10 minutes to 3 days plus custom calendar selection.
+
+### Advanced
+
+*   **Forecasting** — Predictive visualisation distinguishes Historical (solid) from Forecast (dashed).
+*   **Set alert** — Pre-populated alert form with metric context. Four-step flow: rule, evaluation type (Threshold / Anomaly Detection / Forecast), targets, severity.
+*   **Add to dashboard** — Save chart as a dashboard tile.
+*   **Edit with SQL** — Opens the SQL Editor with a pre-populated query (e.g. `SELECT * FROM "otel-demo-metrics"`).
+*   **Summarise my data** — AI-generated observations.
+*   **Save view** — Persist filters and configuration.
+
+Title: Traces Explorer
+
+URL Source: https://www.parseable.com/docs/user-guide/traces
+
+Markdown Content:
+The Traces Explorer enables searching, filtering, and analysis of distributed traces.
+
+### Layout
+
+Top toolbar (dataset selector, view toggle, time picker), left sidebar field browser, central content area (scatter plots and trace lists), and detail panels for selected items.
+
+### Traces View
+
+*   Scatter chart of duration over time; bubble size = span count.
+*   Filter spans: all, root only, or errors only.
+*   Sort by recency, duration, or span count.
+*   Direct lookup by trace ID.
+*   Paginated trace list with service/operation, timestamp, duration, span counts.
+
+### Table View
+
+*   Line chart of span event counts (with optional forecasting).
+*   Group by any field.
+*   Flat record display of individual spans.
+
+### Trace Detail
+
+*   **Waterfall** Gantt-chart visualisation of span hierarchy and timing.
+*   **Timeline minimap** for overall duration reference.
+*   Expandable/collapsible span tree with parent-child relationships.
+*   Span detail panel with searchable attributes and filter actions.
+
+### Other Capabilities
+
+Field browser with categorised, searchable attributes; SQL Editor integration for custom analysis; AI summarisation with error metrics, pattern analysis, and recommendations; saved views; time-range picker.
+
+Title: Agent Observability
+
+URL Source: https://www.parseable.com/docs/user-guide/agent-observability
+
+Markdown Content:
+AI agents interact with LLMs, tools, and APIs in a single workflow. Agents are essentially complex distributed applications and require end-to-end visibility for effective observability.
+
+### Capabilities
+
+*   **Unified Tracing** — Problem statement, LLM calls (with full conversation), tool executions, and completion summaries — all correlated by trace ID.
+*   **Session Analysis** — Browse and filter agent sessions by agent type, time range, or custom tags.
+*   **Cost Tracking** — Automatic computation of USD cost, token usage, tokens-per-second, and execution duration at ingest time.
+*   **Security Monitoring** — Auto-detection of PII leaks (credit card numbers, SSNs, addresses) with risk and compliance impact.
+*   **SQL-native Querying** — Standard SQL on trace data; no proprietary query language.
+
+### Instrumentation Paths
+
+*   **Path A** — Zero-code auto-instrumentation for the OpenAI Python SDK.
+*   **Path B** — Two-line setup for Anthropic, Cohere, Mistral, Bedrock, VertexAI, etc.
+*   **Path C** — Manual OpenTelemetry SDK instrumentation for full control.
+
+### Language Coverage
+
+| Language   | OpenAI SDK | Other SDKs | OTel SDK |
+| ---------- | ---------- | ---------- | -------- |
+| Python     | ✓          | ✓          | ✓        |
+| TypeScript | ✓          | ✓          | ✓        |
+| Java       | ✗          | ✗          | ✓        |
+| Go         | ✗          | ✗          | ✓        |
+| .NET       | ✗          | ✗          | ✓        |
+
+Title: AI Native
+
+URL Source: https://www.parseable.com/docs/user-guide/ai-native
+
+Markdown Content:
+Parseable embeds AI directly into observability workflows.
+
+*   **Keystone Q&A** — Ask questions about telemetry data in natural language. Multiple AI agents search across datasets and synthesise an answer with supporting SQL queries.
+*   **Dataset Summarisation** — One-click summaries highlight patterns, unusual behaviours, and warning signs without manual analysis.
+*   **Text-to-SQL** — Natural-language → executable SQL. Also repairs broken queries and explains complex statements.
+
+### Setup
+
+Settings → AI Assistant → choose provider (OpenAI GPT or Anthropic Claude) → enter API key.
+
+Available on Pro and Enterprise tiers.
+
+Title: Alerting
+
+URL Source: https://www.parseable.com/docs/user-guide/alerting
+
+Markdown Content:
+Parseable provides real-time alerting on incoming events. Each dataset can have multiple alerts; each alert is evaluated independently.
+
+### Alert Types
+
+*   **Threshold** — Trigger when a value crosses a fixed boundary.
+*   **Anomaly Detection** — ML-based unusual-pattern detection.
+*   **Forecast** — Trigger when projected values cross a threshold.
+
+### Setup Flow
+
+1.  Open the **Alerts** page from the side navigation.
+2.  Create an alert and choose a preview window (10m, 1h, 5h, 1d, or custom).
+3.  Configure the rule: dataset, field, optional filters and grouping.
+4.  Add metadata: title, severity (Low / Medium / High / Critical), tags.
+
+### Targets
+
+Alerts can be sent to **Webhook**, **Slack**, and **Alertmanager** targets simultaneously. Manage targets at Settings → Alert Targets.
+
+### Lifecycle
+
+Each alert can be manually evaluated, disabled temporarily, muted during maintenance windows, edited, or deleted.
+
+Available on Pro and Enterprise tiers.
+
+Title: Errors
+
+URL Source: https://www.parseable.com/docs/user-guide/errors
+
+Markdown Content:
+The Errors page provides debugging for OpenTelemetry traces. It collapses thousands of exception spans into a curated list of distinct failures.
+
+### Requirements
+
+*   OTel Trace dataset.
+*   Required fields: `event_exception.type`, `event_exception.message`, `service.name`.
+
+### Workflow
+
+1.  **Scope** — Select dataset and time range.
+2.  **Find errors that matter** — Use occurrence counts, spark charts, and faceted filters by service or exception type.
+3.  **Understand root cause** — Frequency patterns and AI-generated summaries with remediation suggestions.
+4.  **Examine real requests** — Stack traces and event timelines from representative spans.
+5.  **Correlate with logs** — Pivot between traces and logs by trace/span ID.
+
+### Advanced
+
+*   AI-powered summaries with root-cause analysis and suggested fixes.
+*   **Keystone** escalation for multi-service failures with deeper SQL-backed analysis.
+*   Alert creation for recurring error patterns.
+
+Title: Dashboards
+
+URL Source: https://www.parseable.com/docs/user-guide/dashboards
+
+Markdown Content:
+Customisable dashboards visualise telemetry across multiple datasets.
+
+### Chart Types
+
+| Category      | Charts                  |
+| ------------- | ----------------------- |
+| Time-series   | Timeseries, Line, Area  |
+| Categorical   | Bar                     |
+| Proportional  | Pie, Donut              |
+| Single value  | Query Value, Gauge      |
+
+### Builder Workflow
+
+1.  Choose chart type and data source.
+2.  Configure plot elements: axes, aggregations, filters, grouping.
+3.  Style: colour scheme, labels, formatting.
+
+### Capabilities
+
+*   Query multiple datasets in a single dashboard.
+*   Drag, resize, and reposition tiles.
+*   Synchronised time ranges across all tiles.
+*   Save tiles to dashboards from any explorer.
+*   Tag and favourite dashboards.
+*   Import / export dashboards as JSON.
+*   Use the SQL Editor or Keystone AI for tile queries.
+
+Title: SQL Editor
+
+URL Source: https://www.parseable.com/docs/user-guide/sql-editor
+
+Markdown Content:
+PostgreSQL-compatible SQL editor for ad-hoc analysis of logs, metrics, and traces.
+
+### Features
+
+*   Full SQL via Apache DataFusion — aggregate, window, and scalar functions.
+*   Intelligent auto-complete.
+*   Query history and saved query library.
+*   Result export (CSV, JSON).
+*   "Add to dashboard" from any result.
+*   Text-to-SQL for AI-assisted query generation.
+
+### Query Tips
+
+*   Always include a time range; use `p_timestamp` if no event timestamp exists.
+*   Column names are case-sensitive — wrap uppercase columns in double quotes.
+*   Use `LIMIT` to keep result sets manageable.
+*   Use `EXPLAIN ANALYZE` to inspect the execution plan.
+*   Add `?fields=true` to the query API for response-field metadata.
+
+Title: Role Based Access Control
+
+URL Source: https://www.parseable.com/docs/user-guide/rbac
+
+Markdown Content:
+Parseable's RBAC model has five entities:
+
+*   **Actions** — API operations on the server.
+*   **Privileges** — Predefined groups of actions: `Admin`, `Editor`, `Writer`, `Reader`, `Ingester`.
+*   **Resources** — Datasets, identified by unique name.
+*   **Roles** — Named, dynamic collections of privileges and resources. Multiple roles per user supported.
+*   **Users** — Human or machine entities. Passwords are hashed before storage.
+
+### Permission Matrix (summary)
+
+| Role     | General | Mgmt    | Dashboards | Streams  | Query/Ingest |
+| -------- | ------- | ------- | ---------- | -------- | ------------ |
+| Admin    | Full    | Full    | Full       | Full     | Full         |
+| Editor   | Partial | Denied  | Full       | Full     | Full         |
+| Writer   | Limited | Denied  | Full       | Denied   | Ingest only  |
+| Reader   | Limited | Denied  | Full       | Limited  | Query only   |
+| Ingester | Denied  | Denied  | Denied     | Denied   | Ingest only  |
+
+### Resource-scoped Privileges
+
+`Writer`, `Reader`, and `Ingester` are resource-specific. Example role JSON:
+
+```json
+[
+  { "privilege": "writer", "resource": { "stream": "backend"  } },
+  { "privilege": "writer", "resource": { "stream": "frontend" } }
+]
+```
+
+`Reader` supports an optional `tag` filter for fine-grained access:
+
+```json
+[
+  { "privilege": "reader", "resource": { "stream": "frontend", "tag": "source=web" } }
+]
+```
+
+### Workflow
+
+1.  Create role(s) with the Create Role API.
+2.  Create user(s) — the API returns the plaintext password once; store securely.
+3.  Assign role(s) to user(s).
+4.  Reset password or delete user via the respective APIs as needed.
+
+### OIDC
+
+Roles are auto-assigned by matching the role name to a group claim from the ID token. See [OpenID Connect](https://www.parseable.com/docs/user-guide/openid).
+
+Title: API Keys
+
+URL Source: https://www.parseable.com/docs/user-guide/api-keys
+
+Markdown Content:
+API Keys authenticate API calls from log forwarders, CLI tools, automation scripts, AI agents, and any client where Basic Auth or OIDC is impractical.
+
+### Key Components
+
+*   `keyId` — Stable identifier for management.
+*   `keyName` — Unique human-readable label.
+*   `apiKey` — Secret UUID; sent in the `X-API-Key` header.
+*   `roles` — Pre-existing role assignments that determine permissions.
+
+### Lifecycle
+
+The full secret value is shown **only once** at creation time. Subsequent list operations mask all but the last four characters; admins can re-fetch the unmasked value by `keyId`.
+
+### Scoping Patterns
+
+*   **Global ingestor** — Ship logs to all datasets.
+*   **Dataset-scoped ingestor** — Restricted to named datasets.
+*   **Global reader** — Query all datasets.
+*   **Dataset-scoped reader** — Read from specific datasets only.
+*   **Admin key** — Full tenant control.
+
+### Best Practices
+
+*   One key per workload — granular revocation.
+*   Prefer dataset-scoped over global roles.
+*   Rotate keys periodically (create new, delete old).
+*   Store in a dedicated secrets manager.
+*   Audit existing keys regularly.
+
+Title: Log IQ
+
+URL Source: https://www.parseable.com/docs/user-guide/log-iq
+
+Markdown Content:
+Log IQ identifies the format of unstructured log lines and transforms them into structured columns at ingest time.
+
+### Headers
+
+| Header              | Purpose                                                                |
+| ------------------- | ---------------------------------------------------------------------- |
+| `X-P-Log-Source`    | Identifies the log format (e.g. `syslog`, `nginx_access`).             |
+| `X-P-Extract-Log`   | The JSON field containing the raw log line (typically `log`).          |
+
+For already-structured data, only the source header is needed. Unstructured logs require both.
+
+### Pipeline
+
+When logs arrive, regex patterns for the specified format are applied. On a successful match, structured fields are added along with:
+
+*   `p_format` — The detected format.
+*   `p_format_verified` — Boolean for parse success.
+
+Data is always ingested, regardless of parse-detection success.
+
+### Supported Formats (40+)
+
+*   **Web servers** — `access_log`, `nginx_access`, `alb_log`.
+*   **Databases** — `redis_log`, `vpostgres_log`.
+*   **System logs** — `syslog_log`, `sudo_log`, `dpkg_log`.
+*   **Applications** — `rails_log`, `uwsgi_log`, `openstack_log`.
+
+Available on Pro and Enterprise tiers.
+
+Title: OpenID Connect
+
+URL Source: https://www.parseable.com/docs/user-guide/openid
+
+Markdown Content:
+Parseable supports SSO via any OIDC-compliant identity provider.
+
+### Prerequisites
+
+*   An OIDC provider that supplies group claims for users.
+*   A Parseable instance accessible via HTTPS.
+*   Redirect URI: `<parseable-instance-url>/api/v1/o/code`
+*   A default OIDC role created on the Parseable instance.
+
+### Environment Variables
+
+*   `P_OIDC_CLIENT_ID`
+*   `P_OIDC_CLIENT_SECRET`
+*   `P_OIDC_ISSUER` — Authorization server URL with discovery support.
+*   `P_ORIGIN_URI` — Base URL where Parseable is hosted.
+
+### Role Mapping
+
+*   **Default role** — Users without group claims receive the default role configured at Users → Set Default OIDC Role.
+*   **Group → role mapping** — Identity-provider groups map to Parseable roles by matching name. Create the matching role in Parseable, then assign the user to that group in your IdP.
+
+Multi-role assignment is supported, so a single user can hold multiple roles simultaneously across UI and API.
+
+Title: Retention
+
+URL Source: https://www.parseable.com/docs/user-guide/retention
+
+Markdown Content:
+Per-dataset retention controls how long log data persists before automatic deletion. Granularity is one day; each dataset has its own configuration.
+
+### Configuration
+
+```json
+[
+  {
+    "duration": "20d",
+    "action": "delete",
+    "description": "delete logs after 20 days"
+  }
+]
+```
+
+| Field        | Required | Description                                            |
+| ------------ | -------- | ------------------------------------------------------ |
+| `duration`   | Yes      | Total retention duration. Multiples of 1 day, e.g. `20d`. |
+| `action`     | Yes      | Currently only `delete` is supported.                  |
+| `description`| No       | Human-readable description.                            |
+
+Configure via the UI (Dataset → Manage → Retention) or the retention API.
+
+Available on Pro and Enterprise tiers.
+
+Title: Smart Cache (Hot Tier)
+
+URL Source: https://www.parseable.com/docs/user-guide/smart-cache
+
+Markdown Content:
+Smart Cache (hot tier) keeps a copy of frequently-accessed log data on the query node in addition to the object store. This combines fast queries with low storage cost.
+
+### Setup
+
+Set `P_HOT_TIER_DIR` on each query (or standalone) node before starting the server. The value is a path to the directory used for the hot tier.
+
+### How It Works
+
+1.  Server identifies the drive hosting the hot-tier directory and computes a max threshold of 80% of total drive capacity.
+2.  When a dataset requests hot-tier capacity, the server validates against `(0.8 × drive size) − current drive usage`.
+3.  A scheduler runs every minute, downloading new Parquet files from object storage in newest-first order.
+4.  Each downloaded file is recorded in `hottier.manifest.json`.
+5.  Oldest files are evicted when allocated size is reached or combined disk usage exceeds 80%.
+
+### Query Path
+
+On query, the server checks the manifest. Files present locally skip S3 GET calls; missing files are fetched from object storage and may be cached.
+
+### Resizing
+
+You can increase a dataset's hot-tier size at any time without service interruption. Decreasing is not allowed.
+
+Available on Pro and Enterprise tiers.
+
+Title: API
+
+URL Source: https://www.parseable.com/docs/api
+
+Markdown Content:
+The Parseable REST API provides programmatic access to all server capabilities.
+
+### Prerequisites
+
+*   A running Parseable instance.
+*   Base URL of the server.
+*   Credentials (Basic Auth) or an [API Key](https://www.parseable.com/docs/user-guide/api-keys).
+
+### Core Endpoints
+
+*   **Create dataset** — Create a new dataset with name and configuration.
+*   **Send logs to dataset** — POST events to an existing dataset.
+*   **Delete dataset** — Remove a dataset and its data.
+*   **Ingest with headers** — Send via HTTP headers to a specific dataset.
+*   **Query** — Run SQL against any dataset over a time range.
+
+### Authentication
+
+Bearer token in the `Authorization` header:
+
+```
+Authorization: Bearer YOUR_API_KEY
+```
+
+### Rate Limiting and Errors
+
+Default rate limit: 100 requests / minute / IP. Errors are returned as JSON with code and human-readable message.
+
+Title: Self-Hosted Installation
+
+URL Source: https://www.parseable.com/docs/self-hosted/installation
+
+Markdown Content:
+Parseable offers two deployment variants:
+
+### Distributed (recommended for production)
+
+Multiple ingestion nodes work together. Requires an object store (S3, GCS, Azure Blob, MinIO) for persistent storage. Suited for high-volume single sources or multiple independent feeds.
+
+Deployment options: Kubernetes (Helm), Docker Compose, bare metal / VMs.
+
+### Standalone
+
+Single-node, designed for testing and development. Can be run with `local-store` to use the local disk as storage. Not recommended for production.
+
+Deployment options: Kubernetes, Docker, bare metal / VMs.
+
+Title: Configuration
+
+URL Source: https://www.parseable.com/docs/self-hosted/configuration
+
+Markdown Content:
+Parseable is configured via environment variables.
+
+### Required
+
+| Variable     | Default  | Description                          |
+| ------------ | -------- | ------------------------------------ |
+| `P_USERNAME` | `admin`  | Admin user for API and UI.           |
+| `P_PASSWORD` | `admin`  | Admin user password.                 |
+
+### Network
+
+| Variable        | Default          | Description                                                     |
+| --------------- | ---------------- | --------------------------------------------------------------- |
+| `P_ADDR`        | `127.0.0.1:8000` | Address (IP:port without scheme) the server listens on.         |
+| `P_GRPC_PORT`   | `8001`           | gRPC port.                                                      |
+| `P_FLIGHT_PORT` | `8002`           | Arrow Flight port.                                              |
+
+### TLS and OIDC
+
+`P_TLS_CERT_PATH`, `P_TLS_KEY_PATH` to enable TLS.
+`P_OIDC_CLIENT_ID`, `P_OIDC_CLIENT_SECRET`, `P_OIDC_ISSUER`, `P_ORIGIN_URI` for OIDC SSO.
+
+### Storage Backends
+
+*   **S3 / S3-compatible** — `P_S3_URL`, `P_S3_ACCESS_KEY`, `P_S3_SECRET_KEY`, `P_S3_BUCKET`, `P_S3_REGION`.
+*   **Google Cloud Storage** — `P_GCS_BUCKET` (uses Application Default Credentials).
+*   **Azure Blob** — `P_AZR_URL`, `P_AZR_ACCOUNT`, `P_AZR_CONTAINER`.
+*   **Local Disk** — `P_FS_DIR`.
+
+### Performance
+
+| Variable                     | Description                                              |
+| ---------------------------- | -------------------------------------------------------- |
+| `P_STAGING_DIR`              | Staging directory for in-flight events.                  |
+| `P_QUERY_MEMORY_LIMIT`       | Fixed memory allocation for queries (GiB).               |
+| `P_MAX_EVENT_PAYLOAD_SIZE`   | Max ingest payload bytes (default `10485760` = 10 MiB).  |
+| `P_PARQUET_COMPRESSION_ALGO` | Compression algorithm for Parquet files.                 |
+
+### Distributed and Hot Tier
+
+`P_MODE` (`INGEST` / `QUERY` / `ALL`), `P_HOT_TIER_DIR` (query nodes), `P_INGESTOR_ENDPOINT`.
+
+### Enterprise
+
+`P_CLUSTER_SECRET`, `P_LICENSE_DATA_FILE_PATH` (and signature), `P_DB_CONNECTION_STRING` (PostgreSQL for metadata).
+
+Title: Parseable Server Metrics
+
+URL Source: https://www.parseable.com/docs/self-hosted/metrics
+
+Markdown Content:
+Parseable exposes server metrics in Prometheus exposition format at `/api/v1/metrics`. Add a scrape job to your `prometheus.yml`:
+
+```yaml
+scrape_configs:
+- job_name: parseable-job
+  metrics_path: /api/v1/metrics
+  scheme: http
+  static_configs:
+  - targets: ['localhost:8000']
+  basic_auth:
+    username: "admin"
+    password: "admin"
+```
+
+Browse the live demo metrics at `https://demo.parseable.com/api/v1/metrics`.
+
+Title: Parseable OSS
+
+URL Source: https://www.parseable.com/docs/flavours/oss
+
+Markdown Content:
+Parseable Open Source is AGPLv3-licensed and free.
+
+### Included
+
+*   Unlimited ingestion of logs, metrics, and traces.
+*   Configurable retention.
+*   Object storage backends: S3, GCS, Azure Blob, MinIO.
+*   PostgreSQL-compatible SQL.
+*   Datasets.
+*   Threshold alerts.
+*   Custom dashboards.
+*   Role-Based Access Control.
+*   OpenID Connect SSO.
+
+### Not Included (Pro / Enterprise only)
+
+*   Keystone, Anomaly Detection, Forecasting alerts.
+*   AI SQL generation, dataset summarisation.
+*   Smart Cache.
+*   High Availability clustering, custom partitioning (Enterprise).
+*   Team quotas, 24/7 support (Enterprise).
+
+Title: Parseable Pro
+
+URL Source: https://www.parseable.com/docs/flavours/pro
+
+Markdown Content:
+Fully managed cloud observability at $0.37 per GB ingested ($29/month minimum).
+
+### Capacity
+
+*   Up to 30 TB/month ingestion across logs, metrics, traces.
+*   10× ingest volume included for queries; additional at $0.02/GB.
+*   21-day retention.
+*   Shared cloud infrastructure.
+
+### AI-powered
+
+Keystone Q&A, anomaly detection, summarisation, forecasting alerts, Text-to-SQL.
+
+### Core
+
+RBAC, threshold/anomaly/forecast alerts, dashboards, unlimited team members and hosts.
+
+### Not in Pro (Enterprise only)
+
+Custom partitioning, configurable retention, smart cache, dedicated infrastructure, data residency, team quotas, SLA/SLO setup, 24/7 support.
+
+14-day free trial — no credit card.
+
+Title: Parseable Enterprise
+
+URL Source: https://www.parseable.com/docs/flavours/enterprise
+
+Markdown Content:
+Parseable Enterprise targets mission-critical workloads. Available via Parseable Cloud, BYOC, or on-premises. Custom pricing from $999/month.
+
+### Capacity
+
+*   Unlimited ingestion across logs, metrics, traces.
+*   20× ingest volume included for queries; additional at $0.02/GB.
+*   Dedicated infrastructure with custom data residency.
+
+### AI-powered
+
+Keystone Q&A, anomaly detection, summarisation, forecasting alerts, Text-to-SQL.
+
+### Enterprise Features
+
+*   Granular RBAC.
+*   BYOC, BYO LLM, BYO OIDC.
+*   Team quotas.
+*   SLA/SLO and MTTD/MTTR tracking.
+*   Comprehensive audit logging.
+*   Real-time log tail.
+*   Sub-second query caching.
+*   Custom partitioning.
+
+### Support
+
+24×7 product support, architectural consulting, ingestion-agent management, dedicated SLAs.

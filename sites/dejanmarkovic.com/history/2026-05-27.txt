@@ -1,0 +1,39 @@
+# Dejan Markovic - WordPress Consultant Toronto
+
+> Dejan Markovic is a Senior WordPress Developer, Solution Architect, and Team Lead based in Toronto, Canada. With 20+ years of web development experience, he has delivered enterprise WordPress projects for Rogers Media (Sportsnet, Chatelaine), Great-West Life, WP Engine, Munich Re, and the Ontario Ministry of Education. WordCamp Toronto lead organizer 2016, co-organizer 2014-2015, WPToronto Meetup co-organizer 2014-2016.
+
+## Key Facts
+- Location: Toronto, Canada
+- Experience: 20+ years web development, 10+ years WordPress
+- Specialization: Enterprise WordPress consulting, custom plugin and theme development, WooCommerce, REST API integrations, performance optimization
+- Enterprise clients: Rogers Media (Sportsnet, Chatelaine), Great-West Life (Canada Life, London Life), WP Engine, Munich Re, Ontario Ministry of Education
+- Community: Lead organizer WordCamp Toronto 2016; Co-organizer 2015, 2014; WPToronto Meetup co-organizer 2014-2016; speaker at WordCamps across North America and Europe
+- Author: WordPress Responsive Theme Design Essentials (Packt Publishing); Technical Reviewer: Learning Yeoman
+- Open source: HYPESocial Buffer Pro, Buffer My Post, Tweet Old Custom Post, Topcat Lite theme; WordPress core translation contributor
+- Also runs: HYPESTUDIO (AI automation agency) - https://hypestudio.org
+
+## Core Pages
+
+### Services
+- [WordPress Consulting](https://dejanmarkovic.com/wordpress-consulting/)
+- [Custom WordPress Development](https://dejanmarkovic.com/custom-wordpress-development/)
+- [WooCommerce Development](https://dejanmarkovic.com/woocommerce-development/)
+- [WordPress Performance Optimization](https://dejanmarkovic.com/wordpress-performance-optimization/)
+- [WordPress Plugin Development](https://dejanmarkovic.com/wordpress-plugin-development/)
+- [WordPress Multisite & WPML](https://dejanmarkovic.com/wordpress-multisite-wpml/)
+- [Enterprise WordPress Consulting](https://dejanmarkovic.com/enterprise-wordpress-consulting/)
+
+### About & Contact
+- [About Dejan Markovic](https://dejanmarkovic.com/about/)
+- [Contact](https://dejanmarkovic.com/lets-talk/)
+
+## Profiles & Authority Signals
+- LinkedIn: https://www.linkedin.com/in/dejanmarkovic
+- GitHub: https://github.com/dejanmarkovic
+- WordPress.org: https://profiles.wordpress.org/dejanmarkovic/
+- WordCamp Toronto 2016 (Main Organizer): https://toronto.wordcamp.org/2016/
+- WordCamp Toronto 2015 (Co-Organizer): https://toronto.wordcamp.org/2015/
+- WordCamp Toronto 2014 (Co-Organizer): https://toronto.wordcamp.org/2014/
+
+## Sitemap
+- https://dejanmarkovic.com/sitemap_index.xml

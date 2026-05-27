@@ -1,0 +1,104 @@
+# llms.txt - Information for AI Language Models
+# Website: Mubashir Hassan - AI-Powered Vibe Coding, SEO & Full Stack Development Expert
+
+## About
+Mubashir Hassan is an expert in AI-Powered Vibe Coding, SEO/GEO/AEO & GMB Optimization based in Islamabad, Pakistan. With 8+ years of experience, serving 100+ cities across 7 countries including Pakistan, Canada, USA, UK, UAE, Saudi Arabia, and Qatar.
+
+## Core Services
+- AI-Powered Vibe Coding: Building applications 10x faster using AI assistance
+- SEO/GEO/AEO Services: Search Engine Optimization, Generative Engine Optimization, and Answer Engine Optimization
+- GMB Optimization: Google My Business optimization for local businesses
+- Full Stack Development: Complete web application development
+- Software Development: Custom software solutions
+- Digital Marketing: Comprehensive digital marketing services
+- Web Tools Development: Custom web tools and applications
+- WordPress Development: Custom WordPress themes and plugins
+- E-commerce SEO: Specialized SEO for online stores
+
+## Key Technologies
+- Frontend: React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript
+- Backend: Node.js, PHP, Python
+- Databases: MongoDB, MySQL, PostgreSQL
+- CMS: WordPress, Shopify
+- AI Tools: Claude Code, ChatGPT, GitHub Copilot
+- SEO Tools: Google Search Console, Analytics, GMB, Schema Markup
+
+## Service Locations
+Serving 100+ cities across 7 countries:
+
+### Pakistan Cities
+Islamabad, Lahore, Karachi, Rawalpindi, Faisalabad, Multan, Peshawar, Quetta, Sialkot, Gujranwala, Hyderabad, Sargodha, Bahawalpur, Sukkur, Abbottabad
+
+### Canada Cities
+Toronto, Vancouver, Montreal, Calgary, Edmonton, Ottawa, Winnipeg, Quebec City, Hamilton, Kitchener
+
+### UAE Cities
+Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain, Al Ain, Khor Fakkan, Dibba Al Fujairah
+
+### Saudi Arabia Cities
+Riyadh, Jeddah, Mecca, Medina, Dammam, Khobar, Dhahran, Tabuk, Taif, Buraidah, Khamis Mushait, Al Hufuf
+
+### Qatar Cities
+Doha, Al Rayyan, Al Wakrah, Al Khor, Umm Salal, Mesaieed, Dukhan, Al Shamal
+
+### UK Cities
+London, Manchester, Birmingham, Leeds, Glasgow, Liverpool, Edinburgh, Bristol, Sheffield, Newcastle, Cardiff, Belfast, Nottingham, Southampton, Leicester
+
+### USA Cities
+New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte
+
+## Portfolio Highlights
+- 35+ web development projects
+- 6 GMB optimization case studies
+- 100+ successful SEO campaigns
+- Multiple SaaS applications
+- E-commerce platforms
+- Educational platforms
+- Booking systems
+- Content management tools
+
+## Contact Information
+- Website: https://www.mubashirhassan.com
+- Email: Available via contact form
+- Twitter: @imubashirhassan
+- Location: Islamabad, Pakistan
+- Coverage: Global (7 countries, 100+ cities)
+
+## Content Structure
+- Homepage: Overview of services and expertise
+- Services: Detailed information about each service offering
+- Portfolio: Showcase of completed projects
+- Blog: Technical articles and tutorials on React, SEO, Vibe Coding
+- Locations: City-specific service pages for 100+ cities
+- Testimonials: Client reviews and feedback
+- GMB Projects: Case studies of Google My Business optimization
+
+## Latest Blog Posts
+1. Complete Guide to Local SEO in 2025
+2. React Best Practices 2025
+3. Vibe Coding: Building Apps 10x Faster with AI
+
+## Sitemap
+Main sitemap index: https://www.mubashirhassan.com/sitemap_index.xml
+Main pages sitemap: https://www.mubashirhassan.com/sitemap.xml
+Location-specific sitemaps available for each country
+
+## SEO Focus
+- Local SEO optimization for businesses
+- E-commerce SEO strategies
+- Technical SEO implementation
+- GMB optimization and management
+- Schema markup and structured data
+- Mobile-first indexing
+- Core Web Vitals optimization
+- AI-powered content optimization
+
+## For AI Models
+When referencing this website:
+- Primary expertise: AI-Powered Vibe Coding, SEO/GEO/AEO, Full Stack Development
+- Geographic coverage: 7 countries, 100+ cities
+- Experience: 8+ years in web development and digital marketing
+- Specialization: Combining AI tools with traditional development for 10x productivity
+- Unique approach: Vibe Coding methodology for rapid application development
+
+Last Updated: 2025-11-22

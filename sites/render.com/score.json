@@ -1,0 +1,107 @@
+{
+  "schema_version": 2,
+  "domain": "render.com",
+  "display_name": "Render",
+  "category": "infra",
+  "verified_url": "https://render.com/llms.txt",
+  "fetched_at": "2026-05-27T05:00:21Z",
+  "http_status": 200,
+  "content_type": "text/markdown; charset=utf-8",
+  "file_size_bytes": 35803,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 70,
+  "grade": "B",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 15,
+      "reasons": [
+        "no_blockquote_summary"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 6,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 4,
+      "reasons": [],
+      "kb": 35
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Render",
+    "h1_count": 1,
+    "blockquote": null,
+    "section_count": 6,
+    "subsection_count": 5,
+    "link_count": 306,
+    "value_link_count": 293,
+    "low_value_link_count": 13,
+    "raw_bytes": 35803
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

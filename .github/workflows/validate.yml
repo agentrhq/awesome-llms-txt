@@ -1,0 +1,78 @@
+name: Validate PR
+
+on:
+  pull_request:
+    paths:
+      - 'sites/**'
+      - 'tools/**'
+      - 'scripts/**'
+
+jobs:
+  test-tool:
+    name: scoring tool tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run tests
+        run: |
+          cd tools/llms-txt-score
+          node test/run.js
+
+  validate-sites:
+    name: re-score changed sites
+    runs-on: ubuntu-latest
+    needs: test-tool
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Re-score each changed site
+        run: |
+          set -euo pipefail
+          changed=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- 'sites/*/score.json' | sed -E 's|^sites/([^/]+)/.*|\1|' | sort -u)
+          if [ -z "$changed" ]; then
+            echo "no site changes detected"
+            exit 0
+          fi
+          fail=0
+          for domain in $changed; do
+            verified=$(node -e "console.log(require('./sites/$domain/score.json').verified_url)")
+            echo "::group::$domain — verified_url=$verified"
+            tmp=$(mktemp)
+            node tools/llms-txt-score/bin/llms-txt-score.js "$verified" --out="$tmp" || { echo "fetch failed"; fail=1; continue; }
+            committed_score=$(node -e "console.log(require('./sites/$domain/score.json').score)")
+            recomputed_score=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$tmp','utf8')).score)")
+            if [ "$committed_score" != "$recomputed_score" ]; then
+              echo "::error file=sites/$domain/score.json::committed score=$committed_score but re-run returned $recomputed_score"
+              fail=1
+            else
+              echo "ok: $committed_score matches"
+            fi
+            echo "::endgroup::"
+          done
+          exit $fail
+
+  markdown-lint:
+    name: structural lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files per site
+        run: |
+          set -euo pipefail
+          fail=0
+          for d in sites/*/; do
+            for f in llms.txt score.json README.md; do
+              if [ ! -f "$d$f" ]; then
+                echo "::error file=$d::missing required file $f"
+                fail=1
+              fi
+            done
+          done
+          exit $fail

@@ -1,0 +1,32 @@
+# Alva Docs
+
+## Alva - Docs
+
+- [Welcome to Alva](https://docs.alva.xyz/welcome-to-alva.md)
+- [Meet Alva](https://docs.alva.xyz/welcome-to-alva/meet-alva.md)
+- [FAQ](https://docs.alva.xyz/faq.md)
+- [Credit](https://docs.alva.xyz/faq/credit.md)
+- [Third-Party Integrations](https://docs.alva.xyz/third-party-integrations.md)
+- [TradingView x Alva](https://docs.alva.xyz/third-party-integrations/tradingview-x-alva.md): TradingView x Alva Integration: Unlocking Powerful Market Charts in Alva
+- [Compliance](https://docs.alva.xyz/compliance.md)
+- [Privacy Policy](https://docs.alva.xyz/compliance/privacy-policy.md): Alva Privacy Policy
+- [Terms of Service](https://docs.alva.xyz/compliance/terms-of-service.md)
+- [Cookie Policy](https://docs.alva.xyz/compliance/cookie-policy.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.alva.xyz/welcome-to-alva.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

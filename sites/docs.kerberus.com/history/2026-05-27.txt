@@ -1,0 +1,68 @@
+# Kerberus Sentinel3
+
+## Kerberus Sentinel3
+
+- [What is Kerberus Sentinel3?](https://docs.kerberus.com/kerberus/sentinel3/what-is-kerberus-sentinel3.md)
+- [How does it work?](https://docs.kerberus.com/kerberus/sentinel3/how-does-it-work.md)
+- [Alert Types](https://docs.kerberus.com/kerberus/sentinel3/alert-types.md)
+- [Active Protection](https://docs.kerberus.com/kerberus/sentinel3/active-protection.md)
+- [Coverage](https://docs.kerberus.com/kerberus/sentinel3/coverage.md)
+- [Is it open source?](https://docs.kerberus.com/kerberus/sentinel3/is-it-open-source.md)
+- [How is it different?](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different.md)
+- [Detects scams 1/2](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different/detects-scams-1-2.md)
+- [Detects scams 2/2](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different/detects-scams-2-2.md)
+- [Serves you, not companies](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different/serves-you-not-companies.md)
+- [Built by security experts](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different/built-by-security-experts.md)
+- [Designed for everyone](https://docs.kerberus.com/kerberus/sentinel3/how-is-it-different/designed-for-everyone.md)
+- [Team](https://docs.kerberus.com/kerberus/sentinel3/team.md)
+- [Installation](https://docs.kerberus.com/kerberus/sentinel3/installation.md)
+- [Browsers and Devices](https://docs.kerberus.com/kerberus/sentinel3/browsers-and-devices.md)
+- [Chains](https://docs.kerberus.com/kerberus/sentinel3/chains.md)
+- [Software FAQ](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq.md)
+- [Who is Sentinel3 for?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/who-is-sentinel3-for.md)
+- [Is there a cost to use Sentinel3?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/is-there-a-cost-to-use-sentinel3.md)
+- [Is Sentinel3 a wallet?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/is-sentinel3-a-wallet.md)
+- [Is Sentinel3 an antivirus?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/is-sentinel3-an-antivirus.md)
+- [Do I need to connect my wallet to use Sentinel3?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/do-i-need-to-connect-my-wallet-to-use-sentinel3.md)
+- [On how many devices/wallets does my license work? Does it work with a VPN?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/on-how-many-devices-wallets-does-my-license-work-does-it-work-with-a-vpn.md)
+- [Can Sentinel3 move my crypto/NFTs?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/can-sentinel3-move-my-crypto-nfts.md)
+- [Will Sentinel3 slow me down?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/will-sentinel3-slow-me-down.md)
+- [Does it work on mobile?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/does-it-work-on-mobile.md)
+- [How do I know if Sentinel3 is working for me?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/how-do-i-know-if-sentinel3-is-working-for-me.md)
+- [Does Sentinel3 scan every website I visit?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/does-sentinel3-scan-every-website-i-visit.md)
+- [Is it good for Sentinel3 to scan every Web3 site?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/is-it-good-for-sentinel3-to-scan-every-web3-site.md)
+- [I opened a Web3 site but didn't see Sentinel3 scanning it. Why?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/i-opened-a-web3-site-but-didnt-see-sentinel3-scanning-it.-why.md)
+- [I got a red/yellow popup. What should I do?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/i-got-a-red-yellow-popup.-what-should-i-do.md)
+- [Sentinel3 alerted a site and I believe it shouldn't have](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/sentinel3-alerted-a-site-and-i-believe-it-shouldnt-have.md)
+- [I got a red popup and closed the site. What happens if I access it again?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/i-got-a-red-popup-and-closed-the-site.-what-happens-if-i-access-it-again.md)
+- [Sentinel3 didn't alert me to a malicious site I visited. What should I do?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/sentinel3-didnt-alert-me-to-a-malicious-site-i-visited.-what-should-i-do.md)
+- [Does Sentinel3 work if I use other Web3 security extensions?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/does-sentinel3-work-if-i-use-other-web3-security-extensions.md)
+- [Does Sentinel3 work when transacting directly from a contract?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/does-sentinel3-work-when-transacting-directly-from-a-contract.md)
+- [If I use Sentinel3, does it mean I'm 100% safe from all scams?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/if-i-use-sentinel3-does-it-mean-im-100-safe-from-all-scams.md)
+- [What kind of Web3 scams exist, and which ones does Sentinel3 protect me from?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/what-kind-of-web3-scams-exist-and-which-ones-does-sentinel3-protect-me-from.md)
+- [Are there any signatures that Sentinel3 doesn't scan?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/are-there-any-signatures-that-sentinel3-doesnt-scan.md)
+- [Does a hardware wallet protect me from scams?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/does-a-hardware-wallet-protect-me-from-scams.md)
+- [If I lose my crypto/NFTs because Sentinel3 didn't detect a malicious site, will you reimburse me?](https://docs.kerberus.com/kerberus/frequently-asked-questions/software-faq/if-i-lose-my-crypto-nfts-because-sentinel3-didnt-detect-a-malicious-site-will-you-reimburse-me.md)
+- [Lifetime License NFT FAQ](https://docs.kerberus.com/kerberus/frequently-asked-questions/lifetime-license-nft-faq.md)
+- [How can I get one?](https://docs.kerberus.com/kerberus/frequently-asked-questions/lifetime-license-nft-faq/how-can-i-get-one.md)
+- [How do I activate it?](https://docs.kerberus.com/kerberus/frequently-asked-questions/lifetime-license-nft-faq/how-do-i-activate-it.md)
+- [What's the market cap?](https://docs.kerberus.com/kerberus/frequently-asked-questions/lifetime-license-nft-faq/whats-the-market-cap.md)
+- [Do I lose access to the license if I sell or transfer the NFT?](https://docs.kerberus.com/kerberus/frequently-asked-questions/lifetime-license-nft-faq/do-i-lose-access-to-the-license-if-i-sell-or-transfer-the-nft.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.kerberus.com/kerberus/sentinel3/what-is-kerberus-sentinel3.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

@@ -1,0 +1,49 @@
+# Illuvium Staking Docs
+
+## Illuvium Staking Docs
+
+- [Illuvium Staking v2](https://docs.illuvium.io/staking-v2/illuvium-staking-v2.md)
+- [Overview](https://docs.illuvium.io/staking-v2/staking-v2-app/overview.md): Explanation of the different features of the Overview page
+- [Dashboard](https://docs.illuvium.io/staking-v2/staking-v2-app/dashboard.md)
+- [Staking](https://docs.illuvium.io/staking-v2/staking-v2-app/staking.md)
+- [Rewards](https://docs.illuvium.io/staking-v2/staking-v2-app/rewards.md)
+- [Vesting](https://docs.illuvium.io/staking-v2/staking-v2-app/vesting.md)
+- [New Users](https://docs.illuvium.io/staking-v2/user-guides/new-users.md)
+- [Connect Wallet](https://docs.illuvium.io/staking-v2/user-guides/new-users/connect-wallet.md)
+- [How to Stake](https://docs.illuvium.io/staking-v2/user-guides/new-users/how-to-stake.md)
+- [Claim Rewards](https://docs.illuvium.io/staking-v2/user-guides/new-users/claim-rewards.md)
+- [Withdrawals ](https://docs.illuvium.io/staking-v2/user-guides/new-users/withdrawals.md)
+- [Existing Users](https://docs.illuvium.io/staking-v2/user-guides/existing-users.md)
+- [Upgrading to Staking v2](https://docs.illuvium.io/staking-v2/user-guides/existing-users/upgrading-to-staking-v2.md)
+- [Flexible Deposits](https://docs.illuvium.io/staking-v2/user-guides/existing-users/flexible-deposits.md)
+- [About Illuvium Staking](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking.md)
+- [How does Governance Work?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/how-does-governance-work.md)
+- [What are the staking pools in the protocol?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-are-the-staking-pools-in-the-protocol.md)
+- [What is the difference between the ILV pool and the ILV/ETH pool?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-is-the-difference-between-the-ilv-pool-and-the-ilv-eth-pool.md)
+- [What is variable locking?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-is-variable-locking.md)
+- [What happens when I vest my rewards?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-happens-when-i-vest-my-rewards.md)
+- [How long should I wait before vesting?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/how-long-should-i-wait-before-vesting.md)
+- [What happens to tokens after they are unlocked?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-happens-to-tokens-after-they-are-unlocked.md)
+- [What happens to vested tokens after they are unlocked?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-happens-to-vested-tokens-after-they-are-unlocked.md)
+- [What is sILV2?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-is-silv2.md)
+- [What is the Vault?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-is-the-vault.md)
+- [What are distributions?](https://docs.illuvium.io/staking-v2/user-guides/about-illuvium-staking/what-are-distributions.md)
+- [Glossary](https://docs.illuvium.io/staking-v2/glossary.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.illuvium.io/staking-v2/illuvium-staking-v2.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

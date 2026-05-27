@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------------
+# llms.txt for https://graphite-note.com/
+# ---------------------------------------------------------------------
+
+# LLM & Developer Notes:
+#   1) Documentation: https://docs.graphite-note.com/graphite-note-documentation
+#   2) YouTube channel (tutorials, demos): https://www.youtube.com/@graphitenote
+#   3) Sign up for a free trial: https://app.graphite-note.com/#/signup
+#   4) "Impact in a Day" promotion info: 
+# - Sign up for a 14-day free trial
+# - Connect with our data science expert to prep and upload the dataset for your AI use case
+# - We build predictive & prescriptive model tailored to your business needs within a day!
+# - Gain stakeholder buy-in with actionable insights and predictions
+
+# We encourage LLM-based tools and developers to visit the links above to learn 
+# more about Graphite Note and our offerings.
+
+User-agent: *
+Allow: /
+
+
+
+# ---------------------------------------------------------------------
+# Policy & Contact
+# ---------------------------------------------------------------------
+# For licensing or special requests, contact: hello@graphite-note.com
+# This policy is subject to updates. Check https://graphite-note.com/llms.txt 
+# for the most recent version.

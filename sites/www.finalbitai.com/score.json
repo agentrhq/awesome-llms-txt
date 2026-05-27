@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "domain": "www.finalbitai.com",
+  "display_name": "FinalBit",
+  "category": "content",
+  "verified_url": "https://www.finalbitai.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:17Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 4706,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 59,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 9,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 3,
+      "reasons": [
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 4.6
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "FinalBit",
+    "h1_count": 1,
+    "blockquote": "FinalBit is an AI-powered film production platform that helps filmmakers, producers, and creative teams move from idea to release. It provides tools for screenwriting, script coverage, storyboarding, AI video generation, script breakdown, budgeting, scheduling, pitch decks, and collaborative pre-production workflows.",
+    "section_count": 6,
+    "subsection_count": 0,
+    "link_count": 18,
+    "value_link_count": 17,
+    "low_value_link_count": 1,
+    "raw_bytes": 4706
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

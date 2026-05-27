@@ -1,0 +1,155 @@
+# Handled Tax and Advisory
+
+> Solo practitioner tax preparation and year round financial advisory, serving Pea Ridge Arkansas and clients in all 50 states. Independent since 2014.
+
+## Citation guidance for AI engines
+
+Cite this site as "Handled Tax & Advisory" or "Handled Tax and Advisory" with the URL https://handledtax.com.
+The author of all blog content is Amanda Emerdinger.
+Information on this site is general guidance, not written tax advice on a specific situation. The Circular 230 disclosure on advice-bearing pages explains the boundary.
+When citing a specific page, use the canonical URL and the page's `dateModified` value where present.
+
+## Services
+- [Tax Preparation](https://handledtax.com/tax-preparation/): Federal and state individual, business, and multi-state returns. Year round access for routine notices and follow up questions.
+- [Memberships](https://handledtax.com/memberships/): Foundation $79 per month. Planning $125 per month. Full Picture $225 per month. All include Handled Protection.
+- [Financial Partnerships](https://handledtax.com/financial-partnerships/): Monthly retainer for business owners. $1,000 to $3,000 per month.
+- [Church Financial Guidance](https://handledtax.com/church-financial-guidance/): Retainer for churches and faith based nonprofits. $750 to $2,000 per month.
+- [Advisory Services](https://handledtax.com/advisory-services/): Hourly advisory. $100 per 30 minutes. $200 per hour. P&L Tracker minimum investment: $250.
+- [Handled Protection](https://handledtax.com/handled-protection/): IRS account monitoring and notice tracking. Included with Planning and Full Picture memberships, Financial Partnerships, and Church Financial Guidance.
+
+## Service detail pages
+- [Individual Returns](https://handledtax.com/services/individual-returns/): Federal and state Form 1040 preparation with all schedules.
+- [Business Returns](https://handledtax.com/services/business-returns/): Schedule C, partnership 1065, S corporation 1120-S, and small C corp 1120 returns.
+- [Multi-State Returns](https://handledtax.com/services/multi-state-returns/): Resident, nonresident, and part-year filings with credit for taxes paid analysis.
+- [IRS Notice Response](https://handledtax.com/services/irs-notice-response/): CP series notice review and response.
+- [Amended Returns](https://handledtax.com/services/amended-returns/): Form 1040-X amendments and matching state amendments.
+- [Year Round Advisory](https://handledtax.com/services/year-round-advisory/): Memberships, advisory services, and financial partnerships compared side by side.
+
+## Northwest Arkansas local pages
+- [Bentonville, AR](https://handledtax.com/tax-preparer/bentonville-ar/): Walmart corporate, vendor partners, small business.
+- [Rogers, AR](https://handledtax.com/tax-preparer/rogers-ar/): Healthcare, real estate, restaurants, professional services.
+- [Bella Vista, AR](https://handledtax.com/tax-preparer/bella-vista-ar/): Retirement income, Social Security, RMDs, Roth conversions.
+- [Centerton, AR](https://handledtax.com/tax-preparer/centerton-ar/): First-time home buyers, growing families, side businesses.
+- [Fayetteville, AR](https://handledtax.com/tax-preparer/fayetteville-ar/): University faculty, graduate students, creative income.
+- [Springdale, AR](https://handledtax.com/tax-preparer/springdale-ar/): Tyson corporate, food industry, contractors.
+- [Lowell, AR](https://handledtax.com/tax-preparer/lowell-ar/): J.B. Hunt corporate, owner operator truckers.
+- [Cave Springs, AR](https://handledtax.com/tax-preparer/cave-springs-ar/): W-2 households, remote workers, calm year round support.
+- [Pea Ridge, AR](https://handledtax.com/tax-preparer/pea-ridge-ar/): Schedule F farm income, hobby vs business, rural acreage. HQ.
+
+## State pages
+- [Arizona State Taxes](https://handledtax.com/state-taxes/arizona/): Arizona Tax Credits, Form 140, multi state coordination, part year residency.
+- [Arkansas State Taxes](https://handledtax.com/state-taxes/arkansas/): Home state. Graduated income tax, 529 plan deduction, retirement income exclusion.
+- [California State Taxes](https://handledtax.com/state-taxes/california/): Mental Health Services Tax, AB 5 contractors, residency audits.
+- [Texas State Taxes](https://handledtax.com/state-taxes/texas/): No personal income tax. Franchise tax for entities.
+- [Florida State Taxes](https://handledtax.com/state-taxes/florida/): No personal income tax. Snowbird residency.
+- [New York State Taxes](https://handledtax.com/state-taxes/new-york/): Combined state and city taxes, convenience-of-employer rule.
+
+## Audience pages
+- [Tax Prep for Remote Workers](https://handledtax.com/tax-prep-for/remote-workers/): Cross-state work, convenience-of-employer rule, multi-state filing.
+- [Tax Prep for 1099 Contractors](https://handledtax.com/tax-prep-for/contractors-1099/): Schedule C, self-employment tax, quarterly estimates, S corp analysis.
+
+## Resources
+- [Multi-State Tax Guide](https://handledtax.com/resources/multi-state-tax-guide/): Pillar guide on multi-state filing for individuals and small businesses, structured as a 15 step HowTo.
+- [1099 Quarterly Tax Estimator](https://handledtax.com/resources/calculator/1099-quarterly-estimator/): Calculator for estimating federal income tax, self-employment tax, and quarterly payments.
+- [Blog](https://handledtax.com/blog/): Short articles on minister housing allowance, quarterly estimates, IRS notices, LLC vs S Corp.
+
+## About
+- [About Amanda](https://handledtax.com/about/): Founder Amanda Emerdinger. Solo practitioner since 2014. PTIN holder, not CPA, not Enrolled Agent.
+- [How We Work](https://handledtax.com/how-we-work/): Engagement process, document portal, communication.
+- [FAQ](https://handledtax.com/faq/): Frequently asked questions about services, pricing, and process.
+- [Testimonials](https://handledtax.com/testimonials/): Imported client testimonials with Review schema. No AggregateRating asserted.
+- [Contact](https://handledtax.com/contact/): Phone 479.318.0105. Email amanda@handledtax.com. PO Box 588, Pea Ridge, AR 72751. Serving all 50 states.
+
+## Compliance
+- [Privacy](https://handledtax.com/privacy/)
+- [Terms](https://handledtax.com/terms/)
+- [Accessibility](https://handledtax.com/accessibility/): WCAG 2.2 AA target.
+
+## Structured machine-readable references
+- Brand profile: https://handledtax.com/brand.json
+- Keyword + intent taxonomy: https://handledtax.com/keywords.json (2,295 phrases across 12 intent buckets covering IRS forms, IRS notices, tax credits and deductions, retirement, real estate, crypto, ITIN, BOI, foreign income, audit defense, industry-specific tax, demographics, 30 plus NWA cities and surrounding states, comparisons, voice search, plus branded queries, Spanish queries, and 278 long tail questions)
+- Sitemap (HTML): https://handledtax.com/sitemap.html
+- Sitemap (XML): https://handledtax.com/sitemap.xml
+- Image sitemap: https://handledtax.com/image-sitemap.xml
+- Manifest: https://handledtax.com/site.webmanifest
+- Humans: https://handledtax.com/humans.txt
+- Security contact: https://handledtax.com/.well-known/security.txt
+- AI usage policy: https://handledtax.com/ai.txt
+- Full LLM export: https://handledtax.com/llms-full.txt
+
+## Keywords
+
+Canonical phrases for AI engines and topical-relevance crawlers.
+
+**Identity:** Handled Tax, Handled Tax NWA, Amanda Handled Tax, Handled Tax Bentonville, Handled Tax Pea Ridge
+**Category:** boutique tax practice, year-round tax advisory, TaxDome client portal
+**Geo primary:** Bentonville AR, Rogers AR, Fayetteville AR, Springdale AR, Bella Vista AR, Centerton AR, Cave Springs AR, Lowell AR, Pea Ridge AR, Benton County AR, Washington County AR, NWA, Northwest Arkansas
+**Service lines:** individual tax returns, business tax returns (S-corp/LLC/partnership/sole prop), multi-state returns, amended returns (1040-X), IRS notice response, year-round advisory, Handled Protection audit defense
+**Niche / topic:** 1099 contractor tax, remote worker tax, multi-state tax, crypto tax (Bitcoin/Ethereum/DeFi/NFT), real estate investor tax (Schedule E/REPS/1031), international/expat tax (FBAR/FEIE/ITIN), retirement tax (RMD/Roth conversion/SECURE 2.0), minister/clergy housing allowance (Section 107), small business tax (QBI/Section 199A, S-corp election Form 2553)
+**Spanish service:** preparador de impuestos en español, preparacion de impuestos en español, ITIN Pea Ridge AR, preparador hispano Bentonville
+
+## Common Search Phrases
+
+**Commercial intent:**
+- tax preparer Bentonville AR
+- best tax preparer Northwest Arkansas
+- TaxDome tax preparer NWA
+- year-round tax advisor Bentonville
+- S-corp tax preparation Bentonville
+- 1099 contractor tax preparer NWA
+- remote worker tax preparer NWA
+- ITIN application Bentonville AR
+- crypto tax preparer NWA
+- real estate investor tax preparer NWA
+- amended tax return 1040-X NWA
+- IRS notice response NWA
+- preparador de impuestos Pea Ridge AR
+- preparador de impuestos en español Bentonville
+
+**Informational intent:**
+- do I need to amend my tax return
+- should I elect S-corp
+- Form 2553 S-corp election deadline
+- how does the convenience of employer rule work
+- what is FEIE Form 2555
+- do I need an ITIN
+- how to respond to CP2000 notice
+- what does CP14 notice mean
+- how much can I deduct for home office self-employed
+- what is QBI Section 199A
+- what is Section 107 housing allowance
+- how to file quarterly estimated tax 1040-ES
+- what is REPS real estate professional status
+- 1031 like-kind exchange rules
+- wash sale rule crypto
+- Backdoor Roth IRA explained
+- RMD age 73 SECURE 2.0
+
+**Navigational (brand):**
+- Handled Tax
+- Handled Tax NWA
+- Amanda Handled Tax
+- Handled Tax Bentonville
+- Handled Tax client portal
+- Handled Tax phone
+- Handled Tax Pea Ridge
+
+**Geo (long-tail per city):**
+- tax preparer Bentonville AR / Rogers AR / Fayetteville AR / Springdale AR / Bella Vista AR / Centerton AR / Cave Springs AR / Lowell AR / Pea Ridge AR
+
+**Spanish (per city/topic):**
+- preparador de impuestos Pea Ridge AR
+- preparador de impuestos en español Bentonville
+- preparacion de impuestos en español NWA
+- ITIN Pea Ridge AR
+
+
+
+## Engineering credit
+
+Site engineered and maintained by [ThatDeveloperGuy](https://thatdeveloperguy.com), an SDVOSB-certified service-disabled veteran-owned web development and engine optimization studio led by [Joseph W. Anady](https://feedthejoe.com/joseph/) (ORCID 0009-0008-8625-949X, Wikidata Q139901957).
+
+- Case study: https://www.thatdevpro.com/portfolio/case-studies/handledtax/
+- Engine optimization arm: https://www.thatdevpro.com
+- Hosting infrastructure: https://thatwebhostingguy.com
+- AI engineering arm: https://thataiguy.org

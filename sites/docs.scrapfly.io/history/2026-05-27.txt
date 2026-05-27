@@ -1,0 +1,392 @@
+# Scrapfly Documentation
+
+> Complete index of Scrapfly product documentation as Markdown. Append `.md` to any docs URL to receive the page as `text/markdown` instead of HTML — works on every page below and on any future docs page.
+
+> For the high-level platform overview (what Scrapfly does, when an agent should reach for it, quickstart, auth, errors, pricing) see https://scrapfly.io/llms.txt
+
+## Onboarding
+
+- https://scrapfly.io/docs/onboarding.md
+- https://scrapfly.io/docs/onboarding/golang.md
+- https://scrapfly.io/docs/onboarding/typescript.md
+
+## Scrape API
+
+- https://scrapfly.io/docs/scrape-api.md
+- https://scrapfly.io/docs/scrape-api/anti-scraping-protection.md
+- https://scrapfly.io/docs/scrape-api/batch.md
+- https://scrapfly.io/docs/scrape-api/billing.md
+- https://scrapfly.io/docs/scrape-api/cache.md
+- https://scrapfly.io/docs/scrape-api/classify.md
+- https://scrapfly.io/docs/scrape-api/custom.md
+- https://scrapfly.io/docs/scrape-api/debug.md
+- https://scrapfly.io/docs/scrape-api/dns.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ACCOUNT::PAYMENT_REQUIRED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ACCOUNT::SUSPENDED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::API::INTERNAL_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::CAPTCHA_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::CAPTCHA_TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::SHIELD_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::SHIELD_EXPIRED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::SHIELD_NOT_ELIGIBLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::SHIELD_PROTECTION_FAILED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::UNABLE_TO_SOLVE_CAPTCHA.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::ASP::UPSTREAM_UNEXPECTED_RESPONSE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::CONFIG::SUBSCRIPTION_TIER_REQUIRED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::ENDPOINT_DISABLED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::ENDPOINT_NOT_FOUND.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::ENDPOINT_UNAVAILABLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::INVALID_KEY.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::NO_TEMPLATE_MATCH.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::QUOTA_EXCEEDED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::RATE_LIMITED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::TEMPLATE_DOMAIN_REQUIRED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::DATA_API::URL_NOT_ALLOWED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::EXTRACTION_TEMPLATE::INVALID_PROMPT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::EXTRACTION_TEMPLATE::MATCH_DOMAIN_REQUIRED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::FINGERPRINT::CONFIG_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::JOB::NOT_FOUND.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::POOL_NOT_AVAILABLE_FOR_TARGET.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::POOL_NOT_FOUND.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::POOL_UNAVAILABLE_COUNTRY.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::RESOURCES_SATURATION.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::PROXY::UNAVAILABLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::BAD_PROTOCOL.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::BAD_UPSTREAM_RESPONSE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::BATCH_CONFIG.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::CLASSIFY_CONFIG.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::CONFIG_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::COST_BUDGET_LIMIT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::COUNTRY_NOT_AVAILABLE_FOR_TARGET.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DNS_NAME_NOT_RESOLVED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DOMAIN_NOT_ALLOWED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DOM_SELECTOR_INVALID.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DOM_SELECTOR_INVISIBLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DOM_SELECTOR_NOT_FOUND.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DRIVER_CRASHED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DRIVER_INSUFFICIENT_RESOURCES.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::DRIVER_TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::FORMAT_CONVERSION_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::JAVASCRIPT_EXECUTION.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::NETWORK_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::NETWORK_SERVER_DISCONNECTED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::NO_BROWSER_AVAILABLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::OPERATION_TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::PLATFORM_NOT_AVAILABLE_FOR_TARGET.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::PROJECT_QUOTA_LIMIT_REACHED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::QUOTA_LIMIT_REACHED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::SCENARIO_DEADLINE_OVERFLOW.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::SCENARIO_EXECUTION.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::SCENARIO_TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::SSL_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::TIMEOUT_TOO_LOW_FOR_TARGET.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::TOO_MANY_CONCURRENT_REQUEST.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::UNABLE_TO_TAKE_SCREENSHOT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::UPSTREAM_TIMEOUT.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SCRAPE::UPSTREAM_WEBSITE_ERROR.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SESSION::CONCURRENT_ACCESS.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::SESSION::PROXY_POOL_MISMATCH.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::THROTTLE::MAX_API_CREDIT_BUDGET_EXCEEDED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::THROTTLE::MAX_CONCURRENT_REQUEST_EXCEEDED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::THROTTLE::MAX_REQUEST_RATE_EXCEEDED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::WEBHOOK::DISABLED.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::WEBHOOK::ENDPOINT_UNREACHABLE.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::WEBHOOK::MAX_RETRY.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::WEBHOOK::NOT_FOUND.md
+- https://scrapfly.io/docs/scrape-api/error/ERR::WEBHOOK::QUEUE_FULL.md
+- https://scrapfly.io/docs/scrape-api/errors.md
+- https://scrapfly.io/docs/scrape-api/extraction.md
+- https://scrapfly.io/docs/scrape-api/faq.md
+- https://scrapfly.io/docs/scrape-api/getting-started.md
+- https://scrapfly.io/docs/scrape-api/javascript-rendering.md
+- https://scrapfly.io/docs/scrape-api/javascript-scenario.md
+- https://scrapfly.io/docs/scrape-api/proxy-mode.md
+- https://scrapfly.io/docs/scrape-api/proxy-mode/apify.md
+- https://scrapfly.io/docs/scrape-api/proxy-mode/screaming-frog.md
+- https://scrapfly.io/docs/scrape-api/proxy.md
+- https://scrapfly.io/docs/scrape-api/schedule.md
+- https://scrapfly.io/docs/scrape-api/screenshot.md
+- https://scrapfly.io/docs/scrape-api/session.md
+- https://scrapfly.io/docs/scrape-api/ssl.md
+- https://scrapfly.io/docs/scrape-api/troubleshoot.md
+- https://scrapfly.io/docs/scrape-api/understand-timeout.md
+- https://scrapfly.io/docs/scrape-api/webhook.md
+
+## Screenshot API
+
+- https://scrapfly.io/docs/screenshot-api/accessibility.md
+- https://scrapfly.io/docs/screenshot-api/billing.md
+- https://scrapfly.io/docs/screenshot-api/error/ERR::SCREENSHOT::CONFIG_ERROR.md
+- https://scrapfly.io/docs/screenshot-api/error/ERR::SCREENSHOT::INVALID_CONTENT_TYPE.md
+- https://scrapfly.io/docs/screenshot-api/error/ERR::SCREENSHOT::UNABLE_TO_TAKE_SCREENSHOT.md
+- https://scrapfly.io/docs/screenshot-api/errors.md
+- https://scrapfly.io/docs/screenshot-api/getting-started.md
+- https://scrapfly.io/docs/screenshot-api/monitoring.md
+- https://scrapfly.io/docs/screenshot-api/schedule.md
+- https://scrapfly.io/docs/screenshot-api/webhook.md
+
+## Extraction API
+
+- https://scrapfly.io/docs/extraction-api/automatic-ai.md
+- https://scrapfly.io/docs/extraction-api/billing.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::CONFIG_ERROR.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::CONTENT_TYPE_NOT_SUPPORTED.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::DATA_ERROR.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::INVALID_RULE.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::INVALID_TEMPLATE.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::LLM_EXTRACTOR_ERROR.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::NO_CONTENT.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::OPERATION_TIMEOUT.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::OUT_OF_CAPACITY.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::TEMPLATE_NOT_FOUND.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::TEMPLATE_RESOLVE_ERROR.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::TEMPLATE_URL_MISMATCH.md
+- https://scrapfly.io/docs/extraction-api/error/ERR::EXTRACTION::TIMEOUT.md
+- https://scrapfly.io/docs/extraction-api/errors.md
+- https://scrapfly.io/docs/extraction-api/faq.md
+- https://scrapfly.io/docs/extraction-api/getting-started.md
+- https://scrapfly.io/docs/extraction-api/llm-prompt.md
+- https://scrapfly.io/docs/extraction-api/monitoring.md
+- https://scrapfly.io/docs/extraction-api/rules-and-template.md
+- https://scrapfly.io/docs/extraction-api/webhook.md
+
+## Crawler API
+
+- https://scrapfly.io/docs/crawler-api/billing.md
+- https://scrapfly.io/docs/crawler-api/errors.md
+- https://scrapfly.io/docs/crawler-api/extraction-rules.md
+- https://scrapfly.io/docs/crawler-api/faq.md
+- https://scrapfly.io/docs/crawler-api/getting-started.md
+- https://scrapfly.io/docs/crawler-api/monitoring.md
+- https://scrapfly.io/docs/crawler-api/results.md
+- https://scrapfly.io/docs/crawler-api/schedule.md
+- https://scrapfly.io/docs/crawler-api/troubleshoot.md
+- https://scrapfly.io/docs/crawler-api/url-sources.md
+- https://scrapfly.io/docs/crawler-api/warc-format.md
+- https://scrapfly.io/docs/crawler-api/webhook.md
+
+## Cloud Browser API
+
+- https://scrapfly.io/docs/cloud-browser-api/agent-browser.md
+- https://scrapfly.io/docs/cloud-browser-api/billing.md
+- https://scrapfly.io/docs/cloud-browser-api/bring-your-own-proxy.md
+- https://scrapfly.io/docs/cloud-browser-api/browser-use.md
+- https://scrapfly.io/docs/cloud-browser-api/captcha-solver.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Accessibility.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Animation.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Antibot.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Audits.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Autofill.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/BackgroundService.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/BluetoothEmulation.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Browser.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/CSS.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/CacheStorage.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Cast.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Console.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/CrashReportContext.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DOM.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DOMDebugger.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DOMSnapshot.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DOMStorage.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Debugger.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DeviceAccess.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/DeviceOrientation.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Emulation.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/EventBreakpoints.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Extensions.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/FedCm.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Fetch.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/FileSystem.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/HeadlessExperimental.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/HeapProfiler.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/IO.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/IndexedDB.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Input.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Inspector.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/LayerTree.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Log.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Media.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Memory.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Network.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Overlay.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/PWA.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Page.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Performance.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/PerformanceTimeline.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Preload.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Profiler.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Runtime.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Schema.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Scrapium.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/ScrapiumBrowser.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Security.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/ServiceWorker.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/SmartCardEmulation.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Storage.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/SystemInfo.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Target.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Tethering.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/Tracing.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/WebAudio.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/WebAuthn.md
+- https://scrapfly.io/docs/cloud-browser-api/cdp-reference/WebMCP.md
+- https://scrapfly.io/docs/cloud-browser-api/debug-mode.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::ALLOCATION_FAILED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::BYOP_CUSTOM_PLAN_REQUIRED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::BYOP_FEATURE_NOT_ENABLED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::BYOP_INVALID_PROXY_FORMAT.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::BYOP_PROXY_UNREACHABLE.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::CDP_CONNECTION_FAILED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::CONFIG_ERROR.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::EXTENSION_DOWNLOAD_FAILED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::EXTENSION_INVALID.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::EXTENSION_NOT_FOUND.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::EXTENSION_QUOTA_EXCEEDED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::NAVIGATION_TIMEOUT.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::PROXY_UNAVAILABLE.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::QUOTA_LIMIT_REACHED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::SESSION_TIMEOUT.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::TOO_MANY_CONCURRENT_REQUEST.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::UNBLOCK_FAILED.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::VAULT_KEY_INVALID.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::VAULT_NOT_FOUND.md
+- https://scrapfly.io/docs/cloud-browser-api/error/ERR::BROWSER::WEBSOCKET_UPGRADE_FAILED.md
+- https://scrapfly.io/docs/cloud-browser-api/errors.md
+- https://scrapfly.io/docs/cloud-browser-api/extensions.md
+- https://scrapfly.io/docs/cloud-browser-api/file-downloads.md
+- https://scrapfly.io/docs/cloud-browser-api/getting-started.md
+- https://scrapfly.io/docs/cloud-browser-api/human-in-the-loop.md
+- https://scrapfly.io/docs/cloud-browser-api/mcp.md
+- https://scrapfly.io/docs/cloud-browser-api/monitoring.md
+- https://scrapfly.io/docs/cloud-browser-api/playwright.md
+- https://scrapfly.io/docs/cloud-browser-api/proxy.md
+- https://scrapfly.io/docs/cloud-browser-api/puppeteer.md
+- https://scrapfly.io/docs/cloud-browser-api/selenium.md
+- https://scrapfly.io/docs/cloud-browser-api/session-resume.md
+- https://scrapfly.io/docs/cloud-browser-api/stagehand.md
+- https://scrapfly.io/docs/cloud-browser-api/unblock.md
+
+## RPA
+
+- https://scrapfly.io/docs/rpa/agents.md
+- https://scrapfly.io/docs/rpa/billing.md
+- https://scrapfly.io/docs/rpa/destinations.md
+- https://scrapfly.io/docs/rpa/errors.md
+- https://scrapfly.io/docs/rpa/exit-peers.md
+- https://scrapfly.io/docs/rpa/fingerprints.md
+- https://scrapfly.io/docs/rpa/getting-started.md
+- https://scrapfly.io/docs/rpa/profiles.md
+- https://scrapfly.io/docs/rpa/scheduling.md
+- https://scrapfly.io/docs/rpa/storage.md
+- https://scrapfly.io/docs/rpa/vault.md
+- https://scrapfly.io/docs/rpa/workflows.md
+
+## Proxy Saver
+
+- https://scrapfly.io/docs/proxy-saver/billing.md
+- https://scrapfly.io/docs/proxy-saver/certificates.md
+- https://scrapfly.io/docs/proxy-saver/fingerprints.md
+- https://scrapfly.io/docs/proxy-saver/getting-started.md
+- https://scrapfly.io/docs/proxy-saver/optimizations.md
+- https://scrapfly.io/docs/proxy-saver/pacfile.md
+- https://scrapfly.io/docs/proxy-saver/protocols.md
+- https://scrapfly.io/docs/proxy-saver/security.md
+
+## Scheduler
+
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::ALREADY_CANCELLED.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::BACKEND_ERROR.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::CANNOT_MODIFY.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::CONCURRENCY_BLOCKED.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::CONFIG_ERROR.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::CRAWLER_NOT_IMPLEMENTED.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::DISABLED.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::NOT_FOUND.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::QUOTA_REACHED.md
+- https://scrapfly.io/docs/scheduler-api/error/ERR::SCHEDULER::WEBHOOK_DISABLED.md
+- https://scrapfly.io/docs/scheduler-api/errors.md
+
+## MCP
+
+- https://scrapfly.io/docs/mcp/authentication.md
+- https://scrapfly.io/docs/mcp/control-plane.md
+- https://scrapfly.io/docs/mcp/examples.md
+- https://scrapfly.io/docs/mcp/faq.md
+- https://scrapfly.io/docs/mcp/getting-started.md
+- https://scrapfly.io/docs/mcp/integrations.md
+- https://scrapfly.io/docs/mcp/integrations/agent-builder.md
+- https://scrapfly.io/docs/mcp/integrations/chatgpt.md
+- https://scrapfly.io/docs/mcp/integrations/claude-code.md
+- https://scrapfly.io/docs/mcp/integrations/claude-desktop.md
+- https://scrapfly.io/docs/mcp/integrations/cline.md
+- https://scrapfly.io/docs/mcp/integrations/crewai.md
+- https://scrapfly.io/docs/mcp/integrations/cursor.md
+- https://scrapfly.io/docs/mcp/integrations/custom-client.md
+- https://scrapfly.io/docs/mcp/integrations/langchain.md
+- https://scrapfly.io/docs/mcp/integrations/llamaindex.md
+- https://scrapfly.io/docs/mcp/integrations/make.md
+- https://scrapfly.io/docs/mcp/integrations/n8n.md
+- https://scrapfly.io/docs/mcp/integrations/openai.md
+- https://scrapfly.io/docs/mcp/integrations/roo-code.md
+- https://scrapfly.io/docs/mcp/integrations/vapi.md
+- https://scrapfly.io/docs/mcp/integrations/vscode.md
+- https://scrapfly.io/docs/mcp/integrations/windsurf.md
+- https://scrapfly.io/docs/mcp/integrations/zapier.md
+- https://scrapfly.io/docs/mcp/integrations/zed.md
+- https://scrapfly.io/docs/mcp/tools.md
+
+## CLI
+
+- https://scrapfly.io/docs/cli.md
+- https://scrapfly.io/docs/cli/agent-mode.md
+- https://scrapfly.io/docs/cli/authentication.md
+- https://scrapfly.io/docs/cli/commands.md
+- https://scrapfly.io/docs/cli/faq.md
+- https://scrapfly.io/docs/cli/github-actions.md
+- https://scrapfly.io/docs/cli/install.md
+- https://scrapfly.io/docs/cli/mcp.md
+
+## SDKs
+
+- https://scrapfly.io/docs/sdk.md
+- https://scrapfly.io/docs/sdk/golang.md
+- https://scrapfly.io/docs/sdk/python.md
+- https://scrapfly.io/docs/sdk/rust.md
+- https://scrapfly.io/docs/sdk/scrapy.md
+- https://scrapfly.io/docs/sdk/typescript.md
+
+## Integrations
+
+- https://scrapfly.io/docs/integration/agent-skills.md
+- https://scrapfly.io/docs/integration/crewai.md
+- https://scrapfly.io/docs/integration/getting-started.md
+- https://scrapfly.io/docs/integration/langchain.md
+- https://scrapfly.io/docs/integration/llamaindex.md
+- https://scrapfly.io/docs/integration/make.md
+- https://scrapfly.io/docs/integration/n8n.md
+- https://scrapfly.io/docs/integration/zapier.md
+
+## Tools
+
+- https://scrapfly.io/docs/tools/antibot-detector.md
+
+## General
+
+- https://scrapfly.io/docs.md
+- https://scrapfly.io/docs/account.md
+- https://scrapfly.io/docs/billing.md
+- https://scrapfly.io/docs/copilot.md
+- https://scrapfly.io/docs/faq.md
+- https://scrapfly.io/docs/monitoring.md
+- https://scrapfly.io/docs/openapi.md
+- https://scrapfly.io/docs/project.md
+- https://scrapfly.io/docs/release-notes.md
+- https://scrapfly.io/docs/spider.md
+- https://scrapfly.io/docs/support.md
+- https://scrapfly.io/docs/throttling.md
+- https://scrapfly.io/docs/warc_store.md
+- https://scrapfly.io/docs/workspace-and-team.md

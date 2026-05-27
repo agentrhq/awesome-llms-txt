@@ -1,0 +1,68 @@
+# Absolute Internship
+
+> Absolute Internship offers award-winning in-person and remote international internships across elite cities worldwide, providing students and graduates with valuable professional experience.
+
+## Programs
+
+- [Onsite Internship Program](https://absoluteinternship.com/programs/): In-person internships in various global cities.
+- [Remote Internship Program](https://absoluteinternship.com/programs/remote-internships/): Online internships accessible from anywhere.
+- [High School Internship Program](https://absoluteinternship.com/programs/high-school-internships/): Tailored internships for high school students.
+- [Internship Placement Service](https://absoluteinternship.com/internship-placement-service/): Customized internship placements based on individual preferences.
+- [Short Term Faculty Led Programs](https://absoluteinternship.com/faculty-led-programs/):  Custom internship programs designed for university faculty and students, offering global experience in a short timeframe.
+- [Academic Credit](https://absoluteinternship.com/academic-credit/): Earn academic credit while completing an internship. Programs are structured to meet university requirements.
+
+## Destinations
+
+- [Bangkok Internships](https://absoluteinternship.com/programs/bangkok-internships/): Gain work experience in Thailand’s capital, a hub for business, finance, and tourism. Explore Thai culture while building your career.
+- [Barcelona Internships](https://absoluteinternship.com/programs/barcelona-internships/): Intern in Spain’s vibrant city, known for startups, business, and design. Gain experience while enjoying the Mediterranean lifestyle.
+- [Beijing Internships](https://absoluteinternship.com/programs/beijing-internships/): Work in China’s political and business center. Gain global experience while exploring the rich culture and history of Beijing.
+- [Hong Kong Internships](https://absoluteinternship.com/programs/hong-kong-internships/): Intern in one of the world’s top financial hubs. Advance your career in finance, law, or marketing while enjoying the vibrant city life.
+- [Krakow Internships](https://absoluteinternship.com/programs/krakow-internships/): Gain experience in Poland’s historic and tech-driven city. Work in IT, finance, or marketing while enjoying European culture.
+- [Lisbon Internships](https://absoluteinternship.com/programs/lisbon-internships/): Intern in Portugal’s startup hub. Gain hands-on experience in tech, marketing, or business while enjoying the coastal lifestyle.
+- [London Internships](https://absoluteinternship.com/programs/london-internships/): Work in one of the world’s top business cities. Gain experience in finance, media, or fashion while exploring iconic London.
+- [Madrid Internships](https://absoluteinternship.com/programs/spain-internships/): Intern in Spain’s capital, a center for business and culture. Build your skills in finance, marketing, or law while enjoying city life.
+- [Paris Internships](https://absoluteinternship.com/programs/paris-internships/): Gain experience in Europe’s business and fashion capital. Work in luxury, marketing, or finance while enjoying Parisian culture.
+- [Seoul Internships](https://absoluteinternship.com/programs/seoul-internships/): Intern in South Korea’s tech and entertainment hub. Gain skills in business, startups, or media while exploring K-culture.
+- [Shanghai Internships](https://absoluteinternship.com/programs/shanghai-internships/): Work in China’s financial and tech hub. Build global experience in a fast-growing economy while exploring Shanghai.
+- [Singapore Internships](https://absoluteinternship.com/programs/singapore-internships/): Intern in Asia’s business-friendly city. Gain experience in finance, tech, or entrepreneurship while enjoying modern city life.
+- [Stockholm Internships](https://absoluteinternship.com/programs/stockholm-internships/): Work in Scandinavia’s business and tech hub. Gain skills in startups, finance, or design while enjoying Sweden’s lifestyle.
+- [Tokyo Internships](https://absoluteinternship.com/programs/tokyo-internships/): Intern in Japan’s global business and tech hub. Gain experience while immersing in Tokyo’s blend of tradition and innovation.
+
+## Industries
+
+- [Accounting Internships](https://absoluteinternship.com/internships/accounting-internships/): Hands-on experience in financial reporting, auditing, and tax preparation.
+- [Advertising Internships](https://absoluteinternship.com/internships/advertising-internships/): Gain insight into brand campaigns, market research, and ad strategies.
+- [Architecture Internships](https://absoluteinternship.com/internships/architecture-internships/): Work on design projects, blueprints, and real-world architectural planning.
+- [Creative Arts Internships](https://absoluteinternship.com/internships/creative-arts-internships/): Explore roles in visual arts, theater, music, and multimedia production.
+- [Business Development Internships](https://absoluteinternship.com/internships/business-development-internships/): Learn to identify growth opportunities, partnerships, and sales strategies.
+- [Engineering Internships](https://absoluteinternship.com/internships/engineering-internships/): Work on technical projects in mechanical, electrical, and civil engineering.
+- [Entrepreneurship Internships](https://absoluteinternship.com/internships/entrepreneurship-internships/): Gain experience in startups, business planning, and innovative ventures.
+- [Event Planning Internships](https://absoluteinternship.com/internships/event-planning-internships/): Assist in organizing conferences, weddings, and corporate events.
+- [Fashion Internships](https://absoluteinternship.com/internships/fashion-internships/): Work in design, merchandising, and branding within the fashion industry.
+- [Finance Internships](https://absoluteinternship.com/internships/finance-internships/): Develop skills in investment analysis, risk management, and financial planning.
+- [Graphic Design Internships](https://absoluteinternship.com/internships/graphic-design-internships/): Create visual content, branding, and digital media for businesses.
+- [Hospitality & Tourism Internships](https://absoluteinternship.com/internships/hospitality-tourism-internships/): Gain experience in hotel management, travel agencies, and customer service.
+- [Human Resources Internships](https://absoluteinternship.com/internships/human-resources-internships/): Learn about recruitment, employee relations, and workplace management.
+- [Information Technology Internships](https://absoluteinternship.com/internships/information-technology-internships/): Work on coding, cybersecurity, software development, and IT support.
+- [Journalism Internships](https://absoluteinternship.com/internships/journalism-internships/): Gain experience in news writing, reporting, and media production.
+- [Legal Internships](https://absoluteinternship.com/internships/legal-internships/): Assist in legal research, case preparation, and corporate law projects.
+- [Logistics Internships](https://absoluteinternship.com/internships/logistics-internships/): Work on supply chain management, transportation, and warehouse operations.
+- [Marketing Internships](https://absoluteinternship.com/internships/marketing-internships/): Learn about digital marketing, SEO, branding, and market research.
+- [Non-Profit Internships](https://absoluteinternship.com/internships/non-profit-internships/): Contribute to social causes, fundraising, and community development.
+- [Pharmaceutical & Healthcare Internships](https://absoluteinternship.com/internships/pharma-healthcare-internships/): Work in medical research, healthcare administration, and patient care.
+- [Public Relations Internships](https://absoluteinternship.com/internships/public-relations-internships/): Develop communication strategies, media relations, and brand management.
+- [Publishing Internships](https://absoluteinternship.com/internships/publishing-internships/): Gain experience in editing, writing, and book or magazine production.
+- [Real Estate Internships](https://absoluteinternship.com/internships/real-estate-internships/): Learn about property management, real estate marketing, and sales.
+- [Sports Management Internships](https://absoluteinternship.com/internships/sports-management-internships/): Work in athlete representation, event coordination, and sports marketing.
+- [Sustainability Internships](https://absoluteinternship.com/internships/sustainability-internships/): Gain experience in environmental conservation and sustainable business practices.
+- [Video Production Internships](https://absoluteinternship.com/internships/video-production-internships/): Work on filming, editing, and post-production for media projects.
+
+## Additional Resources
+
+- [Blog](https://absoluteinternship.com/blog/): Insights and stories from past interns.
+- [Alumni Stories](https://absoluteinternship.com/alumni/): Testimonials and experiences from program alumni.
+- [FAQs](https://absoluteinternship.com/faq/): Answers to common questions about our programs.
+
+## Contact
+
+For inquiries, please visit our [Contact Page](https://absoluteinternship.com/contact/).

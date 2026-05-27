@@ -1,0 +1,8 @@
+# The Crawl Tool
+
+A desktop app that crawls websites and lets you chat with AI about them. Perfect for SEO audits, competitor research, and understanding your own site.
+
+## Core pages
+
+- https://www.thecrawltool.com/: The Crawl Tool homepage — product overview, features, pricing, FAQ, and download links
+- https://www.thecrawltool.com/articles/: Articles and guides about The Crawl Tool

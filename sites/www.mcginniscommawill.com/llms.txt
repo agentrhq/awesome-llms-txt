@@ -1,0 +1,933 @@
+# McGinnis, Will
+
+> Will McGinnis shares expert insights on Artificial Intelligence, Machine Learning, and Software Engineering. Follow along for practical advice on tech leadership, startup development, and AI implementation from an industry veteran with experience at JPMC, RTX/UTC, and as co-founder of Predikto.
+
+## Content
+
+### Posts
+
+- [Pasta e Piselli: A Simple Italian Pasta with Peas](https://mcginniscommawill.com/posts/2026-05-25-pasta-e-piselli/): Published 2026-05-25
+
+- [Spring Reading List 2026](https://mcginniscommawill.com/posts/2026-05-05-spring-reading-list-2026/): Published 2026-05-05
+
+- [The Full McGinnis Stack: An Opinionated Python Developer Setup](https://mcginniscommawill.com/posts/2026-04-29-the-full-mcginnis-stack/): Published 2026-04-29
+
+- [Using Claude Code Hooks to Force uv](https://mcginniscommawill.com/posts/2026-04-27-claude-code-hooks-force-uv/): Published 2026-04-27
+
+- [uv Changed How I Think About Python Projects](https://mcginniscommawill.com/posts/2026-04-24-uv-changed-python-packaging/): Published 2026-04-24
+
+- [Code Archaeology with AI](https://mcginniscommawill.com/posts/2026-04-22-code-archaeology-with-ai/): Published 2026-04-22
+
+- [Technical Debt Is a Leadership Problem](https://mcginniscommawill.com/posts/2026-04-20-tech-debt-as-leadership-problem/): Published 2026-04-20
+
+- [You Don't Need a Justfile](https://mcginniscommawill.com/posts/2026-04-17-you-dont-need-a-justfile/): Published 2026-04-17
+
+- [Advanced Makefile Patterns for Python Projects](https://mcginniscommawill.com/posts/2026-04-15-advanced-makefile-patterns/): Published 2026-04-15
+
+- [Hiring Data Scientists: What Actually Matters in 2026](https://mcginniscommawill.com/posts/2026-04-14-hiring-data-scientists-2026/): Published 2026-04-14
+
+- [A Full SDLC with MCP Servers](https://mcginniscommawill.com/posts/2026-04-13-full-sdlc-with-mcps/): Published 2026-04-13
+
+- [Rating Systems Compared: Choosing the Right Algorithm](https://mcginniscommawill.com/posts/2026-04-10-rating-systems-compared/): Published 2026-04-10
+
+- [mutmut-mcp: Tests, CI, and Survivor Prioritization](https://mcginniscommawill.com/posts/2026-04-09-mutmut-mcp-update/): Published 2026-04-09
+
+- [writing-tools-mcp: Still Useful, Now With uvx](https://mcginniscommawill.com/posts/2026-04-08-writing-tools-mcp-update/): Published 2026-04-08
+
+- [todolist-mcp: Dependencies, Kanban, and Where It Fits Now](https://mcginniscommawill.com/posts/2026-04-07-todolist-mcp-update/): Published 2026-04-07
+
+- [ContextSwitch Is Now Free](https://mcginniscommawill.com/posts/2026-04-06-contextswitch-is-now-free/): Published 2026-04-06
+
+- [Ensemble Rating Systems: Combining the Best of All Worlds](https://mcginniscommawill.com/posts/2026-04-03-ensemble-rating-system/): Published 2026-04-03
+
+- [uvx --from: Run Any Python Tool Directly from GitHub](https://mcginniscommawill.com/posts/2026-04-01-uvx-run-from-github/): Published 2026-04-01
+
+- [Building idea.log with SwiftUI and SwiftData](https://mcginniscommawill.com/posts/2026-03-31-building-idealog-with-swiftui-and-swiftdata/): Published 2026-03-31
+
+- [Sentinel: Using MCP Sampling to Analyze Your Own Tool Security](https://mcginniscommawill.com/posts/2026-03-30-sentinel-mcp-security-advisor/): Published 2026-03-30
+
+- [The Colley Matrix: A Linear Algebra Approach to Ratings](https://mcginniscommawill.com/posts/2026-03-27-colley-matrix-rating-system/): Published 2026-03-27
+
+- [MCP Sampling and Elicitation: The Features That Make Servers Smart](https://mcginniscommawill.com/posts/2026-03-25-mcp-sampling-elicitation-guide/): Published 2026-03-25
+
+- [A Practical Guide to GitHub Branch Protection Rules](https://mcginniscommawill.com/posts/2026-03-24-github-branch-protection-deep-dive/): Published 2026-03-24
+
+- [Stargazers Now on Homebrew](https://mcginniscommawill.com/posts/2026-03-23-stargazers-homebrew-release/): Published 2026-03-23
+
+- [The DWZ Rating System: German Engineering for Chess Ratings](https://mcginniscommawill.com/posts/2026-03-20-dwz-rating-system/): Published 2026-03-20
+
+- [makefile-mcp: Output Caching, Pagination, and Search](https://mcginniscommawill.com/posts/2026-03-18-makefile-mcp-output-caching/): Published 2026-03-18
+
+- [Setting Up a Personal Homebrew Tap with GoReleaser](https://mcginniscommawill.com/posts/2026-03-17-personal-homebrew-tap/): Published 2026-03-17
+
+- [How I Use AI to Act on Ideas, Not Just Collect Them](https://mcginniscommawill.com/posts/2026-03-16-how-i-use-ai-to-act-on-ideas/): Published 2026-03-16
+
+- [TrueSkill: Microsoft's Rating System for Xbox Live](https://mcginniscommawill.com/posts/2026-03-13-trueskill-rating-system/): Published 2026-03-13
+
+- [hugo-frontmatter-mcp: Tests, CI, and uvx Support](https://mcginniscommawill.com/posts/2026-03-11-hugo-frontmatter-mcp-update/): Published 2026-03-11
+
+- [Introducing Vanity: Sync Your GitHub Contributions Across Accounts](https://mcginniscommawill.com/posts/2026-03-10-introducing-vanity/): Published 2026-03-10
+
+- [Maintaining Open Source Libraries Nobody Uses](https://mcginniscommawill.com/posts/2026-03-09-maintaining-oss-nobody-uses/): Published 2026-03-09
+
+- [Bankroll Management with Keeks: Strategy Comparison](https://mcginniscommawill.com/posts/2026-03-06-strategy-comparison/): Published 2026-03-06
+
+- [Rampart v0.3: Default Branch Support and HTML Reports](https://mcginniscommawill.com/posts/2026-03-04-rampart-default-branches-and-html-reports/): Published 2026-03-04
+
+- [Your Ideas Deserve Better Than Apple Notes](https://mcginniscommawill.com/posts/2026-03-03-your-ideas-deserve-better-than-apple-notes/): Published 2026-03-03
+
+- [Team MCP Servers - From Personal Tools to Shared Infrastructure](https://mcginniscommawill.com/posts/2026-03-02-team-mcp-server-infrastructure/): Published 2026-03-02
+
+- [Bankroll Management with Keeks: The Naive Strategy](https://mcginniscommawill.com/posts/2026-02-27-naive-strategy/): Published 2026-02-27
+
+- [AI Regulation One Year Later: What Changed in 2025](https://mcginniscommawill.com/posts/2026-02-26-ai-regulation-updates-2026/): Published 2026-02-26
+
+- [Introducing Rampart: Branch Protection Rules Across All Your Repos](https://mcginniscommawill.com/posts/2026-02-25-introducing-rampart/): Published 2026-02-25
+
+- [category_encoders in the Wild: A Tour of the Research](https://mcginniscommawill.com/posts/2026-02-24-category-encoders-in-the-wild/): Published 2026-02-24
+
+- [Winter Reading List 2026](https://mcginniscommawill.com/posts/2026-02-23-winter-reading-list-2026/): Published 2026-02-23
+
+- [Bankroll Management with Keeks: Dynamic Strategies](https://mcginniscommawill.com/posts/2026-02-20-dynamic-bankroll-management/): Published 2026-02-20
+
+- [The Case for a Dumb Idea App](https://mcginniscommawill.com/posts/2026-02-18-case-for-a-dumb-idea-app/): Published 2026-02-18
+
+- [python-skills: Packaging Library Development as Claude Skills](https://mcginniscommawill.com/posts/2026-02-17-python-skills-marketplace/): Published 2026-02-17
+
+- [Training a Deep Q-Network for Trading](https://mcginniscommawill.com/posts/2026-02-16-training-a-deep-q-network-for-trading/): Published 2026-02-16
+
+- [Bankroll Management with Keeks: CPPI](https://mcginniscommawill.com/posts/2026-02-13-cppi/): Published 2026-02-13
+
+- [Ruff vs Traditional Bandit - A Performance Comparison](https://mcginniscommawill.com/posts/2026-02-10-ruff-bandit-vs-traditional/): Published 2026-02-10
+
+- [Reviving Graduate School MATLAB with Claude Code](https://mcginniscommawill.com/posts/2026-02-09-parga-reviving-matlab-with-ai/): Published 2026-02-09
+
+- [Bankroll Management with Keeks: Fixed Fraction](https://mcginniscommawill.com/posts/2026-02-06-fixed-fraction/): Published 2026-02-06
+
+- [The Scientific Method as a Decision Framework](https://mcginniscommawill.com/posts/2026-02-03-scientific-method-business/): Published 2026-02-03
+
+- [How I Write Software With AI](https://mcginniscommawill.com/posts/2026-02-02-how-i-write-software-with-ai/): Published 2026-02-02
+
+- [Bankroll Management with Keeks: OptimalF](https://mcginniscommawill.com/posts/2026-01-30-optimalf/): Published 2026-01-30
+
+- [Integrating Bandit into CI/CD Pipelines](https://mcginniscommawill.com/posts/2026-01-27-bandit-ci-cd-integration/): Published 2026-01-27
+
+- [Evergreen Gets Even Evergreener](https://mcginniscommawill.com/posts/2026-01-26-evergreen-gets-even-evergreener/): Published 2026-01-26
+
+- [Bankroll Management with Keeks: Drawdown-Adjusted Kelly](https://mcginniscommawill.com/posts/2026-01-23-drawdown-adjusted-kelly/): Published 2026-01-23
+
+- [Managing Bandit False Positives Without Breaking Security](https://mcginniscommawill.com/posts/2026-01-22-bandit-false-positives/): Published 2026-01-22
+
+- [Atlanta AI Dinner: What's Coming in 2026](https://mcginniscommawill.com/posts/2026-01-20-atlanta-ai-dinner-2026-plans/): Published 2026-01-20
+
+- [Bankroll Management with Keeks: Fractional Kelly](https://mcginniscommawill.com/posts/2026-01-16-fractional-kelly/): Published 2026-01-16
+
+- [Scenario Planning for When You Don't Know What's Coming](https://mcginniscommawill.com/posts/2026-01-14-scenario-planning/): Published 2026-01-14
+
+- [The Complete Guide to Long-Term Airbnb Stays with a Three-Year-Old](https://mcginniscommawill.com/posts/2026-01-12-long-term-airbnb-with-toddler/): Published 2026-01-12
+
+- [Verification and Validation: Building the Right Thing Right](https://mcginniscommawill.com/posts/2026-01-08-verification-and-validation/): Published 2026-01-08
+
+- [Bet A Day: An App for Practicing Decisions Under Uncertainty](https://mcginniscommawill.com/posts/2026-01-06-bet-a-day/): Published 2026-01-06
+
+- [idea.log: An iPhone App for Capturing Ideas on the Go](https://mcginniscommawill.com/posts/2026-01-05-idea-log-an-iphone-app-for-capturing-ideas/): Published 2026-01-05
+
+- [Trail Report: Palmer Woods, Michigan](https://mcginniscommawill.com/posts/2026-01-04-palmer-woods-trail-report/): Published 2026-01-04
+
+- [Trail Report: Coldwater Mountain](https://mcginniscommawill.com/posts/2026-01-03-coldwater-mountain-trail-report/): Published 2026-01-03
+
+- [Year's Start: Looking Forward to 2026](https://mcginniscommawill.com/posts/2026-01-02-years-start-looking-forward-2026/): Published 2026-01-02
+
+- [Year's End: Looking Back at 2025](https://mcginniscommawill.com/posts/2025-12-31-years-end-looking-back-2025/): Published 2025-12-31
+
+- [Project Diaries in ContextSwitch: Your AI-Powered Development Journal](https://mcginniscommawill.com/posts/2025-12-29-contextswitch-diary-features/): Published 2025-12-29
+
+- [AI Tools I Actually Use](https://mcginniscommawill.com/posts/2025-12-25-ai-tools-i-actually-use/): Published 2025-12-25
+
+- [A Guide to the Guides](https://mcginniscommawill.com/posts/2025-12-23-a-guide-to-the-guides/): Published 2025-12-23
+
+- [PyGeoHash 2025: A Year of Transformation](https://mcginniscommawill.com/posts/2025-12-22-pygeohash-year-in-review/): Published 2025-12-22
+
+- [Claude Skills: Teaching Your AI Assistant Context-Aware Expertise](https://mcginniscommawill.com/posts/2025-12-18-claude-skills-context-aware-expertise/): Published 2025-12-18
+
+- [Building Blog Header Art with Claude Skills](https://mcginniscommawill.com/posts/2025-12-15-building-blog-header-art-with-claude-skills/): Published 2025-12-15
+
+- [Deep Research Systems: Architectural Differences That Matter](https://mcginniscommawill.com/posts/2025-12-08-deep-research-systems-comparison/): Published 2025-12-08
+
+- [AI Agents Will Break Our Markets (Unless We Fix Them First)](https://mcginniscommawill.com/posts/2025-12-04-ai-agents-economy/): Published 2025-12-04
+
+- [Native Structured Outputs: When to Skip the Framework](https://mcginniscommawill.com/posts/2025-12-01-native-structured-outputs/): Published 2025-12-01
+
+- [Comparing Python Libraries for Structured LLM Extraction](https://mcginniscommawill.com/posts/2025-11-27-structured-extraction-with-llms/): Published 2025-11-27
+
+- [Personal Blogs and the Small Web](https://mcginniscommawill.com/posts/2025-11-24-personal-blogs-and-the-small-web/): Published 2025-11-24
+
+- [From Theory to Practice: Building Real Decision Models with Petersburg](https://mcginniscommawill.com/posts/2025-11-20-from-theory-to-practice-petersburg/): Published 2025-11-20
+
+- [I Tested LLM Prompt Caching With Anthropic and OpenAI](https://mcginniscommawill.com/posts/2025-11-17-llm-prompt-caching-comparison/): Published 2025-11-17
+
+- [MCPB: One-Click Installation for MCP Servers](https://mcginniscommawill.com/posts/2025-11-13-mcpb-one-click-mcp-installation/): Published 2025-11-13
+
+- [Governance in AI Agent Security](https://mcginniscommawill.com/posts/2025-11-10-prompt-injection-governance/): Published 2025-11-10
+
+- [Resulting: Why Good Decisions Sometimes Look Bad](https://mcginniscommawill.com/posts/2025-11-06-resulting/): Published 2025-11-06
+
+- [Recognition-Primed Decisions: Expert Intuition Under Pressure](https://mcginniscommawill.com/posts/2025-11-03-recognition-primed-decisions/): Published 2025-11-03
+
+- [Fall Reading List 2025](https://mcginniscommawill.com/posts/2025-10-31-fall-reading-list/): Published 2025-10-31
+
+- [The Nursing Decision Cycle: Clinical Judgment Under Pressure](https://mcginniscommawill.com/posts/2025-10-27-nursing-decision-cycle/): Published 2025-10-27
+
+- [Joining Scale Venture Partners as Chief Data Scientist](https://mcginniscommawill.com/posts/2025-10-20-joining-scale-venture-partners/): Published 2025-10-20
+
+- [Keeks 0.3.0: Introducing the Merton Share Strategy](https://mcginniscommawill.com/posts/2025-10-15-keeks-0_3_0-release/): Published 2025-10-15
+
+- [What Two Failed Vibe Coding Projects Taught Me About AI Assistants](https://mcginniscommawill.com/posts/2025-10-13-vibe-coding-lessons/): Published 2025-10-13
+
+- [Building a Personal Prompt Library with MCP and Lexicon](https://mcginniscommawill.com/posts/2025-10-10-contextswitch-lexicon-mcp-prompts/): Published 2025-10-10
+
+- [Evergreen Gets Serious: Building Tools That Think With You](https://mcginniscommawill.com/posts/2025-10-08-evergreen-gets-serious/): Published 2025-10-08
+
+- [Angel Portfolio Cira 2021-2023 Update](https://mcginniscommawill.com/posts/2025-10-06-portfolio-update/): Published 2025-10-06
+
+- [Keeping Claude Code, Cursor, and Codex on Track with ContextSwitch](https://mcginniscommawill.com/posts/2025-10-03-contextswitch-agent-coordination/): Published 2025-10-03
+
+- [MCP Prompts and Resources: The Hidden Gems](https://mcginniscommawill.com/posts/2025-09-29-mcp-prompts-resources-guide/): Published 2025-09-29
+
+- [Competitive Intelligence from Job Postings: Reading the Tea Leaves](https://mcginniscommawill.com/posts/2025-09-22-competitive-intelligence-job-postings/): Published 2025-09-22
+
+- [The HR Audit: Job Posting Compliance and Risk Management](https://mcginniscommawill.com/posts/2025-09-19-auditing-job-postings-hr-compliance/): Published 2025-09-19
+
+- [Writing Job Postings That Actually Work: A Hiring Manager's Guide](https://mcginniscommawill.com/posts/2025-09-17-writing-job-postings-hiring-manager/): Published 2025-09-17
+
+- [Reading Between the Lines: How to Analyze Job Postings as a Candidate](https://mcginniscommawill.com/posts/2025-09-15-reading-job-postings-as-a-candidate/): Published 2025-09-15
+
+- [Smoked Chicken with Alabama White Sauce](https://mcginniscommawill.com/posts/2025-09-12-smoked-chicken-alabama-white-sauce/): Published 2025-09-12
+
+- [Two Ways: Grilled Marinated Wings](https://mcginniscommawill.com/posts/2025-09-10-grilled-marinated-wings/): Published 2025-09-10
+
+- [The Internet Economy Battle Royale: Bots vs Content](https://mcginniscommawill.com/posts/2025-09-08-internet-economy-battle-royale/): Published 2025-09-08
+
+- [Vibe Coding a Personal CRM in Swift (Having Never Written Swift)](https://mcginniscommawill.com/posts/2025-09-05-vibe-coding-personal-crm/): Published 2025-09-05
+
+- [The Mensarius Oath: When Ancient Banking Meets Modern Ethics](https://mcginniscommawill.com/posts/2025-09-03-mensarius-oath/): Published 2025-09-03
+
+- [Summer Reading List 2025](https://mcginniscommawill.com/posts/2025-09-01-summer-reading-list/): Published 2025-09-01
+
+- [Management Technical Debt: The Hidden Costs of Quick Fixes](https://mcginniscommawill.com/posts/2025-08-29-engineering-management-technical-debt/): Published 2025-08-29
+
+- [Metrics That Actually Matter (And the Ones That Don't)](https://mcginniscommawill.com/posts/2025-08-27-metrics-that-actually-matter/): Published 2025-08-27
+
+- [SQL Injection Detection with Bandit Rule B608: Beyond the Basics](https://mcginniscommawill.com/posts/2025-08-25-sql-injection-detection-b608/): Published 2025-08-25
+
+- [Advanced Bandit Configuration: Custom Rules and Team Workflows](https://mcginniscommawill.com/posts/2025-08-22-advanced-bandit-configuration/): Published 2025-08-22
+
+- [Trail Report: Sope Creek, Atlanta's Urban Singletrack Oasis](https://mcginniscommawill.com/posts/2025-08-20-sope-creek-trail-report/): Published 2025-08-20
+
+- [Trail Report: Vomet Comet - A Rollercoaster of Technical Thrills](https://mcginniscommawill.com/posts/2025-08-18-vomet-comet-trail-report/): Published 2025-08-18
+
+- [Deciding with Incomplete Data: When Perfect Information Isn't Possible](https://mcginniscommawill.com/posts/2025-08-11-incomplete-data/): Published 2025-08-11
+
+- [High-Reliability Organizations: When Failure Isn't an Option](https://mcginniscommawill.com/posts/2025-08-08-high-reliability-organizations/): Published 2025-08-08
+
+- [Cowboy Caviar: Fresh Tex-Mex Bean and Corn Salad](https://mcginniscommawill.com/posts/2025-08-04-cowboy-caviar/): Published 2025-08-04
+
+- [The Efficiency Trap: When Optimization Kills Growth](https://mcginniscommawill.com/posts/2025-08-01-the-efficiency-trap/): Published 2025-08-01
+
+- [The Passive Resistance Problem: When Good Employees Go Quiet](https://mcginniscommawill.com/posts/2025-07-30-passive-resistance-problem/): Published 2025-07-30
+
+- [Things That Look Like Work But Aren't](https://mcginniscommawill.com/posts/2025-07-28-things-that-look-like-work/): Published 2025-07-28
+
+- [Integrated Venture Engineering: Building Profitable Ventures by Design](https://mcginniscommawill.com/posts/2025-07-25-integrated-venture-engineering/): Published 2025-07-25
+
+- [Decision-Modeling vs. Process-Modeling: Why the Space Between Matters](https://mcginniscommawill.com/posts/2025-07-23-decision-modeling-vs-process-modeling/): Published 2025-07-23
+
+- [The Three Pillars of Product Success: Why Good Ideas Still Fail](https://mcginniscommawill.com/posts/2025-07-21-three-pillars-product-success/): Published 2025-07-21
+
+- [Three Ways Wispr Flow Actually Makes Sense](https://mcginniscommawill.com/posts/2025-07-18-wispr-flow-three-use-cases/): Published 2025-07-18
+
+- [The Speed-Quality Paradox: When Fast Decisions Kill Startups](https://mcginniscommawill.com/posts/2025-07-17-startup-decision-making-speed-quality/): Published 2025-07-17
+
+- [AI Prompts for Real Life: Templates That Actually Work](https://mcginniscommawill.com/posts/2025-07-16-ai-prompts-everyday-tasks/): Published 2025-07-16
+
+- [The New Collaboration Patterns: How AI is Reshaping Human Teamwork](https://mcginniscommawill.com/posts/2025-07-15-ai-human-collaboration-patterns/): Published 2025-07-15
+
+- [The Regular Person's AI Stack: Tools That Actually Help](https://mcginniscommawill.com/posts/2025-07-14-everyday-ai-stack/): Published 2025-07-14
+
+- [Data-Driven Decisions vs. Data-Justified Decisions](https://mcginniscommawill.com/posts/2025-07-11-data-driven-vs-data-justified-decisions/): Published 2025-07-11
+
+- [Family Financial Policies: Clear Guidelines That Prevent Conflicts](https://mcginniscommawill.com/posts/2025-07-09-family-financial-policies/): Published 2025-07-09
+
+- [The Chatham House Rule: What It Means and Why It Matters](https://mcginniscommawill.com/posts/2025-07-07-chatham-house-rules/): Published 2025-07-07
+
+- [The FTC vs. '98% Accurate' Claims: Lessons from the Workado Settlement](https://mcginniscommawill.com/posts/2025-07-04-ftc-workado-settlement/): Published 2025-07-04
+
+- [Ghost Letters: The Hidden Signatures AI Leaves in Your Text](https://mcginniscommawill.com/posts/2025-07-02-ghost-letters/): Published 2025-07-02
+
+- [Return on Luck: How to Actually Capitalize on Lucky Breaks](https://mcginniscommawill.com/posts/2025-06-30-return-on-luck/): Published 2025-06-30
+
+- [Coconut Milk Poached Kobia in a Tagine with Dill and Lemon](https://mcginniscommawill.com/posts/2025-06-28-coconut-milk-poached-kobia-with-tajin/): Published 2025-06-28
+
+- [What I Wish I Knew About Management When I Was an IC](https://mcginniscommawill.com/posts/2025-06-27-what-i-wish-i-knew-about-management/): Published 2025-06-27
+
+- [Simon's Decision Framework: A Simple Structure for Complex Decisions](https://mcginniscommawill.com/posts/2025-06-25-simon-decision-framework/): Published 2025-06-25
+
+- [Increasing Your Surface Area for Luck](https://mcginniscommawill.com/posts/2025-06-23-increasing-surface-area-for-luck/): Published 2025-06-23
+
+- [Decision-Making Frameworks That Prevent Family Financial Conflicts](https://mcginniscommawill.com/posts/2025-06-20-decision-making-frameworks/): Published 2025-06-20
+
+- [Password Management and Digital Security for Your Family](https://mcginniscommawill.com/posts/2025-06-18-password-management-digital-security/): Published 2025-06-18
+
+- [The Career Audit: Skills, Joy, and Market Value Sweet Spot](https://mcginniscommawill.com/posts/2025-06-17-skill-inventory-career-audit/): Published 2025-06-17
+
+- [The Family Financial Meeting: A Step-by-Step Guide](https://mcginniscommawill.com/posts/2025-06-16-family-financial-meetings/): Published 2025-06-16
+
+- [Burstiness: The Rhythm Detector AI Can't Fake (Yet)](https://mcginniscommawill.com/posts/2025-06-13-burstiness-rhythm-detector/): Published 2025-06-13
+
+- [Perplexity 101: How Language Models Measure Surprise](https://mcginniscommawill.com/posts/2025-06-11-perplexity-101/): Published 2025-06-11
+
+- [Testing the Waters: Explore Career Paths Without Burning Bridges](https://mcginniscommawill.com/posts/2025-06-10-career-path-decision-framework/): Published 2025-06-10
+
+- [Launching Atlanta AI Dinner: Just Good People and Better Conversation](https://mcginniscommawill.com/posts/2025-06-09-launching-atlanta-ai-dinner/): Published 2025-06-09
+
+- [Moroccan-Inspired Spiced Chicken Thighs with Couscous: One-Pan Magic](https://mcginniscommawill.com/posts/2025-06-08-spiced-chicken-thighs-couscous/): Published 2025-06-08
+
+- [Microwave Egg Fluff: The Weird Technique That Actually Works](https://mcginniscommawill.com/posts/2025-06-07-microwave-egg-fluff/): Published 2025-06-07
+
+- [Consumption vs. Creation: Finding Balance in Your Leisure Time](https://mcginniscommawill.com/posts/2025-06-06-consumption-vs-creation-leisure/): Published 2025-06-06
+
+- [AI for Small Business: Real-World Ways to Get Started](https://mcginniscommawill.com/posts/2025-06-04-llms-in-the-real-world/): Published 2025-06-04
+
+- [Tinto de Verano: Spain's Perfect Summer Drink](https://mcginniscommawill.com/posts/2025-06-03-tinto-de-verano-recipe/): Published 2025-06-03
+
+- [From Data Scientist to Manager: Models to Mentorship](https://mcginniscommawill.com/posts/2025-06-02-from-ds-to-manager/): Published 2025-06-02
+
+- [Hainanese Chicken Rice: The Ultimate Comfort Food Trinity](https://mcginniscommawill.com/posts/2025-06-01-hainanese-chicken-rice/): Published 2025-06-01
+
+- [Blogs I Love to Read](https://mcginniscommawill.com/posts/2025-05-30-favorite-blogs/): Published 2025-05-30
+
+- [Bandit Severity Levels: Understanding High, Medium, and Low Findings](https://mcginniscommawill.com/posts/2025-05-29-bandit-severity-levels-explained/): Published 2025-05-29
+
+- [Your Family Financial Dashboard: Seeing the Complete Picture](https://mcginniscommawill.com/posts/2025-05-28-family-financial-dashboard/): Published 2025-05-28
+
+- [Bandit's Hardcoded Password Detection: Rules B105-B107 in Practice](https://mcginniscommawill.com/posts/2025-05-27-hardcoded-password-detection-b105-b107/): Published 2025-05-27
+
+- [Bandit Security Rules: Complete Python Vulnerability Guide](https://mcginniscommawill.com/posts/2025-05-26-bandit-security-rules-complete-guide/): Published 2025-05-26
+
+- [Practical MCP Use: Real-World Workflows with Model Context Protocol](https://mcginniscommawill.com/posts/2025-05-24-practical-mcp-use/): Published 2025-05-24
+
+- [Juggling Projects? Analyze Multiple Repos at Once with GitPandas](https://mcginniscommawill.com/posts/2025-05-23-multi-repo/): Published 2025-05-23
+
+- [Remote Work vs Asynchronous Work: Why Async Wins, Wherever You Are](https://mcginniscommawill.com/posts/2025-05-22-remote-vs-async-work/): Published 2025-05-22
+
+- [Group Decision Making: Team Dynamics in Life-Critical Situations](https://mcginniscommawill.com/posts/2025-05-21-group-decision-making/): Published 2025-05-21
+
+- [Stargazers CLI Update: Nested Commands, Account Trends, and Plotting!](https://mcginniscommawill.com/posts/2025-05-20-stargazers-update-post/): Published 2025-05-20
+
+- [Mutation Testing with mumut for Pygeohash](https://mcginniscommawill.com/posts/2025-05-19-mutation-testing/): Published 2025-05-19
+
+- [Decision Journals: Learning from High-Stakes Decisions](https://mcginniscommawill.com/posts/2025-05-18-decision-journals/): Published 2025-05-18
+
+- [Pad Kra Pao (Thai Basil Stir-Fry)](https://mcginniscommawill.com/posts/2025-05-17-pad-kra-pao/): Published 2025-05-17
+
+- [Digging into Code Churn with GitPandas](https://mcginniscommawill.com/posts/2025-05-16-gitpandas-edit-rates/): Published 2025-05-16
+
+- [Refactoring Library Interfaces](https://mcginniscommawill.com/posts/2025-05-15-from-clunky-to-elegant/): Published 2025-05-15
+
+- [Context-Aware Library Design: Build for Your Users](https://mcginniscommawill.com/posts/2025-05-14-context-aware-library-design/): Published 2025-05-14
+
+- [Who Holds the Keys? Calculating Bus Factor with GitPandas](https://mcginniscommawill.com/posts/2025-05-13-bus-factor/): Published 2025-05-13
+
+- [Building Your Digital Vault: Secure Document Organization Made Simple](https://mcginniscommawill.com/posts/2025-05-12-digital-vault/): Published 2025-05-12
+
+- [Crafting Simple Chili Crush: A Spicy Homemade Condiment](https://mcginniscommawill.com/posts/2025-05-11-simple-chili-crush/): Published 2025-05-11
+
+- [PDCA Quality Control: Applying Plan-Do-Check-Act in Modern Industries](https://mcginniscommawill.com/posts/2025-05-10-pdca-quality-control/): Published 2025-05-10
+
+- [Family Mission Statement: Foundation of Financial Clarity](https://mcginniscommawill.com/posts/2025-05-09-family-mission-statement/): Published 2025-05-09
+
+- [Red Teaming: How to Stress-Test Your Most Important Decisions](https://mcginniscommawill.com/posts/2025-05-08-red-teaming/): Published 2025-05-08
+
+- [Getting Things Done: High-Stakes Decisions Need Clear Minds](https://mcginniscommawill.com/posts/2025-05-07-getting-things-done/): Published 2025-05-07
+
+- [Coordinating Financial Advisors: Streamlining for Better Outcomes](https://mcginniscommawill.com/posts/2025-05-06-coordinating-financial-advisors/): Published 2025-05-06
+
+- [The ECF Rating System: The British Approach to Chess Ratings](https://mcginniscommawill.com/posts/2025-05-05-ecf-rating-system/): Published 2025-05-05
+
+- [Writing Tools MCP: A Toolkit for Better Writing](https://mcginniscommawill.com/posts/2025-05-05-writing-tools-mcp/): Published 2025-05-05
+
+- [Loonshots: Nurturing Crazy Ideas That Transform Industries](https://mcginniscommawill.com/posts/2025-05-04-loonshots-book-review/): Published 2025-05-04
+
+- [Lavender Crème Brûlée: A Floral Twist on a Classic](https://mcginniscommawill.com/posts/2025-05-03-lavender-creme-brulee/): Published 2025-05-03
+
+- [Exploring Dad Lore: Stories That Shape Generations](https://mcginniscommawill.com/posts/2025-05-02-on-dad-lore/): Published 2025-05-02
+
+- [Build-Measure-Learn: Faster Decisions, Smarter Products](https://mcginniscommawill.com/posts/2025-05-01-build-measure-learn/): Published 2025-05-01
+
+- [Glicko-2: Adding Volatility to the Rating Equation](https://mcginniscommawill.com/posts/2025-04-30-glicko2-rating-system/): Published 2025-04-30
+
+- [The Glicko Rating System: When Confidence Matters](https://mcginniscommawill.com/posts/2025-04-29-glicko1-rating-system/): Published 2025-04-29
+
+- [Handling Deprecation: Gracefully Retiring Features](https://mcginniscommawill.com/posts/2025-04-28-handling-deprecation/): Published 2025-04-28
+
+- [Think Like a CEO: The Family Office Mindset Anyone Can Adopt](https://mcginniscommawill.com/posts/2025-04-27-family-office-mindset/): Published 2025-04-27
+
+- [Honey Sriracha Brussels Sprouts](https://mcginniscommawill.com/posts/2025-04-26-honey-sriracha-brussels-sprouts/): Published 2025-04-26
+
+- [Channel Sales vs Affiliate Marketing: What Are You Really Selling?](https://mcginniscommawill.com/posts/2025-04-25-channel-vs-affiliate/): Published 2025-04-25
+
+- [McCabe Complexity: The Python Metric You Should Care About](https://mcginniscommawill.com/posts/2025-04-24-understanding-mccabe-complexity/): Published 2025-04-24
+
+- [Simple Dijon Vinaigrette: The Only Dressing You Need](https://mcginniscommawill.com/posts/2025-04-23-simple-dijon-vinaigrette/): Published 2025-04-23
+
+- [The Virtual Family Office: Bringing Wealth Management Down to Earth](https://mcginniscommawill.com/posts/2025-04-22-virtual-family-office-concept/): Published 2025-04-22
+
+- [The Only Business Mental Model You Need: Make Something, Sell It](https://mcginniscommawill.com/posts/2025-04-21-business-mental-models/): Published 2025-04-21
+
+- [Python Logging Best Practices for Library Developers](https://mcginniscommawill.com/posts/2025-04-20-python-logging-best-practices/): Published 2025-04-20
+
+- [Spargelzeit: German White Asparagus Pasta](https://mcginniscommawill.com/posts/2025-04-19-german-white-asparagus-pasta/): Published 2025-04-19
+
+- [Traits of High-Performers: What to Look for in Interviews](https://mcginniscommawill.com/posts/2025-04-18-hiring-high-agency-people/): Published 2025-04-18
+
+- [What Is a Family Office and Why Should You Care?](https://mcginniscommawill.com/posts/2025-04-17-what-is-a-family-office/): Published 2025-04-17
+
+- [Finding Your World-Class Niche](https://mcginniscommawill.com/posts/2025-04-16-finding-your-world-class-niche/): Published 2025-04-16
+
+- [Introducing 'stargazers': A Tool to Understand Your GitHub Audience](https://mcginniscommawill.com/posts/2025-04-16-introducing-stargazers-tool/): Published 2025-04-16
+
+- [HashingEncoder: Tackling Extreme Cardinality with the Hashing Trick](https://mcginniscommawill.com/posts/2025-04-15-hashing-encoder/): Published 2025-04-15
+
+- [The Secret to Change Management: Transform While You Perform](https://mcginniscommawill.com/posts/2025-04-14-leading-through-change/): Published 2025-04-14
+
+- [BinaryEncoder: The Space-Efficient Alternative to One-Hot Encoding](https://mcginniscommawill.com/posts/2025-04-13-binary-encoder/): Published 2025-04-13
+
+- [Elevating Celery: A Velvety Celery Soup Recipe](https://mcginniscommawill.com/posts/2025-04-12-celery-soup/): Published 2025-04-12
+
+- [TRL vs Other Maturity Models: A Comparative Analysis](https://mcginniscommawill.com/posts/2025-04-11-trl-vs-other-models/): Published 2025-04-11
+
+- [OrdinalEncoder: When Order Matters in Categorical Data](https://mcginniscommawill.com/posts/2025-04-10-ordinal-encoder/): Published 2025-04-10
+
+- [Measuring Success: EOS Metrics for Technology Organizations](https://mcginniscommawill.com/posts/2025-04-09-eos-measuring-success/): Published 2025-04-09
+
+- [Makefiles: The Unsung Hero of Python Development](https://mcginniscommawill.com/posts/2025-04-08-makefiles-for-python/): Published 2025-04-08
+
+- [Atlanta Creek Restoration: Reviving Waterways for Wildlife & Community](https://mcginniscommawill.com/posts/2025-04-07-atlanta-creek-restoration/): Published 2025-04-07
+
+- [Modern Python Package Publishing: PyGeoHash's New CI/CD Pipeline](https://mcginniscommawill.com/posts/2025-04-06-pygeohash-publishing/): Published 2025-04-06
+
+- [Crafting Fermented Hot Sauce: A Tangy, Flavorful Adventure](https://mcginniscommawill.com/posts/2025-04-05-fermented-hot-sauce/): Published 2025-04-05
+
+- [Military-Style Decision Making: A Secret for Business Choices](https://mcginniscommawill.com/posts/2025-04-04-strategic-decision-making/): Published 2025-04-04
+
+- [PyGeoHash Gets Type Hints: A Journey into Modern Python](https://mcginniscommawill.com/posts/2025-04-03-pygeohash-type-hints/): Published 2025-04-03
+
+- [EOS in Action: Enhancing Product Development and Technical Operations](https://mcginniscommawill.com/posts/2025-04-02-eos-product-development/): Published 2025-04-02
+
+- [Optimal Bankroll Management with Keeks: The Kelly Criterion](https://mcginniscommawill.com/posts/2025-04-01-kelly-criterion/): Published 2025-04-01
+
+- [Ode to Crestlawn Cemetery: A Tranquil Sanctuary in Atlanta](https://mcginniscommawill.com/posts/2025-03-31-crestlawn-cemetery-ode/): Published 2025-03-31
+
+- [Documenting Your Library's API: Best Practices](https://mcginniscommawill.com/posts/2025-03-30-documenting-library-api/): Published 2025-03-30
+
+- [Crafting the Perfect Pastis Cocktail: A Taste of Provence](https://mcginniscommawill.com/posts/2025-03-29-pastis-cocktail/): Published 2025-03-29
+
+- [Adapting TRLs for Software Development: A Practical Guide](https://mcginniscommawill.com/posts/2025-03-28-trl-software-development/): Published 2025-03-28
+
+- [OneHotEncoder: The Workhorse of Categorical Encoding](https://mcginniscommawill.com/posts/2025-03-27-onehot-encoder/): Published 2025-03-27
+
+- [Building Leadership Resilience: Lessons from Military Experience](https://mcginniscommawill.com/posts/2025-03-26-leadership-resilience/): Published 2025-03-26
+
+- [Elo Rating System: The Grandfather of Competitive Rankings](https://mcginniscommawill.com/posts/2025-03-25-elo-rating-system/): Published 2025-03-25
+
+- [South Korea's Comprehensive AI Basic Act: A New Era in AI Regulation](https://mcginniscommawill.com/posts/2025-03-24-south-korea-ai-regulation-overview/): Published 2025-03-24
+
+- [Automating Docs Deployment with GitHub Actions and Pages](https://mcginniscommawill.com/posts/2025-03-23-automating-docs-deployment/): Published 2025-03-23
+
+- [Crafting Code Examples: From Snippets to Real-World Scenarios](https://mcginniscommawill.com/posts/2025-03-22-crafting-useful-code-examples/): Published 2025-03-22
+
+- [US AI Regulation: A State-by-State Analysis](https://mcginniscommawill.com/posts/2025-03-21-us-ai-regulation-overview/): Published 2025-03-21
+
+- [Implementing llms.txt for Better AI Accessibility](https://mcginniscommawill.com/posts/2025-03-20-llms-txt-implementation/): Published 2025-03-20
+
+- [Implementing EOS: Balancing Agility and Structure in Tech](https://mcginniscommawill.com/posts/2025-03-19-eos-technology-implementation/): Published 2025-03-19
+
+- [Keeks 0.1.0 Release: Optimal Bankroll Management Made Simple](https://mcginniscommawill.com/posts/2025-03-18-keeks-0_1_0-release/): Published 2025-03-18
+
+- [Japan's Human-Centric Approach to AI Regulation](https://mcginniscommawill.com/posts/2025-03-17-japan-ai-regulation-overview/): Published 2025-03-17
+
+- [Chile Colorado Recipe](https://mcginniscommawill.com/posts/2025-03-16-chile-colorado/): Published 2025-03-16
+
+- [Getting Started with Sphinx for Python Project Documentation](https://mcginniscommawill.com/posts/2025-03-15-getting-started-sphinx/): Published 2025-03-15
+
+- [The Art of Leadership Communication: Building Trust and Alignment](https://mcginniscommawill.com/posts/2025-03-14-leadership-communication/): Published 2025-03-14
+
+- [Elote 1.0.0 Release: Rating Systems Made Simple](https://mcginniscommawill.com/posts/2025-03-13-elote-1_0_0-release/): Published 2025-03-13
+
+- [The UK's Pro-Innovation Approach to AI Regulation](https://mcginniscommawill.com/posts/2025-03-12-uk-ai-regulation-overview/): Published 2025-03-12
+
+- [PyGeoHash v3.0.0: Faster, Freer, and More Pythonic](https://mcginniscommawill.com/posts/2025-03-11-pygeohash-v3-release/): Published 2025-03-11
+
+- [Do a Small Thing Well: A Sustainable Approach to Productivity](https://mcginniscommawill.com/posts/2025-03-10-do-a-small-thing-well/): Published 2025-03-10
+
+- [Using Cursor for Open Source Library Maintenance](https://mcginniscommawill.com/posts/2025-03-09-cursor-for-library-maintenance/): Published 2025-03-09
+
+- [Simple Napa Cabbage Kimchi (Mak Kimchi)](https://mcginniscommawill.com/posts/2025-03-08-kimchi/): Published 2025-03-08
+
+- [India's Emerging AI Regulatory Landscape: A Pro-Innovation Approach](https://mcginniscommawill.com/posts/2025-03-07-india-ai-regulation-overview/): Published 2025-03-07
+
+- [Effective Docstrings: Google vs. NumPy vs. reStructuredText Styles](https://mcginniscommawill.com/posts/2025-03-06-writing-effective-docstrings/): Published 2025-03-06
+
+- [TRL 6-9: From Prototype to Operational System](https://mcginniscommawill.com/posts/2025-03-05-trl-deployment-stages/): Published 2025-03-05
+
+- [PyGeoHash 2.1.0: Modernizing a Geospatial Python Library](https://mcginniscommawill.com/posts/2025-03-04-pygeohash-new-release/): Published 2025-03-04
+
+- [China's AI Regulatory Framework: A Comprehensive Analysis](https://mcginniscommawill.com/posts/2025-03-03-china-ai-regulation-overview/): Published 2025-03-03
+
+- [Geohash: When Clever Isn't Always Smart](https://mcginniscommawill.com/posts/2025-03-02-geohash-limitations-pitfalls/): Published 2025-03-02
+
+- [Where Did All the RAM Go? Memory Profiling with Memray](https://mcginniscommawill.com/posts/2025-03-01-testing-profiling-memray/): Published 2025-03-01
+
+- [TRL 4-5: Laboratory and Relevant Environment Validation](https://mcginniscommawill.com/posts/2025-02-28-trl-validation-stages/): Published 2025-02-28
+
+- [How to Get a Crosswalk Installed in Atlanta: A Practical Guide](https://mcginniscommawill.com/posts/2025-02-27-atlanta-crosswalk-guide/): Published 2025-02-27
+
+- [Claude 3.7 and new Cursor: first impressions](https://mcginniscommawill.com/posts/2025-02-26-claude-37-cursor-first-impressions/): Published 2025-02-26
+
+- [Experiential Learning: Lessons from Battle-Tested Leaders](https://mcginniscommawill.com/posts/2025-02-26-experiential-learning/): Published 2025-02-26
+
+- [Finding the Slowdown: Profiling Python Code with Pyinstrument](https://mcginniscommawill.com/posts/2025-02-25-testing-profiling-pyinstrument/): Published 2025-02-25
+
+- [Core Components of EOS: Vision, Traction, and Healthy Teams](https://mcginniscommawill.com/posts/2025-02-24-eos-core-components/): Published 2025-02-24
+
+- [Atlanta Sidewalk Laws: Ownership, Maintenance, and Development](https://mcginniscommawill.com/posts/2025-02-23-atlanta-sidewalk-law/): Published 2025-02-23
+
+- [How Fast Is It? Benchmarking Your Code with Pytest-Benchmark](https://mcginniscommawill.com/posts/2025-02-22-testing-benchmark/): Published 2025-02-22
+
+- [EU AI Act: A Practical Guide for Practitioners](https://mcginniscommawill.com/posts/2025-02-21-eu-ai-act-overview/): Published 2025-02-21
+
+- [A Tale of Two Egg Dishes: Shakshuka and Huevos Rancheros](https://mcginniscommawill.com/posts/2025-02-20-shakshuka-huevos-rancheros/): Published 2025-02-20
+
+- [Global AI Regulation in 2025: A Comparative Overview](https://mcginniscommawill.com/posts/2025-02-19-global-ai-regulation-overview/): Published 2025-02-19
+
+- [Silos to Shared Libraries: Guide to Inner Source Adoption](https://mcginniscommawill.com/posts/2025-02-18-silos-to-shared-libraries/): Published 2025-02-18
+
+- [Foundations of Leadership: The Role of Character](https://mcginniscommawill.com/posts/2025-02-17-leadership-foundations/): Published 2025-02-17
+
+- [Mastering Mocking in Python with pytest-mock](https://mcginniscommawill.com/posts/2025-02-16-testing-mocking/): Published 2025-02-16
+
+- [Building Your Internal Library Developer Community](https://mcginniscommawill.com/posts/2025-02-15-building-internal-library-community/): Published 2025-02-15
+
+- [TRL 1-3: Concept to Proof-of-Concept in Tech Development](https://mcginniscommawill.com/posts/2025-02-14-trl-deep-dive-early-stages/): Published 2025-02-14
+
+- [Will It Blend? Testing Across Environments with Tox](https://mcginniscommawill.com/posts/2025-02-13-testing-tox/): Published 2025-02-13
+
+- [Why Does it Smell? Atlanta's R.M. Clayton Water Treatment Plant](https://mcginniscommawill.com/posts/2025-02-12-rm-clayton-plant-smell/): Published 2025-02-12
+
+- [Inner Source: Bringing Open Source Culture Inside Your Organization](https://mcginniscommawill.com/posts/2025-02-11-inner-source-introduction/): Published 2025-02-11
+
+- [Data Science Things Roundup #13](https://mcginniscommawill.com/posts/2025-02-10-data-science-things-roundup-13/): Published 2025-02-10
+
+- [Are Your Tests Enough? Measuring Coverage with Coverage.py](https://mcginniscommawill.com/posts/2025-02-09-testing-coverage/): Published 2025-02-09
+
+- [Exploring EOS: A Guide to the Entrepreneurial Operating System](https://mcginniscommawill.com/posts/2025-02-08-eos-introduction/): Published 2025-02-08
+
+- [The Evolution of Cursor Rules: A More Granular Approach to AI Guidance](https://mcginniscommawill.com/posts/2025-02-07-cursor-rules-evolution/): Published 2025-02-07
+
+- [Designing for Developer Joy: Python Library Ergonomics](https://mcginniscommawill.com/posts/2025-02-06-designing-for-developer-joy/): Published 2025-02-06
+
+- [The Art and History of General Dynamics' Atoms for Peace Campaign](https://mcginniscommawill.com/posts/2025-02-05-atoms-for-peace-campaign/): Published 2025-02-05
+
+- [Why Your Library Needs Pytest (And How to Get Started)](https://mcginniscommawill.com/posts/2025-02-04-testing-pytest-intro/): Published 2025-02-04
+
+- [The Art of API Design: Making the Right Things Easy](https://mcginniscommawill.com/posts/2025-02-03-art-of-api-design/): Published 2025-02-03
+
+- [Secure Coding Practices for Python Library Developers](https://mcginniscommawill.com/posts/2025-02-02-secure-coding-practices/): Published 2025-02-02
+
+- [How Skis Are Made: From Wood to Carbon Fiber](https://mcginniscommawill.com/posts/2025-02-01-how-skis-are-made/): Published 2025-02-01
+
+- [Taming the Python Chaos: Linting & Formatting with Ruff](https://mcginniscommawill.com/posts/2025-01-30-linting-formatting-ruff/): Published 2025-01-30
+
+- [Handling Sensitive Data Securely Within Your Python Library](https://mcginniscommawill.com/posts/2025-01-29-handling-sensitive-data/): Published 2025-01-29
+
+- [Decoding Library Updates: Understanding Semantic Versioning (SemVer)](https://mcginniscommawill.com/posts/2025-01-28-semantic-versioning/): Published 2025-01-28
+
+- [Dependency Security: Managing Vulnerabilities with pip-audit](https://mcginniscommawill.com/posts/2025-01-27-dependency-security-pip-audit/): Published 2025-01-27
+
+- [The Center of Your Python Project: Understanding pyproject.toml](https://mcginniscommawill.com/posts/2025-01-26-pyproject-toml-explained/): Published 2025-01-26
+
+- [Bandit Security Rules: Finding Common Python Security Issues](https://mcginniscommawill.com/posts/2025-01-25-intro-to-bandit/): Published 2025-01-25
+
+- [Don't Forget the Fine Print: Licensing Your Python Library](https://mcginniscommawill.com/posts/2025-01-24-licensing-your-project/): Published 2025-01-24
+
+- [NASA Technology Readiness Levels](https://mcginniscommawill.com/posts/2025-01-23-nasa-technology-readiness-levels/): Published 2025-01-23
+
+- [Building and Engaging a Community Around Your Open Source Library](https://mcginniscommawill.com/posts/2025-01-22-building-engaging-community/): Published 2025-01-22
+
+- [The Library Author's Dilemma: Managing Python Dependencies](https://mcginniscommawill.com/posts/2025-01-21-dependency-management/): Published 2025-01-21
+
+- [Data Science Things Roundup #12](https://mcginniscommawill.com/posts/2025-01-20-data-science-things-roundup-11/): Published 2025-01-20
+
+- [Hearty Beef Shortrib Ragu: A Winter Comfort Dish](https://mcginniscommawill.com/posts/2025-01-19-beef-shortrib-ragu/): Published 2025-01-19
+
+- [Avoiding Common Pitfalls: Injection Flaws in Python Libraries](https://mcginniscommawill.com/posts/2025-01-18-avoiding-injection-flaws/): Published 2025-01-18
+
+- [The Art of Saying No: Defining Your Python Library's Scope](https://mcginniscommawill.com/posts/2025-01-17-defining-library-scope/): Published 2025-01-17
+
+- [Tap, tap, is this thing still on?](https://mcginniscommawill.com/posts/2025-01-16-first-post/): Published 2025-01-16
+
+- [SDLC in the Age of AI](https://mcginniscommawill.com/posts/2025-01-12-ai-software-development-evolution/): Published 2025-01-12
+
+- [Finnish Salmon Soup (Lohikeitto)](https://mcginniscommawill.com/posts/2024-12-20-recipe-finnish-salmon-soup/): Published 2024-12-20
+
+- [Favorite Side Dishes](https://mcginniscommawill.com/posts/2024-11-15-favorite-side-dishes/): Published 2024-11-15
+
+- [Classic Salmon Croquettes](https://mcginniscommawill.com/posts/2024-11-07-salmon-croquettes/): Published 2024-11-07
+
+- [Trail Report: Riverwalk Atlanta](https://mcginniscommawill.com/posts/2024-11-01-riverwalk-atlanta-trail-report/): Published 2024-11-01
+
+- [Filipino Chicken Adobo](https://mcginniscommawill.com/posts/2024-08-07-chicken-adobo/): Published 2024-08-07
+
+- [Simple Summer Succotash](https://mcginniscommawill.com/posts/2024-06-15-succotash/): Published 2024-06-15
+
+- [The Art of Design in Technical Startups](https://mcginniscommawill.com/posts/2024-06-15-design-communication-startups/): Published 2024-06-15
+
+- [The Invisible Hand of Startup Culture](https://mcginniscommawill.com/posts/2024-05-15-startup-culture-role-separation/): Published 2024-05-15
+
+- [Mother's Day Comfort: Colcannon and Coq au Vin](https://mcginniscommawill.com/posts/2024-05-12-mothers-day-colcannon-coq-au-vin/): Published 2024-05-12
+
+- [Trail Report: Southside Park](https://mcginniscommawill.com/posts/2024-05-01-southside-park-trail-report/): Published 2024-05-01
+
+- [Decision Making Under Uncertainty: Lessons from Practice](https://mcginniscommawill.com/posts/2024-04-15-decision-making-under-uncertainty/): Published 2024-04-15
+
+- [Science vs. Engineering in Startups: A Tale of Two Methodologies](https://mcginniscommawill.com/posts/2024-03-15-science-engineering-methodology-startups/): Published 2024-03-15
+
+- [NASA Technology Readiness Levels: A Software Development Perspective](https://mcginniscommawill.com/posts/2024-02-17-nasa-trl-software-mapping/): Published 2024-02-17
+
+- [Startup Structure and Information Flow](https://mcginniscommawill.com/posts/2024-01-18-startup-structure-and-information-flow/): Published 2024-01-18
+
+- [Trail Report: Chewacla State Park](https://mcginniscommawill.com/posts/2023-11-26-chewacla-state-park/): Published 2023-11-26
+
+- [Homemade Melloncello (Cantaloupe Liqueur)](https://mcginniscommawill.com/posts/2023-11-01-melloncello-recipe/): Published 2023-11-01
+
+- [Investment Review: Scout Space Systems](https://mcginniscommawill.com/posts/2023-10-30-investment-scout-space-systems/): Published 2023-10-30
+
+- [Banana Old Fashioned: A Surprisingly Good Twist](https://mcginniscommawill.com/posts/2023-09-22-banana-liqueur-cocktails/): Published 2023-09-22
+
+- [Investment Review: Jericho Security](https://mcginniscommawill.com/posts/2023-08-24-investment-jericho-security/): Published 2023-08-24
+
+- [Trail Report: Ludington School Forest Trails](https://mcginniscommawill.com/posts/2023-08-15-ludington-school-forest/): Published 2023-08-15
+
+- [Authentic Corn Tortillas](https://mcginniscommawill.com/posts/2023-07-18-authentic-corn-tortillas/): Published 2023-07-18
+
+- [Homemade Ginger Syrup (Your Shortcut to Amazing Ginger Ale)](https://mcginniscommawill.com/posts/2023-07-08-homemade-ginger-syrup/): Published 2023-07-08
+
+- [Investment Review: Switchyards](https://mcginniscommawill.com/posts/2023-06-07-investment-switchyards/): Published 2023-06-07
+
+- [Peruvian Green Sauce (Aji Verde): The Most Addicting Sauce Ever?](https://mcginniscommawill.com/posts/2023-05-15-peruvian-green-sauce-recipe/): Published 2023-05-15
+
+- [From Weekend Hack to Core Tool: The category_encoders Journey](https://mcginniscommawill.com/posts/2022-12-27-category-encoders-journey/): Published 2022-12-27
+
+- [Investment Review: DeepSentinel](https://mcginniscommawill.com/posts/2022-10-28-investment-deepsentinel/): Published 2022-10-28
+
+- [Investment Review: Seer.ai](https://mcginniscommawill.com/posts/2022-10-18-investment-seer-ai/): Published 2022-10-18
+
+- [Investment: Cambrium Bio](https://mcginniscommawill.com/posts/2022-09-27-investment-cambrium-bio/): Published 2022-09-27
+
+- [72-Hour Fermented Pizza Dough](https://mcginniscommawill.com/posts/2022-09-03-72-hour-fermented-pizza-dough/): Published 2022-09-03
+
+- [Exploring Cochran Mill Trails: A Mountain Biking Haven](https://mcginniscommawill.com/posts/2022-06-15-cochran-mill-trails/): Published 2022-06-15
+
+- [Investment Review: Beyond Aero](https://mcginniscommawill.com/posts/2022-05-26-investment-beyond-aero/): Published 2022-05-26
+
+- [Investment Review: Alga Biosciences](https://mcginniscommawill.com/posts/2022-04-30-investment-alga-biosciences/): Published 2022-04-30
+
+- [Salsa de Cacahuate (Mexican Peanut Salsa)](https://mcginniscommawill.com/posts/2022-03-15-salsa-de-cacahuate/): Published 2022-03-15
+
+- [Investment Review: Semicab](https://mcginniscommawill.com/posts/2022-01-20-investment-semicab/): Published 2022-01-20
+
+- [Investment Review: The Essential (formerly Move.co)](https://mcginniscommawill.com/posts/2022-01-19-investment-the-essential/): Published 2022-01-19
+
+- [Trail Report: Rope Mill](https://mcginniscommawill.com/posts/2022-01-15-rope-mill-trail-report/): Published 2022-01-15
+
+- [Investment Review: Homeroom](https://mcginniscommawill.com/posts/2022-01-10-investment-homeroom/): Published 2022-01-10
+
+- [Investment Review: Flexbase](https://mcginniscommawill.com/posts/2021-12-10-investment-flexbase/): Published 2021-12-10
+
+- [Introducing My Angel Investing Journey](https://mcginniscommawill.com/posts/2021-10-15-introducing-angel-investing-series/): Published 2021-10-15
+
+- [Sweet Potato Gnocchi: A Cyclist's Comfort Food](https://mcginniscommawill.com/posts/2021-03-15-sweet-potato-gnocchi/): Published 2021-03-15
+
+- [Gordon Ramsay's Spaghetti Bolognese: A Classic Italian Recipe](https://mcginniscommawill.com/posts/2020-07-20-gordon-ramsay-style-bolognese/): Published 2020-07-20
+
+- [Trail Report: Point Washington State Forest Trails](https://mcginniscommawill.com/posts/2020-07-04-point-washington-trails/): Published 2020-07-04
+
+- [Making Limoncello: A Taste of Italian Summer](https://mcginniscommawill.com/posts/2020-06-15-making-limoncello/): Published 2020-06-15
+
+- [Baking No-Knead Beer Bread: A Simple, Flavorful Recipe](https://mcginniscommawill.com/posts/2020-05-12-no-knead-beer-bread/): Published 2020-05-12
+
+- [Traditional Flour Tortillas with Lard](https://mcginniscommawill.com/posts/2019-11-25-flour-tortillas-with-lard/): Published 2019-11-25
+
+- [Homemade Chicken Sausage with Basil and Thyme](https://mcginniscommawill.com/posts/2019-08-15-basil-tomato-chicken-sausage/): Published 2019-08-15
+
+- [Trail Report: Basque MTB in Hondarribia](https://mcginniscommawill.com/posts/2019-05-01-basque-mtb-hondarribia/): Published 2019-05-01
+
+- [Reflecting on 2018: A Year of Growth and Transitions](https://mcginniscommawill.com/posts/2018-12-25-years-end-2018/): Published 2018-12-25
+
+- [Category Encoders v1.2.8 Release](https://mcginniscommawill.com/posts/2018-06-04-category-encoders-v1-2-8-release/): Published 2018-06-04
+
+- [TechEmergence Podcast and Atlanta AI Article](https://mcginniscommawill.com/posts/2018-06-03-techemergence-podcast-atlanta-ai/): Published 2018-06-03
+
+- [Rethinking Innovation Labs: Bridging Promises and Reality](https://mcginniscommawill.com/posts/2018-04-16-on-innovation-labs/): Published 2018-04-16
+
+- [On Discipline of Creation](https://mcginniscommawill.com/posts/2018-04-07-on-discipline-of-creation/): Published 2018-04-07
+
+- [Data Engineering Podcast](https://mcginniscommawill.com/posts/2018-02-20-data-engineering-podcast/): Published 2018-02-20
+
+- [Category Encoders published in JOSS](https://mcginniscommawill.com/posts/2018-01-26-category-encoders-published-joss/): Published 2018-01-26
+
+- [The Problem with Industrial IoT](https://mcginniscommawill.com/posts/2018-01-16-problem-with-industrial-iot/): Published 2018-01-16
+
+- [Revisiting Python support in Apache Flink](https://mcginniscommawill.com/posts/2018-01-11-revisiting-python-support-apache-flink/): Published 2018-01-11
+
+- [Tendencies of Data Engineers and Scientists](https://mcginniscommawill.com/posts/2018-01-09-tendencies-data-engineers-scientists/): Published 2018-01-09
+
+- [I Made a Model, Now What?](https://mcginniscommawill.com/posts/2018-01-04-i-made-a-model-now-what/): Published 2018-01-04
+
+- [Year's End: Looking back on 2017](https://mcginniscommawill.com/posts/2017-12-28-years-end-looking-back-2017/): Published 2017-12-28
+
+- [On taking things too seriously: holiday edition](https://mcginniscommawill.com/posts/2017-12-09-taking-things-seriously-holiday-edition/): Published 2017-12-09
+
+- [Elote: a python package of rating systems](https://mcginniscommawill.com/posts/2017-12-06-elote-python-package-rating-systems/): Published 2017-12-06
+
+- [Ripyr: sampled metrics on datasets using python's asyncio](https://mcginniscommawill.com/posts/2017-11-28-ripyr-sampled-metrics-datasets-using-pythons-asyncio/): Published 2017-11-28
+
+- [Category Encoders v1.2.5 Release](https://mcginniscommawill.com/posts/2017-11-22-category-encoders-v1-2-5-release/): Published 2017-11-22
+
+- [Standing Peachtree Park](https://mcginniscommawill.com/posts/2017-11-20-standing-peachtree-park/): Published 2017-11-20
+
+- [Data Science Things Roundup #11](https://mcginniscommawill.com/posts/2017-09-23-data-science-things-roundup-11/): Published 2017-09-23
+
+- [git-pandas Caching: Faster Analysis](https://mcginniscommawill.com/posts/2017-07-25-git-pandas-caching-faster-analysis/): Published 2017-07-25
+
+- [Category Encoders v1.2.4 Release](https://mcginniscommawill.com/posts/2017-07-12-category-encoders-v1-2-4-release/): Published 2017-07-12
+
+- [Data Science Things Roundup #10](https://mcginniscommawill.com/posts/2017-04-19-data-science-things-roundup-10/): Published 2017-04-19
+
+- [Data Science Things Roundup #9](https://mcginniscommawill.com/posts/2017-03-12-data-science-things-roundup-9/): Published 2017-03-12
+
+- [Data Science Things Roundup #8](https://mcginniscommawill.com/posts/2017-01-25-data-science-things-roundup-8/): Published 2017-01-25
+
+- [BaseN Encoding Grid Search in Category Encoders](https://mcginniscommawill.com/posts/2016-12-18-basen-encoding-grid-search-category-encoders/): Published 2016-12-18
+
+- [Category Encoders accepted into scikit-learn-contrib](https://mcginniscommawill.com/posts/2016-11-20-category-encoders-accepted-scikit-learn-contrib/): Published 2016-11-20
+
+- [Data Science Things Roundup #7](https://mcginniscommawill.com/posts/2016-11-10-data-science-things-roundup-7/): Published 2016-11-10
+
+- [Category Encoders now on conda-forge](https://mcginniscommawill.com/posts/2016-09-17-category-encoders-now-conda-forge/): Published 2016-09-17
+
+- [Data Science Things Roundup #6](https://mcginniscommawill.com/posts/2016-07-20-data-science-things-roundup-6/): Published 2016-07-20
+
+- [Introducing unified glob-syntax in git-pandas](https://mcginniscommawill.com/posts/2016-06-15-introducing-unified-glob-syntax-git-pandas/): Published 2016-06-15
+
+- [Parallelizing cumulative blame in git-pandas with joblib](https://mcginniscommawill.com/posts/2016-06-12-parallelizing-cumulative-blame-git-pandas-joblib/): Published 2016-06-12
+
+- [Exit Interviews in Startups](https://mcginniscommawill.com/posts/2016-05-05-exit-interviews-startups/): Published 2016-05-05
+
+- [When do I work on what?](https://mcginniscommawill.com/posts/2016-04-30-when-do-i-work-on-what/): Published 2016-04-30
+
+- [Building an Engineering Team Around Ownership](https://mcginniscommawill.com/posts/2016-04-28-building-engineering-team-around-ownership/): Published 2016-04-28
+
+- [Estimating the time spent on a project with git-pandas](https://mcginniscommawill.com/posts/2016-04-16-estimating-time-spent-project-git-pandas/): Published 2016-04-16
+
+- [Data Science Things Roundup #5](https://mcginniscommawill.com/posts/2016-03-15-data-science-things-roundup-5/): Published 2016-03-15
+
+- [Automating documentation workflow with sphinx and github pages](https://mcginniscommawill.com/posts/2016-02-29-automating-documentation-workflow-with-sphinx-and-github-pages/): Published 2016-02-29
+
+- [Pypi-publisher: a simple cli for publishing python libraries](https://mcginniscommawill.com/posts/2016-02-24-pypi-publisher-a-simple-cli-for-publishing-python-libraries/): Published 2016-02-24
+
+- [Using survival analysis and git-pandas to estimate code quality](https://mcginniscommawill.com/posts/2016-02-21-using-survival-analysis-and-git-pandas-to-estimate-code-quality/): Published 2016-02-21
+
+- [Journalism and the Perfect Pitch Deck](https://mcginniscommawill.com/posts/2016-02-15-journalism-and-the-perfect-pitch-deck/): Published 2016-02-15
+
+- [Git-pandas v1.0.0, or how to check for a stable release](https://mcginniscommawill.com/posts/2016-02-02-git-pandas-v1-0-0-release-stability-checking/): Published 2016-02-02
+
+- [Github.com cumulative blame in 5 lines of python](https://mcginniscommawill.com/posts/2016-01-31-github-com-cumulative-blame-5-lines-python/): Published 2016-01-31
+
+- [Decision Strategies: Beyond Expected Value](https://mcginniscommawill.com/posts/2016-01-28-decision-strategies-beyond-expected-value/): Published 2016-01-28
+
+- [Data-driven engineering team management with gitnoc and git-pandas](https://mcginniscommawill.com/posts/2016-01-19-data-driven-engineering-team-management-with-gitnoc-and-git-pandas/): Published 2016-01-19
+
+- [Create organization-wide punchcards with git-pandas](https://mcginniscommawill.com/posts/2016-01-17-create-organization-wide-punchcards-git-pandas/): Published 2016-01-17
+
+- [How to Write Comprehensions and Alienate People](https://mcginniscommawill.com/posts/2016-01-08-write-comprehensions-alienate-people/): Published 2016-01-08
+
+- [Gitpandas v0.0.6: python 2.7, fileowners, file-wise blame and examples](https://mcginniscommawill.com/posts/2016-01-07-gitpandas-v0-0-6-python-2-7-fileowners-file-wise-blame-examples/): Published 2016-01-07
+
+- [Market-Product fit vs Product-Market fit](https://mcginniscommawill.com/posts/2015-12-28-market-product-fit-vs-product-market-fit/): Published 2015-12-28
+
+- [Git-Pandas v0.0.5: coverage.py, risk, and more](https://mcginniscommawill.com/posts/2015-12-25-git-pandas-v0-0-5-coverage-py-risk/): Published 2015-12-25
+
+- [Common Data Pitfalls for Recurring Machine Learning Systems](https://mcginniscommawill.com/posts/2015-12-20-common-data-pitfalls-for-recurring-machine-learning-systems/): Published 2015-12-20
+
+- [Visualize all of your git repositories with gitnoc and git-pandas](https://mcginniscommawill.com/posts/2015-12-13-visualize-all-of-your-git-repositories-with-gitnoc-and-git-pandas/): Published 2015-12-13
+
+- [CyberLaunch: An Accelerator for Machine Learning Companies](https://mcginniscommawill.com/posts/2015-12-08-cyberlaunch-an-accelerator-for-machine-learning-companies/): Published 2015-12-08
+
+- [Data Science Things Roundup #4](https://mcginniscommawill.com/posts/2015-12-05-data-science-things-roundup-4/): Published 2015-12-05
+
+- [Beyond One-Hot: An Exploration of Categorical Variables](https://mcginniscommawill.com/posts/2015-11-29-beyond-one-hot-an-exploration-of-categorical-variables/): Published 2015-11-29
+
+- [Analyzing GitPython and Pandas With GitPandas](https://mcginniscommawill.com/posts/2015-11-19-analyzing-gitpython-and-pandas-with-gitpandas/): Published 2015-11-19
+
+- [Create a pip-installable python package in 2 minutes](https://mcginniscommawill.com/posts/2015-11-12-create-a-pip-installable-python-package-in-2-minutes/): Published 2015-11-12
+
+- [Blame the world with git-pandas](https://mcginniscommawill.com/posts/2015-11-10-blame-the-world-with-git-python/): Published 2015-11-10
+
+- [Data Science vs. Data Engineering](https://mcginniscommawill.com/posts/2015-10-31-data-science-vs-data-engineering/): Published 2015-10-31
+
+- [Sklearn-Extensions: Collecting Useful Scikit-Learn Add-ons](https://mcginniscommawill.com/posts/2015-10-20-sklearn-extensions/): Published 2015-10-20
+
+- [Grapht: graph connectedness and dimensionality](https://mcginniscommawill.com/posts/2015-09-29-grapht-graph-connectedness-and-dimensionality/): Published 2015-09-29
+
+- [Cookiecutter-Flask (and some other stuff)](https://mcginniscommawill.com/posts/2015-09-28-cookiecutter-flask-and-some-other-stuff/): Published 2015-09-28
+
+- [TAG YP Technologist of the Year: The Results](https://mcginniscommawill.com/posts/2015-09-23-tag-yp-technologist-of-the-year-2/): Published 2015-09-23
+
+- [TAG Young Professional Technologist of the Year](https://mcginniscommawill.com/posts/2015-09-19-tag-yp-technologist-of-the-year/): Published 2015-09-19
+
+- [Data Science Things Roundup #3](https://mcginniscommawill.com/posts/2015-09-10-data-science-things-roundup-3/): Published 2015-09-10
+
+- [Data Science Things Roundup #2](https://mcginniscommawill.com/posts/2015-05-20-data-science-things-roundup-2/): Published 2015-05-20
+
+- [Pedal Wrencher: A Strava-Powered Bike Maintenance Tracker](https://mcginniscommawill.com/posts/2015-03-16-pedal-wrencher/): Published 2015-03-16
+
+- [Data Science Things Roundup #1](https://mcginniscommawill.com/posts/2015-02-15-data-science-things-roundup-1/): Published 2015-02-15
+
+- [Grad School Diets: How Stress Shows Up in Spending Data](https://mcginniscommawill.com/posts/2015-02-14-grad-school-diets/): Published 2015-02-14
+
+- [Solving Inherent Stickiness in SaaS: The Power of Convexity](https://mcginniscommawill.com/posts/2014-11-02-inherent-stickiness/): Published 2014-11-02
+
+- [G-G Surface Generation](https://mcginniscommawill.com/posts/2012-06-19-g-g-surface-generation/): Published 2012-06-19
+
+- [Introducing WanderDAQ: Versatile Arduino Data Acquisition](https://mcginniscommawill.com/posts/2012-06-19-wanderdaq/): Published 2012-06-19
+
+- [Parameter Estimation with Virtual Elevation](https://mcginniscommawill.com/posts/2012-06-19-parameter-estimation/): Published 2012-06-19
+
+- [Introducing AutoChung: Estimating Cycling Aerodynamics](https://mcginniscommawill.com/posts/2012-06-15-autochung/): Published 2012-06-15
+
+- [Miscellaneous MATLAB](https://mcginniscommawill.com/posts/2012-06-10-miscellaneous-matlab/): Published 2012-06-10
+
+- [Mastering Data Acquisition with Arduino](https://mcginniscommawill.com/posts/2012-05-29-data-acquisition/): Published 2012-05-29
+
+- [Reflections on Bike Racing: Lessons from the Road](https://mcginniscommawill.com/posts/2012-05-18-bike-racing/): Published 2012-05-18
+
+- [Hill Climbing Optimization: A Stochastic Algorithm Variant](https://mcginniscommawill.com/posts/2012-05-12-hill-climbing/): Published 2012-05-12
+
+- [Estimating Road Edges from GPS Data](https://mcginniscommawill.com/posts/2012-02-17-more-roads/): Published 2012-02-17
+
+- [Notes on Building Terrain Maps from GPS Data](https://mcginniscommawill.com/posts/2012-02-16-notes/): Published 2012-02-16
+
+- [Vehicle Dynamics Simulation in MATLAB](https://mcginniscommawill.com/posts/2012-02-16-vehicle-dynamics/): Published 2012-02-16
+
+- [Beacon Stem: Designing a Bike Stem with Integrated Light](https://mcginniscommawill.com/posts/2012-01-06-beacon-stem/): Published 2012-01-06
+
+- [Motion Capture with MATLAB and a Webcam](https://mcginniscommawill.com/posts/2012-01-05-motion-capture/): Published 2012-01-05
+
+- [Building a DIY Sous Vide Controller with Arduino](https://mcginniscommawill.com/posts/2012-01-04-sous-vide/): Published 2012-01-04
+
+- [Turning Fast: Generating G-G Diagrams from iPhone Data](https://mcginniscommawill.com/posts/2012-01-04-turning-fast/): Published 2012-01-04
+
+- [Home Again: Rediscovering Georgia's Trails After Racing Adventures](https://mcginniscommawill.com/posts/2010-04-25-home-again/): Published 2010-04-25
+
+- [Conquering GMR: A Cyclist's Journey on Glendora Mountain Road](https://mcginniscommawill.com/posts/2010-03-23-gmr/): Published 2010-03-23
+
+- [Cycling Adventure on Glendora Mountain Road](https://mcginniscommawill.com/posts/2010-03-17-glendora/): Published 2010-03-17
+
+- [Cycling Websites and Race Reports: A Journey Through GHBRA](https://mcginniscommawill.com/posts/2010-03-10-websites/): Published 2010-03-10
+
+- [My Body Thermometer is So Confused Right Now](https://mcginniscommawill.com/posts/2010-01-31-my-body-thermometer-is-so-confused/): Published 2010-01-31
+
+- [Cycling Adventures in Macon, GA: A Weekend Getaway](https://mcginniscommawill.com/posts/2009-12-30-macon-ga/): Published 2009-12-30
+
+- [Discovering Blairsville: A Summer Revelation in Georgia](https://mcginniscommawill.com/posts/2009-11-28-revelation/): Published 2009-11-28
+
+- [The Superlative Burrito: Navigating Mexican Menus with Ease](https://mcginniscommawill.com/posts/2009-11-29-superlative-burrito/): Published 2009-11-29
+
+- [Discovering Pine Mountain: A Cyclist's Paradise in Georgia](https://mcginniscommawill.com/posts/2009-11-26-pine-mountain-ga/): Published 2009-11-26
+
+- [Rediscovering Dirt Roads: Cycling Adventures in North Georgia](https://mcginniscommawill.com/posts/2009-11-23-dirt-roads-again/): Published 2009-11-23
+
+- [Land of Milk and Honey](https://mcginniscommawill.com/posts/2009-11-18-land-of-milk-and-honey/): Published 2009-11-18
+
+- [The Role of a Super Domestique in Professional Cycling](https://mcginniscommawill.com/posts/2009-11-16-super-domestique/): Published 2009-11-16
+
+- [Georgia Homeless Bike Racer Association](https://mcginniscommawill.com/posts/2009-11-10-georgia-homeless-bike-racer-association/): Published 2009-11-10
+
+
+### Guides
+
+- [Chapter 1: The Old Country](https://mcginniscommawill.com/guides/mcginnis-family-history/01-the-old-country/): The Celtic roots and Irish origins of the McGinnis family in Ulster, from ancient times through the 17th century plantation era.
+
+- [Liquidation Preferences: A Complete Breakdown](https://mcginniscommawill.com/guides/venture-capital-deals-guide/01-liquidation-preferences/): How liquidation preferences work in venture deals, from standard structures to participating vs non-participating and pay-to-play.
+
+- [Chapter 2: The Crossing](https://mcginniscommawill.com/guides/mcginnis-family-history/02-the-crossing/): The McGinnis clan's journey across the Atlantic from Ulster to Philadelphia in the 1700s, and the Salzburger settlers who would later become kin
+
+- [Protective Provisions in Venture Deals](https://mcginniscommawill.com/guides/venture-capital-deals-guide/02-key-protective-provisions/): How protective provisions work in venture financing, from standard NVCA veto rights to how they accumulate across rounds.
+
+- [Chapter 3: The Great Wagon Road](https://mcginniscommawill.com/guides/mcginnis-family-history/03-the-great-wagon-road/): Charles McGinnis travels 700 miles down the Great Wagon Road from Pennsylvania to North Carolina, where he builds a life and founds our line.
+
+- [The Complete Guide to QSBS for Venture Investors](https://mcginniscommawill.com/guides/venture-capital-deals-guide/03-qsbs-complete-guide/): Everything venture investors need to know about Qualified Small Business Stock, from Section 1202 basics to trust stacking and edge cases.
+
+- [Chapter 4: Georgia and the Frontier (1800-1840)](https://mcginniscommawill.com/guides/mcginnis-family-history/04-georgia-and-the-frontier/): John McGinnis moves the family from North Carolina to Georgia, becomes Justice of the Peace, and watches his sons march off to the Creek Indian Wars
+
+- [Valuation Standards and Regulations in Venture Capital](https://mcginniscommawill.com/guides/venture-capital-deals-guide/04-valuation-standards/): Understanding 409A, ASC 820, and SEC Rule 2a-5, the key valuation standards governing how venture-backed companies determine fair value.
+
+- [How Startups Actually Get Valued](https://mcginniscommawill.com/guides/venture-capital-deals-guide/05-how-startups-get-valued/): What drives startup valuations at each stage, from the factors investors weigh to what Series A data actually reveals about pricing dynamics.
+
+- [How Venture Valuations Move Through Market Cycles](https://mcginniscommawill.com/guides/venture-capital-deals-guide/06-venture-valuation-cycles/): A data-driven look at up rounds, down rounds, extensions, and bridges, and what valuation patterns reveal about venture market cycles.
+
+- [Valuation Methods for Venture Portfolios](https://mcginniscommawill.com/guides/venture-capital-deals-guide/07-venture-valuation-methods/): A practical guide to how venture investments get valued, covering market, income, and asset approaches plus fair value standards.
+
+- [DPI, RVPI, TVPI, and IRR: Key Metrics for Evaluating VC Fund Performance](https://mcginniscommawill.com/guides/venture-capital-deals-guide/08-dpi-rvpi-tvpi-irr/): A practical explainer on the key metrics used to evaluate venture capital fund performance, including DPI, RVPI, TVPI, and IRR, with examples.
+
+- [The Complete Guide to Convertible Instruments in Venture](https://mcginniscommawill.com/guides/venture-capital-deals-guide/09-convertible-instruments/): Everything you need to know about convertible notes, SAFEs, and bridge rounds, from how they work to what happens when they stay unconverted too long.
+
+- [How Startups Can Manage Equity Dilution](https://mcginniscommawill.com/guides/venture-capital-deals-guide/10-equity-dilution/): A practical guide to understanding and managing equity dilution in venture-backed startups, from transfer restrictions to founder preferred shares.
+
+- [The Dynamics of Venture Fundraising](https://mcginniscommawill.com/guides/venture-capital-deals-guide/11-fundraising-dynamics/): How fundraising timelines, firm velocity, pay-to-play dynamics, and market cycles shape the venture fundraising process.
+
+- [How Deal Terms Vary by Stage and Region](https://mcginniscommawill.com/guides/venture-capital-deals-guide/12-stage-regional-patterns/): What the data reveals about how venture deal terms differ across stages and regions, from concentration paradoxes to regional variations.
+
+- [The Venture Fund Audit Guide](https://mcginniscommawill.com/guides/venture-capital-deals-guide/13-fund-audit-guide/): A practical guide to venture fund audits, covering preparation, checklists, common pitfalls, and how data-driven approaches can make the process less painful.
+
+- [Fund Economics: Fees, Terms, and Portfolio Monitoring](https://mcginniscommawill.com/guides/venture-capital-deals-guide/14-fund-economics/): How venture fund economics work, from management fee structures and LPA terms to evaluating portfolio company cash runway.
+
+- [KPI Monitoring for Venture Portfolios](https://mcginniscommawill.com/guides/venture-capital-deals-guide/15-kpi-monitoring/): KPI monitoring for venture capital portfolios, covering frameworks, stage-specific metrics, collection strategies, and common blind spots.
+
+- [LP/GP Dynamics in Venture Capital](https://mcginniscommawill.com/guides/venture-capital-deals-guide/16-lp-gp-dynamics/): How the LP/GP relationship is evolving in venture capital, covering emerging manager differentiation, liquidity paths, and co-investor networks.
+
+- [Data Science Career](https://mcginniscommawill.com/guides/data-science-career-guide/): Career paths, management transitions, and hiring in data science, from individual contributor to manager and everything in between.
+
+- [Decision Making Frameworks](https://mcginniscommawill.com/guides/decision-making-frameworks-guide/): Systematic approaches to making better decisions, from expected value theory to recognition-primed decisions and everything in between.
+
+- [Family Office](https://mcginniscommawill.com/guides/family-office-guide/): Family office principles anyone can use for financial coordination, from mission statements and digital vaults to dashboards and policies.
+
+- [Technology Readiness Levels](https://mcginniscommawill.com/guides/technology-readiness-levels-guide/): NASA's Technology Readiness Level framework applied to software and startup technology development, from concept through deployment.
+
+- [Building with EOS](https://mcginniscommawill.com/guides/eos-guide/): Implementing the Entrepreneurial Operating System in technology companies, from core concepts to metrics and product development.
+
+- [AI Regulation Around the World](https://mcginniscommawill.com/guides/ai-regulation-guide/): A country-by-country look at how governments are approaching AI regulation, from the EU's risk-based framework to India's hands-off stance.
+
+- [Guide: Developing High-Quality Python Libraries](https://mcginniscommawill.com/guides/python-library-development/): A comprehensive guide covering the essential aspects of creating robust, maintainable, and user-friendly Python libraries.
+
+- [The Startup Leadership Guide](https://mcginniscommawill.com/guides/startup-leadership-guide/): A comprehensive guide to startup leadership, drawing from years of experience and insights in organizational design, decision making, and technical leadership.
+
+- [Succulent Meals: A Curated Recipe Collection](https://mcginniscommawill.com/guides/recipe-guide/): A curated collection of succulent recipes from the blog, organized by category. Find pasta, soups, sauces, cocktails, mains, sides, breads, and more.
+
+- [Angel Investing](https://mcginniscommawill.com/guides/angel-investing-guide/): My angel investing journey, investment thesis, and reviews of individual deals across fintech, biotech, defense, and more.
+
+
+### Topics
+
+

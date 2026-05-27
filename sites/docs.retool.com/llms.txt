@@ -1,0 +1,1117 @@
+# Retool Documentation
+
+> Complete product documentation for Retool.
+
+This file contains links to documentation sections following the llmstxt.org standard.
+
+## Apps
+
+- [AI in app building](https://docs.retool.com/apps/concepts/ai): Learn how to utilize AI when building and editing apps.
+- [Managing security with Assist](https://docs.retool.com/apps/concepts/assist-security): Understand how Assist interacts with your data and LLMs.
+- [Web app best practices](https://docs.retool.com/apps/concepts/best-practices): Best practices for building performant web apps.
+- [Module best practices](https://docs.retool.com/apps/concepts/best-practices/modules): Best practices for building modules.
+- [Web app performance](https://docs.retool.com/apps/concepts/best-practices/performance): Best practices for building performant web apps.
+- [Prompting best practices](https://docs.retool.com/apps/concepts/best-practices/prompts): Best practices for writing prompts for Assist.
+- [Testing best practices](https://docs.retool.com/apps/concepts/best-practices/testing): Best practices for testing web apps.
+- [Command Palette](https://docs.retool.com/apps/concepts/command-palette): Learn about Retool's Command Palette and its global search and commands.
+- [Components](https://docs.retool.com/apps/concepts/components): Learn more about Retool's UI components.
+- [Legacy and deprecated components](https://docs.retool.com/apps/concepts/components/legacy-deprecated-components): Learn about legacy and deprecated components.
+- [Custom CSS styles](https://docs.retool.com/apps/concepts/custom-css): Learn more about using custom CSS.
+- [Debug Tools](https://docs.retool.com/apps/concepts/debug-tools): Investigate and resolve issues with Retool's built-in debugging tools.
+- [App IDE](https://docs.retool.com/apps/concepts/ide): Learn about Retool's IDE for app development.
+- [Multiplayer](https://docs.retool.com/apps/concepts/multiplayer): Learn about collaborative app building for real-time development.
+- [Notifications](https://docs.retool.com/apps/concepts/notifications): Learn more about notifications and their global settings.
+- [Programming paradigms at Retool](https://docs.retool.com/apps/concepts/programming-paradigms): Learn about the programming styles supported by Retool and their use.
+- [Embedded apps](https://docs.retool.com/apps/concepts/share-externally/embed): Learn about embedding Retool apps in your existing web applications with support for authentication.
+- [External apps](https://docs.retool.com/apps/concepts/share-externally/external): Build apps and customize the experience for external users.
+- [Share your apps externally](https://docs.retool.com/apps/concepts/share-externally): Share your apps with users outside your organization.
+- [Usability features](https://docs.retool.com/apps/concepts/usability): Learn more about usability features.
+- [Retool Apps concept guides](https://docs.retool.com/apps/concepts): Learn about relevant features, functionality, and principles related to Retool web apps.
+- [Add documentation to web apps](https://docs.retool.com/apps/guides/app-management/app-documentation): Learn how to add a README and user documentation to web apps.
+- [Customize app URLs](https://docs.retool.com/apps/guides/app-management/customize-app-urls): Learn how to customize app and page URLs.
+- [Embed web apps](https://docs.retool.com/apps/guides/app-management/embed-apps): Learn how to embed Retool web apps with optional authentication.
+- [Build custom pages](https://docs.retool.com/apps/guides/app-management/external-apps/custom-pages): Learn how to build custom pages in Retool.
+- [Create external apps](https://docs.retool.com/apps/guides/app-management/external-apps): Learn how to enable and customize the external app experience.
+- [Build a landing page](https://docs.retool.com/apps/guides/app-management/external-apps/landing-pages): Learn how to use landing pages to automatically route external users to pre-specified Retool apps.
+- [Configure user actions for users](https://docs.retool.com/apps/guides/app-management/external-apps/user-actions): Learn how to write User Action queries that allow users to authenticate using custom product pages.
+- [Import and export apps](https://docs.retool.com/apps/guides/app-management/import-export): Learn how to import and export Retool apps.
+- [App management](https://docs.retool.com/apps/guides/app-management): Learn how to manage, share, and release Retool Apps.
+- [Localize web apps](https://docs.retool.com/apps/guides/app-management/localization): Learn how to localize your Retool applications.
+- [Version and release apps](https://docs.retool.com/apps/guides/app-management/releases-history): Learn how to version apps or revert changes to a previous state.
+- [Preview and share web apps with users](https://docs.retool.com/apps/guides/app-management/share): Learn how to preview and share Retool web apps with users.
+- [Configure URL parameters](https://docs.retool.com/apps/guides/app-management/url-parameters): Learn how to control app behavior and pass values using URL parameters.
+- [Configure your organization for Assist](https://docs.retool.com/apps/guides/assist/configure): Learn how to configure your organization so your users can use Assist.
+- [AI-assisted app generation with Assist](https://docs.retool.com/apps/guides/assist): Use Assist to generate apps from within the app IDE.
+- [Prompt with Assist](https://docs.retool.com/apps/guides/assist/prompt): Learn how to prompt Assist to edit or create apps.
+- [Build custom React components](https://docs.retool.com/apps/guides/custom/custom-component-libraries): Learn how to develop and deploy custom React components for Retool apps.
+- [Use Retool custom component library](https://docs.retool.com/apps/guides/custom/custom-component-libraries/retool-ccl): Learn how to use the Retool custom component library with your custom component.
+- [Use TypeScript API to configure custom components](https://docs.retool.com/apps/guides/custom/custom-component-libraries/typescript-api): Learn how to configure custom React components with TypeScript API.
+- [Getting started with the IFrame component](https://docs.retool.com/apps/guides/custom/iframe): Learn how to embed a web page as an iframe into your Retool app.
+- [Custom and embedded content](https://docs.retool.com/apps/guides/custom): Learn how to create custom components and embed other content in your app.
+- [Configure custom keyboard shortcuts for web apps](https://docs.retool.com/apps/guides/custom/keyboard-shortcuts): Learn how to create custom shortcuts for web app users.
+- [Build custom components](https://docs.retool.com/apps/guides/custom/legacy-custom): Learn how to build your own components using React, or HTML and JavaScript.
+- [Getting started with charts](https://docs.retool.com/apps/guides/data/charts): Learn how to use your data to create charts and graphs.
+- [Data](https://docs.retool.com/apps/guides/data): Learn how to present and visualize your data.
+- [Getting started with the Key Value component](https://docs.retool.com/apps/guides/data/key-value): Learn how to display data in key-value pairs.
+- [Visualize data with the Chart component](https://docs.retool.com/apps/guides/data/legacy/charts): Learn how to use your data to create charts and graphs.
+- [Legacy](https://docs.retool.com/apps/guides/data/legacy): Legacy data components.
+- [Configure columns in the Table component](https://docs.retool.com/apps/guides/data/table/columns): Learn how to configure, edit, and sort table columns.
+- [Customize the appearance of the Table component](https://docs.retool.com/apps/guides/data/table/customization): Learn how to customize the Table component using different styles and add-ons.
+- [Filter data in the Table component](https://docs.retool.com/apps/guides/data/table/filters): Learn how to filter and search table data.
+- [Getting started with the Table component](https://docs.retool.com/apps/guides/data/table): Learn how to display and interact with data using tables.
+- [Configure server-side pagination for the Table component](https://docs.retool.com/apps/guides/data/table/pagination): Learn how to implement server-side pagination of data with the Table component.
+- [Configure rows in the Table component](https://docs.retool.com/apps/guides/data/table/rows): Learn how to configure table rows.
+- [Getting started with boolean inputs](https://docs.retool.com/apps/guides/forms-inputs/boolean-inputs): Learn how to add, configure, and set the value of boolean input components in Retool web apps.
+- [Getting started with Agent Chat](https://docs.retool.com/apps/guides/forms-inputs/chats/agent-chat): Learn how to use the Agent Chat component to interact with agents.
+- [Getting started with chat components](https://docs.retool.com/apps/guides/forms-inputs/chats): Learn how to use chat components to interact with large-language models and Retool Agents.
+- [Getting started with LLM Chat](https://docs.retool.com/apps/guides/forms-inputs/chats/llm-chat): Learn how to use the LLM Chat component to provide access to an AI chatbot.
+- [Getting started with Comment Thread](https://docs.retool.com/apps/guides/forms-inputs/comment-thread): Learn how to use the Comment Thread component to enable users to post comments and start discussions directly within your apps.
+- [Getting started with date and time components](https://docs.retool.com/apps/guides/forms-inputs/dates): Learn how to display and manage date and time values in web apps.
+- [Getting started with file inputs](https://docs.retool.com/apps/guides/forms-inputs/file-inputs): Learn how to upload files and images in web apps.
+- [Getting started with the Form component](https://docs.retool.com/apps/guides/forms-inputs/forms/form-component): Learn how to assemble an input form using the Form component.
+- [Getting started with the Form and JSON Schema Form components](https://docs.retool.com/apps/guides/forms-inputs/forms): Learn how to build forms using components or JSON Schema to collect user input.
+- [Getting started with the JSON Schema Form component](https://docs.retool.com/apps/guides/forms-inputs/forms/json-schema-form): import JsonSchemaFormIntro from '/docs/apps/guides/forms-inputs/_partials/_json-schema-form.mdx';
+- [Forms and inputs](https://docs.retool.com/apps/guides/forms-inputs): Learn how to gather user inputs through forms and various input types.
+- [Validate inputs and forms](https://docs.retool.com/apps/guides/forms-inputs/input-validation): Learn how to validate forms and input components.
+- [Getting started with number inputs](https://docs.retool.com/apps/guides/forms-inputs/number-inputs): Learn how to collect number values with input components in Retool web apps.
+- [Define option lists](https://docs.retool.com/apps/guides/forms-inputs/option-lists): Use the option list editor to configure options manually or map data to generate them dynamically.
+- [Getting started with select inputs](https://docs.retool.com/apps/guides/forms-inputs/select-inputs): Learn how to provide a list of options from which users can select in Retool web apps.
+- [Getting started with sliders and ratings](https://docs.retool.com/apps/guides/forms-inputs/sliders-ratings): Learn how to provide number value ranges from which users can select in Retool web apps.
+- [Getting started with buttons and links](https://docs.retool.com/apps/guides/interaction-navigation/buttons-links): Learn how to use buttons and links to help users navigate inside and outside of your app.
+- [Configure event handlers](https://docs.retool.com/apps/guides/interaction-navigation/event-handlers): Learn how to trigger actions and queries in response to user interactions.
+- [Interaction and navigation](https://docs.retool.com/apps/guides/interaction-navigation): Learn how to structure your app for user interactivity, and how to trigger and handle events.
+- [Getting started with navigation components](https://docs.retool.com/apps/guides/interaction-navigation/navigation): Learn how to build interfaces for users to navigate within apps.
+- [Getting started with pagination components](https://docs.retool.com/apps/guides/interaction-navigation/pagination): Learn how to help users move between pages within apps.
+- [Getting started with the Wizard component](https://docs.retool.com/apps/guides/interaction-navigation/wizard): Learn how to build a step-by-step interface with multiple paths using the Wizard component.
+- [Group components with containers](https://docs.retool.com/apps/guides/layout-structure/container): Learn how to group components into multi-view interfaces.
+- [Getting started with frames](https://docs.retool.com/apps/guides/layout-structure/frames): Learn how to use frames to organize content in an app.
+- [Layout and structure](https://docs.retool.com/apps/guides/layout-structure): Learn how to arrange components in your app.
+- [Assemble mobile layouts for web apps](https://docs.retool.com/apps/guides/layout-structure/mobile-layouts): Learn how to assemble mobile layouts for Retool web apps.
+- [Build modules to reuse queries and components](https://docs.retool.com/apps/guides/layout-structure/modules): Learn how to reuse groups of components and queries across apps.
+- [Build custom views using repeatable components](https://docs.retool.com/apps/guides/layout-structure/repeatables): Learn how to display and interact with your data using repeatable components.
+- [App error reporting and observability](https://docs.retool.com/apps/guides/observability/error-reporting): Monitor Retool apps by connecting with Datadog or Sentry.
+- [Observability](https://docs.retool.com/apps/guides/observability): Learn how to run tests and report errors.
+- [App performance monitoring](https://docs.retool.com/apps/guides/observability/performance-monitoring): Monitor web app performance by connecting to Datadog and Sentry.
+- [Record app user sessions with Fullstory](https://docs.retool.com/apps/guides/observability/user-sessions): Learn how to capture user app behavior for use with Fullstory.
+- [Write WebDriver tests](https://docs.retool.com/apps/guides/observability/webdriver-testing): Learn how to write Cypress and Playwright tests against your Retool apps.
+- [Getting started with avatars](https://docs.retool.com/apps/guides/presentation-styling/avatar): Learn how to display information about the current user and retrieve profile images from Gravatar.
+- [Getting started with the Calendar component](https://docs.retool.com/apps/guides/presentation-styling/calendar): Learn how to display an interactive calendar in your app.
+- [Reference dates and times in components](https://docs.retool.com/apps/guides/presentation-styling/dates-in-components): Learn how to reference dates and times in various components.
+- [Getting started with embedded media](https://docs.retool.com/apps/guides/presentation-styling/embedded-media): Learn how to use PDF, QR Code, and Video components to display embedded content.
+- [Getting started with icons](https://docs.retool.com/apps/guides/presentation-styling/icons): Learn how to use built-in icons in Retool apps.
+- [Getting started with images](https://docs.retool.com/apps/guides/presentation-styling/images): Learn about the different ways to include images in your apps.
+- [Presentation and styling](https://docs.retool.com/apps/guides/presentation-styling): Learn how to display information and visual components.
+- [Getting started with Mapbox Map](https://docs.retool.com/apps/guides/presentation-styling/mapbox): Learn how to use Mapbox Map to display coordinates and other information on a map.
+- [Getting started with presentation components](https://docs.retool.com/apps/guides/presentation-styling/presentation): Learn how to use various components to present text, numeric, and graphic information in your app.
+- [Design organization and app themes](https://docs.retool.com/apps/guides/presentation-styling/themes): Learn more about how to create organization and app themes.
+- [Getting started with the Timeline component](https://docs.retool.com/apps/guides/presentation-styling/timeline): Learn how to use the Timeline component to display date information in a Gantt chart format.
+- [Share data between app pages](https://docs.retool.com/apps/guides/share-page-data): Learn how to pass data between pages in Retool apps.
+- [Retool Apps how-to guides](https://docs.retool.com/apps/guides): Step-by-step instructions for using common features and functionality in Retool Apps.
+- [Retool Apps documentation](https://docs.retool.com/apps): Build web apps with rich interfaces, powered by your data.
+- [Retool apps quickstart](https://docs.retool.com/apps/quickstart): Learn about the fundamental concepts of Retool apps.
+- [The Button Group component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/button-group): A group of buttons to trigger actions when clicked.
+- [The Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/button): A button to trigger actions when clicked.
+- [The Close Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/close-button): A button with preconfigured icon that trigger actions when clicked.
+- [The Dropdown Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/dropdown-button): A dropdown menu with buttons to trigger actions when clicked.
+- [Button components for Retool Apps](https://docs.retool.com/apps/reference/components/buttons): UI elements to trigger actions and queries in web apps.
+- [The Link List component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/link-list): A group of links to trigger actions when clicked.
+- [The Link component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/link): A link to trigger actions when clicked.
+- [The Outline Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/outline-button): A button to trigger actions when clicked.
+- [The Split Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/split-button): A dropdown menu with buttons to trigger actions when clicked.
+- [The Toggle Button component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/toggle-button): A toggle button to trigger different actions when clicked.
+- [The Toggle Link component for Retool Apps](https://docs.retool.com/apps/reference/components/buttons/toggle-link): A toggle link to trigger different actions when clicked.
+- [The Bar Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/bar-chart): A content area to display bar charts.
+- [The Bubble Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/bubble-chart): A content area to display bubble charts.
+- [The Funnel Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/funnel-chart): A content area to display funnel charts.
+- [The Heat Map component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/heat-map): A content area to display heat maps.
+- [Chart components for Retool Apps](https://docs.retool.com/apps/reference/components/charts): Charts and graphs to represent data in web apps.
+- [The Line Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/line-chart): A content area to display line charts.
+- [The Mixed Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/mixed-chart): A content area to display mixed charts.
+- [The Pie Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/pie-chart): A content area to display pie charts.
+- [The Plotly JSON Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/plotly-json-chart): A content area to display custom charts.
+- [The Sankey Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/sankey-chart): A content area to display sankey charts.
+- [The Scatter Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/scatter-chart): A content area to display scatter charts.
+- [The Sparkline component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/sparkline): A content area to display sparklines.
+- [The Stacked Bar Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/stacked-bar-chart): A content area to display stacked bar charts.
+- [The Sunburst Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/sunburst-chart): A content area to display sunburst charts.
+- [The Treemap component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/treemap): A content area to display treemaps.
+- [The Waterfall Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/charts/waterfall-chart): A content area to display waterfall charts.
+- [Retool Apps components reference](https://docs.retool.com/apps/reference/components/components): Reference documentation for UI components.
+- [The Collapsible Container component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/collapsible-container): A container to group other components with a preconfigured collapsible body area.
+- [The Container component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/container): A container to group other components together with flexible layout controls.
+- [The Form component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/form): A form to group and submit input fields.
+- [Container and form components for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms): UI elements to group components together in web apps.
+- [The JSON Schema Form component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/json-schema-form): A JSON-defined form to group and submit input fields.
+- [The Link Card component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/link-card): A container preconfigured with an icon and text.
+- [The Stack component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/stack): A container to group other components together in a flexbox layout.
+- [The Stepped Container mobile component](https://docs.retool.com/apps/reference/components/containers-forms/stepped-container): A container to group other components into a series of steps.
+- [The Tabbed Container component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/tabbed-container): A container to group other components into tabbed views.
+- [The Wizard component for Retool Apps](https://docs.retool.com/apps/reference/components/containers-forms/wizard): A container for a series of steps with multiple branches and outcomes.
+- [HTML](https://docs.retool.com/apps/reference/components/custom/html): A content area to embed HTML and CSS markup.
+- [IFrame](https://docs.retool.com/apps/reference/components/custom/iframe): A content area to embed a web page.
+- [Custom components for Retool Apps](https://docs.retool.com/apps/reference/components/custom): Custom UI elements to embed content in web apps.
+- [The Filter component for Retool Apps](https://docs.retool.com/apps/reference/components/data/filter): An interface to define filters for Table components.
+- [Data components for Retool Apps](https://docs.retool.com/apps/reference/components/data): UI elements to display and interact with data in web apps.
+- [The JSON Explorer component for Retool Apps](https://docs.retool.com/apps/reference/components/data/json-explorer): A content area to display JSON data with collapsible nodes.
+- [The Key Value component for Retool Apps](https://docs.retool.com/apps/reference/components/data/key-value): A content area for viewing and editing key-value data.
+- [The Reorderable List component for Retool Apps](https://docs.retool.com/apps/reference/components/data/reorderable-list): A content area to display a list of text items that can be reordered when dragged.
+- [The Table component for Retool Apps](https://docs.retool.com/apps/reference/components/data/table): A table to display data that can be sorted, filtered, paginated, and edited.
+- [The Calendar Input component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/calendar-input): An input field to select a specific date on a calendar.
+- [The Date Range component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/date-range): An input field to select or enter a date range.
+- [The Date Time component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/date-time): An input field to select or enter a date and time.
+- [The Date component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/date): An input field to select or enter a date.
+- [The Day component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/day): A dropdown menu and input field to select or enter a day.
+- [Date and time components for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs): Date input fields and UI elements for web apps.
+- [The Month component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/month): A dropdown menu and input field to select or enter a month.
+- [The Time component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/time): An input field to select or enter a time.
+- [The Year component for Retool Apps](https://docs.retool.com/apps/reference/components/date-time-inputs/year): A dropdown menu and input field to select or enter a year.
+- [The Auth Login component for Retool Apps](https://docs.retool.com/apps/reference/components/integrations/auth-login): A button to perform custom authentication for an API resource.
+- [Integration components for Retool Apps](https://docs.retool.com/apps/reference/components/integrations): UI elements for integrating third-party services and content in web apps.
+- [The Looker component for Retool Apps](https://docs.retool.com/apps/reference/components/integrations/looker): A content area to display a Looker dashboard.
+- [The Mapbox Map component for Retool Apps](https://docs.retool.com/apps/reference/components/integrations/mapbox-map): A content area to embed a map with custom locations.
+- [The Stripe Card Form component for Retool Apps](https://docs.retool.com/apps/reference/components/integrations/stripe-card-form): An embedded Stripe card form.
+- [The Tableau component for Retool Apps](https://docs.retool.com/apps/reference/components/integrations/tableau): A content area to display a Tableau visualization.
+- [The Alert component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/alert): A message box to display important information with optional title and clickable action.
+- [The Button Group component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/button-group): A group of buttons to trigger actions when clicked.
+- [The Legacy Cascader component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/cascader): An input field to select options using a dropdown menu or manually enter a value in a multi-level tree structure.
+- [The Chart component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/chart): A content area to display charts.
+- [Legacy Checkbox Tree component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/checkbox-tree): A group of checkboxes to toggle boolean values in a multi-level tree.
+- [Custom Component](https://docs.retool.com/apps/reference/components/legacy/custom-component): A custom-built React, or HTML and JavaScript, component.
+- [The Key Value component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/key-value): Display key-value information.
+- [The List View component for Retool Apps](https://docs.retool.com/apps/reference/components/legacy/list-view): A list that renders each item from an array of data using a custom-built row of components.
+- [The Breadcrumbs component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/breadcrumbs): A secondary navigation menu to trigger actions.
+- [Navigational components for Retool Apps](https://docs.retool.com/apps/reference/components/navigation): Navigational menus and UI elements for web apps.
+- [The Navigation component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/navigation): A primary navigation menu with nested items to trigger actions.
+- [The Page Input component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/page-input): An input field to jump to a specific page of data.
+- [The Pagination component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/pagination): A navigation menu to jump to a specific page of data.
+- [The Steps component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/steps): A group of steps that trigger actions when clicked.
+- [The Tabs component for Retool Apps](https://docs.retool.com/apps/reference/components/navigation/tabs): A group of tabs that trigger actions when clicked.
+- [The Currency component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/currency): An input field to enter a monetary number value.
+- [The Editable Number component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/editable-number): A click-to-edit input field to enter a number.
+- [The Number Input component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/number-input): An input field to enter a number.
+- [Number input components for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/number-inputs): Number input fields for web apps.
+- [The Percent component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/percent): An input field to enter a percentage number value.
+- [The Phone Number Input component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/phone-number-input): An input field to enter a phone number.
+- [The Range Slider component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/range-slider): An input field to select a range of number values.
+- [The Rating component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/rating): An input field to select a rating.
+- [The Slider component for Retool Apps](https://docs.retool.com/apps/reference/components/number-inputs/slider): A slider to select a number value.
+- [The Alert component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/alert): A message box to display important information with optional title and clickable action.
+- [The Avatar Group component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/avatar-group): A group of avatars to display information and profile images for users.
+- [The Avatar component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/avatar): A content area to display user information and profile image.
+- [The Calendar component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/calendar): A content area to display calendar events.
+- [The Circular Image component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/circular-image): A content area to display a circular image.
+- [The Divider component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/divider): A content area to display a dividing line with optional label.
+- [The Event List web component](https://docs.retool.com/apps/reference/components/presentation/event-list): A content area to display a list of events.
+- [The Icon Text component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/icon-text): A content area to display an icon with accompanying text.
+- [The Icon component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/icon): A content area to display an icon.
+- [The Image Grid component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/image-grid): A content area to display images in a grid layout.
+- [The Image component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/image): A content area to display an image.
+- [Presentation components for Retool Apps](https://docs.retool.com/apps/reference/components/presentation): UI elements to display content in web apps.
+- [The PDF component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/pdf): A content area to embed a PDF.
+- [The Progress Bar component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/progress-bar): A content area to display a horizontal progress bar.
+- [The Progress Circle component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/progress-circle): A content area to display a circular progress bar.
+- [The QR Code component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/qr-code): A content area to display a QR code.
+- [The Spacer component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/spacer): An empty area to add space between components.
+- [The Statistic component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/statistic): A content area to display primary and secondary number values with optional trend indicators.
+- [The Status component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/status): A content area to display a status indicator.
+- [The Tags component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/tags): A content area to display a set of tags.
+- [The Text component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/text): A content area to display Markdown text or HTML content.
+- [The Timeline web component](https://docs.retool.com/apps/reference/components/presentation/timeline): Display a Gantt chart of events.
+- [The Video component for Retool Apps](https://docs.retool.com/apps/reference/components/presentation/video): A content area to display a video.
+- [Container List View](https://docs.retool.com/apps/reference/components/repeatables/container-list-view): A flexible list of repeated components with containers.
+- [The Grid View component for Retool Apps](https://docs.retool.com/apps/reference/components/repeatables/grid-view): A repeatable grid of components with values that map to a list of data.
+- [Repeatable components for Retool Apps](https://docs.retool.com/apps/reference/components/repeatables): UI elements to build repeatable groups of components in web apps.
+- [The List View component for Retool Apps](https://docs.retool.com/apps/reference/components/repeatables/list-view): A repeatable list of components with values that map to a list of data.
+- [The Cascader component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/cascader): An input field to select options using a dropdown menu or manually enter a value in a multi-level tree structure.
+- [The Checkbox Group component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/checkbox-group): A group of checkboxes to toggle boolean values.
+- [Checkbox Tree component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/checkbox-tree): A group of checkboxes to toggle boolean values in a multi-level tree.
+- [The Checkbox component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/checkbox): An input field to toggle a boolean value.
+- [Select input components for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs): Value selection input fields and UI elements for web apps.
+- [The Listbox component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/listbox): An input field to select an option from a list.
+- [The Multiselect Listbox component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/multiselect-listbox): An input field to select multiple options from a list.
+- [The Multiselect component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/multiselect): An input field to select multiple options using a dropdown menu or manually enter values.
+- [The Radio Group component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/radio-group): A group of radio buttons to select a single value.
+- [The Segmented Control component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/segmented-control): A segmented button to select an option from a list.
+- [The Select component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/select): An input field to select an option using a dropdown menu or manually enter a value.
+- [The Switch Group component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/switch-group): A group of switches to toggle boolean values.
+- [The Switch component for Retool Apps](https://docs.retool.com/apps/reference/components/select-inputs/switch): An input field to toggle a boolean value.
+- [Agent Chat component](https://docs.retool.com/apps/reference/components/special-inputs/agent-chat): A component to chat with a Retool Agent in a web app.
+- [The Annotated Text component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/annotated-text): An interface to display and annotate text.
+- [The Bounding Box component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/bounding-box): An interface to display a bounding box and tag areas of an image.
+- [The Color Input component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/color-input): An input field to select a color.
+- [The Comment Thread component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/comment-thread): An interface to display and enter comments.
+- [The File Button component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/file-button): A button to select single or multiple files.
+- [The File Dropzone component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/file-dropzone): A drag-and-drop area to select single or multiple files.
+- [The File Input component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/file-input): An input field to select single or multiple files.
+- [Special input components for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs): Specialized input fields and UI elements for web apps.
+- [The LLM Chat component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/llm-chat): An interface for AI chat conversations.
+- [The Microphone component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/microphone): A button to record audio.
+- [The Scanner component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/scanner): An interface to scan a barcode or QR code using the device's camera.
+- [The Signature component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/signature): An input field to digitally capture a signature as an image.
+- [The Timer component for Retool Apps](https://docs.retool.com/apps/reference/components/special-inputs/timer): A button to record elapsed time.
+- [The Editable Text Area component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/editable-text-area): A click-to-edit input field to enter multiple lines of text.
+- [The Editable Text component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/editable-text): A click-to-edit input field to enter a single line of text.
+- [The Email component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/email): An input field to enter an email address.
+- [Text input components for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs): Text input fields for web apps.
+- [JSON Editor](https://docs.retool.com/apps/reference/components/text-inputs/json-editor): An interface to edit and validate JSON.
+- [Password](https://docs.retool.com/apps/reference/components/text-inputs/password): An input field to enter a password.
+- [The Rich Text Editor component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/rich-text-editor): An input field to enter text with rich formatting.
+- [Text Area](https://docs.retool.com/apps/reference/components/text-inputs/text-area): An input field to enter multiple lines of text.
+- [The Text Input component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/text-input): An input field to enter a single line of text.
+- [The URL component for Retool Apps](https://docs.retool.com/apps/reference/components/text-inputs/url): An input field to enter a URL.
+- [App event handlers reference](https://docs.retool.com/apps/reference/event-handlers): Reference documentation for app event handlers.
+- [The Drawer frame](https://docs.retool.com/apps/reference/frames/drawer): A container that slides in from the side of the viewport.
+- [Retool Apps frames reference](https://docs.retool.com/apps/reference/frames): Reference documentation for frames.
+- [The Modal frame](https://docs.retool.com/apps/reference/frames/modal): A container that appears above other content.
+- [The Sidebar frame](https://docs.retool.com/apps/reference/frames/sidebar): A container that renders on the left-side of the viewport.
+- [The Split Pane frame](https://docs.retool.com/apps/reference/frames/split-pane): A container that divides the viewport into two resizable panes.
+- [Apps glossary](https://docs.retool.com/apps/reference/glossary): Learn the meanings of app-related terms.
+- [App IDE keyboard shortcuts](https://docs.retool.com/apps/reference/keyboard-shortcuts): Learn about built-in keyboard shortcuts for the app IDE.
+- [Modules](https://docs.retool.com/apps/reference/modules): A collection of components and code.
+- [The Current User object](https://docs.retool.com/apps/reference/objects/current-user): Information about the current logged-in or authenticated user of the app.
+- [The Retool Context object](https://docs.retool.com/apps/reference/objects/retoolcontext): Information about the current web app.
+- [The Theme object](https://docs.retool.com/apps/reference/objects/theme): Information about the current app theme.
+- [The Url object](https://docs.retool.com/apps/reference/objects/url): Information about URL query and hash parameters currently in use.
+- [The Viewport object](https://docs.retool.com/apps/reference/objects/viewport): Information about the canvas size in the current viewport.
+- [Retool CLI reference](https://docs.retool.com/apps/reference/retool-cli): A command-line tool for interacting with Retool.
+- [Built-in URL parameters](https://docs.retool.com/apps/reference/url-parameters): Learn about built-in URL parameters to control app behavior.
+- [Retool Apps reference](https://docs.retool.com/apps/reference): Reference documentation for Retool Apps.
+- [Retool apps tutorial: Save changes to data](https://docs.retool.com/apps/tutorial/part-one/code): Learn how to connect write queries and configure event handlers to save changes.
+- [Retool apps tutorial: Connect and query data](https://docs.retool.com/apps/tutorial/part-one/data): Learn how to connect a data source and retrieve customer data using queries.
+- [Retool apps tutorial: Fundamental concepts](https://docs.retool.com/apps/tutorial/part-one): import PartOne from "../_part1.mdx";
+- [Retool apps tutorial: Assemble the user interface](https://docs.retool.com/apps/tutorial/part-one/ui): Learn how to assemble the user interface of a Retool app.
+- [Retool apps tutorial: Advanced features](https://docs.retool.com/apps/tutorial/part-two): Build upon the app you created in part one and add more functionality.
+- [Retool app tutorial: Map and filter data](https://docs.retool.com/apps/tutorial/part-two/map-filter-data): Learn how to map data to components and filter table rows.
+- [Retool apps tutorial: Configure multiple pages](https://docs.retool.com/apps/tutorial/part-two/pages): Learn how to add multiple pages to your app's interface.
+- [Retool app tutorial: Pass data between pages](https://docs.retool.com/apps/tutorial/part-two/variables): Learn how to use a variable to automatically sync the selected customer between pages.
+- [Retool apps tutorial](https://docs.retool.com/apps/tutorial): A hands-on introduction to Retool apps.
+
+## Agents
+
+- [Agent-to-agent communication](https://docs.retool.com/agents/concepts/a2a): Agent-to-agent communication using the A2A protocol.
+- [Agentic workflows](https://docs.retool.com/agents/concepts/agentic-workflows): Agentic workflows and how they differ from standalone agents and workflows.
+- [Retool Agents best practices](https://docs.retool.com/agents/concepts/best-practices): Best practices for Retool Agents.
+- [Evals in Retool Agents](https://docs.retool.com/agents/concepts/evals): Systematic tests using evals.
+- [Agents FAQ](https://docs.retool.com/agents/concepts/faq): Answers to frequently asked questions about Agents.
+- [Retool Agents overview](https://docs.retool.com/agents/concepts/overview): Overview of Retool Agents, an AI platform for automating work with large language models.
+- [Tools for Retool Agents](https://docs.retool.com/agents/concepts/tools): Tools for Retool Agents, including functions, workflows, and other agents.
+- [Retool Agents concept guides](https://docs.retool.com/agents/concepts): Features, functionality, and principles for Retool Agents.
+- [Retool Agents chat](https://docs.retool.com/agents/guides/chat-with-agent): Chat with an agent to test its tool calls and reasoning, and share chat threads with other users.
+- [Automatically configure an agent with the Configuration Assistant](https://docs.retool.com/agents/guides/configure/config-assistant): Configure an agent with the Configuration Assistant.
+- [Configure Agents](https://docs.retool.com/agents/guides/configure): Set up and manage Retool Agents on cloud and self-hosted instances.
+- [Configure your organization for Agents](https://docs.retool.com/agents/guides/configure/set-up-agents): Configure Agents for cloud and self-hosted instances.
+- [Create an agent from a template](https://docs.retool.com/agents/guides/create-agent-from-template): Create Retool Agents from a pre-defined template for specific use cases.
+- [Run evals and compare them side-by-side](https://docs.retool.com/agents/guides/evals/compare-eval-runs): Run and compare Retool Agent evals.
+- [Create datasets to evaluate agent performance](https://docs.retool.com/agents/guides/evals/create-dataset): Create datasets and test cases for evals.
+- [Evals](https://docs.retool.com/agents/guides/evals): Evaluate Retool Agents with systematic tests.
+- [Monitor Retool Agents](https://docs.retool.com/agents/guides/monitor): Monitor Retool Agents for performance, reliability, and cost-management.
+- [Prompting guidance for agents](https://docs.retool.com/agents/guides/prompting-guidance): Best practices for writing effective instructions for Retool Agents.
+- [Connect an MCP server to an agent](https://docs.retool.com/agents/guides/tools/connect-to-mcp-server): Connect and call tools from an MCP (Module Context Protocol) server with Retool Agents.
+- [Create a custom tool](https://docs.retool.com/agents/guides/tools/create-custom-tools): Create custom tools for Retool Agents.
+- [Import tools from another agent](https://docs.retool.com/agents/guides/tools/import-tools-from-agent): Import tools from another agent.
+- [Tools](https://docs.retool.com/agents/guides/tools): Create and call tools with Retool Agents.
+- [Invoke an agent as a tool](https://docs.retool.com/agents/guides/tools/use-agent-as-tool): Configure an agent to use another agent as a tool.
+- [Retool Agents core tools](https://docs.retool.com/agents/guides/tools/use-core-tools): Pre-built core tools that Retool Agents supports out-of-the-box.
+- [Trigger a workflow as a tool](https://docs.retool.com/agents/guides/tools/use-workflow-as-tool): Configure an agent to use a workflow as a tool.
+- [Triggers](https://docs.retool.com/agents/guides/triggers): Triggers for initiating agent runs with Retool Agents.
+- [Set up an A2A trigger](https://docs.retool.com/agents/guides/triggers/trigger-with-a2a): Set up an A2A trigger to allow external agents to communicate with Retool agents.
+- [Trigger agents with email](https://docs.retool.com/agents/guides/triggers/trigger-with-email): Trigger Retool Agents by sending an email to a unique agent email address.
+- [Configure email triggers for Agents using Mailgun](https://docs.retool.com/agents/guides/triggers/trigger-with-email/mailgun): Set up email triggers with Mailgun for Agents on self-hosted instances.
+- [Retool Agents troubleshooting](https://docs.retool.com/agents/guides/troubleshooting): Troubleshooting common issues with Retool Agents.
+- [Retool Agents how-to guides](https://docs.retool.com/agents/guides): Step-by-step instructions for using common features and functionality in Retool Agents.
+- [Retool Agents documentation](https://docs.retool.com/agents): Build, run, and evaluate agents to automate human work with AI.
+- [Retool Agents quickstart](https://docs.retool.com/agents/quickstart): Fundamental concepts and overview of Retool Agents.
+- [A2A endpoints](https://docs.retool.com/agents/reference/a2a-endpoints): Reference documentation for A2A endpoints.
+- [The Current User object](https://docs.retool.com/agents/reference/current-user): Information about the current user of the agent.
+- [Agents environment variables](https://docs.retool.com/agents/reference/environment-variables): Reference documentation for Retool Agents environment variables for self-hosted deployments.
+- [Agents glossary](https://docs.retool.com/agents/reference/glossary): Definitions of agent-related terms.
+- [Retool Agents reference](https://docs.retool.com/agents/reference): Reference documentation for Retool Agents.
+- [A2A tutorial](https://docs.retool.com/agents/tutorials/a2a-tutorial): Trigger a Retool agent via A2A from an external agent using Crew AI.
+- [Retool Agents tutorial](https://docs.retool.com/agents/tutorials/agents-tutorial): Create an agent from scratch.
+- [Retool Agents tutorials](https://docs.retool.com/agents/tutorials): Tutorial documentation for Retool Agents.
+
+## Workflows
+
+- [Agentic workflows](https://docs.retool.com/workflows/concepts/agentic-workflows): Learn about agentic workflows and how they differ from standalone agents and workflows.
+- [Workflow performance best practices](https://docs.retool.com/workflows/concepts/best-practices): Learn about the best practices for building performant workflows.
+- [Workflow IDE](https://docs.retool.com/workflows/concepts/ide): Learn about Retool's web-based editor for building workflows.
+- [Workflow limits](https://docs.retool.com/workflows/concepts/limits): Learn about the limits applied to workflows.
+- [Workflow run logs](https://docs.retool.com/workflows/concepts/logs): Learn about Retool's web-based editor for building apps.
+- [Workflows concept guides](https://docs.retool.com/workflows/concepts): Learn about relevant features, functionality, and principles related to Retool Workflows.
+- [Use Invoke Agent blocks in Retool Workflows](https://docs.retool.com/workflows/guides/blocks/agent): Learn how to use Invoke Agent blocks in Retool Workflows.
+- [Create agentic workflows with the Invoke Agent block](https://docs.retool.com/workflows/guides/blocks/agent/invoke-agent): Learn how to call an agent from a workflow.
+- [Poll an agent's logs from the Invoke Agent block](https://docs.retool.com/workflows/guides/blocks/agent/poll-agent-logs): Learn how to poll an agent's logs from a workflow.
+- [Assemble workflow blocks](https://docs.retool.com/workflows/guides/blocks/blocks): Learn how to add and connect blocks to assemble a workflow.
+- [Assemble code blocks in Retool Workflows](https://docs.retool.com/workflows/guides/blocks/code): Learn how to assemble code blocks in Retool Workflows.
+- [Execute JavaScript with the Code block](https://docs.retool.com/workflows/guides/blocks/code/javascript): Learn how to use JavaScript code in a workflow.
+- [Execute Python with the Code block](https://docs.retool.com/workflows/guides/blocks/code/python): Learn how to use Python code in a workflow.
+- [Perform conditional logic with the Branch block](https://docs.retool.com/workflows/guides/blocks/logic/branch): Learn how to perform conditional logic in a workflow.
+- [Filter data with the Filter block](https://docs.retool.com/workflows/guides/blocks/logic/filter): Learn how to filter data in a workflow.
+- [Assemble logic blocks in Retool Workflows](https://docs.retool.com/workflows/guides/blocks/logic): Learn how to assemble logic blocks in Retool Workflows.
+- [Iterate through data with the Loop block](https://docs.retool.com/workflows/guides/blocks/logic/loop-legacy): Learn how to run queries for each item in a data set during a workflow.
+- [Loop block](https://docs.retool.com/workflows/guides/blocks/logic/loop): Learn how to run queries for each item in a data set during a workflow.
+- [Query resources with the Resource query block](https://docs.retool.com/workflows/guides/blocks/resource-query): Learn how to interact with data sources in a workflow.
+- [Respond to webhook events with the Response block](https://docs.retool.com/workflows/guides/blocks/response): Learn how to return data using a webhook response in a workflow.
+- [Run another workflow with the Workflow block](https://docs.retool.com/workflows/guides/blocks/run-workflow): Learn how to run a workflow from within a workflow.
+- [Pause workflow execution with the Wait block](https://docs.retool.com/workflows/guides/blocks/wait): Learn how to use the Wait block to pause workflow execution.
+- [Create a README file with workflows](https://docs.retool.com/workflows/guides/create-workflows-readme): Learn how to create a README.md file on a workflow.
+- [Configure workflow error handlers](https://docs.retool.com/workflows/guides/error-handlers): Handle workflow errors at the block level or globally.
+- [Create workflow functions to reuse queries and logic](https://docs.retool.com/workflows/guides/functions): Learn how to create workflow functions.
+- [Migrate workflow block storage to Google Cloud Storage](https://docs.retool.com/workflows/guides/gcs-migration-guide): Step-by-step guide for storing workflow block results in Google Cloud Storage for self-hosted instances.
+- [Generate a workflow using Retool AI](https://docs.retool.com/workflows/guides/generate-with-ai): Learn how to generate a complete workflow using an AI prompt.
+- [Import and export workflows](https://docs.retool.com/workflows/guides/import-and-export): Learn how to import and export a workflow.
+- [Report app errors using Retool Events](https://docs.retool.com/workflows/guides/observability/custom-error-reporting): Build Retool Event-triggered workflows that automatically send app error reports to any third-party observability provider.
+- [Observability](https://docs.retool.com/workflows/guides/observability): Learn how to run tests and report errors.
+- [Workflow observability and error reporting](https://docs.retool.com/workflows/guides/observability/workflow-error-reporting): Monitor Retool Workflows by connecting with Datadog or Sentry.
+- [Monitor workflows with analytics](https://docs.retool.com/workflows/guides/observability/workflows-analytics): Use the Analytics page to track run counts, failure rates, latency, and resource consumption across your workflows.
+- [Trigger workflows with Retool Events](https://docs.retool.com/workflows/guides/retool-events): Learn how to build a workflow that uses Retool Events to send a notification when certain events occur within your organization.
+- [Configure triggers in Retool Workflows](https://docs.retool.com/workflows/guides/triggers): Learn how to configure triggers in Retool Workflows.
+- [Trigger workflows with queries](https://docs.retool.com/workflows/guides/triggers/query): Learn how to trigger tasks using queries with Retool Workflows.
+- [Trigger workflows periodically](https://docs.retool.com/workflows/guides/triggers/schedule): Learn how to automatically perform tasks at a regular interval with Retool Workflows.
+- [Trigger workflows with webhooks](https://docs.retool.com/workflows/guides/triggers/webhooks): Learn how to automate tasks using webhook events with Retool Workflows.
+- [Troubleshooting workflows](https://docs.retool.com/workflows/guides/troubleshooting): Diagnose and resolve common issues with Retool Workflows.
+- [Configure user tasks](https://docs.retool.com/workflows/guides/user-tasks): Add user-driven steps, tasks, and approvals to workflows.
+- [Version and publish workflows](https://docs.retool.com/workflows/guides/version-and-publish): Learn how to publish and manage workflows that run automatically.
+- [Workflows how-to guides](https://docs.retool.com/workflows/guides): Step-by-step instructions for common features and functionality in Retool Workflows.
+- [Retool Workflows documentation](https://docs.retool.com/workflows): Build, schedule, and monitor your jobs, alerts, and ETL tasks.
+- [Retool Workflows quickstart](https://docs.retool.com/workflows/quickstart): Learn about the fundamental concepts of Retool Workflows.
+- [Retool Workflows environment variables](https://docs.retool.com/workflows/reference/environment-variables): Workflow-related environment variables for self-hosted instances.
+- [Workflows glossary](https://docs.retool.com/workflows/reference/glossary): Learn the meanings of workflow-related terms.
+- [Workflow IDE keyboard shortcuts](https://docs.retool.com/workflows/reference/keyboard-shortcuts): Learn about built-in keyboard shortcuts for the workflow IDE.
+- [The Invoke Agent block](https://docs.retool.com/workflows/reference/objects/block/agent): Invoke an agent from within a workflow.
+- [The Branch block](https://docs.retool.com/workflows/reference/objects/block/branch): Branch logic within a workflow.
+- [The Code block](https://docs.retool.com/workflows/reference/objects/block/code): Execute code within a workflow.
+- [The Filter block](https://docs.retool.com/workflows/reference/objects/block/filter): Filter logic within a workflow.
+- [Block objects](https://docs.retool.com/workflows/reference/objects/block): Execute actions within a workflow.
+- [The Loop block](https://docs.retool.com/workflows/reference/objects/block/loop): Loop logic within a workflow.
+- [The Resource query block](https://docs.retool.com/workflows/reference/objects/block/resource-query): Execute resource queries within a workflow.
+- [The Response block](https://docs.retool.com/workflows/reference/objects/block/response): Return a response within a workflow.
+- [The Workflow block](https://docs.retool.com/workflows/reference/objects/block/run-workflow): Trigger workflow runs within a workflow.
+- [The Wait block](https://docs.retool.com/workflows/reference/objects/block/wait): Execute a wait within a workflow.
+- [The Current User object](https://docs.retool.com/workflows/reference/objects/current-user): Information about the current logged-in or authenticated user.
+- [The Start Trigger object](https://docs.retool.com/workflows/reference/objects/starttrigger): Information about the start trigger of the workflow.
+- [The Workflow Context object](https://docs.retool.com/workflows/reference/objects/workflowcontext): Information about the current workflow.
+- [Retool Events reference](https://docs.retool.com/workflows/reference/retool-events): Reference documentation for Retool Events.
+- [Retool Workflows reference](https://docs.retool.com/workflows/reference): Reference documentation for Retool workflows.
+- [Retool Workflows tutorial](https://docs.retool.com/workflows/tutorial): A hands-on introduction to Retool Workflows.
+
+## Queries
+
+- [Ask AI and quick actions](https://docs.retool.com/queries/concepts/ask): Learn about Retool's built-in AI assistance.
+- [Query performance best practices](https://docs.retool.com/queries/concepts/best-practices): Learn about the best practices for writing performant queries.
+- [Query caching](https://docs.retool.com/queries/concepts/caching): Learn more about caching query results to increase app performance.
+- [JavaScript](https://docs.retool.com/queries/concepts/javascript): Write JavaScript in Retool.
+- [Query performance](https://docs.retool.com/queries/concepts/performance): Learn about query performance at different stages.
+- [Prepared statements](https://docs.retool.com/queries/concepts/prepared-statements): Learn how Retool uses prepared statements for SQL queries.
+- [Query Library](https://docs.retool.com/queries/concepts/query-library): Learn more about creating and sharing queries with the Query Library.
+- [Row-level security](https://docs.retool.com/queries/concepts/row-level-security): Learn about row-level security of database tables.
+- [Queries and code concept guides](https://docs.retool.com/queries/concepts): Learn about relevant features, functionality, and principles related to queries and code.
+- [Advanced query options](https://docs.retool.com/queries/guides/advanced-options): Learn how to use advanced query options.
+- [AI resource queries](https://docs.retool.com/queries/guides/ai): Learn how to create AI resource queries to generate text, analyze images, and process documents in Retool.
+- [Collect app usage analytics](https://docs.retool.com/queries/guides/analytics): Learn how to integrate with Segment or Google Analytics to collect usage data.
+- [Query GraphQL APIs](https://docs.retool.com/queries/guides/api/graphql): Learn how to query GraphQL APIs.
+- [Query REST APIs](https://docs.retool.com/queries/guides/api/rest): Learn how to connect and query REST APIs in Retool.
+- [Write queries and code with Ask AI](https://docs.retool.com/queries/guides/ask): Learn how to generate, edit, and fix queries with Ask AI.
+- [Dynamically query resources](https://docs.retool.com/queries/guides/dynamic-queries): Learn how to dynamically access various resources with one query.
+- [Interact with files](https://docs.retool.com/queries/guides/files): Learn how to store and retrieve files on data stores.
+- [Create backend functions to reuse queries and logic in apps](https://docs.retool.com/queries/guides/functions/apps): Learn how to create backend functions for apps.
+- [Legacy: Resource and sync functions](https://docs.retool.com/queries/guides/functions/legacy-app-functions): Learn how to write reusable logic with app functions.
+- [Create workflow functions to reuse queries and logic](https://docs.retool.com/queries/guides/functions/workflows): Learn how to create workflow functions.
+- [Generate PDFs](https://docs.retool.com/queries/guides/generate-pdfs): Learn how to generate PDFs using the built-in PDF exporter resource.
+- [Preload custom JavaScript code and libraries](https://docs.retool.com/queries/guides/javascript/custom): Learn how to preload custom JavaScript and libraries in apps.
+- [Write and run JavaScript](https://docs.retool.com/queries/guides/javascript): Learn how to run JavaScript in your Retool apps.
+- [Share queries with the Query Library](https://docs.retool.com/queries/guides/query-library): Learn how to import and export queries with the Query Library.
+- [Configure query run behavior](https://docs.retool.com/queries/guides/run-behavior): Learn how configure the run behavior of app queries.
+- [_mode](https://docs.retool.com/queries/guides/sql/_mode): There are two modes from which to select when writing an SQL query. The mode you choose depends on whether you need to read or write data:
+- [Explore database schemas](https://docs.retool.com/queries/guides/sql/database-schema): Learn how to explore database table schemas when writing queries.
+- [Read data from SQL databases](https://docs.retool.com/queries/guides/sql/queries): Learn how to construct queries to retrieve data from SQL databases and similar data stores.
+- [Query JSON data with SQL statements](https://docs.retool.com/queries/guides/sql/query-json): Learn how to use SQL statements to query JSON data.
+- [Write data to SQL databases](https://docs.retool.com/queries/guides/sql/writes): Learn how to construct queries to safely write data to SQL databases and similar data stores.
+- [Store temporary data with variables and localStorage](https://docs.retool.com/queries/guides/store-temporary-data): Learn how to temporarily store data for apps.
+- [Transform data with JavaScript](https://docs.retool.com/queries/guides/transformers): Learn how to write JavaScript to manipulate data.
+- [Edit queries in VS Code](https://docs.retool.com/queries/guides/vscode): Connect your local Visual Studio Code development environment to Retool.
+- [Import and run a workflow from an app](https://docs.retool.com/queries/guides/workflows): The [Retool Workflows](../../workflows/index.mdx) query resource enables you to run a workflow from an app. This is useful for reducing complexity ...
+- [Queries and code how-to guides](https://docs.retool.com/queries/guides): Step-by-step instructions for common queries and code usage.
+- [Queries and code documentation](https://docs.retool.com/queries): Write functional code to power apps and workflows.
+- [Queries and code quickstart](https://docs.retool.com/queries/quickstart): Learn about the fundamental concepts of queries and code.
+- [Query and code glossary](https://docs.retool.com/queries/reference/glossary): Learn the meanings of query and code-related terms.
+- [The File Utils JavaScript library](https://docs.retool.com/queries/reference/libraries/fileutils): JavaScript methods for parsing and uploading files.
+- [JavaScript libraries](https://docs.retool.com/queries/reference/libraries): Reference documentation for available JavaScript libraries.
+- [Preloaded JavaScript libraries](https://docs.retool.com/queries/reference/libraries/preloaded): Information about third-party JavaScript libraries preloaded for use in web apps.
+- [The Tools JavaScript library](https://docs.retool.com/queries/reference/libraries/tools): JavaScript methods to reformat data.
+- [The Utils JavaScript Library](https://docs.retool.com/queries/reference/libraries/utils): JavaScript methods for interacting with apps.
+- [The localStorage object](https://docs.retool.com/queries/reference/objects/localstorage): Store and retrieve data in the browser.
+- [The Query object](https://docs.retool.com/queries/reference/objects/query): Query information and data.
+- [The Variable object](https://docs.retool.com/queries/reference/objects/variable): Variables that store temporary state.
+- [Queries and code reference](https://docs.retool.com/queries/reference): Reference documentation for queries and code.
+- [Insert CSV data into a database](https://docs.retool.com/queries/tutorials/examples/csv-to-database): Learn how to build an app that writes a CSV file to a database.
+- [Firebase query tutorial](https://docs.retool.com/queries/tutorials/examples/firebase): Learn how to write queries directly against the Firebase Admin SDK in Retool.
+- [Google Analytics query tutorial](https://docs.retool.com/queries/tutorials/examples/google-analytics): Learn how to interact with your Google Analytics integration.
+- [Google Sheets query tutorial](https://docs.retool.com/queries/tutorials/examples/google-sheets): Learn how to read and write data to Google Sheets.
+- [Queries and code example tutorials](https://docs.retool.com/queries/tutorials/examples): Hands-on guides for example usage of queries and code.
+- [Amazon S3 query tutorial](https://docs.retool.com/queries/tutorials/examples/s3): Learn how to interact with S3 data.
+- [Salesforce query tutorial](https://docs.retool.com/queries/tutorials/examples/salesforce): Learn how to read and write data to Salesforce.
+- [Shopify GrapQL query tutorial](https://docs.retool.com/queries/tutorials/examples/shopify): Learn how to interact with Shopify GraphQL data.
+- [SMTP query tutorial](https://docs.retool.com/queries/tutorials/examples/smtp): Learn how to send emails using SMTP services.
+- [Stripe query tutorial](https://docs.retool.com/queries/tutorials/examples/stripe): Learn how to interact with Stripe data.
+- [Resource query tutorial](https://docs.retool.com/queries/tutorials/resource-query): A hands-on introduction to querying resources.
+- [Queries and code tutorials](https://docs.retool.com/queries/tutorials): Hands-on guides for writing queries and code.
+
+## Data Sources
+
+- [Resource authentication](https://docs.retool.com/data-sources/concepts/authentication): Learn about supported authentication methods for resources.
+- [Data protection](https://docs.retool.com/data-sources/concepts/data-protection): Learn about the best practices for storing data that's potentially sensitive.
+- [Retool AI providers and models](https://docs.retool.com/data-sources/concepts/models): Learn about the different AI providers and models that Retool supports.
+- [Retool Database usage and limits](https://docs.retool.com/data-sources/concepts/retool-database): Learn about Retool Database usage and limits that apply to cloud-hosted organizations.
+- [Data streaming](https://docs.retool.com/data-sources/concepts/streaming): Learn about streaming data from resources in Retool.
+- [Resources concept guides](https://docs.retool.com/data-sources/concepts): Learn about relevant features, functionality, and principles related to data sources.
+- [Configure API authentication](https://docs.retool.com/data-sources/guides/authentication/api): Learn how to configure API authentication on your resources.
+- [Custom authentication JavaScript libraries](https://docs.retool.com/data-sources/guides/authentication/custom-auth-libraries): Reference list of JavaScript libraries available in Retool custom authentication JavaScript steps.
+- [Custom API authentication](https://docs.retool.com/data-sources/guides/authentication/custom): Learn how to implement custom API authentication flows.
+- [Authenticate with Google APIs using OAuth 2.0](https://docs.retool.com/data-sources/guides/authentication/google-oauth): Learn how to use OAuth 2.0 to authenticate with Google APIs.
+- [Configure resource authentication](https://docs.retool.com/data-sources/guides/authentication): Learn how to authenticate with resources.
+- [Use Kerberos authentication with Microsoft SQL Server resources](https://docs.retool.com/data-sources/guides/authentication/mssql-kerberos): Learn how to configure a self-hosted instance to use Kerberos authentication with Microsoft SQL Server resources.
+- [Import resources from AWS](https://docs.retool.com/data-sources/guides/aws-import): Learn how to import resources using your AWS IAM credentials.
+- [Configure resource connections](https://docs.retool.com/data-sources/guides/connections): Learn how to configure resource connections.
+- [Configure Retool outbound regions for cloud instances](https://docs.retool.com/data-sources/guides/connections/outbound-retool-regions): Learn how to route resources through different regions.
+- [Configure SSH tunneling for resources](https://docs.retool.com/data-sources/guides/connections/ssh-tunnels): Learn how to enable SSH tunnels to your data sources.
+- [Configure SSL connections for data sources](https://docs.retool.com/data-sources/guides/connections/ssl): Learn how to connect to your resources using SSL/TLS encryption.
+- [Content Generation Brand Voice](https://docs.retool.com/data-sources/guides/integrations/ai/_use-cases/content-generation-brand-voice): ```text title="System message"
+- [Extract Structured Data](https://docs.retool.com/data-sources/guides/integrations/ai/_use-cases/extract-structured-data): ```text title="System message"
+- [Generate Sql](https://docs.retool.com/data-sources/guides/integrations/ai/_use-cases/generate-sql): ```text title="System message"
+- [Summarize Feedback](https://docs.retool.com/data-sources/guides/integrations/ai/_use-cases/summarize-feedback): ```text title="System message"
+- [Connect to Amazon Bedrock](https://docs.retool.com/data-sources/guides/integrations/ai/amazon-bedrock): Connect to Amazon Bedrock and use their models for AI-powered apps and automations in Retool.
+- [Connect to Amazon Knowledge Base](https://docs.retool.com/data-sources/guides/integrations/ai/amazon-knowledgebase): Configure Amazon Knowledge Base vector stores for use with Retool AI.
+- [Connect to Anthropic](https://docs.retool.com/data-sources/guides/integrations/ai/anthropic): Connect to Anthropic and use their models for AI-powered apps and automations in Retool.
+- [Connect to Azure OpenAI](https://docs.retool.com/data-sources/guides/integrations/ai/azure-openai): Connect to Azure OpenAI and use their models for AI-powered apps and automations in Retool.
+- [Connect to Custom AI Provider](https://docs.retool.com/data-sources/guides/integrations/ai/custom-ai-provider): Connect to a custom AI provider and use their models for AI-powered apps and automations in Retool.
+- [Connect to Google Gemini](https://docs.retool.com/data-sources/guides/integrations/ai/google-ai): Connect to Google Gemini and use their models for AI-powered apps and automations in Retool.
+- [Connect to Google Vertex AI](https://docs.retool.com/data-sources/guides/integrations/ai/google-vertex-ai): Connect to Google Vertex AI and use Gemini models for AI-powered apps and automations in Retool.
+- [AI integration guides](https://docs.retool.com/data-sources/guides/integrations/ai): Learn how to connect AI providers to Retool with built-in solutions.
+- [Connect to OpenAI](https://docs.retool.com/data-sources/guides/integrations/ai/openai): Connect to OpenAI and use their models for AI-powered apps and automations in Retool.
+- [Connect to Amazon Athena](https://docs.retool.com/data-sources/guides/integrations/analytics/amazon-athena): Learn how to connect Amazon Athena to Retool.
+- [Connect to Databricks](https://docs.retool.com/data-sources/guides/integrations/analytics/databricks): Learn how to connect your Databricks database to Retool.
+- [Connect to Datadog](https://docs.retool.com/data-sources/guides/integrations/analytics/datadog): Learn how to connect Datadog to Retool.
+- [Connect to Elasticsearch](https://docs.retool.com/data-sources/guides/integrations/analytics/elasticsearch): Learn how to connect your Elasticsearch database to Retool.
+- [Analytics integration guides](https://docs.retool.com/data-sources/guides/integrations/analytics): Learn how to connect analytics integrations to Retool with built-in solutions.
+- [Connect to MotherDuck](https://docs.retool.com/data-sources/guides/integrations/analytics/motherduck): Connect MotherDuck to Retool and query analytics data, build dashboards, and manage records with DuckDB SQL.
+- [Connect to GraphQL](https://docs.retool.com/data-sources/guides/integrations/api/graphql): Learn how to connect to GraphQL APIs and query, mutate data in Retool.
+- [API integration guides](https://docs.retool.com/data-sources/guides/integrations/api): Learn how to connect different types of APIs to Retool with built-in solutions.
+- [Connect to OpenAPI](https://docs.retool.com/data-sources/guides/integrations/api/openapi): Learn how to connect to APIs using OpenAPI specifications in Retool.
+- [Connect to REST API](https://docs.retool.com/data-sources/guides/integrations/api/rest): Learn how to connect to REST APIs and make HTTP requests in Retool.
+- [Connect to the Retool API](https://docs.retool.com/data-sources/guides/integrations/api/retool-api): Learn how to connect the Retool API using the OpenAPI integration.
+- [Connect a SOAP API](https://docs.retool.com/data-sources/guides/integrations/api/soap): Learn how to connect SOAP APIs to Retool using the REST API integration.
+- [Connect to BigID](https://docs.retool.com/data-sources/guides/integrations/crm/bigid): Learn how to connect BigID to Retool.
+- [Connect to Close](https://docs.retool.com/data-sources/guides/integrations/crm/close): Learn how to connect Close to Retool.
+- [Connect to Front](https://docs.retool.com/data-sources/guides/integrations/crm/front): Learn how to connect Front to Retool.
+- [Connect to HubSpot](https://docs.retool.com/data-sources/guides/integrations/crm/hubspot): Learn how to connect HubSpot to Retool.
+- [CRM integration guides](https://docs.retool.com/data-sources/guides/integrations/crm): Learn how to connect customer relationship management integrations to Retool with built-in solutions.
+- [Connect to Salesforce](https://docs.retool.com/data-sources/guides/integrations/crm/salesforce): Learn how to connect to Salesforce and query CRM data, manage records, and execute custom Apex logic in Retool.
+- [_sql Action Types](https://docs.retool.com/data-sources/guides/integrations/database/_sql-action-types): | Action type | Description | Use case |
+- [_sql Gui Fields](https://docs.retool.com/data-sources/guides/integrations/database/_sql-gui-fields): <Details summary="Action type">
+- [_sql Related Resources](https://docs.retool.com/data-sources/guides/integrations/database/_sql-related-resources): <DocCardList
+- [_sql Write Use Cases](https://docs.retool.com/data-sources/guides/integrations/database/_sql-write-use-cases): <Details summary="insert new rows from a form">
+- [Connect to AlloyDB](https://docs.retool.com/data-sources/guides/integrations/database/alloydb): Learn how to connect your AlloyDB database to Retool.
+- [Connect to Amazon DynamoDB](https://docs.retool.com/data-sources/guides/integrations/database/amazon-dynamodb): Learn how to connect Amazon DynamoDB to Retool.
+- [Connect to Amazon Redshift](https://docs.retool.com/data-sources/guides/integrations/database/amazon-redshift): Learn how to connect your Amazon Redshift database to Retool.
+- [Connect to BigQuery](https://docs.retool.com/data-sources/guides/integrations/database/bigquery): Learn how to connect your BigQuery data to Retool.
+- [Connect to Cassandra](https://docs.retool.com/data-sources/guides/integrations/database/cassandra): Learn how to connect your Cassandra database to Retool.
+- [Connect to ClickHouse](https://docs.retool.com/data-sources/guides/integrations/database/clickhouse): Connect ClickHouse to Retool to query analytics data and build apps and automations with SQL.
+- [Connect to CockroachDB](https://docs.retool.com/data-sources/guides/integrations/database/cockroachdb): Connect CockroachDB to Retool to query data, manage records, and build apps and automations with SQL.
+- [Connect to CosmosDB](https://docs.retool.com/data-sources/guides/integrations/database/cosmosdb): Learn how to connect your CosmosDB database to Retool.
+- [Connect to CouchDB](https://docs.retool.com/data-sources/guides/integrations/database/couchdb): Learn how to connect to CouchDB and query, manage documents in Retool.
+- [Connect to Databricks Lakebase](https://docs.retool.com/data-sources/guides/integrations/database/databricks-lakebase): Learn how to connect Databricks Lakebase to Retool.
+- [Database integration guides](https://docs.retool.com/data-sources/guides/integrations/database): Learn how to connect database integrations to Retool with built-in solutions.
+- [Connect to JDBC](https://docs.retool.com/data-sources/guides/integrations/database/jdbc): Learn how to connect a JDBC driver to Retool.
+- [Connect to Microsoft SQL Server](https://docs.retool.com/data-sources/guides/integrations/database/microsoft-sql-server): Connect Microsoft SQL Server to Retool to query data, manage records, and build apps and automations with T-SQL.
+- [Connect to MongoDB](https://docs.retool.com/data-sources/guides/integrations/database/mongodb): Connect MongoDB to Retool and query documents, run aggregations, and manage collections.
+- [Connect to MySQL](https://docs.retool.com/data-sources/guides/integrations/database/mysql): Connect MySQL to Retool to query data, manage records, and build apps and automations with SQL.
+- [Connect to Oracle Database](https://docs.retool.com/data-sources/guides/integrations/database/oracledb): Learn how to connect your Oracle Database database to Retool.
+- [Connect to PostgreSQL](https://docs.retool.com/data-sources/guides/integrations/database/postgresql): Connect PostgreSQL to Retool to query data, manage records, and build apps and automations with SQL.
+- [Connect to Presto](https://docs.retool.com/data-sources/guides/integrations/database/presto): Learn how to connect Presto to Retool.
+- [Connect to Redis](https://docs.retool.com/data-sources/guides/integrations/database/redis): Learn how to connect your Redis database to Retool.
+- [Connect to RethinkDB](https://docs.retool.com/data-sources/guides/integrations/database/rethinkdb): Learn how to connect your RethinkDB database to Retool.
+- [Connect to SAP Hana](https://docs.retool.com/data-sources/guides/integrations/database/sap-hana): Learn how to connect your SAP Hana data to Retool.
+- [Connect to Snowflake](https://docs.retool.com/data-sources/guides/integrations/database/snowflake): Learn how to connect your Snowflake database to Retool.
+- [Connect to Vertica](https://docs.retool.com/data-sources/guides/integrations/database/vertica): Learn how to connect your Vertica database to Retool.
+- [Connect to AWS Lambda](https://docs.retool.com/data-sources/guides/integrations/development/aws-lambda): Learn how to connect AWS Lambda to Retool.
+- [Connect to CircleCI](https://docs.retool.com/data-sources/guides/integrations/development/circleci): Learn how to connect CircleCI to Retool.
+- [Connect to Firebase](https://docs.retool.com/data-sources/guides/integrations/development/firebase): Learn how to connect Firebase to Retool.
+- [Connect to GitHub](https://docs.retool.com/data-sources/guides/integrations/development/github): Learn how to connect GitHub to Retool.
+- [Connect to gRPC](https://docs.retool.com/data-sources/guides/integrations/development/grpc): Learn how to connect your gRPC database to Retool.
+- [Development integration guides](https://docs.retool.com/data-sources/guides/integrations/development): Learn how to connect development integrations to Retool with built-in solutions.
+- [Connect to the OpenAI Platform API](https://docs.retool.com/data-sources/guides/integrations/development/openai-platform): Learn how to connect OpenAI's platform API to Retool.
+- [Finance integration guides](https://docs.retool.com/data-sources/guides/integrations/finance): Learn how to connect finance integrations to Retool with built-in solutions.
+- [Connect to Stripe](https://docs.retool.com/data-sources/guides/integrations/finance/stripe): Learn how to connect to Stripe and manage payments, customers, and subscriptions in Retool.
+- [Connect to Google Analytics](https://docs.retool.com/data-sources/guides/integrations/google/google-analytics): Learn how to connect Google Analytics to Retool.
+- [Connect to Google Calendar](https://docs.retool.com/data-sources/guides/integrations/google/google-calendar): Connect Google Calendar to Retool to read, create, and manage events using the Calendar API.
+- [Connect to Google Cloud Datastore](https://docs.retool.com/data-sources/guides/integrations/google/google-cloud-datastore): Learn how to connect Google Cloud Datastore to Retool.
+- [Connect to Google Cloud Storage](https://docs.retool.com/data-sources/guides/integrations/google/google-cloud-storage): Learn how to connect Google Cloud Storage to Retool.
+- [Connect to Google Docs](https://docs.retool.com/data-sources/guides/integrations/google/google-docs): Connect Google Docs to Retool to read, generate, and update documents using the Docs API.
+- [Connect to Google Drive](https://docs.retool.com/data-sources/guides/integrations/google/google-drive): Connect Google Drive to Retool to read, write, and manage files and folders using the Drive API.
+- [Connect to Google Maps](https://docs.retool.com/data-sources/guides/integrations/google/google-maps): Learn how to connect the Google Maps Platform to Retool.
+- [Connect to Google Search Console](https://docs.retool.com/data-sources/guides/integrations/google/google-search-console): Learn how to connect Google Search Console to Retool.
+- [Connect to Google Sheets](https://docs.retool.com/data-sources/guides/integrations/google/google-sheets): Connect Google Sheets to Retool to read, write, and manage spreadsheet data.
+- [Connect to Google Slides](https://docs.retool.com/data-sources/guides/integrations/google/google-slides): Connect Google Slides to Retool to generate and update presentations using the Slides API.
+- [Google integration guides](https://docs.retool.com/data-sources/guides/integrations/google): Learn how to connect Google integrations to Retool with built-in solutions.
+- [Integration guides](https://docs.retool.com/data-sources/guides/integrations): Learn how to connect data sources to Retool with built-in solutions.
+- [Messaging integration guides](https://docs.retool.com/data-sources/guides/integrations/messaging): Learn how to connect messaging integrations to Retool with built-in solutions.
+- [Connect to Microsoft Teams](https://docs.retool.com/data-sources/guides/integrations/messaging/microsoft-teams): Learn how to connect Microsoft Teams to Retool.
+- [Connect to OneSignal](https://docs.retool.com/data-sources/guides/integrations/messaging/onesignal): Learn how to connect OneSignal to Retool.
+- [Connect to SendGrid](https://docs.retool.com/data-sources/guides/integrations/messaging/sendgrid): Learn how to connect SendGrid to Retool.
+- [Connect to Slack](https://docs.retool.com/data-sources/guides/integrations/messaging/slack): Learn how to connect Slack to Retool.
+- [Connect an SMTP server](https://docs.retool.com/data-sources/guides/integrations/messaging/smtp): Learn how to connect an SMTP server to Retool.
+- [Connect to Twilio](https://docs.retool.com/data-sources/guides/integrations/messaging/twilio): Learn how to connect to Twilio and send SMS messages, make voice calls, and manage communications in Retool.
+- [Connect to Amazon S3](https://docs.retool.com/data-sources/guides/integrations/object-file-store/amazon-s3): Learn how to connect to Amazon S3 and upload, download, manage files in Retool.
+- [Connect to Azure Blob Storage](https://docs.retool.com/data-sources/guides/integrations/object-file-store/azure-blob-storage): Connect Azure Blob Storage to Retool and upload, download, and manage files in your apps and automations.
+- [Object and file store integration guides](https://docs.retool.com/data-sources/guides/integrations/object-file-store): Learn how to connect object and file store integrations to Retool with built-in solutions.
+- [Connect to Asana](https://docs.retool.com/data-sources/guides/integrations/project-management/asana): Learn how to connect Asana to Retool.
+- [Project management integration guides](https://docs.retool.com/data-sources/guides/integrations/project-management): Learn how to connect project management integrations to Retool with built-in solutions.
+- [Connect to Jira](https://docs.retool.com/data-sources/guides/integrations/project-management/jira): Learn how to connect Jira to Retool.
+- [Connect to Notion](https://docs.retool.com/data-sources/guides/integrations/project-management/notion): Learn how to connect Notion to Retool.
+- [Connect to ServiceNow](https://docs.retool.com/data-sources/guides/integrations/project-management/servicenow): Connect ServiceNow to Retool and manage incidents, change requests, and records using the Table API.
+- [Connect to Amazon SNS](https://docs.retool.com/data-sources/guides/integrations/streaming/amazon-sns): Learn how to connect Amazon SNS to Retool.
+- [Connect to Amazon SQS](https://docs.retool.com/data-sources/guides/integrations/streaming/amazon-sqs): Learn how to connect Amazon SQS to Retool.
+- [Streaming integration guides](https://docs.retool.com/data-sources/guides/integrations/streaming): Learn how to connect streaming integrations to Retool with built-in solutions.
+- [Connect to Kafka](https://docs.retool.com/data-sources/guides/integrations/streaming/kafka): Learn how to connect Kafka to Retool.
+- [Web search integration guides](https://docs.retool.com/data-sources/guides/integrations/websearch): Learn how to connect web search integrations to Retool with built-in solutions.
+- [Connect to Tavily Web Search](https://docs.retool.com/data-sources/guides/integrations/websearch/tavily): Learn how to connect Tavily Search API to Retool.
+- [Manage resources](https://docs.retool.com/data-sources/guides/manage-resources): Learn how to manage your resources.
+- [Export table data from Retool Database](https://docs.retool.com/data-sources/guides/retool-database/export-data): Learn how to export your data from Retool Database.
+- [Access Retool Database tables externally](https://docs.retool.com/data-sources/guides/retool-database/external-access): Learn how to access Retool Database outside your cloud-hosted organization.
+- [Customize field views in Retool Database](https://docs.retool.com/data-sources/guides/retool-database/field-view-options): Learn how to customize view options for fields in Retool Database
+- [Filter and sort Retool Database table rows](https://docs.retool.com/data-sources/guides/retool-database/filter-sort): You can search Retool Database table data, apply filters, and customize sort options in the editor.
+- [Retool Database how-to guides](https://docs.retool.com/data-sources/guides/retool-database): Learn how to manage tables and data in Retool Database.
+- [Link Retool Database tables](https://docs.retool.com/data-sources/guides/retool-database/link-tables): Learn how to link tables in Retool Database.
+- [Manage table data in Retool Database](https://docs.retool.com/data-sources/guides/retool-database/manage-data): Learn how to edit a table's data or schema in Retool Database.
+- [Manage Retool Database table fields](https://docs.retool.com/data-sources/guides/retool-database/manage-fields): Learn how to add, remove, and edit fields in Retool Database.
+- [Use Retool Database with multiple environments](https://docs.retool.com/data-sources/guides/retool-database/multiple-environments): Learn how to use Retool Database with multiple environments.
+- [Shell script resource](https://docs.retool.com/data-sources/guides/shell-scripts/shell-script-resource): :::note Beta
+- [Run shell scripts on remote hosts](https://docs.retool.com/data-sources/guides/shell-scripts/shell-scripts): :::info beta
+- [Troubleshoot resource connections](https://docs.retool.com/data-sources/guides/troubleshooting): Learn about common data source connection issues and how to resolve them.
+- [Manage embeddings in Retool-managed Vectors](https://docs.retool.com/data-sources/guides/vectors/embeddings): Learn how to manage text embeddings stored in Retool-managed Vectors.
+- [Use Retool AI to query vectors with filters and metadata](https://docs.retool.com/data-sources/guides/vectors/filters): Learn how to query Retool Vectors using filters and metadata.
+- [Store vector embeddings for AI actions](https://docs.retool.com/data-sources/guides/vectors): Learn how to store embeddings for AI actions with Retool-managed Vectors.
+- [Store documents and text in Retool-managed Vectors](https://docs.retool.com/data-sources/guides/vectors/text): Learn how to store text in a Retool-managed vector database for use with AI models.
+- [Store web page text in Retool-managed Vectors](https://docs.retool.com/data-sources/guides/vectors/urls): Learn how to store web page text in a Retool-managed vector database for use with AI models.
+- [Resources how-to guides](https://docs.retool.com/data-sources/guides): Step-by-step instructions for using common features and functionality of resources.
+- [Data sources documentation](https://docs.retool.com/data-sources): Connect to nearly any API and database, or use built-in solutions.
+- [Resources quickstart](https://docs.retool.com/data-sources/quickstarts/resources): Learn about the fundamental concepts of connecting your data to Retool.
+- [Retool Database quickstart](https://docs.retool.com/data-sources/quickstarts/retool-database): Learn about the fundamentals of Retool Database.
+- [Retool Email quickstart](https://docs.retool.com/data-sources/quickstarts/retool-email): Learn about the fundamentals of Retool Email.
+- [Retool RPC quickstart](https://docs.retool.com/data-sources/quickstarts/retool-rpc): Learn about the fundamentals of Retool RPC.
+- [Retool Storage quickstart](https://docs.retool.com/data-sources/quickstarts/retool-storage): Learn about the fundamentals of Retool Storage.
+- [Retool-managed Vectors](https://docs.retool.com/data-sources/quickstarts/retool-vectors): Learn about the fundamentals of Retool Vectors.
+- [Resources quickstarts](https://docs.retool.com/data-sources/quickstarts): Learn about the fundamental concepts of data sources and built-in solutions.
+- [Resources environment variables](https://docs.retool.com/data-sources/reference/environment-variables): Resource-related environment variables for self-hosted instances.
+- [Data sources glossary](https://docs.retool.com/data-sources/reference/glossary): Learn the meanings of data source-related terms.
+- [Retool IP addresses](https://docs.retool.com/data-sources/reference/ip-allowlist-cloud-orgs): Learn how to give Retool access to your resources on a cloud instance.
+- [The Retool Storage File object](https://docs.retool.com/data-sources/reference/objects/file): Retool Storage files.
+- [Resources reference](https://docs.retool.com/data-sources/reference): Reference documentation for Retool resources.
+- [Create a resource tutorial](https://docs.retool.com/data-sources/tutorials/create-resource): Learn how to create a resource, which you can access via queries in apps and workflows.
+- [Retool Database tutorial](https://docs.retool.com/data-sources/tutorials/retool-database): A built-in database solution for Retool organizations.
+- [Retool RPC tutorial](https://docs.retool.com/data-sources/tutorials/retool-rpc): A built-in solution to connect your codebase and call server-side functions in Retool apps.
+- [Retool Storage tutorial](https://docs.retool.com/data-sources/tutorials/retool-storage): Learn how to build apps for managing files using Retool Storage.
+- [Retool-managed Vectors tutorial](https://docs.retool.com/data-sources/tutorials/retool-vectors): Learn how to store and retrieve data for AI models using Retool's managed vector database.
+- [Resources tutorials](https://docs.retool.com/data-sources/tutorials): Learn how to connect data sources to Retool and use built-in solutions.
+
+## Mobile
+
+- [Mobile app best practices](https://docs.retool.com/mobile/concepts/best-practices): Learn about the best practices for building performant mobile apps.
+- [Mobile app biometric verification](https://docs.retool.com/mobile/concepts/biometric-verification): Learn about biometric verification for Retool Mobile apps.
+- [Command Palette](https://docs.retool.com/mobile/concepts/command-palette): Learn about Retool's Command Palette and its global search and commands.
+- [Debug Tools](https://docs.retool.com/mobile/concepts/debug-tools): Investigate and resolve issues with Retool's built-in debugging tools.
+- [Programming paradigms at Retool](https://docs.retool.com/mobile/concepts/programming-paradigms): Learn about the programming styles supported by Retool and their use.
+- [Push notifications](https://docs.retool.com/mobile/concepts/push-notifications): Learn about push notifications in Retool Mobile.
+- [The Retool Mobile app](https://docs.retool.com/mobile/concepts/retool-mobile-app): Learn about the Retool Mobile app for iOS and Android.
+- [White-label mobile apps](https://docs.retool.com/mobile/concepts/white-label): Eligible Retool organizations can request _White-label Apps_: a custom-branded version of the Retool Mobile app. Retool can manage the distribution...
+- [Mobile apps concept guides](https://docs.retool.com/mobile/concepts): Learn about relevant features, functionality, and principles related to Retool mobile apps.
+- [Add documentation to mobile apps](https://docs.retool.com/mobile/guides/app-management/app-documentation): Learn how to add a README and user documentation to mobile apps.
+- [Import and export apps](https://docs.retool.com/mobile/guides/app-management/import-export): Learn how to import and export Retool apps.
+- [App management](https://docs.retool.com/mobile/guides/app-management): Learn how to manage and share Retool Mobile apps.
+- [Send push notifications](https://docs.retool.com/mobile/guides/app-management/push-notifications): Learn how to send push notifications to Retool Mobile users.
+- [Preview and share mobile apps with users](https://docs.retool.com/mobile/guides/app-management/share): Learn how to preview and share Retool mobile apps with users.
+- [Custom and embedded content](https://docs.retool.com/mobile/guides/custom): Learn how to create custom components and embed other content in your mobile app.
+- [Display tables using Markdown](https://docs.retool.com/mobile/guides/custom/table): Learn how to build tables in Retool Mobile apps using Text components with Markdown support.
+- [Customize the theme of mobile apps](https://docs.retool.com/mobile/guides/custom/themes): Learn how to customize the theme of Retool Mobile apps.
+- [Deploy mobile apps](https://docs.retool.com/mobile/guides/deploy/deployment): Learn how to deploy Retool Mobile apps.
+- [Deployment](https://docs.retool.com/mobile/guides/deploy): Learn how to deploy Retool Mobile apps.
+- [Version and release apps](https://docs.retool.com/mobile/guides/deploy/releases-history): Learn how to version apps or revert changes to a previous state.
+- [Provision and distribute White-label Retool Mobile apps](https://docs.retool.com/mobile/guides/deploy/white-label/create): To create a White-label app, you provide Retool with the necessary provisioning resources. Retool then generates a custom version of the mobile app...
+- [Configure external authentication for White-label apps](https://docs.retool.com/mobile/guides/deploy/white-label/custom-login): Retool can authenticate users–internal or external to your company–into <Glossary name="embedded-app">embedded apps</Glossary>. Organizations with ...
+- [White-labeled Retool Mobile apps](https://docs.retool.com/mobile/guides/deploy/white-label): Learn how to build white-labeled Retool Mobile apps.
+- [Manage White-label app updates](https://docs.retool.com/mobile/guides/deploy/white-label/manage-updates): Your White-label app functions in the same way as the Retool Mobile app. You can continue to make incremental changes to your mobile app (e.g., edi...
+- [Mobile app error reporting and observability](https://docs.retool.com/mobile/guides/error-reporting): Monitor Retool Mobile apps by connecting with Datadog or Sentry.
+- [Manage date and time values in web apps](https://docs.retool.com/mobile/guides/forms-inputs/dates): Learn how to display and manage date values in web apps.
+- [Upload files and images in mobile apps](https://docs.retool.com/mobile/guides/forms-inputs/files): Learn how to upload files and images in mobile apps.
+- [Forms and inputs](https://docs.retool.com/mobile/guides/forms-inputs): Learn how to gather user inputs through forms and various input types.
+- [Define option lists](https://docs.retool.com/mobile/guides/forms-inputs/option-lists): Use the option list editor to configure options manually or map data to generate them dynamically.
+- [Accept digital signatures](https://docs.retool.com/mobile/guides/forms-inputs/signatures): Learn how to accept and upload signatures in mobile apps.
+- [Retool Mobile hardware integrations](https://docs.retool.com/mobile/guides/hardware-integrations): Build mobile apps that work with dedicated hardware, such as barcode scanners.
+- [Read and write NFC tag data](https://docs.retool.com/mobile/guides/hardware-integrations/nfc): Learn how to scan and write data to NFC tags.
+- [Capture data with ProGlove scanners](https://docs.retool.com/mobile/guides/hardware-integrations/proglove): Learn how to capture data with Android devices using ProGlove scanners.
+- [Capture data using Zebra Android devices](https://docs.retool.com/mobile/guides/hardware-integrations/zebra/datawedge): Learn how to capture data with Zebra Android devices using DataWedge APIs.
+- [Build mobile apps for Zebra Android devices](https://docs.retool.com/mobile/guides/hardware-integrations/zebra): Learn how to build mobile apps for Zebra Android devices.
+- [Print to Zebra label printers](https://docs.retool.com/mobile/guides/hardware-integrations/zebra/print): Learn how to print to Zebra label printers from Zebra Android devices.
+- [Event handlers](https://docs.retool.com/mobile/guides/interaction-navigation/event-handlers): Learn how to trigger actions and queries in response to user interactions.
+- [Interaction and navigation](https://docs.retool.com/mobile/guides/interaction-navigation): Learn how to structure your mobile app for user interactivity, and how to trigger and handle events.
+- [Assemble mobile screens](https://docs.retool.com/mobile/guides/interaction-navigation/screens): Organize content to create mobile apps with multi-page layouts.
+- [Share data between mobile app screens](https://docs.retool.com/mobile/guides/interaction-navigation/share-screen-data): Learn how to pass data between screens in mobile apps.
+- [Display data with Collection mobile components](https://docs.retool.com/mobile/guides/layout-structure/collections): Learn how to customize the design and layout of Retool Mobile apps.
+- [Group components with the Mobile Container component](https://docs.retool.com/mobile/guides/layout-structure/container): Learn how to customize the design and layout of Retool Mobile apps.
+- [Customize mobile app style](https://docs.retool.com/mobile/guides/layout-structure/design-layout): Learn how to customize the design and layout of Retool Mobile apps.
+- [Layout and structure](https://docs.retool.com/mobile/guides/layout-structure): Learn how to arrange components in your mobile app.
+- [Retool Mobile offline functionality](https://docs.retool.com/mobile/guides/offline-functionality): Learn how to build and manage Retool Mobile apps for offline use.
+- [Offline assets](https://docs.retool.com/mobile/guides/offline-functionality/offline-asset-library): Create assets that can be viewed offline with Retool Mobile.
+- [Offline mode](https://docs.retool.com/mobile/guides/offline-functionality/offline-mode): Learn how to configure Retool Mobile apps for offline use.
+- [Reference dates and times in components](https://docs.retool.com/mobile/guides/presentation-styling/dates-in-components): Learn how to reference dates and times in various components.
+- [Display icons](https://docs.retool.com/mobile/guides/presentation-styling/icons): Learn how to use built-in icons in Retool apps.
+- [Presentation and styling](https://docs.retool.com/mobile/guides/presentation-styling): Learn how to display information and visual components.
+- [Share data between mobile app screens](https://docs.retool.com/mobile/guides/share-page-data): Learn how to pass data between screens in Retool Mobile apps.
+- [Mobile apps how-to guides](https://docs.retool.com/mobile/guides): Step-by-step instructions for using common features and functionality in Retool mobile apps.
+- [Retool Mobile documentation](https://docs.retool.com/mobile): Build and deploy native mobile apps for iOS and Android.
+- [Retool Mobile quickstart](https://docs.retool.com/mobile/quickstart): Learn about the fundamental concepts of Retool Mobile.
+- [The Button component for Retool Mobile](https://docs.retool.com/mobile/reference/components/buttons/button): A button to trigger actions when clicked.
+- [The Fab component for Retool Mobile](https://docs.retool.com/mobile/reference/components/buttons/fab): A floating action button to trigger actions.
+- [Button components for Retool Mobile](https://docs.retool.com/mobile/reference/components/buttons): UI elements to trigger actions and queries in mobile apps.
+- [The Checkbox Group component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/checkbox-group): A group of checkboxes to toggle boolean values.
+- [The Checkbox component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/checkbox): An input field to toggle a boolean value.
+- [The Date Picker component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/date-picker): An input field to select or enter a date.
+- [The Date Time Picker component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/date-time-picker): An input field to select or enter a date and time.
+- [The File Input component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/file-input): An input field to select single or multiple files.
+- [The Form component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/form): A form to group and submit input fields.
+- [Form components for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms): Input fields and UI elements in mobile apps.
+- [The Multiselect component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/multiselect): An input field to select multiple options using a dropdown menu or manually enter values.
+- [The Number Input component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/number-input): An input field to enter a number.
+- [The Radio Group component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/radio-group): A radio button group to select a single option from a list.
+- [The Search Bar component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/search-bar): An input field to enter a single line of text.
+- [The Segmented Control component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/segmented-control): An input field to select an option from a list.
+- [The Select component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/select): An input field to select an option using a dropdown menu or manually enter a value.
+- [The Signature component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/signature): An input field to digitally capture a signature as an image.
+- [The Slider component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/slider): A slider to select a number value.
+- [The Status component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/status): A content area to display status information.
+- [The Switch Group component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/switch-group): A group of switches to toggle boolean values.
+- [The Switch component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/switch): An input field to toggle a boolean value.
+- [The Text Area component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/text-area): An input field to enter multiple lines of text.
+- [The Text Input component for Retool Mobile](https://docs.retool.com/mobile/reference/components/forms/text-input): An input field to enter a single line of text.
+- [Retool Mobile components reference](https://docs.retool.com/mobile/reference/components): Reference documentation for Retool Mobile.
+- [The Card component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/card): A container to group other components.
+- [The Collapsible Container component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/collapsible-container): A container to group other components.
+- [The Container component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/container): A container to group other components.
+- [The Divider component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/divider): A horizontal line to separate content.
+- [Layout components for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout): UI elements to group and arrange components in mobile apps.
+- [The Spacer component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/spacer): An area of empty space to separate content.
+- [The Tabbed Menu component for Retool Mobile](https://docs.retool.com/mobile/reference/components/layout/tabbed-menu): A container to group other components into a tabbed interface of multiple views.
+- [_web Camera Behavior](https://docs.retool.com/mobile/reference/components/media/_partials/_web-camera-behavior): When [running in a web browser](/mobile/guides/deploy/deployment#retool-mobile-on-the-web), the camera uses the browser's WebRTC API. On supported ...
+- [The Chart component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/chart): A chart to visualize datasets.
+- [The HTML component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/html): A content area to embed HTML content.
+- [The Icon component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/icon): A content area to display an icon.
+- [The Image Input component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/image-input): An input field to select images or take a photo with the camera.
+- [The Image component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/image): A content area to display an image.
+- [Media components for Retool Mobile](https://docs.retool.com/mobile/reference/components/media): Input fields and UI elements to interact with media in mobile apps.
+- [The Map component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/map): An embedded map with custom locations.
+- [The Microphone component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/microphone): A button to record audio.
+- [The NFC Reader component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/nfc-reader): An interface to capture data from an NFC tag.
+- [PDF Viewer component](https://docs.retool.com/mobile/reference/components/media/pdf-viewer): Displays a PDF.
+- [The ProGlove component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/proglove): An interface to capture data using a ProGlove scanner.
+- [The Scanner component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/scanner): An interface to scan a barcode or QR code using the device's camera.
+- [The WebView component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/webview): A content area to embed a web page.
+- [The Zebra DataWedge Reader component for Retool Mobile](https://docs.retool.com/mobile/reference/components/media/zebra): An interface to capture data using a Zebra DataWedge scanner
+- [The Card Collection component for Retool Mobile](https://docs.retool.com/mobile/reference/components/patterns/card-collection): A content area to display items in a grid or list.
+- [The Custom Collection component for Retool Mobile](https://docs.retool.com/mobile/reference/components/patterns/custom-collection): A repeatable set of components with values that map to a list of data.
+- [Pattern components for Retool Mobile](https://docs.retool.com/mobile/reference/components/patterns): UI elements to build repeatable groups of components in mobile apps.
+- [The Key Value component for Retool Mobile](https://docs.retool.com/mobile/reference/components/patterns/key-value): A content area for key-value data.
+- [The List Collection mobile layout](https://docs.retool.com/mobile/reference/components/patterns/list-collection): A content area to display items in a grid or list.
+- [The Heading component for Retool Mobile](https://docs.retool.com/mobile/reference/components/text/heading): A content area to display text.
+- [Text components for Retool Mobile](https://docs.retool.com/mobile/reference/components/text): UI elements to display text in mobile apps.
+- [The Text component for Retool Mobile](https://docs.retool.com/mobile/reference/components/text/text): A content area to display text.
+- [Retool Mobile environment variables](https://docs.retool.com/mobile/reference/environment-variables): Retool Mobile-related environment variables for self-hosted instances.
+- [Mobile app event handlers reference](https://docs.retool.com/mobile/reference/event-handlers): Reference documentation for mobile app event handlers.
+- [Mobile apps glossary](https://docs.retool.com/mobile/reference/glossary): Learn the meanings of mobile app-related terms.
+- [The Current User object](https://docs.retool.com/mobile/reference/objects/current-user): Information about the current logged-in or authenticated user of the app.
+- [The Retool Context object](https://docs.retool.com/mobile/reference/objects/retoolcontext): Information about the current mobile app and device.
+- [The Theme object](https://docs.retool.com/mobile/reference/objects/theme): Information about the current app theme.
+- [The Url object](https://docs.retool.com/mobile/reference/objects/url): Information about URL query and hash parameters currently in use.
+- [The Viewport object](https://docs.retool.com/mobile/reference/objects/viewport): Information about the canvas size in the current viewport.
+- [Retool Mobile reference](https://docs.retool.com/mobile/reference): Reference documentation for Retool Mobile.
+- [Retool Mobile tutorial](https://docs.retool.com/mobile/tutorial): A hands-on introduction to Retool Mobile.
+
+## Self-hosted
+
+- [Agents environment variables](https://docs.retool.com/self-hosted/reference/environment-variables/agents): Reference documentation for Retool Agents environment variables for self-hosted deployments.
+- [Retool-managed deployment architecture](https://docs.retool.com/self-hosted/retool-managed/concepts/architecture): Learn about the system architecture for Retool-managed, self-hosted deployments.
+- [Retool-managed deployment health monitoring and scaling](https://docs.retool.com/self-hosted/retool-managed/concepts/health-monitoring): Learn about monitoring and scaling Retool-managed, self-hosted deployments.
+- [Retool-managed deployment security](https://docs.retool.com/self-hosted/retool-managed/concepts/security): Learn about security and restrictions for Retool-managed, self-hosted deployments.
+- [Retool-managed deployment concept guides](https://docs.retool.com/self-hosted/retool-managed/concepts): Learn about relevant features, functionality, and principles related to Retool-managed, self-hosted deployments.
+- [Configure Retool-managed deployment secrets and environment variables](https://docs.retool.com/self-hosted/retool-managed/guides/set-variables-secrets): Learn how to configure secrets and environment variables for Retool-managed, self-hosted deployments in AWS Secrets Manager.
+- [Retool-managed deployment how-to guides](https://docs.retool.com/self-hosted/retool-managed/guides): Step-by-step instructions for using common features and functionality of Retool-managed, self-hosted deployments.
+- [Self-hosted, Retool-managed deployments](https://docs.retool.com/self-hosted/retool-managed): Deploy a self-hosted, Retool-managed Retool instance on your own infrastructure.
+- [Retool-managed deployment quickstart](https://docs.retool.com/self-hosted/retool-managed/quickstart): Learn about the fundamental concepts of self-hosted, Retool-managed deployments.
+- [Retool-managed deployment ownership and responsibilities](https://docs.retool.com/self-hosted/retool-managed/reference/ownership-responsibilities): Information about the ownership and responsibilities for Retool-managed, self-hosted deployments.
+- [Retool-managed deployment reference](https://docs.retool.com/self-hosted/retool-managed/reference): Reference documentation for Retool-managed, self-hosted deployments.
+- [System architecture of self-hosted Retool deployments](https://docs.retool.com/self-hosted/self-managed/concepts/architecture): Learn about Retool's self-hosted architecture.
+- [Container logs](https://docs.retool.com/self-hosted/self-managed/concepts/container-logs): Learn about capturing logs for your Retool deployment.
+- [Custom code execution security](https://docs.retool.com/self-hosted/self-managed/concepts/custom-code-execution-security): Learn about the sandboxed environment for custom JavaScript and Python code in workflows.
+- [Hardened images for self-hosted Retool](https://docs.retool.com/self-hosted/self-managed/concepts/hardened-images): Learn about hardened images for self-hosted Retool, including security changes, ARM64 support, and migration guidance.
+- [Multi-instance deployment](https://docs.retool.com/self-hosted/self-managed/concepts/multi-instance-deployment): Learn about deploying self-hosted Retool to multiple instances.
+- [Retool AI for self-hosted deployments](https://docs.retool.com/self-hosted/self-managed/concepts/retool-ai): Learn about using Retool AI with self-hosted deployments.
+- [Security hardening best practices](https://docs.retool.com/self-hosted/self-managed/concepts/security-hardening): Learn about security hardening options for self-hosted Retool.
+- [Temporal Clusters for Self-hosted Retool](https://docs.retool.com/self-hosted/self-managed/concepts/temporal): Learn about Temporal Clusters for self-hosted Retool deployments.
+- [Self-hosted Retool upgrade best practices](https://docs.retool.com/self-hosted/self-managed/concepts/update-deployment): Learn about best practices for upgrading your self-hosted Retool deployment.
+- [Self-hosted Retool concept guides](https://docs.retool.com/self-hosted/self-managed/concepts): Learn about relevant features, functionality, and principles related to self-hosted Retool.
+- [Configure SSL and custom certificates](https://docs.retool.com/self-hosted/self-managed/guides/certificates): Learn how to connect to Retool with HTTPS and configure custom certificates for Docker-based deployments.
+- [Configure code-executor security and privileges](https://docs.retool.com/self-hosted/self-managed/guides/code-executor-security-privileges): Learn how to disable the default security configuration for code-executor or run in unprivileged mode.
+- [Configure code-executor resource limits](https://docs.retool.com/self-hosted/self-managed/guides/configure-code-executor-limits): Set memory limits for workflow code block execution on self-hosted Retool.
+- [Self-hosted Retool migration guides](https://docs.retool.com/self-hosted/self-managed/guides/migration): Learn how to migrate between Retool Cloud and self-hosted Retool.
+- [Migrate from Cloud to Self-hosted](https://docs.retool.com/self-hosted/self-managed/guides/migration/migrate-from-cloud): Learn how to migrate to a self-hosted deployment from Retool Cloud.
+- [Migrate from Self-hosted to Cloud](https://docs.retool.com/self-hosted/self-managed/guides/migration/migrate-to-cloud): Learn how to migrate from a self-hosted deployment to Retool Cloud.
+- [Multiplayer for self-hosted Retool Apps](https://docs.retool.com/self-hosted/self-managed/guides/multiplayer): Learn how to set up multiplayer apps on a self-hosted deployment.
+- [Configure same-origin and sandbox for iframes](https://docs.retool.com/self-hosted/self-managed/guides/origin-sandbox): Learn how to configure same-origin policy and sandboxing for iframes and custom components.
+- [Prevent users from creating or using specific resource types](https://docs.retool.com/self-hosted/self-managed/guides/resource-restrictions): Learn how to restrict users from creating or using certain resource integration types.
+- [Set up Retool Database on Self-hosted deployments](https://docs.retool.com/self-hosted/self-managed/guides/retool-database): Learn how to configure Retool Database on self-hosted Retool deployments.
+- [Set up Retool Storage on Self-hosted deployments](https://docs.retool.com/self-hosted/self-managed/guides/retool-storage): Learn how to configure Retool Storage on self-hosted Retool deployments.
+- [Rotate your encryption key](https://docs.retool.com/self-hosted/self-managed/guides/rotate-encryption-key): Learn how to rotate Retool's encryption keys.
+- [Rotate SSH keys](https://docs.retool.com/self-hosted/self-managed/guides/rotate-ssh-keys): Learn how to rotate Retool's SSH keys.
+- [Scale your self-hosted deployment infrastructure](https://docs.retool.com/self-hosted/self-managed/guides/scale-retool-infra): Learn how to scale your Retool deployment and infrastructure.
+- [_config Check](https://docs.retool.com/self-hosted/self-managed/guides/secrets/_config-check): Retool checks the validity of the configuration to ensure that <Glossary name="secrets">secrets</Glossary> are available. If Retool cannot access t...
+- [_multi Instance](https://docs.retool.com/self-hosted/self-managed/guides/secrets/_multi-instance): :::note
+- [Retrieve secrets from AWS Secrets Manager](https://docs.retool.com/self-hosted/self-managed/guides/secrets/aws): Learn how to use AWS Secrets Manager to store your Retool resource secrets.
+- [Manage secrets with environment variables](https://docs.retool.com/self-hosted/self-managed/guides/secrets/environment-variables): Learn how to use secrets to manage environment variables.
+- [Manage secrets with the file system](https://docs.retool.com/self-hosted/self-managed/guides/secrets/file-system): Learn how to use the file system to manage secrets.
+- [Retrieve secrets from GCP Secrets Manager](https://docs.retool.com/self-hosted/self-managed/guides/secrets/gcp): Learn how to use Google Cloud Platform (GCP) Secrets Manager to store your Retool resource secrets.
+- [Retrieve secrets from HashiCorp Vault](https://docs.retool.com/self-hosted/self-managed/guides/secrets/hashicorp-vault): Learn how to use HashiCorp Vault to store your Retool resource secrets.
+- [Self-hosted Retool secrets management guides](https://docs.retool.com/self-hosted/self-managed/guides/secrets): Use secrets from third-party secrets managers in Self-hosted Retool.
+- [Configure multiple Secrets Manager configurations](https://docs.retool.com/self-hosted/self-managed/guides/secrets/multi-config): import EnterpriseRequirement from "../../../../_partials/_enterprise-plan-requirement-self-hosted.mdx";
+- [Configure scoped secret access for resources](https://docs.retool.com/self-hosted/self-managed/guides/secrets/scoped-secrets): Restrict secrets usage to specific resource folders using naming enforcement.
+- [Configure and migrate to an external platform database](https://docs.retool.com/self-hosted/self-managed/guides/storage-database): Learn how to configure and migrate the platform database for self-hosted Retool instances.
+- [Collect self-hosted telemetry data](https://docs.retool.com/self-hosted/self-managed/guides/telemetry): Learn how to collect telemetry data from your self-hosted deployment instance.
+- [Enable Retool-managed Vectors on self-hosted deployments](https://docs.retool.com/self-hosted/self-managed/guides/vectors): Learn how to configure and enable Retool-managed Vectors for self-hosted Retool deployments.
+- [Self-hosted Retool how-to guides](https://docs.retool.com/self-hosted/self-managed/guides): Step-by-step instructions for common features and functionality of self-hosted Retool deployments.
+- [Self-hosted, self-managed](https://docs.retool.com/self-hosted/self-managed): Host and manage a self-hosted, self-managed Retool instance on your own infrastructure.
+- [Self-hosted, self-managed Retool quickstart](https://docs.retool.com/self-hosted/self-managed/quickstart): Learn about the fundamental concepts of a self-hosted, self-managed Retool deployment.
+- [Self-hosted Retool egress connections](https://docs.retool.com/self-hosted/self-managed/reference/egress): Learn about external connections and data egress from self-hosted Retool deployments.
+- [_disclaimer](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/_disclaimer): Only configure environment variables when needed. You can configure many environment variables from your organization's **Settings** rather than di...
+- [Authentication environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/authentication): Reference documentation for authentication-related environment variables.
+- [Code executor environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/code-executor): Reference documentation of environment variables for the code-executor service.
+- [Cookies environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/cookies): Reference documentation for cookie-related environment variables.
+- [General environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/general): Reference documentation for general environment variables.
+- [Environment variables reference](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables): Environment variables for self-hosted Retool deployments.
+- [Logging environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/logging): Reference documentation for logging-related environment variables.
+- [Mobile environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/mobile): Reference documentation for Retool Mobile-related environment variables.
+- [Queries environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/queries): Reference documentation for query-related environment variables.
+- [Redis environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/redis): Reference documentation for Redis-related environment variables.
+- [Resources environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/resources): Reference documentation for resource-related environment variables.
+- [Security environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/security): Reference documentation for security-related environment variables.
+- [Source Control environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/source-control): Reference documentation of environment variables for Source Control.
+- [Storage database environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/storage-database): Reference documentation of environment variables for the postgres service and database.
+- [Workflows environment variables](https://docs.retool.com/self-hosted/self-managed/reference/environment-variables/workflows): Reference documentation for Retool Workflows-related environment variables.
+- [Self-hosted Retool glossary](https://docs.retool.com/self-hosted/self-managed/reference/glossary): Learn the meanings of self-hosted Retool-related terms.
+- [Temporal environment variables for local clusters](https://docs.retool.com/self-hosted/self-managed/reference/temporal): Temporal environment variable reference for self-hosted organizations using a local cluster.
+- [Self-hosted Retool reference](https://docs.retool.com/self-hosted/self-managed/reference): Reference documentation for self-hosted Retool.
+- [Deploy Self-hosted Retool on Azure Virtual Machines](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/azure-vm): Learn how to deploy self-hosted Retool on an Azure Virtual Machines with Docker Compose.
+- [Deploy Self-hosted Retool on Amazon EC2](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/ec2): Learn how to deploy self-hosted Retool on Amazon EC2 with Docker Compose.
+- [Deploy Self-hosted Retool on AWS Fargate and ECS with CloudFormation](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/ecs-fargate/cloudformation): Learn how to deploy Retool on AWS Fargate and ECS with CloudFormation.
+- [Deploy Self-hosted Retool on AWS Fargate and ECS](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/ecs-fargate): Learn how to deploy Retool on AWS Fargate and ECS.
+- [Deploy Self-hosted Retool on AWS Fargate and ECS with Terraform](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/ecs-fargate/terraform): Learn how to deploy Retool on AWS Fargate and ECS with Terraform.
+- [Deploy Retool on Google Compute Engine](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/gcp): Learn how to deploy self-hosted Retool with a GCP Compute Engine VM.
+- [Additional deployment types](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types): Deploy self-hosted Retool on additional infrastructure types, including Amazon EC2, Azure VM, Google Cloud Platform, AWS Fargate and ECS, and Kuber...
+- [Deploy Retool on Kubernetes with manifests](https://docs.retool.com/self-hosted/self-managed/tutorials/additional-types/manifests): Learn how to deploy Retool on Kubernetes with manually configured manifests.
+- [Deploy Self-hosted Retool with Docker](https://docs.retool.com/self-hosted/self-managed/tutorials/docker): Deploy a non-production instance of self-hosted Retool on a Linux-based VM using Docker.
+- [Deploy Retool on Kubernetes with Helm](https://docs.retool.com/self-hosted/self-managed/tutorials/kubernetes): Deploy Retool on Kubernetes with the Helm package manager.
+- [Self-hosted Retool tutorials](https://docs.retool.com/self-hosted/self-managed/tutorials): Hands-on guides for deploying self-hosted Retool.
+- [Self-hosted deployments](https://docs.retool.com/self-hosted): Choose between a Retool-managed or self-managed self-hosted Retool instance.
+
+## Organization & Users
+
+- [Branding](https://docs.retool.com/org-users/concepts/branding): Learn more about branding options in Retool.
+- [External users](https://docs.retool.com/org-users/concepts/external-users): Learn about how to interact with users outside your organization.
+- [Governance in Retool](https://docs.retool.com/org-users/concepts/governance): Learn about governance in Retool.
+- [Internationalization](https://docs.retool.com/org-users/concepts/internationalization): Learn how to enable localization for your Retool apps.
+- [Provisioning and licensing](https://docs.retool.com/org-users/concepts/provisioning-licensing): Learn about the provisioning and licensing process for organizations on the Enterprise plan.
+- [Retool API](https://docs.retool.com/org-users/concepts/retool-api): Programmatically manage your organization using Retool's REST API.
+- [Scale](https://docs.retool.com/org-users/concepts/scale-organization): Learn how to scale your Retool organization and processes.
+- [Administration concept guides](https://docs.retool.com/org-users/concepts): Learn about relevant features, functionality, and principles related to Retool administration.
+- [Archive cloud users or organizations](https://docs.retool.com/org-users/guides/cloud/archive-cloud-users-or-organizations): Learn how to archive your cloud user account or organization.
+- [Change cloud subdomain](https://docs.retool.com/org-users/guides/cloud/change-subdomain): Learn how to change your cloud organization's subdomain.
+- [Configure a custom domain for cloud organizations](https://docs.retool.com/org-users/guides/cloud/custom-domains): Learn how to configure a custom domain for your cloud organization.
+- [Manage configuration variables](https://docs.retool.com/org-users/guides/configuration/config-vars): Learn how to create configuration variables and reference them across Retool.
+- [Configure resource environments](https://docs.retool.com/org-users/guides/configuration/environments): Learn how to create resource environments with different resource configurations for production and testing.
+- [Manage configuration](https://docs.retool.com/org-users/guides/configuration): import DocCardList from "@theme/DocCardList";
+- [Manage users in your organization](https://docs.retool.com/org-users/guides/external): import DocCardList from "@theme/DocCardList";
+- [Integrate Intercom Messenger for end-users](https://docs.retool.com/org-users/guides/external/intercom-messenger): Learn how to bring your own Intercom Messenger client to provide support directly to end-users in your apps.
+- [MCP for organization and user management](https://docs.retool.com/org-users/guides/mcp): Use Retool's MCP server to manage your organization and its users.
+- [View user audit logs](https://docs.retool.com/org-users/guides/monitoring/audit-logs): Learn how to view and query user audit logs.
+- [Monitor usage and logs](https://docs.retool.com/org-users/guides/monitoring): import DocCardList from "@theme/DocCardList";
+- [Monitor app and user analytics](https://docs.retool.com/org-users/guides/monitoring/usage-analytics): Learn how to access usage and adoption trends across your Retool organization.
+- [Configure Retool API authentication](https://docs.retool.com/org-users/guides/retool-api/authentication): Learn how to authenticate Retool API requests.
+- [Automate user onboarding using the Retool API](https://docs.retool.com/org-users/guides/retool-api/automate-onboarding): Learn how to programmatically onboard users to your Retool instance with the Retool API.
+- [Automate Spaces configuration using the Retool API](https://docs.retool.com/org-users/guides/retool-api/automate-spaces): Learn how to programmatically configure Spaces using the Retool API.
+- [Retool API how-to guides](https://docs.retool.com/org-users/guides/retool-api): Manage your organization and its users with the Retool API.
+- [User management how-to guides](https://docs.retool.com/org-users/guides/user-management): Learn how to manage users in Retool.
+- [Enable two-factor authentication](https://docs.retool.com/org-users/guides/user-management/two-factor-authentication): Learn how to configure two-factor authentication for your Retool organization.
+- [Configure user attributes](https://docs.retool.com/org-users/guides/user-management/user-attributes): Learn how to configure user attributes in Retool.
+- [Manage user seats](https://docs.retool.com/org-users/guides/user-seats): Manage seat types for users in your organization.
+- [Administration how-to guides](https://docs.retool.com/org-users/guides): Instructions for common features and functionality.
+- [Administration documentation](https://docs.retool.com/org-users): Management & governance for Retool organizations and their users.
+- [Administration quickstart](https://docs.retool.com/org-users/quickstart): Learn about the fundamental concepts of Retool administration.
+- [Organizations and users glossary](https://docs.retool.com/org-users/reference/glossary): Learn the meanings of organization and user-related terms.
+- [Audit trail logged events](https://docs.retool.com/org-users/reference/logged-events): Reference information for audit logs.
+- [MCP tools](https://docs.retool.com/org-users/reference/mcp-tools): The set of tools available for use through Retool's MCP.
+- [Administration reference](https://docs.retool.com/org-users/reference): Reference documentation for Retool admins.
+- [Manage organization users](https://docs.retool.com/org-users/tutorials/manage): Learn how to manage users in your Retool organization.
+- [Spaces tutorial](https://docs.retool.com/org-users/tutorials/spaces): Learn how to set up Spaces for your organization.
+- [Administration tutorials](https://docs.retool.com/org-users/tutorials): Hands-on guides for Retool administration.
+
+## Permissions
+
+- [_access Rules](https://docs.retool.com/permissions/_partials/_access-rules): <Glossary name="permission-group">Permission groups</Glossary> use [access rules](../quickstart.mdx#access-rules) that determine the apps, resource...
+- [_add To Group](https://docs.retool.com/permissions/_partials/_add-to-group): Click **Add new members** to add users to the group. You can search the list of users and select multiple users to add. Click **Select all** to sel...
+- [_agents Perm Levels](https://docs.retool.com/permissions/_partials/_agents-perm-levels): When interacting with an agent, a user is a member of a permission group for both the agent and the resource, and the following rules are observed.
+- [_default Groups](https://docs.retool.com/permissions/_partials/_default-groups): The default groups and permissions differ depending on the plan your organization uses.  All pricing plans have **<Glossary name="admin">Admin</Glo...
+- [_perm Groups](https://docs.retool.com/permissions/_partials/_perm-groups): :::info Availability
+- [Admin granularity](https://docs.retool.com/permissions/concepts/admin-granularity): Use Admin granularity to delegate organizational settings to non-admin users without granting full administrator access.
+- [Permissions concept guides](https://docs.retool.com/permissions/concepts): Learn about features, functionality, and principles related to permissions and access control in Retool.
+- [Manage permissions for Retool Agents](https://docs.retool.com/permissions/guides/agent-permissions): Learn how to manage permissions and access for Retool Agents.
+- [Configure draft app permissions](https://docs.retool.com/permissions/guides/app-permissions/draft-apps): Learn how to manage permissions for draft apps.
+- [Manage permissions within Retool Apps](https://docs.retool.com/permissions/guides/app-permissions): Learn how to manage permissions and access within Retool Apps.
+- [Manage per-page permissions in multipage apps](https://docs.retool.com/permissions/guides/app-permissions/multipage-permissions): Learn how to configure page permissions in multipage apps.
+- [Sharing apps with users and groups](https://docs.retool.com/permissions/guides/app-permissions/share-apps): Learn how to directly share apps with users and groups.
+- [Configure permission groups](https://docs.retool.com/permissions/guides/configure-permission-groups): Learn how to restrict access to apps and resources.
+- [Restrict access with the current_user object](https://docs.retool.com/permissions/guides/current-user): Learn how to restrict access to certain data or hide and disable components with the current_user object.
+- [Configure role-based access control](https://docs.retool.com/permissions/guides/roles-permissions): Use role-based access control (RBAC) to create roles and assign permissions to groups.
+- [View the access list](https://docs.retool.com/permissions/guides/view-access-list): Learn how to view the access list in Retool.
+- [Permissions how-to guides](https://docs.retool.com/permissions/guides): Step-by-step instructions for setting user permissions, permission groups, and access control.
+- [Permissions documentation](https://docs.retool.com/permissions): User access and permissions in Retool.
+- [Permissions quickstart](https://docs.retool.com/permissions/quickstart): Learn about the fundamental concepts of permissions and access control.
+- [Admin permissions reference](https://docs.retool.com/permissions/reference/admin-permissions): Reference of organization-level permissions available in Retool.
+- [Permission levels](https://docs.retool.com/permissions/reference/permission-levels): Learn how to restrict access to apps, resources, workflows, and agents.
+- [Permissions reference](https://docs.retool.com/permissions/reference): Reference documentation for permissions.
+- [Permission group tutorial](https://docs.retool.com/permissions/tutorial): How to create a permission group, and designate access in Retool.
+
+## SSO
+
+- [Enforce SSO](https://docs.retool.com/sso/guides/authentication/enforce-sso): Learn how to disable Retool's standard authentication and require SSO authentication.
+- [Restrict SSO domains](https://docs.retool.com/sso/guides/authentication/restrict-domains): Learn how to restrict SSO authentication to a list of approved domains.
+- [Configure SSO session duration](https://docs.retool.com/sso/guides/authentication/short-session): Learn how to toggle between short and long SSO session times.
+- [Automatically trigger SSO authentication](https://docs.retool.com/sso/guides/authentication/trigger-login-automatically): Learn how to automatically trigger SSO authentication when a user navigates to your organization.
+- [Sync Google Groups](https://docs.retool.com/sso/guides/group-sync/google-groups): Learn how to set up Google SSO with Google Sign-in and LDAP permission groups.
+- [Configure group syncing and role mapping](https://docs.retool.com/sso/guides/group-sync): Learn how to configure group syncing and role mapping for SSO.
+- [Sync SAML group memberships](https://docs.retool.com/sso/guides/group-sync/saml-group-sync): Learn how to sync and map SAML group memberships from your IdP to Retool.
+- [Enable JIT user provisioning for SSO](https://docs.retool.com/sso/guides/jit-provisioning): Learn how to enable JIT user provisioning for SSO.
+- [Migrate from SAML to OIDC](https://docs.retool.com/sso/guides/saml-to-oidc): Learn how to migrate your SSO configuration from SAML to OIDC.
+- [Provision users with SCIM](https://docs.retool.com/sso/guides/scim-user-provisioning): Learn how to implement SCIM user provisioning with Okta or Microsoft Entra ID.
+- [SSO how-to guides](https://docs.retool.com/sso/guides): Step-by-step instructions for common features and functionality of single sign-on (SSO).
+- [SSO documentation](https://docs.retool.com/sso): Authenticate users on Retool with identity providers using Single Sign-on (SSO).
+- [SSO quickstart](https://docs.retool.com/sso/quickstart): Learn about the fundamental concepts of authenticating users in your Retool organization with single-sign on.
+- [SSO environment variables](https://docs.retool.com/sso/reference/environment-variables): SSO-related environment variables for self-hosted instances.
+- [SSO glossary](https://docs.retool.com/sso/reference/glossary): Learn the meanings of SSO-related terms.
+- [Organization and users reference](https://docs.retool.com/sso/reference): Reference documentation for Retool organizations and users.
+- [Configure Active Directory Federation Services SAML SSO](https://docs.retool.com/sso/tutorials/adfs): Learn how to configure SSO with Active Directory Federation Services SAML.
+- [Configure Auth0 OIDC SSO](https://docs.retool.com/sso/tutorials/auth0): Learn how to set up Auth0 SSO with OpenID Connect (OIDC).
+- [Configure SSO with OIDC authentication](https://docs.retool.com/sso/tutorials/custom/oidc): Learn how to configure SSO with OpenID Connect (OIDC).
+- [Configure SSO with SAML authentication](https://docs.retool.com/sso/tutorials/custom/saml): Learn how to configure SSO with providers using SAML.
+- [Configure Sign in with Google](https://docs.retool.com/sso/tutorials/google/google-sign-in): Learn how to configure Sign in with Google for SSO.
+- [Configure Google OIDC SSO](https://docs.retool.com/sso/tutorials/google/oidc): Learn how to set up Google SSO with OpenID Connect (OIDC).
+- [Configure Microsoft Entra ID OIDC SSO](https://docs.retool.com/sso/tutorials/microsoft-entra-id/oidc): Learn how to set up Microsoft Entra ID SSO with OpenID Connect (OIDC).
+- [Configure Microsoft Entra ID SAML SSO](https://docs.retool.com/sso/tutorials/microsoft-entra-id/saml): Learn how to configure SSO with Microsoft Entra ID SAML.
+- [Configure Okta OIDC SSO](https://docs.retool.com/sso/tutorials/okta/oidc): Learn how to set up Okta SSO using OpenID Connect (OIDC).
+- [Configure Okta SAML SSO](https://docs.retool.com/sso/tutorials/okta/saml): Learn how to configure SSO using Okta SAML.
+- [Configure OneLogin OIDC SSO](https://docs.retool.com/sso/tutorials/onelogin): Learn how to configure OneLogin SSO on Retool using OpenID Connect (OIDC).
+- [SSO tutorials](https://docs.retool.com/sso/tutorials): Hands-on guides for configuring single-sign on.
+
+## Source Control
+
+- [Catch-up commits in Source Control](https://docs.retool.com/source-control/concepts/catch-up-commits): Learn more about how Retool uses catch-up commits and how to disable them.
+- [Multi-instance development with Source Control](https://docs.retool.com/source-control/concepts/multi-instance-development): Learn more about using multiple instances of your deployment with Source Control.
+- [Toolscript](https://docs.retool.com/source-control/concepts/toolscript): Learn how Retool uses Toolscript to serialize apps.
+- [Source Control concept guides](https://docs.retool.com/source-control/concepts): Learn about relevant features, functionality, and principles related to Source Control.
+- [Keep branches up to date with branch merging](https://docs.retool.com/source-control/guides/branch-merging): Learn how to use branch merging and resolve merge conflicts when using Source Control.
+- [Create collaborative branches for app changes](https://docs.retool.com/source-control/guides/collaborative-branches): Learn how to create collaborative branches for app changes in Source Control.
+- [Manage Source Control branches](https://docs.retool.com/source-control/guides/manage-branches): Learn how to view, edit, delete, and switch Source Control branches.
+- [Manage Source Control deployments](https://docs.retool.com/source-control/guides/manage-deployment): Learn how to manage and monitor Source Control deployments on your self-hosted Retool instance.
+- [Migrate from YAML to Toolscript](https://docs.retool.com/source-control/guides/migrate-yaml-to-toolscript): Learn how to migrate your apps, modules, and resources from YAML to Toolscript.
+- [Multi-instance releases](https://docs.retool.com/source-control/guides/multi-instance-releases): Learn how to create and manage releases across instances
+- [Protect agents with Source Control](https://docs.retool.com/source-control/guides/protect/agents): Learn how to make changes to agents protected with Source Control.
+- [Protect apps with Source Control](https://docs.retool.com/source-control/guides/protect/apps): Learn how to make changes to apps protected with Source Control.
+- [Protect queries with Source Control](https://docs.retool.com/source-control/guides/protect/queries): Learn how to protect and sync queries in Query Library using Source Control.
+- [Protect resources with Source Control](https://docs.retool.com/source-control/guides/protect/resources): Learn how to protect and sync resources using Source Control.
+- [Protect themes with Source Control](https://docs.retool.com/source-control/guides/protect/themes): Learn how to protect and sync themes using Source Control.
+- [Protect workflows with Source Control](https://docs.retool.com/source-control/guides/protect/workflows): Learn how to protect workflows with Source Control.
+- [Test Source Control deployments](https://docs.retool.com/source-control/guides/test-deploy): Learn how to test changes in Source Control to ensure they deploy without error.
+- [Troubleshoot Source Control issues](https://docs.retool.com/source-control/guides/troubleshooting): Learn how to troubleshoot Source Control.
+- [Source Control how-to guides](https://docs.retool.com/source-control/guides): Step-by-step instructions for common features and functionality of Source Control.
+- [Source Control documentation](https://docs.retool.com/source-control): Manage changes to Retool apps using SCM providers and version control.
+- [Source Control quickstart](https://docs.retool.com/source-control/quickstart): Learn about the fundamental concepts of Source Control for managing changes in Retool.
+- [Source Control environment variables](https://docs.retool.com/source-control/reference/environment-variables): Source Control-related environment variables for self-hosted instances.
+- [Source Control glossary](https://docs.retool.com/source-control/reference/glossary): Learn the meanings of Source Control-related terms.
+- [Organization and users reference](https://docs.retool.com/source-control/reference): Reference documentation for Retool organizations and users.
+- [Configure Source Control with AWS CodeCommit](https://docs.retool.com/source-control/tutorials/aws-codecommit): Learn how to set up Source Control with AWS CodeCommit.
+- [Configure Source Control with Azure Repos](https://docs.retool.com/source-control/tutorials/azure-repos): Learn how to implement Source Control with Azure Repos.
+- [Configure Source Control with Bitbucket](https://docs.retool.com/source-control/tutorials/bitbucket): Learn how to set up Source Control with Bitbucket.
+- [Configure Source Control with GitHub](https://docs.retool.com/source-control/tutorials/github): Learn how to set up Source Control with GitHub.
+- [Configure Source Control with GitLab](https://docs.retool.com/source-control/tutorials/gitlab): Learn how to set up Source Control with GitLab for self-hosted instances.
+- [Source Control tutorials](https://docs.retool.com/source-control/tutorials): Hands-on guides for configuring Source Control.
+
+## Education
+
+- [Advanced App Examples](https://docs.retool.com/education/coe/customer-resources/advanced-app-examples): These examples explain how to use Retool's components, queries, and logic to create more complex applications. They provide additional context rela...
+- [Cost Management](https://docs.retool.com/education/coe/customer-resources/cost-mgmt): import Image from '@site/src/components/Image';
+- [Disaster Recovery Recommendations](https://docs.retool.com/education/coe/customer-resources/disaster-recovery): import Image from '@site/src/components/Image';
+- [Environment Best Practices](https://docs.retool.com/education/coe/customer-resources/environments): import Image from '@site/src/components/Image';
+- [Customer Resources](https://docs.retool.com/education/coe/customer-resources): The customer resources folder provides additional helpful information around app development, JavaScript best practices, effective ways to reuse co...
+- [JavaScript Best Practices](https://docs.retool.com/education/coe/customer-resources/js-best-practices): import Image from '@site/src/components/Image';
+- [App Performance Guide](https://docs.retool.com/education/coe/customer-resources/performance-guide): Retool provides powerful development tools and an extensive library of pre-built components to support the development of any internal enterprise a...
+- [Reuse Best Practices](https://docs.retool.com/education/coe/customer-resources/reusing-code): import Image from '@site/src/components/Image';
+- [Security Checklist](https://docs.retool.com/education/coe/customer-resources/security-checklist): import Image from '@site/src/components/Image';
+- [Solution diagramming with Retool Iconography](https://docs.retool.com/education/coe/customer-resources/solution-design): import Image from '@site/src/components/Image';
+- [Source Control Best Practices](https://docs.retool.com/education/coe/customer-resources/source-control): Retool development focuses on creating Apps, Workflows, Queries, Resources, and more. When developing within the Retool platform, an artifact, JSON...
+- [Style Guide Examples](https://docs.retool.com/education/coe/customer-resources/style-guide): import Image from '@site/src/components/Image';
+- [Access a Private AWS Resource](https://docs.retool.com/education/coe/patterns/AWS/Connect/privateresource): Retool Cloud relies on customer data in APIs or Databases via Retool Connect. Often these resources are protected by placing them in private subnet...
+- [Patterns](https://docs.retool.com/education/coe/patterns/patterns): Retool Patterns provide a home for solutions to common problems. We will be expanding this feature in future releases.
+- [Knowledge Centralization](https://docs.retool.com/education/coe/phases/formation/centralize): When forming a Center of Excellence, centralizing knowledge, templates and standard processes is critical for onboarding teams. Common approaches a...
+- [Retool Charter](https://docs.retool.com/education/coe/phases/formation/charter): This document provides a template for defining a charter within a center of excellence in the adoption of the Retool Platform.
+- [Retool Customer Journey](https://docs.retool.com/education/coe/phases/formation/customer-journey): The Retool Customer Journey provides guidance for enterprises on how Retool adoption is a journey with different maturity levels. Maturity levels r...
+- [Formation](https://docs.retool.com/education/coe/phases/formation): The formation phase is when the Retool COE is established including supporting teams, artifacts, and processes.
+- [Retool CoE Leader Overview](https://docs.retool.com/education/coe/phases/formation/leader): Your organization relies on internal tools to operate efficiently, yet teams often struggle with fragmented and siloed systems, slow development cy...
+- [Retool Personas](https://docs.retool.com/education/coe/phases/formation/personas): This document focuses on the identifying example Retool personas supporting the Retool platform when installed in a self-hosted manner.
+- [Improving](https://docs.retool.com/education/coe/phases/improving/improving): The improving phase focuses on taking feedback and data to further improve the Retool COE experience.
+- [Inspect and Adapt](https://docs.retool.com/education/coe/phases/improving/inspect-adapt): The inspect and adapt phase is used to review collected metrics and determine any changes or improvements that can be gleaned from the data.
+- [Building apps in Retool](https://docs.retool.com/education/coe/phases/onboarding/building-apps): If you're new to Retool and eager to get started, we recommend following this tutorial. This 5-minute video tutorial provides a step-by-step walkth...
+- [Customer specifics](https://docs.retool.com/education/coe/phases/onboarding/customer-specifics): There are various other customer specific information that should be added to an internal wiki or handbook.
+- [Education](https://docs.retool.com/education/coe/phases/onboarding/education): Customers that are focused on getting enabled on the Retool Platform have the following options that they can employ.
+- [Intake](https://docs.retool.com/education/coe/phases/onboarding/intake): Organizations will often define an intake process that is used to identify key milestones. The following image provides an example along with descr...
+- [Onboarding](https://docs.retool.com/education/coe/phases/onboarding/onboarding): The onboarding phase is when delivery teams go through an intake process established by the Retool COE.
+- [Support](https://docs.retool.com/education/coe/phases/onboarding/support): Within the COE, technical support of the Retool Platform should first start within the COE team where first level of support is performed. For issu...
+- [Phases](https://docs.retool.com/education/coe/phases/phases): Center of Excellence Phases represents formation, onboarding, scaling and improving activities.
+- [Automation](https://docs.retool.com/education/coe/phases/scaling/automation): To support enterprises, the Retool Platform provides two different ways to manage development teams via automation. Either of these options is reco...
+- [Scaling](https://docs.retool.com/education/coe/phases/scaling/scaling): The scaling phase focuses on improving the intake process through data and automation.
+- [Track utilization](https://docs.retool.com/education/coe/phases/scaling/track-utilization): Retool Platform API provides customers data about the Retool usage and state. To better understand integration with Retool API, the following and a...
+- [Design](https://docs.retool.com/education/coe/well-architected/design): import Image from '@site/src/components/Image';
+- [Introduction](https://docs.retool.com/education/coe/well-architected/introduction): The Retool Well-Architected Framework provides enterprises guidance on developing and deploying Retool web applications that are well-designed, ope...
+- [Operations](https://docs.retool.com/education/coe/well-architected/operations): The Retool Platform, when run in a self-hosted environment (e.g., AWS, Azure, Google) will rely on compute, storage, networking, and security infra...
+- [Performance](https://docs.retool.com/education/coe/well-architected/performance): Retool performance can be influenced by several factors including resources that are employed, query complexity and app construction to name a few....
+- [Security](https://docs.retool.com/education/coe/well-architected/security): Security with the Retool Platform can cover aspects of the underlying infrastructure (compute, network, storage, monitoring), user management and p...
+- [Well-architected](https://docs.retool.com/education/coe/well-architected/well-architected): Well-architected using seven constructs to collect best practices for Retool.
+- [Center of Excellence](https://docs.retool.com/education/coe): Providing scaling practices to Retool Customers
+- [Index](https://docs.retool.com/education/index): Quickly build web and mobile apps, automate complex tasks, and integrate AI—all powered by your data.
+- [Retool Agent Testing](https://docs.retool.com/education/labs/ai/agent-eval): The following lab covers how to test Agents using Logs, Evals, and Datasets.
+- [Retool Agentic Workflow with Agent](https://docs.retool.com/education/labs/ai/agentic-wf-agent): The following lab demonstrates how to build an agentic workflow that at its heart uses an Agent to examine a support ticket and extract information...
+- [Retool Agentic Workflow with AI Actions](https://docs.retool.com/education/labs/ai/agentic-wf-classifier): The following lab demonstrates how to create an agentic workflow using Retool AI Action blocks. These blocks will help classify specific parameters...
+- [Retool Agents](https://docs.retool.com/education/labs/ai/agents): The following lab covers the use of Retool Agents product to build a project manager from scratch.
+- [Retool AI AppGen](https://docs.retool.com/education/labs/ai/assist): The following lab demonstrates how to prompt a delivery application using Assist, Retool Database as a resource, and database schemas to generate t...
+- [Retool AI Action](https://docs.retool.com/education/labs/ai/prompt): The following lab demonstrates some basic steps for engineering more effective prompts in Retool AI Actions and incorporating Retool Vectors for Re...
+- [Retool Vectors](https://docs.retool.com/education/labs/ai/vectors): The following lab demonstrates how to create vectors using documents and URL(s).
+- [AI](https://docs.retool.com/education/labs/ai): import DocCardList from "@theme/DocCardList";
+- [Lab 0 - Automating Retool](https://docs.retool.com/education/labs/bootcamp/lab0): Enterprises that adopt Retool look to automate as much as they can to create consistent onboarding / offboarding experiences. The following lab wil...
+- [Lab 1 - Customer app with reservation using canvas](https://docs.retool.com/education/labs/bootcamp/lab1): The Flash customer web app will serve as the portal for customer actions. In this lab, we are focusing on creating a reservation form so we can cap...
+- [Lab 2 - Telematic event workflow](https://docs.retool.com/education/labs/bootcamp/lab2): The FM2 Electric Bike is able to emit telematic events that indicate faults or failures. A simulated telematic event will hit a Telematics Workflow...
+- [Lab 3 - Service agent](https://docs.retool.com/education/labs/bootcamp/lab3): Develop an agent that is able to take telematic events, identify the affected customer, and if appropriate send a replacement assembly while coordi...
+- [Lab 4 - Customer app with service scheduling using chat](https://docs.retool.com/education/labs/bootcamp/lab4): Now we want to update the existing customer app to have a new service page. The customer will receive an email notifying them of a service appointm...
+- [Lab 5 - Service technican app using chat](https://docs.retool.com/education/labs/bootcamp/lab5): Service technicians that perform service on the FM2 Electric Bike require an app to view their service appointments as well as a service manual the...
+- [Minihack - Inventory Optimization Agent](https://docs.retool.com/education/labs/bootcamp/minihack): Flash Mobility needs to closely monitor available inventory to eliminate potential manufacturing delays. Stretch your skills to see if you can deve...
+- [Overview](https://docs.retool.com/education/labs/bootcamp/overview): import Image from '@site/src/components/Image';
+- [Bootcamp](https://docs.retool.com/education/labs/bootcamp): import DocCardList from "@theme/DocCardList";
+- [Paginated API](https://docs.retool.com/education/labs/data/api-paginated): The following lab covers how to integrate with a paginated API using Retool Workflows.
+- [Generate Financial App with AppGen and Charts](https://docs.retool.com/education/labs/data/appgen): Build a stock-tracking application using AppGen, add interactive charts with Retool and Plotly, and extend the app with a database write-back form.
+- [Compliance Dashboard](https://docs.retool.com/education/labs/data/compliance-dashboard): Build a React dashboard using Retool
+- [Build a Cross-source Airport Optimization Agent](https://docs.retool.com/education/labs/data/data-agent): Use a Retool Agent with multiple tools — a database, a public weather API, and a distance-calculation function — to recommend optimal destination a...
+- [Trigger an App Enrichment Workflow](https://docs.retool.com/education/labs/data/enrich): Create an enrichment workflow that queries Retool Database, writes audit records to a secondary table, and updates the calling Retool app in real t...
+- [Event Consumer and Producer App](https://docs.retool.com/education/labs/data/events): :::caution
+- [Query Library and Chart Development](https://docs.retool.com/education/labs/data/query-library-chart): Use Retool Query Library to create shareable queries and build a bar chart that visualizes historical stock price data for multiple companies.
+- [Retool Storage and Database](https://docs.retool.com/education/labs/data/storage): The following lab covers the use of Retool Storage and Database in support of the <a href="../examples/inventorymgmtmultipage">Multipage inventory ...
+- [Data](https://docs.retool.com/education/labs/data): import DocCardList from "@theme/DocCardList";
+- [Retool CLI](https://docs.retool.com/education/labs/development/cli): This laboratory focuses on leveraging the Retool Command-line Interface (CLI) to speed up development as described [here](https://docs.retool.com/r...
+- [Design](https://docs.retool.com/education/labs/development/design): The following examples are used to compare design changes a Retool developer can make to improve usability, efficiency, utility and consistency.
+- [Retool App Performance](https://docs.retool.com/education/labs/development/performance): This laboratory focuses on diagnosing and resolving performance issues within a Retool app.
+- [Styling a Retool App](https://docs.retool.com/education/labs/development/styling): The following lab covers modification of the appearance of a Retool application to help improve the UX design / interpretability of an application....
+- [Development](https://docs.retool.com/education/labs/development): import DocCardList from "@theme/DocCardList";
+- [Retool Quiz Application powered by Amazon Bedrock](https://docs.retool.com/education/labs/examples/aigeneratedquiz): This laboratory focuses on automating the creation of quiz questions using Generative AI powered by Amazon Bedrock. Development of test questions i...
+- [Retool Changelog Notifier Workflow](https://docs.retool.com/education/labs/examples/changelognotifierwf): This laboratory focuses on developing a workflow that on a scheduled basis pulls from the Retool Changelog Datafeed and sends an email notification...
+- [Delivery Agent](https://docs.retool.com/education/labs/examples/deliveryagent): The following lab combines features from the Retool enterprise AppGen platform including Retool Database, an app generated using Assist in Retool, ...
+- [Inventory Management Multipage App](https://docs.retool.com/education/labs/examples/inventorymgmtmultipage): This laboratory focuses on developing a simple inventory management application using a database (e.g., Retool Database / PostgreSQL), Storage, Ret...
+- [Inventory Reorder Workflow](https://docs.retool.com/education/labs/examples/inventoryreorderwf): This laboratory focuses on developing a reorder workflow initiated by a <a href="./inventorymgmtmultipage">Retool Inventory Management Multipage</a...
+- [Student Gradebook App using AI Action and Prompt Engineering](https://docs.retool.com/education/labs/examples/promptengineer): Retool Apps and Workflows provide the AI Action feature either as a query (apps) or block (workflows). The key for the AI Action is on developing i...
+- [Shipment Processing Workflow](https://docs.retool.com/education/labs/examples/shippingwf): This laboratory focuses on developing an advanced workflow that needs to integrate with an unreliable paginated API.
+- [Ticketing Workflow and App](https://docs.retool.com/education/labs/examples/ticketingwf+app): This laboratory focuses on creating a lightweight Extract, Transform, Load (ETL) Retool workflow process to pull ticket information from an externa...
+- [Vendor Email Outreach Workflow](https://docs.retool.com/education/labs/examples/vendoremailwf): This laboratory focuses on creating a vendor email outreach using <a href="https://docs.retool.com/workflows/guides/blocks/logic/loop">Loop (New)</...
+- [Examples](https://docs.retool.com/education/labs/examples): import DocCardList from "@theme/DocCardList";
+- [Retool Agents IDE](https://docs.retool.com/education/labs/fundamentals/agentside): import Image from '@site/src/components/Image';
+- [API Application](https://docs.retool.com/education/labs/fundamentals/apiapp): The following API App provides a sample that demonstrates the use of API queries and how those queries are connected to components and event handle...
+- [APIs within Retool](https://docs.retool.com/education/labs/fundamentals/apis): This example demonstrates generating a mock API and leveraging an API with Retool to populate a table.
+- [Retool App IDE with Assist](https://docs.retool.com/education/labs/fundamentals/assistide): import Image from '@site/src/components/Image';
+- [Classic Retool App IDE](https://docs.retool.com/education/labs/fundamentals/classic-app-ide): import Image from '@site/src/components/Image';
+- [JavaScript within Retool](https://docs.retool.com/education/labs/fundamentals/javascript): The following examples use the Retool with JavaScript to demonstrate component modifications and embedded logic.
+- [JavaScript Application](https://docs.retool.com/education/labs/fundamentals/jsapp): The following JavaScript App provides a sample that demonstrates the use of JavaScript and how those queries are connected to components and event ...
+- [Retool Mobile IDE](https://docs.retool.com/education/labs/fundamentals/mobileide): import Image from '@site/src/components/Image';
+- [Retool App IDE](https://docs.retool.com/education/labs/fundamentals/retool-app-ide): Build a React revenue tracking app using Retool's App IDE
+- [SQL within Retool](https://docs.retool.com/education/labs/fundamentals/sql): The following examples use the Retool DB and Retool Query Editor to try out SQL first-hand.
+- [SQL Application](https://docs.retool.com/education/labs/fundamentals/sqlapp): The following SQL App provides a sample that demonstrates the use of SQL queries and how those queries are connected to components and event handle...
+- [Retool Workflow IDE](https://docs.retool.com/education/labs/fundamentals/workflowide): import Image from '@site/src/components/Image';
+- [Fundamentals](https://docs.retool.com/education/labs/fundamentals): import DocCardList from "@theme/DocCardList";
+- [Automate Group Membership using Retool API](https://docs.retool.com/education/labs/governance/automate): import Image from '@site/src/components/Image';
+- [Configuring Access via Permission Groups and Access Rules](https://docs.retool.com/education/labs/governance/permissions): This laboratory focuses on configuring Retool Permission Groups, Folders and Access Rules. Permission control for <u>Resources</u> is only availabl...
+- [Configuring Source Control in Retool](https://docs.retool.com/education/labs/governance/scm): This laboratory focuses on configuring Retool with Github, a Source Control Management (SCM) provider. Additional documentation is provided [here](...
+- [Governance](https://docs.retool.com/education/labs/governance): import DocCardList from "@theme/DocCardList";
+- [Labs](https://docs.retool.com/education/labs/labs): import DocCardList from "@theme/DocCardList";
+- [App Error Reporting and Observability](https://docs.retool.com/education/labs/observability/app-error-reporting): import Image from '@site/src/components/Image';
+- [Open Telemetry](https://docs.retool.com/education/labs/observability/open-telemetry): This laboratory focuses on installing the OpenTelemetry collector into that cluster and forwarding metrics to Amazon Cloudwatch.
+- [Observability](https://docs.retool.com/education/labs/observability): import DocCardList from "@theme/DocCardList";
+- [AI Resource Integrations](https://docs.retool.com/education/labs/resources/ai-resource): Configure provider-specific AI resources in Retool for OpenAI, Anthropic, and Amazon Bedrock.
+- [AWS Appsync](https://docs.retool.com/education/labs/resources/appsync): :::caution
+- [Amazon Aurora](https://docs.retool.com/education/labs/resources/aurora): :::caution
+- [AWS IAM Role](https://docs.retool.com/education/labs/resources/awsrole): :::caution
+- [Amazon DynamoDB](https://docs.retool.com/education/labs/resources/dynamodb): :::caution
+- [Environments](https://docs.retool.com/education/labs/resources/environments): import Image from '@site/src/components/Image';
+- [MCP Server](https://docs.retool.com/education/labs/resources/mcp): :::caution
+- [Amazon SNS](https://docs.retool.com/education/labs/resources/sns): :::caution
+- [Amazon SQS](https://docs.retool.com/education/labs/resources/sqs): :::caution
+- [Resources](https://docs.retool.com/education/labs/resources): import DocCardList from "@theme/DocCardList";
+- [Custom Authentication](https://docs.retool.com/education/labs/security/custom-auth): The following examples use custom authentication within Retool resources to support user-defined workflows.
+- [Input Validation](https://docs.retool.com/education/labs/security/input-validation): The following examples use validation in text inputs to prevent injection attacks.
+- [Row-level Security](https://docs.retool.com/education/labs/security/row-level-security): The following examples use the Retool DB and Retool Query Editor to implement basic row-level security based on the current user.
+- [AWS Secrets Manager](https://docs.retool.com/education/labs/security/secrets-manager): This laboratory focuses on configure Retool with AWS Secrets Manager to storage and manage secrets.
+- [Security](https://docs.retool.com/education/labs/security): import DocCardList from "@theme/DocCardList";
+- [Docker Compose Installation](https://docs.retool.com/education/labs/self-hosted/docker-compose/docker-compose): import Image from '@site/src/components/Image';
+- [External Database Configuration](https://docs.retool.com/education/labs/self-hosted/external-db/external-db): :::caution
+- [Docker Kubernetes Helm Installation](https://docs.retool.com/education/labs/self-hosted/kubernetes/kubernetes-docker-helm): :::caution
+- [Amazon EKS Helm Installation](https://docs.retool.com/education/labs/self-hosted/kubernetes/kubernetes-helm): :::caution
+- [Kubernetes](https://docs.retool.com/education/labs/self-hosted/kubernetes/kubernetes)
+- [Self-hosted](https://docs.retool.com/education/labs/self-hosted): import DocCardList from "@theme/DocCardList";
+
+## Other
+
+- [_threads](https://docs.retool.com/build/apps/_partials/_threads): Each thread in the **Chat** tab is an isolated chat conversation with the agent that is tied to a development session and an app preview. Your deve...
+- [_ai Preferred](https://docs.retool.com/build/apps/_shared/_ai-preferred): Once you configure the supported AI resources that are available for building apps, you can configure your preferred resource and model. While buil...
+- [_ai Resources](https://docs.retool.com/build/apps/_shared/_ai-resources): Organization admins must configure one or more AI resources before builders can write prompts to create or edit apps. The following list outlines t...
+- [_proxy](https://docs.retool.com/build/apps/_shared/_proxy): :::important
+- [_resource_permissions](https://docs.retool.com/build/apps/_shared/_resource_permissions): For users to be able to prompt AI to create apps using the AI resources you set up, they need **Use** access to each resource.
+- [App builder](https://docs.retool.com/build/apps/concepts/app-builder): The app builder, including the AI-powered editor, live preview, and debugging tools.
+- [Data in apps](https://docs.retool.com/build/apps/concepts/data): Access data through resources and operate upon it with functions.
+- [How apps work](https://docs.retool.com/build/apps/concepts/how-it-works): Learn how apps work in Retool, including AI-assisted code generation, the build process, and how apps connect to your data.
+- [Prompting best practices](https://docs.retool.com/build/apps/concepts/prompting-best-practices): Best practices for writing prompts to build and edit apps.
+- [App security](https://docs.retool.com/build/apps/concepts/security): How apps handle security when using AI functionality, including data storage, routing, and LLM training policies.
+- [Apps concept guides](https://docs.retool.com/build/apps/concepts): Learn about relevant features, functionality, and principles related to apps.
+- [Manually edit app code](https://docs.retool.com/build/apps/guides/code): View and edit the code for your app.
+- [Configure your organization to use apps](https://docs.retool.com/build/apps/guides/configuration): Configure your organization to enable your users to create React apps.
+- [Convert classic apps](https://docs.retool.com/build/apps/guides/convert-classic-apps): Convert classic apps to the new app building experience.
+- [Import external React apps](https://docs.retool.com/build/apps/guides/import): Import React apps created elsewhere into Retool.
+- [Use MCP to build apps](https://docs.retool.com/build/apps/guides/mcp): Use Retool's MCP to build apps.
+- [Add third-party packages to an app](https://docs.retool.com/build/apps/guides/packages): Add third-party packages to extend the functionality of your app.
+- [Publish an app](https://docs.retool.com/build/apps/guides/publishing): Publish and share an app with your organization.
+- [Customize app themes](https://docs.retool.com/build/apps/guides/themes): Apply and reuse themes to control the appearance of apps.
+- [Apps documentation](https://docs.retool.com/build/apps): Use AI to build apps with rich interfaces, powered by your data.
+- [Apps quickstart](https://docs.retool.com/build/apps/quickstart): Learn how to get started building an app.
+- [MCP tools](https://docs.retool.com/build/apps/reference/mcp-tools): The set of tools available for use through Retool's MCP.
+- [Supported AI models](https://docs.retool.com/build/apps/reference/models): AI models available for use when building apps.
+- [Supported resources](https://docs.retool.com/build/apps/reference/resources): Reference documentation for resources available in apps.
+- [Glossary of terms](https://docs.retool.com/glossary): Learn the meanings of terms used across Retool.
+- [Index](https://docs.retool.com/index): Quickly build web and mobile apps, automate complex tasks, and integrate AI—all powered by your data.
+- [Retool-hosted, multi-tenant](https://docs.retool.com/retool-hosted/multi-tenant): Get started instantly with a multi-tenant instance that's hosted and managed by Retool.
+- [Retool-hosted, single-tenant](https://docs.retool.com/retool-hosted/single-tenant): Use a single-tenant instance that's deployed and operated by Retool.
+- [Retool-hosted deployments](https://docs.retool.com/retool-hosted): Choose between multi-tenant and single-tenant Retool-hosted instances.
+- [Versioned documentation](https://docs.retool.com/versions): Learn about Retool's documentation versioning.
+- [Cost management (Self-hosted)](https://docs.retool.com/education/coe/well-architected/cost-management): The Retool Platform when run in a self-hosted environment (e.g., AWS, Azure, Google) will rely on compute, storage, networking, and security infras...
+- [Reliability (Self-hosted)](https://docs.retool.com/education/coe/well-architected/reliability): Reliability of the Retool Self-hosted focuses on the compute, storage, network and security services provided by the public cloud provider. Archite...
+- [Scalability (Self-hosted)](https://docs.retool.com/education/coe/well-architected/scalability): The Retool Platform, when run in a self-hosted environment (e.g., AWS, Azure, Google) will rely on compute, storage, networking, and security infra...
+- [Lightweight Extract Transform and Load (ETL) Process](https://docs.retool.com/education/labs/data/etl): The following lab covers how to perform Lightweight ETL on a CSV Batch API. Lightweight ETL focuses on smaller datasets (KB/MB) versus traditional ...
+- [Configuring Retool with Single Sign-on (SSO) using OIDC](https://docs.retool.com/education/labs/security/sso): This laboratory focuses on configuring Retool with Auth0 Single Sign-On (SSO) for user authentication using Auth0 as the Identity Provider and its ...

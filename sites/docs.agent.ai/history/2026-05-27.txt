@@ -1,0 +1,345 @@
+# Agent.ai Documentation
+
+## Docs
+
+- [Action Availability](https://docs.agent.ai/actions-available.md): Agent.ai provides actions across the builder and SDKs.
+- [Add to List](https://docs.agent.ai/actions/add_to_list.md)
+- [Click Go to Continue](https://docs.agent.ai/actions/click_go_to_continue.md)
+- [Company Financial Info](https://docs.agent.ai/actions/company_financial_info.md)
+- [Company Financial Profile](https://docs.agent.ai/actions/company_financial_profile.md)
+- [Comprehensive Contact Intelligence](https://docs.agent.ai/actions/comprehensive_contact_intelligence.md)
+- [Contact Research](https://docs.agent.ai/actions/contact_research.md)
+- [Continue or Exit Workflow](https://docs.agent.ai/actions/continue_or_exit_workflow.md)
+- [Convert File](https://docs.agent.ai/actions/convert_file.md)
+- [Create Blog Post](https://docs.agent.ai/actions/create_blog_post.md)
+- [Describe Agent](https://docs.agent.ai/actions/describe_agent.md)
+- [Domain Info](https://docs.agent.ai/actions/domain_info.md)
+- [End If/Else/For Statement](https://docs.agent.ai/actions/end_statement.md)
+- [Enrich Calendar Event](https://docs.agent.ai/actions/enrich_calendar_event.md)
+- [Enrich Person](https://docs.agent.ai/actions/enrich_person.md)
+- [Enrich with Breeze Intelligence](https://docs.agent.ai/actions/enrich_with_breeze_intelligence.md)
+- [Fetch Relevant Gmail Threads](https://docs.agent.ai/actions/fetch_relevant_gmail_threads.md)
+- [Find LinkedIn Profile](https://docs.agent.ai/actions/find_linkedin_profile.md)
+- [For Loop](https://docs.agent.ai/actions/for_loop.md)
+- [Format Text](https://docs.agent.ai/actions/format_text.md)
+- [Generate Audio Output](https://docs.agent.ai/actions/generate_audio_output.md)
+- [Generate Image](https://docs.agent.ai/actions/generate_image.md)
+- [Get Bluesky Posts](https://docs.agent.ai/actions/get_bluesky_posts.md)
+- [Get Calendar Events List](https://docs.agent.ai/actions/get_calendar_events_list.md)
+- [Get Data from Builder's Knowledge Base](https://docs.agent.ai/actions/get_data_from_builders_knowledgebase.md)
+- [Get Data from User's Uploaded Files](https://docs.agent.ai/actions/get_data_from_users_uploaded_files.md)
+- [Get HubSpot Company](https://docs.agent.ai/actions/get_hubspot_company_object.md)
+- [Get HubSpot Contact](https://docs.agent.ai/actions/get_hubspot_contact_object.md)
+- [Get HubSpot Object](https://docs.agent.ai/actions/get_hubspot_object.md)
+- [Get HubSpot Owners](https://docs.agent.ai/actions/get_hubspot_owners.md)
+- [Get Instagram Followers](https://docs.agent.ai/actions/get_instagram_followers.md)
+- [Get Instagram Profile](https://docs.agent.ai/actions/get_instagram_profile.md)
+- [Get LinkedIn Activity](https://docs.agent.ai/actions/get_linkedin_activity.md)
+- [Get LinkedIn Company Posts](https://docs.agent.ai/actions/get_linkedin_company_posts.md)
+- [Get LinkedIn Company Profile](https://docs.agent.ai/actions/get_linkedin_company_profile.md)
+- [Get LinkedIn Job Posting](https://docs.agent.ai/actions/get_linkedin_job_posting.md)
+- [Get LinkedIn Posts](https://docs.agent.ai/actions/get_linkedin_posts.md)
+- [Get LinkedIn Profile](https://docs.agent.ai/actions/get_linkedin_profile.md)
+- [Get Recent Tweets](https://docs.agent.ai/actions/get_recent_tweets.md)
+- [Get Twitter Users](https://docs.agent.ai/actions/get_twitter_users.md)
+- [Get User File](https://docs.agent.ai/actions/get_user_file.md)
+- [Get User Input](https://docs.agent.ai/actions/get_user_input.md)
+- [Get User KBs and Files](https://docs.agent.ai/actions/get_user_knowledge_base_and_files.md)
+- [Get User List](https://docs.agent.ai/actions/get_user_list.md)
+- [Get Variable from Database](https://docs.agent.ai/actions/get_variable_from_database.md)
+- [Google News Data](https://docs.agent.ai/actions/google_news_data.md)
+- [Create Engagement](https://docs.agent.ai/actions/hubspot-v2-create-engagement.md)
+- [Create HubSpot Object](https://docs.agent.ai/actions/hubspot-v2-create-object.md)
+- [Create Timeline Event](https://docs.agent.ai/actions/hubspot-v2-create-timeline-event.md)
+- [Get Engagements](https://docs.agent.ai/actions/hubspot-v2-get-engagements.md)
+- [Get Timeline Events](https://docs.agent.ai/actions/hubspot-v2-get-timeline-events.md)
+- [Look up HubSpot Object](https://docs.agent.ai/actions/hubspot-v2-lookup-object.md)
+- [Search HubSpot](https://docs.agent.ai/actions/hubspot-v2-search-objects.md)
+- [Update HubSpot Object](https://docs.agent.ai/actions/hubspot-v2-update-object.md)
+- [If/Else Statement](https://docs.agent.ai/actions/if_else.md)
+- [Invoke Other Agent](https://docs.agent.ai/actions/invoke_other_agent.md)
+- [Invoke Web API](https://docs.agent.ai/actions/invoke_web_api.md)
+- [Render LinkedIn Sentiment Report](https://docs.agent.ai/actions/linkedin_sentiment_render_report_html.md)
+- [List Agent Memories](https://docs.agent.ai/actions/list_agent_memories.md)
+- [Post to Bluesky](https://docs.agent.ai/actions/post_to_bluesky.md)
+- [Process Video](https://docs.agent.ai/actions/process_video.md)
+- [Look Up Agent Memories](https://docs.agent.ai/actions/query_agent_kb.md)
+- [Save Agent Memory](https://docs.agent.ai/actions/save_to_agent_kb.md)
+- [Save To File](https://docs.agent.ai/actions/save_to_file.md)
+- [Save To Google Doc](https://docs.agent.ai/actions/save_to_google_doc.md)
+- [Search Bluesky Posts](https://docs.agent.ai/actions/search_bluesky_posts.md)
+- [Search LinkedIn Jobs](https://docs.agent.ai/actions/search_linkedin_jobs.md)
+- [Search LinkedIn People](https://docs.agent.ai/actions/search_linkedin_people.md)
+- [Search LinkedIn Posts by Keyword](https://docs.agent.ai/actions/search_linkedin_posts_by_keyword.md)
+- [Search Results](https://docs.agent.ai/actions/search_results.md)
+- [Send Message](https://docs.agent.ai/actions/send_message.md)
+- [Call Serverless Function](https://docs.agent.ai/actions/serverless_function.md)
+- [Set Variable](https://docs.agent.ai/actions/set-variable.md)
+- [Create Tabbed Report](https://docs.agent.ai/actions/shared_render_tabbed_report.md)
+- [Show User Output](https://docs.agent.ai/actions/show_user_output.md)
+- [Store Variable to Database](https://docs.agent.ai/actions/store_variable_to_database.md)
+- [Use GenAI (LLM)](https://docs.agent.ai/actions/use_genai.md)
+- [Wait for User Confirmation](https://docs.agent.ai/actions/wait_for_user_confirmation.md)
+- [Web Page Content](https://docs.agent.ai/actions/web_page_content.md)
+- [Web Page Screenshot](https://docs.agent.ai/actions/web_page_screenshot.md)
+- [YouTube Channel Data](https://docs.agent.ai/actions/youtube_channel_data.md)
+- [YouTube Search Results](https://docs.agent.ai/actions/youtube_search_results.md)
+- [YouTube Transcript](https://docs.agent.ai/actions/youtube_transcript.md)
+- [Company Research v2](https://docs.agent.ai/agent-packs/company-research.md): Deep, cached company intelligence with per-section research, tracking, and Q&A.
+- [Competitive Brief](https://docs.agent.ai/agent-packs/competitive-brief.md): Generate a full head-to-head competitive intelligence brief in a single call.
+- [Content Marketing Team](https://docs.agent.ai/agent-packs/content-marketing-team.md): AEO/SEO research, planning, creation, and auditing — the full content marketing loop.
+- [File Converter](https://docs.agent.ai/agent-packs/file-converter.md): Convert, merge, split, OCR, watermark, encrypt, and inspect files — powered by CloudConvert.
+- [HeyGen Avatar](https://docs.agent.ai/agent-packs/heygen-avatar.md): Generate talking-photo avatar videos from a blog URL, topic, or custom script.
+- [HeyGen Photo Avatar](https://docs.agent.ai/agent-packs/heygen-photo-avatar.md): Create custom HeyGen Photo Avatars from uploaded or AI-generated images.
+- [Industry Research](https://docs.agent.ai/agent-packs/industry-research.md): 8-section market landscape brief with personalized implications, delivered as email or JSON.
+- [Instant Headshot](https://docs.agent.ai/agent-packs/instant-headshot.md): Studio-quality AI professional headshots from reference photos.
+- [Lead Qualifier](https://docs.agent.ai/agent-packs/lead-qualifier.md): ICP-grounded lead scoring with fit score, timing assessment, and Pursue/Nurture/Pass recommendations.
+- [Meeting Follow-Up](https://docs.agent.ai/agent-packs/meeting-followup.md): Turn meeting transcripts into coaching, follow-up artifacts, CRM notes, and emails.
+- [Meeting Prep](https://docs.agent.ai/agent-packs/meeting-prep.md): Multi-phase meeting preparation — from calendar trigger to personalized, HTML-rendered brief.
+- [OpenClaw](https://docs.agent.ai/agent-packs/openclaw.md): Chat with your personal OpenClaw instance using the OpenAI-compatible API, and invoke its tools.
+- [Outreach Drafter](https://docs.agent.ai/agent-packs/outreach-drafter.md): Personalized email and LinkedIn message variants with a transparent personalization audit.
+- [Agent Packs](https://docs.agent.ai/agent-packs/overview.md): Purpose-built, multi-step agent pipelines you can call as a single action or run step-by-step.
+- [Prospect Finder](https://docs.agent.ai/agent-packs/prospect-finder.md): Discover and rank prospects from a natural-language description, scored against your ICP.
+- [Prospect Research](https://docs.agent.ai/agent-packs/prospect-research.md): Triangulate prospect intelligence across LinkedIn, web, and company data.
+- [Sales Outreach Team](https://docs.agent.ai/agent-packs/sales-outreach-team.md): Strategy, multi-touch sequences, and cold call prep — the full outbound-motion pack.
+- [Social Content Team](https://docs.agent.ai/agent-packs/social-content-team.md): Plan, create, and analyze LinkedIn social content end-to-end.
+- [Trends Research](https://docs.agent.ai/agent-packs/trends-research.md): 6-section industry trends digest with email delivery.
+- [YouTube Creator Team](https://docs.agent.ai/agent-packs/youtube-creator-team.md): Idea research, scripts, packaging, and cross-platform repurposing for YouTube creators.
+- [AI Agents Explained](https://docs.agent.ai/ai-agents-explained.md): Understanding the basics of AI agents for beginners
+- [Convert file options](https://docs.agent.ai/api-reference/advanced/convert-file-options.md): Gets the full set of options that a file extension can be converted to.
+- [Describe Agent](https://docs.agent.ai/api-reference/agent-discovery/describe-agent.md): Get detailed metadata, input fields, and output fields for a specific agent by its ID or slug.
+- [Search](https://docs.agent.ai/api-reference/agent-discovery/search.md): Search and discover agents based on various criteria including status, tags, and search terms.
+- [Convert File](https://docs.agent.ai/api-reference/ai-&-content-generation/convert-file.md): Convert uploaded files to different formats, like PDF, TXT, or PNG.
+- [Generate Audio Output](https://docs.agent.ai/api-reference/ai-&-content-generation/generate-audio-output.md): Convert text to speech using AI to create audio outputs.
+- [Generate Content](https://docs.agent.ai/api-reference/ai-&-content-generation/generate-content.md): Invoke a language model (LLM) to generate text based on input instructions.
+- [Generate Image](https://docs.agent.ai/api-reference/ai-&-content-generation/generate-image.md): Create images using AI models, with options for style and aspect ratio.
+- [Process Video](https://docs.agent.ai/api-reference/ai-&-content-generation/process-video.md): Analyzes YouTube videos into transcripts, analysis, or additional videos.
+- [Company Earnings Info](https://docs.agent.ai/api-reference/business-&-financial-data/company-earnings-info.md): Gather company earnings information for public companies by quarter and year.
+- [Company Financial Profile](https://docs.agent.ai/api-reference/business-&-financial-data/company-financial-profile.md): Retrieve detailed financial and company profile information for a given stock symbol, such as market cap and the last known stock price for any company.
+- [Domain Info](https://docs.agent.ai/api-reference/business-&-financial-data/domain-info.md): Gather the registrar provided details for any domain.
+- [Enrich Company Data with Breeze Intelligence](https://docs.agent.ai/api-reference/business-&-financial-data/enrich-company-data-with-breeze-intelligence.md): Gather enriched company data using Breeze Intelligence for deeper analysis.
+- [Enrich User Data with Breeze Intelligence](https://docs.agent.ai/api-reference/business-&-financial-data/enrich-user-data-with-breeze-intelligence.md): Gather enriched user data using Breeze Intelligence for deeper analysis.
+- [Get Data from Builder's Knowledge Base](https://docs.agent.ai/api-reference/business-&-financial-data/get-data-from-builders-knowledge-base.md): Fetch semantic search results from the builder's knowledge base for data analysis. This would allow your AI actions to leverage relevant structured data from the knowledge base based on filtering criteria.
+- [Get Data from User's Uploaded Files](https://docs.agent.ai/api-reference/business-&-financial-data/get-data-from-users-uploaded-files.md): Retrieve semantic search results from user-uploaded files for targeted information retrieval.
+- [[CR10] Render Report HTML](https://docs.agent.ai/api-reference/company-research/[cr10]-render-report-html.md): Render a complete company research report as professional, mobile-friendly HTML. Links to all article sources and displays all research sections.
+- [[CR11] Add to HubSpot](https://docs.agent.ai/api-reference/company-research/[cr11]-add-to-hubspot.md): Add or update a company in the user's HubSpot CRM.
+- [[CR1] Start Company Research](https://docs.agent.ai/api-reference/company-research/[cr1]-start-company-research.md): Start researching a company by domain. Returns report_id for polling status.
+- [[CR2] Get Report Status](https://docs.agent.ai/api-reference/company-research/[cr2]-get-report-status.md): Poll for research report progress. Use in a loop until is_complete is true.
+- [[CR3] Get Full Report](https://docs.agent.ai/api-reference/company-research/[cr3]-get-full-report.md): Get a completed research report with all sections and optional HTML content.
+- [[CR4] Get Report Section](https://docs.agent.ai/api-reference/company-research/[cr4]-get-report-section.md): Get a specific section from a research report.
+- [[CR5] Search Companies](https://docs.agent.ai/api-reference/company-research/[cr5]-search-companies.md): Search for companies using natural language query. Extracts filters for industry, location, and employee count.
+- [[CR6] Track Company](https://docs.agent.ai/api-reference/company-research/[cr6]-track-company.md): Add a company to the user's tracked list for monitoring.
+- [[CR8] List Tracked Companies](https://docs.agent.ai/api-reference/company-research/[cr8]-list-tracked-companies.md): Get all companies tracked by the user.
+- [[CR9] Answer Custom Question](https://docs.agent.ai/api-reference/company-research/[cr9]-answer-custom-question.md): Answer a custom research question about a company using cached data and LLM.
+- [[CRFull] Run Full Company Research](https://docs.agent.ai/api-reference/company-research/[crfull]-run-full-company-research.md): Run comprehensive company research with configurable sections. Returns full JSON report with all data.
+- [[CRQ] Ask Domain Question](https://docs.agent.ai/api-reference/company-research/[crq]-ask-domain-question.md): Ask a custom research question about a company domain. Answers are cached per user/domain.
+- [[CRQ] Get Domain Q&A History](https://docs.agent.ai/api-reference/company-research/[crq]-get-domain-q&a-history.md): Get all questions and answers for a domain from the user's history.
+- [[CBFull] Run Full Competitive Brief](https://docs.agent.ai/api-reference/competitive-brief/[cbfull]-run-full-competitive-brief.md): Generate a comprehensive competitive intelligence brief with all sections. Returns full JSON output.
+- [[CBRender] Render Brief as HTML](https://docs.agent.ai/api-reference/competitive-brief/[cbrender]-render-brief-as-html.md): Renders a competitive brief as a beautiful HTML document. Takes the output from [CBFull] Run Full Competitive Brief.
+- [[CM1] AEO & SEO Research](https://docs.agent.ai/api-reference/content-marketing-team/[cm1]-aeo-&-seo-research.md): Generates comprehensive AEO & SEO research for a given topic, including keyword opportunities, AI citation gaps, competitor landscape, and content recommendations.
+- [[CM1_Report] SEO Research Report](https://docs.agent.ai/api-reference/content-marketing-team/[cm1_report]-seo-research-report.md): Renders AEO/SEO research as an HTML report with keyword opportunities, citation gaps, and recommendations.
+- [[CM2] Content Planner](https://docs.agent.ai/api-reference/content-marketing-team/[cm2]-content-planner.md): Generates a content calendar with article ideas mapped to SEO/AEO opportunities, publishing schedule, and strategic rationale.
+- [[CM2_Report] Content Plan Report](https://docs.agent.ai/api-reference/content-marketing-team/[cm2_report]-content-plan-report.md): Renders a content calendar as an HTML report with week-by-week content briefs.
+- [[CM3] Content Creator](https://docs.agent.ai/api-reference/content-marketing-team/[cm3]-content-creator.md): Generates a complete, publish-ready article with SEO metadata, internal linking suggestions, featured image prompt, and a publishing checklist.
+- [[CM3_Report] Article Report](https://docs.agent.ai/api-reference/content-marketing-team/[cm3_report]-article-report.md): Renders a generated article as an HTML report with SEO metadata, article body, links, and checklist.
+- [[CM4] Content Audit](https://docs.agent.ai/api-reference/content-marketing-team/[cm4]-content-audit.md): Crawls a website and produces a structured content audit with SEO/AEO scores, a prioritized action plan, content gap analysis, keyword cannibalization detection, and a page-level inventory.
+- [[CM4_Report] Content Audit Report](https://docs.agent.ai/api-reference/content-marketing-team/[cm4_report]-content-audit-report.md): Renders a content audit as an HTML report with site health dashboard, findings, and page inventory.
+- [[FC1] Convert File](https://docs.agent.ai/api-reference/file-converter/[fc1]-convert-file.md): Convert a file from one format to another using CloudConvert. Supports 200+ formats including documents, images, video, audio, and more.
+- [[FC1_Report] File Conversion Report](https://docs.agent.ai/api-reference/file-converter/[fc1_report]-file-conversion-report.md): Renders file conversion results as an HTML report with download links and preview.
+- [[FC2] Optimize File](https://docs.agent.ai/api-reference/file-converter/[fc2]-optimize-file.md): Compress and optimize PDF, PNG, or JPG files without changing the format. Reduces file size while maintaining quality.
+- [[FC3] Merge PDFs](https://docs.agent.ai/api-reference/file-converter/[fc3]-merge-pdfs.md): Combine multiple files into a single PDF. Non-PDF files are automatically converted to PDF before merging.
+- [[FC4] Extract File Metadata](https://docs.agent.ai/api-reference/file-converter/[fc4]-extract-file-metadata.md): Extract metadata from any file — EXIF data from images, properties from PDFs, resolution and duration from videos. Does not consume conversion credits.
+- [[FC5] PDF OCR](https://docs.agent.ai/api-reference/file-converter/[fc5]-pdf-ocr.md): Add a searchable text layer to scanned PDF files using OCR. Makes scanned documents searchable and copy-pasteable.
+- [[FC6] Image to Text (OCR)](https://docs.agent.ai/api-reference/file-converter/[fc6]-image-to-text-ocr.md): Extract text from an image using OCR. Chains image → PDF → OCR → plain text. Returns both a searchable PDF and a .txt file.
+- [[FC7] Split PDF](https://docs.agent.ai/api-reference/file-converter/[fc7]-split-pdf.md): Split a PDF into one file per page. Returns an array of individual page PDF URLs.
+- [[FC8] Encrypt PDF](https://docs.agent.ai/api-reference/file-converter/[fc8]-encrypt-pdf.md): Password-protect a PDF file. Restricts who can open and read the document.
+- [[FC9] Watermark File](https://docs.agent.ai/api-reference/file-converter/[fc9]-watermark-file.md): Add a text watermark (e.g. CONFIDENTIAL, DRAFT) to a PDF or image file.
+- [[HS1] Generate Headshots](https://docs.agent.ai/api-reference/headshot-generator/[hs1]-generate-headshots.md): Generates AI professional headshots from reference photos using Gemini Pro Image. Supports configurable style, background, attire, count (1-4), quality (standard 1K / high 2K), aspect ratio, and custom prompts. Includes 3-layer content moderation.
+- [[HS1_Report] Headshot Report](https://docs.agent.ai/api-reference/headshot-generator/[hs1_report]-headshot-report.md): Renders generated headshots as an HTML gallery.
+- [[HG1] Generate Avatar Video](https://docs.agent.ai/api-reference/heygen-avatar/[hg1]-generate-avatar-video.md): Generates a talking-photo avatar video via HeyGen. Scrapes a blog URL or uses a topic/script to create a voiceover, then submits to HeyGen V2 API. Returns a video_id for status polling.
+- [[HG2] Get Video Status](https://docs.agent.ai/api-reference/heygen-avatar/[hg2]-get-video-status.md): Polls HeyGen for video generation progress. Returns status (pending/processing/completed/failed) and the video_url + thumbnail_url when complete.
+- [[PA1] Create Photo Avatar](https://docs.agent.ai/api-reference/heygen-photo-avatar/[pa1]-create-photo-avatar.md): Creates a HeyGen Photo Avatar from uploaded photos or AI generation. Upload mode requires base64 photos; generate mode uses age/gender/ethnicity/style params. Returns group_id for status polling.
+- [[PA1_Report] Photo Avatar Report](https://docs.agent.ai/api-reference/heygen-photo-avatar/[pa1_report]-photo-avatar-report.md): Renders photo avatar creation status as an HTML report.
+- [Create HubSpot Engagement](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/create-hubspot-engagement.md): Create HubSpot Engagement
+- [Create HubSpot Object](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/create-hubspot-object.md): Create HubSpot Object
+- [Create HubSpot Timeline Event](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/create-hubspot-timeline-event.md): Create HubSpot Timeline Event
+- [Get HubSpot Engagements](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/get-hubspot-engagements.md): Get HubSpot Engagements
+- [Get HubSpot Timeline Events](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/get-hubspot-timeline-events.md): Get HubSpot Timeline Events
+- [Look up HubSpot Object](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/look-up-hubspot-object.md): Look up HubSpot Object
+- [Search HubSpot Objects](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/search-hubspot-objects.md): Search HubSpot Objects
+- [Update HubSpot Object](https://docs.agent.ai/api-reference/hubspot-crm-&-automation/update-hubspot-object.md): Update HubSpot Object
+- [Get HubSpot Company Data](https://docs.agent.ai/api-reference/hubspot/get-hubspot-company-data.md): Retrieve company data from HubSpot based on a query or get the most recent company.
+- [Get HubSpot Contact Data](https://docs.agent.ai/api-reference/hubspot/get-hubspot-contact-data.md): Retrieve contact data from HubSpot based on a query or get the most recent contact.
+- [Get HubSpot Object Data](https://docs.agent.ai/api-reference/hubspot/get-hubspot-object-data.md): Retrieve data for any supported HubSpot object type based on a query or get the most recent object.
+- [Get HubSpot Owners](https://docs.agent.ai/api-reference/hubspot/get-hubspot-owners.md): Retrieve all owners (users) from a HubSpot portal.
+- [[IR1] Generate Industry Research](https://docs.agent.ai/api-reference/industry-research/[ir1]-generate-industry-research.md): Generates a structured 8-section market landscape brief using real-time web research (Perplexity Sonar Pro) and structured extraction (GPT-5 Mini). Sections: Market Overview, Key Players, Segments, Recent Developments, Buyer Dynamics, Trends & Outlook, Competitive Dynamics, and personalized implicat…
+- [[IR2] Send Industry Research Email](https://docs.agent.ai/api-reference/industry-research/[ir2]-send-industry-research-email.md): Sends an industry research report as a formatted email with Market Overview, Key Players, and personalized implications teaser.
+- [Get User List](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/get-user-list.md): Capture a list of items from a textarea and split on a delimiter or newline.
+- [Google News Data](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/google-news-data.md): Fetch news articles based on queries and date ranges for monitoring topics or trends.
+- [List Agent Memories](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/list-agent-memories.md): List all saved memories for this agent with topics, keywords, and previews. Optionally filter by keyword.
+- [Look Up Agent Memories](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/look-up-agent-memories.md): Search this agent's memories with AI-powered semantic search to recall past context, notes, and insights with citations.
+- [Save Agent Memory](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/save-agent-memory.md): Save notes, context, or insights to this agent's persistent memory for future recall and reference.
+- [Search Results](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/search-results.md): Fetch search results from Google, YouTube, or YouTube channels for specified queries.
+- [Wait for User Confirmation](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/wait-for-user-confirmation.md): Pause until the user confirms.
+- [Web Page Content](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/web-page-content.md): Extract text from a specified web page or crawl multiple pages for comprehensive data gathering.
+- [Web Page Screenshot](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/web-page-screenshot.md): Capture a visual screenshot of a specified web page for documentation or analysis.
+- [YouTube Channel Data](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/youtube-channel-data.md): Retrieve detailed information about a YouTube channel, including its videos and statistics.
+- [YouTube Transcript](https://docs.agent.ai/api-reference/inputs-&-data-retrieval/youtube-transcript.md): Fetch the transcript of a specified YouTube video for review or further processing.
+- [Analyze Contact Email History & Insights](https://docs.agent.ai/api-reference/integration-intelligence/analyze-contact-email-history-&-insights.md): Search a contact's email history for relevant discussions, extract interaction patterns, timelines, and generate actionable insights based on contact and meeting details.
+- [Contact Enrichment & Relationship Synthesis](https://docs.agent.ai/api-reference/integration-intelligence/contact-enrichment-&-relationship-synthesis.md): Uncover relationship health, discover opportunities, fill information gaps, and receive synthesized, actionable intelligence for key meetings or deal prep.
+- [Contact Research](https://docs.agent.ai/api-reference/integration-intelligence/contact-research.md): Research contacts using Perplexity Sonar Pro and deep web search. Discovers, verifies, and enriches person profiles using multi-source triangulation. Generates conversation intelligence with icebreakers, talking points, and questions to ask.
+- [Enrich Calendar Event](https://docs.agent.ai/api-reference/integration-intelligence/enrich-calendar-event.md): Get comprehensive details about a specific calendar event including attendees, meeting notes, transcript, and AI-generated insights from Google Calendar or Outlook Calendar.
+- [Get Calendar Events List](https://docs.agent.ai/api-reference/integration-intelligence/get-calendar-events-list.md): Build a list of the user's calendar events from Google Calendar, Outlook Calendar, or all connected calendars.
+- [Render LinkedIn Sentiment Report](https://docs.agent.ai/api-reference/integration-intelligence/render-linkedin-sentiment-report.md): Renders a polished HTML sentiment report from LinkedIn post data. No LLM required — uses Jinja2 templates for fast, deterministic rendering with sentiment badges, engagement stats, and author cards.
+- [[LQ1] Qualify Lead](https://docs.agent.ai/api-reference/lead-qualifier/[lq1]-qualify-lead.md): Produces an ICP-grounded qualification with fit score (0-100), timing assessment, and priority recommendation (Pursue Now / Nurture / Pass).
+- [[LQ2] Render Qualification HTML](https://docs.agent.ai/api-reference/lead-qualifier/[lq2]-render-qualification-html.md): Renders qualification report as professional HTML. No LLM required.
+- [[F1] Select Past Meeting](https://docs.agent.ai/api-reference/meeting-follow-up/[f1]-select-past-meeting.md): Extracts the selected meeting from a list of past calendar events based on the meeting ID.
+- [[F2] Load Followup Context](https://docs.agent.ai/api-reference/meeting-follow-up/[f2]-load-followup-context.md): Loads user context including role classification and goals. Can infer role/goals from user.context via LLM if not provided.
+- [[F3] Enrich Meeting Event](https://docs.agent.ai/api-reference/meeting-follow-up/[f3]-enrich-meeting-event.md): Enriches a past calendar event with full meeting details including transcript, AI insights, and attendees.
+- [[F4] Analyze Transcript](https://docs.agent.ai/api-reference/meeting-follow-up/[f4]-analyze-transcript.md): Extracts structured data from meeting transcripts: key moments, action items, signals, and performance analysis.
+- [[F5+F6] Generate All Artifacts (Fast)](https://docs.agent.ai/api-reference/meeting-follow-up/[f5+f6]-generate-all-artifacts-fast.md): OPTIMIZED: Combines coaching (F5) and artifacts (F6) into a single action with 5 parallel LLM calls. Reduces execution time by ~50%. Use this instead of separate F5 and F6 actions.
+- [[F5] Generate Coaching](https://docs.agent.ai/api-reference/meeting-follow-up/[f5]-generate-coaching.md): Generates personalized coaching insights including strengths, improvements, and strategic recommendations.
+- [[F6] Generate Followup Artifacts](https://docs.agent.ai/api-reference/meeting-follow-up/[f6]-generate-followup-artifacts.md): Generates all followup deliverables in parallel: email draft, CRM notes, task list, and team update.
+- [[F7] Render Followup HTML](https://docs.agent.ai/api-reference/meeting-follow-up/[f7]-render-followup-html.md): Renders the meeting followup document as a professional HTML email. No LLM required - uses Jinja2 templates.
+- [[Full] V3 Run Meeting Pipeline](https://docs.agent.ai/api-reference/meeting-prep-v3/[full]-v3-run-meeting-pipeline.md): V3: Full meeting prep pipeline with seller profile integration. Generates personalized sections when seller profile is available.
+- [[P2] V3 Load User Context](https://docs.agent.ai/api-reference/meeting-prep-v3/[p2]-v3-load-user-context.md): V3: Loads user profile, preferences, and seller profile with validation and completeness scoring.
+- [[P6] V3 Generate Meeting Sections](https://docs.agent.ai/api-reference/meeting-prep-v3/[p6]-v3-generate-meeting-sections.md): V3: Generates 7 meeting prep sections in parallel with seller profile integration. Uses tiered models and conditional prompt injection.
+- [[P7] V3 Assemble Meeting Document](https://docs.agent.ai/api-reference/meeting-prep-v3/[p7]-v3-assemble-meeting-document.md): V3: Assembles all sections (V3 + V2) into unified document. Handles situation, segues, questions, next_step alongside legacy strategy/goals.
+- [[P7] V3 Render Meeting Prep HTML](https://docs.agent.ai/api-reference/meeting-prep-v3/[p7]-v3-render-meeting-prep-html.md): V3: Renders meeting prep HTML with V3 cards (Situation, Segues, Questions, Next Step) plus V2 backwards compatibility.
+- [Query Meeting Memories](https://docs.agent.ai/api-reference/meeting-prep-v3/query-meeting-memories.md): Queries the user's meeting knowledge bases (pre-meeting prep and/or post-meeting follow-up) with metadata filtering, date sorting, and optional LLM-powered Q&A. Supports recurring event series via wildcard patterns.
+- [[Full] Run Meeting Pipeline](https://docs.agent.ai/api-reference/meeting-prep/[full]-run-meeting-pipeline.md): Runs the complete optimized meeting prep pipeline (Phases 2-7) in a single action. Great for testing or simple deployments.
+- [[P1] Extract Selected Meeting](https://docs.agent.ai/api-reference/meeting-prep/[p1]-extract-selected-meeting.md): Extracts the selected meeting details from a list of Google Calendar events based on the meeting ID.
+- [[P2] Generate Subject Line](https://docs.agent.ai/api-reference/meeting-prep/[p2]-generate-subject-line.md): Generates an email subject line for the meeting prep document.
+- [[P2] Load User Context](https://docs.agent.ai/api-reference/meeting-prep/[p2]-load-user-context.md): Loads user profile data, voice preferences, and meeting goals for personalization.
+- [[P2] Validate Meeting Trigger](https://docs.agent.ai/api-reference/meeting-prep/[p2]-validate-meeting-trigger.md): Validates calendar event trigger data and applies filtering rules (exclusion keywords, domains, external-only, time window).
+- [[P3] Classify Meeting](https://docs.agent.ai/api-reference/meeting-prep/[p3]-classify-meeting.md): Classifies meeting type (demo, discovery, follow-up, etc.), extracts topic signals, determines buyer stage and urgency.
+- [[P3] Process Calendar Event](https://docs.agent.ai/api-reference/meeting-prep/[p3]-process-calendar-event.md): Processes raw calendar event data, classifies attendees as internal/external, extracts duration, conference links, and organizer info.
+- [[P4] Analyze Meeting Relationships](https://docs.agent.ai/api-reference/meeting-prep/[p4]-analyze-meeting-relationships.md): Analyzes relationship history and patterns for meeting attendees. Determines if first meeting, relationship stage, and provides recommendations.
+- [[P5] Prepare Meeting Contacts](https://docs.agent.ai/api-reference/meeting-prep/[p5]-prepare-meeting-contacts.md): Identifies target company, primary contact, and formats all contacts for research. Combines Steps 21-22 from original workflow.
+- [[P5] Process Contact Research](https://docs.agent.ai/api-reference/meeting-prep/[p5]-process-contact-research.md): Processes contact research results to identify primary contact, build profiles, and calculate research quality scores.
+- [[P5] Summarize Internal Team](https://docs.agent.ai/api-reference/meeting-prep/[p5]-summarize-internal-team.md): Generates a summary of internal team members attending the meeting, including organizer identification.
+- [[P6] Generate Meeting Sections](https://docs.agent.ai/api-reference/meeting-prep/[p6]-generate-meeting-sections.md): Generates all 5 meeting prep sections in parallel using LLM with structured JSON output. Uses tiered models for speed/quality balance.
+- [[P7] Assemble Meeting Document](https://docs.agent.ai/api-reference/meeting-prep/[p7]-assemble-meeting-document.md): Combines all generated sections into a unified meeting prep document structure ready for HTML rendering.
+- [[P7] Render Meeting Prep HTML](https://docs.agent.ai/api-reference/meeting-prep/[p7]-render-meeting-prep-html.md): Renders the assembled meeting prep document as a beautiful HTML email using Jinja2 templates. No LLM required.
+- [OpenClaw Chat Completion](https://docs.agent.ai/api-reference/openclaw/openclaw-chat-completion.md): Send a chat completion request to an OpenClaw instance via the OpenAI-compatible API. Returns the assistant's response text.
+- [OpenClaw Get Details](https://docs.agent.ai/api-reference/openclaw/openclaw-get-details.md): Fetch the current user's OpenClaw instance IP, auth token, and status. Outputs can be referenced as {{openclaw.instance_ip}} and {{openclaw.auth_token}} in subsequent actions.
+- [OpenClaw Tools Invoke](https://docs.agent.ai/api-reference/openclaw/openclaw-tools-invoke.md): Invoke a single tool on an OpenClaw instance via the Tools Invoke API. Returns the tool's result.
+- [Create Tabbed Report](https://docs.agent.ai/api-reference/outputs/create-tabbed-report.md): Renders a multi-section HTML report with sidebar navigation, section icons, and badges. Accepts a JSON payload with title, subtitle, and sections array. Each section has a key, title, optional icon/badge, and HTML content. The report includes a sticky sidebar (desktop) that becomes horizontal tabs o…
+- [Format Text](https://docs.agent.ai/api-reference/outputs/format-text.md): Change casing, remove characters, split text, remove HTML, or truncate text.
+- [Post to Bluesky](https://docs.agent.ai/api-reference/outputs/post-to-bluesky.md): Create a new post on Bluesky using your account credentials.
+- [Save To File](https://docs.agent.ai/api-reference/outputs/save-to-file.md): Save text content as a downloadable file.
+- [Send Message](https://docs.agent.ai/api-reference/outputs/send-message.md): Send a message to a specified recipient, such as an email with formatted content.
+- [Show User Output](https://docs.agent.ai/api-reference/outputs/show-user-output.md): Format and display results to users in HTML, JSON, tables, or other formats.
+- [[OD1] Draft Outreach](https://docs.agent.ai/api-reference/outreach-drafter/[od1]-draft-outreach.md): Generates personalized email and LinkedIn message variants with transparent personalization audit.
+- [[OD2] Render Outreach HTML](https://docs.agent.ai/api-reference/outreach-drafter/[od2]-render-outreach-html.md): Renders outreach package as professional HTML with email variants, LinkedIn messages, and personalization audit.
+- [Enrich Person](https://docs.agent.ai/api-reference/people-intelligence/enrich-person.md): Enrich a person's professional profile via Fiber AI (LinkedIn) + LLM inference + Perplexity web search. Returns job title, seniority, job function, company, industry, employee count range, funding stage, LinkedIn URL, and location. Results cached 30 days. Provide at least one of: email, name + compa…
+- [[PF1] Find & Rank Prospects](https://docs.agent.ai/api-reference/prospect-finder/[pf1]-find-&-rank-prospects.md): Searches for prospects matching a natural-language description via Fiber.ai combined NL search, then scores and ranks them against the seller's ICP using Perplexity.
+- [[PF2] Render Prospect Finder HTML](https://docs.agent.ai/api-reference/prospect-finder/[pf2]-render-prospect-finder-html.md): Renders prospect discovery report as professional HTML with prospect cards, ICP match badges, and next-step buttons.
+- [[PR-C] Search Company Intel](https://docs.agent.ai/api-reference/prospect-research/[pr-c]-search-company-intel.md): Returns rich company intelligence: funding rounds, investors, contact emails, Crunchbase data, employee count, revenue, industries. Cached 30 days. Output feeds directly into Research Prospect.
+- [[PR-E] Lookup Prospect by Email](https://docs.agent.ai/api-reference/prospect-research/[pr-e]-lookup-prospect-by-email.md): Resolves an email address to a LinkedIn person profile via Fiber.ai. Returns name, title, company, LinkedIn URL, career history, skills. Cached for 30 days.
+- [[PR0] Find Prospects at Company](https://docs.agent.ai/api-reference/prospect-research/[pr0]-find-prospects-at-company.md): Discovers people at a company using Fiber.ai LinkedIn search. Returns up to 10 profiles with name, title, LinkedIn URL, and skills. Results cached for 30 days.
+- [[PR1] Research Prospect](https://docs.agent.ai/api-reference/prospect-research/[pr1]-research-prospect.md): Researches a prospect via Perplexity Sonar Pro and produces a structured Prospect Intelligence Brief with 8 sections: Snapshot, Role, Career, Activity, Priorities, Outreach Angles, Communication Style, and ICP Fit.
+- [[PR2] Render Prospect Brief HTML](https://docs.agent.ai/api-reference/prospect-research/[pr2]-render-prospect-brief-html.md): Renders the Prospect Intelligence Brief as professional email-compatible HTML using Jinja2 templates. No LLM required — fast deterministic rendering.
+- [[CCP] Cold Call Prep](https://docs.agent.ai/api-reference/sales-outreach/[ccp]-cold-call-prep.md): Generates a structured Call Game Plan with pre-call intel, opening approach, talk tracks, qualifying questions, objection playbook (5 universal + prospect-specific), close, voicemail scripts, and delivery notes.
+- [[OS] Outreach Strategist](https://docs.agent.ai/api-reference/sales-outreach/[os]-outreach-strategist.md): Analyzes a prospect's context and produces a structured Outreach Strategy Brief: messaging angle, channel priority, CTA approach, timing assessment, and risk factors. The entry point to the Sales Outreach Team workflow.
+- [[OSQ] Outreach Sequence](https://docs.agent.ai/api-reference/sales-outreach/[osq]-outreach-sequence.md): Generates a complete multi-channel outreach sequence with 3-8 ready-to-use touchpoints across email and LinkedIn. Each touch includes full message content, subject lines, angle labels, and escalation notes.
+- [[SC1] Generate Social Content Plan](https://docs.agent.ai/api-reference/social-content-team/[sc1]-generate-social-content-plan.md): Generates a weekly LinkedIn posting plan with 3-7 post ideas, each mapped to a content pillar with format recommendations, hooks, and timing.
+- [[SC1_Report] Social Plan Report](https://docs.agent.ai/api-reference/social-content-team/[sc1_report]-social-plan-report.md): Renders a weekly social content plan as an HTML report with post idea cards.
+- [[SC2] Create Social Post](https://docs.agent.ai/api-reference/social-content-team/[sc2]-create-social-post.md): Creates a complete LinkedIn post with hook, body, CTA, hashtags, and optional AI-generated image sized for LinkedIn.
+- [[SC2_Report] Social Post Report](https://docs.agent.ai/api-reference/social-content-team/[sc2_report]-social-post-report.md): Renders a LinkedIn post as an HTML preview with copy, image, and first comment.
+- [[SC3] Analyze Social Performance](https://docs.agent.ai/api-reference/social-content-team/[sc3]-analyze-social-performance.md): Analyzes a LinkedIn profile's posting performance across 6 dimensions with industry benchmarks, top/bottom performers, and a prioritized action plan.
+- [[SC3_Report] Social Performance Report](https://docs.agent.ai/api-reference/social-content-team/[sc3_report]-social-performance-report.md): Renders a social performance analysis as an HTML report with scorecard, top/bottom posts, and action plan.
+- [[SC4] Generate Social Image](https://docs.agent.ai/api-reference/social-content-team/[sc4]-generate-social-image.md): Generates a LinkedIn-optimised AI image using Gemini. Supports 4 visual styles and 2 aspect ratios. Use as a standalone image action or as part of the Social Post Creator pipeline.
+- [Bluesky Posts](https://docs.agent.ai/api-reference/social-media-&-online-presence/bluesky-posts.md): Fetch recent posts from a specified Bluesky user handle.
+- [Find LinkedIn Profile](https://docs.agent.ai/api-reference/social-media-&-online-presence/find-linkedin-profile.md): Find someone's LinkedIn profile from a query of their name or other details.
+- [Get Instagram Followers](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-instagram-followers.md): Get top followers for an Instagram account.
+- [Get Instagram Profile](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-instagram-profile.md): Get Instagram profile info.
+- [Get LinkedIn Activity](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-activity.md): Fetch recent LinkedIn posts from specified profiles for social media analysis.
+- [Get LinkedIn Company Posts](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-company-posts.md): Retrieve recent posts and content published by a LinkedIn company page.
+- [Get LinkedIn Company Profile](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-company-profile.md): Retrieve detailed information about a LinkedIn company page including size, industry, and specialties.
+- [Get LinkedIn Job Posting](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-job-posting.md): Retrieve detailed information about a specific LinkedIn job posting.
+- [Get LinkedIn Posts](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-posts.md): Retrieve LinkedIn posts or articles by their direct URLs.
+- [Get LinkedIn Profile Details](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-linkedin-profile-details.md): Retrieve detailed information from a LinkedIn profile for professional insights.
+- [Get Twitter Users](https://docs.agent.ai/api-reference/social-media-&-online-presence/get-twitter-users.md): Search and retrieve Twitter user profiles based on keywords for social media analysis.
+- [Recent Tweets](https://docs.agent.ai/api-reference/social-media-&-online-presence/recent-tweets.md): Fetch recent tweets from a specified Twitter handle for social media tracking.
+- [Search Bluesky Posts](https://docs.agent.ai/api-reference/social-media-&-online-presence/search-bluesky-posts.md): Search for Bluesky posts matching specific keywords or criteria.
+- [Search LinkedIn Jobs](https://docs.agent.ai/api-reference/social-media-&-online-presence/search-linkedin-jobs.md): Search for job postings on LinkedIn by keyword, location, and filters.
+- [Search LinkedIn People](https://docs.agent.ai/api-reference/social-media-&-online-presence/search-linkedin-people.md): Search for LinkedIn profiles by first and last name to find professionals.
+- [Search LinkedIn Posts by Keyword](https://docs.agent.ai/api-reference/social-media-&-online-presence/search-linkedin-posts-by-keyword.md): Search LinkedIn posts by keywords using Fiber.ai. Returns posts with author info, content, engagement metrics, and more.
+- [YouTube Search Results](https://docs.agent.ai/api-reference/social-media-&-online-presence/youtube-search-results.md): Perform a search on YouTube and return results for specified queries.
+- [[TR1] Generate Trends Digest](https://docs.agent.ai/api-reference/trends-research/[tr1]-generate-trends-digest.md): Generates a structured 6-section trends research digest for any industry using real-time web research (Perplexity Sonar Pro) and structured extraction (GPT-5 Mini). Sections: Top Trends, Industry Signals, Regulatory Watch, Technology & Innovation, Market Shifts, and personalized insights.
+- [[TR2] Send Trends Digest Email](https://docs.agent.ai/api-reference/trends-research/[tr2]-send-trends-digest-email.md): Sends a trends research digest as a formatted email. Uses the same design system as Competitive Brief emails. Includes Top Trends, Industry Signals, personalized insights teaser, and 'Read Full Analysis' CTA.
+- [Call Serverless Function](https://docs.agent.ai/api-reference/workflow-&-logic/call-serverless-function.md): Execute serverless code directly within workflows for complex operations.
+- [Get Variable from Database](https://docs.agent.ai/api-reference/workflow-&-logic/get-variable-from-database.md): The variable to retrieve from the agent's database.
+- [Invoke Other Agent](https://docs.agent.ai/api-reference/workflow-&-logic/invoke-other-agent.md): Trigger another agent for additional processing or data handling.
+- [Invoke Web API](https://docs.agent.ai/api-reference/workflow-&-logic/invoke-web-api.md): Make a RESTful API call to external endpoints for data retrieval or updates.
+- [Store Variable to Database](https://docs.agent.ai/api-reference/workflow-&-logic/store-variable-to-database.md): The variable to store and track in the agent's database. You can later retrieve the latest or any number of previous values.
+- [[YT1] Generate YouTube Video Ideas](https://docs.agent.ai/api-reference/youtube-creator-team/[yt1]-generate-youtube-video-ideas.md): Generates 5-7 YouTube video idea cards with trending context for a given topic.
+- [[YT1_Report] YouTube Ideas Report](https://docs.agent.ai/api-reference/youtube-creator-team/[yt1_report]-youtube-ideas-report.md): Renders YouTube video ideas as a formatted HTML report with idea cards and trending context.
+- [[YT2] Generate YouTube Script](https://docs.agent.ai/api-reference/youtube-creator-team/[yt2]-generate-youtube-script.md): Generates a production-ready YouTube script for a given topic.
+- [[YT2_Report] YouTube Script Report](https://docs.agent.ai/api-reference/youtube-creator-team/[yt2_report]-youtube-script-report.md): Renders a YouTube script as a formatted HTML report with timed sections and production cues.
+- [[YT3] Generate Social Content](https://docs.agent.ai/api-reference/youtube-creator-team/[yt3]-generate-social-content.md): Generates repurposed social media content for 5 platforms (LinkedIn, Twitter/X, Instagram, Email, Blog) from a YouTube video topic.
+- [[YT3_Report] Social Content Report](https://docs.agent.ai/api-reference/youtube-creator-team/[yt3_report]-social-content-report.md): Renders cross-platform social content as an HTML report with per-platform sections.
+- [[YT4] Generate YouTube Packaging](https://docs.agent.ai/api-reference/youtube-creator-team/[yt4]-generate-youtube-packaging.md): Generates YouTube packaging (titles, description, tags, thumbnails) for a new or existing video.
+- [[YT4_Report] YouTube Packaging Report](https://docs.agent.ai/api-reference/youtube-creator-team/[yt4_report]-youtube-packaging-report.md): Renders YouTube packaging (titles, description, tags, thumbnails) as an HTML report.
+- [Knowledge Base & Files](https://docs.agent.ai/builder/kb-and-files.md)
+- [Lead Magnet](https://docs.agent.ai/builder/lead-magnet.md): Require opt-in before running an agent and automatically add leads to your CRM.
+- [Builder Overview](https://docs.agent.ai/builder/overview.md)
+- [Policy for Public Agents](https://docs.agent.ai/builder/public-agent-policy.md): This is the Agent.ai policy for publishing public agents. Below you’ll find the criteria your agent needs to meet to be published. Published agents can show up in search so other users can find and use them. This document should be viewed alongside our Terms of Service and Privacy Policy.
+- [Reviews And Feedback](https://docs.agent.ai/builder/reviews-and-feedback.md): Agent.ai provides a centralized place for builders to view, respond to, and manage feedback from users.
+- [Using Secrets in Agent.ai](https://docs.agent.ai/builder/secrets.md)
+- [Managing Serverless Functions](https://docs.agent.ai/builder/serverless-functions.md)
+- [Using Snippets in Agent.ai](https://docs.agent.ai/builder/snippets.md)
+- [Template Variables](https://docs.agent.ai/builder/template-variables.md): Use the variable syntax and curly braces button to insert data from previous actions into your workflow
+- [Using Agent.ai with HubSpot](https://docs.agent.ai/builder/using-hubspot.md): Start here to connect HubSpot, learn core patterns, and jump to actions, guides, and recipes.
+- [Using Agent.ai with Linkedin](https://docs.agent.ai/builder/using-linkedin.md): Agent.ai supports a set of LinkedIn data actions that allow builders to enrich agents with profile, company, job, and post-level information from LinkedIn.
+- [Explore and Clone Existing Agent Flows](https://docs.agent.ai/clone-agents.md): When builders allow others to view and clone their agents, it makes it easier for the community to explore how things work and build on top of them.
+- [Calendar Connections & Data Usage](https://docs.agent.ai/guides/using-agent-ai/connect-your-calendar.md): This document explains how calendar connections work in Agent.ai, what data is accessed, and how that data is used and protected.
+- [Best Practices](https://docs.agent.ai/knowledge-agents/best-practices.md): Advanced techniques and strategies for building exceptional knowledge agents
+- [Configuration](https://docs.agent.ai/knowledge-agents/configuration.md): Configure your knowledge agent's personality, welcome message, and conversation settings
+- [Conversations & Sharing](https://docs.agent.ai/knowledge-agents/conversations.md): Manage conversations, share your knowledge agent, and create great user experiences
+- [Knowledge Base](https://docs.agent.ai/knowledge-agents/knowledge-base.md): Train your knowledge agent with custom knowledge from documents, websites, videos, and more
+- [Knowledge Agents Overview](https://docs.agent.ai/knowledge-agents/overview.md): Build powerful AI assistants that think, converse, and take action
+- [Knowledge Agent Quickstart](https://docs.agent.ai/knowledge-agents/quickstart.md): Build your first action-taking knowledge agent in under 10 minutes
+- [Tools & Integration](https://docs.agent.ai/knowledge-agents/tools-integration.md): Give your knowledge agent the power to take action with workflow agents, MCP servers, and app integrations
+- [Troubleshooting](https://docs.agent.ai/knowledge-agents/troubleshooting.md): Diagnose and fix common issues with your knowledge agents
+- [How to Use Lists in For Loops](https://docs.agent.ai/lists-in-for-loops.md): How to transform multi-select values into a usable format in Agent.ai workflows
+- [LLM Models](https://docs.agent.ai/llm-models.md): Agent.ai provides a number of LLM models that are available for use.
+- [MCP Server](https://docs.agent.ai/mcp-server.md): Connect Agent.ai tools to ChatGPT, Claude, Cursor, and other AI assistants.
+- [How to Format Output for Better Readability](https://docs.agent.ai/output-formatting.md)
+- [Rate Limits](https://docs.agent.ai/ratelimits.md): Agent.ai implements rate limit logic to ensure a consistent user experience.
+- [Company Research Agent](https://docs.agent.ai/recipes/company-research-agent.md): How to build a Company Research agent in Agent.ai
+- [Executive News Agent](https://docs.agent.ai/recipes/executive-news-agent.md): How to build an Executive News agent
+- [Executive Tweet Analyzer Agent](https://docs.agent.ai/recipes/executive-tweet-analyzer.md): How to build an Executive Tweet Analyzer agent
+- [HubSpot Contact Enrichment](https://docs.agent.ai/recipes/hubspot-contact-enrichment.md): Automatically enrich contact records with company intelligence, news, and AI-powered insights whenever a contact is created or updated
+- [HubSpot Customer Onboarding](https://docs.agent.ai/recipes/hubspot-customer-onboarding.md): Automatically kickoff customer onboarding when deals close - analyze relationship history, generate personalized onboarding plans, and create timeline events with next steps
+- [HubSpot Deal Analysis](https://docs.agent.ai/recipes/hubspot-deal-analysis.md): Automatically analyze deals using AI, review timeline history, and update records with health scores and next-step recommendations
+- [LinkedIn Research Agent](https://docs.agent.ai/recipes/linkedin-research-agent.md): How to build a LinkedIn Research agent
+- [Community-Led Recipes](https://docs.agent.ai/recipes/overview.md)
+- [Calling Agents from Salesforce (SFDC)](https://docs.agent.ai/recipes/salesforce.md)
+- [Data Security & Privacy at Agent.ai](https://docs.agent.ai/security-privacy.md): Agent.ai prioritizes your data security and privacy with full encryption, no data reselling, and transparent handling practices. Find out how we protect your information while providing AI agent services and our current compliance status.
+- [Agent Run History](https://docs.agent.ai/user/agent-runs.md)
+- [Adding Agents to Your Team](https://docs.agent.ai/user/agent-team.md)
+- [Custom Instructions](https://docs.agent.ai/user/custom-instructions.md): Custom Instructions let you provide persistent context about your business and communication style so the agent can tailor its outputs automatically.
+- [Integrations](https://docs.agent.ai/user/integrations.md): Manage your third-party integrations, API credentials, and MCP settings.
+- [Better Prompt Agent](https://docs.agent.ai/user/premium-agents/better-prompt-agent.md)
+- [Company Research Agent](https://docs.agent.ai/user/premium-agents/company-research-agent.md)
+- [Competitive Brief Agent](https://docs.agent.ai/user/premium-agents/competitive-brief-agent.md)
+- [Meeting Follow-up Agent](https://docs.agent.ai/user/premium-agents/meeting-followup-agent.md)
+- [Meeting Prep Agent](https://docs.agent.ai/user/premium-agents/meeting-prep-agent.md)
+- [Agent.ai Pro: Features & Benefits](https://docs.agent.ai/user/pro-features.md): The Agent.ai Pro plan is designed for users who rely on multiple premium agents as part of their regular workflows.
+- [Profile Management](https://docs.agent.ai/user/profile.md): Create a builder profile to join the Agent.ai builder network or edit your existing profile details.
+- [Submit Agent Requests in Agent.ai](https://docs.agent.ai/user/request-an-agent.md)
+- [User Settings in Agent.ai](https://docs.agent.ai/user/settings.md)
+- [Welcome](https://docs.agent.ai/welcome.md)
+
+## OpenAPI Specs
+
+- [v1.1.0_openapi](https://docs.agent.ai/api-reference/v1/v1.1.0_openapi.json)
+- [v1.0.1_openapi](https://docs.agent.ai/api-reference/v1/v1.0.1_openapi.json)
+- [v1.0.0_openapi](https://docs.agent.ai/api-reference/v1/v1.0.0_openapi.json)
+
+## Optional
+
+- [Documentation](https://docs.agent.ai)
+- [Community](https://community.agent.ai)

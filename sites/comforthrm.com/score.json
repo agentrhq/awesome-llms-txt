@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "domain": "comforthrm.com",
+  "display_name": "ComfortHRM",
+  "category": "dev-tools",
+  "verified_url": "https://comforthrm.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:30Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 4369,
+  "last_modified": "Wed, 19 Nov 2025 18:30:47 GMT",
+  "freshness_age_days": 188,
+  "score": 55,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 15,
+      "reasons": [
+        "no_blockquote_summary",
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 11,
+      "reasons": [
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 3,
+      "reasons": [
+        "stale_188_days"
+      ],
+      "age_days": 188,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 4.3
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "ComfortHRM",
+    "h1_count": 1,
+    "blockquote": null,
+    "section_count": 8,
+    "subsection_count": 0,
+    "link_count": 30,
+    "value_link_count": 28,
+    "low_value_link_count": 2,
+    "raw_bytes": 4369
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

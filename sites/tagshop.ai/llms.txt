@@ -1,0 +1,67 @@
+# Large Language Model Crawling Instructions  
+# This file provides guidelines for LLMs to crawl and index content from Tagshop responsibly.
+
+User-agent: *  
+Allow: /
+
+# Tagshop - Generate AI UGC Videos for Ads in Minutes
+
+Generate stunning AI UGC ads in just minutes with Tagshop. Fast, easy, and effective video creation for every brand.
+
+# Organization Information  
+
+Organization: Tagshop
+Website: https://tagshop.ai
+Description: Tagshop is an AI-powered ugc ads platform designed to help brands create ugc-style videos using realistic ai avatars, automated scripts, and dynamic visuals. It streamlines the production of scalable, high-quality content for platforms like TikTok, and Meta.​
+
+## User Access and Community
+
+- [Login](https://tagshop.ai/login): Access your Tagshop account to create and manage your ai ugc videos.
+- [Join Creator's Community](https://creators.tagshop.ai/): Become part of Tagshop's community to collaborate and share insights with other creators.
+
+## Resources and Information
+
+- [Blog](https://tagshop.ai/blog): Explore articles and insights on ai ugc and its applications in marketing.
+
+## Pricing and Plans
+
+- [Tagshop Pricing & Plans](https://tagshop.ai/pricing): Review the various pricing options and plans available for using Tagshop's services.
+
+## Integrations and Features
+
+- [AI Avatars](https://tagshop.ai/ai-avatar): Generate high-quality, scalable AI UGC videos that look real, speak your script, and sell your products like pros. No shoots, no delays, just unreal ad performance.
+
+- [AI Script Writer](https://tagshop.ai/ai-script-writer): Eliminate the frustration of lengthy briefs and the back-and-forth communication with writers. Instead, obtain video scripts in minutes that are both accurate and efficient. Get ready-to-use videos in no time, thanks to AI that analyzes your product page. 
+
+- [URL to Video](https://tagshop.ai/url-to-video): Need to launch a campaign within 24 hours? Our AI transforms product links into ready-to-use videos at scale. No shoots. No waiting. Just results.
+
+- [AI Instagram Ads](https://tagshop.ai/ai-instagram-ads): With Tagshop.ai, you can create ready-to-use AI UGC ads for Instagram in seconds. Create loads of scroll-stopping videos and scale your ad campaigns without the usual delays.
+
+- [AI Facebook Ads](https://tagshop.ai/ai-facebook-ads): With Tagshop, you get a constant flow of engaging video variations to test faster, find what converts, and keep your Facebook ads performing at their peak.
+
+- [AI Tiktok Ads](https://tagshop.ai/ai-tiktok-ads): With AI-generated UGC videos, launch TikTok-ready ads in minutes, tailored to current trends, formats, and audience preferences.
+
+- [AI YouTube Ads](https://tagshop.ai/ai-youtube-ads): High-performing YouTube ads demand quality. With Tagshop’s AI-generated UGC, you get studio-quality, creator-style videos that look polished, feel authentic, and are built to perform.
+
+## Additional Information
+
+- [Sitemap - Tagshop](https://tagshop.ai/sitemap.xml): Navigate through the various sections of the Tagshop website.
+
+- [Sitemap - Blogs](https://tagshop.ai/blog/sitemap.xml): Navigate through the various blogs of the Tagshop.
+
+- [Privacy Policy - Tagshop](https://tagshop.ai/privacy-policy/): Understand how Tagshop handles user data and privacy.
+
+- [Tagshop Integrations](https://tagshop.ai/integration/): Explore the integrations available with Tagshop to enhance your video creation and marketing efforts.
+
+## Affiliate and Collaboration
+
+- [Affiliate - Tagshop](https://tagshop.ai/affiliate/): Join Tagshop's affiliate program to earn commissions by promoting their services.
+- [Collaboration Invitation Reject - Tagshop](https://tagshop.ai/invitation-reject/): Manage collaboration invitations within the Tagshop platform.
+
+## Accessibility and Support
+- [Accessibility - Tagshop](https://tagshop.ai/accessibility/): Information on how Tagshop ensures accessibility for all users. 
+
+This structured summary provides a comprehensive overview of the documentation related to Tagshop and its offerings for generating AI UGC video ads.
+
+# Preferred Contact  
+Contact: support@tagshop.ai

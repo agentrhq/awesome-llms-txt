@@ -1,0 +1,11 @@
+Sellm: AI Brand Monitoring & Generative Engine Optimization (GEO)
+Monitor how often your brand is mentioned on ChatGPT, Perplexity & more. Get insights for Generative Engine Optimization (GEO) and improve your AI visibility.
+
+Getting Started
+[Get Started](https://sellm.io/auth/login): This page provides an introduction to using Sellm for brand monitoring and generative engine optimization. It outlines the initial steps to set up your account and start tracking brand mentions across various AI platforms.
+
+Contact Information
+[info@sellm.io](mailto:info@sellm.io): For inquiries, support, or further information regarding Sellm's services, you can reach out via this email address.
+
+Resources
+[LLM Analysis Directory](http://sellm.io/): This directory contains a collection of resources and tools related to LLM analysis, offering insights and methodologies for optimizing your brand's presence in generative engines. 

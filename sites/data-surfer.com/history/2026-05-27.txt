@@ -1,0 +1,21 @@
+# Data Surfer
+
+Data Surfer is a B2B sales research platform for finding relevant companies, researching account fit, identifying key contacts, monitoring public signals, and preparing value-first outreach.
+
+Data Surfer is operated by Sure Scale Private Limited and based in Singapore.
+
+Canonical pages:
+- Homepage: https://data-surfer.com/
+- About: https://data-surfer.com/about
+- Pricing: https://data-surfer.com/pricing
+- How it works: https://data-surfer.com/how-it-works
+- Features: https://data-surfer.com/features
+- Changelog: https://data-surfer.com/changelog
+- Contact: https://data-surfer.com/contact
+- LinkedIn: https://www.linkedin.com/company/data-surfer
+- YouTube: https://www.youtube.com/@data-surfer
+
+Crawler policy:
+- Public marketing pages are crawlable.
+- Retired /company/ and /companies/ profile pages return 410 Gone.
+- See https://data-surfer.com/robots.txt for crawler rules.

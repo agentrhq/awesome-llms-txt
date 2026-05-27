@@ -1,0 +1,54 @@
+# Workflow Help Center 
+## Getting Started
+- [Why we made Workflow]: https://www.workflow.design/help/why-we-made-workflow-z858t.md
+- [Getting Started]: https://www.workflow.design/help/getting-started-bp2m5.md
+- [Getting Notified]: https://www.workflow.design/help/getting-notified-1o8td.md
+- [Sharing work]: https://www.workflow.design/help/sharing-work-nz2pu.md
+- [What Reviewers See]: https://www.workflow.design/help/what-reviewers-see-3ferr.md
+- [Feedback]: https://www.workflow.design/help/feedback-3xhmb.md
+- [Versions]: https://www.workflow.design/help/versions-472qi.md
+- [Approval]: https://www.workflow.design/help/approval-299p5.md
+- [How to View Videos and Transcriptions]: https://www.workflow.design/help/how-to-view-videos-and-transcriptions-skfya.md
+- [What creative formats does Workflow support?]: https://www.workflow.design/help/what-creative-formats-does-workflow-support-353dj.md
+- [Add images and creative assets to a task]: https://www.workflow.design/help/add-images-and-creative-assets-to-a-task-q0ec5.md
+
+## Working with Clients
+- [Shared Spaces]: https://www.workflow.design/help/shared-spaces-37ufa.md
+- [Inviting Guests to a Project]: https://www.workflow.design/help/inviting-guests-to-a-project-1qncm.md
+- [What Clients and Guests See in Workflow]: https://www.workflow.design/help/what-clients-and-guests-see-in-workflow-heevw.md
+
+## Managing Users
+- [Inviting Teammates]: https://www.workflow.design/help/inviting-teammates-2hcv6.md
+- [The Difference Between Teammates, Guests, and Share Links]: https://www.workflow.design/help/the-difference-between-teammates-guests-and-share-links-ct1uh.md
+- [How to enable guest video feedback in Workspace Settings]: https://www.workflow.design/help/how-to-enable-guest-video-feedback-in-workspace-settings-9hrpb.md
+- [Managing Roles and Permissions]: https://www.workflow.design/help/managing-roles-and-permissions-o1kpc.md
+- [Workspaces vs Projects]: https://www.workflow.design/help/workspaces-vs-projects-c8eff.md
+
+## Building a Workflow
+- [Task Management]: https://www.workflow.design/help/task-management-m6nt6.md
+- [Custom Statuses]: https://www.workflow.design/help/custom-statuses-2rlys.md
+- [Project and Task Templates]: https://www.workflow.design/help/project-and-task-templates-dmf6l.md
+- [How to Record and Share Video Feedback]: https://www.workflow.design/help/how-to-record-and-share-video-feedback-dduw2.md
+- [How to Upload Video Files]: https://www.workflow.design/help/how-to-upload-video-files-4hsai.md
+- [Keeping Track as a Manager]: https://www.workflow.design/help/keeping-track-as-a-manager-e8fyf.md
+
+## Integrations
+- [How to use the Figma integration in Workflow]: https://www.workflow.design/help/how-to-use-the-figma-integration-in-workflow-m0t4f.md
+- [How to connect Slack to Workflow]: https://www.workflow.design/help/how-to-connect-slack-to-workflow-byunt.md
+- [How to use Zapier with Workflow (BETA)]: https://www.workflow.design/help/how-to-use-zapier-with-workflow-beta-8dn6l.md
+- [How to use the Pixel Perfect Chrome Extension]: https://www.workflow.design/help/how-to-use-the-pixel-perfect-chrome-extension-0rn5s.md
+- [How to use the Photoshop integration in Workflow]: https://www.workflow.design/help/how-to-use-the-photoshop-integration-in-workflow-9sg80.md
+
+## Troubleshooting
+- [Troubleshooting Figma integration issues]: https://www.workflow.design/help/troubleshooting-figma-integration-issues-4ev96.md
+- [Troubleshooting Slack integration issues]: https://www.workflow.design/help/troubleshooting-slack-integration-issues-iqtbq.md
+- [Troubleshooting Zapier integration issues]: https://www.workflow.design/help/troubleshooting-zapier-integration-issues-dn4ox.md
+- [Troubleshooting Photoshop integration issues]: https://www.workflow.design/help/troubleshooting-photoshop-integration-issues-pfswi.md
+- [Troubleshooting video recording and transcription issues]: https://www.workflow.design/help/troubleshooting-video-recording-and-transcription-issues-zghpt.md
+- [Mobile Browser Support and Limitations]: https://www.workflow.design/help/mobile-browser-support-and-limitations-ltslf.md
+- [How to fix embedded website issues in Workflow]: https://www.workflow.design/help/how-to-fix-embedded-website-issues-in-workflow-2jpyu.md
+- [Why isn't my embedded website working in Workflow?]: https://www.workflow.design/help/why-isnt-my-embedded-website-working-in-workflow-upauz.md
+
+## Features
+This helpdesk is powered by Ferndesk. Visit us at https://ferndesk.com 
+

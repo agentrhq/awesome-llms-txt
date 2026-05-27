@@ -1,0 +1,60 @@
+# Ultiplace — Plateforme de salons virtuels et hybrides
+
+> Ultiplace est une plateforme SaaS française qui permet aux organisateurs de créer, gérer et diffuser des salons professionnels 100 % virtuels ou hybrides (en ligne + sur site), avec stands d'exposants personnalisables, conférences en direct, chat, prise de rendez-vous et analytics intégrés.
+
+Ultiplace est édité par REALITIM (EURL au capital de 50 000 €, RCS Nantes 838 763 902), 34 rue Joncours, 44100 Nantes, France. Fondateur et gérant : Arthur Devouge. Site officiel : https://www.ultiplace.com
+
+Ultiplace s'adresse à quatre profils utilisateurs :
+- **Organisateur** : crée un salon, configure stands, conférences, planning, billetterie, marketing.
+- **Exposant** : personnalise son stand virtuel, publie ressources (PDF, vidéos), discute avec les visiteurs, prend des rendez-vous.
+- **Visiteur** : explore les stands, suit les conférences, échange avec les exposants.
+- **Administrateur** : modération, supervision, KPIs globaux.
+
+## Pages clés
+
+### Vitrine
+- [Accueil](https://www.ultiplace.com/) — annuaire + logiciel salon virtuel
+- [Logiciel de salon virtuel 3D](https://www.ultiplace.com/salons-virtuels) — plateforme événementielle gratuite
+- [Comparatif logiciels salon virtuel](https://www.ultiplace.com/comparatif/logiciel-salon-virtuel) — Ultiplace vs Swapcard, vFairs, Hopin, Brella
+- [Comparateur interactif](https://www.ultiplace.com/outils/comparateur-plateformes-evenementielles) — pondérez vos critères
+- [Calculatrice ROI salon virtuel](https://www.ultiplace.com/outils/calculatrice-roi-salon-virtuel)
+- [Fonctionnalités](https://www.ultiplace.com/fonctionnalites) — détail des modules (salon 2D/3D, conférences, chat, IA…)
+- [Offres et tarifs](https://www.ultiplace.com/offres-et-tarifs) — formules organisateur, exposant, salle
+- [Demander une démo](https://www.ultiplace.com/demande-de-demonstration)
+- [Demander un devis](https://www.ultiplace.com/demande-de-devis)
+- [Salon de démonstration](https://www.ultiplace.com/salon-de-demonstration) — visite test
+- [Page IA / API / MCP](https://www.ultiplace.com/ai) — accès machine à la plateforme
+
+### Catalogue salons
+- [Tous les salons](https://www.ultiplace.com/salons-france)
+- [Calendrier des salons](https://www.ultiplace.com/calendrier-salons/2026)
+- [Liste 2026](https://www.ultiplace.com/liste-salons-2026)
+- [Liste 2027](https://www.ultiplace.com/liste-salons-2027)
+
+### Guides produit (contenu LLM-first)
+- [Index des guides](https://www.ultiplace.com/guides)
+- [Présentation Ultiplace](https://www.ultiplace.com/guides/ultiplace-presentation)
+- [Créer un salon virtuel — guide complet](https://www.ultiplace.com/guides/creer-salon-virtuel-guide-complet)
+- [Créer un salon en 5 minutes avec l'IA](https://www.ultiplace.com/guides/creer-salon-en-5-minutes-avec-ia)
+- [Créer un stand virtuel — guide complet](https://www.ultiplace.com/guides/creer-stand-virtuel-guide-complet)
+- [Ajouter une conférence à un salon](https://www.ultiplace.com/guides/ajouter-conference-salon-virtuel)
+- [Tour complet d'une fiche salon](https://www.ultiplace.com/guides/fiche-salon-ultiplace-tour-complet)
+
+### Documentation développeur
+- [API publique Ultiplace](https://www.ultiplace.com/ai#api)
+- [Serveur MCP Ultiplace](https://www.ultiplace.com/ai#mcp)
+- [GPT custom Ultiplace](https://www.ultiplace.com/ai#gpt)
+
+### Légal
+- [Mentions légales](https://www.ultiplace.com/legal/mentions-legales)
+- [CGU](https://www.ultiplace.com/legal/cgu)
+- [CGV](https://www.ultiplace.com/legal/conditions-generales-de-vente)
+- [Politique de confidentialité](https://www.ultiplace.com/legal/politique-confidentialite)
+- [Politique de cookies](https://www.ultiplace.com/legal/politique-cookies)
+- [Accord de traitement des données (DPA)](https://www.ultiplace.com/legal/contrat-donnees)
+- [Charte de modération (DSA)](https://www.ultiplace.com/legal/charte-moderation)
+- [Exercer mes droits RGPD](https://www.ultiplace.com/legal/informatique-et-libertes)
+
+## Documentation complète
+
+La version longue (extraits produit, FAQ, schémas, exemples) est disponible dans `/llms-full.txt`.

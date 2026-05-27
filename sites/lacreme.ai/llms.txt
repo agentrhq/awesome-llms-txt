@@ -1,0 +1,172 @@
+# Lacreme.ai
+
+> L'annuaire francophone de référence des meilleurs outils d'intelligence artificielle. Plus de 2 000 outils IA testés et évalués selon une méthodologie stricte basée sur quatre critères : Performance, Rapport qualité-prix, Facilité d'utilisation et Confidentialité des données.
+
+Ce fichier suit la spécification llmstxt.org. Il expose une carte structurée du site pour les agents IA (ChatGPT, Claude, Perplexity, Google AI Overviews) afin de faciliter l'indexation et la citation.
+
+Versions linguistiques :
+- Français (canonique) : https://www.lacreme.ai
+- English : https://www.lacreme.ai/en
+- Deutsch : https://www.lacreme.ai/de
+
+Pour la version exhaustive avec descriptions complètes : https://www.lacreme.ai/llms-full.txt
+
+## Catégories principales
+
+- [R & D](https://www.lacreme.ai/categorie/r-d): Découvrez les meilleurs outils IA R & D pour innover et avancer dans vos projets de recherche.
+- [A/B test](https://www.lacreme.ai/categorie/a-b-test): Découvrez les meilleurs outils IA A/B Test pour optimiser vos stratégies de marketing.
+- [Analyse de données](https://www.lacreme.ai/categorie/analyse-de-donnees): Découvrez les meilleurs outils IA Analyse de données pour une compréhension approfondie de vos données.
+- [Argent](https://www.lacreme.ai/categorie/argent): Découvrez des outils d’IA pour optimiser vos finances, analyser les marchés, bâtir des budgets précis et prévoir la trésorerie pour des décisions éclairées.
+- [Assistant](https://www.lacreme.ai/categorie/assistant): Découvrez les meilleurs outils IA Assistant pour améliorer votre productivité quotidienne.
+- [Audio](https://www.lacreme.ai/categorie/audio): Découvrez les meilleurs outils IA Audio pour une création et une édition sonores de qualité.
+- [Automatisation](https://www.lacreme.ai/categorie/automatisation): Découvrez les meilleurs outils IA Automatisation pour simplifier et accélérer vos processus.
+- [Branding](https://www.lacreme.ai/categorie/branding): Découvrez les meilleurs outils IA Branding pour renforcer l'identité de votre marque.
+- [Carte](https://www.lacreme.ai/categorie/carte): Découvrez les meilleurs outils IA Carte pour une visualisation et une analyse géographiques précises.
+- [Carte mentale](https://www.lacreme.ai/categorie/carte-mentale): Découvrez les meilleurs outils IA Carte mentale pour organiser vos idées de manière innovante.
+- [Chatbot](https://www.lacreme.ai/categorie/chatbot): Découvrez les meilleurs outils IA Chatbot pour améliorer l'interaction client automatique.
+- [Code](https://www.lacreme.ai/categorie/code): Découvrez les meilleurs outils IA Code pour une programmation plus efficace et intuitive.
+- [Communication](https://www.lacreme.ai/categorie/communication): Découvrez les meilleurs outils IA Communication pour des échanges plus fluides et efficaces.
+- [Copywriting](https://www.lacreme.ai/categorie/copywriting): Découvrez les meilleurs outils IA Copywriting pour du contenu impactant et engageant.
+- [CRM](https://www.lacreme.ai/categorie/crm): Découvrez les meilleurs outils IA CRM pour optimiser la gestion de vos relations clients.
+- [Décoration](https://www.lacreme.ai/categorie/decoration): Découvrez les meilleurs outils IA Décoration pour transformer vos espaces avec créativité.
+- [Design](https://www.lacreme.ai/categorie/design): Découvrez les meilleurs outils IA Design pour une création visuelle captivante et professionnelle.
+- [Design UX/UI](https://www.lacreme.ai/categorie/design-ux-ui): Découvrez les meilleurs outils IA Design UX/UI pour une expérience utilisateur optimale.
+- [Détection IA](https://www.lacreme.ai/categorie/detection-ia): Découvrez les meilleurs outils IA Détection pour une analyse et une reconnaissance avancées.
+- [Divertissement](https://www.lacreme.ai/categorie/divertissement): Découvrez les meilleurs outils IA Divertissement pour une nouvelle ère de loisirs interactifs.
+
+## Professions
+
+- [Outils IA pour Affilié](https://www.lacreme.ai/profession/affilie): Découvrez les Avantages IA pour Affilié pour décupler vos revenus. Exploitez l’IA pour booster votre marketing d’affiliation dès aujourd’hui !
+- [Outils IA pour Agence](https://www.lacreme.ai/profession/agence): Découvrez comment les avantages IA pour agence peuvent révolutionner votre efficacité, stimuler l'innovation et propulser votre entreprise au sommet.
+- [Outils IA pour Artiste](https://www.lacreme.ai/profession/artiste): Découvrez des outils IA pour artistes, stimulant la créativité et la production artistique.
+- [Outils IA pour Autre](https://www.lacreme.ai/profession/autre): Découvrez comment les avantages IA pour autres professions peuvent révolutionner votre métier et vous ouvrir de nouvelles opportunités.
+- [Outils IA pour Avocats](https://www.lacreme.ai/profession/avocats): Avantages IA pour Avocats : Révolutionnez votre pratique juridique et boostez votre efficacité grâce à l'IA dès aujourd'hui.
+- [Outils IA pour Coach](https://www.lacreme.ai/profession/coach): Avantages IA pour Coach : Découvrez comment l'intelligence artificielle peut booster votre performance de coaching et transformer vos méthodes.
+- [Outils IA pour Créateur de contenu](https://www.lacreme.ai/profession/createur-de-contenu): Découvrez les avantages IA pour créateur de contenu et apprenez à dominer votre marché grâce à l'intelligence artificielle innovante.
+- [Outils IA pour Créateur de contenu exclusif](https://www.lacreme.ai/profession/contenu-exclusif): Avantages IA pour créateur de contenu exclusif : découvrez comment l'IA enrichit votre créativité et booste votre production.
+- [Outils IA pour Développeurs](https://www.lacreme.ai/profession/developpeur): Découvrez comment les avantages IA pour développeur peuvent accélérer votre succès, optimiser vos projets et révolutionner votre manière de coder.
+- [Outils IA pour E-commercant](https://www.lacreme.ai/profession/e-commerce): Découvrez les avantages IA pour E-commercant : boostez vos ventes en ligne, optimisez votre boutique et surpassez la concurrence grâce à l'intelligence…
+- [Outils IA pour Enseignant](https://www.lacreme.ai/profession/enseignant): Avantages IA pour enseignant : boostez votre enseignement et gagnez du temps grâce à des outils qui personnalisent l'apprentissage.
+- [Outils IA pour Entrepreneur](https://www.lacreme.ai/profession/entrepreneur): Découvrez les avantages IA pour entrepreneur : optimisez vos processus, innovez et accélérez votre réussite grâce à l'IA.
+- [Outils IA pour Entreprise](https://www.lacreme.ai/profession/entreprise): Découvrez les avantages IA pour entreprise et propulsez votre succès en 2025. Optimisez vos performances grâce à l'intelligence artificielle.
+- [Outils IA pour Étudiant](https://www.lacreme.ai/profession/etudiant): Découvrez les Avantages IA pour Étudiant et comment l'intelligence artificielle transforme votre apprentissage pour une réussite optimale.
+- [Outils IA pour Freelance](https://www.lacreme.ai/profession/freelance): Découvrez les avantages IA pour freelance et comment l'IA peut vous aider à dominer le marché en 2025 en optimisant votre productivité et en vous démarquant.
+- [Outils IA pour Gamer](https://www.lacreme.ai/profession/gamer): Découvrez les avantages IA pour gamer : maîtrisez l'IA pour gagner et révolutionnez votre expérience de jeu.
+- [Outils IA pour Investisseur](https://www.lacreme.ai/profession/investisseur): Avantages IA pour Investisseur : Maximisez vos gains dès 2025 avec l'intelligence artificielle. Profitez de cette opportunité.
+- [Outils IA pour Médecins](https://www.lacreme.ai/profession/medecins): Avantages IA pour Médecins : découvrez comment l'intelligence artificielle transforme votre pratique en optimisant diagnostics et soins.
+- [Outils IA pour Mode](https://www.lacreme.ai/profession/mode): Découvrez les Avantages IA pour Mode et voyez comment l'intelligence artificielle peut révolutionner votre entreprise pour dominer le marché.
+- [Outils IA pour Particulier](https://www.lacreme.ai/profession/particulier): Avantages IA pour Particulier : Découvrez comment l’IA peut révolutionner votre quotidien, simplifier vos tâches et booster votre productivité.
+- [Outils IA pour SaaS](https://www.lacreme.ai/profession/saas): Les Avantages IA pour SaaS transforment votre entreprise. Découvrez comment l'IA peut vous aider à dominer votre marché dès aujourd'hui.
+- [Outils IA pour Startup](https://www.lacreme.ai/profession/startup): Avantages IA pour Startup : En 2025, propulsez votre startup en améliorant productivité et compétitivité grâce à l'intelligence artificielle.
+- [Outils IA pour Tradeur](https://www.lacreme.ai/profession/tradeur): Découvrez les avantages IA pour tradeur et comment l'IA révolutionne le trading pour décupler vos profits en 2025.
+
+## Fonctionnalités
+
+- [API](https://www.lacreme.ai/fonctionnalites/api): Découvrez la définition logiciel IA API et comment intégrer l'IA à vos applications pour révolutionner votre business.
+- [App Shopify](https://www.lacreme.ai/fonctionnalites/app-shopify): Découvrez la définition outil IA Open source et révolutionnez votre travail grâce à ces technologies accessibles à tous. Transformez votre productivité dès…
+- [Application mobile](https://www.lacreme.ai/fonctionnalites/application-mobile): Découvrez la définition Application mobile IA et comment l'Intelligence Artificielle transforme les applications mobiles pour dominer le marché.
+- [Extension web](https://www.lacreme.ai/fonctionnalites/extension-web): Découvrez la définition Extension web IA et maîtrisez l'innovation en 2025 grâce à ces outils qui révolutionnent votre expérience en ligne.
+- [Logiciel PC](https://www.lacreme.ai/fonctionnalites/logiciel-pc): Découvrez la définition Logiciel PC IA et apprenez comment ces outils peuvent vous aider à dominer votre marché dès aujourd'hui.
+- [Open source](https://www.lacreme.ai/fonctionnalites/open-source): Découvrez la définition outil IA Open source et révolutionnez votre travail grâce à ces technologies accessibles à tous. Transformez votre productivité dès…
+- [Vérifié](https://www.lacreme.ai/fonctionnalites/verifie): Découvrez la définition outils IA Vérifié et boostez votre entreprise grâce à des solutions d'intelligence artificielle fiables et innovantes.
+
+## Articles incontournables
+
+- [Comparatif ultime des 30 meilleurs et pires logiciels SEO LLM pour ranker dans les IA (GEO)](https://www.lacreme.ai/post/comparatif-30-logiciels-seo-llms-geo): Comparatif 30 logiciels SEO LLM/GEO 2026 : Sorank, Profound, Surfer, Otterly, Goodie. ChatGPT bat Reddit en trafic. Conversion 15,9%.
+- [Meilleure IA Copywriting en 2026 : Quel Outil Choisir ?](https://www.lacreme.ai/post/meilleure-ia-copywriting): Meilleure IA copywriting en 2026 : top 10 des outils, marché 1,9 milliard $. ChatGPT, Jasper, Copy.ai, Writesonic comparés pour rédacteurs et marketeurs.
+- [Top 10 des meilleures agences SEO IA en France (2025) – le guide ultra-complet](https://www.lacreme.ai/post/10-meilleurs-agence-seo-ia): Top 10 agences SEO IA en France 2026 : 144 agences SEO, marché en transformation. Découvrez les leaders qui combinent IA, GEO et expertise métier.
+- [10 meilleurs outils pour suivre la visibilité de marque dans la recherche IA](https://www.lacreme.ai/post/10-meilleurs-outils-suivre-visibilite-marque-recherche-ia): Top 10 outils visibilité marque dans recherche IA en 2026. ChatGPT, Perplexity, AI Overviews captent 60 % des requêtes B2B. Sorank, Otterly, Profound testés.
+- [Comment choisir les bons outils IA - Guide anti-burnout pour entrepreneur](https://www.lacreme.ai/post/comment-choisir-les-bons-outils-ia-guide-anti-burnout): Comment choisir les bons outils IA en 2026 sans burnout : méthode 4 étapes, top 10, marché 638 milliards $. Guide pratique pour freelances et entreprises.
+- [omment être référencé dans ChatGPT et les IA génératives LLMS en 2025 ? (Guide SEO IA)](https://www.lacreme.ai/post/comment-etre-reference-dans-chatgpt-et-les-ia-generatives): Référencement dans ChatGPT et IA générative en 2026 : ChatGPT bat Reddit en trafic référent. Méthode GEO complète, 6 piliers, conversion 15,9%.
+- [L’IA au service de la sécurité des paiements en ligne](https://www.lacreme.ai/post/ia-cybersecurite): Sécurisez votre e-commerce avec l'IA en 2026 : marché à 25,53 Md USD, fraude bloquée en temps réel et 18 % de conversion en plus.
+- [Qwen 2.5 : L'IA d'Alibaba qui Menace DeepSeek & GPT-o1](https://www.lacreme.ai/post/qwen-2-5-lia-dalibaba-qui-menace-deepseek-gpt-o1): Qwen 2.5 d'Alibaba en 2026 : surpasse DeepSeek V3 sur Arena-Hard, GSM8K (94,5). Architecture MoE, 20T tokens. Concurrent direct GPT-o1.
+- [DeepSeek : Tout Comprendre sur la Nouvelle Révolution de l’IA](https://www.lacreme.ai/post/deepseek-tout-comprendre-sur-la-nouvelle-revolution-de-lia): DeepSeek en 2026 : modèle R1 95 % moins cher qu'OpenAI, V4 sorti en avril, 33,7 M utilisateurs et 600 Md USD effacés en bourse en 1 jour.
+- [Paperclip en Français : Le jeu du trombone Alignement de l'IA](https://www.lacreme.ai/post/paperclip-en-francais-le-jeu-du-trombone-alignement-de-lia): Universal Paperclips : le jeu du trombone qui illustre l'alignement IA en 2026. Découvrez la thèse de Bostrom, le risque existentiel et les enjeux d'AI safety.
+- [Les solutions IA qui transforment les PME : quand l’automatisation devient un allié incontournable](https://www.lacreme.ai/post/solutions-ia-pme-automatisation): Solutions IA pour PME en 2026 : 91 % des SMB voient leur revenu augmenter, +20-25 % de productivité. Outils, étapes et budget pour démarrer.
+- [Top 3 des médias sur l'intelligence artificielle](https://www.lacreme.ai/post/top-3-ia-medias): Top 3 des médias IA en 2026 : MIT Technology Review, WIRED et Forbes. Décryptage des sources les plus fiables pour suivre l'IA.
+- [Prospection LinkedIn IA : Outils et Stratégies](https://www.lacreme.ai/post/prospection-linkedin-ia): Prospection LinkedIn avec IA en 2026 : marché à 850 M USD (+42 %/an). Outils, scripts, automatisation. 81 % des équipes commerciales s'y sont mises.
+- [Poruquoi l'IA menace streaming : Révolution de la personnalisation](https://www.lacreme.ai/post/ia-menace-streaming): IA menace streaming musical 2026 : 44% des uploads Deezer générés par IA, écoutes <3% mais frauduleuses. Risque revenus artistes, régulation.
+- [Intelligence Artificielle : Révolution de l'Organisation des Evénements Culturels](https://www.lacreme.ai/post/evenements-culturels-ia): L'IA dans l'événementiel culturel en 2026 : programmation, billetterie dynamique, expérience immersive. Marché global : 1 700 Md USD avec +12 % de croissance…
+- [L'IA dans les Salles de spectacle : Révolution scénique](https://www.lacreme.ai/post/ia-salles-de-spectacle): IA salles de spectacle 2026 : marché live 100+ Mds$. Billetterie dynamique, anti-bot, recommandation, scénographie augmentée. Outils, prix.
+- [Comment l'IA transforme notre consommation de loisirs](https://www.lacreme.ai/post/ia-industrie-divertissement): L'IA dans le divertissement en 2026 : marché 99 milliards $, croissance 26 %. Cinéma, musique, jeu vidéo, streaming et création générative transformés.
+- [Evénements sportifs : Le rôle clé de l'intelligence artificielle pour les organisateurs](https://www.lacreme.ai/post/ia-evenements-sportifs): L'IA dans les événements sportifs en 2026 : 85 % des fans plébiscitent l'IA, marché de l'analyse sportive à 1,87 Md USD en Europe.
+- [L'IA en salle de sport : Une révolution pour vos entraînements](https://www.lacreme.ai/post/ia-salle-de-sport): L'IA en salle de sport en 2026 : marché AI fitness à 10,68 Md USD, +25 % de rétention membres et 71 % d'utilisateurs plus actifs avec un coach IA.
+- [Intelligence artificielle : Quelle est l'influence sur les marques d'équipement sportif ?](https://www.lacreme.ai/post/influence-ia-marques-sportives): Influence de l'IA sur les marques sportives en 2026 : Nike, Adidas, Decathlon. Le marché IA dans le sport atteindra 29,7 Md USD d'ici 2032 avec +30 % de…
+- [Intelligence artificielle dans le sport : Révolution et innovations pour les athlètes et les fans](https://www.lacreme.ai/post/ia-dans-le-sport): L'IA dans le sport en 2026 : marché 7,3 milliards $, croissance 27 %. Performance des athlètes, analyse vidéo, paris et expérience fans révolutionnés.
+- [Comment les startups de l'alimentation utilisent l'IA pour révolutionner notre manière de manger](https://www.lacreme.ai/post/foodtech-ia): FoodTech IA en 2026 : marché AI food à 18,34 Md USD, 72 % des startups intègrent l'IA et 67 % des investisseurs ciblent l'alimentation augmentée.
+- [Intelligence artificielle et producteurs locaux : la révolution agricole numérique en action](https://www.lacreme.ai/post/ia-producteurs-locaux): L'IA pour les producteurs locaux en 2026 : marché agriculture AI à 3,37 Md USD, +25 % de rendements et 120 % de ROI pour les petits exploitants.
+- [Découverte : Comment l'intelligence artificielle transforme le secteur agroalimentaire](https://www.lacreme.ai/post/comment-lia-transforme-le-secteur-agroalimentaire): L'IA dans l'agroalimentaire en 2026 : marché 14,2 milliards $, croissance 39 %. Production, traçabilité, qualité et durabilité des aliments transformés.
+- [Intelligence Artificielle en Institut de Beauté : Révolution des Prestations Personnalisées](https://www.lacreme.ai/post/ia-institut-de-beaute): IA institut de beauté 2026 : diagnostic peau 95% précision, no-show -50,7%, 64% des clients utilisent l'IA pour leurs achats beauté.
+
+## Outils IA populaires
+
+- [Sorank (Essai gratuit)](https://www.lacreme.ai/outil/sorank): Rankez 1er sur les LLMs (IA).
+- [Adcreative.ai (Essai gratuit)](https://www.lacreme.ai/outil/adcreative-ai): Générez des publicités axées sur la conversion avec l'IA.
+- [Ai Lawyer (Essai gratuit)](https://www.lacreme.ai/outil/ai-lawyer): Une assistance juridique personnalisée
+- [AI SuitUp (Payant)](https://www.lacreme.ai/outil/ai-suitup): Créez vos portraits professionnels grâce à l'IA.
+- [AI SWOT Analysis (Essai gratuit)](https://www.lacreme.ai/outil/ai-swot-analysis): Générer des SWOT, PESTEL et persona sans effort.
+- [AI-writer (Essai gratuit)](https://www.lacreme.ai/outil/ai-writer): Générez des textes optimisés pour SEO.
+- [AiEasyUse (Essai gratuit)](https://www.lacreme.ai/outil/2ai): Générez votre contenu en ligne rapidement.
+- [Altered (1er plan gratuit)](https://www.lacreme.ai/outil/altered): Transformez votre voix avec Altered Studio
+- [Artflow.ai (1er plan gratuit)](https://www.lacreme.ai/outil/artflow): Créez des mondes, des personnages et des scènes uniques
+- [Artlist (Essai gratuit)](https://www.lacreme.ai/outil/artlist): Optimisez vos créations vidéo avec des ressources variées.
+- [Audioread (Essai gratuit)](https://www.lacreme.ai/outil/audioread): Écouter des articles, des PDF, des e-mails, etc...
+- [Bardeen (Essai gratuit)](https://www.lacreme.ai/outil/bardeen): Automatisez vos tâches répétitives avec Bardeen AI.
+- [Beautiful (Payant)](https://www.lacreme.ai/outil/beautiful-ai): Créez des présentations rapidement avec l'IA.
+- [Bertha.ai (Payant)](https://www.lacreme.ai/outil/bertha-ai): Accélérez votre rédaction sur WordPress et Chrome
+- [Bitget (Gratuit)](https://www.lacreme.ai/outil/bitget): Investissez facilement en cryptos avec des robots IA
+- [Browse AI (Essai gratuit)](https://www.lacreme.ai/outil/browse-ai): Entraînez un robot à surveiller les données d'un site.
+- [Bubble (Essai gratuit)](https://www.lacreme.ai/outil/bubble): Révolutionnez la création de logiciel sans code.
+- [Caspa (Essai gratuit)](https://www.lacreme.ai/outil/caspa): L'avenir de la photographie e-commerce
+- [Castmagic (Payant)](https://www.lacreme.ai/outil/castmagic): Transformez vos audios en contenus.
+- [Chatbase (1er plan gratuit)](https://www.lacreme.ai/outil/chatbase): Transformez vos données en chatbot interactif avec Chatbase.
+- [Chatling (1er plan gratuit)](https://www.lacreme.ai/outil/chatling): Créer des chatbots IA personnalisés sans coder
+- [ChatPDF (1er plan gratuit)](https://www.lacreme.ai/outil/chatpdf): Transformez vos PDF en discussions interactives avec l’IA.
+- [Cheat Layer (Essai gratuit)](https://www.lacreme.ai/outil/cheat-layer): Automatiser votre entreprise en utilisant le langage naturel
+- [Clippie (Essai gratuit)](https://www.lacreme.ai/outil/clippie): Réalisez des vidéos captivantes en secondes.
+- [Codepal (1er plan gratuit)](https://www.lacreme.ai/outil/codepal): Générer du code en ligne avec l'IA
+- [Cody (Payant)](https://www.lacreme.ai/outil/cody): Maximisez la performance de votre entreprise.
+- [Cogniflow (1er plan gratuit)](https://www.lacreme.ai/outil/cogniflow): Optimisez le copywriting pour réseaux sociaux
+- [Cohesive (1er plan gratuit)](https://www.lacreme.ai/outil/cohesive): Créez, éditez et publiez du contenu.
+- [Colossyan (Essai gratuit)](https://www.lacreme.ai/outil/colossyan): Créez des vidéos à partir de texte et traduisez-les
+- [Content At Scale (Essai gratuit)](https://www.lacreme.ai/outil/content-at-scale): Optimisez votre contenu avec ce détecteur d'IA
+- [Copyleaks (Payant)](https://www.lacreme.ai/outil/copyleaks): Améliorez votre contenu avec l'Intelligence Artificielle
+- [Copymatic (Essai gratuit)](https://www.lacreme.ai/outil/copymatic): Améliorez votre création de contenu rapidement grâce à l'IA.
+- [CoverDoc (Essai gratuit)](https://www.lacreme.ai/outil/cover-doc): Accélérez votre recherche d'emploi grâce à l'IA.
+- [Creaitor (Payant)](https://www.lacreme.ai/outil/creaitor): Générez du contenu multilingue pour vos réseaux sociaux.
+- [Deepbrain (1er plan gratuit)](https://www.lacreme.ai/outil/deepbrain): Créer des vidéos rapidement à partir de texte.
+- [Descript (1er plan gratuit)](https://www.lacreme.ai/outil/descript): Réalisez des vidéos et podcasts avec Descript, simplement.
+- [Dreamlike (1er plan gratuit)](https://www.lacreme.ai/outil/dreamlike): Générez des oeuvres originales rapidement.
+- [Dropship (Essai gratuit)](https://www.lacreme.ai/outil/dropship): Trouvez le produit gagnant pour votre boutique e-commerce.
+- [Easy peasy (Essai gratuit)](https://www.lacreme.ai/outil/easy-peasy): L'IA tout en un pour votre création de contenu
+- [ElevenLabs (Essai gratuit)](https://www.lacreme.ai/outil/elevenlabs): Transformez des textes en voix ultra réalistes.
+- [FineShare (Payant)](https://www.lacreme.ai/outil/fineshare): Optimisez vos vidéos et conférences avec FineShare.
+- [Fliki (1er plan gratuit)](https://www.lacreme.ai/outil/fliki): Transformer du texte, script et article de blog en vidéo.
+- [Framer (Essai gratuit)](https://www.lacreme.ai/outil/framer): Créez des sites complets à l'aide d'une seule phrase.
+- [Frase (Payant)](https://www.lacreme.ai/outil/frase): Optimisez votre contenu pour un meilleur référencement.
+- [Gling AI (1er plan gratuit)](https://www.lacreme.ai/outil/gling-ai): Coupez les silences de vos vidéos automatiquement.
+- [GPTzero (Essai gratuit)](https://www.lacreme.ai/outil/gptzero): Détection de contenu IA
+- [Headshotpro (Payant)](https://www.lacreme.ai/outil/headshotpro): Obtenez des portraits professionnels instantanément.
+- [HeyGen (Essai gratuit)](https://www.lacreme.ai/outil/heygen): Générez des vidéos ultra réaliste à partir de textes.
+- [HoppyCopy (Essai gratuit)](https://www.lacreme.ai/outil/hoppycopy): Rédigez de meilleures campagnes par e-mail, x10 plus vite
+- [Humata AI (Essai gratuit)](https://www.lacreme.ai/outil/humata-ai): Obtenez des réponses sur n'importe quel document.
+
+## Pages utiles
+
+- [Classement des meilleurs outils IA](https://www.lacreme.ai/classement)
+- [Tous les outils IA](https://www.lacreme.ai/outil)
+- [Tous les articles](https://www.lacreme.ai/post)
+- [Toutes les catégories](https://www.lacreme.ai/categorie)
+- [Toutes les professions](https://www.lacreme.ai/profession)
+- [À propos / Auteur](https://www.lacreme.ai/auteur)
+- [Newsletter IA](https://www.lacreme.ai/newsletter-ia)
+- [Soumettre un outil](https://www.lacreme.ai/lister-un-outil)
+- [Contact](https://www.lacreme.ai/contact)
+- [Plan du site](https://www.lacreme.ai/plan-du-site)
+- [Sitemap XML](https://www.lacreme.ai/sitemap.xml)
+
+## Méthodologie
+
+Chaque outil est noté selon quatre critères pondérés : Performance (qualité des résultats), Rapport qualité-prix, Facilité d'utilisation, et Confidentialité des données. Les outils notés "vérifiés" ont été testés en conditions réelles par l'équipe éditoriale.
+
+Éditeur : Benjamin Roux — fondateur et directeur de la publication.

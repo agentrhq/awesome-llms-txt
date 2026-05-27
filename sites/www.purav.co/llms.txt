@@ -1,0 +1,17 @@
+# Purav Parab's personal website
+
+> This is Purav Parab's personal website. Purav Parab is a software engineer and this website aims to showcase his projects, reading and other content.
+
+## Pages
+
+- [Home](https://www.purav.co): Homepage
+- [Reading](https://www.purav.co/reading): Reading list
+- [Projects](https://www.purav.co/projects): A list of projects
+- [Tech Stack](https://www.purav.co/techstack): Technology Stack
+- [Contact](https://www.purav.co/contact): How to contact Purav Parab
+
+## Contact
+- [X/Twitter](https://www.purav.co/contact/x): X.com or twitter profile
+- [Github](https://www.purav.co/contact/github): Github profile
+- [Email](puravparab+llms@gmail.com): Email address
+- [Linkedin](https://www.purav.co/contact/linkedin): Linkedin profile

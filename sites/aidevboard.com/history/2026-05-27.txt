@@ -1,0 +1,207 @@
+# AI Dev Jobs
+> The specialized job board for AI and machine learning developers, with agent-ready search over current AI/ML roles.
+
+## About
+AI Dev Jobs (aidevboard.com) is built specifically for AI/ML engineers. Every listing is filtered for AI relevance - no generalist roles. The board includes company pages, salary context, REST endpoints, and an MCP server for agentic job search.
+
+## Quick Start for Agents
+
+Base URL: https://aidevboard.com/api/v1
+OpenAPI spec: https://aidevboard.com/openapi.yaml
+MCP server: https://aidevboard.com/mcp  (JSON-RPC 2.0 over streamable-http; 13 tools: search_jobs, get_job, get_similar_jobs, list_companies, get_company, get_stats, match_jobs, get_salary_data, list_tags, get_trending_companies, list_products, quote_product, start_checkout)
+  Install: claude mcp add --transport http aidevjobs https://aidevboard.com/mcp
+Search endpoints are anonymously reachable for discovery and small trials, but billable read endpoints share a monthly anonymous quota. If the quota is exhausted, responses return HTTP 402 with quota_exceeded, limit, used, reset_at_unix, register_url, and subscribe_url.
+API keys are free to create at /api/v1/register and provide a keyed worker path for recurring agents. Rate-limit headers: X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset.
+
+### Search jobs (most common action)
+
+GET https://aidevboard.com/api/v1/jobs?workplace=remote&salary_min=200000&tags=llm,pytorch
+
+Query parameters:
+- q: Full-text search (searches title, description, company name, and tags)
+- tags: Comma-separated tags (e.g., llm,pytorch,python)
+- workplace: remote | hybrid | onsite (also accepts remote=true)
+- type: full-time | part-time | contract | freelance
+- level: junior | mid | senior | lead | principal
+- salary_min: Minimum salary — matches if job's max salary >= this value (range overlap)
+- salary_max: Maximum salary — matches if job's min salary <= this value (range overlap)
+- salary_floor_min: Strict floor filter — job's minimum salary must be >= this value (no overlap, guaranteed floor)
+- posted_within_days: Only jobs published within the last N days (1-90). Good for polling agents.
+- location: Location string (e.g., "San Francisco")
+- page: Page number (default: 1)
+- limit: Results per page (default: 20, max: 50)
+
+Response includes: { jobs, total, page, per_page, total_pages, has_next }
+Each job includes: id, title, company_name, description, requirements, salary_min, salary_max, location, workplace, job_type, experience_level, tags, apply_url, url (human-readable page link)
+
+### Get a specific job
+
+GET https://aidevboard.com/api/v1/jobs/{id-or-slug}
+
+### Find similar jobs
+
+GET https://aidevboard.com/api/v1/jobs/{id-or-slug}/similar?limit=5
+
+Returns jobs with overlapping tags, matching workplace/level/type. Scored by similarity. Useful for "more like this" features and agent exploration.
+
+### List all tags with counts
+
+GET https://aidevboard.com/api/v1/tags
+
+### List all companies
+
+GET https://aidevboard.com/api/v1/companies
+
+Returns: slug, name, website, job count, average salary for each company.
+
+### Get a company's jobs
+
+GET https://aidevboard.com/api/v1/companies/{slug}
+
+Returns: company info + all active jobs for that company.
+
+### Market statistics
+
+GET https://aidevboard.com/api/v1/stats
+
+Returns: salary benchmarks (avg, median, p25, p75, distribution), top 25 tags, top 20 companies, workplace breakdown, experience level distribution.
+
+### Salary trends over time
+
+GET https://aidevboard.com/api/v1/salary-trends?days=90
+
+Returns daily salary snapshots showing how AI developer salaries change over time. Each snapshot includes: total active jobs, jobs with salary data, avg/median/p25/p75 salary, workplace-specific averages (remote/onsite/hybrid), new and expired job counts. Data captured daily. Default 90 days, max 365.
+
+### Match jobs to a candidate profile (recommended for agents)
+
+POST https://aidevboard.com/api/v1/jobs/match
+Body: { "skills": ["python", "go", "backend", "payments"], "salary_min": 200000, "workplace": "remote", "level": "senior" }
+
+Scores every active job against your profile and returns ranked matches. Scoring: +2 per matching skill/tag, +3 for salary overlap, +2 for workplace match, +1 for level match, +1 per skill found in job description. No auth required.
+
+Response: { matches: [{...job, match_score, matched_tags, match_reasons}], total_scored, total_matches }
+
+### Apply to a job (requires API key)
+
+POST https://aidevboard.com/api/v1/developer/apply/{job_id}
+Header: X-API-Key: your_key
+Body: { "cover_letter": "...", "skills": ["python","llm"], "experience_years": 7 }
+
+### Register for an API key
+
+POST https://aidevboard.com/api/v1/register
+Body: { "name": "Jane Smith", "email": "jane@dev.com" }
+Legacy alias: POST https://aidevboard.com/api/v1/register/developer
+
+### View pricing tiers (for companies posting jobs)
+
+GET https://aidevboard.com/api/v1/pricing
+
+Returns paid tiers available when posting jobs. Public — no auth.
+
+### Subscribe to the weekly digest
+
+POST https://aidevboard.com/api/v1/subscribe
+Body: { "email": "you@domain.com", "tags": ["python","remote"], "frequency": "weekly" }
+
+Tags optional — filter the digest. Frequency: daily | weekly | monthly.
+
+### Search usage analytics
+
+GET https://aidevboard.com/api/v1/analytics/searches?days=30
+
+Aggregate stats on what agents search for — top queries, tags, zero-result searches. Useful for understanding demand signals.
+
+## Example Queries
+
+Find remote senior LLM jobs paying $200k+:
+GET https://aidevboard.com/api/v1/jobs?workplace=remote&level=senior&tags=llm&salary_min=200000
+
+Find all PyTorch jobs:
+GET https://aidevboard.com/api/v1/jobs?tags=pytorch
+
+Search for "infrastructure" across all fields:
+GET https://aidevboard.com/api/v1/jobs?q=infrastructure
+
+Browse Anthropic's open roles:
+GET https://aidevboard.com/api/v1/companies/anthropic
+
+Match a Go backend developer to relevant jobs:
+POST https://aidevboard.com/api/v1/jobs/match -d '{"skills":["go","backend","api-design","payments"],"salary_min":200000,"workplace":"remote"}'
+
+## Data Stats
+- Current listings are refreshed daily from the live job index.
+- Salary fields are included when they are available from the source listing.
+- Tags include LLM, PyTorch, TensorFlow, RAG, computer vision, NLP, MLOps, and related AI engineering skills.
+
+## Other Formats
+- RSS feed: https://aidevboard.com/feed.xml
+- Sitemap: https://aidevboard.com/sitemap.xml
+- OpenAPI 3.0 spec: https://aidevboard.com/openapi.yaml
+- AI plugin manifest: https://aidevboard.com/.well-known/ai-plugin.json
+- Jooble feed: https://aidevboard.com/feed/jooble.xml
+- Talent.com feed: https://aidevboard.com/feed/talent.xml
+- Adzuna feed: https://aidevboard.com/feed/adzuna.xml
+- Indeed/aggregator feed: https://aidevboard.com/feed/indeed.xml
+- CareerJet feed: https://aidevboard.com/feed/careerjet.xml
+- Schema.org JobPosting JSON-LD on every /job/{id} page
+
+## Web Pages
+- Browse jobs: https://aidevboard.com/
+- Company directory: https://aidevboard.com/companies (all companies with job counts and salaries)
+- Company detail: https://aidevboard.com/company/{slug}
+- Company comparison: https://aidevboard.com/compare/{slug1}-vs-{slug2} (side-by-side salary, roles, remote ratio, tech stack for any two companies)
+- Category pages: https://aidevboard.com/category/{slug} (machine-learning, nlp, computer-vision, ai-infrastructure, ai-research, ai-agents, robotics, backend, fullstack, security, healthcare-ai, fintech-ai, data-engineering, generative-ai, data-science)
+- Level pages: https://aidevboard.com/level/{level} (junior, mid, senior, lead, principal)
+- Type pages: https://aidevboard.com/type/{type} (full-time, part-time, contract, freelance)
+- Location pages: https://aidevboard.com/location/{city} (san-francisco, new-york, mountain-view, london, toronto, paris, seattle, palo-alto, boston, seoul, bangalore, stockholm, singapore, munich, tokyo, dublin, washington-dc, ann-arbor, zurich, belgrade, amsterdam, stuttgart, doha, mexico-city, bucharest, taipei, buenos-aires, sydney, chennai, dubai, dallas, bellevue, huntsville, san-diego, berkeley, atlanta, menlo-park)
+- Location directory: https://aidevboard.com/locations (all cities with job counts and salary data)
+- Tag pages: https://aidevboard.com/tag/{tag}
+- Remote jobs: https://aidevboard.com/remote
+- Remote + category: https://aidevboard.com/remote/{category} (e.g., /remote/machine-learning, /remote/nlp, /remote/ai-agents)
+- Hybrid + category: https://aidevboard.com/hybrid/{category}
+- On-site + category: https://aidevboard.com/onsite/{category}
+- Remote + level: https://aidevboard.com/remote/{level} (e.g., /remote/senior, /remote/lead, /remote/mid)
+- Hybrid + level: https://aidevboard.com/hybrid/{level}
+- On-site + level: https://aidevboard.com/onsite/{level}
+- Category + level: https://aidevboard.com/category/{category}/{level} (e.g., /category/machine-learning/senior, /category/nlp/lead, /category/ai-agents/mid)
+- Location + category: https://aidevboard.com/location/{city}/{category} (e.g., /location/san-francisco/machine-learning, /location/new-york/ai-agents, /location/london/nlp)
+- Location + level: https://aidevboard.com/location/{city}/{level} (e.g., /location/san-francisco/senior, /location/new-york/lead, /location/london/mid)
+- Salary report: https://aidevboard.com/research/salary-benchmarks
+- Hiring trends: https://aidevboard.com/research/hiring-trends
+- Top companies: https://aidevboard.com/research/top-companies
+- Workplace analysis (remote vs hybrid vs onsite): https://aidevboard.com/research/workplace-analysis
+- Top paying companies (ranked by salary): https://aidevboard.com/research/top-paying-companies
+- AI Jobs Report 2026 (comprehensive market overview): https://aidevboard.com/research/ai-jobs-report-2026
+- Career guide (how to get an AI engineering job): https://aidevboard.com/guides/ai-engineering-career
+- Open stats (live transparency dashboard): https://aidevboard.com/open
+- Newsletter (weekly AI job digest): https://aidevboard.com/newsletter
+- Salary calculator (compare AI salaries by role, level, city): https://aidevboard.com/salary-calculator
+- Skills directory (all AI skills with job counts and salary): https://aidevboard.com/skills
+- Tech stacks (companies hiring for each technology, with salary data): https://aidevboard.com/stack/
+- API documentation: https://aidevboard.com/docs
+- API pricing (free and pro tiers): https://aidevboard.com/api-pricing
+- Embeddable jobs widget (2-line HTML snippet, live feed by tag): https://aidevboard.com/widget-docs
+- Hire index: https://aidevboard.com/hire (employer-facing directory of 42 AI specializations)
+- Hire pages: https://aidevboard.com/hire/{role} (machine-learning-engineers, nlp-engineers, computer-vision-engineers, ai-researchers, data-engineers, ai-infrastructure-engineers, ai-agents-developers, backend-engineers, fullstack-engineers, data-scientists, generative-ai-engineers, robotics-engineers, ai-safety-engineers, prompt-engineers, mlops-engineers, healthcare-ai-engineers, fintech-ai-engineers, llm-engineers, deep-learning-engineers, applied-scientists, autonomous-vehicle-engineers, reinforcement-learning-engineers, search-engineers, gpu-engineers, devops-engineers, speech-engineers, ai-solutions-architects, rag-engineers, evaluation-engineers, multimodal-engineers, inference-engineers, ml-platform-engineers, agent-platform-engineers, copilot-engineers, diffusion-model-engineers, retrieval-engineers, vector-database-engineers, embeddings-engineers, fine-tuning-engineers, cybersecurity-ai-engineers, data-annotation-engineers, quantization-engineers)
+- For companies: https://aidevboard.com/for-companies (employer routing for /post, /claim/{company-slug}, /promote/{job-id-or-job-slug}, and API Pro)
+
+## One-line MCP install
+- This server (ADB):  curl -fsSL https://aidevboard.com/install | sh
+- Not Human Search:    curl -fsSL https://nothumansearch.ai/install | sh
+
+Both scripts run 'claude mcp add' if Claude Code is installed,
+otherwise print Cursor, Cline, and Continue snippets.
+
+## Companion Research & Tools
+- Q2 2026 AI Engineering Hiring Snapshot: https://8bitconcepts.com/research/q2-2026-ai-hiring-snapshot.html (methodology + raw CSV)
+- Q2 2026 AI Compensation by Skill: https://8bitconcepts.com/research/q2-2026-ai-compensation-by-skill.html
+- Q2 2026 Remote vs Onsite AI Hiring: https://8bitconcepts.com/research/q2-2026-remote-vs-onsite-ai-hiring.html
+- Q2 2026 Junior AI Hiring Gap: https://8bitconcepts.com/research/q2-2026-entry-level-ai-gap.html
+- Not Human Search (MCP/agentic web discovery): https://nothumansearch.ai
+- Verify any MCP server in 3 curls: https://gist.github.com/unitedideas/ce709323717b95eb56f7be7392a0a557
+- Q2 2026 agent-ready sites curation (120 categorized): https://gist.github.com/unitedideas/c60bb35943ef609f99123bdfae146e55
+
+## Contact
+- Website: https://aidevboard.com
+- Email: hello@aidevboard.com

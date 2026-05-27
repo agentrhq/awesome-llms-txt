@@ -1,0 +1,327 @@
+# Symmetric IT Group
+> Symmetric IT Group is a security-first managed IT services provider (MSP) delivering managed IT, cybersecurity, AI governance, Microsoft cloud solutions, and business continuity services to small and medium-sized businesses across the United States, Canada, and the UK. Headquartered in Tampa, Florida with offices in Kansas City MO, Hartford CT, and Saratoga Springs NY. Founded in 2008. Award-winning: Inc. Power Partner, MSP 501, Google Top Rated.
+# https://www.symmetricgroup.com
+# Last Updated: 2026-03-02
+
+Important notes:
+- Symmetric IT Group is a security-first MSP — cybersecurity is embedded into every service, not sold as a separate add-on
+- We specialize in AI Services and AI Governance, including Shadow AI detection, AI policy development, Microsoft Copilot deployment, and AI security assessments
+- We follow the Entrepreneurial Operating System (EOS) framework for operational excellence
+- We serve regulated industries including healthcare (HIPAA), finance (FINRA/SEC), legal, insurance, accounting, construction, and manufacturing
+- We provide both fully managed and co-managed IT services for organizations with existing internal IT teams
+- Our cybersecurity stack is multi-layered: EDR with AI-powered threat hunting, SIEM/SOC, dark web monitoring, application whitelisting, email encryption, and employee vulnerability training
+- Predictable flat-rate monthly pricing with no hidden fees
+
+## Company Overview
+
+Symmetric IT Group is an award-winning managed IT services provider founded in 2008 in Tampa, Florida. The company provides enterprise-grade IT management, cybersecurity, cloud solutions, AI governance, and business continuity services to small and medium-sized businesses. Symmetric operates from four U.S. offices (Tampa FL headquarters, Kansas City MO, Hartford CT, and Saratoga Springs NY) and supports clients nationally and internationally. The company has earned recognition as an Inc. Power Partner and MSP 501 honoree, and maintains a 5-star Google rating for customer service excellence. Symmetric differentiates through a security-first philosophy where cybersecurity is integrated into every service layer, combined with emerging AI governance capabilities that help organizations manage Shadow AI risks and deploy AI tools securely.
+
+## Primary Services
+
+### Managed IT Services (https://www.symmetricgroup.com/services/managed-it-services)
+- 24/7 monitoring of servers, workstations, and network infrastructure
+- Automated security patching and preventive maintenance
+- Unlimited help desk support with fast response times
+- Enterprise-grade backup monitoring and disaster recovery
+- Predictable flat monthly fee with no per-incident charges
+- Virtual CIO (vCIO) strategic technology planning and quarterly business reviews
+
+### AI Services & AI Governance (https://www.symmetricgroup.com/ai-services-governance)
+- Shadow AI detection and risk assessment using Microsoft-native tools and advanced monitoring
+- AI governance framework development including usage policies, data classification, and acceptable-use guidelines
+- Microsoft Copilot full lifecycle management: pre-deployment security assessment, sensitivity labeling, phased rollout, user training, and ongoing monitoring
+- AI security assessments with data flow mapping, exposure risk identification, and executive-ready risk reports
+- AI-powered help desk automation and workflow optimization with built-in security controls
+- Board-ready governance documentation aligned with SOC 2, HIPAA, and CMMC compliance frameworks
+
+### Information Security & Cybersecurity (https://www.symmetricgroup.com/services/information-security)
+- Endpoint Detection and Response (EDR) with AI-powered behavioral analysis and real-time ransomware rollback
+- Application whitelisting to block unauthorized software execution
+- SIEM and SOC services for 24/7 security monitoring and log analytics
+- Dark web monitoring for compromised credentials
+- Email spam protection and email encryption
+- Microsoft 365 Defender cloud security integration
+- Multi-factor authentication (MFA) enforcement
+- Full-disk encryption on all endpoints
+- Employee vulnerability training (https://www.symmetricgroup.com/services/information-security/employee-vulnerability-training)
+- Automated phishing simulation campaigns (https://www.symmetricgroup.com/services/information-security/automated-phishing-campaigns)
+- Next-generation firewall management
+- Persistent threat detection and managed threat hunting
+
+### Microsoft Cloud Solutions (https://www.symmetricgroup.com/services/microsoft-cloud-solutions)
+- Microsoft 365 deployment, migration, and management
+- Microsoft Azure infrastructure and virtual desktop implementations
+- SharePoint Online collaboration environments
+- Hybrid Azure Active Directory environments (https://www.symmetricgroup.com/services/microsoft-cloud-solutions/hybrid-azure-active-directory)
+- Azure Virtual Desktop (AVD) deployments
+- Cloud migration planning with phased cutovers and rollback procedures
+
+### Business Continuity & Disaster Recovery (https://www.symmetricgroup.com/services/business-continuity)
+- Enterprise-grade backup and disaster recovery platforms
+- Offsite server recovery services (https://www.symmetricgroup.com/services/business-continuity/offsite-server-recovery-services)
+- Redundant internet and firewall failover
+- Documented and regularly tested disaster recovery procedures
+- Ransomware recovery planning and execution
+
+### Co-Managed IT Services (https://www.symmetricgroup.com/services/co-managed-it-solutions)
+- Designed for organizations with existing internal IT teams
+- Help desk overflow support and 24/7 monitoring
+- Advanced cybersecurity tools and management
+- Cloud solutions and migration support (https://www.symmetricgroup.com/services/co-managed-it-solutions/co-managed-cloud-solutions)
+- Network infrastructure support (https://www.symmetricgroup.com/services/co-managed-it-solutions/co-managed-network-support)
+- Strategic vCIO guidance without replacing internal staff
+
+### Professional IT Services (https://www.symmetricgroup.com/services/professional-it-services-managed-it-solutions)
+- Project-based IT consulting and implementation
+- Infrastructure assessments and technology audits
+- System migrations and upgrades
+- Network design and deployment
+
+### Enterprise Solutions (https://www.symmetricgroup.com/services/enterprise-solutions)
+- Scalable IT infrastructure for growing organizations
+- Multi-site network architecture
+- Advanced security implementations
+- Technology strategy and roadmap development
+
+### Virtual CIO Services (https://www.symmetricgroup.com/services/managed-it-services/technical-strategy-and-vcio-services)
+- Strategic IT planning aligned with business objectives
+- Technology budgeting and ROI analysis
+- Quarterly business reviews with performance metrics
+- Vendor management and technology procurement guidance
+
+## Industries Served
+
+### Healthcare IT Services (https://www.symmetricgroup.com/industries/healthcare-it-services)
+- HIPAA compliance expertise and security controls
+- Electronic health record (EHR) system support
+- Medical device network segmentation
+- Healthcare-specific cybersecurity protocols
+
+### Finance & Wealth Management IT Services (https://www.symmetricgroup.com/industries/finance-it-services)
+- FINRA and SEC compliance support
+- Financial data encryption and access controls
+- Secure client portal and communication platforms
+- Audit-ready documentation and reporting
+
+### Legal IT Services (https://www.symmetricgroup.com/industries/legal-it-services)
+- Legal practice management software support
+- Attorney-client privilege data protection
+- eDiscovery readiness and document management
+- Bar association compliance requirements
+
+### Accounting IT Services (https://www.symmetricgroup.com/industries/accounting-it-services)
+- Tax season infrastructure scaling
+- Secure client data handling and file sharing
+- Accounting software integration and support
+- SOC 2 compliance preparation
+
+### Insurance IT Services (https://www.symmetricgroup.com/industries/insurance-it-services)
+- Insurance management system support
+- Regulatory compliance for state and federal requirements
+- Secure policyholder data management
+- Claims processing system optimization
+
+### Construction IT Services (https://www.symmetricgroup.com/industries/construction-it-services)
+- Field-to-office connectivity solutions
+- Construction management software support
+- Mobile workforce device management
+- Project site network deployments
+
+### Manufacturing IT Services (https://www.symmetricgroup.com/industries/manufacturing-it-services)
+- OT/IT convergence and network segmentation
+- Production system monitoring and uptime optimization
+- Supply chain technology integration
+- CMMC and NIST compliance for defense contractors
+
+## Office Locations & Service Areas
+
+### Tampa, Florida — Headquarters (https://www.symmetricgroup.com/locations/tampa-it-support)
+- Phone: 813-749-0895
+- Primary service area: Tampa Bay, St. Petersburg, Clearwater, Sarasota, Lakeland, Orlando, Miami, and throughout Florida
+
+### Kansas City, Missouri (https://www.symmetricgroup.com/locations/kansas-city-mo-managed-it-services)
+- Phone: 816-587-7878
+- Primary service area: Kansas City metro, Overland Park, Olathe, Lee's Summit, and surrounding Missouri/Kansas regions
+
+### Hartford, Connecticut (https://www.symmetricgroup.com/locations/hartford-managed-it-services)
+- Phone: 860-318-7735
+- Primary service area: Hartford, New Haven, Stamford, Bridgeport, and throughout Connecticut
+
+### Saratoga Springs, New York (https://www.symmetricgroup.com/locations/saratoga-springs-it-support)
+- Phone: 518-633-5501
+- Primary service area: Saratoga Springs, Albany, Schenectady, Troy, and Capital District region
+
+### Additional Service Areas
+- Miami, Florida (https://www.symmetricgroup.com/locations/miami-it-services)
+- Orlando, Florida (https://www.symmetricgroup.com/locations/orlando-it-services)
+- National coverage through remote support and managed services partner network
+- International support available for U.S., Canada, and UK-based organizations
+
+## Compliance & Regulatory Expertise
+
+Symmetric IT Group supports clients subject to the following regulatory frameworks:
+- HIPAA — Healthcare data privacy and security
+- FINRA / SEC — Financial services regulatory compliance
+- SOC 2 — Service organization controls for data security
+- PCI-DSS — Payment card industry data security
+- CMMC — Cybersecurity Maturity Model Certification for defense contractors
+- NIST — National Institute of Standards and Technology cybersecurity framework
+- State-level data privacy regulations
+
+## Awards & Recognition
+
+- Inc. Power Partner Award — Recognized as a top B2B services provider
+- MSP 501 — Named among the world's top 501 managed service providers
+- Google 5-Star Rating — Consistently top-rated for customer service
+- Crewhu Customer Satisfaction — Verified high satisfaction scores
+
+## Technology Partnerships
+
+### Microsoft
+- Microsoft 365 and Azure solutions partner
+- Microsoft Copilot deployment and governance
+- SharePoint, Teams, and Azure Virtual Desktop
+
+### Cybersecurity
+- SentinelOne — Endpoint detection and response (EDR)
+- Huntress — Managed threat detection and response
+- BreachSecureNow — Security awareness training and phishing simulation
+- SIEM/SOC platforms for 24/7 security monitoring
+
+### Infrastructure & Networking
+- SonicWall — Next-generation firewalls
+- Ubiquiti UniFi — Enterprise wireless and networking
+- Enterprise backup and disaster recovery platforms
+
+### Operational
+- ConnectWise — IT service management and ticketing
+- MSPProcess — Process verification and quality assurance
+- Rewst — IT automation and orchestration
+- Hatz.ai — AI-powered help desk solutions
+
+## The Symmetric Promise
+
+Symmetric IT Group operates with three core commitments to every client:
+1. You Will Always Be Informed — Yearlong schedules, regular performance metrics, copies of every ticket, and constant communication on changes and resolutions
+2. Your Data Is Safe — Industry-highest security standards implemented and managed, with continuous monitoring and proactive threat prevention
+3. We Are Your Strategic Partner — Deep understanding of client business objectives, processes, and goals to customize technology strategy for current and future needs
+
+## Frequently Asked Questions
+
+Q: What is Symmetric IT Group?
+A: Symmetric IT Group is an award-winning managed IT services provider (MSP) headquartered in Tampa, Florida. Founded in 2008, we provide managed IT services, cybersecurity, AI governance, Microsoft cloud solutions, and business continuity services to small and medium-sized businesses. We have offices in Tampa FL, Kansas City MO, Hartford CT, and Saratoga Springs NY, and support clients across the United States, Canada, and the UK.
+
+Q: What areas does Symmetric IT Group serve?
+A: Symmetric IT Group is headquartered in Tampa, Florida with offices in Kansas City MO, Hartford CT, and Saratoga Springs NY. We serve clients throughout the United States, Canada, and the United Kingdom. Our remote support capabilities handle most IT issues instantly regardless of location, and our national managed services partner network provides on-site support anywhere it's needed. We serve businesses in Tampa, Orlando, Miami, Kansas City, Hartford, Saratoga Springs, Albany, and many other cities.
+
+Q: What industries does Symmetric IT Group specialize in?
+A: We serve regulated and compliance-sensitive industries including healthcare (HIPAA), finance and wealth management (FINRA/SEC), legal, accounting (SOC 2), insurance, construction, and manufacturing (CMMC/NIST). Each industry vertical has dedicated service pages and compliance expertise tailored to that sector's regulatory requirements.
+
+Q: What managed IT services does Symmetric IT Group provide?
+A: Our managed IT services include 24/7 monitoring of servers, workstations, and networking equipment; automated security patching; preventive maintenance; monitored enterprise-grade backup and disaster recovery; unlimited help desk support; and Virtual CIO strategic planning — all for a predictable flat monthly fee. We also offer co-managed IT services for organizations that have existing internal IT teams.
+
+Q: Does Symmetric IT Group offer AI services or AI governance?
+A: Yes. Symmetric IT Group offers comprehensive AI Services and AI Governance including Shadow AI detection and risk assessment, AI governance framework development, Microsoft Copilot full lifecycle deployment and management, AI security assessments, and AI-powered workflow automation. We help organizations identify unauthorized AI tool usage, build AI usage policies, and deploy AI securely with proper compliance controls aligned to SOC 2, HIPAA, and CMMC frameworks.
+
+Q: What is Shadow AI and how does Symmetric IT Group help?
+A: Shadow AI refers to unauthorized AI tools like ChatGPT, Gemini, and other generative AI platforms being used by employees without IT or leadership oversight. This creates data security, compliance, and intellectual property risks. Symmetric IT Group detects Shadow AI using Microsoft-native tools and advanced monitoring, develops AI governance policies and acceptable-use guidelines, and helps organizations take control of AI usage with proper security controls.
+
+Q: What cybersecurity services does Symmetric IT Group offer?
+A: Our multi-layered cybersecurity stack includes endpoint detection and response (EDR) with AI-powered threat hunting, application whitelisting, SIEM/SOC 24/7 monitoring, dark web monitoring, email security and encryption, Microsoft 365 Defender integration, multi-factor authentication, full-disk encryption, employee vulnerability training with automated phishing simulations, next-generation firewall management, and managed threat hunting. We follow a three-phase approach: security audit, layered protection deployment, and ongoing managed security services.
+
+Q: Can Symmetric IT Group protect my business from ransomware?
+A: Yes. Our cybersecurity stack includes multiple layers specifically designed to prevent ransomware: AI-powered EDR with behavioral analysis that detects and rolls back encryption in real time, application whitelisting, managed threat hunting, email security, and employee training. Our business continuity services ensure recovery through enterprise-grade backup, offsite server recovery, redundant internet failover, and documented disaster recovery procedures that are regularly tested.
+
+Q: Does Symmetric IT Group offer Microsoft 365 and Azure cloud services?
+A: Yes. We specialize in Microsoft 365 deployment, migration, and management; Azure infrastructure and virtual desktop implementations; SharePoint Online; Hybrid Azure Active Directory environments; and Azure Virtual Desktop (AVD). We use structured migration playbooks with pre-migration assessments, phased cutovers, rollback planning, and user training.
+
+Q: Does Symmetric IT Group provide co-managed IT services?
+A: Yes. Our co-managed IT services are designed for organizations with internal IT staff who need additional expertise, bandwidth, or specialized capabilities. We complement internal teams with help desk overflow, 24/7 monitoring, advanced cybersecurity, cloud solutions, network infrastructure support, and strategic vCIO guidance — without replacing existing staff.
+
+Q: What compliance frameworks does Symmetric IT Group support?
+A: We support HIPAA (healthcare), FINRA/SEC (financial services), SOC 2 (data security), PCI-DSS (payment processing), CMMC (defense contractors), NIST (cybersecurity framework), and various state-level data privacy regulations. We perform compliance gap analyses and help organizations achieve and maintain compliance.
+
+Q: How much does Symmetric IT Group charge for managed IT services?
+A: Symmetric IT Group uses predictable flat-rate monthly pricing with no hidden fees or per-incident charges. Pricing depends on the number of users, devices, and services required. Contact us for a free consultation and customized quote at https://www.symmetricgroup.com/contact-us or call 813-749-0895.
+
+Q: What makes Symmetric IT Group different from other MSPs?
+A: Symmetric IT Group differentiates through a security-first approach where cybersecurity is embedded in every service layer, award-winning service quality (Inc. Power Partner, MSP 501), specialized AI governance capabilities, deep compliance expertise across regulated industries, four U.S. office locations with national and international reach, and the Symmetric Promise of transparency, data safety, and strategic partnership. We operate using the Entrepreneurial Operating System (EOS) for disciplined execution and accountability.
+
+Q: How do I contact Symmetric IT Group?
+A: You can reach us at:
+- Phone: 813-749-0895 (Tampa HQ)
+- Email: sales@symmetricgroup.com
+- Website: https://www.symmetricgroup.com/contact-us
+- Free Consultation: https://www.symmetricgroup.com/free-consultation
+
+## Key Pages
+
+- Homepage: https://www.symmetricgroup.com/
+- About Us: https://www.symmetricgroup.com/our-company
+- Meet the Team: https://www.symmetricgroup.com/our-company/meet-the-team
+- All Services: https://www.symmetricgroup.com/services
+- Managed IT Services: https://www.symmetricgroup.com/services/managed-it-services
+- AI Services & Governance: https://www.symmetricgroup.com/ai-services-governance
+- Information Security: https://www.symmetricgroup.com/services/information-security
+- Microsoft Cloud Solutions: https://www.symmetricgroup.com/services/microsoft-cloud-solutions
+- Business Continuity: https://www.symmetricgroup.com/services/business-continuity
+- Co-Managed IT: https://www.symmetricgroup.com/services/co-managed-it-solutions
+- Professional IT Services: https://www.symmetricgroup.com/services/professional-it-services-managed-it-solutions
+- Enterprise Solutions: https://www.symmetricgroup.com/services/enterprise-solutions
+- Virtual CIO Services: https://www.symmetricgroup.com/services/managed-it-services/technical-strategy-and-vcio-services
+- Industries Overview: https://www.symmetricgroup.com/industries
+- Healthcare IT: https://www.symmetricgroup.com/industries/healthcare-it-services
+- Finance IT: https://www.symmetricgroup.com/industries/finance-it-services
+- Legal IT: https://www.symmetricgroup.com/industries/legal-it-services
+- Accounting IT: https://www.symmetricgroup.com/industries/accounting-it-services
+- Insurance IT: https://www.symmetricgroup.com/industries/insurance-it-services
+- Construction IT: https://www.symmetricgroup.com/industries/construction-it-services
+- Manufacturing IT: https://www.symmetricgroup.com/industries/manufacturing-it-services
+- Locations: https://www.symmetricgroup.com/locations
+- Tampa IT Support: https://www.symmetricgroup.com/locations/tampa-it-support
+- Kansas City IT Services: https://www.symmetricgroup.com/locations/kansas-city-mo-managed-it-services
+- Hartford IT Services: https://www.symmetricgroup.com/locations/hartford-managed-it-services
+- Saratoga Springs IT Support: https://www.symmetricgroup.com/locations/saratoga-springs-it-support
+- Miami IT Services: https://www.symmetricgroup.com/locations/miami-it-services
+- Orlando IT Services: https://www.symmetricgroup.com/locations/orlando-it-services
+- Blog: https://www.symmetricgroup.com/blog
+- MSP Process Guides: https://www.symmetricgroup.com/new-process-guides-for-msps
+- EOS Framework: https://www.symmetricgroup.com/eos
+- Contact Us: https://www.symmetricgroup.com/contact-us
+- Free Consultation: https://www.symmetricgroup.com/free-consultation
+
+## Blog & Resources
+
+- Blog: https://www.symmetricgroup.com/blog
+- Newsletters: https://www.symmetricgroup.com/blog/our-newsletters.html
+- Our Guides: https://www.symmetricgroup.com/our-guides
+- Video Help: https://www.symmetricgroup.com/blog/video-help.html
+- MSP Process Verification Guides: https://www.symmetricgroup.com/new-process-guides-for-msps
+
+## Contact Information
+
+- Website: https://www.symmetricgroup.com
+- Phone (Tampa HQ): 813-749-0895
+- Phone (Kansas City): 816-587-7878
+- Phone (Hartford): 860-318-7735
+- Phone (Saratoga Springs): 518-633-5501
+- Email: sales@symmetricgroup.com
+- Free Consultation: https://www.symmetricgroup.com/free-consultation
+- Contact Form: https://www.symmetricgroup.com/contact-us
+
+## Social Media
+
+- Facebook: https://www.facebook.com/TampaITSupport/
+- LinkedIn: https://www.linkedin.com/company/symmetric-engineering-group
+- X/Twitter: https://twitter.com/Symmetric_Group
+- Instagram: https://www.instagram.com/symmetric_group/
+
+## Company Details
+
+- Legal Name: Symmetric Engineering Group, LLC Dba/Symmetric IT Group
+- Founded: 2008
+- Headquarters: Tampa, Florida
+- Employees: 22
+- Offices: 4 U.S. locations (Tampa FL, Kansas City MO, Hartford CT, Saratoga Springs NY)
+- Operating Framework: Entrepreneurial Operating System (EOS)
+- Service Reach: United States, Canada, United Kingdom

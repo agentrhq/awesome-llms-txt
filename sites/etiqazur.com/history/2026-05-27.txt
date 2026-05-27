@@ -1,0 +1,103 @@
+# Etiq'Azur — étiquettes, imprimantes & étiqueteuses (B2B)
+
+## Pages de conversion (priorité)
+- Demande de devis : https://etiqazur.com/demande-devis
+- Contact : https://etiqazur.com/contact
+- Prendre rendez-vous : https://etiqazur.com/prendre-rendez-vous
+- Échantillons d’étiquettes : https://etiqazur.com/echantillons-etiquettes
+- Programme partenaires B2B : https://etiqazur.com/solutions/partenaires
+
+## Pages principales (présentation)
+- Accueil : https://etiqazur.com/
+- Entreprise : https://etiqazur.com/entreprise
+- Services : https://etiqazur.com/services
+- Solutions / secteurs : https://etiqazur.com/etiquetage
+- Solutions : https://etiqazur.com/solutions
+- Marques : https://etiqazur.com/marques
+- Blog : https://etiqazur.com/blog
+- FAQ : https://etiqazur.com/faq
+
+## Secteurs (étiquetage par métier)
+- Agroalimentaire : https://etiqazur.com/etiquetage/agroalimentaire
+- Vin, bière & spiritueux : https://etiqazur.com/etiquetage/vin-biere-spiritueux
+- Horticulture : https://etiqazur.com/etiquetage/horticulture
+- Cosmétique & parfumerie : https://etiqazur.com/etiquetage/parfumerie-cosmetique
+- Santé & pharmaceutique : https://etiqazur.com/etiquetage/sante-pharmaceutique
+- Industrie chimique : https://etiqazur.com/etiquetage/industrie-chimique
+- Transport & logistique : https://etiqazur.com/etiquetage/transport-logistique
+- Industrie & sécurité : https://etiqazur.com/etiquetage/industrie-securite
+- Textile & confection : https://etiqazur.com/etiquetage/textile-confection
+
+## Hubs produits (navigation IA)
+- Étiquettes : https://etiqazur.com/etiquettes
+- Étiquettes personnalisées : https://etiqazur.com/etiquettes/personnalisees
+- Étiquettes vierges : https://etiqazur.com/etiquettes/vierges
+- Imprimantes : https://etiqazur.com/imprimantes
+- Étiqueteuses : https://etiqazur.com/etiqueteuses
+
+## Étiquettes personnalisées (par usage)
+- Alimentaires : https://etiqazur.com/etiquettes/personnalisees/alimentaires
+- Vin, bière & spiritueux : https://etiqazur.com/etiquettes/personnalisees/vin-biere-spiritueux
+- Cosmétiques & parfums : https://etiqazur.com/etiquettes/personnalisees/cosmetiques-parfums
+- Pharmaceutiques & santé : https://etiqazur.com/etiquettes/personnalisees/pharmaceutiques-sante
+- Produits chimiques : https://etiqazur.com/etiquettes/personnalisees/produits-chimiques
+- Logistiques & transport : https://etiqazur.com/etiquettes/personnalisees/logistiques-transport
+- Industrielles & sécurité : https://etiqazur.com/etiquettes/personnalisees/industrielles-securite
+- Textile (à coudre) : https://etiqazur.com/etiquettes/personnalisees/a-coudre
+- Horticoles : https://etiqazur.com/etiquettes/personnalisees/horticoles
+
+## Étiquettes vierges (formats)
+- En rouleaux : https://etiqazur.com/etiquettes/vierges/en-rouleaux
+- En planches : https://etiqazur.com/etiquettes/vierges/en-planches
+
+## Imprimantes (catégories)
+- Jet d’encre couleur : https://etiqazur.com/imprimantes/jet-dencre-couleur
+- Jet d’encre (bureau / semi-industrielles) : https://etiqazur.com/imprimantes/jet-dencre-couleur/jet-dencre-bureau-semi-industrielles
+- Jet d’encre (industrielles) : https://etiqazur.com/imprimantes/jet-dencre-couleur/jet-dencre-industrielles
+- Accessoires jet d’encre : https://etiqazur.com/imprimantes/jet-dencre-couleur/accessoires-jet-dencre
+- Logiciels jet d’encre : https://etiqazur.com/imprimantes/jet-dencre-couleur/logiciels-jet-dencre
+
+- Transfert thermique : https://etiqazur.com/imprimantes/transfert-thermique
+- Transfert thermique (bureau / semi-industrielles) : https://etiqazur.com/imprimantes/transfert-thermique/transfert-thermique-bureau-semi-industrielles
+- Transfert thermique (industrielles) : https://etiqazur.com/imprimantes/transfert-thermique/transfert-thermique-industrielles
+- Transfert thermique (portables) : https://etiqazur.com/imprimantes/transfert-thermique/portables
+- Transfert thermique (textiles) : https://etiqazur.com/imprimantes/transfert-thermique/textiles
+- Rubans transfert thermique : https://etiqazur.com/imprimantes/transfert-thermique/rubans-transfert-thermique
+- Accessoires transfert thermique : https://etiqazur.com/imprimantes/transfert-thermique/accessoires-transfert-thermique
+- Têtes d’impression : https://etiqazur.com/imprimantes/transfert-thermique/tetes-dimpression
+- Logiciels transfert thermique : https://etiqazur.com/imprimantes/transfert-thermique/logiciels-transfert-thermique
+
+## Étiqueteuses (catégories)
+- Manuelles : https://etiqazur.com/etiqueteuses/manuelles
+- Distributeurs d’étiquettes : https://etiqazur.com/etiqueteuses/manuelles/distributeurs-detiquettes
+- Pinces à étiqueter : https://etiqazur.com/etiqueteuses/manuelles/pinces-a-etiqueter
+
+- Semi-automatiques : https://etiqazur.com/etiqueteuses/semi-automatiques
+- Applicateurs d’étiquettes : https://etiqazur.com/etiqueteuses/semi-automatiques/applicateurs-detiquettes
+
+- Automatiques : https://etiqazur.com/etiqueteuses/automatiques
+- Têtes d’étiquetage : https://etiqazur.com/etiqueteuses/automatiques/tetes-detiquetage
+- Systèmes d’étiquetage linéaires : https://etiqazur.com/etiqueteuses/automatiques/systemes-detiquetage-lineaires
+- Systèmes impression-pose : https://etiqazur.com/etiqueteuses/automatiques/systemes-dimpression-pose
+
+## Ressources & outils
+- Ressources : https://etiqazur.com/ressources
+- Lexique : https://etiqazur.com/ressources/lexique
+- Pictogrammes mentions : https://etiqazur.com/ressources/pictogrammes-mentions
+- Outils : https://etiqazur.com/outils
+- Générateur de QR code : https://etiqazur.com/outils/generateur-qr
+
+## Plans de site (crawl complet)
+- Sitemap index : https://etiqazur.com/sitemap.xml
+- Pages : https://etiqazur.com/page-sitemap1.xml
+- Articles : https://etiqazur.com/post-sitemap1.xml
+- Produits : https://etiqazur.com/product-sitemap1.xml
+- Catégories blog : https://etiqazur.com/category-sitemap1.xml
+- Catégories produits : https://etiqazur.com/product_cat-sitemap1.xml
+- Marques produits : https://etiqazur.com/product_brand-sitemap1.xml
+- Lexique : https://etiqazur.com/lexique-sitemap1.xml
+
+## Légal
+- CGV : https://etiqazur.com/cgv
+- Mentions légales : https://etiqazur.com/mentions-legales
+- Politique de confidentialité : https://etiqazur.com/politique-de-confidentialite

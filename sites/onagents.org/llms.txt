@@ -1,0 +1,28 @@
+
+# LLMs Metadata File (Light Version)
+
+## Title
+OnAgents.org
+
+## Description
+Exploration of LLM agent systems, their design patterns, legal frameworks, and value-generating capabilities.
+
+## URL
+https://onagents.org
+
+## Owner
+Dazza Greenwood
+
+## License
+Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Key Topics
+- Background Materials
+- Agento Project
+- Design Patterns
+- Principal Authority
+- Agent Transactions
+- Generating New Value (GenSpring)
+
+## Last Updated
+[Insert Date Here]

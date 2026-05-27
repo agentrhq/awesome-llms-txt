@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "domain": "workos.com",
+  "display_name": "WorkOS",
+  "category": "auth",
+  "verified_url": "https://workos.com/docs/llms.txt",
+  "fetched_at": "2026-05-27T05:00:22Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 64354,
+  "last_modified": "Tue, 26 May 2026 18:30:37 GMT",
+  "freshness_age_days": 0,
+  "score": 77,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 20,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 2,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 0,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 6,
+      "reasons": [
+        "redirect_chain"
+      ]
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 6,
+      "reasons": []
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 4,
+      "reasons": [],
+      "kb": 62.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "WorkOS Documentation",
+    "h1_count": 1,
+    "blockquote": "WorkOS is the enterprise authentication and identity platform for SaaS companies. AuthKit ships email/password, social login, passkeys, MFA, magic auth, and enterprise SSO from one integration, and is free up to 1M monthly active users. Enterprise APIs include Single Sign-On, SCIM Directory Sync, RBAC, Audit Logs, Radar (bot and fraud protection), Vault, and a no-code Admin Portal — priced per connection with volume discounts. SDKs for Node, Python, Go, Ruby, PHP, Java, and .NET.",
+    "section_count": 28,
+    "subsection_count": 0,
+    "link_count": 570,
+    "value_link_count": 560,
+    "low_value_link_count": 10,
+    "raw_bytes": 64354
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

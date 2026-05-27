@@ -1,0 +1,190 @@
+# Chiliz Chain Developer Docs
+
+## English
+
+- [Chiliz Chain developer docs](https://docs.chiliz.com/readme.md)
+- [Quick Start](https://docs.chiliz.com/quick-start.md)
+- [Chiliz Chain in a nutshell](https://docs.chiliz.com/quick-start/chiliz-chain-in-a-nutshell.md)
+- [Developer Toolbox](https://docs.chiliz.com/quick-start/developer-toolbox.md)
+- [Connect to Mainnet and Testnet](https://docs.chiliz.com/quick-start/developer-toolbox/connect-to-mainnet-and-testnet.md)
+- [Obtain testnet tokens](https://docs.chiliz.com/quick-start/developer-toolbox/obtain-testnet-tokens.md)
+- [Deploy and verify a contract](https://docs.chiliz.com/quick-start/developer-toolbox/deploy-and-verify-a-contract.md)
+- [Run a Chiliz Chain Node](https://docs.chiliz.com/quick-start/developer-toolbox/run-a-chiliz-chain-node.md)
+- [Starter Kits](https://docs.chiliz.com/quick-start/starter-kits.md)
+- [Create NFTs for Your Sports Team](https://docs.chiliz.com/quick-start/starter-kits/create-nfts-for-your-sports-team.md)
+- [Launch a crypto token](https://docs.chiliz.com/quick-start/starter-kits/launch-a-crypto-token.md)
+- [Free online courses](https://docs.chiliz.com/quick-start/free-online-courses.md)
+- [Inflation Supply Allocation Addresses](https://docs.chiliz.com/quick-start/inflation-supply-allocation-addresses.md)
+- [Smart Contract Addresses](https://docs.chiliz.com/quick-start/smart-contract-addresses.md)
+- [Token Contract Addresses](https://docs.chiliz.com/quick-start/token-contract-addresses.md)
+- [Learn](https://docs.chiliz.com/learn.md)
+- [About Chiliz Chain](https://docs.chiliz.com/learn/about-chiliz-chain.md)
+- [Tokenomics](https://docs.chiliz.com/learn/about-chiliz-chain/tokenomics.md)
+- [Security Audits](https://docs.chiliz.com/learn/about-chiliz-chain/security-audits.md)
+- [Chiliz Greenhouse](https://docs.chiliz.com/learn/about-chiliz-chain/chiliz-greenhouse.md)
+- [About Wallets](https://docs.chiliz.com/learn/about-wallets.md)
+- [How to use MetaMask](https://docs.chiliz.com/learn/about-wallets/how-to-use-metamask.md)
+- [Install MetaMask](https://docs.chiliz.com/learn/about-wallets/how-to-use-metamask/install-metamask.md)
+- [Link Chiliz Chain and MetaMask](https://docs.chiliz.com/learn/about-wallets/how-to-use-metamask/link-chiliz-chain-and-metamask.md)
+- [How to use a multisig wallet (Safe)](https://docs.chiliz.com/learn/about-wallets/how-to-use-a-multisig-wallet-safe.md)
+- [About Bridging](https://docs.chiliz.com/learn/about-bridging.md)
+- [Using Chainport](https://docs.chiliz.com/learn/about-bridging/using-chainport.md)
+- [Using Chiliz Bridge](https://docs.chiliz.com/learn/about-bridging/using-chiliz-bridge.md)
+- [Using Stargate](https://docs.chiliz.com/learn/about-bridging/using-stargate.md)
+- [Bridging stablecoins](https://docs.chiliz.com/learn/about-bridging/bridging-stablecoins.md)
+- [Making your project token bridgeable](https://docs.chiliz.com/learn/about-bridging/making-your-project-token-bridgeable.md)
+- [About Staking](https://docs.chiliz.com/learn/about-staking.md): Stake your CHZ on Chiliz Chain and earn more CHZ!
+- [Stake your CHZ](https://docs.chiliz.com/learn/about-staking/stake-your-chz.md): Stake your CHZ on Chiliz Chain and earn rewards!
+- [Unstake your CHZ](https://docs.chiliz.com/learn/about-staking/unstake-your-chz.md)
+- [Staking Rewards](https://docs.chiliz.com/learn/about-staking/staking-rewards.md)
+- [Stake CHZ from your Ledger](https://docs.chiliz.com/learn/about-staking/stake-chz-from-your-ledger.md)
+- [Chiliz Staking FAQ](https://docs.chiliz.com/learn/about-staking/chiliz-staking-faq.md)
+- [About Validators](https://docs.chiliz.com/learn/about-validators.md)
+- [Defining Validators and Delegators](https://docs.chiliz.com/learn/about-validators/defining-validators-and-delegators.md)
+- [Why Become a Validator](https://docs.chiliz.com/learn/about-validators/why-become-a-validator.md)
+- [How to Become a Validator](https://docs.chiliz.com/learn/about-validators/how-to-become-a-validator.md)
+- [Running a Validator node](https://docs.chiliz.com/learn/about-validators/running-a-validator-node.md): Setting up a Chiliz Chain Validator node
+- [How to Stop Being a Validator](https://docs.chiliz.com/learn/about-validators/how-to-stop-being-a-validator.md)
+- [About Validator slashing](https://docs.chiliz.com/learn/about-validators/about-validator-slashing.md)
+- [About Fan Tokens](https://docs.chiliz.com/learn/about-fan-tokens.md)
+- [2023 Migration of Fan Tokens to Chiliz Chain](https://docs.chiliz.com/learn/about-fan-tokens/2023-migration-of-fan-tokens-to-chiliz-chain.md): Bridging Fan Tokens™ from Chiliz Legacy Chain to Chiliz Chain
+- [2026 Migration to Decimal Fan Tokens](https://docs.chiliz.com/learn/about-fan-tokens/2026-migration-to-decimal-fan-tokens.md)
+- [About Stablecoins](https://docs.chiliz.com/learn/about-stablecoins.md)
+- [Stablecoins on Chiliz Chain](https://docs.chiliz.com/learn/about-stablecoins/stablecoins-on-chiliz-chain.md)
+- [About DAOs](https://docs.chiliz.com/learn/about-daos.md)
+- [How to create your own DAO](https://docs.chiliz.com/learn/about-daos/how-to-create-your-own-dao.md)
+- [How to run a DAO](https://docs.chiliz.com/learn/about-daos/how-to-run-a-dao.md)
+- [Glossary](https://docs.chiliz.com/learn/glossary.md)
+- [Blockchain](https://docs.chiliz.com/learn/glossary/blockchain.md): A general information about blockchain and what it is made up of
+- [Consensus mechanisms](https://docs.chiliz.com/learn/glossary/consensus-mechanisms.md)
+- [Governance](https://docs.chiliz.com/learn/glossary/governance.md)
+- [Validator](https://docs.chiliz.com/learn/glossary/validator.md)
+- [Staking](https://docs.chiliz.com/learn/glossary/staking.md)
+- [Wallet](https://docs.chiliz.com/learn/glossary/wallet.md): Good-to-know information about crypto wallets
+- [CAP-20](https://docs.chiliz.com/learn/glossary/cap-20.md)
+- [Wrapped CHZ (wCHZ)](https://docs.chiliz.com/learn/glossary/wrapped-chz-wchz.md)
+- [Develop](https://docs.chiliz.com/develop.md)
+- [Basics](https://docs.chiliz.com/develop/basics.md)
+- [Connect to Chiliz Chain](https://docs.chiliz.com/develop/basics/connect-to-chiliz-chain.md)
+- [Connect using RPC](https://docs.chiliz.com/develop/basics/connect-to-chiliz-chain/connect-using-rpc.md)
+- [Run a Chiliz Chain Node](https://docs.chiliz.com/develop/basics/connect-to-chiliz-chain/run-a-chiliz-chain-node.md): Launch, create, connect, and debug a node to sync with Chiliz Chain
+- [Use a hardware wallet](https://docs.chiliz.com/develop/basics/connect-to-chiliz-chain/use-a-hardware-wallet.md)
+- [Obtain Free Testnet Tokens](https://docs.chiliz.com/develop/basics/obtain-free-testnet-tokens.md)
+- [Obtain test CHZ tokens with Spicy Faucet](https://docs.chiliz.com/develop/basics/obtain-free-testnet-tokens/obtain-test-chz-tokens-with-spicy-faucet.md)
+- [Obtain test CHZ tokens with Tatum Faucet](https://docs.chiliz.com/develop/basics/obtain-free-testnet-tokens/obtain-test-chz-tokens-with-tatum-faucet.md)
+- [Obtain test Fan Tokens with Spicy Faucet](https://docs.chiliz.com/develop/basics/obtain-free-testnet-tokens/obtain-test-fan-tokens-with-spicy-faucet.md)
+- [Use a Block Explorer](https://docs.chiliz.com/develop/basics/use-a-block-explorer.md)
+- [Write a Smart Contract](https://docs.chiliz.com/develop/basics/write-a-smart-contract.md)
+- [Deploy a Smart Contract](https://docs.chiliz.com/develop/basics/deploy-a-smart-contract.md)
+- [Deploy with Remix](https://docs.chiliz.com/develop/basics/deploy-a-smart-contract/deploy-with-remix.md)
+- [Deploy with thirdweb](https://docs.chiliz.com/develop/basics/deploy-a-smart-contract/deploy-with-thirdweb.md)
+- [Verify a Smart Contract](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract.md)
+- [Verify with Chiliscan](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract/verify-with-chiliscan.md)
+- [Verify with Chiliz Block Explorer](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract/verify-with-chiliz-block-explorer.md)
+- [Verify with Hardhat](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract/verify-with-hardhat.md)
+- [Flatten a Smart Contract](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract/flatten-a-smart-contract.md)
+- [Verification Best Practices](https://docs.chiliz.com/develop/basics/verifiy-a-smart-contract/verification-best-practices.md)
+- [Use Wrapped CHZ](https://docs.chiliz.com/develop/basics/use-wrapped-chz.md)
+- [How-Tos](https://docs.chiliz.com/develop/basics/how-tos.md)
+- [How to get the balance of a wallet](https://docs.chiliz.com/develop/basics/how-tos/how-to-get-the-balance-of-a-wallet.md)
+- [How to get the history of a wallet](https://docs.chiliz.com/develop/basics/how-tos/how-to-get-the-history-of-a-wallet.md)
+- [How to get the metadata of a specific NFT](https://docs.chiliz.com/develop/basics/how-tos/how-to-get-the-metadata-of-a-specific-nft.md)
+- [How to build a Chiliz dApp with AI tools](https://docs.chiliz.com/develop/basics/how-tos/how-to-build-a-chiliz-dapp-with-ai-tools.md)
+- [Tips & Tricks](https://docs.chiliz.com/develop/basics/tips-and-tricks.md)
+- [Advanced](https://docs.chiliz.com/develop/advanced.md)
+- [Estimate gas fees](https://docs.chiliz.com/develop/advanced/estimate-gas-fees.md)
+- [Get the $USD price of Fan Tokens](https://docs.chiliz.com/develop/advanced/get-the-usdusd-price-of-fan-tokens.md)
+- [Integrate Socios.com Wallet in your dApp](https://docs.chiliz.com/develop/advanced/integrate-socios.com-wallet-in-your-dapp.md)
+- [Follow transfers of a Fan Token](https://docs.chiliz.com/develop/advanced/follow-transfers-of-a-fan-token.md)
+- [Get Telegram notifications for Fan Token transfers](https://docs.chiliz.com/develop/advanced/get-telegram-notifications-for-fan-token-transfers.md)
+- [Work with NFTs](https://docs.chiliz.com/develop/advanced/work-with-nfts.md)
+- [Preparing the NFT files](https://docs.chiliz.com/develop/advanced/work-with-nfts/preparing-the-nft-files.md)
+- [Choosing the right NFT contract](https://docs.chiliz.com/develop/advanced/work-with-nfts/choosing-the-right-nft-contract.md)
+- [Hosting your NFT on IPFS](https://docs.chiliz.com/develop/advanced/work-with-nfts/hosting-your-nft-on-ipfs.md)
+- [Minting with viem](https://docs.chiliz.com/develop/advanced/work-with-nfts/minting-with-viem.md)
+- [Minting with thirdweb](https://docs.chiliz.com/develop/advanced/work-with-nfts/minting-with-thirdweb.md)
+- [Minting with Rarible](https://docs.chiliz.com/develop/advanced/work-with-nfts/minting-with-rarible.md)
+- [Listing your NFT on OKX](https://docs.chiliz.com/develop/advanced/work-with-nfts/listing-your-nft-on-okx.md)
+- [Use Omnichain Tokens](https://docs.chiliz.com/develop/advanced/use-omnichain-tokens.md)
+- [Bridging from Base to Chiliz Chain](https://docs.chiliz.com/develop/advanced/use-omnichain-tokens/bridging-from-base-to-chiliz-chain.md)
+- [Bridging from Chiliz Chain to Base](https://docs.chiliz.com/develop/advanced/use-omnichain-tokens/bridging-from-chiliz-chain-to-base.md)
+- [Bridging from Solana to Chiliz Chain](https://docs.chiliz.com/develop/advanced/use-omnichain-tokens/bridging-from-solana-to-chiliz-chain.md)
+- [Bridging from Chiliz Chain to Solana](https://docs.chiliz.com/develop/advanced/use-omnichain-tokens/bridging-from-chiliz-chain-to-solana.md)
+- [Use Account Abstraction](https://docs.chiliz.com/develop/advanced/use-account-abstraction.md)
+- [Generate random numbers on-chain](https://docs.chiliz.com/develop/advanced/generate-random-numbers-on-chain.md)
+- [Chiliz Chain API](https://docs.chiliz.com/develop/chiliz-chain-api.md)
+- [Developers FAQ](https://docs.chiliz.com/develop/developers-faq.md)
+- [Community](https://docs.chiliz.com/community.md)
+- [Chiliz Chain Ecosystem](https://docs.chiliz.com/community/chiliz-chain-ecosystem.md): List of wallets, tools and projects that support Chiliz Chain
+- [Developer Tools](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools.md)
+- [Ankr](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/ankr.md)
+- [Aragon](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/aragon.md)
+- [Azuro](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/azuro.md)
+- [Biconomy](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/biconomy.md)
+- [Blocknative](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/blocknative.md)
+- [Goldsky](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/goldsky.md)
+- [Hyperlane](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/hyperlane.md)
+- [LayerZero](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/layerzero.md)
+- [Lumx](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/lumx.md)
+- [Moralis](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/moralis.md)
+- [Pyth](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/pyth.md)
+- [Reown](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/reown.md)
+- [Rarible](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/rarible.md)
+- [Tatum](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/tatum.md)
+- [The Graph](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/the-graph.md)
+- [Thirdweb](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/thirdweb.md)
+- [Web3Auth](https://docs.chiliz.com/community/chiliz-chain-ecosystem/developer-tools/web3auth.md)
+- [Custody solutions](https://docs.chiliz.com/community/chiliz-chain-ecosystem/custody-solutions.md)
+- [Cobo](https://docs.chiliz.com/community/chiliz-chain-ecosystem/custody-solutions/cobo.md)
+- [Fireblocks](https://docs.chiliz.com/community/chiliz-chain-ecosystem/custody-solutions/fireblocks.md)
+- [Wallets](https://docs.chiliz.com/community/chiliz-chain-ecosystem/wallets.md)
+- [Magic](https://docs.chiliz.com/community/chiliz-chain-ecosystem/wallets/magic.md)
+- [Privy](https://docs.chiliz.com/community/chiliz-chain-ecosystem/wallets/privy.md)
+- [Developers events](https://docs.chiliz.com/community/developers-events.md): Past and upcoming events with Chiliz team participation
+- [Hacking Poland 2025](https://docs.chiliz.com/community/developers-events/hacking-poland-2025.md)
+- [Chiliz Sports Hackathon - July 2024](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024.md)
+- [Setting The Stage](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/setting-the-stage.md)
+- [Getting Started](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/getting-started.md)
+- [Mission Brief & Key Dates](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/mission-brief-and-key-dates.md)
+- [The Prize Money](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/the-prize-money.md)
+- [Theme & Intro](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/theme-and-intro.md)
+- [Tracks, Requirements, Regulations & Scoring Criteria](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/tracks-requirements-regulations-and-scoring-criteria.md)
+- [The Process](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/the-process.md)
+- [Disclaimers](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/disclaimers.md)
+- [Useful information](https://docs.chiliz.com/community/developers-events/chiliz-sports-hackathon-july-2024/useful-information.md)
+- [ETHGlobal Bangkok Hackathon 2024](https://docs.chiliz.com/community/developers-events/ethglobal-bangkok-hackathon-2024.md): Welcome Hackers! Here's a guide to get you going.
+- [ETHGlobal London Hackathon 2024](https://docs.chiliz.com/community/developers-events/ethglobal-london-hackathon-2024.md): Welcome Hackers! Here's a guide to get you going.
+- [ETHGlobal Online Hackathon Summer 2024](https://docs.chiliz.com/community/developers-events/ethglobal-online-hackathon-summer-2024.md): Welcome Hackers! Here's a guide to get you going.
+- [Lumx Hack 2024](https://docs.chiliz.com/community/developers-events/lumx-hack-2024.md): Welcome Hackers! Here's a guide to get you going.
+- [ETHGlobal Istanbul Hackathon 2023](https://docs.chiliz.com/community/developers-events/ethglobal-istanbul-hackathon-2023.md): Welcome Hackers! Here's a guide to get you going.
+- [Chiliz Chain Changelog](https://docs.chiliz.com/chiliz-chain-changelog.md)
+- [Governance Proposals & Decisions](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions.md)
+- [February 2026: Contract Removal and Clean-Up Proposal](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/february-2026-contract-removal-and-clean-up-proposal.md)
+- [October 2025: Snake8 Hard Fork](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/october-2025-snake8-hard-fork.md)
+- [August 2025: Pepper8 Proposal](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/august-2025-pepper8-proposal.md)
+- [February 2025: New Validator Proposals](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/february-2025-new-validator-proposals.md)
+- [December 2024: Governance Update Proposals](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/december-2024-governance-update-proposals.md)
+- [May 2024: Dragon8 (Tokenomics 2.0) Proposal](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/may-2024-dragon8-tokenomics-2.0-proposal.md)
+- [2024 Dragon8 hard fork announcement](https://docs.chiliz.com/chiliz-chain-changelog/governance-proposals-and-decisions/2024-dragon8-hard-fork-announcement.md)
+- [Blockchain code changes](https://docs.chiliz.com/chiliz-chain-changelog/blockchain-code-changes.md)
+- [Outage reports](https://docs.chiliz.com/chiliz-chain-changelog/outage-reports.md)
+- [Details on the May 21st outage](https://docs.chiliz.com/chiliz-chain-changelog/outage-reports/details-on-the-may-21st-outage.md)
+- [Doc Updates](https://docs.chiliz.com/doc-updates.md): The changelog for this documentation site.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.chiliz.com/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

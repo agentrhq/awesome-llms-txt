@@ -1,0 +1,108 @@
+{
+  "schema_version": 2,
+  "domain": "www.gumlet.com",
+  "display_name": "Gumlet",
+  "category": "infra",
+  "verified_url": "https://www.gumlet.com/llms.txt",
+  "fetched_at": "2026-05-27T05:32:17Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "file_size_bytes": 16287,
+  "last_modified": "Thu, 07 May 2026 18:08:00 GMT",
+  "freshness_age_days": 19,
+  "score": 63,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 16,
+      "reasons": [
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 9,
+      "reasons": [],
+      "age_days": 19,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 15.9
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Gumlet",
+    "h1_count": 1,
+    "blockquote": "Gumlet provides video and image optimization services, automating media processing for seamless website and app performance. Our solution is simple, versatile, and comprehensive, designed to help businesses and creators optimize their media content and maximize engagement. With studio-level video protection features, customizable ad-free video players, and detailed analytics, we help you create a powerful media experience. By optimizing video and images, we help boost SEO, improve web performance, reduce CDN costs by up to 30%, and significantly reduce visitor bounce rates.",
+    "section_count": 2,
+    "subsection_count": 20,
+    "link_count": 20,
+    "value_link_count": 20,
+    "low_value_link_count": 0,
+    "raw_bytes": 16287
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

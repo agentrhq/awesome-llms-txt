@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "domain": "hintoai.com",
+  "display_name": "Hinto AI",
+  "category": "comms",
+  "verified_url": "https://hintoai.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:44Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 324747,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 62,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 9,
+      "reasons": [
+        "multi_h1_110",
+        "no_blockquote_summary",
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 19,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 1,
+      "reasons": [
+        "oversized_317kb"
+      ],
+      "kb": 317.1
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "marketing_fluff"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Hinto AI",
+    "h1_count": 110,
+    "blockquote": null,
+    "section_count": 338,
+    "subsection_count": 175,
+    "link_count": 262,
+    "value_link_count": 262,
+    "low_value_link_count": 0,
+    "raw_bytes": 324747
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

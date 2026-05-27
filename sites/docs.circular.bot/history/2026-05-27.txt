@@ -1,0 +1,51 @@
+# Circular Docs
+
+## Circular Docs
+
+- [Circular](https://docs.circular.bot/circular-docs/circular.md)
+- [Fast](https://docs.circular.bot/circular-docs/api/fast.md)
+- [Endpoint](https://docs.circular.bot/circular-docs/api/fast/transactions.md)
+- [Locations](https://docs.circular.bot/circular-docs/api/fast/tips.md): Fast now offers several locations! 🎉
+- [Tips](https://docs.circular.bot/circular-docs/api/fast/tips-1.md)
+- [Examples](https://docs.circular.bot/circular-docs/api/fast/examples.md)
+- [Tokens](https://docs.circular.bot/circular-docs/api/tokens.md)
+- [Endpoint](https://docs.circular.bot/circular-docs/api/tokens/transactions.md)
+- [Examples](https://docs.circular.bot/circular-docs/api/tokens/examples.md)
+- [Market Cache](https://docs.circular.bot/circular-docs/api/market-cache.md)
+- [Endpoint](https://docs.circular.bot/circular-docs/api/market-cache/transactions.md)
+- [Examples](https://docs.circular.bot/circular-docs/api/market-cache/examples.md)
+- [Status](https://docs.circular.bot/circular-docs/api/status.md)
+- [Endpoint](https://docs.circular.bot/circular-docs/api/status/transactions.md)
+- [Examples](https://docs.circular.bot/circular-docs/api/status/examples.md)
+- [Tools](https://docs.circular.bot/circular-docs/api/tools.md)
+- [Wallets](https://docs.circular.bot/circular-docs/api/tools/wallets.md)
+- [Overview](https://docs.circular.bot/circular-docs/api/tools/wallets/transactions.md)
+- [Transactions](https://docs.circular.bot/circular-docs/api/tools/wallets/transactions-1.md)
+- [Transactions](https://docs.circular.bot/circular-docs/api/tools/transactions.md)
+- [Transaction](https://docs.circular.bot/circular-docs/api/tools/transactions/transactions.md)
+- [Tips](https://docs.circular.bot/circular-docs/api/tools/tips.md)
+- [Compute Units](https://docs.circular.bot/circular-docs/api/tools/tips/transactions.md)
+- [Gains](https://docs.circular.bot/circular-docs/api/tools/tips/transactions-1.md)
+- [Fees](https://docs.circular.bot/circular-docs/api/tools/fees.md)
+- [Compute Units](https://docs.circular.bot/circular-docs/api/tools/fees/transactions.md)
+- [Api Keys](https://docs.circular.bot/circular-docs/api/api-keys.md)
+- [Plans](https://docs.circular.bot/circular-docs/api/api-keys-1.md)
+- [Contact](https://docs.circular.bot/circular-docs/api/contact.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.circular.bot/circular-docs/circular.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

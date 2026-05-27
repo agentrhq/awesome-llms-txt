@@ -1,0 +1,46 @@
+# Vue Macros
+
+> Modern Way to Writing Vue App
+
+Explore more macros and syntax sugar to Vue.
+
+## Table of Contents
+
+- [&#x20;ESLint Integration&#x20;](/guide/eslint-integration.md)
+- [&#x20;Nuxt Integration&#x20;](/guide/nuxt-integration.md)
+- [Astro Integration&#x20;](/guide/astro-integration.md)
+- [betterDefine&#x20;](/features/better-define.md)
+- [booleanProp&#x20;](/features/boolean-prop.md)
+- [Bundler Integration&#x20;](/guide/bundler-integration.md)
+- [chainCall&#x20;](/macros/chain-call.md)
+- [Configurations](/guide/configurations.md)
+- [defineEmit&#x20;](/macros/define-emit.md)
+- [defineGeneric&#x20;](/volar/define-generic.md)
+- [defineModels&#x20;](/macros/define-models.md)
+- [defineOptions&#x20;](/macros/define-options.md)
+- [defineProp&#x20;](/macros/define-prop.md)
+- [defineProps&#x20;](/macros/define-props.md)
+- [definePropsRefs&#x20;](/macros/define-props-refs.md)
+- [defineRender&#x20;](/macros/define-render.md)
+- [defineSlots&#x20;](/macros/define-slots.md)
+- [defineStyleX&#x20;](/macros/define-stylex.md)
+- [exportExpose&#x20;](/features/export-expose.md)
+- [exportProps&#x20;](/features/export-props.md)
+- [exportRender&#x20;](/features/export-render.md)
+- [Getting Started](/guide/getting-started.md)
+- [hoistStatic&#x20;](/features/hoist-static.md)
+- [jsxDirective&#x20;](/features/jsx-directive.md)
+- [jsxRef&#x20;](/volar/jsx-ref.md)
+- [Migration from v2 to v3](/guide/migration-v3.md)
+- [namedTemplate&#x20;](/features/named-template.md)
+- [Reactivity Transform&#x20;](/features/reactivity-transform.md)
+- [scriptLang&#x20;](/features/script-lang.md)
+- [scriptSFC&#x20;](/volar/script-sfc.md)
+- [setupComponent&#x20;](/macros/setup-component.md)
+- [setupJsdoc&#x20;](/volar/setup-jsdoc.md)
+- [setupSFC&#x20;](/macros/setup-sfc.md)
+- [shortBind&#x20;](/features/short-bind.md)
+- [shortEmits&#x20;](/macros/short-emits.md)
+- [shortVmodel&#x20;](/macros/short-vmodel.md)
+- [templateRef&#x20;](/volar/template-ref.md)
+- [Usage](/macros.md)

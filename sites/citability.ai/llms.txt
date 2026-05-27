@@ -1,0 +1,150 @@
+# Citability - AI Visibility Intelligence Platform
+
+> The authoritative platform for measuring and improving AI discoverability.
+> We index and score llms.txt implementations across 299+ verified domains
+> and provide comprehensive AI visibility audits using Citation Readiness scoring.
+
+## What We Do
+
+Citability helps websites become visible to AI systems. We measure:
+- llms.txt implementation quality (0-100 score)
+- robots.txt AI crawler permissions
+- Schema.org structured data coverage
+- MCP (Model Context Protocol) endpoints for agentic AI
+
+## Directory
+
+Browse AI-discoverable sites by category:
+
+- Developer Tools: /directory/category/developer-tools
+- AI/ML: /directory/category/ai-ml
+- Automation: /directory/category/automation
+- Data & Analytics: /directory/category/data-analytics
+- E-commerce: /directory/category/e-commerce
+- SaaS: /directory/category/saas
+
+View the full directory: /directory
+
+## How We Score
+
+### Citation Readiness Score (0-100)
+
+Our proprietary scoring system measures five pillars:
+
+1. **Authority (0-20 points)**
+   - Domain authority from Common Crawl
+   - Backlink quality signals
+   - Brand recognition indicators
+
+2. **Performance (0-20 points)**
+   - Core Web Vitals
+   - Mobile optimization
+   - Technical SEO health
+
+3. **Content (0-20 points)**
+   - llms.txt presence and quality
+   - Schema.org markup coverage
+   - AI crawler accessibility
+
+4. **Social (0-20 points)**
+   - Social media presence
+   - Community engagement signals
+   - Brand mentions across platforms
+
+5. **Agentic (0-20 points)**
+   - MCP endpoint availability
+   - AI-native commerce readiness
+   - Agent interaction capability
+
+### llms.txt Quality Score (0-100)
+
+Specific to llms.txt file analysis:
+- Has descriptive title and summary
+- Contains section headers
+- Includes navigation links
+- Documents API endpoints
+- Provides contact information
+
+## Blog
+
+Read our latest articles on AI visibility:
+
+- The Three Pillars of AI Visibility: /blog/three-pillars-ai-visibility
+- The Citation Economy: Why It Matters: /blog/citation-economy-why-it-matters
+- Five Steps to Improve AI Visibility: /blog/five-steps-improve-ai-visibility
+
+## Learning Center
+
+### Pillar Pages
+- AI Discovery & the Discovery Protocol: /learn/pillars/discovery
+- Agentic Commerce: /learn/pillars/agentic-commerce
+- Citation Readiness: /learn/pillars/citation-readiness
+
+### Knowledge Base
+Browse all articles: /learn
+
+## AI Discovery Files
+
+- llms.txt: /llms.txt (this file)
+- AI Discovery: /.well-known/ai-discovery.json
+- AI Discovery (alt): /ai-discovery.json
+- Knowledge Graph: /knowledge-graph.json
+- AI Sitemap: /ai-sitemap.xml
+- MCP Manifest: /mcp.json
+- Agents: /.well-known/agents.json
+- Robots.txt: /robots.txt
+- Sitemap: /sitemap.xml
+
+## API Access
+
+Programmatic access to our intelligence:
+
+- Directory API: /api/v1/directory
+- Scan API: /api/v1/scan/{domain}
+- Search: /api/v1/directory/search
+- Batch Processing: /api/v1/bulk
+
+API Documentation: /docs/api
+
+## Key Pages
+
+- Homepage: /
+- Free Scan Tool: /scan
+- Directory: /directory
+- Blog: /blog
+- Learning Center: /learn
+- About: /about
+- Pricing: /#pricing
+- Dashboard: /dashboard (authenticated)
+- Privacy Policy: /privacy
+- Terms of Service: /terms
+- Cookie Policy: /cookies
+
+## About Citability
+
+Citability is the AI visibility intelligence platform built on:
+- 607M domain dataset from Common Crawl
+- 65-75 enrichment fields per domain
+- Real-time AI visibility scoring
+- Citation Readiness methodology
+
+We practice what we preach - this llms.txt file is part of our own
+AI Discovery Protocol (ADP) implementation.
+
+## Contact
+
+- Website: https://citability.ai
+- Email: hello@citability.ai
+- Support: support@citability.ai
+
+## Technical Details
+
+- Framework: Next.js 16
+- API: FastAPI backend
+- Database: DuckDB + Supabase
+- AI Crawlers Supported: GPTBot, ClaudeBot, PerplexityBot, Google-Extended
+
+---
+
+Last updated: 2026-02-12
+Version: 1.1.0

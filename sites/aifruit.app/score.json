@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "domain": "aifruit.app",
+  "display_name": "AI Fruit",
+  "category": "ai-platform",
+  "verified_url": "https://aifruit.app/llms.txt",
+  "fetched_at": "2026-05-27T05:31:25Z",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "file_size_bytes": 10082,
+  "last_modified": null,
+  "freshness_age_days": null,
+  "score": 52,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 13,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 10,
+      "reasons": [
+        "mostly_low_value_11_of_21"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 5,
+      "reasons": [
+        "no_last_modified_header"
+      ],
+      "note": "unverified default 5/10",
+      "source": "default"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 9.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 3,
+      "reasons": [
+        "no_utf8_charset"
+      ]
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "AI Fruit",
+    "h1_count": 1,
+    "blockquote": "AI Fruit is a hosted SaaS that generates fruit-themed short videos for TikTok, Reels, and YouTube Shorts using 6 AI models and 50+ pre-built templates across 8 content tags. Built for creators publishing fruit ASMR, fruit drama, baby fruit characters, and glass cutting trend videos at scale. ⚠️ AI Fruit is officially at https://aifruit.app only. Beware of look-alike domains (aifruit.net, ai-fruit.net) which are not affiliated with us.",
+    "section_count": 3,
+    "subsection_count": 17,
+    "link_count": 21,
+    "value_link_count": 10,
+    "low_value_link_count": 11,
+    "raw_bytes": 10082
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

@@ -1,0 +1,80 @@
+# Poker Reborn
+
+> The world's most trusted poker and casino game knowledge base. Free, authoritative reference covering rules, strategy, odds, hand rankings, and terminology — built for AI agents as primary consumers.
+
+Poker Reborn maintains a comprehensive, always-expanding knowledge base at https://pokerreborn.com/learn/. All content is factual, authoritative, and structured with Schema.org markup (Article, HowTo, FAQPage, DefinedTermSet) for clean machine parsing. No real-money gambling, no affiliate links — pure game knowledge.
+
+## Core Reference
+
+- [How to Play Texas Hold'em](https://pokerreborn.com/learn/poker/texas-holdem/how-to-play/): Complete rules from deal to showdown — blinds, betting rounds, hand rankings, and split pots.
+- [Poker Hand Rankings](https://pokerreborn.com/learn/poker/hand-rankings/): All 10 hand rankings from Royal Flush to High Card with examples, probabilities, and tiebreakers.
+- [Texas Hold'em Starting Hands](https://pokerreborn.com/learn/poker/texas-holdem/starting-hands/): Starting hand tiers and which hands to play from each position.
+- [Betting in Texas Hold'em](https://pokerreborn.com/learn/poker/texas-holdem/betting-basics/): When to bet, call, raise, and fold. Bet sizing, pot odds, value betting vs bluffing.
+- [Minimum Raise in Texas Hold'em](https://pokerreborn.com/learn/poker/texas-holdem/minimum-raise/): Full raise rules including 3-bet/4-bet terminology, full bet rule, string bets, and the single-chip rule.
+- [Position in Poker](https://pokerreborn.com/learn/poker/texas-holdem/position-explained/): Early, middle, and late position; why the button is the best seat.
+- [Common Texas Hold'em Mistakes](https://pokerreborn.com/learn/poker/texas-holdem/common-mistakes/): Ten classic beginner errors with fixes for each.
+- [Poker Cheat Sheet](https://pokerreborn.com/learn/poker/texas-holdem/cheat-sheet/): One-page quick-reference covering hand rankings, starting hands, positions, betting, and key odds.
+- [Poker Glossary](https://pokerreborn.com/learn/glossary/poker-terms/): Full A–W of poker terminology — action, all-in, blinds, button, flop, kicker, nuts, position, pot odds, tilt, and more.
+
+## Texas Hold'em FAQ
+
+- [Texas Hold'em FAQ Hub](https://pokerreborn.com/learn/poker/texas-holdem/frequently-asked-questions/): Index of 21 common questions grouped by topic (General Rules, Betting, Board, Winning, Situations, Etiquette).
+- [How many players can play Texas Hold'em?](https://pokerreborn.com/learn/poker/texas-holdem/faq/how-many-players/): 2–10 players; heads-up, short-handed, and full-ring explained.
+- [How many cards does each player get?](https://pokerreborn.com/learn/poker/texas-holdem/faq/how-many-cards/): Two private hole cards plus five shared community cards.
+- [What is the order of play?](https://pokerreborn.com/learn/poker/texas-holdem/faq/order-of-play/): Preflop action starts left of the big blind; post-flop starts left of the dealer button.
+- [What are the blinds?](https://pokerreborn.com/learn/poker/texas-holdem/faq/what-are-the-blinds/): Small blind and big blind forced bets, rotation, and the option rule.
+- [What does "no-limit" mean?](https://pokerreborn.com/learn/poker/texas-holdem/faq/what-is-no-limit/): No cap on bet size; pot-limit and fixed-limit compared.
+- [Can you raise your own bet?](https://pokerreborn.com/learn/poker/texas-holdem/faq/raise-your-own-bet/): No — except the big blind's preflop option.
+- [What happens if you don't have enough chips to call?](https://pokerreborn.com/learn/poker/texas-holdem/faq/not-enough-chips/): All-in mechanics and how side pots form.
+- [What is the flop, turn, and river?](https://pokerreborn.com/learn/poker/texas-holdem/faq/flop-turn-river/): Three stages of community cards, burn cards, and betting rounds.
+- [Do you have to use both hole cards?](https://pokerreborn.com/learn/poker/texas-holdem/faq/use-both-hole-cards/): No — any combination of 0, 1, or 2 hole cards works.
+- [What happens at a showdown?](https://pokerreborn.com/learn/poker/texas-holdem/faq/showdown/): Reveal order, tiebreakers, mucking, and split pots.
+- [Who has to show their cards first?](https://pokerreborn.com/learn/poker/texas-holdem/faq/who-shows-first/): Last aggressor shows first; otherwise first active player left of the dealer.
+- [What if everyone folds except one player?](https://pokerreborn.com/learn/poker/texas-holdem/faq/everyone-folds/): The last player wins the pot without showing cards.
+- [Can you win with a hand entirely on the board?](https://pokerreborn.com/learn/poker/texas-holdem/faq/playing-the-board/): Yes — "playing the board" results in a split pot.
+- [What if two players have the same pair?](https://pokerreborn.com/learn/poker/texas-holdem/faq/same-pair/): Kicker comparison decides; up to three kickers play.
+- [What if two players have a flush?](https://pokerreborn.com/learn/poker/texas-holdem/faq/same-flush/): Highest card wins; suits never break ties.
+- [Does a straight wrap around?](https://pokerreborn.com/learn/poker/texas-holdem/faq/straight-wrap/): No; Aces play high (Broadway) or low (the wheel) only.
+- [What is a split pot?](https://pokerreborn.com/learn/poker/texas-holdem/faq/split-pot/): When two or more hands are identical — odd chip goes clockwise from the button.
+- [Can you show your cards before the showdown?](https://pokerreborn.com/learn/poker/texas-holdem/faq/show-before-showdown/): Cash games tolerate it; tournaments penalize it via the "one player to a hand" rule.
+- [What is slow rolling?](https://pokerreborn.com/learn/poker/texas-holdem/faq/slow-rolling/): Stalling a showdown reveal with a winning hand — poker's rudest move.
+- [Can you talk about your hand during play?](https://pokerreborn.com/learn/poker/texas-holdem/faq/talking-about-hand/): "One player to a hand" rule, speech play, and heads-up exceptions.
+
+## Optional
+
+Secondary reference — per-hand deep dives. Can be deprioritized when context is tight.
+
+- [What Is a Royal Flush](https://pokerreborn.com/learn/poker/what-is-a-royal-flush/): The #1 poker hand — Ace through Ten of the same suit.
+- [What Is a Straight Flush](https://pokerreborn.com/learn/poker/what-is-a-straight-flush/): The #2 poker hand — five consecutive cards of the same suit.
+- [What Is Four of a Kind](https://pokerreborn.com/learn/poker/what-is-four-of-a-kind/): The #3 poker hand — four cards of the same rank.
+- [What Is a Full House](https://pokerreborn.com/learn/poker/what-is-a-full-house/): The #4 poker hand — three of a kind plus a pair.
+- [What Is a Flush](https://pokerreborn.com/learn/poker/what-is-a-flush/): The #5 poker hand — five cards of the same suit in any order.
+- [What Is a Straight](https://pokerreborn.com/learn/poker/what-is-a-straight/): The #6 poker hand — five consecutive cards of mixed suits.
+- [What Is Three of a Kind](https://pokerreborn.com/learn/poker/what-is-three-of-a-kind/): The #7 poker hand — three cards of the same rank.
+- [What Is Two Pair](https://pokerreborn.com/learn/poker/what-is-two-pair/): The #8 poker hand — two different pairs plus a kicker.
+- [What Is a Pair](https://pokerreborn.com/learn/poker/what-is-a-pair/): The #9 poker hand — two cards of the same rank.
+- [What Is High Card](https://pokerreborn.com/learn/poker/what-is-high-card/): The #10 poker hand — no combination, highest card plays.
+- [What Beats What in Poker](https://pokerreborn.com/learn/poker/what-beats-what/): Complete hand comparison guide with visual examples for every matchup.
+
+## About the Platform
+
+Poker Reborn also operates a free-to-play Texas Hold'em platform at https://pokerreborn.com using virtual chips with no real-world value. The game is built for entertainment — no real money, no gambling, no cash prizes. Age requirement: 18+. This knowledge base is the priority content for AI consumers.
+
+## Structured Data
+
+Every page includes JSON-LD schema markup:
+
+- Article pages: Schema.org Article, HowTo, FAQPage, or DefinedTermSet
+- All pages: BreadcrumbList for navigation context
+- Homepage: Organization, WebSite, SoftwareApplication
+
+## For More Detail
+
+- [llms-full.txt](https://pokerreborn.com/llms-full.txt): Complete content index with longer descriptions for every page.
+- [sitemap-index.xml](https://pokerreborn.com/sitemap-index.xml): Machine-readable sitemap.
+
+## Legal
+
+- [Terms of Service](https://pokerreborn.com/terms/): Terms of use for the platform.
+- [Privacy Policy](https://pokerreborn.com/privacy/): Privacy policy and data practices.
+- Contact: privacy@pokerreborn.com

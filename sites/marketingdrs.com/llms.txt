@@ -1,0 +1,65 @@
+{
+  "ai_policy": {
+    "owner": "Marketing Doctors",
+    "contact": "info@marketingdrs.com",
+    "usage": {
+      "training": "allowed",
+      "retrieval": "allowed",
+      "commercial_use": "allowed",
+      "derivative_use": "allowed",
+      "sharing": "allowed"
+    },
+    "license": "https://marketingdrs.com/content-license.html",
+    "usage_policy": "https://marketingdrs.com/usage-policy.html",
+    "language": ["en", "es"],
+    "included_paths": [
+      "/",
+      "/es/",
+      "/content-license.html",
+      "/usage-policy.html",
+      "/llms.html",
+      "/llms.txt",
+      "/llms-full.txt",
+      "/llms.json",
+      "/about-us/",
+      "/analytics/",
+      "/blog/",
+      "/faq/",
+      "/home-health-care-marketing/",
+      "/legal/",
+      "/online-reputation-marketing/",
+      "/page-us/",
+      "/pay-per-click-agency/",
+      "/privacy/",
+      "/search-engine-optimization/",
+      "/social-media-advertising/",
+      "/es/agencia-de-marketing-medico/",
+      "/es/agencia-de-redes-sociales/",
+      "/es/agencia-seo/",
+      "/es/blog/",
+      "/es/como-configurar-google-analytics/",
+      "/es/contactanos/",
+      "/es/licencia-de-contenido.html",
+      "/es/politica-de-uso.html",
+      "/es/preguntas-frecuentes/",
+      "/es/publicidad-agencias-de-cuidado/",
+      "/es/publicidad-pago-por-clic/",
+      "/es/reputacion-en-linea/"
+    ],
+    "excluded_paths": [
+      "/client-portal/",
+      "/admin/",
+      "/wp-login.php",
+      "/wp-json/",
+      "/wp-content/uploads/private/",
+      "/new-customer-information/",
+      "/es/nci/",
+      "/eff-ewe"
+    ],
+    "attribution": "required",
+    "disclosures": [
+      "This site allows access and training for AI/LLM systems with attribution.",
+      "Use of Marketing Doctors content is governed by our Content License and Usage Policy."
+    ]
+  }
+}

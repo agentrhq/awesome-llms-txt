@@ -1,0 +1,400 @@
+# FlowRunner
+
+> FlowRunner is an Outlook add-in and Chrome extension that brings Salesforce into your email inbox. It automatically surfaces relevant Salesforce records when you select an email using fully customizable lookup logic powered by a Flow. When it's time to act, run Screen Flows directly from Outlook or Gmail to log activities, update records, or trigger any process.
+
+Built for teams whose daily work lives in Outlook or Gmail but whose data and processes live in Salesforce, FlowRunner eliminates context-switching and drives CRM adoption by meeting your team where they already work.
+
+- Website: https://flow-runner.com
+- Admin Portal: https://flow-runner.com/admin
+- Microsoft Marketplace (formerly AppSource): https://marketplace.microsoft.com/en-us/product/office/WA200009781?tab=Overview
+- Chrome Web Store: Available as a Chrome extension for Gmail
+- Contact: hello@flow-runner.com
+- Data Protection Officer: dpo@flow-runner.com
+
+## Table of Contents
+
+- [Overview](#overview)
+- [How It Works](#how-it-works)
+- [Features](#features)
+- [Outlook Taskpane](#outlook-taskpane)
+- [Admin Portal](#admin-portal)
+- [Installation](#installation)
+- [Salesforce Package](#salesforce-package)
+- [Flow Input Variables](#flow-input-variables)
+- [Record Lookup](#record-lookup)
+- [Multi-Org Support](#multi-org-support)
+- [Platform Support](#platform-support)
+- [Security and Privacy](#security-and-privacy)
+- [Authentication](#authentication)
+- [Pricing](#pricing)
+- [Prerequisites](#prerequisites)
+- [FAQ](#faq)
+
+---
+
+## Overview
+
+FlowRunner is a Microsoft Outlook Add-in that integrates Salesforce functionality directly within the Outlook reading pane. It enables users to:
+
+- **Search existing records**: Automatically surface Contacts, Accounts, Opportunities, Cases, and any other Salesforce records when selecting an email — using fully customizable lookup logic you define in a Flow.
+- **Run Screen Flows**: Execute any Salesforce Screen Flow from the Outlook sidebar with full email context (sender, recipients, subject, message ID) pre-populated.
+- **Track execution history**: View a log of which flows were run on which emails, by whom, and when.
+
+FlowRunner uses Salesforce Lightning Out 2.0 to render Screen Flows natively inside Outlook, providing pixel-perfect Salesforce UI without leaving the inbox.
+
+---
+
+## How It Works
+
+1. **Open an email** in Outlook. FlowRunner's custom Record Lookup flow runs automatically, finding Contacts by email address, Accounts by domain, or any records based on your custom matching rules.
+2. **Choose an action**. Select from your organization's enabled Screen Flows — "Log Sales Call", "Create Case", "New Opportunity", or any flow your admin has made available.
+3. **Run the flow**. The Screen Flow renders instantly in a preloaded Salesforce session inside Outlook. Email context is automatically passed as input variables. No copy-pasting, no tab-switching.
+
+---
+
+## Features
+
+### Flexible Record Lookup
+Build your own lookup logic with a customizable auto-launched Flow. Match Contacts by email address, find Accounts by email domain, look up Leads, Cases, Opportunities, or any standard or custom object. You control the matching criteria — FlowRunner just runs your Flow and displays the results.
+
+### Multi-Org Support
+Connect multiple Salesforce organizations (production and sandbox) to a single FlowRunner account. Flows and lookup results are grouped by org. Users can run flows across different orgs without switching.
+
+### Admin Control
+Administrators choose which Screen Flows are available to end users. Assign specific flows to specific users — sales teams get "Create Opportunity", support teams get "Create Case". Control access at the flow level per user.
+
+### Enterprise Security
+Microsoft SSO via Azure AD for user authentication. Salesforce OAuth 2.0 for org connections. All tokens encrypted at rest with AES-256. PostgreSQL Row-Level Security enforces strict multi-tenant data isolation. No email content is ever stored — processed in-memory only.
+
+### Deploy in minutes
+Deploy FlowRunner to your entire organization via the Microsoft 365 Admin Center. No local installs, no XML manifests, no desktop configuration needed. Users simply open Outlook and the add-in is there.
+
+### Native LWC Rendering
+Built on Lightning Out 2.0 for pixel-perfect rendering of Salesforce Screen Flows inside Outlook. Your flows look and behave exactly as they do in Salesforce, including all Lightning Web Component (LWC) UI.
+
+### Cross-Platform
+Works on Outlook for Windows (desktop), Outlook for Mac (desktop), Outlook on the Web (browser), and supports shared mailboxes with delegated access.
+
+### Flow Execution History
+Every flow execution is logged with metadata: flow name, who ran it, when it ran, and which email it was run on. History is visible per email and per conversation thread, and auto-refreshes when switching between emails.
+
+### Intelligent Data Extraction (Coming Soon)
+Automatically extract phone numbers, job titles, and other structured data from email signatures and content, pre-populated and ready to save into Salesforce.
+
+---
+
+## Outlook Taskpane
+
+The taskpane is FlowRunner's main user interface, rendered in the Outlook reading pane sidebar when a user opens an email and clicks the FlowRunner add-in.
+
+### Views
+
+- **Sign In Process**: Users authenticate with their Microsoft 365 account via SSO.
+- **User Onboarding**: First-time users connect their Salesforce account via OAuth.
+- **Admin Onboarding**: The first user from an organization is prompted to sign up and configure FlowRunner via the admin portal.
+- **Main App UI**: The primary interface showing record lookup results, people in the email, flow picker, and flow execution area.
+- **No License**: Shown when a user's admin has not assigned them a FlowRunner license.
+- **Trial Expired**: Shown when the organization's 14-day free trial has ended without a subscription.
+- **Admin Flow Configuration**: Shown when the org is connected but no flows have been enabled yet.
+- **Contact Admin**: Shown when the user needs to contact their organization's FlowRunner admin.
+
+### Main App Features
+
+- **Lookup Results**: Displays matching Salesforce records (Contacts, Accounts, Opportunities, Cases, etc.) organized by connected org. Records can be expanded to view additional fields and opened directly in Salesforce.
+- **People List**: Shows all email participants (From, To, CC) from the current email. Users select which contacts to pass to the flow.
+- **Flow Picker**: Lists available Screen Flows grouped by Salesforce org. Only flows enabled by the admin and assigned to the user are shown.
+- **Flow Execution**: Runs the selected flow with the chosen recipients and email context. Shows loading state during execution, success message on completion, and error details on failure.
+- **Flow History**: Shows execution history for the current email, including flow name, executor, and timestamp.
+
+---
+
+## Admin Portal
+
+The admin portal is a standalone web application at `/admin` for organization administrators to manage FlowRunner configuration.
+
+### Connections Management
+
+- **Add Salesforce Orgs**: Connect production and sandbox Salesforce organizations via OAuth. FlowRunner checks for the managed package before connecting.
+- **Org Labels**: Assign custom labels to orgs (e.g., "Main Production", "QA Sandbox").
+- **Complete Setup**: One-click configuration that sets up the iframe whitelist (IframeWhiteListUrlSettings) and session token support in Salesforce, required for Lightning Out 2.0.
+- **Manage Flows**: Discover available Screen Flows in each org, add them to the FlowRunner catalog, enable/disable flows for end users, and refresh the flow list to sync with Salesforce changes.
+- **Lookup Configuration**: View whether the FlowRunner Record Lookup flow is installed in each org, and enable/disable record lookup per org.
+- **Delete Org**: Remove an org connection and all associated flows.
+
+### User Management
+
+- **License Summary**: View total seats, used seats, and available seats for the organization.
+- **User List**: View all users in the organization.
+- **License Assignment**: Toggle licenses on/off for individual users.
+- **Role Management**: Promote or demote users between admin and regular user roles.
+- **Flow Access**: Control which flows each user can see and run.
+
+### Settings
+
+- **Profile**: Edit display name, view email and account creation date.
+- **Organization**: Edit organization name, view creation date.
+- **Danger Zone**: Delete personal account (preserves org data for others) or delete the entire organization (admin-only, requires email confirmation).
+
+---
+
+## Installation
+
+Setup takes approximately 10-15 minutes and involves three steps:
+
+### Step 1: Create Your FlowRunner Account
+
+Sign up at https://flow-runner.com/signup using your Microsoft work account. The first user from your organization automatically becomes the administrator.
+
+### Step 2: Install Salesforce Package and Connect Org
+
+1. **Install the managed package** in your Salesforce org:
+   - Production: https://login.salesforce.com/packaging/installPackage.apexp?p0=04tSf000000FoKfIAK
+   - Sandbox: Replace "login" with "test" in the URL above.
+   - Select "Install for All Users" and click Install.
+
+2. **Connect your org** from the FlowRunner admin dashboard. Click "Add Production Org" or "Add Sandbox" and authenticate with Salesforce.
+
+3. **Approve domain whitelisting**. FlowRunner sets the IframeWhiteListUrlSettings to allow `flow-runner.com` and `outlook.office.com` to render your Salesforce Flows. This is a one-time approval.
+
+4. **Select available flows**. FlowRunner retrieves all Screen Flows from your org. Choose which flows to make available to Outlook users.
+
+### Step 3: Install the Outlook Add-in
+
+**For individual users:**
+1. Open Outlook (web, desktop, or mobile).
+2. Go to "Get Add-ins" from the ribbon or settings.
+3. Search for "FlowRunner" and click Add.
+
+**For organization-wide deployment:**
+1. Open the Microsoft 365 Admin Center (https://admin.microsoft.com).
+2. Navigate to "Integrated Apps".
+3. Click "Deploy Add-in" and search for FlowRunner.
+
+### Optional Configuration
+
+- **Pre-approve User Access**: Configure the External Client App (ECA) in Salesforce. Set the ECA policy to "Admin Pre-approved", assign the "FlowRunner User" permission set to the ECA, and assign the permission set to end users.
+- **Demo Flow Template**: Import the best-practice Flow template to get started quickly. It demonstrates how to use all three FlowRunner input variables.
+- **Custom Fields**: Add optional fields to User (`FLR_TenantId__c`, `FLR_UserId__c`) and EmailMessage (`FLR_ExternalMessageId__c`, `FLR_ExternalThreadId__c`) objects for extended context in your flows.
+
+---
+
+## Salesforce Package
+
+FlowRunner requires a managed package installed in each connected Salesforce org. The package provides:
+
+- **Lightning Web Components** for rendering Screen Flows via Lightning Out 2.0.
+- **A customizable Record Lookup flow** (`flowRunnerRecordLookup`) that you can modify to define your own matching logic.
+- **Permission sets** for controlling user access.
+- **Custom fields** (optional) on User and EmailMessage objects for passing FlowRunner context.
+
+The package is installed via a standard Salesforce installation URL and will be available on the Salesforce AppExchange in the future.
+
+---
+
+## Flow Input Variables
+
+FlowRunner automatically passes context from Outlook to your Screen Flows via three input variables. Add these to your Screen Flows to receive email and contact data:
+
+### FLR_inputContacts
+- **Type**: Contact[] (collection)
+- **Description**: Contacts returned by your custom Record Lookup flow. You define the matching logic — by email address, domain, or any criteria you choose. Also includes selected email participants.
+
+### FLR_inputEmailMessage
+- **Type**: EmailMessage (SObject)
+- **Description**: Contains email metadata from the currently selected Outlook message:
+  - Subject line
+  - Sender (From) email address and name
+  - Recipient (To, CC) email addresses and names
+  - Body preview
+  - Timestamps
+  - Optionally includes `FLR_ExternalMessageId__c` (Outlook message ID) and `FLR_ExternalThreadId__c` (conversation/thread ID) if the custom fields are configured.
+
+### FLR_inputUser
+- **Type**: User (SObject)
+- **Description**: The current Salesforce user running the flow. Includes standard User fields plus optional custom fields `FLR_TenantId__c` and `FLR_UserId__c` for FlowRunner context.
+
+---
+
+## Record Lookup
+
+FlowRunner includes a fully customizable record lookup system. When a user opens an email, FlowRunner automatically executes the `flowRunnerRecordLookup` auto-launched flow in each connected Salesforce org.
+
+### How It Works
+
+1. FlowRunner extracts email addresses from the current email (sender, recipients).
+2. The email addresses are passed to the lookup flow in each connected org.
+3. The lookup flow runs your custom matching logic and returns records.
+4. Results are displayed in the taskpane, grouped by org and object type.
+
+### Customization
+
+The lookup flow is fully customizable. Out of the box, it supports:
+- Matching Contacts by email address
+- Finding Accounts by email domain (e.g., "acme" from "jane@acme.com")
+- Looking up Leads, Cases, Opportunities, and other standard objects
+
+You can modify the flow to match any criteria and return any records relevant to your business processes.
+
+### Admin Controls
+
+- Enable/disable record lookup per org from the admin portal.
+- The admin dashboard shows whether the lookup flow is installed and active in each org.
+
+---
+
+## Multi-Org Support
+
+FlowRunner supports connecting multiple Salesforce organizations to a single account. This is useful for teams that work across multiple business units, production and sandbox environments, or different Salesforce instances.
+
+### How It Works
+
+- Each org is connected independently via OAuth from the admin portal.
+- Flows and lookup results are grouped by org in the taskpane.
+- Users can run flows from different orgs.
+- Org switching in Lightning Out 2.0 requires an automatic page reload (custom elements can only register once per page). FlowRunner handles this transparently, preserving pending execution state across reloads.
+
+### Trial Limits
+
+During the 14-day free trial, organizations are limited to 1 production org and 1 sandbox org.
+
+---
+
+## Platform Support
+
+FlowRunner works across all major Outlook platforms:
+
+| Platform | Renderer | Status |
+|---|---|---|
+| Outlook for Windows (desktop) | Lightning Out 2.0 | Supported |
+| Outlook for Mac (new) | Lightning Out 2.0 | Supported |
+| Outlook for Mac (legacy) | Legacy Aura renderer | Supported |
+| Outlook on the Web | Lightning Out 2.0 | Supported |
+
+FlowRunner automatically detects the Outlook platform and selects the appropriate rendering method.
+
+---
+
+## Security and Privacy
+
+### Data Handling
+- **No email content stored**: Email subject, body, and recipient data is processed in-memory only to query Salesforce APIs. It is never written to the FlowRunner database or logs.
+- **Token encryption**: Salesforce OAuth tokens (access and refresh tokens) are encrypted at rest with AES-256 using PostgreSQL's pgcrypto extension.
+- **Sensitive data redaction**: Application logs automatically strip access tokens, refresh tokens, and authentication codes.
+
+### Multi-Tenant Isolation
+- PostgreSQL Row-Level Security (RLS) enforces strict tenant isolation at the database level.
+- Every database transaction sets session variables for the authenticated user's tenant, ensuring queries automatically filter to the correct organization's data.
+
+### Infrastructure
+- Hosted on Microsoft Azure, West Europe (EU) region.
+- All data transmitted over TLS 1.2+.
+- No data is used for marketing, advertising, or cross-site tracking.
+
+### Compliance
+- GDPR compliant. Data Controller: Artomation B.V. (Netherlands).
+- Users can delete their account and all associated data at any time via the admin portal.
+- Data Processing Agreements in place with Microsoft Azure.
+- Privacy Policy: https://flow-runner.com/privacy
+- Terms of Service: https://flow-runner.com/terms
+
+---
+
+## Authentication
+
+### Microsoft Authentication
+- Users sign in with their Microsoft 365 work account via Azure AD Single Sign-On (SSO).
+- The first user from an organization automatically becomes the FlowRunner admin.
+- Tokens are cached locally and refreshed automatically.
+
+### Salesforce Authentication
+- Organizations connect Salesforce orgs via OAuth 2.0 from the admin portal.
+- Individual users connect their personal Salesforce account to execute flows in their own user context.
+- Access tokens and refresh tokens are encrypted and stored securely. Tokens are refreshed automatically.
+
+### Authorization
+- **Regular Users**: Can run enabled flows, view lookup results, and manage their own profile.
+- **Administrators**: Can manage org connections, flows, users, licenses, and organization settings.
+
+---
+
+## Pricing
+
+FlowRunner uses a simple, usage-based monthly subscription model.
+
+### Monthly Pricing
+- **User seat**: €12/month per active user (a user who runs at least one Flow in a billing period; counted across Outlook and Gmail). USD equivalent shown on the marketing site and at checkout for US customers.
+- **Salesforce Org**: €50/month per connected Salesforce org (USD equivalent shown on the marketing site and at checkout for US customers).
+
+All prices exclude VAT. No credit card required for trial.
+
+### What's Included
+- Unlimited Flow Runs
+- Email context auto-fill (input variables)
+- Record Lookup
+- Multi-Org support
+- Admin Portal
+- Email support
+
+### Free Trial
+- 14-day free trial for all new organizations.
+- Trial limits: 1 production org + 1 sandbox org, 1 user seat.
+- No credit card required.
+- After trial expiration, a subscription is required to continue using FlowRunner.
+
+### Billing
+- Monthly or annual billing cycles available.
+- Payment via credit card or bank transfer.
+- Automatic renewal unless cancelled before the end of the billing cycle.
+- Managed via Stripe-powered billing portal.
+
+---
+
+## Prerequisites
+
+To use FlowRunner, you need:
+
+1. **Microsoft Office 365 or Outlook** account with an active license.
+2. **Salesforce** account with:
+   - Appropriate permissions to execute Flows and access API endpoints.
+   - The FlowRunner managed package installed (requires Salesforce System Administrator for installation).
+3. A stable internet connection.
+
+---
+
+## FAQ
+
+### What is FlowRunner?
+FlowRunner is a Microsoft Outlook Add-in that lets you run Salesforce Screen Flows directly from your email inbox. It surfaces relevant Salesforce records when you open an email and lets you take action without switching to Salesforce.
+
+### Who is FlowRunner for?
+FlowRunner is built for teams whose daily work lives in Outlook but whose data and processes live in Salesforce — sales teams, support teams, account managers, and anyone who needs to update Salesforce from email.
+
+### Does FlowRunner store my emails?
+No. FlowRunner processes email metadata (sender, recipients, subject) in-memory only to query Salesforce. Email content is never written to the FlowRunner database or logs.
+
+### Can I customize which records are looked up?
+Yes. FlowRunner includes a customizable auto-launched flow (`flowRunnerRecordLookup`) that you can modify to match any records by any criteria — email address, domain, custom fields, or any logic you define.
+
+### Can I connect multiple Salesforce orgs?
+Yes. FlowRunner supports connecting multiple production and sandbox orgs to a single account. Flows and lookup results are grouped by org.
+
+### Which Outlook platforms are supported?
+FlowRunner works on Outlook for Windows (desktop), Outlook for Mac (desktop), and Outlook on the Web.
+
+### How does FlowRunner render Salesforce Flows?
+FlowRunner uses Salesforce Lightning Out 2.0 to render Screen Flows natively inside Outlook. Your flows look and behave exactly as they do in Salesforce.
+
+### Can I control which flows users see?
+Yes. Administrators can enable/disable flows per org and assign specific flows to specific users from the admin portal.
+
+### Is FlowRunner secure?
+Yes. FlowRunner uses Microsoft SSO for authentication, Salesforce OAuth 2.0 for org connections, AES-256 encryption for stored tokens, and PostgreSQL Row-Level Security for multi-tenant data isolation. All data is hosted on Microsoft Azure in the EU.
+
+### How do I deploy FlowRunner to my organization?
+FlowRunner can be deployed organization-wide via the Microsoft 365 Admin Center under "Integrated Apps". No local installation or desktop configuration is required.
+
+### What happens after the free trial?
+After the 14-day free trial expires, a paid subscription is required to continue using FlowRunner. You can subscribe from the admin portal.
+
+### How do I get support?
+Contact us at hello@flow-runner.com.

@@ -1,0 +1,62 @@
+# One Trading API
+
+## Docs
+- Futures [Introduction](https://docs.onetrading.com/futures/introduction.md): 
+- Futures [Funding Rate Methodology](https://docs.onetrading.com/futures/funding-rate-methodology.md): 
+- [Introduction](https://docs.onetrading.com/websocket.md): 
+- [Authenticate](https://docs.onetrading.com/websocket/authenticate.md): 
+- [Subscribe](https://docs.onetrading.com/websocket/subscribe.md): 
+- [Ping / Pong](https://docs.onetrading.com/ping-pong-347234m0.md): 
+- Trading [Introduction](https://docs.onetrading.com/websocket/trading/introduction.md): 
+- Trading [Create Order](https://docs.onetrading.com/create-order-348513m0.md): 
+- Trading [Cancel All Orders](https://docs.onetrading.com/cancel-all-orders-346069m0.md): 
+- Trading [Cancel Order by Client ID](https://docs.onetrading.com/cancel-order-by-client-id-347088m0.md): 
+- Trading [Cancel Order by Order ID](https://docs.onetrading.com/cancel-order-by-order-id-347090m0.md): 
+- Trading [Margin Update](https://docs.onetrading.com/margin-update-347094m0.md): 
+- Trading [Settlement](https://docs.onetrading.com/settlement-347095m0.md): 
+- Trading [Funding Payment](https://docs.onetrading.com/funding-payment-347233m0.md): 
+- Trading [Order Booked](https://docs.onetrading.com/order-booked-348517m0.md): 
+- Trading [Order Rejected](https://docs.onetrading.com/order-rejected-348518m0.md): 
+- Trading [Order Closed](https://docs.onetrading.com/order-closed-348519m0.md): 
+- Trading [Trade Executed](https://docs.onetrading.com/trade-executed-348520m0.md): 
+- Trading [Order Fully Filled](https://docs.onetrading.com/order-fully-filled-348522m0.md): 
+- Trading [Move Order](https://docs.onetrading.com/move-order-348478m0.md): 
+- Trading [Balance Adjustment](https://docs.onetrading.com/balance-adjustment-348525m0.md): 
+- Orderbook [Introduction](https://docs.onetrading.com/websocket/orderbook/introduction.md): 
+- Orderbook [Orderbook Snapshot](https://docs.onetrading.com/websocket/orderbook/snapshot.md): 
+- Orderbook [Orderbook Update](https://docs.onetrading.com/websocket/orderbook/update.md): 
+- Price Ticks [Introduction](https://docs.onetrading.com/websocket/price-ticks/introduction.md): 
+- Price Ticks [Price Tick](https://docs.onetrading.com/websocket/price-ticks/tick.md): 
+- Book Ticker [Introduction](https://docs.onetrading.com/websocket/book-ticker/introduction.md): 
+- Book Ticker [Book Tick](https://docs.onetrading.com/websocket/book-ticker/tick.md): 
+
+## API Docs
+- Public [Currencies](https://docs.onetrading.com/rest/public/currencies.md): Get a list of all available currencies.
+- Public [Instruments](https://docs.onetrading.com/rest/public/instruments.md): Retrieves a list of available instrument pairs on the exchange, including details about the base and quote assets, precision levels, minimum and maximum trading limits, and the current market type. The response provides key information needed for trading, such as instrument unique IDs, pricing, and state (ACTIVE or otherwise). Optionally, the results can be filtered by market type using the type query parameter.
+- Public [Candlesticks](https://docs.onetrading.com/rest/public/candlesticks.md): Get instrument candlesticks for a specified time period. The requested time period may include up to 5000 candlesticks; for example, a request for minutely candles is limited to at most approximately 83 hours. Please note that fewer candlesticks than the theoretical limit may be provided for a given time period due to gaps in trading activity. Additionally, the endpoint now accepts a parameter called 'countBack,' which specifies the exact number of bars to load. If not provided, the default value is set to 5000. It's important to note that 'countBack' takes precedence over 'from' when both parameters are present.
+- Public [Fee Groups](https://docs.onetrading.com/rest/public/fee-groups.md): Returns details of all fee groups. Fee groups are separated into product types.
+- Public [Order Book](https://docs.onetrading.com/rest/public/orderbook.md): Get the specified instrument's order book.
+- Public [Market Ticker](https://docs.onetrading.com/rest/public/market-ticker.md): The market ticker provides information about the current state of a market and summary statistics on activity within the last 24 hours. Volume, low, high and price change are calculated based on a sliding window of trades starting 24 hours and using minutely granularity. Market ticks are every minute when the 24 hour sliding window is moved forward and additionally on each trade.
+- Public [Market Ticker For Instrument](https://docs.onetrading.com/rest/public/market-ticker-instrument.md): Get market statistics on a single market.
+- Public [Time](https://docs.onetrading.com/rest/public/time.md): Returns the current server time in UTC.
+- Trading [Balances](https://docs.onetrading.com/rest/trading/balances.md): Returns the balance details for an account.
+- Trading [Fees](https://docs.onetrading.com/rest/trading/fees.md): Current fees for account. Fees are calculated and combined across all subccounts.
+- Trading [Get Orders](https://docs.onetrading.com/rest/trading/get-orders.md): Returns a paginated list of orders.
+- Trading [Create Order](https://docs.onetrading.com/rest/trading/create-order.md): ## Create a New Order
+- Trading [Get Order by Order ID](https://docs.onetrading.com/rest/trading/get-order-order-id.md): Get information about an existing order using the exchange generated order_id.
+- Trading [Get Order by Client ID](https://docs.onetrading.com/rest/trading/get-order-client-id.md): Get information about an existing order using the user or exchange generated client_id.
+- Trading [Cancel All Orders](https://docs.onetrading.com/rest/trading/cancel-all-orders.md): Submits a cancel request for all open orders of an account.
+- Trading [Cancel Order by Order ID](https://docs.onetrading.com/rest/trading/cancel-order-order-id.md): Submits a request to close an open order by providing a valid `order_id`.
+- Trading [Cancel Order by Client ID](https://docs.onetrading.com/rest/trading/cancel-order-client-id.md): Submits a request to cancel an open order by providing a valid `client_id`.
+- Trading [Get Trades for Order](https://docs.onetrading.com/rest/trading/get-trades-for-order.md): Get list of trades for a specific order.
+- Trading [Get Trades](https://docs.onetrading.com/rest/trading/get-trades.md): Retrieves trades executed within the specified date range, sorted by timestamp in descending order.
+- Trading [Get Trade by Trade ID](https://docs.onetrading.com/rest/trading/get-trade-by-trade-id.md): Get information about an executed trade using the exchange generated trade_id.
+- Futures [Funding Payments](https://docs.onetrading.com/funding-payments-3877628e0.md): Returns a paginated list of funding payments, grouped by instrument code and sorted in descending order by timestamp. If no instrument code is provided, funding payments are fetched for all markets.
+- Futures [Positions](https://docs.onetrading.com/positions-3928484e0.md): Retrieves closed futures positions that were opened between a requested date range. 
+- Futures [Position Trades](https://docs.onetrading.com/position-trades-3928491e0.md): Returns an array of trade records for the specified position.
+- Futures [Position Funding Payments](https://docs.onetrading.com/position-funding-payments-3938928e0.md): Returns an array of funding payment records for the specified position, sorted by timestamp in descending order (most recent first).
+- Futures [Funding Rate Settings](https://docs.onetrading.com/funding-rate-settings-4022131e0.md): Returns an array of funding rate settings. Refer to the funding rate methodology for a detailed explanation of the calculation logic.
+- Futures [Current Funding Rate](https://docs.onetrading.com/futures/current-funding-rate.md): Retrieve the latest preliminary funding rate for one or all futures instruments. The rate is recalculated every minute and settled every 4 hours at fixed intervals (00:00 UTC, 04:00 UTC, 08:00 UTC, 12:00 UTC, 16:00 UTC, and 20:00 UTC).
+- Futures [Funding Rate History](https://docs.onetrading.com/futures/funding-rate-history.md): Retrieve the historical funding rates for a specific instrument. This endpoint provides the settled funding rates, updated every 4 hours.
+- Futures [Futures Portfolio Summary](https://docs.onetrading.com/futures/summary.md): This endpoint provides a real-time summary of a user's futures portfolio on the exchange. It returns details about the current portfolio, including the user's account equity, available margin, margin used and positions. The summary is updated with settlements every minute, ensuring users have the most accurate and up-to-date information about their portfolio.
+- Futures [Get Futures Open Positions](https://docs.onetrading.com/futures/positions.md): Provides all open futures positions for the authenticated user. It provides detailed information about each position, including size, direction, entry price, realised PnL, and the most recent trade and settlement timestamps. Designed for users who want a consolidated view of their active positions, this endpoint ensures that real-time data is available, reflecting the platform’s minute-level settlements.

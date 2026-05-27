@@ -1,0 +1,59 @@
+# Keeper Wallet Docs
+
+## English
+
+- [Keeper Wallet Overview](https://docs.keeper-wallet.app/overview.md)
+- [Getting started](https://docs.keeper-wallet.app/browser-extension/quick-start.md)
+- [Switch lang](https://docs.keeper-wallet.app/browser-extension/lang.md)
+- [Assets](https://docs.keeper-wallet.app/browser-extension/assets.md)
+- [Connect website](https://docs.keeper-wallet.app/browser-extension/connect.md)
+- [Transactions](https://docs.keeper-wallet.app/browser-extension/tx.md)
+- [Accounts](https://docs.keeper-wallet.app/browser-extension/accounts.md)
+- [Backup](https://docs.keeper-wallet.app/browser-extension/backup.md)
+- [Address book](https://docs.keeper-wallet.app/browser-extension/address-book.md)
+- [Networks](https://docs.keeper-wallet.app/browser-extension/networks.md)
+- [Getting started](https://docs.keeper-wallet.app/mobile-app/quick-start.md)
+- [Assets](https://docs.keeper-wallet.app/mobile-app/assets.md)
+- [Connect website](https://docs.keeper-wallet.app/mobile-app/connect.md)
+- [Transactions](https://docs.keeper-wallet.app/mobile-app/tx.md)
+- [Security](https://docs.keeper-wallet.app/mobile-app/security.md)
+- [Accounts](https://docs.keeper-wallet.app/mobile-app/accounts.md)
+- [Getting started](https://docs.keeper-wallet.app/web-app-beta/quick-start.md)
+
+## Русский
+
+- [Обзор Keeper Wallet](https://docs.keeper-wallet.app/ru/overview.md)
+- [Начало](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/quick-start.md)
+- [Язык интерфейса](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/lang.md)
+- [Активы](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/assets.md)
+- [Подключение к сайту](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/connect.md)
+- [Транзакции](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/tx.md)
+- [Аккаунты](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/accounts.md)
+- [Резервное копирование](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/backup.md)
+- [Список контактов](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/address-book.md)
+- [Сети](https://docs.keeper-wallet.app/ru/rasshirenie-brauzera/networks.md)
+- [Начало](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/quick-start.md)
+- [Активы](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/assets.md)
+- [Подключение](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/connect.md)
+- [Транзакции](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/tx.md)
+- [Безопасность](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/security.md)
+- [Аккаунты](https://docs.keeper-wallet.app/ru/mobilnoe-prilozhenie/accounts.md)
+- [Начало](https://docs.keeper-wallet.app/ru/veb-prilozhenie-beta/quick-start.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.keeper-wallet.app/overview.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

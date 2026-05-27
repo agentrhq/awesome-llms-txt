@@ -1,0 +1,75 @@
+# Lumiet
+
+> Chat-based AI image generator with 4K output and accurate text rendering. No prompt engineering needed — describe what you want, refine through conversation, and download production-ready images. Four models in one chat: Nano Banana (fast drafts), Nano Banana 2 (pro-quality at flash speed), Nano Banana Pro (4K with text), and Flux Fast (ultra-low-cost).
+
+Lumiet is a conversational AI image generation platform at [lumiet.net](https://lumiet.net). Designed for e-commerce sellers, content creators, marketers, and educators. Users describe their needs in plain language and iterate through multi-turn chat. The AI remembers context, supports reference image uploads, and outputs in up to 4K resolution with readable text — all included for commercial use.
+
+Key differentiators:
+- **Chat-native interface**: Multi-turn conversation with full session history, no single-turn prompt limits
+- **4K resolution**: Nano Banana Pro outputs at 3840x2160, sharp enough for large-format printing
+- **Accurate text rendering**: Logos, headlines, multilingual labels render clean in generated images
+- **Four models in one chat**: Switch between speed, quality, and cost per task without leaving the session
+- **Reference image editing**: Upload existing photos and modify through conversation
+- **Credit-based pricing**: Pay per image, not flat subscription — start free with 10 credits, no card required
+
+## Core Features
+
+- [Chat-to-Generate](https://lumiet.net/#chat): Conversational image generation with multi-turn refinement and reference image support
+- [Model Selection](https://lumiet.net/#chat): Four AI models — Nano Banana (5 credits, 2-5s, 1K), Nano Banana 2 (7-14 credits, 4-6s, up to 4K), Nano Banana Pro (10-20 credits, up to 4K, text rendering), Flux Fast (1 credit, ultra-fast)
+- [Aspect Ratio Presets](https://lumiet.net/#chat): 7 optimized ratios — 1:1, 4:5, 9:16, 16:9, 3:4, 4:3, 2:3
+- [Character Consistency](https://lumiet.net/#chat): Keep faces and styles consistent across scenes for brand mascots and recurring characters
+- [Text Rendering](https://lumiet.net/#chat): Nano Banana Pro renders accurate text in images — logos, headlines, multilingual labels
+- [Reference Image Editing](https://lumiet.net/#chat): Upload up to 8 reference images (Pro model) and modify through conversation
+
+## Model Pages
+
+- [Nano Banana 2](https://lumiet.net/model/nano-banana-2): Fast 4K AI image generator powered by Gemini 3.1 Flash Image. 4-6 second generation, 14 aspect ratios including ultra-wide (4:1, 8:1), controllable thinking mode, Google Image Search grounding, up to 14 reference images. 7 credits (1K/2K) or 14 credits (4K) per image.
+- [Nano Banana Pro](https://lumiet.net/model/nano-banana-pro): Flagship 4K AI image generator powered by Gemini 3 Pro Image. Accurate text rendering for logos, headlines, and multilingual labels. Deep reasoning (Thinking) for complex compositions. Character consistency across scenes. 10 credits (1K/2K) or 20 credits (4K) per image.
+
+## Tools
+
+- [AI Photoshoot](https://lumiet.net/tool/ai-photoshoot): Generate professional product photos through AI-powered conversation. Upload your product, describe the scene, and get 4K studio-quality images in seconds. White background, lifestyle scenes, fashion model shots — no studio, no photographer needed. Free to try with 10 credits.
+- [AI Background Remover](https://lumiet.net/tool/ai-background-remover): Remove image backgrounds instantly with AI. Upload a product photo, get a clean transparent PNG in under 1 second. Free to use — no credits consumed, no sign-up required. Supports batch processing, works with any product category (jewelry, clothing, electronics, furniture, food, cosmetics). Combine with AI Photoshoot to place products in new scenes after removal.
+- [AI Clothes Changer](https://lumiet.net/tool/ai-clothes-changer): Change or swap outfits on model photos through AI-powered conversation. Upload a model photo, describe the garment you want, and get a realistic outfit change in seconds. Works with tops, dresses, outerwear, and full-outfit replacements. Free to try with 10 credits — no studio, no reshoots needed.
+
+## Pricing
+
+- [Pricing Plans](https://lumiet.net/pricing): Free (10 credits), Pro ($9.9/mo, 500 credits), Premium ($29.9/mo, 3000 credits). Credit-based: Nano Banana 5cr, Nano Banana 2 7-14cr, Nano Banana Pro 10-20cr, Flux Fast 1cr. Yearly plans offer 2 months free.
+
+## Use Cases
+
+- [E-Commerce Product Photography](https://lumiet.net/#waterFeatures): White-background and lifestyle product shots at ~$0.20/image vs $30-50 photographer session
+- [Content Creator Thumbnails](https://lumiet.net/#waterFeatures): YouTube thumbnails, TikTok covers with sharp text — 5-minute iteration vs 2-hour Photoshop
+- [Social Media Marketing](https://lumiet.net/#waterFeatures): Multi-ratio variants from single prompt for Instagram, Reels, Twitter
+- [Educational Illustrations](https://lumiet.net/#waterFeatures): Diagrams, maps, annotated illustrations with accurate labels in multiple languages
+
+## Prompt Library
+
+- [Ready-Made Prompts](https://lumiet.net/#prompt-library): Pre-built prompts for product photos, thumbnails, brand visuals, and diagrams — one click to generate
+
+## FAQ
+
+- [Frequently Asked Questions](https://lumiet.net/#faq): How chat-based generation works, model differences, pricing, commercial use, reference image support, resolution options
+
+## Changelog
+
+- [Changelog](https://lumiet.net/changelog): Track every update to Lumiet — new features, improvements, and bug fixes. Includes version numbers, release dates, and detailed descriptions.
+
+## Support & Feedback
+
+- [Support & Feedback](https://lumiet.net/support): Report bugs, request features, or ask questions about Lumiet. Submit feedback with optional image attachments — the team reviews every submission.
+
+## Optional
+
+- [Nano Banana Pro Prompts for Shopify Product Images](https://lumiet.net/blog/tutorials/shopify-product-photography-nano-banana-pro-prompts): Complete guide to generating 6 Shopify store product images with Nano Banana Pro — hero shots, lifestyle scenes, feature callouts, size references, mobile squares, and collection banners with visual anchor technique and Commerce Cream style presets
+- [Nano Banana Pro Prompts for Amazon Listing Images](https://lumiet.net/blog/tutorials/nano-banana-pro-prompts-amazon-listing-images): Step-by-step guide to generating a complete 7-image Amazon listing set with Nano Banana Pro — includes reference image technique for cross-image product and typography consistency
+- [Nano Banana 2 Features Review](https://lumiet.net/blog/nano-banana-2-features-review): In-depth review of Nano Banana 2 capabilities — 4K output, flash speed, and Chinese text rendering
+- [Nano Banana 2 vs Pro Comparison](https://lumiet.net/blog/nano-banana-2-vs-pro-comparison): Side-by-side comparison of Nano Banana 2 and Nano Banana Pro — speed, quality, cost trade-offs
+- [Nano Banana 2 Pricing & Cost Guide](https://lumiet.net/blog/nano-banana-2-pricing-cost-guide): Complete pricing breakdown with per-image costs and plan recommendations
+- [Nano Banana 2 Quality Benchmark](https://lumiet.net/blog/nano-banana-2-quality-benchmark): Image quality benchmarks across product photos, text rendering, and creative styles
+- [Blog](https://lumiet.net/blog): Guides, tutorials, and comparisons for AI image generation
+- [Privacy Policy](https://lumiet.net/privacy): Data handling and privacy practices
+- [Terms of Service](https://lumiet.net/terms): Usage terms and conditions
+- [White Background Product Photography: AI vs Studio](https://lumiet.net/blog/guides/white-background-product-photography-ai-vs-studio): Compare AI-generated vs studio white background product photography — cost breakdowns, before & after results across 6 product categories, and step-by-step guide to creating e-commerce-ready images
+- [AI Virtual Try-On for E-Commerce Guide](https://lumiet.net/blog/guides/ai-virtual-try-on-ecommerce-guide): Complete guide to AI virtual try-on for clothing, jewelry, glasses, and shoes — multi-turn chat workflow, 3-stage generation method, and cost comparison
+- [Refund Policy](https://lumiet.net/refund-policy): Refund conditions, eligibility, and process for credit-based purchases

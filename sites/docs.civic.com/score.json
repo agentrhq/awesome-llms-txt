@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "domain": "docs.civic.com",
+  "display_name": "Civic Docs",
+  "category": "auth",
+  "verified_url": "https://docs.civic.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:35Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 12719,
+  "last_modified": "Tue, 19 May 2026 15:20:51 GMT",
+  "freshness_age_days": 7,
+  "score": 77,
+  "grade": "B+",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 1,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 7,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 6,
+      "reasons": []
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 5,
+      "reasons": [],
+      "kb": 12.4
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 1,
+      "reasons": [
+        "em_dashes_in_intro"
+      ]
+    }
+  ],
+  "parsed": {
+    "h1": "Civic Docs",
+    "h1_count": 1,
+    "blockquote": "Civic is the agent integrator for mid-market businesses. We ship forward deployed agents — production agents scoped to your workflow, built on your stack, governed from day one. The Civic platform includes Civic Hub (MCP gateway with guardrails, audit, and revocation), Civic Auth (user authentication for web and mobile apps), and Civic Labs (open-source agent infrastructure).",
+    "section_count": 9,
+    "subsection_count": 2,
+    "link_count": 90,
+    "value_link_count": 90,
+    "low_value_link_count": 0,
+    "raw_bytes": 12719
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

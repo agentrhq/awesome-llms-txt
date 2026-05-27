@@ -1,0 +1,12 @@
+# Kruzty
+> A community-driven platform for sharing and downloading live wallpapers for pc and mobile devices.
+
+## About
+Kruzty offers a wide range of animated wallpapers, from anime to nature themes, with widgets for users to create their own designs.
+
+## Key Pages
+- [Live Wallpapers](/): Browse our collection of live wallpapers.
+- [Download](/download): Get the Kruzty app for Windows PC and Android.
+- [Categories](/categories): A wide range of categories to choose Live Wallpapers from.
+- [Signup](/): Signup to Kruzty.
+- [Upload Wallpapers](/create): Share live wallpapers with the community.

@@ -1,0 +1,90 @@
+# Krystal Docs
+
+## Krystal
+
+- [Overview](https://docs.krystal.app/overview.md)
+- [Getting Started](https://docs.krystal.app/getting-started.md)
+- [FAQ](https://docs.krystal.app/faq.md)
+- [About us](https://docs.krystal.app/about-us.md)
+- [TOKEN](https://docs.krystal.app/ecosystem/token.md)
+- [Roadmap 2025](https://docs.krystal.app/ecosystem/roadmap-2025.md)
+- [Metrics](https://docs.krystal.app/ecosystem/key-metrics.md)
+- [Fees](https://docs.krystal.app/ecosystem/fees.md)
+- [\[Coming soon\] Manage an Auto-Farm Vault](https://docs.krystal.app/guides/coming-soon-manage-an-auto-farm-vault.md)
+- [Referral & Affiliate](https://docs.krystal.app/guides/ref.md): Grow with your community. Earn from your influence.
+- [Krystal's Managed Vaults](https://docs.krystal.app/guides/krystal-managed-vaults.md)
+- [Liquidity Vaults](https://docs.krystal.app/products/vaults.md)
+- [What is A Liquidity Vault](https://docs.krystal.app/products/vaults/what-is-liquidity-vault.md)
+- [Auto-Farm Vault](https://docs.krystal.app/products/vaults/auto-farm.md)
+- [Create an Auto Farm Vault](https://docs.krystal.app/products/vaults/auto-farm/create-an-auto-farm-vault.md)
+- [Manage an Auto Farm Vault](https://docs.krystal.app/products/vaults/auto-farm/manage-an-auto-farm-vault.md)
+- [Agent Interface](https://docs.krystal.app/products/vaults/auto-farm/agent-interface.md)
+- [Shared Vault](https://docs.krystal.app/products/vaults/shared-vault.md)
+- [Create A Shared Vault](https://docs.krystal.app/products/vaults/shared-vault/start-a-vault.md)
+- [Publish A Shared Vault](https://docs.krystal.app/products/vaults/shared-vault/publish-vault.md)
+- [Join A Shared Vault](https://docs.krystal.app/products/vaults/shared-vault/join-a-vault.md)
+- [Vault vs Strategy](https://docs.krystal.app/products/vaults/vault-vs-strategy.md): WTH is Liquidity Position, Liquidity Strategy, and now Liquidity Vault?
+- [Convert Your LP Strategy into a Vault](https://docs.krystal.app/products/vaults/convert-your-lp-strategy-into-a-vault.md)
+- [Link Wallet To Your X Account](https://docs.krystal.app/products/vaults/connect-x.md)
+- [Vault: Risk Evaluation](https://docs.krystal.app/products/vaults/risks.md)
+- [LP Management Tools](https://docs.krystal.app/products/liquidity-management.md)
+- [Explore Hot Pools](https://docs.krystal.app/products/liquidity-management/hot-pools.md)
+- [Discover Existing Strategies](https://docs.krystal.app/products/liquidity-management/strategies.md)
+- [Profile Dashboard](https://docs.krystal.app/products/liquidity-management/profile-dashboard.md)
+- [Manage Liquidity Position](https://docs.krystal.app/products/liquidity-management/lp-transactions.md)
+- [Provide Liquidity](https://docs.krystal.app/products/liquidity-management/lp-transactions/provide-liquidity.md)
+- [Remove Liquidity](https://docs.krystal.app/products/liquidity-management/lp-transactions/remove-liquidity.md)
+- [Claim Fees](https://docs.krystal.app/products/liquidity-management/lp-transactions/claim-fees.md)
+- [Compound](https://docs.krystal.app/products/liquidity-management/lp-transactions/compound.md)
+- [Rebalance](https://docs.krystal.app/products/liquidity-management/lp-transactions/rebalance.md)
+- [Auto-Rebalance](https://docs.krystal.app/products/liquidity-management/lp-transactions/auto-rebalance.md)
+- [Auto-Compound](https://docs.krystal.app/products/liquidity-management/lp-transactions/auto-compound.md)
+- [Auto-Exit](https://docs.krystal.app/products/liquidity-management/lp-transactions/auto-exit.md)
+- [How to find LPing strategies and add liquidity on Solana with Krystal](https://docs.krystal.app/products/liquidity-management/how-to-find-lping-strategies-and-add-liquidity-on-solana-with-krystal.md)
+- [Telegram Bot](https://docs.krystal.app/products/telegram-bot.md)
+- [Platform Config](https://docs.krystal.app/products/platform-config.md): Values set by Krystal at the system level to guarantee safety and provide a consistent experience for all users.
+- [Price Impact Protection](https://docs.krystal.app/products/platform-config/price-impact-protection.md): Protects users from losses caused by unfavorable trade execution
+- [Automation Retry Policy](https://docs.krystal.app/products/platform-config/automation-retry-policy.md): Defines Krystal’s retry mechanism for automation systems.
+- [Others](https://docs.krystal.app/products/others.md)
+- [Swap](https://docs.krystal.app/products/others/swap.md)
+- [Send & Multi-Send](https://docs.krystal.app/products/others/send-and-multi-send.md)
+- [Token Approvals](https://docs.krystal.app/products/others/token-approvals.md)
+- [Hot Tokens](https://docs.krystal.app/products/others/hot-tokens.md)
+- [Campaigns](https://docs.krystal.app/products/others/campaigns.md)
+- [Zap In without Jito](https://docs.krystal.app/products/others/zap-in-without-jito.md)
+- [Point System](https://docs.krystal.app/products/others/point-system.md)
+- [Legacy users](https://docs.krystal.app/products/others/point-system/legacy-users.md)
+- [Early Adopters](https://docs.krystal.app/products/others/point-system/early-adopters.md)
+- [Current users](https://docs.krystal.app/products/others/point-system/current-users.md)
+- [Smart Contracts](https://docs.krystal.app/technical/smart-contracts.md)
+- [Security](https://docs.krystal.app/technical/security.md)
+- [API Docs](https://docs.krystal.app/technical/api-docs.md)
+- [Supported Chains & Protocols](https://docs.krystal.app/technical/supported-chains-and-protocols.md)
+- [Mobile Wallet](https://docs.krystal.app/deprecated/mobile-wallet.md)
+- [Create a new wallet](https://docs.krystal.app/deprecated/mobile-wallet/create-a-new-wallet.md)
+- [Import a wallet](https://docs.krystal.app/deprecated/mobile-wallet/import-a-wallet.md)
+- [Use Zap In on the Krystal Wallet App](https://docs.krystal.app/deprecated/mobile-wallet/use-zap-in-on-the-krystal-wallet-app.md)
+- [Connect multiple wallets on Krystal iOS App](https://docs.krystal.app/deprecated/mobile-wallet/connect-multiple-wallets-on-krystal-ios-app.md)
+- [Connect multiple wallets on Krystal Android app](https://docs.krystal.app/deprecated/mobile-wallet/connect-multiple-wallets-on-krystal-android-app.md)
+- [Back up wallet's key](https://docs.krystal.app/deprecated/mobile-wallet/back-up-wallets-key.md)
+- [Krystal Wallet Migration Guide](https://docs.krystal.app/deprecated/mobile-wallet/krystal-wallet-migration-guide.md): Exporting Your Wallet from Krystal and Importing into MetaMask.
+- [FAQ](https://docs.krystal.app/deprecated/mobile-wallet/faq.md)
+- [Krystal ILO](https://docs.krystal.app/deprecated/krystal-ilo.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.krystal.app/overview.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

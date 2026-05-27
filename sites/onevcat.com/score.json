@@ -1,0 +1,109 @@
+{
+  "schema_version": 2,
+  "domain": "onevcat.com",
+  "display_name": "OneV's Den",
+  "category": "dev-tools",
+  "verified_url": "https://onevcat.com/llms.txt",
+  "fetched_at": "2026-05-27T05:31:48Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 67405,
+  "last_modified": "Mon, 16 Mar 2026 15:30:46 GMT",
+  "freshness_age_days": 71,
+  "score": 64,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 18,
+      "reasons": []
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 11,
+      "reasons": [
+        "thin_sectioning",
+        "missing_canonical_sections"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 6,
+      "reasons": [
+        "no_llms_full_link",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 7,
+      "reasons": [],
+      "age_days": 71,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 0,
+      "reasons": [
+        "no_auth_keywords",
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 2,
+      "reasons": [
+        "oversized_66kb"
+      ],
+      "kb": 65.8
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "OneV's Den",
+    "h1_count": 1,
+    "blockquote": "The blog of @onevcat. Writing about technology (mainly iOS), design, and life.  onevcat 的博客，关于技术（主要是 iOS）、设计和生活。",
+    "section_count": 2,
+    "subsection_count": 0,
+    "link_count": 162,
+    "value_link_count": 161,
+    "low_value_link_count": 1,
+    "raw_bytes": 67405
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}

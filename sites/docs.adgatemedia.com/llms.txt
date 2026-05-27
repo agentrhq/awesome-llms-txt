@@ -1,0 +1,42 @@
+# Prodege Performance Developer Documentation
+
+## Developer Documentation
+
+- [Advertiser Reporting API](https://docs.prodegeads.com/apis/advertiser-reporting-api.md)
+- [User Based API (v1)](https://docs.prodegeads.com/publisher-apis/user-based-api-v1.md)
+- [Get Offers](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/get-offers.md): Main API endpoint to fetch available offers for a particular user. Use this to display offers in your offer wall.
+- [Get Offers By Ids](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/get-offers-by-ids.md): Gets the available information for the provided offer IDs, including interaction history.
+- [Post Devices](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/post-devices.md): If a user owns a mobile device, call this endpoint to store the devices. If provided, desktop users will be able to see available mobile offers.
+- [Get History](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/get-history.md): API endpoint to fetch user history. It returns a list of all offers the user has interacted with, and how many points were earned for each one.
+- [Store Mobile Advertising Id](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/store-mobile-advertising-id.md)
+- [Get Offer History - DEPRECATED](https://docs.prodegeads.com/publisher-apis/user-based-api-v1/get-offer-history-deprecated.md): API endpoint to fetch historical details for a specific offer. Use it to get the status of each offer event.
+- [Offers API (v3)](https://docs.prodegeads.com/publisher-apis/offers-api.md)
+- [Offers API (v2)](https://docs.prodegeads.com/publisher-apis/offers-api-1.md)
+- [Publisher Reporting API](https://docs.prodegeads.com/publisher-apis/publisher-reporting-api.md)
+- [AdGate Rewards Setup](https://docs.prodegeads.com/adgate-rewards-monetization/untitled.md): This page describes how to setup your AdGate Rewards offer wall.
+- [Web Integration](https://docs.prodegeads.com/adgate-rewards-monetization/web-integration.md): If you wish to integrate the offer wall on your website, this page describes the steps needed to do so.
+- [iOS SDK](https://docs.prodegeads.com/adgate-rewards-monetization/ios-sdk.md): This page describes how to install the AdGate Media iOS SDK.
+- [Android SDK](https://docs.prodegeads.com/adgate-rewards-monetization/android-sdk.md): This page describes how to install the AdGate Media iOS SDK.
+- [Unity SDK](https://docs.prodegeads.com/adgate-rewards-monetization/unity-sdk.md): This page describes how to install the AdGate Media Unity SDK.
+- [Magic Receipts Standalone](https://docs.prodegeads.com/adgate-rewards-monetization/magic-receipts-standalone.md): This page describes how to setup Magic Receipts as a standalone offering.
+- [Postback Information](https://docs.prodegeads.com/postbacks/postback-information.md): This page describes how a postback works.
+- [Magic Receipts Postbacks](https://docs.prodegeads.com/postbacks/magic-receipts-postbacks.md): This page describes how Magic Receipts postback works.
+- [PHP Postback Examples](https://docs.prodegeads.com/postbacks/php-postback-examples.md): See some sample code for capturing postbacks on your server.
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://docs.prodegeads.com/apis/advertiser-reporting-api.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

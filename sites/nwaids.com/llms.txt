@@ -1,0 +1,90 @@
+# Infectious Disease Specialists of Northwest Arkansas
+
+> The only dedicated infectious disease practice in Northwest Arkansas. Serving the region since 2003. New patient intake by physician referral only.
+
+## About
+
+Infectious Disease Specialists of Northwest Arkansas (IDS of NWA) is a physician-owned medical practice providing specialized infectious disease care. Founded in 2003 by Dr. Stephen Hennigan, who first brought infectious disease expertise to Northwest Arkansas in 1994. We serve patients throughout the region from offices in Fayetteville and Rogers, with hospital affiliations at Washington Regional Medical Center, Mercy Hospital Northwest Arkansas, and Northwest Medical Center Springdale.
+
+## Provider
+
+### Stephen Hennigan, M.D. (sole physician)
+- Board-certified in Internal Medicine and Infectious Disease
+- Medical degree from LSU School of Medicine, Shreveport
+- Internal Medicine residency at Dartmouth-Hitchcock Medical Center (1988-1991)
+- Infectious Disease fellowship at Vanderbilt University
+- Practicing infectious disease in Northwest Arkansas since 1994
+- Hospital affiliations: Washington Regional, Mercy NWA, Northwest Medical Center Springdale
+- Honors: Alpha Omega Alpha, Upjohn Award, Hargrove Memorial Award
+
+Former colleagues Dr. Daniel Young and Dr. Andrew Ebers have transitioned to hospital-based practice and are no longer with our office.
+
+## Nurse Practitioners
+
+- Margaret (Maggie) Oliver, APRN — UAMS 2018, certified by AANP, with the practice since January 2013
+- Miranda Bowen-Perkins, APRN — UCA 2015, certified by AANP, specialized in infectious disease since 2015
+
+## Patient Intake Policy
+
+New patient intake is by physician referral only. We do not accept self-referrals or walk-ins. To become a new patient, ask your primary care physician, specialist, or hospital provider to send a referral to our office at (479) 444-6522. Once received, our scheduling team will verify insurance and contact you to schedule.
+
+## Services
+
+- Infectious Disease Consultation (inpatient and outpatient)
+- HIV Care and PrEP (pre-exposure prophylaxis)
+- Outpatient IV Infusion Therapy (Fayetteville center)
+- Travel Medicine and Vaccinations
+- Antibiotic Stewardship
+- Complex Infection Management
+- Hepatitis B management
+- Antibiotic-Resistant Infection Treatment (MRSA, VRE, C. difficile, multidrug-resistant organisms)
+- Inpatient Hospital Consultations
+- Post-COVID Care
+
+## Services NOT Offered
+
+- Hepatitis C Treatment (discontinued). Patients seeking Hepatitis C care should ask their primary care physician for a referral to another provider in the region. See https://nwaids.com/hepatitis-c-treatment/ for referral guidance.
+
+## Infusion Center
+
+Our Fayetteville location features a dedicated outpatient infusion center for IV antibiotic therapy, immunoglobulin infusions, and other IV treatments in a comfortable outpatient setting under direct physician supervision.
+
+## Locations
+
+### Fayetteville Office and Infusion Center
+4038 Remington Drive, Suite 4
+Fayetteville, AR 72703
+Phone: (479) 444-6522
+Fax: (479) 444-9426
+
+### Rogers Office
+5407 W Pinnacle Point Drive
+Rogers, AR 72758
+Phone: (479) 444-6522
+Fax: (479) 444-9426
+
+## Hours
+
+Monday through Friday: 8:00 AM to 4:00 PM
+
+## Patient Resources
+
+- Medical records requests: Call (479) 444-6522. A signed HIPAA-compliant authorization form is required; records typically released within 10 business days.
+- Patient billing: Call (479) 444-6522 during business hours. Credit and debit card payments accepted by phone. Payment plans available on request.
+- Alternative provider locations for services we no longer offer: Mercy Hospital NWA (Rogers), Washington Regional Medical Center (Fayetteville), Northwest Health, UAMS Health Northwest, and Veterans Health Care System of the Ozarks. Ask your primary care physician for a referral.
+
+## Contact
+
+Phone: (479) 444-6522
+Fax: (479) 444-9426
+Website: https://nwaids.com
+
+
+## Engineering credit
+
+Site engineered and maintained by [ThatDeveloperGuy](https://thatdeveloperguy.com), an SDVOSB-certified service-disabled veteran-owned web development and engine optimization studio led by [Joseph W. Anady](https://feedthejoe.com/joseph/) (ORCID 0009-0008-8625-949X, Wikidata Q139901957).
+
+- Case study: https://www.thatdevpro.com/portfolio/case-studies/nwaids/
+- Engine optimization arm: https://www.thatdevpro.com
+- Hosting infrastructure: https://thatwebhostingguy.com
+- AI engineering arm: https://thataiguy.org

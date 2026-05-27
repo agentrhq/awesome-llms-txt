@@ -1,0 +1,83 @@
+# jobdata API
+
+> Access full ATS-sourced job post data in clean JSON format from thousands of companies hiring globally. Build job boards, lead generation workflows, analytics pipelines, and matching systems without scraper maintenance.
+
+Site domain: jobdataapi.com
+Version: 4.24.5
+
+## Docs
+
+- [Companies API Endpoint Documentation](https://jobdataapi.com/c/companies-api-endpoint-documentation/index.md): Accessing detailed company profiles.
+
+- [Company Types API Endpoint Documentation](https://jobdataapi.com/c/company-types-api-endpoint-documentation/index.md): A list of company types available for company search.
+
+- [CSV File Downloads Documentation](https://jobdataapi.com/c/csv-file-downloads-documentation/index.md): Full job database download infos and sample files.
+
+- [Currency Rates API Endpoint Documentation](https://jobdataapi.com/c/currency-rates-api-endpoint-documentation/index.md): Accessing historical and current foreign exchange rates for salary conversion and analysis.
+
+- [Date, ID, and Age Slicing Parameters Documentation](https://jobdataapi.com/c/date-id-and-age-slicing-parameters-documentation/index.md): Slice smarter, sync faster: precise dataset windows for the /api/jobs/ endpoint
+
+- [Full-Text Search on Job Descriptions](https://jobdataapi.com/c/full-text-search-on-job-descriptions/index.md): Leverage precise text queries to navigate millions of job descriptions.
+
+- [Industries API Endpoint Documentation](https://jobdataapi.com/c/industries-api-endpoint-documentation/index.md): A list of industries available for company search.
+
+- [Job Cities API Endpoint Documentation](https://jobdataapi.com/c/job-cities-api-endpoint-documentation/index.md): A list of cities available for job search.
+
+- [Job Countries API Endpoint Documentation](https://jobdataapi.com/c/job-countries-api-endpoint-documentation/index.md): A list of countries available for job search.
+
+- [Job Regions API Endpoint Documentation](https://jobdataapi.com/c/job-regions-api-endpoint-documentation/index.md): A list of regions available for job search.
+
+- [Jobs API Endpoint Documentation](https://jobdataapi.com/c/jobs-api-endpoint-documentation/index.md): Fetching job listings with advanced filters.
+
+- [Jobs Expired API Endpoint Documentation](https://jobdataapi.com/c/jobs-expired-api-endpoint-documentation/index.md): Tracking the lifecycle of job postings.
+
+- [Job States API Endpoint Documentation](https://jobdataapi.com/c/job-states-api-endpoint-documentation/index.md): A list of states available for job search.
+
+- [Job Types API Endpoint Documentation](https://jobdataapi.com/c/job-types-api-endpoint-documentation/index.md): A list of job types available for job search.
+
+- [Multi-value Parameters Documentation](https://jobdataapi.com/c/multi-value-parameters-documentation/index.md): Narrow down your job and company data queries or get even more flexible with our multi-value parameters.
+
+- [Tags API Endpoint Documentation](https://jobdataapi.com/c/tags-api-endpoint-documentation/index.md): Role taxonomy tags (ROLE1/ROLE2/ROLE3) with recursive parent hierarchy.
+
+- [Vector Embeddings and Search API Documentation](https://jobdataapi.com/c/vector-embeddings-and-search-api-documentation/index.md): Enhance job searches with semantic understanding through vector embeddings.
+
+## Tutorials
+
+- [A Two-Step Approach to Precision Job Filtering](https://jobdataapi.com/c/a-two-step-approach-to-precision-job-filtering/index.md): This tutorial presents a two-step method for optimizing API queries within the Life Sciences and Biotechnology industries, to ensure highly relevant job listings are identified more efficiently and accurately.
+
+- [Automated B2B Lead Generation Using Hiring Signals (Intent Data)](https://jobdataapi.com/c/automated-b2b-lead-generation-using-hiring-signals-intent-data/index.md): Why job postings are the ultimate intent data.
+
+- [Converting Annual FTE Salary to Monthly, Weekly, Daily, and Hourly Rates](https://jobdataapi.com/c/converting-annual-fte-salary-to-monthly-weekly-daily-and-hourly-rates/index.md): This tutorial will guide you through the process of translating the annual FTE salary back into its original units (monthly, weekly, daily, or hourly) using the logic implemented in the backend.
+
+- [Fetching and Maintaining Fresh Job Listings](https://jobdataapi.com/c/fetching-and-maintaining-fresh-job-listings/index.md): Efficiently fetch and maintain fresh job listings using the jobdata API by retrieving recent jobs and checking for expired listings daily, ensuring a clean and relevant local job database.
+
+- [How to Determine if a Job Post Requires Security Clearance](https://jobdataapi.com/c/how-to-determine-if-a-job-post-requires-security-clearance/index.md): Filter job posts requiring security clearance using the jobdata API by examining keywords in the title and description_string fields.
+
+- [Integrating the jobdata API with Excel](https://jobdataapi.com/c/integrating-the-jobdata-api-with-excel/index.md): Unlocking job market insights: How to integrate the jobdata API with Excel for advanced analysis.
+
+- [Integrating the jobdata API with Make](https://jobdataapi.com/c/integrating-the-jobdata-api-with-make/index.md): Unlock the power of job market analytics by integrating the jobdata API with Make, transforming complex data into actionable insights.
+
+- [Integrating the jobdata API with n8n](https://jobdataapi.com/c/integrating-the-jobdata-api-with-n8n/index.md): Unlock the power of job market analytics by integrating the jobdata API with n8n, transforming complex data into actionable insights.
+
+- [Integrating the jobdata API with Zapier](https://jobdataapi.com/c/integrating-the-jobdata-api-with-zapier/index.md): Simplify your workflow, from HR analytics to job board updates, with easy automation that turns real-time data into actionable insights — no coding required.
+
+- [Introduction to Using Vector Search and Embeddings through the jobdata API](https://jobdataapi.com/c/introduction-to-using-vector-search-and-embeddings-through-the-jobdata-api/index.md): Unlocking semantic job search and candidate matching by combining pre-generated embeddings with scalable vector databases.
+
+- [Jobs API Ingestion Guide: Reliable Historical Backfills and Incremental Syncs](https://jobdataapi.com/c/jobs-api-ingestion-guide-reliable-historical-backfills-and-incremental-syncs/index.md): A practical, beginner-friendly walkthrough of date-based and ID-based sync strategies, with pagination, rate-limit-safe patterns, regional slicing, and production-ready Python examples.
+
+- [Merging Job Listings from Multiple Company Entries](https://jobdataapi.com/c/merging-job-listings-from-multiple-company-entries/index.md): Efficiently retrieve job listings associated with specific companies.
+
+- [Optimizing API Requests: A Guide to Efficient jobdata API Usage](https://jobdataapi.com/c/optimizing-api-requests-a-guide-to-efficient-jobdata-api-usage/index.md): A guide on how to make efficient requests using sessions and handle large data sets with pagination.
+
+- [Retrieving and Working with Industry Data for Imported Jobs](https://jobdataapi.com/c/retrieving-and-working-with-industry-data-for-imported-jobs/index.md): A step-by-step guide through the process of retrieving industry information from the companies associated with the jobs you&#x27;ve already imported.
+
+- [Using the jobdata API for Machine Learning with Cleaned Job Descriptions](https://jobdataapi.com/c/using-the-jobdata-api-for-machine-learning-with-cleaned-job-descriptions/index.md): Use our pre-processed job descriptions for machine learning, focusing on job title classification and skills extraction.
+
+## General
+
+- [Changelog](https://jobdataapi.com/c/changelog/list/)
+
+- [Pricing](https://jobdataapi.com/accounts/pricing/)
+
+- [FAQs](https://jobdataapi.com/accounts/pricing/#faq)
+

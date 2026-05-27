@@ -1,0 +1,118 @@
+# ArCar - Autos Antiguos Cl�sicos
+
+> Plataforma de clasificados para autos antiguos, cl�sicos de colecci�n, motos, repuestos y accesorios en Argentina
+
+## Sobre ArCar
+
+ArCar (https://www.arcar.org) es la plataforma l�der de anuncios clasificados especializada en veh�culos de colecci�n en Argentina. Conectamos compradores y vendedores de autos antiguos, cl�sicos hist�ricos, motos vintage, repuestos y accesorios.
+
+## Servicios Principales
+
+- **Compra y Venta**: Anuncios clasificados de autos antiguos y cl�sicos de colecci�n
+- **Permuta**: Intercambio de veh�culos hist�ricos
+- **Motos Antiguas**: Clasificados de motocicletas vintage y de colecci�n
+- **Repuestos**: Piezas y componentes para veh�culos cl�sicos
+- **Seguros**: Informaci�n sobre seguros especializados para veh�culos de colecci�n
+
+## Categor�as de Veh�culos
+
+ArCar ofrece clasificados organizados por marcas, incluyendo:
+- Alfa Romeo
+- BMW
+- Buick
+- Cadillac
+- Chevrolet
+- Chrysler
+- Citroen
+- Fiat
+- Ford
+- Desoto
+- DKW
+- Dodge
+- Honda
+- IKA
+- Isard
+- Jaguar
+- Jeep
+- Lamborghini
+- Lancia
+- Land Rover
+- Lincoln
+- Lotus
+- Mercedes Benz
+- Mercury
+- Nissan
+- Oldsmobile
+- Opel
+- Packard
+- Peugeot
+- Plymouth
+- Pontiac
+- Porsche
+- Rambler
+- Renault
+- Siam
+- Siambretta
+- Studebaker
+- Torino
+- Toyota
+- Triumph
+- Valiant
+- Vauxhall
+- Volkswagen
+- Volvo
+- Otras marcas hist�ricas y cl�sicas
+
+## Alcance
+
+- **Ubicaci�n principal**: Argentina
+- **Alcance**: Internacional
+- **Comunidad**: M�s de 177,000 seguidores en redes sociales
+
+## Contacto y Redes Sociales
+
+- **Sitio web**: https://www.arcar.org
+- **Instagram**: @arcarorg (11K+ seguidores)
+- **Facebook**: ArCar Autos Antiguos (177K+ seguidores)
+- **Twitter/X**: @arcar
+- **Telegram**: https://t.me/arcar_org
+- **Linkedin**: https://www.linkedin.com/company/arcar-clasicos/
+
+## URLs Principales
+
+- Inicio: https://www.arcar.org/
+- Autos Antiguos: https://www.arcar.org/autosantiguos
+- Motos Antiguas: https://www.arcar.org/motosantiguas
+- Veh�culos: https://www.arcar.org/autos
+- Repuestos: https://www.arcar.org/repuestos
+- Ayuda: https://www.arcar.org/ayuda
+
+## Estructura de URLs
+
+### URLs por Marca
+Las p�ginas de veh�culos por marca siguen el patr�n:
+`https://www.arcar.org/autos-antiguos-{marca}`
+
+Ejemplos principales:
+- Mercedes Benz: https://www.arcar.org/autos-antiguos-mercedes-benz
+- Ford: https://www.arcar.org/autos-antiguos-ford
+- Chevrolet: https://www.arcar.org/autos-antiguos-chevrolet
+- Volkswagen: https://www.arcar.org/autos-antiguos-volkswagen
+- Fiat: https://www.arcar.org/autos-antiguos-fiat
+- Renault: https://www.arcar.org/autos-antiguos-renault
+
+### URLs de Publicaciones
+- Veh�culos individuales: `/autosantiguos/{marca}-{modelo}-{id}`
+- Motos individuales: `/motosantiguas/{marca}-{modelo}-{id}`
+- Contenido din�mico actualizado mediante RSS feeds:
+**RSS**: https://www.arcar.org/autosantiguos/rss
+**RSS**: https://www.arcar.org/motosantiguas/rss
+**RSS**: https://www.arcar.org/autos/rss
+
+## Palabras Clave
+
+autos antiguos, autos cl�sicos, veh�culos de colecci�n, autos hist�ricos, motos antiguas, repuestos cl�sicos, clasificados automotor, Argentina, compra venta autos antiguos, permuta veh�culos cl�sicos
+
+---
+
+*�ltima actualizaci�n: Noviembre 2025*

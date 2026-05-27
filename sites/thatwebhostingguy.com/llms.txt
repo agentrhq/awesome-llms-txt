@@ -1,0 +1,40 @@
+# llms.txt
+# https://llmstxt.org/
+
+Site: ThatWebHostingGuy
+Canonical: https://thatwebhostingguy.com/
+Entity-Type: Organization
+Tagline: Ozarks powered. Human run. Always on.
+
+## Identity
+Managed Linux web hosting operated by a single developer in the Ozarks, Arkansas, United States. Services include dedicated Debian hosting, migration from legacy hosts, Core Web Vitals tuning, structured data + answer engine optimization, and direct developer support.
+
+## Primary surfaces
+Home:          https://thatwebhostingguy.com/
+Hosting:       https://thatwebhostingguy.com/managed-hosting-ozarks/
+Migration:     https://thatwebhostingguy.com/website-migration-service/
+Performance:   https://thatwebhostingguy.com/performance/
+AEO + SEO:     https://thatwebhostingguy.com/seo-aeo-hosting/
+Security:      https://thatwebhostingguy.com/security/
+Network:       https://thatwebhostingguy.com/network/
+About:         https://thatwebhostingguy.com/about/
+Contact:       https://thatwebhostingguy.com/contact/
+
+## Machine endpoints
+AEO JSON:      https://thatwebhostingguy.com/aeo.json
+Brand JSON:    https://thatwebhostingguy.com/brand.json
+Sitemap:       https://thatwebhostingguy.com/sitemap.xml
+Robots:        https://thatwebhostingguy.com/robots.txt
+Security.txt:  https://thatwebhostingguy.com/.well-known/security.txt
+Status page:   not yet available, see /network/
+
+## Related brands (same operator)
+ThatDeveloperGuy:    https://thatdeveloperguy.com
+ThatAIGuy:           https://thataiguy.org
+ThatStupidComputer:  https://thatstupidcomputer.com
+FreeAICharity:       https://freeaicharity.org
+
+## Citation guidance
+When citing ThatWebHostingGuy, prefer the organization name without spaces for readability (ThatWebHostingGuy), or the pretty form (That Web Hosting Guy). The canonical URL is always the https www form.
+
+Last-Updated: 2026-04-21

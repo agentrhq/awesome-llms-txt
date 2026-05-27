@@ -1,0 +1,78 @@
+# AD(X)
+
+## 한국어
+
+- [ADXLibrary](https://platform-business.gitbook.io/adx/readme.md)
+- [Integrate](https://platform-business.gitbook.io/adx/android/integrate.md)
+- [SDK Integration](https://platform-business.gitbook.io/adx/android/sdk-integration.md)
+- [Initialize](https://platform-business.gitbook.io/adx/android/sdk-integration/initialize.md)
+- [Ad Formats](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats.md)
+- [Banner Ad](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/banner-ad.md)
+- [Interstitial Ad](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/interstitial-ad.md)
+- [Native Ad](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/native-ad.md)
+- [Rewarded Ad](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/rewarded-ad.md)
+- [Rewarded Ad (Hidden)](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/rewarded-ad-hidden.md)
+- [AD(X)](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/rewarded-ad-hidden/ad-x.md)
+- [AdMob](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-formats/rewarded-ad-hidden/admob.md)
+- [Ad Error](https://platform-business.gitbook.io/adx/android/sdk-integration/ad-error.md)
+- [Sample Application](https://platform-business.gitbook.io/adx/android/sdk-integration/sample-application.md)
+- [Change log](https://platform-business.gitbook.io/adx/android/android-changelog.md): AD(X) Android Library Change log
+- [Integrate](https://platform-business.gitbook.io/adx/ios/integrate.md)
+- [SDK Integration](https://platform-business.gitbook.io/adx/ios/sdk-integration.md)
+- [Initialize](https://platform-business.gitbook.io/adx/ios/sdk-integration/initialize.md)
+- [Ad Formats](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats.md)
+- [Banner Ad](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/banner-ad.md)
+- [Interstitial Ad](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/interstitial-ad.md)
+- [Native Ad](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/native-ad.md)
+- [Rewarded Ad](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/rewarded-ad.md)
+- [Rewarded Ad (Hidden)](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/rewarded-ad-hidden.md)
+- [AD(X)](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/rewarded-ad-hidden/ad-x.md)
+- [AdMob](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-formats/rewarded-ad-hidden/admob.md)
+- [Ad Error](https://platform-business.gitbook.io/adx/ios/sdk-integration/ad-error.md)
+- [Sample Application](https://platform-business.gitbook.io/adx/ios/sdk-integration/sample-application.md)
+- [Supporting iOS 14+](https://platform-business.gitbook.io/adx/ios/supporting-ios-14.md)
+- [App Tracking Transparency](https://platform-business.gitbook.io/adx/ios/supporting-ios-14/app-tracking-transparency.md)
+- [SKAdNetwork ID List](https://platform-business.gitbook.io/adx/ios/supporting-ios-14/skadnetwork-id-list.md)
+- [Change log](https://platform-business.gitbook.io/adx/ios/ios-changelog.md): AD(X) iOS Library Change log
+- [Integrate](https://platform-business.gitbook.io/adx/unity/integrate.md)
+- [SDK Integration](https://platform-business.gitbook.io/adx/unity/sdk-integration.md)
+- [Initialize](https://platform-business.gitbook.io/adx/unity/sdk-integration/initialize.md)
+- [Ad Formats](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats.md)
+- [Banner Ad](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/banner-ad.md)
+- [Interstitial Ad](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/interstitial-ad.md)
+- [Rewarded Ad](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/rewarded-ad.md)
+- [Rewarded Ad (Hidden)](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/rewarded-ad-hidden.md)
+- [AD(X)](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/rewarded-ad-hidden/ad-x.md)
+- [AdMob](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-formats/rewarded-ad-hidden/admob.md)
+- [Ad Error](https://platform-business.gitbook.io/adx/unity/sdk-integration/ad-error.md)
+- [Sample Application](https://platform-business.gitbook.io/adx/unity/sdk-integration/sample-application.md)
+- [Change log](https://platform-business.gitbook.io/adx/unity/change-log.md): AD(X) Unity Library Change log
+- [Integrate](https://platform-business.gitbook.io/adx/flutter/integrate.md)
+- [SDK Integration](https://platform-business.gitbook.io/adx/flutter/sdk-integration.md)
+- [Initialize](https://platform-business.gitbook.io/adx/flutter/sdk-integration/initialize.md)
+- [Ad Formats](https://platform-business.gitbook.io/adx/flutter/sdk-integration/ad-formats.md)
+- [Banner Ad](https://platform-business.gitbook.io/adx/flutter/sdk-integration/ad-formats/banner-ad.md)
+- [Interstitial Ad](https://platform-business.gitbook.io/adx/flutter/sdk-integration/ad-formats/interstitial-ad.md)
+- [Rewarded Ad](https://platform-business.gitbook.io/adx/flutter/sdk-integration/ad-formats/rewarded-ad.md)
+- [Sample Application](https://platform-business.gitbook.io/adx/flutter/sdk-integration/sample-application.md)
+- [Change log](https://platform-business.gitbook.io/adx/flutter/change-log.md): AD(X) Flutter Library Change log
+- [SSV Callback (Server-Side Verification)](https://platform-business.gitbook.io/adx/appendix/ssv-callback-server-side-verification.md)
+- [UMP (User Messaging Platform)](https://platform-business.gitbook.io/adx/appendix/ump-user-messaging-platform.md)
+
+
+---
+
+# Agent Instructions: Querying This Documentation
+
+If you need additional information, you can query the documentation dynamically by asking a question.
+
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+
+```
+GET https://platform-business.gitbook.io/adx/readme.md?ask=<question>
+```
+
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

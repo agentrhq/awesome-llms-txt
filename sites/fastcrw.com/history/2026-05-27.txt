@@ -1,0 +1,71 @@
+# fastcrw.com
+
+> fastCRW is a local-first web scraper, search, and crawl API built for AI agents. Small single Rust static binary, Firecrawl-compatible REST API, built-in MCP server. Public benchmark: 63.74% truth-recall (522 of 819 labeled URLs), 87.7% scrape success, 0 errors. Self-host for free under AGPL-3.0 or use the managed cloud at fastcrw.com — the same API either way, with no exit cost.
+
+## Key Facts
+- Public benchmark: 63.74% truth-recall (522 of 819 labeled URLs), 87.7% scrape success, 0 errors — full latency distribution and one-command repro: https://fastcrw.com/benchmarks
+- Local-first: small single Rust static binary, slim Docker image, no external services required
+- No exit cost: identical API whether self-hosted (free under AGPL-3.0) or on the managed cloud
+- Firecrawl-compatible on overlap surface (`/v1/scrape`, `/v1/crawl`, `/v1/map`, `/v1/search`); see compatibility matrix in docs for divergence on response field names and error envelopes
+- AGPL-3.0 core, commercial license available
+
+## API Endpoints
+- [Scrape](https://docs.fastcrw.com/#scrape): POST /v1/scrape — extract markdown, HTML, links, or structured JSON from a single URL
+- [Crawl](https://docs.fastcrw.com/#crawl): POST /v1/crawl — async BFS crawl with job polling, up to 1000 pages
+- [Map](https://docs.fastcrw.com/#map): POST /v1/map — discover all URLs on a site via sitemap + link traversal
+- [Search](https://docs.fastcrw.com/#search): POST /v1/search — web search with optional full-page scrape (cloud-only)
+- [Extract](https://docs.fastcrw.com/#extract): LLM-powered structured data extraction via POST /v1/scrape with `formats: ["json"]` and a JSON schema (no separate `/v1/extract` route — Firecrawl users migrating an `/extract` call should call `/v1/scrape` with the json format instead)
+
+## Pricing (machine-readable)
+- [Pricing page](https://fastcrw.com/pricing): Free tier 500 one-time lifetime credits (no card, never resets), Hobby $13/mo, Standard $69/mo (launch), Growth $279/mo, Scale $549/mo
+- [pricing.md](https://fastcrw.com/pricing.md): Structured pricing for AI agents
+
+## Documentation
+- [Getting Started](https://docs.fastcrw.com/#getting-started): API key setup, first scrape, first crawl
+- [Formats Reference](https://docs.fastcrw.com/#formats): Output formats — markdown, html, rawHtml, plainText, links, json
+- [JavaScript Rendering](https://docs.fastcrw.com/#js-rendering): Auto-detect SPA rendering with LightPanda/Chrome
+- [Error Codes](https://docs.fastcrw.com/#error-codes): HTTP status codes, error/warning response format
+- [Rate Limits](https://docs.fastcrw.com/#rate-limits): Cloud request-rate limits and retry headers
+- [Credit Costs](https://docs.fastcrw.com/#credit-costs): Per-endpoint credit consumption (cloud)
+- [Self-Hosting Guide](https://docs.fastcrw.com/#self-hosting): Single binary or Docker deployment
+- [Self-Hosting Hardening](https://docs.fastcrw.com/#self-hosting-hardening): Production security and ops guidance
+- [Compatibility Matrix](https://docs.fastcrw.com/#compatibility): Firecrawl API compatibility status
+- [Benchmark Methodology](https://fastcrw.com/benchmarks): How we run the public 1,000-URL and 100-query benchmarks
+- [Changelog](https://docs.fastcrw.com/#changelog): Release notes and recent changes
+- [SDK Examples](https://docs.fastcrw.com/#sdk-examples): Python, Node.js, curl examples
+
+## Comparisons & Alternatives
+- [vs Firecrawl](https://fastcrw.com/alternatives/firecrawl): API-compatible, lighter self-host
+- [vs Crawl4AI](https://fastcrw.com/alternatives/crawl4ai): Rust vs Python, REST vs library
+- [vs Tavily](https://fastcrw.com/alternatives/tavily): search + bundled scraping in one self-hostable stack
+- [vs Exa](https://fastcrw.com/alternatives/exa): scrape + search in one call vs embedding-only
+- [vs Apify, Bright Data, ScrapingBee, Oxylabs, ZenRows, Octoparse, ParseHub, SerpAPI](https://fastcrw.com/alternatives)
+- [Firecrawl vs Crawl4AI vs fastCRW (1,000-URL benchmark)](https://fastcrw.com/blog/firecrawl-vs-crawl4ai-vs-crw)
+- [9 Best Open-Source Web Crawlers in 2026](https://fastcrw.com/blog/best-open-source-web-crawlers)
+- [7 Tavily Alternatives Tested](https://fastcrw.com/blog/best-tavily-alternatives)
+
+## SDKs & Integrations
+- [Python SDK](https://pypi.org/project/crw/): pip install crw — subprocess or HTTP mode
+- [MCP Server](https://www.npmjs.com/package/crw-mcp): npx crw-mcp — works with Claude Code, Cursor, Gemini CLI, and 10+ platforms
+- [CrewAI](https://pypi.org/project/crewai-crw/): crewai-crw — 4 ready-to-use tools
+- [LangChain](https://pypi.org/project/langchain-crw/): langchain-crw — also works via Firecrawl's `FirecrawlLoader` with `api_url`
+- [n8n](https://www.npmjs.com/package/n8n-nodes-crw): n8n-nodes-crw — community node
+- [OpenClaw](https://www.npmjs.com/package/openclaw-plugin-crw): openclaw-plugin-crw — AI chat plugin
+- [MCP Integration Guide](https://docs.fastcrw.com/#mcp): Setup for Claude, Cursor, Windsurf, Cline, VS Code, and more
+- [All Integrations](https://docs.fastcrw.com/#integrations): Full catalog with endpoint support matrix
+
+## Agent Skill
+- [SKILL.md](https://fastcrw.com/api/skills): Agent onboarding skill — install with `npx crw-mcp@latest init`
+
+## Resources
+- [Pricing](https://fastcrw.com/pricing): Free tier (500 one-time lifetime credits, never resets) + paid plans
+- [Playground](https://fastcrw.com/playground): Try the API interactively in your browser
+- [Blog](https://fastcrw.com/blog): Benchmarks, tutorials, and engineering posts
+- [GitHub](https://github.com/us/crw): Source code (AGPL-3.0)
+- [URL → Markdown tool](https://fastcrw.com/tools/url-to-markdown): Free converter for LLM/RAG ingestion
+
+## Optional
+- [Privacy Policy](https://fastcrw.com/privacy)
+- [Terms of Service](https://fastcrw.com/terms)
+- [Status](https://fastcrw.com/status)
+- [About](https://fastcrw.com/about)

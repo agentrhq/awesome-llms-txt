@@ -1,0 +1,40 @@
+# BuiltWith
+
+> Find out what websites are built with.
+
+BuiltWith detects the technologies used on any website including CMS, ecommerce platforms, analytics,
+frameworks, hosting providers, and more.
+
+## Start Here (For LLMs and AI Agents)
+
+Use the API-focused LLM guide first:
+- https://api.builtwith.com/llms.txt
+
+This file is a high-level product map. The API LLM guide above contains detailed endpoint usage.
+
+## Core BuiltWith Links
+
+- Website lookup: `https://builtwith.com/[domain]`
+  - Example: https://builtwith.com/example.org
+- Natural language Ask tool: https://builtwith.com/ask
+- Technology trends and market movement: https://trends.builtwith.com
+- MCP endpoint for AI integration: https://api.builtwith.com/mcp
+- API LLM guide (primary): https://api.builtwith.com/llms.txt
+
+## Programmatic Access
+
+For direct API requests, use the official API docs and endpoint details:
+- https://api.builtwith.com
+
+Popular API families include:
+- Domain technology lookup
+- Technology and company lists
+- Relationships / related sites
+- Trust and risk signals
+- Redirect and keyword data
+- API-based trends data
+
+## Notes
+
+- Bots/AI agents may be blocked on interactive website pages.
+- For reliable automated access, use the API and MCP routes.

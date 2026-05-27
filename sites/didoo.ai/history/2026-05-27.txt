@@ -1,0 +1,235 @@
+# Didoo AI - Your AI Media Buyer, Built for SMBs
+
+> Didoo AI is your dedicated AI Media Buyer—not a tool you log into, but an employee you message. It learns your voice, remembers what works, runs your Meta and Google campaigns 24/7, and optimizes autonomously as trust builds. Onboard in minutes, manage by Slack or WhatsApp, scale with confidence.
+
+Key topics: AI Media Buyer, Meta ads, Facebook ads, Instagram ads, Google Ads, AI advertising, SMB marketing, autonomous ad optimization, AI-native agent. Visit didoo.ai for more information.
+
+
+## Core Capabilities
+
+- **Strategizes With You**: Analyzes your data, spots patterns, debates trade-offs before spending. Brings recommendations, not just reports.
+- **Executes End-to-End**: Generates ad sets, writes copy, designs creatives, adjusts Meta/Google configs directly. No hand-offs. No waiting.
+- **Always in Your Pocket**: Slack, WhatsApp, Teams—whatever you use. Ask at midnight, get an answer in seconds. It even pings you when opportunities show up.
+- **Remembers Everything**: Your business stage, your wins, your quirks, your "never again" moments. Builds a living memory of what works for you, getting sharper every campaign.
+- **Yours Alone**: Your AI instance and data belong to you—isolated cloud, dedicated infrastructure. Download everything anytime, or wipe it completely. We can't see it. No one can.
+
+
+## How It Works
+
+1. **Share Your Business** — Tell it what you sell, who you serve, what success looks like. It asks the right questions—no forms, no guesswork.
+2. **Launch or Hand Over** — Start fresh with new campaigns, or point it to live Meta/Google ads. It audits what's running and takes the wheel.
+3. **Manage by Message** — "Scale the winners." "Kill the losers." "Try a new angle." Just message it like your media buyer. It executes, reports back, waits for your next move.
+4. **Watch It Adapt—Then Let It Run** — Every preference, every result—it remembers. Eventually it optimizes autonomously: bids, creative, budget. You stay in control, but you don't have to be in the room.
+
+
+## Solution Guides
+
+- [Smart Testing](https://didoo.ai/smart-testing): Stop guessing. Start remembering. Every A/B test teaches your AI what works—no insight wasted, no mistake repeated.
+- [Auto-Execution](https://didoo.ai/auto-execution): From idea to live ad in minutes. Generate, build, deploy—all in one conversation. Zero hand-offs.
+- [Always-On](https://didoo.ai/always-on): Your media buyer never sleeps. Message anytime, get answers in seconds, or let it alert you first.
+- [Scale Confidently](https://didoo.ai/scale-confidently): Scale what works, kill what doesn't, know the difference. Data-driven strategy before you spend.
+- [Faster Campaigns](https://didoo.ai/faster-campaigns): Launch speed that matches market speed. Brief to live before your competitor finishes their coffee.
+- [AI-Native Platform](https://didoo.ai/ai-native-platform): Why agent architecture beats wrapped tools. Built different, for different results.
+
+
+## Getting Started
+
+- [Homepage](https://didoo.ai/): Your AI Media Buyer that actually knows you.
+- [Free Trial](https://app.didoo.ai/signup): Hire your AI Media Buyer in 10 minutes. 14-day free trial, no credit card.
+- [Login](https://app.didoo.ai/signin): Continue growing with your dedicated AI advertising specialist.
+- [About Us](https://didoo.ai/about): Building the future of advertising for SMBs.
+- [Blog](https://didoo.ai/blog): Strategy, execution, and scaling—automated.
+
+
+## Optional
+
+- [Terms of Service](https://didoo.ai/terms)
+- [Privacy Policy](https://didoo.ai/privacy)
+- [Do Not Sell](https://didoo.ai/do-not-sell)
+
+
+## Key Differentiators
+
+| Factor | Didoo AI | Agency | In-House | Other AI Tools |
+|--------|----------|--------|----------|----------|
+| Relationship | Dedicated AI employee you message | Account manager, rotating team | Single hire, single point of failure | Dashboard you check |
+| Memory | Learns your business permanently | Starts fresh with staff turnover | Depends on documentation | Resets every session |
+| Availability | 24/7, instant response | Business hours, 24-48h lag | Sick days, vacations, quit | Self-serve only |
+| Execution | End-to-end: strategy → live ads | Strategy only, execution outsourced | Limited by skillset | Creative or targeting, never both |
+| Data ownership | Yours alone, isolated, exportable | Shared, often locked | Yours | Trained on by vendor |
+| Optimization | Autonomous within your guardrails | Weekly manual reviews | When bandwidth allows | Rules-based, not learning |
+| Cost | Flat SaaS, cancel anytime | $3K+/mo + % of spend | Salary + benefits + tools | Cheap but ineffective |
+| Scale | Unlimited campaigns, unlimited learning | Headcount bound | Hire per channel | Linear effort required
+
+
+## AI Prompt Templates
+
+Total templates: 28
+
+### Daily Performance Monitoring & Pacing
+Platform: meta-ads | Category: monitor
+Monitor active campaigns for performance anomalies (CPM spikes, CTR drops, CPA breaches) and budget pacing issues on a daily basis.
+URL: https://didoo.ai/templates/daily-performance-monitoring
+Last updated: 2026-05-10
+
+### Campaign Optimization Recommendations
+Platform: meta-ads | Category: analyze
+Evaluate active campaigns against configurable performance thresholds and generate actionable recommendations: shutdown, budget increase, or hold.
+URL: https://didoo.ai/templates/campaign-optimization-recommendations
+Last updated: 2026-05-10
+
+### Weekly Business Report
+Platform: meta-ads | Category: report
+Extract a comprehensive 7-day performance report covering executive summary, campaign breakdown, top/bottom ads, audience performance, budget pacing, and priority action items.
+URL: https://didoo.ai/templates/weekly-business-report
+Last updated: 2026-05-10
+
+### Creative Fatigue Detection Template
+Platform: meta-ads | Category: analyze
+Analyze ad creative performance, classify into performance tiers, detect creative fatigue via frequency and CTR decline, and generate a creative brief for new assets.
+URL: https://didoo.ai/templates/weekly-creative-analysis-fatigue-detection
+Last updated: 2026-05-10
+
+### Weekly Pixel & CAPI Health
+Platform: meta-ads | Category: monitor
+Audit Meta pixel configuration, Conversions API (CAPI) status, and SKAN setup across the ad account, flagging issues and identifying items requiring manual verification in Events Manager.
+URL: https://didoo.ai/templates/weekly-pixel-capi-health
+Last updated: 2026-05-10
+
+### Weekly Trend & Audience Intelligence
+Platform: meta-ads | Category: analyze
+Analyze week-over-week performance trends, detect declining campaigns with suspected root causes, and assess audience overlap risk across active ad sets.
+URL: https://didoo.ai/templates/weekly-trend-audience-intelligence
+Last updated: 2026-05-10
+
+### Monthly Account Audit
+Platform: meta-ads | Category: report
+Perform a comprehensive monthly audit of the Meta Ads account: zero-spend entity archival, structural issue detection, naming convention review, UTM verification, and account hygiene scoring.
+URL: https://didoo.ai/templates/monthly-account-audit
+Last updated: 2026-05-10
+
+### Monthly Budget Reallocation Recommendations
+Platform: meta-ads | Category: plan
+Analyze 30-day campaign performance to identify budget reallocation opportunities: reallocate spend from underperforming bottom-30% campaigns to top-30% campaigns within configurable guardrails.
+URL: https://didoo.ai/templates/monthly-budget-reallocation
+Last updated: 2026-05-10
+
+### Monthly Creative Asset Archive
+Platform: meta-ads | Category: reference
+Perform a 90-day retrospective analysis of all ad creatives, classify into performance tiers, document winning creative patterns, and generate an archive log for underperforming assets.
+URL: https://didoo.ai/templates/monthly-creative-asset-archive
+Last updated: 2026-05-10
+
+### Daily Data Ledger & Account Health
+Platform: meta-ads | Category: monitor
+Extract a full daily performance ledger for all active ads and run a basic health check on the Meta ad account, including account status and landing page reachability.
+URL: https://didoo.ai/templates/daily-data-ledger-account-health
+Last updated: 2026-05-10
+
+### Meta Ads Recommendation
+Platform: meta-ads | Category: analyze
+Produces specific, prioritized action plans based on campaign analysis data. Replaces gut-feel decisions with clear shutdown/increase/hold recommendations — run it after any analysis skill to turn data into immediate next steps you can apply directly in Meta Ads Manager.
+URL: https://didoo.ai/templates/meta-ads-recommendation
+Last updated: 2026-05-15
+
+### Meta Ads Healthcheck
+Platform: meta-ads | Category: monitor
+Fast on-demand campaign status check — answers \"are my ads working?\" using Green/Yellow/Red thresholds. For daily routine monitoring, use meta-ads-daily-pulse instead
+URL: https://didoo.ai/templates/meta-ads-healthcheck
+Last updated: 2026-05-15
+
+### Meta Ads Creative Fatigue
+Platform: meta-ads | Category: analyze
+Analyzes creative fatigue signals across Meta Ads campaigns. Detects when your ad creatives are losing effectiveness before the damage shows up in your CPA — flags frequency spikes and CTR decline so you can refresh before you overspend on tired creative.
+URL: https://didoo.ai/templates/meta-ads-creative-fatigue
+Last updated: 2026-05-15
+
+### Meta Ads Drop Diagnosis
+Platform: meta-ads | Category: analyze
+Diagnoses sudden performance drops in Meta Ads campaigns. Pinpoints the root cause — audience saturation, bid strategy changes, budget cliffs, or external factors — so you stop bleeding spend chasing the wrong problem and act fast to recover performance.
+URL: https://didoo.ai/templates/meta-ads-drop-diagnosis
+Last updated: 2026-05-15
+
+### Meta Ads Lead Gen Analysis
+Platform: meta-ads | Category: analyze
+Specialized analysis module for Meta lead generation campaigns. Extracts CPL trends, lead quality signals, and conversion funnel metrics beyond standard ROAS — so you understand true lead cost efficiency and can optimize toward quality, not just volume.
+URL: https://didoo.ai/templates/meta-ads-lead-gen-analysis
+Last updated: 2026-05-15
+
+### Meta Ads Audience Analysis
+Platform: meta-ads | Category: analyze
+Analyzes Meta Ads audience efficiency across audience types, overlap, demographics, and budget allocation
+URL: https://didoo.ai/templates/meta-ads-audience-analysis
+Last updated: 2026-05-15
+
+### Meta Ads Analysis
+Platform: meta-ads | Category: analyze
+Analyzes Meta Ads campaign performance in depth — metrics, funnel, trends, and anomalies
+URL: https://didoo.ai/templates/meta-ads-analysis
+Last updated: 2026-05-15
+
+### Meta Ads Strategy
+Platform: meta-ads | Category: plan
+Defines campaign strategy for Meta Ads — sets objective, targeting, structure, budget, and bidding approach. Use as the first step before launching any new Meta Ads campaign
+URL: https://didoo.ai/templates/meta-ads-strategy
+Last updated: 2026-05-15
+
+### Meta Ads Budget Planning
+Platform: meta-ads | Category: plan
+Framework for planning and allocating Meta Ads budget across campaigns, audiences, and testing phases
+URL: https://didoo.ai/templates/meta-ads-budget-planning
+Last updated: 2026-05-15
+
+### Meta Ads Research
+Platform: meta-ads | Category: plan
+Conducts competitive intelligence for Meta Ads campaigns — analyzes competitor ads, landing pages, and market benchmarks. Use before launching a new campaign or entering a new market
+URL: https://didoo.ai/templates/meta-ads-research
+Last updated: 2026-05-15
+
+### Meta Ads Daily Pulse
+Platform: meta-ads | Category: monitor
+Rapid daily health scan for Meta Ads — detects week-over-week performance changes and flags urgent issues before meetings. Use every morning or before any daily review meeting. This is a change detect
+URL: https://didoo.ai/templates/meta-ads-daily-pulse
+Last updated: 2026-05-15
+
+### Meta Ads Weekly Performance
+Platform: meta-ads | Category: report
+Generates a structured weekly performance report for Meta Ads accounts. Use at the end of each week to review performance, explain changes, and identify what needs attention. Pairs with meta-ads-daily
+URL: https://didoo.ai/templates/meta-ads-weekly-performance
+Last updated: 2026-05-15
+
+### Meta Ads Publisher
+Platform: meta-ads | Category: execute
+Executes Meta Ads campaign management tasks — creates new campaigns, makes changes, pauses/activates, changes budgets, duplicates campaigns
+URL: https://didoo.ai/templates/meta-ads-publisher
+Last updated: 2026-05-15
+
+### Meta Ads Scale Campaign
+Platform: meta-ads | Category: execute
+Guides Meta Ads campaign scaling — increases budget, expands audiences, replicates to new geos
+URL: https://didoo.ai/templates/meta-ads-scale-campaign
+Last updated: 2026-05-15
+
+### Meta Ads Builder
+Platform: meta-ads | Category: execute
+Generates Meta Ads creative — ad copy, headlines, hooks, and visual concepts. Produces multiple creative directions in one run so you have real options to test. Works with just a product URL and campaign brief — no prior experience needed.
+URL: https://didoo.ai/templates/meta-ads-builder
+Last updated: 2026-05-15
+
+### Meta Ads Guide
+Platform: meta-ads | Category: reference
+Entry-point navigator and skill router for Didoo AI''s Meta Ads workflow
+URL: https://didoo.ai/templates/meta-ads-guide
+Last updated: 2026-05-15
+
+### Meta Ads Capi Setup
+Platform: meta-ads | Category: reference
+Step-by-step guide for setting up Meta Conversions API (CAPI) — server-side event tracking that improves conversion measurement accuracy and reduces CPA discrepancy vs pixel-only tracking
+URL: https://didoo.ai/templates/meta-ads-capi-setup
+Last updated: 2026-05-15
+
+### Meta Ads Fundamentals
+Platform: meta-ads | Category: reference
+Core knowledge that underpins all Meta Ads decision-making — the Meta Auction, Pacing, Breakdown Effect, CBO vs ABO, Learning Phase, Auction Overlap, and Ad Relevance Diagnostics. Reference when expla
+URL: https://didoo.ai/templates/meta-ads-fundamentals
+Last updated: 2026-05-15

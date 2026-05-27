@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "domain": "www.stormkit.io",
+  "display_name": "Stormkit",
+  "category": "infra",
+  "verified_url": "https://www.stormkit.io/llms.txt",
+  "fetched_at": "2026-05-27T05:32:22Z",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "file_size_bytes": 5809,
+  "last_modified": "Sun, 24 May 2026 10:11:16 GMT",
+  "freshness_age_days": 2,
+  "score": 63,
+  "grade": "C",
+  "components": [
+    {
+      "id": "spec_compliance",
+      "max": 18,
+      "points": 12,
+      "reasons": [
+        "sections_without_link_lists",
+        "malformed_link_items"
+      ]
+    },
+    {
+      "id": "coverage",
+      "max": 20,
+      "points": 13,
+      "reasons": [
+        "few_value_links"
+      ]
+    },
+    {
+      "id": "agent_actions",
+      "max": 14,
+      "points": 0,
+      "reasons": [
+        "no_llms_full_link",
+        "no_md_url_twins",
+        "no_agent_signposts",
+        "no_machine_readable_api_spec"
+      ]
+    },
+    {
+      "id": "link_stability",
+      "max": 10,
+      "points": 6,
+      "reasons": [
+        "not_sampled"
+      ],
+      "note": "unverified default 6/10; CI re-checks live"
+    },
+    {
+      "id": "freshness",
+      "max": 10,
+      "points": 10,
+      "reasons": [],
+      "age_days": 2,
+      "source": "last_modified"
+    },
+    {
+      "id": "discoverability",
+      "max": 8,
+      "points": 8,
+      "reasons": []
+    },
+    {
+      "id": "auth_signposting",
+      "max": 8,
+      "points": 2,
+      "reasons": [
+        "no_auth_section"
+      ]
+    },
+    {
+      "id": "size_discipline",
+      "max": 6,
+      "points": 6,
+      "reasons": [],
+      "kb": 5.7
+    },
+    {
+      "id": "content_type",
+      "max": 4,
+      "points": 4,
+      "reasons": []
+    },
+    {
+      "id": "voice",
+      "max": 2,
+      "points": 2,
+      "reasons": []
+    }
+  ],
+  "parsed": {
+    "h1": "Stormkit",
+    "h1_count": 1,
+    "blockquote": "Stormkit is a self-hostable deployment platform that provides the simplicity of managed services like Vercel and Netlify with complete infrastructure control, enabling teams to deploy web applications on their own infrastructure while maintaining developer-friendly workflows.",
+    "section_count": 10,
+    "subsection_count": 8,
+    "link_count": 5,
+    "value_link_count": 5,
+    "low_value_link_count": 0,
+    "raw_bytes": 5809
+  },
+  "tool": {
+    "name": "llms-txt-score",
+    "version": "0.2.0"
+  }
+}
