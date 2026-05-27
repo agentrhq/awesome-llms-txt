@@ -107,6 +107,3 @@ node test/run.js
 
 This repo's data (the `sites/<domain>/` content and scoreboards) is [CC0-1.0](./LICENSE). The scoring tool source is MIT. Submitting a PR confirms you're OK with both.
 
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

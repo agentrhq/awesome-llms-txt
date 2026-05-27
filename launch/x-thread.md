@@ -91,9 +91,7 @@ Color updates with the grade. Re-scored monthly.
 
 ---
 
-**10/10** Why we built it: `llms.txt` is how a site declares what an agent can do. Authsome is how an agent declares who it is when calling that site.
+**10/10** Why we built it: `llms.txt` is the file a site uses to tell an agent what it can do. Nobody was scoring them. Lighthouse showed that a public scorecard creates better files — so we built one.
 
-Both work better when the published affordances are clear, current, and machine-readable.
-
-Repo + leaderboard + tool + CLI: `github.com/agentrhq/awesome-llms-txt`
+Repo + leaderboard + tool: `github.com/agentrhq/awesome-llms-txt`
 Web view: `agentrhq.github.io/awesome-llms-txt`

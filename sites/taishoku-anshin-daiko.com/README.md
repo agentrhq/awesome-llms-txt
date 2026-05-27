@@ -67,7 +67,3 @@ npx llms-txt-score https://taishoku-anshin-daiko.com/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

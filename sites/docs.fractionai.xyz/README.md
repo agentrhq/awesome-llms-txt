@@ -64,7 +64,3 @@ npx llms-txt-score https://fraction-ai.gitbook.io/fraction-ai-product-docs/llms.
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

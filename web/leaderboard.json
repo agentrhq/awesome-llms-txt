@@ -7028,20 +7028,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "slack.com",
-    "display_name": "Slack",
-    "category": "comms",
-    "score": 59,
-    "grade": "C",
-    "file_size_bytes": 40672,
-    "link_count": 145,
-    "value_link_count": 38,
-    "section_count": 7,
-    "freshness_age_days": 7,
-    "verified_url": "https://slack.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.social.plus",
     "display_name": "Social Docs",
     "category": "dev-tools",
@@ -7571,6 +7557,20 @@
     "section_count": 8,
     "freshness_age_days": 0,
     "verified_url": "https://receiptconverter.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "slack.com",
+    "display_name": "Slack",
+    "category": "comms",
+    "score": 58,
+    "grade": "C",
+    "file_size_bytes": 40672,
+    "link_count": 145,
+    "value_link_count": 38,
+    "section_count": 7,
+    "freshness_age_days": 7,
+    "verified_url": "https://slack.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -12250,20 +12250,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "racebrain.io",
-    "display_name": "RaceBrain",
-    "category": "dev-tools",
-    "score": 46,
-    "grade": "D",
-    "file_size_bytes": 1281,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 4,
-    "freshness_age_days": 90,
-    "verified_url": "https://racebrain.io/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "replicate.com",
     "display_name": "Replicate",
     "category": "ai-platform",
@@ -12583,6 +12569,20 @@
     "section_count": 4,
     "freshness_age_days": null,
     "verified_url": "https://www.moccu.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "racebrain.io",
+    "display_name": "RaceBrain",
+    "category": "dev-tools",
+    "score": 44,
+    "grade": "D",
+    "file_size_bytes": 1281,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 4,
+    "freshness_age_days": 90,
+    "verified_url": "https://racebrain.io/llms.txt",
     "last_scored": "2026-05-27"
   },
   {

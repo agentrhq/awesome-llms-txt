@@ -11,14 +11,45 @@ The public leaderboard of `llms.txt` quality. We scored **1,023 production files
 
 ## Contents
 
+- [How scores are calculated](#how-scores-are-calculated)
+- [Headline numbers](#headline-numbers)
 - [Top 25](#top-25)
-- [Hall of shame](#hall-of-shame)
+- [Lowest scorers (each is a 5-minute fix)](#lowest-scorers-each-is-a-5-minute-fix)
 - [By category](#by-category)
-- [Methodology](#methodology)
+- [Methodology in detail](#methodology-in-detail)
 - [Score your own site](#score-your-own-site)
 - [Embed the badge](#embed-the-badge)
 - [Contributing](#contributing)
 - [What this is and isn't](#what-this-is-and-isnt)
+
+## How scores are calculated
+
+**Every score is produced by code, not by a human.** No editorial picks, no "we think this is bad" — just a parser walking the file structure and a scorer applying ten weighted rules. The rubric is published in full at [`RUBRIC.md`](./RUBRIC.md) and the tool source is at [`tools/llms-txt-score/`](./tools/llms-txt-score/).
+
+If you want the same number we got, run:
+
+```shell
+npx llms-txt-score https://your-site.com/llms.txt --format=markdown
+```
+
+What the ten criteria look at, summarised:
+
+| Weight | Criterion | What the code checks |
+|------:|---|---|
+| 20 | Coverage | H2 section count, value-weighted link count (links to `/blog/`, `/case-study/`, `/press/`, `/careers/`, `/legal/` are discounted), and presence of canonical section names like `Docs`, `API`, `Quickstart`, `Auth`. |
+| 18 | Spec compliance | Is the H1 the first line? Is there exactly one H1? Is there a `> blockquote` summary? Are the link bullets well-formed (`- [name](url): note`)? Hard floor of 6 points if no H1. |
+| 14 | Agent-action declarations | Does it link to an `llms-full.txt` companion? Are most links `.md` URL twins? Does it mention MCP, `/.well-known/`, OpenAPI? |
+| 10 | Linked-content stability | Sampled HEAD requests on 8 random links from the file. Default 6 / 10 when not yet run live (CI re-runs every month). |
+| 10 | Freshness | Age of the `Last-Modified` HTTP header. ≤7 days = 10, ≤30 = 9, ≤90 = 7, ≤180 = 5, ≤365 = 3, older = 1. Default 5 when the server doesn't emit the header. |
+|  8 | Discoverability | Does `/llms.txt` return HTTP 200? Is there a redirect chain? Is it behind auth? |
+|  8 | Auth signposting | Auth keywords (`auth`, `OAuth`, `API key`, `Bearer`) + a dedicated `## Auth` / `### Authentication` / `## Credentials` / `## Access` section. |
+|  6 | Size discipline | File-size buckets. Under 8 KB = 6 / 6, under 32 KB = 5, under 64 KB = 4, anything over 512 KB = 0. Twilio's 2.2 MB file zeroes here. |
+|  4 | Content-Type & encoding | `text/markdown` or `text/plain`, UTF-8 declared. A mojibake check (encoding gone wrong) docks 1 point. |
+|  2 | Voice | A small marketing-phrase keyword list (`industry-leading`, `revolutionary`, etc.) and an em-dash check in the intro paragraph. Tiebreaker only. |
+
+Grade bands borrowed from Mozilla HTTP Observatory and capped at 100: **A+** ≥ 95, **A** ≥ 85, **A-** ≥ 80, **B+** ≥ 75, **B** ≥ 65, **C** ≥ 50, **D** ≥ 35, **F** < 35. `A` at 85 matches Lighthouse's "green" threshold so screenshots are instantly legible to anyone who's seen a PageSpeed report.
+
+**Reproducibility is the moat.** No site can claim a different score by emailing us. If you think the rubric is wrong, that's a [public appeal](./CONTRIBUTING.md#appeals). If you think your file is being parsed incorrectly, that's a [tool bug](./tools/llms-txt-score/). Either gets debated on the issue, not in DM.
 
 ## Headline numbers
 
@@ -60,9 +91,9 @@ The public leaderboard of `llms.txt` quality. We scored **1,023 production files
 
 [Full table (1,023 rows) →](./web/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) <!-- pages -->
 
-## Notable failures
+## Lowest scorers (each is a 5-minute fix)
 
-Big-brand or large-corpus sites that earned a D or F. Most are five-minute fixes (no H1, no `## Auth` section, oversized file). Submit a re-scored PR once you ship the change.
+Recognisable sites that landed at D or F. Almost every entry here is one of: no H1, no `> blockquote` summary, no `## Auth` section, or a file too large to fit in a context window. Open the per-site page for the exact criterion breakdown.
 
 | # | Site | Domain | Score | Grade | Category | Size |
 |---|------|--------|------:|:-----:|----------|-----:|
@@ -72,7 +103,9 @@ Big-brand or large-corpus sites that earned a D or F. Most are five-minute fixes
 | 4 | [Valdhealth](./sites/valdhealth.com/) | `valdhealth.com` | 48 | **D** | Infra | 60.6 KB |
 | 5 | [Cloudfix](./sites/cloudfix.com/) | `cloudfix.com` | 49 | **D** | Search | 741.3 KB |
 
-## Lowest 10 (whole corpus)
+These aren't bad teams or bad products — `llms.txt` is new, and most teams haven't prioritised it yet. Submit a re-scored PR once your file ships the change and the next monthly crawl picks it up automatically.
+
+### Lowest 10 (whole corpus, including long-tail unknowns)
 
 | # | Site | Domain | Score | Grade | Size |
 |---|------|--------|------:|:-----:|-----:|
@@ -329,24 +362,11 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 17._
 _See [`leaderboard.json`](./web/leaderboard.json) for the full 719._
 
 
-## Methodology
+## Methodology in detail
 
-10 weighted criteria, 100-point total. Full breakdown in [`RUBRIC.md`](./RUBRIC.md). Refreshed monthly via [`.github/workflows/crawl.yml`](./.github/workflows/crawl.yml). Score drops auto-open an issue tagged `regression`; score rises auto-open a PR.
+For the short version, see [How scores are calculated](#how-scores-are-calculated) at the top of this page. For the longer version — every weight, every rationale, what we explicitly *don't* score — read [`RUBRIC.md`](./RUBRIC.md).
 
-| Weight | Criterion | What we check |
-|------:|---|---|
-| 20 | Coverage | Section count, value-weighted link count (blog / case-study / press URLs discounted), canonical-section diversity |
-| 18 | Spec compliance | H1 first line, single H1, blockquote, well-formed `[name](url): note` lists, H3 subsections honored |
-| 14 | Agent-action declarations | `llms-full.txt` companion, `.md` URL twins, MCP, `/.well-known/`, OpenAPI |
-| 10 | Linked-content stability | Sampled HEAD checks on 8 random links (CI re-runs live) |
-| 10 | Freshness | `Last-Modified` age, 10 at ≤7 days down to 1 at >365 days |
-|  8 | Discoverability | HTTP 200 at `/llms.txt`, no redirect chain |
-|  8 | Auth signposting | Auth keywords + `## Auth` / `### Authentication` / `## Credentials` / `## Access` section |
-|  6 | Size discipline | Context-window friendliness — under 32 KB ideal, 0 over 512 KB |
-|  4 | Content-Type & encoding | `text/markdown; charset=utf-8` or `text/plain; charset=utf-8`; mojibake docks a point |
-|  2 | Voice | Plain declarative language; intro em-dashes and marketing phrases penalised |
-
-Grade bands (Mozilla HTTP Observatory style, capped at 100): **A+** ≥ 95, **A** ≥ 85, **A-** ≥ 80, **B+** ≥ 75, **B** ≥ 65, **C** ≥ 50, **D** ≥ 35, **F** < 35. `A` at 85 matches Lighthouse's "green" threshold so screenshots are instantly legible.
+The rubric is refreshed monthly via [`.github/workflows/crawl.yml`](./.github/workflows/crawl.yml). Score drops auto-open an issue tagged `regression`; score rises auto-open a PR. Rubric weights themselves are revisited quarterly (Jan, Apr, Jul, Oct) so historic scores stay comparable across crawls.
 
 ## Score your own site
 
@@ -389,12 +409,10 @@ Maintainers: see [`MAINTAINERS.md`](./MAINTAINERS.md). Code of conduct: see [`CO
 - This is not an opinion on whether `llms.txt` should exist. We grade what's published.
 - This is not endorsed by Answer.AI, Jeremy Howard, or any of the listed sites.
 
-## Why this exists
+## Reference llms.txt
 
-`llms.txt` is how a site tells an agent what it can do. [Authsome](https://authsome.dev/) is how an agent tells the site who it is. Both work better when the published affordances are clear, current, and machine-readable. Our own `llms.txt` ships at [`exhibit-a/`](./exhibit-a/) as a reference.
+If you want a worked example of "what good looks like," open the top of the leaderboard. [Neon](./sites/neon.tech/) at **89 (A)** is the strongest real-world file in the corpus: H1 first line, blockquote summary, 19 H2 sections, 185 links (most are `.md` URL twins), dedicated auth signposting.
 
 ---
-
-Curated by [Authsome](https://authsome.dev/) · agent identity for third-party APIs. Built by [Agentr](https://agentr.dev/).
 
 Data licensed [CC0-1.0](./LICENSE). Tool source [MIT](./tools/llms-txt-score/LICENSE).

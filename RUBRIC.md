@@ -20,7 +20,7 @@ This is the scoring methodology behind every grade in this repo. It is **public,
 | **10** | **Linked-content stability** | Sampled HEAD requests on 8 random links from the file; one point per successful response, scaled to 10 | Dead links destroy trust fast. Sampled (not full) so a single broken link doesn't tank the score. |
 | **10** | **Freshness** | `Last-Modified` header age. ≤7d → 10, ≤30d → 9, ≤90d → 7, ≤180d → 5, ≤365d → 3, older → 1. No header → 5 (neutral default) | Stale indexes are the #1 documented complaint about `llms.txt` in the wild. |
 |  **8** | **Discoverability** | HTTP 200 at exactly `/llms.txt` (5 pts), no redirect chain (2 pts), no auth wall (1 pt) | Binary-ish check, doesn't deserve double digits, but skip these and you fail the spec. |
-|  **8** | **Auth signposting** | Keyword presence — `auth`, `API key`, `OAuth`, `Bearer`, `Authorization` (3 pts); dedicated `## Auth` / `## Authentication` section (5 pts) | Critical for credential-routing agents (like Authsome), but only for sites that *have* auth. Sites with no API surface are not penalised for missing this. |
+|  **8** | **Auth signposting** | Keyword presence — `auth`, `API key`, `OAuth`, `Bearer`, `Authorization` (3 pts); dedicated `## Auth` / `## Authentication` section (5 pts) | Critical for credential-routing agents, but only for sites that *have* auth. Sites with no API surface are not penalised for missing this. |
 |  **6** | **Size discipline** | Under 8 KB → 6, 8-32 KB → 5, 32-64 KB → 4, 64-128 KB → 2, 128-512 KB → 1, over 512 KB → 0; below 200 B → 0 (stub) | Oversized files break context windows. Twilio's 2.2 MB file is the cautionary example — high coverage, zero size discipline. |
 |  **4** | **Content-Type & encoding** | `text/markdown` or `text/plain` (3 pts), UTF-8 charset declared (1 pt) | Low-signal but trivially correctable. |
 |  **2** | **Voice** | Default 2. Subtract 1 for two or more marketing phrases (`industry-leading`, `revolutionary`, `seamlessly`, etc.). Subtract 1 for em-dashes in the intro paragraph. | Tiebreaker only. Subjective, capped, contestable. |
@@ -64,6 +64,3 @@ PRs are squash-merged once CI re-scores and matches the committed `score.json`.
 
 Source: [`tools/llms-txt-score/`](./tools/llms-txt-score). Zero runtime dependencies, Node ≥ 18. The parsing logic is in [`lib/parse.js`](./tools/llms-txt-score/lib/parse.js), the scoring in [`lib/score.js`](./tools/llms-txt-score/lib/score.js), grade bands in [`lib/grade.js`](./tools/llms-txt-score/lib/grade.js). 92 lines of tests in [`test/run.js`](./tools/llms-txt-score/test/run.js). If you spot a bug in the scoring, the patch is small.
 
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

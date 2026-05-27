@@ -1,6 +1,6 @@
 {
   "name": "llms-txt-score",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Score an llms.txt file against the public awesome-llms-txt rubric.",
   "main": "lib/score.js",
   "bin": {

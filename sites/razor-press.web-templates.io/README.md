@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://razor-press.web-templates.io/
 | Coverage | 7/20 | _thin_sectioning, missing_canonical_sections_ |
 | Agent-action declarations | 5/14 | _no_llms_full_link, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_169_days_ |
+| Freshness | 5/10 | _stale_170_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 2/8 | _no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -65,7 +65,3 @@ npx llms-txt-score https://razor-press.web-templates.io/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

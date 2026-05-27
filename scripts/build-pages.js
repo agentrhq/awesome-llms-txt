@@ -55,8 +55,7 @@ function shell({ title, description, body, ogImage, depth = 1 }) {
 <body>
 ${body}
 <footer>
-  <p>Curated by <a href="https://authsome.dev">Authsome</a> · agent identity for third-party APIs.</p>
-  <p>${depth === 0 ? '' : `<a href="${homePath}">Leaderboard</a> · `}<a href="https://github.com/agentrhq/awesome-llms-txt">GitHub</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md">Rubric</a></p>
+  <p>${depth === 0 ? '' : `<a href="${homePath}">Leaderboard</a> · `}<a href="https://github.com/agentrhq/awesome-llms-txt">GitHub</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md">Rubric</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/CONTRIBUTING.md">Contributing</a></p>
 </footer>
 </body>
 </html>

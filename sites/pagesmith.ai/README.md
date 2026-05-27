@@ -66,7 +66,3 @@ npx llms-txt-score https://pagesmith.ai/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

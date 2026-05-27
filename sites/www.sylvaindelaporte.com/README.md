@@ -64,7 +64,3 @@ npx llms-txt-score https://cdn.prod.website-files.com/5f97e61b7768c18d6a2b2eb4/6
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

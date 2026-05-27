@@ -33,7 +33,7 @@ Monthly re-crawl is wired into Actions. Score drops auto-open a regression issue
 
 Each site has its own SVG badge at `web/badge/<domain>.svg` and a permalink page at `agentrhq.github.io/awesome-llms-txt/site/<domain>.html`.
 
-I run Authsome (agent-identity layer for third-party APIs) — agents work better when the site's `llms.txt` is clean. Nobody had built a scored comparison, so I did. The dataset is CC0; the tool is MIT.
+Nobody had built a scored comparison of `llms.txt` files — every existing directory I could find (`directory.llmstxt.cloud`, `llms-txt-hub`, `SecretiveShell/Awesome-llms-txt`) is alphabetical or sorted by raw token count. The dataset is CC0; the tool is MIT.
 
 Happy to argue about weights. I expect the heaviest debate on:
 

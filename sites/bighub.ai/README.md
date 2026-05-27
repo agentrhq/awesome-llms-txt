@@ -33,7 +33,7 @@ Category: **ai-platform** · [Live llms.txt](https://cdn.prod.website-files.com/
 | Coverage | 10/20 | _few_value_links_ |
 | Agent-action declarations | 1/14 | _no_llms_full_link, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_112_days_ |
+| Freshness | 5/10 | _stale_113_days_ |
 | Discoverability | 6/8 | _redirect_chain_ |
 | Auth signposting | 3/8 | _no_auth_keywords_ |
 | Size discipline | 5/6 | |
@@ -60,7 +60,3 @@ npx llms-txt-score https://cdn.prod.website-files.com/6826e1215f604a777c6ba5bc/6
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

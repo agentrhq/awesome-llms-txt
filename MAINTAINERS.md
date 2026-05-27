@@ -4,9 +4,9 @@ The leaderboard is run by a small team. We are listed here so appeals and rubric
 
 ## Active maintainers
 
-| Name | GitHub | Areas | Joined |
-|---|---|---|---|
-| Priyansh Khodiyar | `@priyanshk04` ([agentr.dev](https://agentr.dev)) | scoring tool, rubric, infra | 2026-05 |
+| GitHub | Areas | Joined |
+|--------|-------|--------|
+| [@zriyansh](https://github.com/zriyansh) | scoring tool, rubric, infra | 2026-05 |
 
 ## Trusted contributors
 
@@ -33,7 +33,7 @@ People who have merged ≥ 3 PRs and earned commit access on `tools/` or `script
 
 ## Contact
 
-For things that genuinely cannot be public (security disclosures on the scoring tool, takedown notices), email `security@agentr.dev`. Everything else goes on the issue tracker.
+For things that genuinely cannot be public (security disclosures on the scoring tool, takedown notices), open a private security advisory on GitHub. Everything else goes on the issue tracker.
 
 ## Governance trail
 

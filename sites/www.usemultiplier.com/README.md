@@ -33,7 +33,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.usemultiplier.com/llms.tx
 | Coverage | 14/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_421_days_ |
+| Freshness | 1/10 | _stale_422_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -49,7 +49,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.usemultiplier.com/llms.tx
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_421_days
+- Freshness (1/10): stale_422_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
@@ -65,7 +65,3 @@ npx llms-txt-score https://www.usemultiplier.com/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

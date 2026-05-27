@@ -69,4 +69,6 @@ Grade bands (Mozilla Observatory style, capped at 100): **A+** ≥ 95, **A** ≥
 
 Zero runtime deps. The CLI is `node ./bin/llms-txt-score.js` and works with any Node ≥ 18. Reproducibility is the moat.
 
-## Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.
+## License
+
+MIT. See [`LICENSE`](./LICENSE).

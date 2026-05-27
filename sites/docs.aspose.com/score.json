@@ -52,9 +52,9 @@
       "max": 10,
       "points": 3,
       "reasons": [
-        "stale_256_days"
+        "stale_257_days"
       ],
-      "age_days": 256,
+      "age_days": 257,
       "source": "last_modified"
     },
     {

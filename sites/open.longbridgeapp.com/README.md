@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://open.longportapp.com/llms.txt
 | Coverage | 16/20 | |
 | Agent-action declarations | 6/14 | _no_llms_full_link, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 5/10 | _stale_165_days_ |
+| Freshness | 5/10 | _stale_166_days_ |
 | Discoverability | 6/8 | _redirect_chain_ |
 | Auth signposting | 5/8 | _no_auth_keywords_ |
 | Size discipline | 5/6 | |
@@ -58,7 +58,3 @@ npx llms-txt-score https://open.longportapp.com/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

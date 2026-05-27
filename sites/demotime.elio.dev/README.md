@@ -33,7 +33,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://demotime.elio.dev/llms.txt) Â
 | Coverage | 15/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_323_days_ |
+| Freshness | 3/10 | _stale_324_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -51,7 +51,7 @@ Category: **dev-tools** Â· [Live llms.txt](https://demotime.elio.dev/llms.txt) Â
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_323_days
+- Freshness (3/10): stale_324_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
@@ -67,7 +67,3 @@ npx llms-txt-score https://demotime.elio.dev/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) Â· agent identity for third-party APIs.

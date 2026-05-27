@@ -64,7 +64,3 @@ npx llms-txt-score https://storage.googleapis.com/bc-index-now.firebasestorage.a
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

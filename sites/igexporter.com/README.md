@@ -33,7 +33,7 @@ Category: **comms** · [Live llms.txt](https://igexporter.com/llms.txt) · Snaps
 | Coverage | 8/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_232_days_ |
+| Freshness | 3/10 | _stale_233_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -51,7 +51,7 @@ Category: **comms** · [Live llms.txt](https://igexporter.com/llms.txt) · Snaps
 
 - Coverage (8/20)
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_232_days
+- Freshness (3/10): stale_233_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
@@ -67,7 +67,3 @@ npx llms-txt-score https://igexporter.com/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

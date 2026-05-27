@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.aspose.com/llms.txt) · 
 | Coverage | 14/20 | |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 3/10 | _stale_256_days_ |
+| Freshness | 3/10 | _stale_257_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 5/6 | |
@@ -48,7 +48,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.aspose.com/llms.txt) · 
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (3/10): stale_256_days
+- Freshness (3/10): stale_257_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 
 ## Embed the badge
@@ -64,7 +64,3 @@ npx llms-txt-score https://docs.aspose.com/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

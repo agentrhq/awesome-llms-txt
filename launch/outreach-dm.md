@@ -37,7 +37,7 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 >
 > When you re-deploy, the next monthly crawl picks up the change. If you'd rather contest the score, the appeals issue template is in the repo. We re-grade on the issue.
 >
-> Not a sales note — I run Authsome on the agent side; this is a related thing we wanted to exist.
+> Not a sales note — just thought you'd want to know how your file landed in the first scored survey.
 
 ---
 

@@ -32,7 +32,7 @@ Category: **dev-tools** · [Live llms.txt](https://jimukiki.net/llms.txt) · Sna
 | Coverage | 10/20 | _missing_canonical_sections_ |
 | Agent-action declarations | 0/14 | _no_llms_full_link, no_md_url_twins, no_agent_signposts, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 1/10 | _stale_432_days_ |
+| Freshness | 1/10 | _stale_433_days_ |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 2/6 | _oversized_92kb_ |
@@ -47,7 +47,7 @@ Category: **dev-tools** · [Live llms.txt](https://jimukiki.net/llms.txt) · Sna
 ## What's weak
 
 - Agent-action declarations (0/14): no_llms_full_link, no_md_url_twins, no_agent_signposts
-- Freshness (1/10): stale_432_days
+- Freshness (1/10): stale_433_days
 - Auth signposting (0/8): no_auth_keywords, no_auth_section
 - Size discipline (2/6): oversized_92kb
 
@@ -64,7 +64,3 @@ npx llms-txt-score https://jimukiki.net/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

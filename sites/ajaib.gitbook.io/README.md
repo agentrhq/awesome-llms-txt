@@ -64,7 +64,3 @@ npx llms-txt-score https://ajaib.gitbook.io/coin-exchange/llms.txt
 ```
 
 See [the rubric](../../RUBRIC.md) for what each criterion checks.
-
----
-
-Curated by [Authsome](https://authsome.dev) · agent identity for third-party APIs.

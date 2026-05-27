@@ -11,6 +11,6 @@ In short:
 
 ## Reporting
 
-Report violations privately by emailing `conduct@agentr.dev`. All reports are reviewed by at least two maintainers.
+Report violations by opening a private GitHub security advisory on this repo, or by DM to any listed maintainer. Reports are reviewed by at least two maintainers.
 
 For the full text, see [`https://www.contributor-covenant.org/version/2/1/code_of_conduct/`](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
