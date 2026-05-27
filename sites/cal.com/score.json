@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "cal.com",
-  "display_name": "Cal",
+  "display_name": "Cal.com",
   "category": "dev-tools",
   "verified_url": "https://cal.com/docs/llms.txt",
   "fetched_at": "2026-05-27T05:00:20Z",

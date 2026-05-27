@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "supabase.com",
-  "display_name": "Supabase Docs",
+  "display_name": "Supabase",
   "category": "data",
   "verified_url": "https://supabase.com/llms.txt",
   "fetched_at": "2026-05-27T05:00:20Z",

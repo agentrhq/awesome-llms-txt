@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "redis.io",
-  "display_name": "Redis Documentation",
+  "display_name": "Redis",
   "category": "data",
   "verified_url": "https://redis.io/llms.txt",
   "fetched_at": "2026-05-27T05:00:22Z",

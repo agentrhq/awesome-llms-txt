@@ -56,6 +56,22 @@ const OVERRIDES = {
   'auth0.com': 'Auth0',
   'newrelic.com': 'New Relic',
   'posthog.com': 'PostHog',
+  'vercel.com': 'Vercel',
+  'prisma.io': 'Prisma',
+  'docs.convex.dev': 'Convex Docs', 'convex.dev': 'Convex',
+  'redis.io': 'Redis',
+  'better-auth.com': 'Better Auth',
+  'cohere.com': 'Cohere',
+  'cal.com': 'Cal.com',
+  'mistral.ai': 'Mistral',
+  'together.ai': 'Together AI',
+  'amplitude.com': 'Amplitude',
+  'datadog.com': 'Datadog',
+  'mongodb.com': 'MongoDB',
+  'supabase.com': 'Supabase',
+  'cloudflare.com': 'Cloudflare',
+  'svelte.dev': 'Svelte',
+  'planetscale.com': 'PlanetScale',
 };
 
 // Acronyms that should stay uppercase if produced by humanizing.

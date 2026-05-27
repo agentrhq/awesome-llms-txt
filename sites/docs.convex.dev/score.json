@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "docs.convex.dev",
-  "display_name": "Convex Documentation",
+  "display_name": "Convex Docs",
   "category": "data",
   "verified_url": "https://docs.convex.dev/llms.txt",
   "fetched_at": "2026-05-27T05:31:36Z",

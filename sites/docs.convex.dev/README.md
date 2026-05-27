@@ -1,6 +1,6 @@
 ---
 domain: docs.convex.dev
-display_name: Convex Documentation
+display_name: Convex Docs
 category: data
 score: 86
 grade: A
@@ -13,7 +13,7 @@ section_count: 31
 freshness_age_days: null
 ---
 
-# Convex Documentation
+# Convex Docs
 
 ![Score 86/100 · Grade A](../../docs/badge/docs.convex.dev.svg)
 

@@ -1,6 +1,6 @@
 ---
 domain: supabase.com
-display_name: Supabase Docs
+display_name: Supabase
 category: data
 score: 64
 grade: C
@@ -13,7 +13,7 @@ section_count: 2
 freshness_age_days: null
 ---
 
-# Supabase Docs
+# Supabase
 
 ![Score 64/100 · Grade C](../../docs/badge/supabase.com.svg)
 

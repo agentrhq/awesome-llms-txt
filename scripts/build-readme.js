@@ -84,6 +84,7 @@ ${hook}
 
 - [How scores are calculated](#how-scores-are-calculated)
 - [Headline numbers](#headline-numbers)
+- [Names you know](#names-you-know)
 - [Top 25](#top-25)
 - [Lowest scorers (each is a 5-minute fix)](#lowest-scorers-each-is-a-5-minute-fix)
 - [By category](#by-category)
@@ -139,6 +140,76 @@ const top25section = `## Top 25
 ${top25.map(row).join('\n')}
 
 [Full table (${stats.total.toLocaleString()} rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
+
+`;
+
+// HOUSEHOLD_NAMES drives the "Names you know" section near the top of the README.
+// Readers scrolling for 5 seconds want to see brands they recognise, not the long
+// tail of niche SaaS or random submission-driven entries. Curation is editorial.
+// To propose adding or removing a brand, open an issue with the "household-names"
+// label.
+//
+// One entry per brand: we pick whichever domain (apex vs docs) the brand uses
+// as their primary llms.txt location, to avoid double-counting them in the table.
+const HOUSEHOLD_NAMES = new Set([
+  'docs.stripe.com',
+  'vercel.com',
+  'docs.anthropic.com',
+  'cohere.com',
+  'cloudflare.com',
+  'github.com',
+  'resend.com',
+  'linear.app',
+  'cal.com',
+  'clerk.com',
+  'workos.com',
+  'auth0.com',
+  'posthog.com',
+  'neon.tech',
+  'docs.convex.dev',
+  'supabase.com',
+  'datadog.com',
+  'mongodb.com',
+  'redis.io',
+  'netlify.com',
+  'twilio.com',
+  'notion.so',
+  'python.langchain.com',
+  'docs.zapier.com',
+  'docs.expo.dev',
+  'docs.adyen.com',
+  'docs.docker.com',
+  'prisma.io',
+  'planetscale.com',
+  'nextjs.org',
+  'react.dev',
+  'svelte.dev',
+  'vuejs.org',
+  'ui.shadcn.com',
+  'amplitude.com',
+  'newrelic.com',
+  'elevenlabs.io',
+  'replicate.com',
+  'better-auth.com',
+  'www.unkey.com',
+  'mistral.ai',
+  'together.ai',
+  'ollama.com',
+  'docs.gitbook.com',
+  'www.mux.com',
+]);
+
+const householdRows = sorted.filter(e => HOUSEHOLD_NAMES.has(e.domain));
+
+const householdSection = `## Names you know
+
+How the most-recognised dev tools and SaaS scored. Sorted by score within this curated list. Curation is editorial; the rankings are not. To propose adding or removing a brand, open an issue with the \`household-names\` label.
+
+| #  | Site | Domain | Score | Grade | Category |
+|---:|------|--------|------:|:-----:|----------|
+${householdRows.map((e, i) => `| ${i + 1} | [${e.display_name}](${siteFolder(e.domain)}) | \`${e.domain}\` | ${e.score} | **${e.grade}** | ${CATEGORY_LABELS[e.category] || e.category} |`).join('\n')}
+
+The same rubric grades every site in the corpus. Browse the [Top 25](#top-25) for the strict leaderboard, or the [full table](./docs/leaderboard.json) for all ${sorted.length.toLocaleString()} entries.
 
 `;
 
@@ -251,6 +322,6 @@ If you want a worked example of "what good looks like," open the top of the lead
 Data licensed [CC0-1.0](./LICENSE). Tool source [MIT](./tools/llms-txt-score/LICENSE).
 `;
 
-const out = intro + top25section + bottomSection + tail;
+const out = intro + householdSection + top25section + bottomSection + tail;
 fs.writeFileSync(path.join(ROOT, 'README.md'), out);
 console.error('wrote README.md (' + out.length + ' bytes)');

@@ -1,6 +1,6 @@
 ---
 domain: cal.com
-display_name: Cal
+display_name: Cal.com
 category: dev-tools
 score: 68
 grade: B
@@ -13,7 +13,7 @@ section_count: 2
 freshness_age_days: null
 ---
 
-# Cal
+# Cal.com
 
 ![Score 68/100 · Grade B](../../docs/badge/cal.com.svg)
 

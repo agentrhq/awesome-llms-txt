@@ -2,7 +2,7 @@
 domain: thatwebhostingguy.com
 display_name: Thatwebhostingguy
 category: auth
-score: 46
+score: 45
 grade: D
 last_scored: 2026-05-27
 verified_url: https://thatwebhostingguy.com/llms.txt
@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Thatwebhostingguy
 
-![Score 46/100 · Grade D](../../docs/badge/thatwebhostingguy.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/thatwebhostingguy.com.svg)
 
 Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -32,7 +32,7 @@ Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) ·
 | Coverage | 3/20 | _few_value_links, missing_canonical_sections_ |
 | Agent-action declarations | 1/14 | _no_llms_full_link, no_md_url_twins, no_machine_readable_api_spec_ |
 | Linked-content stability | 6/10 | _not_sampled_ |
-| Freshness | 10/10 | |
+| Freshness | 9/10 | |
 | Discoverability | 8/8 | |
 | Auth signposting | 0/8 | _no_auth_keywords, no_auth_section_ |
 | Size discipline | 6/6 | |
@@ -41,7 +41,6 @@ Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) ·
 
 ## What's exceptional
 
-- Freshness (10/10)
 - Discoverability (8/8)
 - Size discipline (6/6)
 - Voice (2/2)
@@ -56,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
 ```
 
 ## Reproduce this score

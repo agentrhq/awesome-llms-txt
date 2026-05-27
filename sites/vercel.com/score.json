@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "vercel.com",
-  "display_name": "Documentation",
+  "display_name": "Vercel",
   "category": "infra",
   "verified_url": "https://vercel.com/llms.txt",
   "fetched_at": "2026-05-27T05:00:20Z",

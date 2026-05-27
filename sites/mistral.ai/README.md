@@ -1,6 +1,6 @@
 ---
 domain: mistral.ai
-display_name: Mistral AI
+display_name: Mistral
 category: ai-platform
 score: 57
 grade: C
@@ -13,7 +13,7 @@ section_count: 7
 freshness_age_days: null
 ---
 
-# Mistral AI
+# Mistral
 
 ![Score 57/100 · Grade C](../../docs/badge/mistral.ai.svg)
 

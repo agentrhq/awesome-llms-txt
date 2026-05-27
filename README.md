@@ -13,6 +13,7 @@ The public leaderboard of `llms.txt` quality. We scored **1,016 production files
 
 - [How scores are calculated](#how-scores-are-calculated)
 - [Headline numbers](#headline-numbers)
+- [Names you know](#names-you-know)
 - [Top 25](#top-25)
 - [Lowest scorers (each is a 5-minute fix)](#lowest-scorers-each-is-a-5-minute-fix)
 - [By category](#by-category)
@@ -59,12 +60,66 @@ No site can claim a different score by emailing us. The tool is the answer. If y
 - Grade distribution: A=3 · A-=7 · B+=51 · B=231 · C=535 · D=144 · F=45.
 - Real `Last-Modified` data on **553 / 1016** sites (54%). The rest score the neutral 5 / 10 default on Freshness until they emit the header.
 
+## Names you know
+
+How the most-recognised dev tools and SaaS scored. Sorted by score within this curated list. Curation is editorial; the rankings are not. To propose adding or removing a brand, open an issue with the `household-names` label.
+
+| #  | Site | Domain | Score | Grade | Category |
+|---:|------|--------|------:|:-----:|----------|
+| 1 | [Neon](./sites/neon.tech/) | `neon.tech` | 89 | **A** | Data |
+| 2 | [Convex Docs](./sites/docs.convex.dev/) | `docs.convex.dev` | 86 | **A** | Data |
+| 3 | [Resend](./sites/resend.com/) | `resend.com` | 85 | **A** | Comms |
+| 4 | [Zapier Docs](./sites/docs.zapier.com/) | `docs.zapier.com` | 82 | **A-** | Developer tools |
+| 5 | [PostHog](./sites/posthog.com/) | `posthog.com` | 81 | **A-** | Observability |
+| 6 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** | Developer tools |
+| 7 | [Adyen Docs](./sites/docs.adyen.com/) | `docs.adyen.com` | 78 | **B+** | Billing |
+| 8 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** | Auth |
+| 9 | [Redis](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data |
+| 10 | [GitHub](./sites/github.com/) | `github.com` | 77 | **B+** | Developer tools |
+| 11 | [WorkOS](./sites/workos.com/) | `workos.com` | 77 | **B+** | Auth |
+| 12 | [Auth0](./sites/auth0.com/) | `auth0.com` | 76 | **B+** | Auth |
+| 13 | [Expo Docs](./sites/docs.expo.dev/) | `docs.expo.dev` | 76 | **B+** | Developer tools |
+| 14 | [Unkey](./sites/www.unkey.com/) | `www.unkey.com` | 76 | **B+** | Auth |
+| 15 | [LangChain (Python)](./sites/python.langchain.com/) | `python.langchain.com` | 75 | **B+** | AI platforms |
+| 16 | [Docker Docs](./sites/docs.docker.com/) | `docs.docker.com` | 74 | **B** | Infra |
+| 17 | [Mux](./sites/www.mux.com/) | `www.mux.com` | 73 | **B** | Content |
+| 18 | [GitBook Docs](./sites/docs.gitbook.com/) | `docs.gitbook.com` | 71 | **B** | Docs platforms |
+| 19 | [Vercel](./sites/vercel.com/) | `vercel.com` | 71 | **B** | Infra |
+| 20 | [Cloudflare](./sites/cloudflare.com/) | `cloudflare.com` | 70 | **B** | Infra |
+| 21 | [PlanetScale](./sites/planetscale.com/) | `planetscale.com` | 70 | **B** | Data |
+| 22 | [shadcn/ui](./sites/ui.shadcn.com/) | `ui.shadcn.com` | 70 | **B** | Developer tools |
+| 23 | [Together AI](./sites/together.ai/) | `together.ai` | 70 | **B** | AI platforms |
+| 24 | [Datadog](./sites/datadog.com/) | `datadog.com` | 69 | **B** | Observability |
+| 25 | [React](./sites/react.dev/) | `react.dev` | 69 | **B** | Developer tools |
+| 26 | [Stripe Docs](./sites/docs.stripe.com/) | `docs.stripe.com` | 69 | **B** | Billing |
+| 27 | [Anthropic Docs](./sites/docs.anthropic.com/) | `docs.anthropic.com` | 68 | **B** | AI platforms |
+| 28 | [Cal.com](./sites/cal.com/) | `cal.com` | 68 | **B** | Developer tools |
+| 29 | [Cohere](./sites/cohere.com/) | `cohere.com` | 67 | **B** | AI platforms |
+| 30 | [Vue.js](./sites/vuejs.org/) | `vuejs.org` | 67 | **B** | Developer tools |
+| 31 | [Clerk](./sites/clerk.com/) | `clerk.com` | 65 | **B** | Auth |
+| 32 | [ElevenLabs](./sites/elevenlabs.io/) | `elevenlabs.io` | 65 | **B** | AI platforms |
+| 33 | [Netlify](./sites/netlify.com/) | `netlify.com` | 65 | **B** | Infra |
+| 34 | [Supabase](./sites/supabase.com/) | `supabase.com` | 64 | **C** | Data |
+| 35 | [New Relic](./sites/newrelic.com/) | `newrelic.com` | 63 | **C** | Observability |
+| 36 | [Next.js](./sites/nextjs.org/) | `nextjs.org` | 60 | **C** | Developer tools |
+| 37 | [Svelte](./sites/svelte.dev/) | `svelte.dev` | 60 | **C** | Developer tools |
+| 38 | [Amplitude](./sites/amplitude.com/) | `amplitude.com` | 59 | **C** | Observability |
+| 39 | [Ollama](./sites/ollama.com/) | `ollama.com` | 58 | **C** | AI platforms |
+| 40 | [Mistral](./sites/mistral.ai/) | `mistral.ai` | 57 | **C** | AI platforms |
+| 41 | [Prisma](./sites/prisma.io/) | `prisma.io` | 57 | **C** | Data |
+| 42 | [MongoDB](./sites/mongodb.com/) | `mongodb.com` | 52 | **C** | Data |
+| 43 | [Replicate](./sites/replicate.com/) | `replicate.com` | 46 | **D** | AI platforms |
+| 44 | [Notion](./sites/notion.so/) | `notion.so` | 29 | **F** | Developer tools |
+| 45 | [Twilio](./sites/twilio.com/) | `twilio.com` | 27 | **F** | Comms |
+
+The same rubric grades every site in the corpus. Browse the [Top 25](#top-25) for the strict leaderboard, or the [full table](./docs/leaderboard.json) for all 1,016 entries.
+
 ## Top 25
 
 | # | Site | Domain | Score | Grade | Category | Size |
 |---|------|--------|------:|:-----:|----------|-----:|
 | 1 | [Neon](./sites/neon.tech/) | `neon.tech` | 89 | **A** | Data | 27.1 KB |
-| 2 | [Convex Documentation](./sites/docs.convex.dev/) | `docs.convex.dev` | 86 | **A** | Data | 37.4 KB |
+| 2 | [Convex Docs](./sites/docs.convex.dev/) | `docs.convex.dev` | 86 | **A** | Data | 37.4 KB |
 | 3 | [Resend](./sites/resend.com/) | `resend.com` | 85 | **A** | Comms | 5.5 KB |
 | 4 | [Openfort](./sites/www.openfort.io/) | `www.openfort.io` | 82 | **A-** | Auth | 4.6 KB |
 | 5 | [Zapier Docs](./sites/docs.zapier.com/) | `docs.zapier.com` | 82 | **A-** | Developer tools | 38.6 KB |
@@ -85,7 +140,7 @@ No site can claim a different score by emailing us. The tool is the answer. If y
 | 20 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** | Developer tools | 50.7 KB |
 | 21 | [Parallel](./sites/docs.parallel.ai/) | `docs.parallel.ai` | 78 | **B+** | AI platforms | 19.7 KB |
 | 22 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** | Developer tools | 69.3 KB |
-| 23 | [Redis Documentation](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
+| 23 | [Redis](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
 | 24 | [Scrapfly Documentation](./sites/docs.scrapfly.io/) | `docs.scrapfly.io` | 78 | **B+** | Infra | 22.5 KB |
 | 25 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** | Developer tools | 31.5 KB |
 
@@ -151,8 +206,8 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 37._
 | # | Site | Domain | Score | Grade |
 |---|------|--------|------:|:-----:|
 | 1 | [Neon](./sites/neon.tech/) | `neon.tech` | 89 | **A** |
-| 2 | [Convex Documentation](./sites/docs.convex.dev/) | `docs.convex.dev` | 86 | **A** |
-| 3 | [Redis Documentation](./sites/redis.io/) | `redis.io` | 78 | **B+** |
+| 2 | [Convex Docs](./sites/docs.convex.dev/) | `docs.convex.dev` | 86 | **A** |
+| 3 | [Redis](./sites/redis.io/) | `redis.io` | 78 | **B+** |
 | 4 | [Chainbase Docs](./sites/docs.chainbase.com/) | `docs.chainbase.com` | 77 | **B+** |
 | 5 | [Metabase](./sites/www.metabase.com/) | `www.metabase.com` | 77 | **B+** |
 | 6 | [Finch](./sites/developer.tryfinch.com/) | `developer.tryfinch.com` | 76 | **B+** |
@@ -228,7 +283,7 @@ _See [`leaderboard.json`](./docs/leaderboard.json) for the full 28._
 | 10 | [Community Charts](./sites/community-charts.github.io/) | `community-charts.github.io` | 73 | **B** |
 | 11 | [Kernel Error](./sites/www.kernel-error.de/) | `www.kernel-error.de` | 73 | **B** |
 | 12 | [xmcp](./sites/xmcp.dev/) | `xmcp.dev` | 72 | **B** |
-| 13 | [Documentation](./sites/vercel.com/) | `vercel.com` | 71 | **B** |
+| 13 | [Vercel](./sites/vercel.com/) | `vercel.com` | 71 | **B** |
 | 14 | [Cloudflare](./sites/cloudflare.com/) | `cloudflare.com` | 70 | **B** |
 | 15 | [Injective Docs](./sites/docs.injective.network/) | `docs.injective.network` | 70 | **B** |
 

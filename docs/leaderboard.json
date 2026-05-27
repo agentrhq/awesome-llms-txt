@@ -15,7 +15,7 @@
   },
   {
     "domain": "docs.convex.dev",
-    "display_name": "Convex Documentation",
+    "display_name": "Convex Docs",
     "category": "data",
     "score": 86,
     "grade": "A",
@@ -309,7 +309,7 @@
   },
   {
     "domain": "redis.io",
-    "display_name": "Redis Documentation",
+    "display_name": "Redis",
     "category": "data",
     "score": 78,
     "grade": "B+",
@@ -1862,20 +1862,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "vercel.com",
-    "display_name": "Documentation",
-    "category": "infra",
-    "score": 71,
-    "grade": "B",
-    "file_size_bytes": 166728,
-    "link_count": 1428,
-    "value_link_count": 1428,
-    "section_count": 20,
-    "freshness_age_days": null,
-    "verified_url": "https://vercel.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "elysiajs.com",
     "display_name": "Elysiajs",
     "category": "dev-tools",
@@ -1999,6 +1985,20 @@
     "section_count": 2,
     "freshness_age_days": 9,
     "verified_url": "https://docs.uniwebview.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "vercel.com",
+    "display_name": "Vercel",
+    "category": "infra",
+    "score": 71,
+    "grade": "B",
+    "file_size_bytes": 166728,
+    "link_count": 1428,
+    "value_link_count": 1428,
+    "section_count": 20,
+    "freshness_age_days": null,
+    "verified_url": "https://vercel.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {
@@ -2759,7 +2759,7 @@
   },
   {
     "domain": "cal.com",
-    "display_name": "Cal",
+    "display_name": "Cal.com",
     "category": "dev-tools",
     "score": 68,
     "grade": "B",
@@ -4355,7 +4355,7 @@
   },
   {
     "domain": "supabase.com",
-    "display_name": "Supabase Docs",
+    "display_name": "Supabase",
     "category": "data",
     "score": 64,
     "grade": "C",
@@ -8219,7 +8219,7 @@
   },
   {
     "domain": "mistral.ai",
-    "display_name": "Mistral AI",
+    "display_name": "Mistral",
     "category": "ai-platform",
     "score": 57,
     "grade": "C",
@@ -8275,7 +8275,7 @@
   },
   {
     "domain": "prisma.io",
-    "display_name": "Prisma Website",
+    "display_name": "Prisma",
     "category": "data",
     "score": 57,
     "grade": "C",
@@ -12194,20 +12194,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "thatwebhostingguy.com",
-    "display_name": "Thatwebhostingguy",
-    "category": "auth",
-    "score": 46,
-    "grade": "D",
-    "file_size_bytes": 1840,
-    "link_count": 0,
-    "value_link_count": 0,
-    "section_count": 5,
-    "freshness_age_days": 7,
-    "verified_url": "https://thatwebhostingguy.com/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "travelmemo.com",
     "display_name": "Travelmemo",
     "category": "dev-tools",
@@ -12359,6 +12345,20 @@
     "section_count": 0,
     "freshness_age_days": null,
     "verified_url": "https://www.parseable.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "thatwebhostingguy.com",
+    "display_name": "Thatwebhostingguy",
+    "category": "auth",
+    "score": 45,
+    "grade": "D",
+    "file_size_bytes": 1840,
+    "link_count": 0,
+    "value_link_count": 0,
+    "section_count": 5,
+    "freshness_age_days": 7,
+    "verified_url": "https://thatwebhostingguy.com/llms.txt",
     "last_scored": "2026-05-27"
   },
   {

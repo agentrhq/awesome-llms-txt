@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "domain": "mistral.ai",
-  "display_name": "Mistral AI",
+  "display_name": "Mistral",
   "category": "ai-platform",
   "verified_url": "https://mistral.ai/llms.txt",
   "fetched_at": "2026-05-27T05:00:24Z",

@@ -1,6 +1,6 @@
 ---
 domain: prisma.io
-display_name: Prisma Website
+display_name: Prisma
 category: data
 score: 57
 grade: C
@@ -13,7 +13,7 @@ section_count: 2
 freshness_age_days: null
 ---
 
-# Prisma Website
+# Prisma
 
 ![Score 57/100 · Grade C](../../docs/badge/prisma.io.svg)
 

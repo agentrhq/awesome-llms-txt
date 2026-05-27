@@ -1,6 +1,6 @@
 ---
 domain: redis.io
-display_name: Redis Documentation
+display_name: Redis
 category: data
 score: 78
 grade: B+
@@ -13,7 +13,7 @@ section_count: 11
 freshness_age_days: 0
 ---
 
-# Redis Documentation
+# Redis
 
 ![Score 78/100 · Grade B+](../../docs/badge/redis.io.svg)
 

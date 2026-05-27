@@ -1,6 +1,6 @@
 ---
 domain: vercel.com
-display_name: Documentation
+display_name: Vercel
 category: infra
 score: 71
 grade: B
@@ -13,7 +13,7 @@ section_count: 20
 freshness_age_days: null
 ---
 
-# Documentation
+# Vercel
 
 ![Score 71/100 · Grade B](../../docs/badge/vercel.com.svg)
 
