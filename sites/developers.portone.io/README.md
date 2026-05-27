@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 포트원 개발자센터 문서
 
-![Score 78/100 — Grade B+](../../docs/badge/developers.portone.io.svg)
+![Score 78/100 · Grade B+](../../docs/badge/developers.portone.io.svg)
 
 Category: **billing** · [Live llms.txt](https://developers.portone.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

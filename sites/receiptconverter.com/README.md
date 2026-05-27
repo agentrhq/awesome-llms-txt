@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ReceiptConverter
 
-![Score 58/100 — Grade C](../../docs/badge/receiptconverter.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/receiptconverter.com.svg)
 
 Category: **billing** · [Live llms.txt](https://receiptconverter.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

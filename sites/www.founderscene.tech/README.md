@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Founder Scene
 
-![Score 57/100 — Grade C](../../docs/badge/www.founderscene.tech.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.founderscene.tech.svg)
 
 Category: **comms** · [Live llms.txt](https://www.founderscene.tech/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

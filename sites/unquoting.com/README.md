@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Unquoting
 
-![Score 57/100 — Grade C](../../docs/badge/unquoting.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/unquoting.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.unquoting.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Galileo
 
-![Score 75/100 — Grade B+](../../docs/badge/docs.galileo.ai.svg)
+![Score 75/100 · Grade B+](../../docs/badge/docs.galileo.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.galileo.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pandaci
 
-![Score 51/100 — Grade C](../../docs/badge/pandaci.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/pandaci.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pandaci.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

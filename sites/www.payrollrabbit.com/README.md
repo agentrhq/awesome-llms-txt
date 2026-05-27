@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Payrollrabbit
 
-![Score 61/100 — Grade C](../../docs/badge/www.payrollrabbit.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.payrollrabbit.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.payrollrabbit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

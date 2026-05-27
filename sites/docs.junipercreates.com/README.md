@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Juniper Creates Guide
 
-![Score 56/100 — Grade C](../../docs/badge/docs.junipercreates.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.junipercreates.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.junipercreates.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

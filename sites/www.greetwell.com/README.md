@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Greetwell
 
-![Score 63/100 — Grade C](../../docs/badge/www.greetwell.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.greetwell.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.greetwell.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

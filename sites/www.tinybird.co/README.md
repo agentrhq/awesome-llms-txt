@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tinybird
 
-![Score 52/100 — Grade C](../../docs/badge/www.tinybird.co.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.tinybird.co.svg)
 
 Category: **data** · [Live llms.txt](https://www.tinybird.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 51
 
 # Briteksolar
 
-![Score 53/100 — Grade C](../../docs/badge/briteksolar.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/briteksolar.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://briteksolar.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 🏗 Scaffold-ETH 2 | Docs
 
-![Score 61/100 — Grade C](../../docs/badge/docs.scaffoldeth.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.scaffoldeth.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.scaffoldeth.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Automatio
 
-![Score 62/100 — Grade C](../../docs/badge/automatio.ai.svg)
+![Score 62/100 · Grade C](../../docs/badge/automatio.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://automatio.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

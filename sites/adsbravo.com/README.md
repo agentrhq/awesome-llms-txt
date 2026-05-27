@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../docs/badge/adsbravo.com.svg)
+![Score 41/100 · Grade D](../../docs/badge/adsbravo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://adsbravo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

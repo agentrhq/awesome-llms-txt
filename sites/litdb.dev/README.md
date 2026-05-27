@@ -15,7 +15,7 @@ freshness_age_days: 459
 
 # litdb
 
-![Score 54/100 — Grade C](../../docs/badge/litdb.dev.svg)
+![Score 54/100 · Grade C](../../docs/badge/litdb.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://litdb.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

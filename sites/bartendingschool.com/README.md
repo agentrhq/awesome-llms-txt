@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bartendingschool
 
-![Score 54/100 — Grade C](../../docs/badge/bartendingschool.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/bartendingschool.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bartendingschool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ZEP Guidebook (EN)
 
-![Score 58/100 — Grade C](../../docs/badge/docs.zep.us.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.zep.us.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zep.us/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

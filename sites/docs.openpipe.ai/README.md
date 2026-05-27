@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # OpenPipe
 
-![Score 72/100 — Grade B](../../docs/badge/docs.openpipe.ai.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.openpipe.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.openpipe.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

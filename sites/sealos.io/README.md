@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sealos
 
-![Score 26/100 — Grade F](../../docs/badge/sealos.io.svg)
+![Score 26/100 · Grade F](../../docs/badge/sealos.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sealos.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

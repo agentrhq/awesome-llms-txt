@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zipchat
 
-![Score 56/100 — Grade C](../../docs/badge/docs.zipchat.ai.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.zipchat.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zipchat.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

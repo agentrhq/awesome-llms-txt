@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Anthropic Docs
 
-![Score 68/100 — Grade B](../../docs/badge/docs.anthropic.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.anthropic.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://platform.claude.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

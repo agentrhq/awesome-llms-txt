@@ -10,7 +10,7 @@ The leaderboard is run by a small team. We are listed here so appeals and rubric
 
 ## Trusted contributors
 
-People who have merged ≥ 3 PRs and earned commit access on `tools/` or `scripts/`. Empty at launch — that's a state we'd like to change. Open a PR and start a relationship.
+People who have merged ≥ 3 PRs and earned commit access on `tools/` or `scripts/`. Empty at launch. That's a state we'd like to change. Open a PR and start a relationship.
 
 ## What maintainers actually do
 

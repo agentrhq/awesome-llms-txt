@@ -15,7 +15,7 @@ freshness_age_days: 42
 
 # Eastagile
 
-![Score 32/100 — Grade F](../../docs/badge/www.eastagile.com.svg)
+![Score 32/100 · Grade F](../../docs/badge/www.eastagile.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.eastagile.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

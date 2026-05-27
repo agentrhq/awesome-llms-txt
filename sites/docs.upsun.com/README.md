@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Upsun
 
-![Score 73/100 — Grade B](../../docs/badge/docs.upsun.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.upsun.com.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.upsun.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

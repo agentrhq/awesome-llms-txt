@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mixo
 
-![Score 52/100 — Grade C](../../docs/badge/www.mixo.io.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.mixo.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mixo.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

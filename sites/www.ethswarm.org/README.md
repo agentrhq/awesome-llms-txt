@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Swarm
 
-![Score 53/100 — Grade C](../../docs/badge/www.ethswarm.org.svg)
+![Score 53/100 · Grade C](../../docs/badge/www.ethswarm.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.ethswarm.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

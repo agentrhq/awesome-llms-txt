@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # CARV
 
-![Score 59/100 — Grade C](../../docs/badge/docs.carv.io.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.carv.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.carv.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

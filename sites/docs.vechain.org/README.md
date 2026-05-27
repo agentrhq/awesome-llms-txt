@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VeChain Docs
 
-![Score 59/100 — Grade C](../../docs/badge/docs.vechain.org.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.vechain.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vechain.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Mtrip
 
-![Score 62/100 — Grade C](../../docs/badge/www.mtrip.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.mtrip.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mtrip.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

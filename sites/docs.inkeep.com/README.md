@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Inkeep
 
-![Score 65/100 — Grade B](../../docs/badge/docs.inkeep.com.svg)
+![Score 65/100 · Grade B](../../docs/badge/docs.inkeep.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.inkeep.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

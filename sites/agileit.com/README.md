@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agileit
 
-![Score 60/100 — Grade C](../../docs/badge/agileit.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/agileit.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://agileit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

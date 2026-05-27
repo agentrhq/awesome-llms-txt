@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pixaura
 
-![Score 52/100 — Grade C](../../docs/badge/www.pixaura.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.pixaura.com.svg)
 
 Category: **search** · [Live llms.txt](https://www.pixaura.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

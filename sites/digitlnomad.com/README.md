@@ -15,7 +15,7 @@ freshness_age_days: 405
 
 # Baisil Boban - Digital Nomad
 
-![Score 51/100 — Grade C](../../docs/badge/digitlnomad.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/digitlnomad.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://digitlnomad.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

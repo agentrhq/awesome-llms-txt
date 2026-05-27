@@ -15,7 +15,7 @@ freshness_age_days: 209
 
 # Twoshoes
 
-![Score 51/100 — Grade C](../../docs/badge/www.twoshoes.be.svg)
+![Score 51/100 · Grade C](../../docs/badge/www.twoshoes.be.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.twoshoes.be/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

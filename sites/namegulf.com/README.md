@@ -15,7 +15,7 @@ freshness_age_days: 10
 
 # Namegulf
 
-![Score 54/100 — Grade C](../../docs/badge/namegulf.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/namegulf.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://namegulf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

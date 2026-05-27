@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mintense
 
-![Score 35/100 — Grade D](../../docs/badge/www.mintense.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.mintense.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mintense.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

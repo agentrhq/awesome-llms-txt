@@ -15,7 +15,7 @@ freshness_age_days: 103
 
 # Umoja Health
 
-![Score 49/100 — Grade D](../../docs/badge/umojahealth.com.svg)
+![Score 49/100 · Grade D](../../docs/badge/umojahealth.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://umojahealth.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 253
 
 # Digitalinning
 
-![Score 27/100 — Grade F](../../docs/badge/digitalinning.com.svg)
+![Score 27/100 · Grade F](../../docs/badge/digitalinning.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://digitalinning.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

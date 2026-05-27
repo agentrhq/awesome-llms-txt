@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # SofiaStage Agent API
 
-![Score 68/100 — Grade B](../../docs/badge/sofiastage.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/sofiastage.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sofiastage.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

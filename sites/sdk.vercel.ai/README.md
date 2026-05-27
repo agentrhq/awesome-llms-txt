@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Vercel AI SDK
 
-![Score 69/100 — Grade B](../../docs/badge/sdk.vercel.ai.svg)
+![Score 69/100 · Grade B](../../docs/badge/sdk.vercel.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

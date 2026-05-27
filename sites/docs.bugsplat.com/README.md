@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # BugSplat
 
-![Score 60/100 — Grade C](../../docs/badge/docs.bugsplat.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/docs.bugsplat.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bugsplat.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

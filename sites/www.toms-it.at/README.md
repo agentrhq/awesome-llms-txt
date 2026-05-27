@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # Toms It
 
-![Score 26/100 — Grade F](../../docs/badge/www.toms-it.at.svg)
+![Score 26/100 · Grade F](../../docs/badge/www.toms-it.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tomoris.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

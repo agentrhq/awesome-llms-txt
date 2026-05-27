@@ -15,7 +15,7 @@ freshness_age_days: 66
 
 # Mariadb
 
-![Score 60/100 — Grade C](../../docs/badge/mariadb.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/mariadb.com.svg)
 
 Category: **billing** · [Live llms.txt](https://mariadb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

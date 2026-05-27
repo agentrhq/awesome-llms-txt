@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Curling IO Documentation
 
-![Score 72/100 — Grade B](../../docs/badge/curling.io.svg)
+![Score 72/100 · Grade B](../../docs/badge/curling.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://curling.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

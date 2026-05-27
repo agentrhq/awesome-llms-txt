@@ -15,7 +15,7 @@ freshness_age_days: 99
 
 # InCol Intelligence© (InCol Limited)
 
-![Score 52/100 — Grade C](../../docs/badge/www.incolintelligence.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.incolintelligence.com.svg)
 
 Category: **data** · [Live llms.txt](https://incolintelligence.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

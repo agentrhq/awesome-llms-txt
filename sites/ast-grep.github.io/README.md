@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # AST-GREP
 
-![Score 72/100 — Grade B](../../docs/badge/ast-grep.github.io.svg)
+![Score 72/100 · Grade B](../../docs/badge/ast-grep.github.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ast-grep.github.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

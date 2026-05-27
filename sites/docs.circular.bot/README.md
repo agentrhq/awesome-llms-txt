@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Circular Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.circular.bot.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.circular.bot.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.circular.bot/circular-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

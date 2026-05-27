@@ -15,7 +15,7 @@ freshness_age_days: 304
 
 # Digitalstar
 
-![Score 22/100 — Grade F](../../docs/badge/www.digitalstar.lt.svg)
+![Score 22/100 · Grade F](../../docs/badge/www.digitalstar.lt.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.digitalstar.lt/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

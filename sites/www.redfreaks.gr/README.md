@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Redfreaks
 
-![Score 53/100 — Grade C](../../docs/badge/www.redfreaks.gr.svg)
+![Score 53/100 · Grade C](../../docs/badge/www.redfreaks.gr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.redfreaks.gr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

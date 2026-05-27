@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Heritage Hardwood Floors
 
-![Score 62/100 — Grade C](../../docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://heritagehardwoodfloorsnwa.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

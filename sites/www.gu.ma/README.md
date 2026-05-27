@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Guma - Wellness Programs Platform
 
-![Score 50/100 — Grade C](../../docs/badge/www.gu.ma.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.gu.ma.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gu.ma/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

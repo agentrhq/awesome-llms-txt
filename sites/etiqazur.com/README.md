@@ -15,7 +15,7 @@ freshness_age_days: 68
 
 # Etiqazur
 
-![Score 47/100 — Grade D](../../docs/badge/etiqazur.com.svg)
+![Score 47/100 · Grade D](../../docs/badge/etiqazur.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://etiqazur.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

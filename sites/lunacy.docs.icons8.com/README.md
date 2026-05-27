@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Lunacy
 
-![Score 68/100 — Grade B](../../docs/badge/lunacy.docs.icons8.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/lunacy.docs.icons8.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://lunacy.docs.icons8.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

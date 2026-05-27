@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sitespeak
 
-![Score 56/100 — Grade C](../../docs/badge/sitespeak.ai.svg)
+![Score 56/100 · Grade C](../../docs/badge/sitespeak.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sitespeak.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

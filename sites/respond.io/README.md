@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Respond
 
-![Score 57/100 — Grade C](../../docs/badge/respond.io.svg)
+![Score 57/100 · Grade C](../../docs/badge/respond.io.svg)
 
 Category: **comms** · [Live llms.txt](https://respond.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

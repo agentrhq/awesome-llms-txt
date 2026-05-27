@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Inrō
 
-![Score 66/100 — Grade B](../../docs/badge/www.inro.social.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.inro.social.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.inro.social/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

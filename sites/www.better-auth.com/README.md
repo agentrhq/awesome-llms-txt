@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Better Auth
 
-![Score 76/100 — Grade B+](../../docs/badge/www.better-auth.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/www.better-auth.com.svg)
 
 Category: **auth** · [Live llms.txt](https://better-auth.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

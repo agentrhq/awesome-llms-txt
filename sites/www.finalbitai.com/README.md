@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # FinalBit
 
-![Score 59/100 — Grade C](../../docs/badge/www.finalbitai.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.finalbitai.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.finalbitai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Lanier Pristine
 
-![Score 58/100 — Grade C](../../docs/badge/lanierpristine.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/lanierpristine.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://lanierpristine.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

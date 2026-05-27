@@ -15,7 +15,7 @@ freshness_age_days: 38
 
 # Thethaipass
 
-![Score 35/100 — Grade D](../../docs/badge/www.thethaipass.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.thethaipass.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.thethaipass.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

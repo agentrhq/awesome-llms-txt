@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Criticaster
 
-![Score 66/100 — Grade B](../../docs/badge/www.criticaster.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.criticaster.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.criticaster.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

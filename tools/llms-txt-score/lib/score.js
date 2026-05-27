@@ -66,7 +66,7 @@ function scoreSpecCompliance(p) {
     pts += Math.round(ratio * 4);
     if (ratio < 0.8) reasons.push('sections_without_link_lists');
   } else if (p.intro_link_count > 0) {
-    // Flat file with no H2 but real links — partial credit.
+    // Flat file with no H2 but real links. Partial credit.
     pts += 2;
   }
 
@@ -241,7 +241,7 @@ function scoreAuthSignposting(p) {
   else if (kwHits >= 1) pts += 2;
   else reasons.push('no_auth_keywords');
 
-  // Dedicated auth section — H2 OR H3
+  // Dedicated auth section, H2 or H3.
   const h2Match = p.sections.find(s => AUTH_HEADING_RE.test(s.title));
   const h3Match = p.sections.flatMap(s => s.subsections).find(ss => AUTH_HEADING_RE.test(ss.title));
   if (h2Match) pts += 5;
@@ -278,7 +278,7 @@ function scoreContentType(p, opts = {}) {
   else reasons.push(`bad_content_type_${ct || 'unknown'}`);
   if (/utf-?8/.test(ct)) pts += 1; else reasons.push('no_utf8_charset');
 
-  // Mojibake / wrong-encoding detector — penalise even if Content-Type looked right.
+  // Mojibake / wrong-encoding detector. Penalise even if Content-Type looked right.
   const introSample = ((p.blockquote || '') + ' ' + p.intro_paragraphs.join(' ')).slice(0, 4000);
   if (MOJIBAKE_RE.test(introSample)) {
     pts = Math.max(0, pts - 1);

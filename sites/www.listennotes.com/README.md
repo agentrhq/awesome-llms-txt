@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Listennotes
 
-![Score 60/100 — Grade C](../../docs/badge/www.listennotes.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.listennotes.com.svg)
 
 Category: **search** · [Live llms.txt](https://www.listennotes.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Reflag docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.bucket.co.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.bucket.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.reflag.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

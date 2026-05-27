@@ -15,7 +15,7 @@ freshness_age_days: 287
 
 # Lightboxre
 
-![Score 59/100 — Grade C](../../docs/badge/www.lightboxre.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.lightboxre.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.lightboxre.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sardine
 
-![Score 60/100 — Grade C](../../docs/badge/docs.sardine.ai.svg)
+![Score 60/100 · Grade C](../../docs/badge/docs.sardine.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.sardine.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Heyflow
 
-![Score 57/100 — Grade C](../../docs/badge/heyflow.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/heyflow.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://heyflow.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

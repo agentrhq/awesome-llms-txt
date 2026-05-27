@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mistral AI
 
-![Score 57/100 — Grade C](../../docs/badge/mistral.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/mistral.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://mistral.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

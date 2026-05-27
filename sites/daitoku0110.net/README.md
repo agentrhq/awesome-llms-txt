@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../docs/badge/daitoku0110.net.svg)
+![Score 39/100 · Grade D](../../docs/badge/daitoku0110.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://daitoku0110.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

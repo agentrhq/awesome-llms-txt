@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Naturelliving
 
-![Score 45/100 — Grade D](../../docs/badge/naturelliving.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/naturelliving.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://naturelliving.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

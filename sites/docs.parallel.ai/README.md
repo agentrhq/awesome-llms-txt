@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Parallel
 
-![Score 78/100 — Grade B+](../../docs/badge/docs.parallel.ai.svg)
+![Score 78/100 · Grade B+](../../docs/badge/docs.parallel.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.parallel.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

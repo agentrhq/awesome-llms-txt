@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # Ispringsolutions
 
-![Score 63/100 — Grade C](../../docs/badge/www.ispringsolutions.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.ispringsolutions.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.ispringsolutions.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

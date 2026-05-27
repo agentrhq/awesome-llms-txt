@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Fragbin
 
-![Score 62/100 — Grade C](../../docs/badge/www.fragbin.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.fragbin.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

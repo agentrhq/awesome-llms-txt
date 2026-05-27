@@ -15,7 +15,7 @@ freshness_age_days: 26
 
 # The Crawl Tool
 
-![Score 50/100 — Grade C](../../docs/badge/www.thecrawltool.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.thecrawltool.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

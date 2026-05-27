@@ -15,7 +15,7 @@ freshness_age_days: 341
 
 # 短剧演员集中营微信公众号
 
-![Score 43/100 — Grade D](../../docs/badge/dj.110visa.com.svg)
+![Score 43/100 · Grade D](../../docs/badge/dj.110visa.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dj.110visa.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

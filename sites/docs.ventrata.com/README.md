@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ventrata OCTO API
 
-![Score 58/100 — Grade C](../../docs/badge/docs.ventrata.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.ventrata.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.ventrata.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

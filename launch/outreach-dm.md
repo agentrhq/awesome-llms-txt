@@ -8,7 +8,7 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 
 > Subject: your llms.txt scored well on the new leaderboard
 >
-> Hey [name] — we just shipped a public scored leaderboard of `llms.txt` files. Rubric is Lighthouse-style, public, contestable.
+> Hey [name], we just shipped a public scored leaderboard of `llms.txt` files. Rubric is Lighthouse-style, public, contestable.
 >
 > [Site] scored **[N]** ([grade]). You're [rank #] of 1,023.
 >
@@ -17,15 +17,15 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 >
 > Re-scored monthly. The badge updates automatically when your score changes.
 >
-> If anything in the rubric looks off for your file, the appeals process is public — open an issue and we debate it on the issue.
+> If anything in the rubric looks off for your file, the appeals process is public. Open an issue and we debate it there.
 
 ---
 
 ## Template B · for the bottom of the leaderboard (notable misses)
 
-> Subject: your llms.txt scored [N] on a new public leaderboard — and the fix is 10 minutes
+> Subject: your llms.txt scored [N] on a new public leaderboard. The fix is 10 minutes
 >
-> Hey [name] — we shipped a scored leaderboard of `llms.txt` files. Rubric: github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md
+> Hey [name], we shipped a scored leaderboard of `llms.txt` files. Rubric: github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md
 >
 > [Site]'s file scored **[N]** ([grade]). Per-site permalink: `agentrhq.github.io/awesome-llms-txt/site/[domain].html`
 >
@@ -37,7 +37,7 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 >
 > When you re-deploy, the next monthly crawl picks up the change. If you'd rather contest the score, the appeals issue template is in the repo. We re-grade on the issue.
 >
-> Not a sales note — just thought you'd want to know how your file landed in the first scored survey.
+> Not a sales note. Just thought you'd want to know how your file landed in the first scored survey.
 
 ---
 
@@ -49,7 +49,7 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 
 ## Do not send
 
-- To sites whose `llms.txt` we couldn't fetch — that's a separate "you should add one" message.
+- To sites whose `llms.txt` we couldn't fetch. That's a separate "you should add one" message.
 - More than once per site.
 - Anything that reads like an SEO outreach template ("Quick question", "Hope you're doing well", etc.).
 
@@ -67,4 +67,4 @@ Cull duplicates weekly.
 
 Day 0: send 20 (10A + 10F). Expect 3-5 responses, of which ~2 will tweet the badge or file an appeal.
 
-Day 7: re-evaluate. If the data is right, the leaderboard grows by word-of-mouth from here. If not, do not flood — fix the rubric or the corpus.
+Day 7: re-evaluate. If the data is right, the leaderboard grows by word-of-mouth from here. If not, do not flood. Fix the rubric or the corpus.

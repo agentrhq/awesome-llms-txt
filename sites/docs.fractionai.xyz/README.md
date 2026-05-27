@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fraction AI Product Docs
 
-![Score 54/100 — Grade C](../../docs/badge/docs.fractionai.xyz.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.fractionai.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://fraction-ai.gitbook.io/fraction-ai-product-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

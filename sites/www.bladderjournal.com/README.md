@@ -15,7 +15,7 @@ freshness_age_days: 74
 
 # Bladder Journal
 
-![Score 55/100 — Grade C](../../docs/badge/www.bladderjournal.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.bladderjournal.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.bladderjournal.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

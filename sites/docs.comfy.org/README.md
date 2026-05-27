@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ComfyUI
 
-![Score 74/100 — Grade B](../../docs/badge/docs.comfy.org.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.comfy.org.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.comfy.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

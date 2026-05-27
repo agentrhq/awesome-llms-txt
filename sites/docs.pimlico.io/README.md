@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Pimlico
 
-![Score 69/100 — Grade B](../../docs/badge/docs.pimlico.io.svg)
+![Score 69/100 · Grade B](../../docs/badge/docs.pimlico.io.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

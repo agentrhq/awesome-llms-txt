@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Frigade
 
-![Score 57/100 — Grade C](../../docs/badge/docs.frigade.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.frigade.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://engage-docs.frigade.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

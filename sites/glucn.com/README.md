@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Glucn
 
-![Score 57/100 — Grade C](../../docs/badge/glucn.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/glucn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://glucn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

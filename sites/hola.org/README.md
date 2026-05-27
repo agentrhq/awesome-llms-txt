@@ -15,7 +15,7 @@ freshness_age_days: 9643
 
 # Hola VPN
 
-![Score 53/100 — Grade C](../../docs/badge/hola.org.svg)
+![Score 53/100 · Grade C](../../docs/badge/hola.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://hola.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

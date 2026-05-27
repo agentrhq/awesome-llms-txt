@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Openvpn
 
-![Score 34/100 — Grade F](../../docs/badge/openvpn.net.svg)
+![Score 34/100 · Grade F](../../docs/badge/openvpn.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://openvpn.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

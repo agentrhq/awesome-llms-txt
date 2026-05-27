@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Woke Or Not
 
-![Score 56/100 — Grade C](../../docs/badge/wokeornot.org.svg)
+![Score 56/100 · Grade C](../../docs/badge/wokeornot.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wokeornot.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

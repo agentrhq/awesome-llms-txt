@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # GitBook Docs
 
-![Score 71/100 — Grade B](../../docs/badge/docs.gitbook.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/docs.gitbook.com.svg)
 
 Category: **docs-platform** · [Live llms.txt](https://gitbook.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

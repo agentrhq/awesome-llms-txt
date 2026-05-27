@@ -15,7 +15,7 @@ freshness_age_days: 13
 
 # MongoDB
 
-![Score 52/100 — Grade C](../../docs/badge/mongodb.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/mongodb.com.svg)
 
 Category: **data** · [Live llms.txt](https://www.mongodb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

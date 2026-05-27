@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Captivaterecipes
 
-![Score 27/100 — Grade F](../../docs/badge/www.captivaterecipes.com.svg)
+![Score 27/100 · Grade F](../../docs/badge/www.captivaterecipes.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://captivaterecipes.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

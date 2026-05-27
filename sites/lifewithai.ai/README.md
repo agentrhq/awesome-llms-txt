@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lifewithai
 
-![Score 76/100 — Grade B+](../../docs/badge/lifewithai.ai.svg)
+![Score 76/100 · Grade B+](../../docs/badge/lifewithai.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://lifewithai.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

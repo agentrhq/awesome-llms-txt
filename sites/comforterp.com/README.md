@@ -15,7 +15,7 @@ freshness_age_days: 188
 
 # ComfortERP
 
-![Score 54/100 — Grade C](../../docs/badge/comforterp.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/comforterp.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://comforterp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

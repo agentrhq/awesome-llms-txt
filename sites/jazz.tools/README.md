@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Documentation
 
-![Score 48/100 — Grade D](../../docs/badge/jazz.tools.svg)
+![Score 48/100 · Grade D](../../docs/badge/jazz.tools.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jazz.tools/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

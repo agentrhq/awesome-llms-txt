@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cloudflare
 
-![Score 70/100 — Grade B](../../docs/badge/cloudflare.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/cloudflare.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.cloudflare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

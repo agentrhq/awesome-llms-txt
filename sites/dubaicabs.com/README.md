@@ -15,7 +15,7 @@ freshness_age_days: 9
 
 # DubaiCabs - Dubai's Complete Taxi Guide
 
-![Score 56/100 — Grade C](../../docs/badge/dubaicabs.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/dubaicabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dubaicabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

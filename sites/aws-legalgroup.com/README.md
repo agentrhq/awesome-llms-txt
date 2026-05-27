@@ -15,7 +15,7 @@ freshness_age_days: 474
 
 # AWS Legalgroup
 
-![Score 46/100 — Grade D](../../docs/badge/aws-legalgroup.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/aws-legalgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://aws-legalgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

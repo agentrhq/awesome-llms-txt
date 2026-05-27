@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Civic Docs
 
-![Score 77/100 — Grade B+](../../docs/badge/docs.civic.com.svg)
+![Score 77/100 · Grade B+](../../docs/badge/docs.civic.com.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

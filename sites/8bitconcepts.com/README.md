@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 8bitconcepts
 
-![Score 75/100 — Grade B+](../../docs/badge/8bitconcepts.com.svg)
+![Score 75/100 · Grade B+](../../docs/badge/8bitconcepts.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://8bitconcepts.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bits UI
 
-![Score 59/100 — Grade C](../../docs/badge/bits-ui.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/bits-ui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bits-ui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

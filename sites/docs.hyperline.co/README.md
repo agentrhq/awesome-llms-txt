@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Hyperline
 
-![Score 77/100 — Grade B+](../../docs/badge/docs.hyperline.co.svg)
+![Score 77/100 · Grade B+](../../docs/badge/docs.hyperline.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.hyperline.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

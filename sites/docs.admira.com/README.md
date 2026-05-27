@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Admira Docs
 
-![Score 60/100 — Grade C](../../docs/badge/docs.admira.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/docs.admira.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.admira.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

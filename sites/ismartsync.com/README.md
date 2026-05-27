@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # iSmartSync
 
-![Score 64/100 — Grade C](../../docs/badge/ismartsync.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/ismartsync.com.svg)
 
 Category: **billing** · [Live llms.txt](https://ismartsync.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

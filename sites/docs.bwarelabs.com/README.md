@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bware Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.bwarelabs.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.bwarelabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bwarelabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

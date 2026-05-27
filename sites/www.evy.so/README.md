@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # EVY
 
-![Score 59/100 — Grade C](../../docs/badge/www.evy.so.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.evy.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://evy.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

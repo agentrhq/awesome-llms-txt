@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Maersk
 
-![Score 48/100 — Grade D](../../docs/badge/www.maersk.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.maersk.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.maersk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

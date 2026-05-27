@@ -15,7 +15,7 @@ freshness_age_days: 73
 
 # Feedthejoe
 
-![Score 40/100 — Grade D](../../docs/badge/feedthejoe.com.svg)
+![Score 40/100 · Grade D](../../docs/badge/feedthejoe.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://feedthejoe.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

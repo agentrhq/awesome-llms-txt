@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # 0xa1
 
-![Score 54/100 — Grade C](../../docs/badge/0xa1.ai.svg)
+![Score 54/100 · Grade C](../../docs/badge/0xa1.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://0xa1.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

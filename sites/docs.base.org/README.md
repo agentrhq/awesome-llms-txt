@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Base Documentation
 
-![Score 72/100 — Grade B](../../docs/badge/docs.base.org.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.base.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.base.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Primev Documentation
 
-![Score 64/100 — Grade C](../../docs/badge/docs.primev.xyz.svg)
+![Score 64/100 · Grade C](../../docs/badge/docs.primev.xyz.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.primev.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

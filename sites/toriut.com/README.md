@@ -15,7 +15,7 @@ freshness_age_days: 446
 
 # Toriut
 
-![Score 26/100 — Grade F](../../docs/badge/toriut.com.svg)
+![Score 26/100 · Grade F](../../docs/badge/toriut.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://toriut.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

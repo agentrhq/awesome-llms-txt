@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chiliz Chain Developer Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.chiliz.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.chiliz.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chiliz.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

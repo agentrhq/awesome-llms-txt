@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pulumi
 
-![Score 69/100 — Grade B](../../docs/badge/pulumi.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/pulumi.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.pulumi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 322
 
 # Iqboatlifts
 
-![Score 45/100 — Grade D](../../docs/badge/iqboatlifts.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/iqboatlifts.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://iqboatlifts.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

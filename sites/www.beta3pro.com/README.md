@@ -15,7 +15,7 @@ freshness_age_days: 281
 
 # Beta3pro
 
-![Score 59/100 — Grade C](../../docs/badge/www.beta3pro.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.beta3pro.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.beta3pro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

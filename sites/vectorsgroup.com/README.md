@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Vectorsgroup
 
-![Score 35/100 — Grade D](../../docs/badge/vectorsgroup.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/vectorsgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vectorsgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

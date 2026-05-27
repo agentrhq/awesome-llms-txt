@@ -15,7 +15,7 @@ freshness_age_days: 414
 
 # Qrco
 
-![Score 55/100 — Grade C](../../docs/badge/www.qrco.au.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.qrco.au.svg)
 
 Category: **observability** · [Live llms.txt](https://www.qrco.au/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

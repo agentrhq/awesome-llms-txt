@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Icorner
 
-![Score 37/100 — Grade D](../../docs/badge/icorner.net.svg)
+![Score 37/100 · Grade D](../../docs/badge/icorner.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://icorner.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

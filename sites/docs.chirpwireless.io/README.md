@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chirp Platform
 
-![Score 60/100 — Grade C](../../docs/badge/docs.chirpwireless.io.svg)
+![Score 60/100 · Grade C](../../docs/badge/docs.chirpwireless.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chirpwireless.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zapier Docs
 
-![Score 82/100 — Grade A-](../../docs/badge/docs.zapier.com.svg)
+![Score 82/100 · Grade A-](../../docs/badge/docs.zapier.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zapier.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

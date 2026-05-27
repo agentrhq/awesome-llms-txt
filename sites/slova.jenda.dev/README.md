@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Slovohled — Vyhledávač českých slov
 
-![Score 42/100 — Grade D](../../docs/badge/slova.jenda.dev.svg)
+![Score 42/100 · Grade D](../../docs/badge/slova.jenda.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://slovohled.cz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

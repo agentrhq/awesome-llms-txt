@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Birdie
 
-![Score 64/100 — Grade C](../../docs/badge/docs.birdie.so.svg)
+![Score 64/100 · Grade C](../../docs/badge/docs.birdie.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.birdie.so/birdie-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

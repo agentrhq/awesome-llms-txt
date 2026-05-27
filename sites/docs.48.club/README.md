@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # 48 Club
 
-![Score 57/100 — Grade C](../../docs/badge/docs.48.club.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.48.club.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.48.club/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

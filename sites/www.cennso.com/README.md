@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Cennso
 
-![Score 42/100 — Grade D](../../docs/badge/www.cennso.com.svg)
+![Score 42/100 · Grade D](../../docs/badge/www.cennso.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.cennso.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

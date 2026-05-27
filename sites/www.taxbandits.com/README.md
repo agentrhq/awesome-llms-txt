@@ -15,7 +15,7 @@ freshness_age_days: 83
 
 # Taxbandits
 
-![Score 27/100 — Grade F](../../docs/badge/www.taxbandits.com.svg)
+![Score 27/100 · Grade F](../../docs/badge/www.taxbandits.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.taxbandits.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

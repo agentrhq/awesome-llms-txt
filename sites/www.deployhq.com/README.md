@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Deployhq
 
-![Score 78/100 — Grade B+](../../docs/badge/www.deployhq.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/www.deployhq.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.deployhq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

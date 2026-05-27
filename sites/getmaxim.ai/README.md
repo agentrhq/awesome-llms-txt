@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Maxim AI Documentation
 
-![Score 57/100 — Grade C](../../docs/badge/getmaxim.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/getmaxim.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://www.getmaxim.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

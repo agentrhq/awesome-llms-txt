@@ -15,7 +15,7 @@ freshness_age_days: 14
 
 # Cloud Latitude
 
-![Score 50/100 — Grade C](../../docs/badge/cloudlatitude.io.svg)
+![Score 50/100 · Grade C](../../docs/badge/cloudlatitude.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cloudlatitude.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

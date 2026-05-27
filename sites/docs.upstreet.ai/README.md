@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Upstreet Docs
 
-![Score 51/100 — Grade C](../../docs/badge/docs.upstreet.ai.svg)
+![Score 51/100 · Grade C](../../docs/badge/docs.upstreet.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.upstreet.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

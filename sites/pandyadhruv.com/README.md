@@ -15,7 +15,7 @@ freshness_age_days: 434
 
 # Pandyadhruv
 
-![Score 41/100 — Grade D](../../docs/badge/pandyadhruv.com.svg)
+![Score 41/100 · Grade D](../../docs/badge/pandyadhruv.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pandyadhruv.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

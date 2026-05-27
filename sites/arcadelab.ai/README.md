@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ArcadeLab
 
-![Score 59/100 — Grade C](../../docs/badge/arcadelab.ai.svg)
+![Score 59/100 · Grade C](../../docs/badge/arcadelab.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://arcadelab.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

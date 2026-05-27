@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Postman
 
-![Score 59/100 — Grade C](../../docs/badge/postman.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/postman.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.postman.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

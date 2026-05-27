@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Juno
 
-![Score 74/100 — Grade B](../../docs/badge/juno.build.svg)
+![Score 74/100 · Grade B](../../docs/badge/juno.build.svg)
 
 Category: **infra** · [Live llms.txt](https://juno.build/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

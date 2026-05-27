@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VOOI
 
-![Score 56/100 — Grade C](../../docs/badge/docs.vooi.io.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.vooi.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vooi.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

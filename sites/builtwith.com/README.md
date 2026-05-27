@@ -15,7 +15,7 @@ freshness_age_days: 97
 
 # BuiltWith
 
-![Score 50/100 — Grade C](../../docs/badge/builtwith.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/builtwith.com.svg)
 
 Category: **infra** · [Live llms.txt](https://builtwith.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

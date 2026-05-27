@@ -15,7 +15,7 @@ freshness_age_days: 72
 
 # Qeeebo
 
-![Score 56/100 — Grade C](../../docs/badge/qeeebo.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/qeeebo.com.svg)
 
 Category: **content** · [Live llms.txt](https://qeeebo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

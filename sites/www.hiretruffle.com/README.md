@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Truffle
 
-![Score 58/100 — Grade C](../../docs/badge/www.hiretruffle.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/www.hiretruffle.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.hiretruffle.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

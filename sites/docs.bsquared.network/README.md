@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # B² Network
 
-![Score 55/100 — Grade C](../../docs/badge/docs.bsquared.network.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.bsquared.network.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bsquared.network/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

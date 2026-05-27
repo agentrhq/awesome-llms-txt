@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Turborepo documentation
 
-![Score 58/100 — Grade C](../../docs/badge/turbo.build.svg)
+![Score 58/100 · Grade C](../../docs/badge/turbo.build.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://turborepo.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

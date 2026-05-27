@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # The SEO Autopilot
 
-![Score 66/100 — Grade B](../../docs/badge/the-seo-autopilot.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/the-seo-autopilot.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://the-seo-autopilot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

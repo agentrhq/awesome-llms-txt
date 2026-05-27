@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # BrewPage
 
-![Score 56/100 — Grade C](../../docs/badge/brewpage.app.svg)
+![Score 56/100 · Grade C](../../docs/badge/brewpage.app.svg)
 
 Category: **infra** · [Live llms.txt](https://brewpage.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

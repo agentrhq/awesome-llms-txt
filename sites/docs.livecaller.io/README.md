@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Livecaller Guides
 
-![Score 58/100 — Grade C](../../docs/badge/docs.livecaller.io.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.livecaller.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.livecaller.io/livecaller/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Whitechain
 
-![Score 55/100 — Grade C](../../docs/badge/docs.whitechain.io.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.whitechain.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.whitechain.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pinecone
 
-![Score 64/100 — Grade C](../../docs/badge/pinecone.io.svg)
+![Score 64/100 · Grade C](../../docs/badge/pinecone.io.svg)
 
 Category: **data** · [Live llms.txt](https://www.pinecone.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

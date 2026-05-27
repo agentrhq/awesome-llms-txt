@@ -15,7 +15,7 @@ freshness_age_days: 67
 
 # Youthquake
 
-![Score 60/100 — Grade C](../../docs/badge/www.youthquake.it.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.youthquake.it.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.youthquake.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

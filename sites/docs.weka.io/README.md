@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # W E K A
 
-![Score 61/100 — Grade C](../../docs/badge/docs.weka.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.weka.io.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.weka.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

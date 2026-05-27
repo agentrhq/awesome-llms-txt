@@ -15,7 +15,7 @@ freshness_age_days: 396
 
 # Sonofinance
 
-![Score 44/100 — Grade D](../../docs/badge/sonofinance.com.svg)
+![Score 44/100 · Grade D](../../docs/badge/sonofinance.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sonofinance.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

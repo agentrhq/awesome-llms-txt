@@ -15,7 +15,7 @@ freshness_age_days: 297
 
 # Pikaicons
 
-![Score 53/100 — Grade C](../../docs/badge/pikaicons.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/pikaicons.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pikaicons.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

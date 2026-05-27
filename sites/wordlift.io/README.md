@@ -15,7 +15,7 @@ freshness_age_days: 547
 
 # WordLift
 
-![Score 45/100 — Grade D](../../docs/badge/wordlift.io.svg)
+![Score 45/100 · Grade D](../../docs/badge/wordlift.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wordlift.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

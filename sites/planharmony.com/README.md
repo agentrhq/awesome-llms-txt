@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Plan Harmony
 
-![Score 78/100 — Grade B+](../../docs/badge/planharmony.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/planharmony.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.planharmony.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

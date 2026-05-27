@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Strale
 
-![Score 57/100 — Grade C](../../docs/badge/strale.dev.svg)
+![Score 57/100 · Grade C](../../docs/badge/strale.dev.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://strale.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

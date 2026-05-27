@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Check4DResult
 
-![Score 63/100 — Grade C](../../docs/badge/www.check4dresult.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.check4dresult.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.check4dresult.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

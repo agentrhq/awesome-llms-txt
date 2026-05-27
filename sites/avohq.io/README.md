@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Avohq
 
-![Score 51/100 — Grade C](../../docs/badge/avohq.io.svg)
+![Score 51/100 · Grade C](../../docs/badge/avohq.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://avohq.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

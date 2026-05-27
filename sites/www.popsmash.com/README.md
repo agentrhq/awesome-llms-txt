@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Popsmash
 
-![Score 46/100 — Grade D](../../docs/badge/www.popsmash.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/www.popsmash.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.popsmash.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

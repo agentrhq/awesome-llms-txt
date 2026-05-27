@@ -15,7 +15,7 @@ freshness_age_days: 84
 
 # Symmetric IT Group
 
-![Score 46/100 — Grade D](../../docs/badge/www.symmetricgroup.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/www.symmetricgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.symmetricgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

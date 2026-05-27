@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # VAT Sense
 
-![Score 75/100 — Grade B+](../../docs/badge/vatsense.com.svg)
+![Score 75/100 · Grade B+](../../docs/badge/vatsense.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vatsense.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

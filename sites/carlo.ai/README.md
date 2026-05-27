@@ -15,7 +15,7 @@ freshness_age_days: 79
 
 # Carlo Lepelaars
 
-![Score 54/100 — Grade C](../../docs/badge/carlo.ai.svg)
+![Score 54/100 · Grade C](../../docs/badge/carlo.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://carlo.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

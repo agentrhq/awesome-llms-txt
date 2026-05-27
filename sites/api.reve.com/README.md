@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Reve API
 
-![Score 55/100 — Grade C](../../docs/badge/api.reve.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/api.reve.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://api.reve.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Beregne
 
-![Score 58/100 — Grade C](../../docs/badge/beregne.app.svg)
+![Score 58/100 · Grade C](../../docs/badge/beregne.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://beregne.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

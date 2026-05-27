@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../docs/badge/www.webpro.in.svg)
+![Score 41/100 · Grade D](../../docs/badge/www.webpro.in.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.webpro.in/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

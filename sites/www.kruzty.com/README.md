@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kruzty
 
-![Score 57/100 — Grade C](../../docs/badge/www.kruzty.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.kruzty.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.kruzty.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

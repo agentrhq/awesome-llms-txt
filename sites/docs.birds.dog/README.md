@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Birds
 
-![Score 55/100 — Grade C](../../docs/badge/docs.birds.dog.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.birds.dog.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.birds.dog/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

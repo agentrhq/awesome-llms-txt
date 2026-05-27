@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tele Assistance Senior
 
-![Score 27/100 — Grade F](../../docs/badge/www.tele-assistance-senior.fr.svg)
+![Score 27/100 · Grade F](../../docs/badge/www.tele-assistance-senior.fr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tele-assistance-senior.fr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

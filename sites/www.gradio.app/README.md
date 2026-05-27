@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Gradio
 
-![Score 50/100 — Grade C](../../docs/badge/www.gradio.app.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.gradio.app.svg)
 
 Category: **infra** · [Live llms.txt](https://www.gradio.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

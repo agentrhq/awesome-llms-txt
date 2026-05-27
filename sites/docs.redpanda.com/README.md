@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Redpanda Documentation
 
-![Score 74/100 — Grade B](../../docs/badge/docs.redpanda.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.redpanda.com.svg)
 
 Category: **data** · [Live llms.txt](https://docs.redpanda.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Feedbacksync
 
-![Score 56/100 — Grade C](../../docs/badge/www.feedbacksync.ai.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.feedbacksync.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.feedbacksync.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Uploadcare
 
-![Score 35/100 — Grade D](../../docs/badge/uploadcare.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/uploadcare.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://uploadcare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

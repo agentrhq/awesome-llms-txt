@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # prompt-kit
 
-![Score 59/100 — Grade C](../../docs/badge/www.prompt-kit.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.prompt-kit.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.prompt-kit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

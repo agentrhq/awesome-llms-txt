@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Customer Success Center
 
-![Score 57/100 — Grade C](../../docs/badge/docs.imagin.studio.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.imagin.studio.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imagin.studio/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

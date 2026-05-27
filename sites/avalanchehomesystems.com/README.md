@@ -15,7 +15,7 @@ freshness_age_days: 72
 
 # Avalanche HVAC
 
-![Score 59/100 — Grade C](../../docs/badge/avalanchehomesystems.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/avalanchehomesystems.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://avalanchehomesystems.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

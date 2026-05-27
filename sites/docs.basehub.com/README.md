@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # BaseHub
 
-![Score 64/100 — Grade C](../../docs/badge/docs.basehub.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/docs.basehub.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.basehub.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

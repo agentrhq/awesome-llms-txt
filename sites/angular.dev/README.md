@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Angular
 
-![Score 66/100 — Grade B](../../docs/badge/angular.dev.svg)
+![Score 66/100 · Grade B](../../docs/badge/angular.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://angular.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

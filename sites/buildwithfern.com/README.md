@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fern Documentation
 
-![Score 69/100 — Grade B](../../docs/badge/buildwithfern.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/buildwithfern.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://buildwithfern.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # HTMLHint
 
-![Score 50/100 — Grade C](../../docs/badge/htmlhint.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/htmlhint.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://htmlhint.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

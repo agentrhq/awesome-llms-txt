@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kaito AI
 
-![Score 53/100 — Grade C](../../docs/badge/docs.kaito.ai.svg)
+![Score 53/100 · Grade C](../../docs/badge/docs.kaito.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kaito.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

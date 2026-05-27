@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # bHosted
 
-![Score 57/100 — Grade C](../../docs/badge/www.bhosted.nl.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.bhosted.nl.svg)
 
 Category: **comms** · [Live llms.txt](https://www.bhosted.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

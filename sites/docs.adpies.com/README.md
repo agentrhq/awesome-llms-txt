@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AdPie
 
-![Score 55/100 — Grade C](../../docs/badge/docs.adpies.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.adpies.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://platform-business.gitbook.io/adpie/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

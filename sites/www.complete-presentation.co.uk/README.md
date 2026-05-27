@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 38/100 — Grade D](../../docs/badge/www.complete-presentation.co.uk.svg)
+![Score 38/100 · Grade D](../../docs/badge/www.complete-presentation.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.complete-presentation.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

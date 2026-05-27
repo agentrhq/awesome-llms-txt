@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Randomizepro
 
-![Score 49/100 — Grade D](../../docs/badge/randomizepro.com.svg)
+![Score 49/100 · Grade D](../../docs/badge/randomizepro.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://randomizepro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

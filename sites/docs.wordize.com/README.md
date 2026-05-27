@@ -15,7 +15,7 @@ freshness_age_days: 48
 
 # Wordize Docs
 
-![Score 63/100 — Grade C](../../docs/badge/docs.wordize.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.wordize.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.wordize.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

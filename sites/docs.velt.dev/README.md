@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Velt
 
-![Score 70/100 — Grade B](../../docs/badge/docs.velt.dev.svg)
+![Score 70/100 · Grade B](../../docs/badge/docs.velt.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://velt.dev/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

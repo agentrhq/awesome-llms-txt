@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 36/100 — Grade D](../../docs/badge/tz-machinery.com.svg)
+![Score 36/100 · Grade D](../../docs/badge/tz-machinery.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://tz-machinery.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 28
 
 # CData Software
 
-![Score 57/100 — Grade C](../../docs/badge/www.cdata.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.cdata.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

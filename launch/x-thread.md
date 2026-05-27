@@ -1,4 +1,4 @@
-# X thread — launch day
+# X thread for launch day
 
 The first post is the screenshot. The rest is the punchline.
 
@@ -55,9 +55,9 @@ The corpus crawl saw these as 404s.
 **6/10** The rubric is 10 weighted criteria, 100 points, public and contestable.
 
 Heaviest weights:
-· **Coverage 20** — value-weighted link count (blog/case-study URLs discounted), section diversity
-· **Spec compliance 18** — H1 first line, well-formed `[name](url): note` lists
-· **Agent-action declarations 14** — `llms-full.txt`, `.md` twins, MCP, OpenAPI
+· **Coverage 20**: value-weighted link count (blog/case-study URLs discounted), section diversity
+· **Spec compliance 18**: H1 first line, well-formed `[name](url): note` lists
+· **Agent-action declarations 14**: `llms-full.txt`, `.md` twins, MCP, OpenAPI
 
 Full rubric in RUBRIC.md.
 
@@ -91,7 +91,7 @@ Color updates with the grade. Re-scored monthly.
 
 ---
 
-**10/10** Why we built it: `llms.txt` is the file a site uses to tell an agent what it can do. Nobody was scoring them. Lighthouse showed that a public scorecard creates better files — so we built one.
+**10/10** Why we built it: `llms.txt` is the file a site uses to tell an agent what it can do. Nobody was scoring them. Lighthouse showed that a public scorecard creates better files. So we built one.
 
 Repo + leaderboard + tool: `github.com/agentrhq/awesome-llms-txt`
 Web view: `agentrhq.github.io/awesome-llms-txt`

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Braintrust Community
 
-![Score 54/100 — Grade C](../../docs/badge/docs.usebraintrust.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.usebraintrust.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.usebraintrust.com/communitydocs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

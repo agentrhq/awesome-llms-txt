@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Norwegian4x4
 
-![Score 46/100 — Grade D](../../docs/badge/norwegian4x4.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/norwegian4x4.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://norwegian4x4.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

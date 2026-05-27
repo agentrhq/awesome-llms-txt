@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Helicone
 
-![Score 62/100 — Grade C](../../docs/badge/www.helicone.ai.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.helicone.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://www.helicone.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

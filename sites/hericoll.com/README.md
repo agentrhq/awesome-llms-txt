@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Hericoll
 
-![Score 45/100 — Grade D](../../docs/badge/hericoll.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/hericoll.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://hericoll.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Axiom
 
-![Score 55/100 — Grade C](../../docs/badge/docs.axiom.trade.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.axiom.trade.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.axiom.trade/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

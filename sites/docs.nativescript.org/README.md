@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # NativeScript Documentation
 
-![Score 69/100 — Grade B](../../docs/badge/docs.nativescript.org.svg)
+![Score 69/100 · Grade B](../../docs/badge/docs.nativescript.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.nativescript.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

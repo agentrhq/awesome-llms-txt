@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Dailygoal
 
-![Score 66/100 — Grade B](../../docs/badge/www.dailygoal.fit.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.dailygoal.fit.svg)
 
 Category: **observability** · [Live llms.txt](https://www.dailygoal.fit/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

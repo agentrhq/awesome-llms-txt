@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Argil
 
-![Score 71/100 — Grade B](../../docs/badge/docs.argil.ai.svg)
+![Score 71/100 · Grade B](../../docs/badge/docs.argil.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.argil.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

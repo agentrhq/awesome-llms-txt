@@ -15,7 +15,7 @@ freshness_age_days: 398
 
 # Semalt
 
-![Score 48/100 — Grade D](../../docs/badge/semalt.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/semalt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://semalt.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

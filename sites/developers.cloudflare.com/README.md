@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cloudflare Developers
 
-![Score 62/100 — Grade C](../../docs/badge/developers.cloudflare.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/developers.cloudflare.com.svg)
 
 Category: **infra** · [Live llms.txt](https://developers.cloudflare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

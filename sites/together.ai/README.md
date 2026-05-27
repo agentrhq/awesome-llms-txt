@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Together AI
 
-![Score 70/100 — Grade B](../../docs/badge/together.ai.svg)
+![Score 70/100 · Grade B](../../docs/badge/together.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.together.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

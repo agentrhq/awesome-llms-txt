@@ -15,7 +15,7 @@ freshness_age_days: 414
 
 # Drbucky
 
-![Score 44/100 — Grade D](../../docs/badge/www.drbucky.com.svg)
+![Score 44/100 · Grade D](../../docs/badge/www.drbucky.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.drbucky.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 439
 
 # Cloudfix
 
-![Score 49/100 — Grade D](../../docs/badge/cloudfix.com.svg)
+![Score 49/100 · Grade D](../../docs/badge/cloudfix.com.svg)
 
 Category: **search** · [Live llms.txt](https://cloudfix.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

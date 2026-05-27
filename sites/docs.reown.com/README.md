@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Reown Docs
 
-![Score 75/100 — Grade B+](../../docs/badge/docs.reown.com.svg)
+![Score 75/100 · Grade B+](../../docs/badge/docs.reown.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.reown.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

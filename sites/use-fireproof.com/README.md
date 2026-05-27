@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fireproof Database API
 
-![Score 45/100 — Grade D](../../docs/badge/use-fireproof.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/use-fireproof.com.svg)
 
 Category: **data** · [Live llms.txt](https://use-fireproof.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 45/100 — Grade D](../../docs/badge/docs.giselles.ai.svg)
+![Score 45/100 · Grade D](../../docs/badge/docs.giselles.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.giselles.ai/en/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

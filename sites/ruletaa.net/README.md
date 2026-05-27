@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ruletaa
 
-![Score 54/100 — Grade C](../../docs/badge/ruletaa.net.svg)
+![Score 54/100 · Grade C](../../docs/badge/ruletaa.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ruletaa.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

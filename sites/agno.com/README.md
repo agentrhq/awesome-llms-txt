@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Agno
 
-![Score 55/100 — Grade C](../../docs/badge/agno.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/agno.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.agno.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

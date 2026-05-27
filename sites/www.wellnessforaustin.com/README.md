@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Wellnessforaustin
 
-![Score 35/100 — Grade D](../../docs/badge/www.wellnessforaustin.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.wellnessforaustin.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.wellnessforaustin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

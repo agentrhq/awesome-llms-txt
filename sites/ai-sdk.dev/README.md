@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AI SDK
 
-![Score 66/100 — Grade B](../../docs/badge/ai-sdk.dev.svg)
+![Score 66/100 · Grade B](../../docs/badge/ai-sdk.dev.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

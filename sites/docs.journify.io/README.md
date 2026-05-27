@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Journify Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.journify.io.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.journify.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.journify.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

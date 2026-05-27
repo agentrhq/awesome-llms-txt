@@ -15,7 +15,7 @@ freshness_age_days: 47
 
 # Beratung Rheinbach
 
-![Score 51/100 — Grade C](../../docs/badge/www.beratung-rheinbach.de.svg)
+![Score 51/100 · Grade C](../../docs/badge/www.beratung-rheinbach.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.beratung-rheinbach.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

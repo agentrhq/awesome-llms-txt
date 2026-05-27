@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AD(X)
 
-![Score 55/100 — Grade C](../../docs/badge/docs.adxcorp.kr.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.adxcorp.kr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://platform-business.gitbook.io/adx/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

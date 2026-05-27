@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Weaviate
 
-![Score 60/100 — Grade C](../../docs/badge/weaviate.io.svg)
+![Score 60/100 · Grade C](../../docs/badge/weaviate.io.svg)
 
 Category: **data** · [Live llms.txt](https://weaviate.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

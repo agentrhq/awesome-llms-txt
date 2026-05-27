@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bunny
 
-![Score 53/100 — Grade C](../../docs/badge/bunny.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/bunny.com.svg)
 
 Category: **billing** · [Live llms.txt](https://bunny.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

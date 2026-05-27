@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Notion
 
-![Score 29/100 — Grade F](../../docs/badge/notion.so.svg)
+![Score 29/100 · Grade F](../../docs/badge/notion.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.notion.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alphagate Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.alphagate.io.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.alphagate.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.alphagate.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

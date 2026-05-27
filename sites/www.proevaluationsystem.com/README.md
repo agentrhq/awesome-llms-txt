@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Proevaluationsystem
 
-![Score 48/100 — Grade D](../../docs/badge/www.proevaluationsystem.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.proevaluationsystem.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.proevaluationsystem.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

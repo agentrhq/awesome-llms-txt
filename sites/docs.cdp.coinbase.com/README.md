@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Coinbase Developer Documentation
 
-![Score 76/100 — Grade B+](../../docs/badge/docs.cdp.coinbase.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/docs.cdp.coinbase.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.cdp.coinbase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

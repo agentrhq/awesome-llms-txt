@@ -15,7 +15,7 @@ freshness_age_days: 104
 
 # ShowsWatched
 
-![Score 55/100 — Grade C](../../docs/badge/showswatched.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/showswatched.com.svg)
 
 Category: **content** · [Live llms.txt](https://showswatched.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 455
 
 # Tatildenince
 
-![Score 43/100 — Grade D](../../docs/badge/www.tatildenince.com.svg)
+![Score 43/100 · Grade D](../../docs/badge/www.tatildenince.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tatildenince.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

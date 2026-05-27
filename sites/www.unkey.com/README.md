@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Unkey
 
-![Score 76/100 — Grade B+](../../docs/badge/www.unkey.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/www.unkey.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.unkey.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

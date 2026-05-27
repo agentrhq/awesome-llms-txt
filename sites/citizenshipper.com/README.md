@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # CitizenShipper
 
-![Score 71/100 — Grade B](../../docs/badge/citizenshipper.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/citizenshipper.com.svg)
 
 Category: **auth** · [Live llms.txt](https://citizenshipper.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

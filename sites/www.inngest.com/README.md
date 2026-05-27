@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Inngest
 
-![Score 68/100 — Grade B](../../docs/badge/www.inngest.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/www.inngest.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.inngest.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

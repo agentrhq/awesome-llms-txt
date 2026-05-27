@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Llmvo
 
-![Score 45/100 — Grade D](../../docs/badge/llmvo.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/llmvo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://llmvo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

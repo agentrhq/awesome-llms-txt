@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AI Dev Jobs
 
-![Score 54/100 — Grade C](../../docs/badge/aidevboard.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/aidevboard.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://aidevboard.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

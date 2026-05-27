@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Hub88
 
-![Score 63/100 — Grade C](../../docs/badge/docs.hub88.io.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.hub88.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.hub88.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Codeium Docs
 
-![Score 68/100 — Grade B](../../docs/badge/docs.codeium.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.codeium.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.windsurf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

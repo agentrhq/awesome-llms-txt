@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Matsubo Tech Blog
 
-![Score 56/100 — Grade C](../../docs/badge/blog.teraren.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/blog.teraren.com.svg)
 
 Category: **infra** · [Live llms.txt](https://blog.teraren.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

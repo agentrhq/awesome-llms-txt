@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Device Farm
 
-![Score 66/100 — Grade B](../../docs/badge/device-farm.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/device-farm.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://device-farm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

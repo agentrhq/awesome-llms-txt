@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Dchub
 
-![Score 51/100 — Grade C](../../docs/badge/www.dchub.cloud.svg)
+![Score 51/100 · Grade C](../../docs/badge/www.dchub.cloud.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://dchub.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

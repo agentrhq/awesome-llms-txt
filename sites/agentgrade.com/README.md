@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AgentGrade
 
-![Score 68/100 — Grade B](../../docs/badge/agentgrade.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/agentgrade.com.svg)
 
 Category: **billing** · [Live llms.txt](https://agentgrade.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

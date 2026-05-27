@@ -15,7 +15,7 @@ freshness_age_days: 95
 
 # Anewjob
 
-![Score 57/100 — Grade C](../../docs/badge/anewjob.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/anewjob.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://anewjob.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

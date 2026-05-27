@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Steele Solutions
 
-![Score 55/100 — Grade C](../../docs/badge/steelesolutions4u.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/steelesolutions4u.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://steelesolutions4u.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

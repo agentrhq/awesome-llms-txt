@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fervenza
 
-![Score 51/100 — Grade C](../../docs/badge/www.fervenza.fr.svg)
+![Score 51/100 · Grade C](../../docs/badge/www.fervenza.fr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.fervenza.fr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

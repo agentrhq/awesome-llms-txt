@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vite
 
-![Score 65/100 — Grade B](../../docs/badge/vite.dev.svg)
+![Score 65/100 · Grade B](../../docs/badge/vite.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vite.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

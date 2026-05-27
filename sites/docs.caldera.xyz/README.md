@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Caldera Docs
 
-![Score 70/100 — Grade B](../../docs/badge/docs.caldera.xyz.svg)
+![Score 70/100 · Grade B](../../docs/badge/docs.caldera.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.caldera.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

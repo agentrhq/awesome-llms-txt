@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Big Neurons
 
-![Score 56/100 — Grade C](../../docs/badge/www.bigneurons.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.bigneurons.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.bigneurons.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

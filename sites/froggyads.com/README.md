@@ -15,7 +15,7 @@ freshness_age_days: 62
 
 # Froggyads
 
-![Score 57/100 — Grade C](../../docs/badge/froggyads.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/froggyads.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://froggyads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

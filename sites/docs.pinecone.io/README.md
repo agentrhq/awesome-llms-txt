@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pinecone Docs
 
-![Score 72/100 — Grade B](../../docs/badge/docs.pinecone.io.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.pinecone.io.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.pinecone.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

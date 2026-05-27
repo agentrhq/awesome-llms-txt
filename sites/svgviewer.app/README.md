@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Svgviewer
 
-![Score 53/100 — Grade C](../../docs/badge/svgviewer.app.svg)
+![Score 53/100 · Grade C](../../docs/badge/svgviewer.app.svg)
 
 Category: **data** · [Live llms.txt](https://svgviewer.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

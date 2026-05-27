@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Agent Skills
 
-![Score 62/100 — Grade C](../../docs/badge/agentskills.io.svg)
+![Score 62/100 · Grade C](../../docs/badge/agentskills.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://agentskills.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

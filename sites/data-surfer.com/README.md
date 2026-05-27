@@ -15,7 +15,7 @@ freshness_age_days: 10
 
 # Data Surfer
 
-![Score 40/100 — Grade D](../../docs/badge/data-surfer.com.svg)
+![Score 40/100 · Grade D](../../docs/badge/data-surfer.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://data-surfer.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

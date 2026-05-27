@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Using Bunny
 
-![Score 57/100 — Grade C](../../docs/badge/docs.bunny.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.bunny.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bunny.com/guide/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

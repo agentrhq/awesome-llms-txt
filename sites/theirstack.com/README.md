@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # TheirStack
 
-![Score 71/100 — Grade B](../../docs/badge/theirstack.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/theirstack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://theirstack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

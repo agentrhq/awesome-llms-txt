@@ -15,7 +15,7 @@ freshness_age_days: 16948
 
 # RePhoto App
 
-![Score 42/100 — Grade D](../../docs/badge/www.rephoto.app.svg)
+![Score 42/100 · Grade D](../../docs/badge/www.rephoto.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.rephoto.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

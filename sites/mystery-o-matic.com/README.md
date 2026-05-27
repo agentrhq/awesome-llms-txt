@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mystery O Matic
 
-![Score 46/100 — Grade D](../../docs/badge/mystery-o-matic.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/mystery-o-matic.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mystery-o-matic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

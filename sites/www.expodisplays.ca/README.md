@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Default Store View
 
-![Score 56/100 — Grade C](../../docs/badge/www.expodisplays.ca.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.expodisplays.ca.svg)
 
 Category: **content** · [Live llms.txt](https://www.expodisplays.ca/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

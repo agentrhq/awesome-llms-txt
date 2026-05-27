@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Xfunnel
 
-![Score 62/100 — Grade C](../../docs/badge/www.xfunnel.ai.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.xfunnel.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.xfunnel.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

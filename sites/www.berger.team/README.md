@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Berger+Team
 
-![Score 66/100 — Grade B](../../docs/badge/www.berger.team.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.berger.team.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.berger.team/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

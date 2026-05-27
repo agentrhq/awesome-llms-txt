@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Not Human Search
 
-![Score 54/100 — Grade C](../../docs/badge/nothumansearch.ai.svg)
+![Score 54/100 · Grade C](../../docs/badge/nothumansearch.ai.svg)
 
 Category: **search** · [Live llms.txt](https://nothumansearch.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

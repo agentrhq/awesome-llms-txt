@@ -15,7 +15,7 @@ freshness_age_days: 55
 
 # Cm3
 
-![Score 55/100 — Grade C](../../docs/badge/www.cm3.com.au.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.cm3.com.au.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cm3.com.au/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Useapi
 
-![Score 62/100 — Grade C](../../docs/badge/useapi.net.svg)
+![Score 62/100 · Grade C](../../docs/badge/useapi.net.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://useapi.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

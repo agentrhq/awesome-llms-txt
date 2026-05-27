@@ -15,7 +15,7 @@ freshness_age_days: 541
 
 # Travelmemo
 
-![Score 46/100 — Grade D](../../docs/badge/travelmemo.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/travelmemo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://travelmemo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

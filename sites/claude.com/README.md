@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Claude
 
-![Score 66/100 — Grade B](../../docs/badge/claude.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/claude.com.svg)
 
 Category: **comms** · [Live llms.txt](https://claude.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

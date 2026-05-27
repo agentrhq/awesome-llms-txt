@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Default Store View
 
-![Score 57/100 — Grade C](../../docs/badge/www.customtentswithlogo.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.customtentswithlogo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.customtentswithlogo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

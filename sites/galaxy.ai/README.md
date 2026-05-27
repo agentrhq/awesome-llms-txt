@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Galaxy
 
-![Score 59/100 — Grade C](../../docs/badge/galaxy.ai.svg)
+![Score 59/100 · Grade C](../../docs/badge/galaxy.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://galaxy.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

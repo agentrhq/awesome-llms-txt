@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # DexPaprika API
 
-![Score 77/100 — Grade B+](../../docs/badge/docs.dexpaprika.com.svg)
+![Score 77/100 · Grade B+](../../docs/badge/docs.dexpaprika.com.svg)
 
 Category: **content** · [Live llms.txt](https://docs.dexpaprika.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

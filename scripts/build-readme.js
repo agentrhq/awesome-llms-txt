@@ -95,7 +95,7 @@ ${hook}
 
 ## How scores are calculated
 
-**Every score is produced by code, not by a human.** No editorial picks, no "we think this is bad" — just a parser walking the file structure and a scorer applying ten weighted rules. The rubric is published in full at [\`RUBRIC.md\`](./RUBRIC.md) and the tool source is at [\`tools/llms-txt-score/\`](./tools/llms-txt-score/).
+**Every score is produced by code, not by a human.** No editorial picks. The grading is done by a parser that walks the file structure and a scorer that applies ten weighted rules. The full rubric is in [\`RUBRIC.md\`](./RUBRIC.md). The tool source is in [\`tools/llms-txt-score/\`](./tools/llms-txt-score/).
 
 If you want the same number we got, run:
 
@@ -120,7 +120,7 @@ What the ten criteria look at, summarised:
 
 Grade bands borrowed from Mozilla HTTP Observatory and capped at 100: **A+** ≥ 95, **A** ≥ 85, **A-** ≥ 80, **B+** ≥ 75, **B** ≥ 65, **C** ≥ 50, **D** ≥ 35, **F** < 35. \`A\` at 85 matches Lighthouse's "green" threshold so screenshots are instantly legible to anyone who's seen a PageSpeed report.
 
-**Reproducibility is the moat.** No site can claim a different score by emailing us. If you think the rubric is wrong, that's a [public appeal](./CONTRIBUTING.md#appeals). If you think your file is being parsed incorrectly, that's a [tool bug](./tools/llms-txt-score/). Either gets debated on the issue, not in DM.
+No site can claim a different score by emailing us. The tool is the answer. If you think the rubric is wrong, file a [public appeal](./CONTRIBUTING.md#appeals). If you think your file is being parsed incorrectly, file a [tool bug](./tools/llms-txt-score/). Either gets debated on the issue, not in DM.
 
 ## Headline numbers
 
@@ -143,7 +143,7 @@ ${top25.map(row).join('\n')}
 `;
 
 // Notable failures: known-brand domains that scored D or F. The denylist is
-// imperfect — the goal is to show recognisable names in the "shame" surface
+// imperfect; the goal is to show recognisable names in the "shame" surface
 // rather than the long tail of random submission-driven entries.
 const NOTABLE_PATTERNS = [
   /^(docs?\.|developers?\.|api\.|platform\.|www\.)/i,
@@ -176,7 +176,7 @@ Recognisable sites that landed at D or F. Almost every entry here is one of: no 
 |---|------|--------|------:|:-----:|----------|-----:|
 ${notableFailures.map(row).join('\n')}
 
-These aren't bad teams or bad products — \`llms.txt\` is new, and most teams haven't prioritised it yet. Submit a re-scored PR once your file ships the change and the next monthly crawl picks it up automatically.
+These aren't bad teams or bad products. \`llms.txt\` is new, and most teams haven't prioritised it yet. Submit a re-scored PR once your file ships the change. The next monthly crawl picks it up automatically.
 
 ### Lowest 10 (whole corpus, including long-tail unknowns)
 
@@ -197,7 +197,7 @@ ${categorySections}
 
 ## Methodology in detail
 
-For the short version, see [How scores are calculated](#how-scores-are-calculated) at the top of this page. For the longer version — every weight, every rationale, what we explicitly *don't* score — read [\`RUBRIC.md\`](./RUBRIC.md).
+For the short version, see [How scores are calculated](#how-scores-are-calculated) at the top of this page. For the longer version (every weight, every rationale, what we explicitly *don't* score), read [\`RUBRIC.md\`](./RUBRIC.md).
 
 The rubric is refreshed monthly via [\`.github/workflows/crawl.yml\`](./.github/workflows/crawl.yml). Score drops auto-open an issue tagged \`regression\`; score rises auto-open a PR. Rubric weights themselves are revisited quarterly (Jan, Apr, Jul, Oct) so historic scores stay comparable across crawls.
 
@@ -225,11 +225,11 @@ Every scored site has its own SVG badge at \`web/badge/<domain>.svg\`. Drop this
 [![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
 \`\`\`
 
-The badge color tracks the grade (green for A, red for F). Re-scored monthly — your badge updates automatically.
+The badge color tracks the grade (green for A, red for F). Re-scored monthly. The badge updates automatically.
 
 ## Contributing
 
-PRs welcome. One PR per site. See [\`CONTRIBUTING.md\`](./CONTRIBUTING.md). Manual score edits are auto-rejected — CI re-runs the tool and compares.
+PRs welcome. One PR per site. See [\`CONTRIBUTING.md\`](./CONTRIBUTING.md). Manual score edits are auto-rejected. CI re-runs the tool and compares.
 
 Appeals (public): file an issue using the [appeal template](./.github/ISSUE_TEMPLATE/appeal.yml). Rubric proposals (reviewed quarterly): file an issue with the \`rubric\` label.
 
@@ -237,7 +237,7 @@ Maintainers: see [\`MAINTAINERS.md\`](./MAINTAINERS.md). Code of conduct: see [\
 
 ## What this is and isn't
 
-- This is a **scored** leaderboard. It is not a pass / fail validator — the [llms.txt spec](https://llmstxt.org/) covers what a valid file looks like.
+- This is a **scored** leaderboard. It is not a pass / fail validator. The [llms.txt spec](https://llmstxt.org/) covers what a valid file looks like.
 - This is not a directory. [\`directory.llmstxt.cloud\`](https://directory.llmstxt.cloud/) and [\`llms-txt-hub\`](https://github.com/thedaviddias/llms-txt-hub) do that.
 - This is not an opinion on whether \`llms.txt\` should exist. We grade what's published.
 - This is not endorsed by Answer.AI, Jeremy Howard, or any of the listed sites.

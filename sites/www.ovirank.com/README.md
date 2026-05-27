@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # OviRank — Agence SEO, GEO & CRO
 
-![Score 50/100 — Grade C](../../docs/badge/www.ovirank.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.ovirank.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ovirank.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

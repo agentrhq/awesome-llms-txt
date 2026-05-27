@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sarhaan Gulati
 
-![Score 64/100 — Grade C](../../docs/badge/www.sarhaangulati.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/www.sarhaangulati.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sarhaangulati.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

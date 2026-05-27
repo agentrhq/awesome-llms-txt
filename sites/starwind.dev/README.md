@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Starwind UI - AI Reference Guide
 
-![Score 63/100 — Grade C](../../docs/badge/starwind.dev.svg)
+![Score 63/100 · Grade C](../../docs/badge/starwind.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://starwind.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

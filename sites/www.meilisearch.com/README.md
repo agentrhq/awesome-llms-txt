@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Meilisearch
 
-![Score 73/100 — Grade B](../../docs/badge/www.meilisearch.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/www.meilisearch.com.svg)
 
 Category: **search** · [Live llms.txt](https://www.meilisearch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

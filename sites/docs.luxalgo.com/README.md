@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # LuxAlgo
 
-![Score 68/100 — Grade B](../../docs/badge/docs.luxalgo.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.luxalgo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.luxalgo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

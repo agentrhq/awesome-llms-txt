@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Yala
 
-![Score 55/100 — Grade C](../../docs/badge/docs.yala.org.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.yala.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.yala.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

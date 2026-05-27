@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # UMB AG
 
-![Score 60/100 — Grade C](../../docs/badge/www.umb.ch.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.umb.ch.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.umb.ch/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

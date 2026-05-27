@@ -15,7 +15,7 @@ freshness_age_days: 188
 
 # ComfortHRM
 
-![Score 55/100 — Grade C](../../docs/badge/comforthrm.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/comforthrm.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://comforthrm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

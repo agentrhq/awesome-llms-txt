@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # TurboDocx Documentation
 
-![Score 58/100 — Grade C](../../docs/badge/docs.turbodocx.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.turbodocx.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.turbodocx.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

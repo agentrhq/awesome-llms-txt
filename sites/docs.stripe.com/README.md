@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Stripe Docs
 
-![Score 69/100 — Grade B](../../docs/badge/docs.stripe.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/docs.stripe.com.svg)
 
 Category: **billing** · [Live llms.txt](https://docs.stripe.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Acemoneytransfer
 
-![Score 34/100 — Grade F](../../docs/badge/acemoneytransfer.com.svg)
+![Score 34/100 · Grade F](../../docs/badge/acemoneytransfer.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://acemoneytransfer.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

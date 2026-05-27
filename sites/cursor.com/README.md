@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cursor Documentation
 
-![Score 71/100 — Grade B](../../docs/badge/cursor.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/cursor.com.svg)
 
 Category: **billing** · [Live llms.txt](https://cursor.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Leomayn
 
-![Score 60/100 — Grade C](../../docs/badge/leomayn.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/leomayn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://leomayn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

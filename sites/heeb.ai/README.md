@@ -15,7 +15,7 @@ freshness_age_days: 61
 
 # heeb
 
-![Score 52/100 — Grade C](../../docs/badge/heeb.ai.svg)
+![Score 52/100 · Grade C](../../docs/badge/heeb.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://heeb.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

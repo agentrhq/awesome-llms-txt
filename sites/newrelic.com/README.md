@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # New Relic
 
-![Score 63/100 — Grade C](../../docs/badge/newrelic.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/newrelic.com.svg)
 
 Category: **observability** · [Live llms.txt](https://newrelic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # CryptoProcessing
 
-![Score 74/100 — Grade B](../../docs/badge/docs.cryptoprocessing.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.cryptoprocessing.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.cryptoprocessing.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

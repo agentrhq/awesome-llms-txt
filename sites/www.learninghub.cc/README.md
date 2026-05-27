@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Learning Hub
 
-![Score 64/100 — Grade C](../../docs/badge/www.learninghub.cc.svg)
+![Score 64/100 · Grade C](../../docs/badge/www.learninghub.cc.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.learninghub.cc/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

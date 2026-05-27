@@ -15,7 +15,7 @@ freshness_age_days: 257
 
 # Luxid | Accelerating digital growth
 
-![Score 54/100 — Grade C](../../docs/badge/www.luxidgroup.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/www.luxidgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.luxidgroup.com/hubfs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

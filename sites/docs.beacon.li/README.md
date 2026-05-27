@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Beacon Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.beacon.li.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.beacon.li.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.beacon.li/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

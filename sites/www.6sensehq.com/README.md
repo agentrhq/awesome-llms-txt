@@ -15,7 +15,7 @@ freshness_age_days: 57
 
 # 6sense HQ
 
-![Score 56/100 — Grade C](../../docs/badge/www.6sensehq.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.6sensehq.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.6sensehq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

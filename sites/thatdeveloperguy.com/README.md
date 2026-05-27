@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ThatDeveloperGuy
 
-![Score 68/100 — Grade B](../../docs/badge/thatdeveloperguy.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/thatdeveloperguy.com.svg)
 
 Category: **auth** · [Live llms.txt](https://thatdeveloperguy.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

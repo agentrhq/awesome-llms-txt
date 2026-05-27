@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Helius
 
-![Score 69/100 — Grade B](../../docs/badge/www.helius.dev.svg)
+![Score 69/100 · Grade B](../../docs/badge/www.helius.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://www.helius.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

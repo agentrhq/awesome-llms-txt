@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Analog
 
-![Score 59/100 — Grade C](../../docs/badge/analogjs.org.svg)
+![Score 59/100 · Grade C](../../docs/badge/analogjs.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://analogjs.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

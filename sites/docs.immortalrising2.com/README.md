@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Immortal Rising 2
 
-![Score 55/100 — Grade C](../../docs/badge/docs.immortalrising2.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.immortalrising2.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.immortalrising2.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

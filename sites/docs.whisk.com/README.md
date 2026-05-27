@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Whisk Docs
 
-![Score 63/100 — Grade C](../../docs/badge/docs.whisk.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.whisk.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.whisk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

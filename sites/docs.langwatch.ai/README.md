@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LangWatch
 
-![Score 70/100 — Grade B](../../docs/badge/docs.langwatch.ai.svg)
+![Score 70/100 · Grade B](../../docs/badge/docs.langwatch.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://langwatch.ai/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

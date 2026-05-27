@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Aevo Documentation
 
-![Score 61/100 — Grade C](../../docs/badge/docs.aevo.xyz.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.aevo.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.aevo.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

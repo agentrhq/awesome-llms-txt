@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Docker Docs
 
-![Score 74/100 — Grade B](../../docs/badge/docs.docker.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.docker.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.docker.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

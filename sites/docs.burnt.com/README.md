@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # XION
 
-![Score 58/100 — Grade C](../../docs/badge/docs.burnt.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.burnt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.burnt.com/xion/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Front-Commerce Developers
 
-![Score 67/100 — Grade B](../../docs/badge/developers.front-commerce.com.svg)
+![Score 67/100 · Grade B](../../docs/badge/developers.front-commerce.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://developers.front-commerce.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

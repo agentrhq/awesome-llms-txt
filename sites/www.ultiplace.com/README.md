@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Ultiplace
 
-![Score 64/100 — Grade C](../../docs/badge/www.ultiplace.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/www.ultiplace.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.ultiplace.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

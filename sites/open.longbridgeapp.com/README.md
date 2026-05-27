@@ -15,7 +15,7 @@ freshness_age_days: 165
 
 # LongPort OpenAPI Documentation
 
-![Score 70/100 — Grade B](../../docs/badge/open.longbridgeapp.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/open.longbridgeapp.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://open.longportapp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Assuranceendirect
 
-![Score 26/100 — Grade F](../../docs/badge/www.assuranceendirect.com.svg)
+![Score 26/100 · Grade F](../../docs/badge/www.assuranceendirect.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.assuranceendirect.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

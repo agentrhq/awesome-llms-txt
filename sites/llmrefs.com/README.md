@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LLMrefs
 
-![Score 63/100 — Grade C](../../docs/badge/llmrefs.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/llmrefs.com.svg)
 
 Category: **search** · [Live llms.txt](https://llmrefs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

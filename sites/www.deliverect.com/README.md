@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Deliverect
 
-![Score 58/100 — Grade C](../../docs/badge/www.deliverect.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/www.deliverect.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.deliverect.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

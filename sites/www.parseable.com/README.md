@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Parseable Documentation
 
-![Score 45/100 — Grade D](../../docs/badge/www.parseable.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/www.parseable.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.parseable.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

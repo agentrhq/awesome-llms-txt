@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kerberus Sentinel3
 
-![Score 55/100 — Grade C](../../docs/badge/docs.kerberus.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.kerberus.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kerberus.com/kerberus/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

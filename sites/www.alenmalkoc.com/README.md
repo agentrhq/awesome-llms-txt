@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Alenmalkoc
 
-![Score 60/100 — Grade C](../../docs/badge/www.alenmalkoc.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.alenmalkoc.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.alenmalkoc.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

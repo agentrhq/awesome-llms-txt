@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Gaminator Casino
 
-![Score 52/100 — Grade C](../../docs/badge/www.gamsystem.org.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.gamsystem.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gamsystem.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

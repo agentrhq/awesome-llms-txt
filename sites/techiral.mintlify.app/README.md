@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # OmniMind
 
-![Score 63/100 — Grade C](../../docs/badge/techiral.mintlify.app.svg)
+![Score 63/100 · Grade C](../../docs/badge/techiral.mintlify.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://techiral.mintlify.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

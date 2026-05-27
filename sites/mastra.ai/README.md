@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mastra
 
-![Score 71/100 — Grade B](../../docs/badge/mastra.ai.svg)
+![Score 71/100 · Grade B](../../docs/badge/mastra.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://mastra.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

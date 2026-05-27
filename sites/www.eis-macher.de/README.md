@@ -15,7 +15,7 @@ freshness_age_days: 124
 
 # Detailed Content
 
-![Score 33/100 — Grade F](../../docs/badge/www.eis-macher.de.svg)
+![Score 33/100 · Grade F](../../docs/badge/www.eis-macher.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.eis-macher.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kaisar
 
-![Score 57/100 — Grade C](../../docs/badge/docs.kaisar.io.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.kaisar.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kaisar.io/kaisar-network/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

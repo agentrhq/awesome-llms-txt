@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alva Docs
 
-![Score 54/100 — Grade C](../../docs/badge/docs.alva.xyz.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.alva.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.alva.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

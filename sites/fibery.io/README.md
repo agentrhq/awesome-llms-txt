@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fibery
 
-![Score 61/100 — Grade C](../../docs/badge/fibery.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/fibery.io.svg)
 
 Category: **data** · [Live llms.txt](https://fibery.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

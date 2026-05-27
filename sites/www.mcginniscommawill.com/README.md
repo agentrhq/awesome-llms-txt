@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # McGinnis, Will
 
-![Score 62/100 — Grade C](../../docs/badge/www.mcginniscommawill.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.mcginniscommawill.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mcginniscommawill.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

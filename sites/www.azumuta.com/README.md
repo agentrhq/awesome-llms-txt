@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Azumuta
 
-![Score 69/100 — Grade B](../../docs/badge/www.azumuta.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/www.azumuta.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.azumuta.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

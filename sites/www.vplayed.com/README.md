@@ -15,7 +15,7 @@ freshness_age_days: 11
 
 # Vplayed
 
-![Score 35/100 — Grade D](../../docs/badge/www.vplayed.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.vplayed.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.vplayed.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

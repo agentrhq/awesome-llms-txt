@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # Akool
 
-![Score 69/100 — Grade B](../../docs/badge/akool.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/akool.com.svg)
 
 Category: **content** · [Live llms.txt](https://akool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ClearTax Docs
 
-![Score 58/100 — Grade C](../../docs/badge/docs.cleartax.in.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.cleartax.in.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.cleartax.in/cleartax-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

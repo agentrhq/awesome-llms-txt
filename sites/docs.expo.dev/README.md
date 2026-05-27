@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Expo Docs
 
-![Score 76/100 — Grade B+](../../docs/badge/docs.expo.dev.svg)
+![Score 76/100 · Grade B+](../../docs/badge/docs.expo.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.expo.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

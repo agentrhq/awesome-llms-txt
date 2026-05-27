@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # deAPI
 
-![Score 70/100 — Grade B](../../docs/badge/deapi.ai.svg)
+![Score 70/100 · Grade B](../../docs/badge/deapi.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://deapi.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

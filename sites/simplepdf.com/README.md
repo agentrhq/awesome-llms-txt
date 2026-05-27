@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Simplepdf
 
-![Score 35/100 — Grade D](../../docs/badge/simplepdf.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/simplepdf.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://simplepdf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

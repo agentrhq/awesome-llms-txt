@@ -15,7 +15,7 @@ freshness_age_days: 110
 
 # Pillio
 
-![Score 49/100 — Grade D](../../docs/badge/www.pillio.eu.svg)
+![Score 49/100 · Grade D](../../docs/badge/www.pillio.eu.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.pillio.eu/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

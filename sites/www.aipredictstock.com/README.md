@@ -15,7 +15,7 @@ freshness_age_days: 301
 
 # Aipredictstock
 
-![Score 52/100 — Grade C](../../docs/badge/www.aipredictstock.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.aipredictstock.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.aipredictstock.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

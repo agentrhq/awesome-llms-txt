@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LikeC4 Documentation
 
-![Score 47/100 — Grade D](../../docs/badge/likec4.dev.svg)
+![Score 47/100 · Grade D](../../docs/badge/likec4.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://likec4.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

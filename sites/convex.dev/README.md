@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Convex
 
-![Score 61/100 — Grade C](../../docs/badge/convex.dev.svg)
+![Score 61/100 · Grade C](../../docs/badge/convex.dev.svg)
 
 Category: **data** · [Live llms.txt](https://www.convex.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 16
 
 # Surge Documentation – LLM Unified Entry
 
-![Score 54/100 — Grade C](../../docs/badge/nssurge.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/nssurge.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nssurge.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

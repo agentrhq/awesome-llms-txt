@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sketch To
 
-![Score 49/100 — Grade D](../../docs/badge/www.sketchto.com.svg)
+![Score 49/100 · Grade D](../../docs/badge/www.sketchto.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.sketchto.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 9
 
 # UniWebView
 
-![Score 71/100 — Grade B](../../docs/badge/docs.uniwebview.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/docs.uniwebview.com.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.uniwebview.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

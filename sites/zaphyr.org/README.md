@@ -15,7 +15,7 @@ freshness_age_days: 438
 
 # ZAPHYR PHP Framework
 
-![Score 41/100 — Grade D](../../docs/badge/zaphyr.org.svg)
+![Score 41/100 · Grade D](../../docs/badge/zaphyr.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zaphyr.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

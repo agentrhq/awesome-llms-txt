@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Trigger
 
-![Score 60/100 — Grade C](../../docs/badge/trigger.dev.svg)
+![Score 60/100 · Grade C](../../docs/badge/trigger.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://trigger.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

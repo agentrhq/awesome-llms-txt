@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Booqable
 
-![Score 30/100 — Grade F](../../docs/badge/booqable.com.svg)
+![Score 30/100 · Grade F](../../docs/badge/booqable.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://booqable.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

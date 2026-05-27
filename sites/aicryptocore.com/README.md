@@ -15,7 +15,7 @@ freshness_age_days: 122
 
 # Aicryptocore
 
-![Score 29/100 — Grade F](../../docs/badge/aicryptocore.com.svg)
+![Score 29/100 · Grade F](../../docs/badge/aicryptocore.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://aicryptocore.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

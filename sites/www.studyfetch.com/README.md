@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Studyfetch
 
-![Score 64/100 — Grade C](../../docs/badge/www.studyfetch.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/www.studyfetch.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.studyfetch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

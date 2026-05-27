@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # CNPJws
 
-![Score 55/100 — Grade C](../../docs/badge/docs.cnpj.ws.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.cnpj.ws.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.cnpj.ws/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AppZung
 
-![Score 61/100 — Grade C](../../docs/badge/appzung.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/appzung.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://appzung.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

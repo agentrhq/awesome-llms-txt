@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # KyberSwap Docs
 
-![Score 62/100 — Grade C](../../docs/badge/docs.kyberswap.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/docs.kyberswap.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kyberswap.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

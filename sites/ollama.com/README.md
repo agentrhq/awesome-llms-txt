@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ollama
 
-![Score 58/100 — Grade C](../../docs/badge/ollama.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/ollama.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://ollama.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

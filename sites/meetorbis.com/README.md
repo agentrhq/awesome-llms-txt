@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Orbis
 
-![Score 65/100 — Grade B](../../docs/badge/meetorbis.com.svg)
+![Score 65/100 · Grade B](../../docs/badge/meetorbis.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://meetorbis.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

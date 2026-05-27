@@ -5,7 +5,7 @@ let data = [];
 
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmtKB = (b) => (b / 1024).toFixed(1) + ' KB';
-const fmtAge = (d) => d == null ? '—' : d === 0 ? 'today' : d + 'd';
+const fmtAge = (d) => d == null ? '·' : d === 0 ? 'today' : d + 'd';
 
 async function load() {
   const res = await fetch('./leaderboard.json');

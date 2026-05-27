@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ketch
 
-![Score 66/100 — Grade B](../../docs/badge/www.ketch.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.ketch.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.ketch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

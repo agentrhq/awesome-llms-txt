@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Eva — Calendar & Daily Planner
 
-![Score 49/100 — Grade D](../../docs/badge/evacalendar.app.svg)
+![Score 49/100 · Grade D](../../docs/badge/evacalendar.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://evacalendar.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

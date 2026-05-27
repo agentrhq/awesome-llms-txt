@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Nexech
 
-![Score 35/100 — Grade D](../../docs/badge/nexech.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/nexech.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nexech.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

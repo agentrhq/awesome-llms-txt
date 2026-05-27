@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DeepSEO Corso SEO Online
 
-![Score 54/100 — Grade C](../../docs/badge/www.deepseo.it.svg)
+![Score 54/100 · Grade C](../../docs/badge/www.deepseo.it.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.deepseo.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

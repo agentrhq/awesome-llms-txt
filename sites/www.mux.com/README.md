@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mux
 
-![Score 73/100 — Grade B](../../docs/badge/www.mux.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/www.mux.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.mux.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

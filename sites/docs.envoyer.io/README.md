@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Envoyer
 
-![Score 63/100 — Grade C](../../docs/badge/docs.envoyer.io.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.envoyer.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.envoyer.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

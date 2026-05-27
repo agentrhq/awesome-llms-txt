@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AlphaFi Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.alphafi.xyz.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.alphafi.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.alphafi.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

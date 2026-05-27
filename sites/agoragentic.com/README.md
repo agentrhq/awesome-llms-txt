@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Agoragentic Triptych OS (Agent OS)
 
-![Score 71/100 — Grade B](../../docs/badge/agoragentic.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/agoragentic.com.svg)
 
 Category: **comms** · [Live llms.txt](https://agoragentic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

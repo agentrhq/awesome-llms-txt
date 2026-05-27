@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mesh
 
-![Score 73/100 — Grade B](../../docs/badge/docs.meshconnect.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.meshconnect.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.meshconnect.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

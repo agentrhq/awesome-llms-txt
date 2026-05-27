@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Latuos
 
-![Score 62/100 — Grade C](../../docs/badge/latuos.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/latuos.com.svg)
 
 Category: **billing** · [Live llms.txt](https://latuos.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

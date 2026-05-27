@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Medusa
 
-![Score 63/100 — Grade C](../../docs/badge/medusajs.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/medusajs.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://medusajs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zealy API
 
-![Score 58/100 — Grade C](../../docs/badge/docs.zealy.io.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.zealy.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zealy.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

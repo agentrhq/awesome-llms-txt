@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Nekko Digital
 
-![Score 73/100 — Grade B](../../docs/badge/nekkodigital.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/nekkodigital.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nekkodigital.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

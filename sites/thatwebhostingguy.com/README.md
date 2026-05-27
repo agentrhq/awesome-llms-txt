@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Thatwebhostingguy
 
-![Score 46/100 — Grade D](../../docs/badge/thatwebhostingguy.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/thatwebhostingguy.com.svg)
 
 Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

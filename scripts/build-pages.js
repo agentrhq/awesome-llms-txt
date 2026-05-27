@@ -204,7 +204,7 @@ let data = [];
 
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmtKB = (b) => (b / 1024).toFixed(1) + ' KB';
-const fmtAge = (d) => d == null ? '—' : d === 0 ? 'today' : d + 'd';
+const fmtAge = (d) => d == null ? '·' : d === 0 ? 'today' : d + 'd';
 
 async function load() {
   const res = await fetch('./leaderboard.json');
@@ -366,7 +366,7 @@ function main() {
   fs.writeFileSync(path.join(WEB, 'style.css'), styleCss());
   fs.writeFileSync(path.join(WEB, 'app.js'), appJs());
   fs.writeFileSync(path.join(WEB, 'index.html'), shell({
-    title: 'Awesome llms.txt — the scored leaderboard',
+    title: 'Awesome llms.txt · the scored leaderboard',
     description: `${stats.total.toLocaleString()} llms.txt files scored against a public rubric. Stripe scored 69. Vercel scored 71. ${manifest.filter(e=>e.grade.startsWith('A')).length} sites got an A or A-.`,
     body: indexPageBody(),
     depth: 0,
@@ -381,7 +381,7 @@ function main() {
     const og = ogSvg(entry);
     fs.writeFileSync(path.join(OG, entry.domain + '.svg'), og);
     fs.writeFileSync(path.join(SITE_PAGES, entry.domain + '.html'), shell({
-      title: `${entry.display_name} — llms.txt score: ${entry.score} (${entry.grade})`,
+      title: `${entry.display_name} · llms.txt score ${entry.score} (${entry.grade})`,
       description: `${entry.display_name}'s llms.txt scored ${entry.score}/100, grade ${entry.grade}. ${entry.section_count} sections, ${entry.link_count} links.`,
       body: sitePageBody(entry, scoreJson),
       ogImage: `https://agentrhq.github.io/awesome-llms-txt/og/${entry.domain}.svg`,

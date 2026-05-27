@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Keeper Wallet Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.keeper-wallet.app.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.keeper-wallet.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.keeper-wallet.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

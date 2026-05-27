@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alexop
 
-![Score 64/100 — Grade C](../../docs/badge/alexop.dev.svg)
+![Score 64/100 · Grade C](../../docs/badge/alexop.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://alexop.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

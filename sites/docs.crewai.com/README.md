@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # CrewAI Docs
 
-![Score 73/100 — Grade B](../../docs/badge/docs.crewai.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.crewai.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.crewai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

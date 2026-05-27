@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Resend
 
-![Score 85/100 — Grade A](../../docs/badge/resend.com.svg)
+![Score 85/100 · Grade A](../../docs/badge/resend.com.svg)
 
 Category: **comms** · [Live llms.txt](https://resend.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

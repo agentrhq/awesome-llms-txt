@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../docs/badge/comparisonator.com.svg)
+![Score 39/100 · Grade D](../../docs/badge/comparisonator.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://comparisonator.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

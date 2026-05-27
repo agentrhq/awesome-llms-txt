@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Vue Macros
 
-![Score 64/100 — Grade C](../../docs/badge/vue-macros.dev.svg)
+![Score 64/100 · Grade C](../../docs/badge/vue-macros.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vue-macros.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 119
 
 # Aankoopvanautos
 
-![Score 39/100 — Grade D](../../docs/badge/www.aankoopvanautos.be.svg)
+![Score 39/100 · Grade D](../../docs/badge/www.aankoopvanautos.be.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.aankoopvanautos.be/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

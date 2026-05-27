@@ -15,7 +15,7 @@ freshness_age_days: 437
 
 # LLMs Metadata File (Light Version)
 
-![Score 40/100 — Grade D](../../docs/badge/onagents.org.svg)
+![Score 40/100 · Grade D](../../docs/badge/onagents.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://onagents.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

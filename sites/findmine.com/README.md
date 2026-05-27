@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Findmine
 
-![Score 28/100 — Grade F](../../docs/badge/findmine.com.svg)
+![Score 28/100 · Grade F](../../docs/badge/findmine.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.findmine.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

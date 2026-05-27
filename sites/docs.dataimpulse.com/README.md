@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DataImpulse
 
-![Score 58/100 — Grade C](../../docs/badge/docs.dataimpulse.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.dataimpulse.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.dataimpulse.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

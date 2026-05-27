@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Formwerk Documentation
 
-![Score 59/100 — Grade C](../../docs/badge/formwerk.dev.svg)
+![Score 59/100 · Grade C](../../docs/badge/formwerk.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://formwerk.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

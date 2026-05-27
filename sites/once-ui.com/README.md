@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Once UI
 
-![Score 73/100 — Grade B](../../docs/badge/once-ui.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/once-ui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://once-ui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # SEO Suite Help Center
 
-![Score 55/100 — Grade C](../../docs/badge/docs.avada.io.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.avada.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.avada.io/seo-suite-help-center/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

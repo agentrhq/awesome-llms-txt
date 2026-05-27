@@ -15,7 +15,7 @@ freshness_age_days: 274
 
 # Amema
 
-![Score 27/100 — Grade F](../../docs/badge/www.amema.at.svg)
+![Score 27/100 · Grade F](../../docs/badge/www.amema.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.amema.at/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

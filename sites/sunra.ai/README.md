@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sunra
 
-![Score 54/100 — Grade C](../../docs/badge/sunra.ai.svg)
+![Score 54/100 · Grade C](../../docs/badge/sunra.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://sunra.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

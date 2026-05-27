@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # LLMs Documentation
 
-![Score 65/100 — Grade B](../../docs/badge/navi-lang.org.svg)
+![Score 65/100 · Grade B](../../docs/badge/navi-lang.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://navi-lang.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

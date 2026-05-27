@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Trackingplan
 
-![Score 59/100 — Grade C](../../docs/badge/www.trackingplan.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.trackingplan.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.trackingplan.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

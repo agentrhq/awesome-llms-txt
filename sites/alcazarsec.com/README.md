@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alcazar
 
-![Score 57/100 — Grade C](../../docs/badge/alcazarsec.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/alcazarsec.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://alcazarsec.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

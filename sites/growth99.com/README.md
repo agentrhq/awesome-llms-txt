@@ -15,7 +15,7 @@ freshness_age_days: 347
 
 # Growth99
 
-![Score 28/100 — Grade F](../../docs/badge/growth99.com.svg)
+![Score 28/100 · Grade F](../../docs/badge/growth99.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://growth99.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

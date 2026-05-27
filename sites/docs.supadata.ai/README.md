@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Supadata Docs
 
-![Score 72/100 — Grade B](../../docs/badge/docs.supadata.ai.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.supadata.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.supadata.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

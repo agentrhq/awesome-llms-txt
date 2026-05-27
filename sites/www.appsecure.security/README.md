@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Appsecure
 
-![Score 36/100 — Grade D](../../docs/badge/www.appsecure.security.svg)
+![Score 36/100 · Grade D](../../docs/badge/www.appsecure.security.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.appsecure.security/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

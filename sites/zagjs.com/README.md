@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Overview
 
-![Score 55/100 — Grade C](../../docs/badge/zagjs.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/zagjs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zagjs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

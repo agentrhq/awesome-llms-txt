@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Forest Teak
 
-![Score 55/100 — Grade C](../../docs/badge/foresteak.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/foresteak.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://foresteak.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

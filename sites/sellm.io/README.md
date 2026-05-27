@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sellm
 
-![Score 30/100 — Grade F](../../docs/badge/sellm.io.svg)
+![Score 30/100 · Grade F](../../docs/badge/sellm.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sellm.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

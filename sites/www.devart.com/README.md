@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # Devart
 
-![Score 34/100 — Grade F](../../docs/badge/www.devart.com.svg)
+![Score 34/100 · Grade F](../../docs/badge/www.devart.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.devart.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

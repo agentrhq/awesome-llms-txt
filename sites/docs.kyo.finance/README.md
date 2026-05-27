@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # KYO FINANCE
 
-![Score 55/100 — Grade C](../../docs/badge/docs.kyo.finance.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.kyo.finance.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kyo.finance/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Legitt AI
 
-![Score 65/100 — Grade B](../../docs/badge/legittai.com.svg)
+![Score 65/100 · Grade B](../../docs/badge/legittai.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://legittai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

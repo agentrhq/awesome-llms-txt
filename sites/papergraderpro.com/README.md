@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # PaperGraderPro Documentation
 
-![Score 51/100 — Grade C](../../docs/badge/papergraderpro.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/papergraderpro.com.svg)
 
 Category: **billing** · [Live llms.txt](https://papergraderpro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

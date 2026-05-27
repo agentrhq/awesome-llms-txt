@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Postmark
 
-![Score 69/100 — Grade B](../../docs/badge/postmark.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/postmark.com.svg)
 
 Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Community Charts
 
-![Score 73/100 — Grade B](../../docs/badge/community-charts.github.io.svg)
+![Score 73/100 · Grade B](../../docs/badge/community-charts.github.io.svg)
 
 Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

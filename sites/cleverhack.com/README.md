@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cleverhack
 
-![Score 62/100 — Grade C](../../docs/badge/cleverhack.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/cleverhack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cleverhack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

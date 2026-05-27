@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # DocSpring Integration Guide
 
-![Score 50/100 — Grade C](../../docs/badge/docspring.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/docspring.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docspring.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

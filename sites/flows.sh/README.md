@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Flows
 
-![Score 62/100 — Grade C](../../docs/badge/flows.sh.svg)
+![Score 62/100 · Grade C](../../docs/badge/flows.sh.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://flows.sh/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

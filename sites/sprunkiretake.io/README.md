@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sprunkiretake
 
-![Score 44/100 — Grade D](../../docs/badge/sprunkiretake.io.svg)
+![Score 44/100 · Grade D](../../docs/badge/sprunkiretake.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sprunkiretake.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

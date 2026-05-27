@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kasper Bergholt
 
-![Score 59/100 — Grade C](../../docs/badge/bergholt.net.svg)
+![Score 59/100 · Grade C](../../docs/badge/bergholt.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bergholt.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

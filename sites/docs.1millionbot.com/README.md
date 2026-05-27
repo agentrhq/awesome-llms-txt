@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # 1millionbot
 
-![Score 58/100 — Grade C](../../docs/badge/docs.1millionbot.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.1millionbot.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.1millionbot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

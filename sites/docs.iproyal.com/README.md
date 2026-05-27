@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # IPRoyal Documentation
 
-![Score 60/100 — Grade C](../../docs/badge/docs.iproyal.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/docs.iproyal.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.iproyal.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

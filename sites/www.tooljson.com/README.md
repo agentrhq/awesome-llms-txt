@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 在线工具集
 
-![Score 67/100 — Grade B](../../docs/badge/www.tooljson.com.svg)
+![Score 67/100 · Grade B](../../docs/badge/www.tooljson.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tooljson.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

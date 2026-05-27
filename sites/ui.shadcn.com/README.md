@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # shadcn/ui
 
-![Score 70/100 — Grade B](../../docs/badge/ui.shadcn.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/ui.shadcn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ui.shadcn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

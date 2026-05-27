@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Hero Banner Section
 
-![Score 50/100 — Grade C](../../docs/badge/fragments-studio.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/fragments-studio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://fragments-studio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

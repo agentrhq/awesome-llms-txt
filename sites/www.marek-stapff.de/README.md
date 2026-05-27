@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Marek Stapff – Persönliche Website
 
-![Score 58/100 — Grade C](../../docs/badge/www.marek-stapff.de.svg)
+![Score 58/100 · Grade C](../../docs/badge/www.marek-stapff.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.marek-stapff.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

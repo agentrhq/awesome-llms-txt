@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Scripnote
 
-![Score 30/100 — Grade F](../../docs/badge/scripnote.com.svg)
+![Score 30/100 · Grade F](../../docs/badge/scripnote.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://scripnote.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

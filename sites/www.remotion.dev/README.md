@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # About Remotion
 
-![Score 44/100 — Grade D](../../docs/badge/www.remotion.dev.svg)
+![Score 44/100 · Grade D](../../docs/badge/www.remotion.dev.svg)
 
 Category: **content** · [Live llms.txt](https://www.remotion.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

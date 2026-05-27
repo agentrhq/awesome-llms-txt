@@ -15,7 +15,7 @@ freshness_age_days: 90
 
 # RaceBrain
 
-![Score 44/100 — Grade D](../../docs/badge/racebrain.io.svg)
+![Score 44/100 · Grade D](../../docs/badge/racebrain.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://racebrain.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

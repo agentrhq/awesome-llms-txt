@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Akool open api documents
 
-![Score 72/100 — Grade B](../../docs/badge/docs.akool.com.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.akool.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.akool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

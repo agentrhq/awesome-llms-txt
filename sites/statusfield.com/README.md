@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Statusfield
 
-![Score 58/100 — Grade C](../../docs/badge/statusfield.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/statusfield.com.svg)
 
 Category: **billing** · [Live llms.txt](https://statusfield.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 450
 
 # Compagniedelagrandeourse
 
-![Score 48/100 — Grade D](../../docs/badge/www.compagniedelagrandeourse.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.compagniedelagrandeourse.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.compagniedelagrandeourse.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

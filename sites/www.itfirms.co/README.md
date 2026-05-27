@@ -15,7 +15,7 @@ freshness_age_days: 35
 
 # Itfirms
 
-![Score 46/100 — Grade D](../../docs/badge/www.itfirms.co.svg)
+![Score 46/100 · Grade D](../../docs/badge/www.itfirms.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.itfirms.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

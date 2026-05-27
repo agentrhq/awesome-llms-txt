@@ -15,7 +15,7 @@ freshness_age_days: 16
 
 # That AI Guy
 
-![Score 69/100 — Grade B](../../docs/badge/thataiguy.org.svg)
+![Score 69/100 · Grade B](../../docs/badge/thataiguy.org.svg)
 
 Category: **infra** · [Live llms.txt](https://thataiguy.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

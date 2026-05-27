@@ -15,7 +15,7 @@ freshness_age_days: 9
 
 # Uithing
 
-![Score 78/100 — Grade B+](../../docs/badge/uithing.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/uithing.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://uithing.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

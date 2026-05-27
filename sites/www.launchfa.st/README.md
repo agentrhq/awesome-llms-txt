@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LaunchFast
 
-![Score 50/100 — Grade C](../../docs/badge/www.launchfa.st.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.launchfa.st.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.launchfa.st/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

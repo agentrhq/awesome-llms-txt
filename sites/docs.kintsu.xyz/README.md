@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kintsu - Liquid Staking on Monad
 
-![Score 55/100 — Grade C](../../docs/badge/docs.kintsu.xyz.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.kintsu.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kintsu.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

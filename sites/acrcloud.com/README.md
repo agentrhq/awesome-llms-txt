@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ACRCloud
 
-![Score 50/100 — Grade C](../../docs/badge/acrcloud.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/acrcloud.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://acrcloud.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sendameal
 
-![Score 64/100 — Grade C](../../docs/badge/sendameal.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/sendameal.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://storage.googleapis.com/bc-index-now.firebasestorage.app/odebi8ye4k/llmstxt/1/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

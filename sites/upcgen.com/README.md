@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # UPCGen
 
-![Score 60/100 — Grade C](../../docs/badge/upcgen.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/upcgen.com.svg)
 
 Category: **billing** · [Live llms.txt](https://upcgen.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

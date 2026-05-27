@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Slack
 
-![Score 58/100 — Grade C](../../docs/badge/slack.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/slack.com.svg)
 
 Category: **comms** · [Live llms.txt](https://slack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

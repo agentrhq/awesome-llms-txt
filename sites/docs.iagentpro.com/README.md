@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # iAgent whitepaper
 
-![Score 55/100 — Grade C](../../docs/badge/docs.iagentpro.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.iagentpro.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.iagentpro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

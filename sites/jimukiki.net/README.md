@@ -15,7 +15,7 @@ freshness_age_days: 432
 
 # 複合機・コピー機のリースなら事務機器ねっと
 
-![Score 43/100 — Grade D](../../docs/badge/jimukiki.net.svg)
+![Score 43/100 · Grade D](../../docs/badge/jimukiki.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jimukiki.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Keeper Documentation Portal
 
-![Score 67/100 — Grade B](../../docs/badge/docs.keeper.io.svg)
+![Score 67/100 · Grade B](../../docs/badge/docs.keeper.io.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.keeper.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

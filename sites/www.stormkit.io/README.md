@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Stormkit
 
-![Score 63/100 — Grade C](../../docs/badge/www.stormkit.io.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.stormkit.io.svg)
 
 Category: **infra** · [Live llms.txt](https://www.stormkit.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

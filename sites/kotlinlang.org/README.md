@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Kotlin
 
-![Score 55/100 — Grade C](../../docs/badge/kotlinlang.org.svg)
+![Score 55/100 · Grade C](../../docs/badge/kotlinlang.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

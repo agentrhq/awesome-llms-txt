@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Visioforge
 
-![Score 74/100 — Grade B](../../docs/badge/www.visioforge.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/www.visioforge.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.visioforge.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # The POOlice
 
-![Score 57/100 — Grade C](../../docs/badge/nwapoolice.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/nwapoolice.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nwapoolice.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

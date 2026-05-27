@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sinch | Latam Messaging Documentation
 
-![Score 56/100 — Grade C](../../docs/badge/docs-en.sinch.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs-en.sinch.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs-latam.messaging.sinch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # PlanetScale
 
-![Score 70/100 — Grade B](../../docs/badge/planetscale.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/planetscale.com.svg)
 
 Category: **data** · [Live llms.txt](https://planetscale.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

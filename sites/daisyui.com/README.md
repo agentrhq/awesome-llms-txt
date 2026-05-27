@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # daisyUI 5
 
-![Score 45/100 — Grade D](../../docs/badge/daisyui.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/daisyui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://daisyui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

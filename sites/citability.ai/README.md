@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Citability
 
-![Score 56/100 — Grade C](../../docs/badge/citability.ai.svg)
+![Score 56/100 · Grade C](../../docs/badge/citability.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://citability.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

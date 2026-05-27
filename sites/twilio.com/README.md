@@ -15,7 +15,7 @@ freshness_age_days: 15
 
 # Twilio
 
-![Score 27/100 — Grade F](../../docs/badge/twilio.com.svg)
+![Score 27/100 · Grade F](../../docs/badge/twilio.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.twilio.com:443/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Scrapfly Documentation
 
-![Score 78/100 — Grade B+](../../docs/badge/docs.scrapfly.io.svg)
+![Score 78/100 · Grade B+](../../docs/badge/docs.scrapfly.io.svg)
 
 Category: **infra** · [Live llms.txt](https://scrapfly.io/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

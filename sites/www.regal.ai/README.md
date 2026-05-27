@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # REGAL | Voice AI Agent Platform
 
-![Score 69/100 — Grade B](../../docs/badge/www.regal.ai.svg)
+![Score 69/100 · Grade B](../../docs/badge/www.regal.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.regal.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

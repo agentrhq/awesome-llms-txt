@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agile Automation
 
-![Score 59/100 — Grade C](../../docs/badge/www.agileautomation.ca.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.agileautomation.ca.svg)
 
 Category: **observability** · [Live llms.txt](https://www.agileautomation.ca/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

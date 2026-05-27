@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Detailed Content
 
-![Score 46/100 — Grade D](../../docs/badge/cleaningservice4u.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/cleaningservice4u.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cleaningservice4u.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

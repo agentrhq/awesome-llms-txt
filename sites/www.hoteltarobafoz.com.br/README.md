@@ -15,7 +15,7 @@ freshness_age_days: 324
 
 # Hoteltarobafoz
 
-![Score 28/100 — Grade F](../../docs/badge/www.hoteltarobafoz.com.br.svg)
+![Score 28/100 · Grade F](../../docs/badge/www.hoteltarobafoz.com.br.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.hoteltarobafoz.com.br/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

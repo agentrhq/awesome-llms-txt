@@ -15,7 +15,7 @@ freshness_age_days: 18
 
 # Performance Plus Tire
 
-![Score 66/100 — Grade B](../../docs/badge/www.performanceplustire.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/www.performanceplustire.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.performanceplustire.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

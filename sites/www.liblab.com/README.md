@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # liblab
 
-![Score 65/100 — Grade B](../../docs/badge/www.liblab.com.svg)
+![Score 65/100 · Grade B](../../docs/badge/www.liblab.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.liblab.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

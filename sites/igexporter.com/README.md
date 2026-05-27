@@ -15,7 +15,7 @@ freshness_age_days: 232
 
 # IG Exporter
 
-![Score 54/100 — Grade C](../../docs/badge/igexporter.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/igexporter.com.svg)
 
 Category: **comms** · [Live llms.txt](https://igexporter.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

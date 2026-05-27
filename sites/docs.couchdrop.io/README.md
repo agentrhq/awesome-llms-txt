@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Couchdrop Knowledge Base
 
-![Score 59/100 — Grade C](../../docs/badge/docs.couchdrop.io.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.couchdrop.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.couchdrop.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

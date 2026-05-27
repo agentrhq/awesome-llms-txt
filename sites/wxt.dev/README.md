@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # WXT
 
-![Score 68/100 — Grade B](../../docs/badge/wxt.dev.svg)
+![Score 68/100 · Grade B](../../docs/badge/wxt.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wxt.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

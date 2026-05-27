@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chaineye FAQ
 
-![Score 53/100 — Grade C](../../docs/badge/docs.chaineye.tools.svg)
+![Score 53/100 · Grade C](../../docs/badge/docs.chaineye.tools.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chaineye.tools/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

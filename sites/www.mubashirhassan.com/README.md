@@ -15,7 +15,7 @@ freshness_age_days: 184
 
 # Mubashirhassan
 
-![Score 40/100 — Grade D](../../docs/badge/www.mubashirhassan.com.svg)
+![Score 40/100 · Grade D](../../docs/badge/www.mubashirhassan.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.mubashirhassan.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

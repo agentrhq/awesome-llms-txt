@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Advin Servers
 
-![Score 69/100 — Grade B](../../docs/badge/docs.advinservers.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/docs.advinservers.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.advinservers.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

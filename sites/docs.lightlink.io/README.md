@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LightLink Protocol
 
-![Score 53/100 — Grade C](../../docs/badge/docs.lightlink.io.svg)
+![Score 53/100 · Grade C](../../docs/badge/docs.lightlink.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.lightlink.io/lightlink-protocol/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

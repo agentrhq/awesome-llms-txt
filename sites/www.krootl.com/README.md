@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Krootl
 
-![Score 57/100 — Grade C](../../docs/badge/www.krootl.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.krootl.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.krootl.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

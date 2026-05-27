@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Vibetuner
 
-![Score 63/100 — Grade C](../../docs/badge/vibetuner.alltuner.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/vibetuner.alltuner.com.svg)
 
 Category: **data** · [Live llms.txt](https://vibetuner.alltuner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

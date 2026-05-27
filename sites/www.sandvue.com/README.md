@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sandvue
 
-![Score 57/100 — Grade C](../../docs/badge/www.sandvue.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.sandvue.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.sandvue.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

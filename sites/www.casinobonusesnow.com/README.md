@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # CasinoBonusesNow
 
-![Score 59/100 — Grade C](../../docs/badge/www.casinobonusesnow.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.casinobonusesnow.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.casinobonusesnow.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

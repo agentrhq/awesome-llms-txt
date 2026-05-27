@@ -15,7 +15,7 @@ freshness_age_days: 71
 
 # OneV's Den
 
-![Score 64/100 — Grade C](../../docs/badge/onevcat.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/onevcat.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://onevcat.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

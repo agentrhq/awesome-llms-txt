@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # API Documentation
 
-![Score 72/100 — Grade B](../../docs/badge/docs.fractalpay.com.svg)
+![Score 72/100 · Grade B](../../docs/badge/docs.fractalpay.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.fractalpay.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

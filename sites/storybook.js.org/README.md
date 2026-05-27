@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Storybook
 
-![Score 57/100 — Grade C](../../docs/badge/storybook.js.org.svg)
+![Score 57/100 · Grade C](../../docs/badge/storybook.js.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://storybook.js.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

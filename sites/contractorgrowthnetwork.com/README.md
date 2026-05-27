@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Contractor Growth Network
 
-![Score 64/100 — Grade C](../../docs/badge/contractorgrowthnetwork.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/contractorgrowthnetwork.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://contractorgrowthnetwork.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

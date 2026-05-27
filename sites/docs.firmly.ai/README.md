@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Firmly Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.firmly.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.firmly.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.firmly.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

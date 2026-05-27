@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cohere Docs
 
-![Score 31/100 — Grade F](../../docs/badge/docs.cohere.com.svg)
+![Score 31/100 · Grade F](../../docs/badge/docs.cohere.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.cohere.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Phare Documentation
 
-![Score 73/100 — Grade B](../../docs/badge/docs.phare.io.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.phare.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.phare.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

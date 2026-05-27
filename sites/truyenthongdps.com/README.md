@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Detailed Content
 
-![Score 40/100 — Grade D](../../docs/badge/truyenthongdps.com.svg)
+![Score 40/100 · Grade D](../../docs/badge/truyenthongdps.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dps.media/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

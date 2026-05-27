@@ -15,7 +15,7 @@ freshness_age_days: 39
 
 # VoidMob
 
-![Score 63/100 — Grade C](../../docs/badge/voidmob.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/voidmob.com.svg)
 
 Category: **billing** · [Live llms.txt](https://voidmob.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 117
 
 # 7eads
 
-![Score 48/100 — Grade D](../../docs/badge/7eads.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/7eads.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://7eads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

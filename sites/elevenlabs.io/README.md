@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ElevenLabs
 
-![Score 65/100 — Grade B](../../docs/badge/elevenlabs.io.svg)
+![Score 65/100 · Grade B](../../docs/badge/elevenlabs.io.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://elevenlabs.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

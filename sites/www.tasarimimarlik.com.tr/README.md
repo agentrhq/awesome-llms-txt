@@ -15,7 +15,7 @@ freshness_age_days: 24
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../docs/badge/www.tasarimimarlik.com.tr.svg)
+![Score 41/100 · Grade D](../../docs/badge/www.tasarimimarlik.com.tr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tasarimimarlik.com.tr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Morphic Solutions
 
-![Score 60/100 — Grade C](../../docs/badge/www.morphic-solutions.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.morphic-solutions.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.morphic-solutions.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 391
 
 # Seokaos
 
-![Score 46/100 — Grade D](../../docs/badge/www.seokaos.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/www.seokaos.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.seokaos.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Himalayas
 
-![Score 67/100 — Grade B](../../docs/badge/himalayas.app.svg)
+![Score 67/100 · Grade B](../../docs/badge/himalayas.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://himalayas.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

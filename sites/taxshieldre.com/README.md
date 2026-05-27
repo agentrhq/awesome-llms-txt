@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # TaxShield RE
 
-![Score 51/100 — Grade C](../../docs/badge/taxshieldre.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/taxshieldre.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://taxshieldre.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

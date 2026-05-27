@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # EduBase
 
-![Score 57/100 — Grade C](../../docs/badge/www.edubase.net.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.edubase.net.svg)
 
 Category: **observability** · [Live llms.txt](https://www.edubase.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

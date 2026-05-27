@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tryopenclaw
 
-![Score 47/100 — Grade D](../../docs/badge/www.tryopenclaw.ai.svg)
+![Score 47/100 · Grade D](../../docs/badge/www.tryopenclaw.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://www.tryopenclaw.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

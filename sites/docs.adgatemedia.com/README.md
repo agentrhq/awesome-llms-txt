@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Adgatemedia Docs
 
-![Score 54/100 — Grade C](../../docs/badge/docs.adgatemedia.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.adgatemedia.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.prodegeads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

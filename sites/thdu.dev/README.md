@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Thomas Duplessis
 
-![Score 57/100 — Grade C](../../docs/badge/thdu.dev.svg)
+![Score 57/100 · Grade C](../../docs/badge/thdu.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://thdu.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

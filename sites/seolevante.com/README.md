@@ -15,7 +15,7 @@ freshness_age_days: 187
 
 # SEO para empresas
 
-![Score 55/100 — Grade C](../../docs/badge/seolevante.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/seolevante.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://seolevante.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Supabase Docs
 
-![Score 64/100 — Grade C](../../docs/badge/supabase.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/supabase.com.svg)
 
 Category: **data** · [Live llms.txt](https://supabase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

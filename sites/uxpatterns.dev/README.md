@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Uxpatterns
 
-![Score 62/100 — Grade C](../../docs/badge/uxpatterns.dev.svg)
+![Score 62/100 · Grade C](../../docs/badge/uxpatterns.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://uxpatterns.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

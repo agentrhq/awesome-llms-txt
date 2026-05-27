@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mondorobot
 
-![Score 50/100 — Grade C](../../docs/badge/mondorobot.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/mondorobot.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mondorobot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

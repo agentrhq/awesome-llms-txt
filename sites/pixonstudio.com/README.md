@@ -15,7 +15,7 @@ freshness_age_days: 48
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../docs/badge/pixonstudio.com.svg)
+![Score 39/100 · Grade D](../../docs/badge/pixonstudio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pixonstudio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

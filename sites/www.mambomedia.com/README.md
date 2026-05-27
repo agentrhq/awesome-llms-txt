@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Mambomedia
 
-![Score 56/100 — Grade C](../../docs/badge/www.mambomedia.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.mambomedia.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mambomedia.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

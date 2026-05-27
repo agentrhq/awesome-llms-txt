@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Drycleaningbyfresh
 
-![Score 55/100 — Grade C](../../docs/badge/www.drycleaningbyfresh.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.drycleaningbyfresh.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.drycleaningbyfresh.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

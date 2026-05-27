@@ -15,7 +15,7 @@ freshness_age_days: 302
 
 # Thedinnerdetective
 
-![Score 52/100 — Grade C](../../docs/badge/www.thedinnerdetective.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.thedinnerdetective.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.thedinnerdetective.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

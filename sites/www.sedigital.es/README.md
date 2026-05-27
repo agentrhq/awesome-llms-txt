@@ -15,7 +15,7 @@ freshness_age_days: 453
 
 # SEDIGITAL, SEO AGENCY IN MADRID
 
-![Score 48/100 — Grade D](../../docs/badge/www.sedigital.es.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.sedigital.es.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.sedigital.es/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

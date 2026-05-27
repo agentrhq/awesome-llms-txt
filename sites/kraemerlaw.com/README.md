@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kraemer & Kraemer
 
-![Score 69/100 — Grade B](../../docs/badge/kraemerlaw.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/kraemerlaw.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://kraemerlaw.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

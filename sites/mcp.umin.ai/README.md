@@ -15,7 +15,7 @@ freshness_age_days: 176
 
 # MCP
 
-![Score 55/100 — Grade C](../../docs/badge/mcp.umin.ai.svg)
+![Score 55/100 · Grade C](../../docs/badge/mcp.umin.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mcp.umin.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Rspack
 
-![Score 66/100 — Grade B](../../docs/badge/rspack.dev.svg)
+![Score 66/100 · Grade B](../../docs/badge/rspack.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://rspack.rs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

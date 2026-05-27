@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Prettier
 
-![Score 53/100 — Grade C](../../docs/badge/prettier.io.svg)
+![Score 53/100 · Grade C](../../docs/badge/prettier.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://prettier.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

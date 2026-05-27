@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Kol
 
-![Score 41/100 — Grade D](../../docs/badge/kol.wunderfauks.com.svg)
+![Score 41/100 · Grade D](../../docs/badge/kol.wunderfauks.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kol.wunderfauks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

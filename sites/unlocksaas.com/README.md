@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Unlock SaaS
 
-![Score 74/100 — Grade B](../../docs/badge/unlocksaas.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/unlocksaas.com.svg)
 
 Category: **billing** · [Live llms.txt](https://unlocksaas.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

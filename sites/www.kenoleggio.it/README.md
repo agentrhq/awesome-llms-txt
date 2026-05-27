@@ -15,7 +15,7 @@ freshness_age_days: 133
 
 # Kenoleggio
 
-![Score 52/100 — Grade C](../../docs/badge/www.kenoleggio.it.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.kenoleggio.it.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.kenoleggio.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

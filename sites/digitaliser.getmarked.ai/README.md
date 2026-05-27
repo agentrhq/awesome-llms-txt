@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Digitaliser
 
-![Score 49/100 — Grade D](../../docs/badge/digitaliser.getmarked.ai.svg)
+![Score 49/100 · Grade D](../../docs/badge/digitaliser.getmarked.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://digitaliser.getmarked.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

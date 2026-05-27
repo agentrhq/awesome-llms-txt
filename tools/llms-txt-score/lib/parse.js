@@ -52,7 +52,7 @@ function parse(text) {
   let curSection = null;     // last H2 section
   let curSubsection = null;  // last H3 subsection (a child of curSection)
 
-  // Pass 1 — find first non-empty line, locate first H1 (outside fences).
+  // Pass 1. Find first non-empty line, locate first H1 (outside fences).
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     if (/^\s*```/.test(line)) { inFence = !inFence; continue; }
@@ -68,7 +68,7 @@ function parse(text) {
   }
   if (!out.h1) out.malformed.push('no_h1');
 
-  // Pass 2 — structural walk.
+  // Pass 2. Structural walk.
   inFence = false;
   let foundH1 = false;
   for (let i = 0; i < lines.length; i++) {

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Krystal Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.krystal.app.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.krystal.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.krystal.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

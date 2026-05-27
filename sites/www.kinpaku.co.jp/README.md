@@ -15,7 +15,7 @@ freshness_age_days: 439
 
 # 今井金箔 観光・体験情報サイト
 
-![Score 50/100 — Grade C](../../docs/badge/www.kinpaku.co.jp.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.kinpaku.co.jp.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.kinpaku.co.jp/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

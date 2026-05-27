@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Ikangai
 
-![Score 35/100 — Grade D](../../docs/badge/www.ikangai.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.ikangai.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.ikangai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

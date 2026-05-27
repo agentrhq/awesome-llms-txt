@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # TiDB Documentation
 
-![Score 65/100 — Grade B](../../docs/badge/docs.pingcap.com.svg)
+![Score 65/100 · Grade B](../../docs/badge/docs.pingcap.com.svg)
 
 Category: **data** · [Live llms.txt](https://docs.pingcap.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Remult
 
-![Score 79/100 — Grade B+](../../docs/badge/remult.dev.svg)
+![Score 79/100 · Grade B+](../../docs/badge/remult.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

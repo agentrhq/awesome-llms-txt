@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Marcloudconsulting
 
-![Score 35/100 — Grade D](../../docs/badge/marcloudconsulting.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/marcloudconsulting.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://marcloudconsulting.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

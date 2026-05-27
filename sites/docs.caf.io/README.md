@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Certta DevHub
 
-![Score 68/100 — Grade B](../../docs/badge/docs.caf.io.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.caf.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.caf.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

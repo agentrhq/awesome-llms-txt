@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # PostHog
 
-![Score 81/100 — Grade A-](../../docs/badge/posthog.com.svg)
+![Score 81/100 · Grade A-](../../docs/badge/posthog.com.svg)
 
 Category: **observability** · [Live llms.txt](https://posthog.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

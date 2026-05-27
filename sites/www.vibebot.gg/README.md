@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # VibeBot
 
-![Score 71/100 — Grade B](../../docs/badge/www.vibebot.gg.svg)
+![Score 71/100 · Grade B](../../docs/badge/www.vibebot.gg.svg)
 
 Category: **billing** · [Live llms.txt](https://www.vibebot.gg/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

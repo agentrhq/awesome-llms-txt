@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mangopay docs
 
-![Score 78/100 — Grade B+](../../docs/badge/docs.mangopay.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/docs.mangopay.com.svg)
 
 Category: **billing** · [Live llms.txt](https://docs.mangopay.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

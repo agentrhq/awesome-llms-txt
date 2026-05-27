@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — Plastic Books
 
-![Score 53/100 — Grade C](../../docs/badge/www.plasticbooks.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/www.plasticbooks.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.plasticbooks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

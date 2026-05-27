@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cal
 
-![Score 68/100 — Grade B](../../docs/badge/cal.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/cal.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cal.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

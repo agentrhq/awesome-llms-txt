@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Junction
 
-![Score 71/100 — Grade B](../../docs/badge/docs.tryvital.io.svg)
+![Score 71/100 · Grade B](../../docs/badge/docs.tryvital.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.junction.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

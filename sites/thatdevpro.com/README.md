@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ThatDevPro
 
-![Score 64/100 — Grade C](../../docs/badge/thatdevpro.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/thatdevpro.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.thatdevpro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

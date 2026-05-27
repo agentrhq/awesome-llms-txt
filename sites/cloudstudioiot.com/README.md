@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cloud Studio IoT
 
-![Score 64/100 — Grade C](../../docs/badge/cloudstudioiot.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/cloudstudioiot.com.svg)
 
 Category: **observability** · [Live llms.txt](https://cloudstudioiot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

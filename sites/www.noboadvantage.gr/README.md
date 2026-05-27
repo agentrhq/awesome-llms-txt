@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Detailed Content
 
-![Score 38/100 — Grade D](../../docs/badge/www.noboadvantage.gr.svg)
+![Score 38/100 · Grade D](../../docs/badge/www.noboadvantage.gr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.noboadvantage.gr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

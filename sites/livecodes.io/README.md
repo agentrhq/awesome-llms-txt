@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LiveCodes
 
-![Score 74/100 — Grade B](../../docs/badge/livecodes.io.svg)
+![Score 74/100 · Grade B](../../docs/badge/livecodes.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://livecodes.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

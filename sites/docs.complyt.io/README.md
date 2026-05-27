@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Title
 
-![Score 66/100 — Grade B](../../docs/badge/docs.complyt.io.svg)
+![Score 66/100 · Grade B](../../docs/badge/docs.complyt.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.complyt.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # FlowRunner
 
-![Score 68/100 — Grade B](../../docs/badge/flow-runner.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/flow-runner.com.svg)
 
 Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

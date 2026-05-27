@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 37/100 — Grade D](../../docs/badge/www.lifepathmeds.com.svg)
+![Score 37/100 · Grade D](../../docs/badge/www.lifepathmeds.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.lifepathmeds.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

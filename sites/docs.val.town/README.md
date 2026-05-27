@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Val Town Documentation
 
-![Score 68/100 — Grade B](../../docs/badge/docs.val.town.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.val.town.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.val.town/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Auth0
 
-![Score 76/100 — Grade B+](../../docs/badge/auth0.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/auth0.com.svg)
 
 Category: **auth** · [Live llms.txt](https://auth0.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

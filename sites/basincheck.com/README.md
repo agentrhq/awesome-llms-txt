@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Basincheck
 
-![Score 52/100 — Grade C](../../docs/badge/basincheck.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/basincheck.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://basincheck.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

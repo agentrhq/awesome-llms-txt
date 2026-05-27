@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Products
 
-![Score 64/100 — Grade C](../../docs/badge/docs.ionos.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/docs.ionos.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.ionos.com/cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

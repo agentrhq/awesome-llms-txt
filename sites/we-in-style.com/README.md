@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — WE IN STYLE
 
-![Score 53/100 — Grade C](../../docs/badge/we-in-style.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/we-in-style.com.svg)
 
 Category: **auth** · [Live llms.txt](https://we-in-style.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

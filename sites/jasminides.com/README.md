@@ -15,7 +15,7 @@ freshness_age_days: 73
 
 # Jasminides
 
-![Score 50/100 — Grade C](../../docs/badge/jasminides.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/jasminides.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jasminides.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Alertoscan
 
-![Score 65/100 — Grade B](../../docs/badge/alertoscan.io.svg)
+![Score 65/100 · Grade B](../../docs/badge/alertoscan.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://alertoscan.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

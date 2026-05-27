@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # /n software
 
-![Score 70/100 — Grade B](../../docs/badge/www.nsoftware.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/www.nsoftware.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.nsoftware.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

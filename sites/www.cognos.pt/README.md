@@ -15,7 +15,7 @@ freshness_age_days: 189
 
 # FULL_VERSION
 
-![Score 40/100 — Grade D](../../docs/badge/www.cognos.pt.svg)
+![Score 40/100 · Grade D](../../docs/badge/www.cognos.pt.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cognos.pt/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

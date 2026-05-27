@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Jam Documenation
 
-![Score 62/100 — Grade C](../../docs/badge/jam.dev.svg)
+![Score 62/100 · Grade C](../../docs/badge/jam.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jam.dev/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

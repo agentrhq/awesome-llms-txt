@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # DreamHost
 
-![Score 67/100 — Grade B](../../docs/badge/www.dreamhost.com.svg)
+![Score 67/100 · Grade B](../../docs/badge/www.dreamhost.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.dreamhost.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

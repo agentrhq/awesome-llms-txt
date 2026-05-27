@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Redis Documentation
 
-![Score 78/100 — Grade B+](../../docs/badge/redis.io.svg)
+![Score 78/100 · Grade B+](../../docs/badge/redis.io.svg)
 
 Category: **data** · [Live llms.txt](https://redis.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

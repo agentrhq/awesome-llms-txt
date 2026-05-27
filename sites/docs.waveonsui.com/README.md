@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # WAVE
 
-![Score 57/100 — Grade C](../../docs/badge/docs.waveonsui.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.waveonsui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.waveonsui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

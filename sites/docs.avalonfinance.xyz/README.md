@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Avalon Labs Documentation
 
-![Score 56/100 — Grade C](../../docs/badge/docs.avalonfinance.xyz.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.avalonfinance.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.avalonfinance.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

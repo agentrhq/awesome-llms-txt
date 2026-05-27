@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Console
 
-![Score 54/100 — Grade C](../../docs/badge/console.groq.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/console.groq.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://console.groq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

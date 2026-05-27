@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Apify Documentation
 
-![Score 81/100 — Grade A-](../../docs/badge/docs.apify.com.svg)
+![Score 81/100 · Grade A-](../../docs/badge/docs.apify.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.apify.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

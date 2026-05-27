@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Datadog
 
-![Score 69/100 — Grade B](../../docs/badge/datadog.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/datadog.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.datadoghq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

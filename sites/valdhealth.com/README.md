@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Valdhealth
 
-![Score 48/100 — Grade D](../../docs/badge/valdhealth.com.svg)
+![Score 48/100 · Grade D](../../docs/badge/valdhealth.com.svg)
 
 Category: **infra** · [Live llms.txt](https://valdhealth.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

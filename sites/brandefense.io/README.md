@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Brandefense
 
-![Score 62/100 — Grade C](../../docs/badge/brandefense.io.svg)
+![Score 62/100 · Grade C](../../docs/badge/brandefense.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://brandefense.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

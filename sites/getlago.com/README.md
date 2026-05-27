@@ -15,7 +15,7 @@ freshness_age_days: 15
 
 # Lago (GetLago)
 
-![Score 54/100 — Grade C](../../docs/badge/getlago.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/getlago.com.svg)
 
 Category: **billing** · [Live llms.txt](https://getlago.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

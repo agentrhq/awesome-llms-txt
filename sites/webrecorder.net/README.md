@@ -15,7 +15,7 @@ freshness_age_days: 36
 
 # Webrecorder
 
-![Score 58/100 — Grade C](../../docs/badge/webrecorder.net.svg)
+![Score 58/100 · Grade C](../../docs/badge/webrecorder.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://webrecorder.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

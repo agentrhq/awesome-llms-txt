@@ -15,7 +15,7 @@ freshness_age_days: 194
 
 # Blueshift
 
-![Score 44/100 — Grade D](../../docs/badge/blueshift.com.svg)
+![Score 44/100 · Grade D](../../docs/badge/blueshift.com.svg)
 
 Category: **comms** · [Live llms.txt](https://blueshift.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

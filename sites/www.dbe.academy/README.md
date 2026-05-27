@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Dbe
 
-![Score 43/100 — Grade D](../../docs/badge/www.dbe.academy.svg)
+![Score 43/100 · Grade D](../../docs/badge/www.dbe.academy.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.dbe.academy/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sankeydiagram
 
-![Score 48/100 — Grade D](../../docs/badge/sankeydiagram.net.svg)
+![Score 48/100 · Grade D](../../docs/badge/sankeydiagram.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sankeydiagram.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

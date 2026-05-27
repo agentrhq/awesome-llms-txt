@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Unstructured
 
-![Score 74/100 — Grade B](../../docs/badge/docs.unstructured.io.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.unstructured.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.unstructured.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

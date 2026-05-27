@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Quotidianomotori
 
-![Score 54/100 — Grade C](../../docs/badge/quotidianomotori.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/quotidianomotori.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.quotidianomotori.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

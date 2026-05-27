@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lacreme
 
-![Score 60/100 — Grade C](../../docs/badge/lacreme.ai.svg)
+![Score 60/100 · Grade C](../../docs/badge/lacreme.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.lacreme.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

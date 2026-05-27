@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Inbed
 
-![Score 57/100 — Grade C](../../docs/badge/inbed.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/inbed.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://inbed.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

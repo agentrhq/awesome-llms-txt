@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Databuddy Documentation
 
-![Score 75/100 — Grade B+](../../docs/badge/www.databuddy.cc.svg)
+![Score 75/100 · Grade B+](../../docs/badge/www.databuddy.cc.svg)
 
 Category: **observability** · [Live llms.txt](https://www.databuddy.cc/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

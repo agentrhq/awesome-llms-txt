@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Clore Docs
 
-![Score 62/100 — Grade C](../../docs/badge/docs.clore.ai.svg)
+![Score 62/100 · Grade C](../../docs/badge/docs.clore.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.clore.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

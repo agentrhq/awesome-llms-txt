@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Tiny
 
-![Score 68/100 — Grade B](../../docs/badge/www.tiny.cloud.svg)
+![Score 68/100 · Grade B](../../docs/badge/www.tiny.cloud.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tiny.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

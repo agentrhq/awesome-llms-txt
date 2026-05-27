@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Contravault
 
-![Score 61/100 — Grade C](../../docs/badge/www.contravault.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.contravault.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.contravault.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 256
 
 # Aspose Documentation
 
-![Score 58/100 — Grade C](../../docs/badge/docs.aspose.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.aspose.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.aspose.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

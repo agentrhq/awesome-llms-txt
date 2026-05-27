@@ -4,7 +4,7 @@ Three ways to contribute:
 
 1. **Add a site to the leaderboard.** One PR per site.
 2. **Appeal a score** that you think is wrong. Public appeals.
-3. **Propose a rubric change** (weights, criteria, thresholds). Issues only — no surprise PRs against `RUBRIC.md`.
+3. **Propose a rubric change** (weights, criteria, thresholds). Issues only. No surprise PRs against `RUBRIC.md`.
 
 ## Add a site
 
@@ -13,13 +13,13 @@ Three ways to contribute:
    npx llms-txt-score https://your-site.com/llms.txt > score.json
    ```
 2. Create `sites/<your-domain>/` containing:
-   - `llms.txt` — the snapshot you scored (verbatim bytes).
-   - `score.json` — the JSON from the tool, untouched.
-   - `README.md` — see frontmatter spec below.
-   - `history/<YYYY-MM-DD>.txt` — a dated copy of the snapshot.
+   - `llms.txt`: the snapshot you scored (verbatim bytes).
+   - `score.json`: the JSON from the tool, untouched.
+   - `README.md`: see frontmatter spec below.
+   - `history/<YYYY-MM-DD>.txt`: a dated copy of the snapshot.
 3. Open one PR titled `add: <domain>`.
 
-CI re-fetches the URL, re-runs the scoring tool, and **rejects the PR if your committed `score.json` doesn't match the re-run.** This is intentional — we do not accept manually-edited scores.
+CI re-fetches the URL, re-runs the scoring tool, and **rejects the PR if your committed `score.json` doesn't match the re-run.** This is intentional. We do not accept manually-edited scores.
 
 ### Required frontmatter for `sites/<domain>/README.md`
 
@@ -35,7 +35,7 @@ verified_url: https://stripe.com/llms.txt
 ---
 ```
 
-Valid `category` values: `ai-platform`, `dev-tools`, `docs-platform`, `billing`, `comms`, `data`, `infra`, `observability`, `auth`, `search`, `content`, `commerce`. Pick the closest. We will rename categories aggressively in the first month — don't fight the system.
+Valid `category` values: `ai-platform`, `dev-tools`, `docs-platform`, `billing`, `comms`, `data`, `infra`, `observability`, `auth`, `search`, `content`, `commerce`. Pick the closest. We will rename categories aggressively in the first month, so don't fight the system.
 
 ### What gets your PR rejected automatically
 
@@ -49,7 +49,7 @@ Valid `category` values: `ai-platform`, `dev-tools`, `docs-platform`, `billing`,
 
 - The `display_name` matches the site's own branding.
 - The `category` makes sense.
-- The Voice criterion (2 pts) — the only place a human looks.
+- The Voice criterion (2 pts), which is the only place a human looks.
 
 ## Appeals
 
@@ -57,7 +57,7 @@ Valid `category` values: `ai-platform`, `dev-tools`, `docs-platform`, `billing`,
 
 1. Open an issue titled `appeal: <domain>` using the [appeal template](./.github/ISSUE_TEMPLATE/appeal.yml).
 2. Quote the rubric criterion and the points you disagree with.
-3. Show your work — point to the lines in the file, the spec, or the live data.
+3. Show your work. Point to the lines in the file, the spec, or the live data.
 4. We respond within seven days, on the issue.
 
 Reasonable appeals to expect:
@@ -76,7 +76,7 @@ Open an issue titled `rubric: <change>`. Include:
 
 - The criterion(ria) you'd reweight, add, or remove.
 - One paragraph on why.
-- One paragraph on the expected effect — would the top 10 reshuffle?
+- One paragraph on the expected effect. Would the top 10 reshuffle?
 - A pointer to similar choices in Lighthouse / Mozilla Observatory / W3C / the llms.txt spec itself.
 
 We review proposed rubric changes **quarterly**, in batches, to avoid score thrash. Changes that pass are versioned (`schema_version: 2` in `score.json`), so historical scores remain comparable.

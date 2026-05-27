@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Hypertune
 
-![Score 58/100 — Grade C](../../docs/badge/docs.hypertune.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.hypertune.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.hypertune.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

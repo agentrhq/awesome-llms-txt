@@ -15,7 +15,7 @@ freshness_age_days: 445
 
 # Graphite Note
 
-![Score 30/100 — Grade F](../../docs/badge/graphite-note.com.svg)
+![Score 30/100 · Grade F](../../docs/badge/graphite-note.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://graphite-note.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

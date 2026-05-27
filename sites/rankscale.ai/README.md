@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Rankscale
 
-![Score 64/100 — Grade C](../../docs/badge/rankscale.ai.svg)
+![Score 64/100 · Grade C](../../docs/badge/rankscale.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://rankscale.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

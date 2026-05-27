@@ -15,7 +15,7 @@ freshness_age_days: 164
 
 # Apache Camel
 
-![Score 63/100 — Grade C](../../docs/badge/camel.apache.org.svg)
+![Score 63/100 · Grade C](../../docs/badge/camel.apache.org.svg)
 
 Category: **infra** · [Live llms.txt](https://camel.apache.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

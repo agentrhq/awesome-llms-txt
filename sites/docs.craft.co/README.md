@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Craft API Documentation
 
-![Score 61/100 — Grade C](../../docs/badge/docs.craft.co.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.craft.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.craft.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

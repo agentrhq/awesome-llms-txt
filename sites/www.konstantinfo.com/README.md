@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Konstant Infosolutions
 
-![Score 60/100 — Grade C](../../docs/badge/www.konstantinfo.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.konstantinfo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.konstantinfo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

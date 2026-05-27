@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Turso
 
-![Score 76/100 — Grade B+](../../docs/badge/docs.turso.tech.svg)
+![Score 76/100 · Grade B+](../../docs/badge/docs.turso.tech.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.turso.tech/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

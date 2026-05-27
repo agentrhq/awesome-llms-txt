@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Concept Designs
 
-![Score 29/100 — Grade F](../../docs/badge/www.concept-designs.com.au.svg)
+![Score 29/100 · Grade F](../../docs/badge/www.concept-designs.com.au.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.concept-designs.com.au/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

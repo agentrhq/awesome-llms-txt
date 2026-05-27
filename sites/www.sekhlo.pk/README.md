@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sekhlo
 
-![Score 50/100 — Grade C](../../docs/badge/www.sekhlo.pk.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.sekhlo.pk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.sekhlo.pk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

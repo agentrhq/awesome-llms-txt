@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Intuned
 
-![Score 68/100 — Grade B](../../docs/badge/docs.intunedhq.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.intunedhq.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://intunedhq.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

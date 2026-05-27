@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Citrea
 
-![Score 57/100 — Grade C](../../docs/badge/docs.citrea.xyz.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.citrea.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.citrea.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

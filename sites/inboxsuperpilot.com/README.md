@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Inbox SuperPilot
 
-![Score 63/100 — Grade C](../../docs/badge/inboxsuperpilot.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/inboxsuperpilot.com.svg)
 
 Category: **comms** · [Live llms.txt](https://inboxsuperpilot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

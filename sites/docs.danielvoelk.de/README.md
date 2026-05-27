@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Divi Filter
 
-![Score 55/100 — Grade C](../../docs/badge/docs.danielvoelk.de.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.danielvoelk.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.danielvoelk.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

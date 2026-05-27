@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # GoRules
 
-![Score 71/100 — Grade B](../../docs/badge/gorules.io.svg)
+![Score 71/100 · Grade B](../../docs/badge/gorules.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

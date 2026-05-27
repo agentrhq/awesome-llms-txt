@@ -15,7 +15,7 @@ freshness_age_days: 26
 
 # ServiceStack
 
-![Score 70/100 — Grade B](../../docs/badge/docs.servicestack.net.svg)
+![Score 70/100 · Grade B](../../docs/badge/docs.servicestack.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.servicestack.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Daytona Documentation
 
-![Score 61/100 — Grade C](../../docs/badge/www.daytona.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.daytona.io.svg)
 
 Category: **infra** · [Live llms.txt](https://www.daytona.io/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

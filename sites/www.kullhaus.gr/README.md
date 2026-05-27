@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kullhaus Hellas
 
-![Score 67/100 — Grade B](../../docs/badge/www.kullhaus.gr.svg)
+![Score 67/100 · Grade B](../../docs/badge/www.kullhaus.gr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.kullhaus.gr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

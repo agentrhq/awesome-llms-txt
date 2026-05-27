@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Video SDK
 
-![Score 61/100 — Grade C](../../docs/badge/docs.videosdk.live.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.videosdk.live.svg)
 
 Category: **content** · [Live llms.txt](https://docs.videosdk.live/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

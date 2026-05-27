@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 64/100 — Grade C](../../docs/badge/docs.flip.to.svg)
+![Score 64/100 · Grade C](../../docs/badge/docs.flip.to.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.flip.to/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

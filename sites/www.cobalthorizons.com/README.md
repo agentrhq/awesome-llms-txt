@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cobalt Horizons | Corporate Website
 
-![Score 55/100 — Grade C](../../docs/badge/www.cobalthorizons.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.cobalthorizons.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cobalthorizons.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

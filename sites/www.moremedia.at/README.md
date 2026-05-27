@@ -15,7 +15,7 @@ freshness_age_days: 8
 
 # Moremedia
 
-![Score 48/100 — Grade D](../../docs/badge/www.moremedia.at.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.moremedia.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.moremedia.at/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

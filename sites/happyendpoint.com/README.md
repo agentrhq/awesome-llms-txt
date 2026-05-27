@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Happyendpoint
 
-![Score 47/100 — Grade D](../../docs/badge/happyendpoint.com.svg)
+![Score 47/100 · Grade D](../../docs/badge/happyendpoint.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://happyendpoint.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

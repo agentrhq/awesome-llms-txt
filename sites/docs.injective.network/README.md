@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Injective Docs
 
-![Score 70/100 — Grade B](../../docs/badge/docs.injective.network.svg)
+![Score 70/100 · Grade B](../../docs/badge/docs.injective.network.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.injective.network/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

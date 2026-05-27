@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Kernel Error
 
-![Score 73/100 — Grade B](../../docs/badge/www.kernel-error.de.svg)
+![Score 73/100 · Grade B](../../docs/badge/www.kernel-error.de.svg)
 
 Category: **infra** · [Live llms.txt](https://www.kernel-error.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

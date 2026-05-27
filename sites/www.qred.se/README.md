@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Qred
 
-![Score 60/100 — Grade C](../../docs/badge/www.qred.se.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.qred.se.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.qred.se/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Trusted Humans
 
-![Score 57/100 — Grade C](../../docs/badge/trustedhumans.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/trustedhumans.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://trustedhumans.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AI Fruit
 
-![Score 52/100 — Grade C](../../docs/badge/aifruit.app.svg)
+![Score 52/100 · Grade C](../../docs/badge/aifruit.app.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://aifruit.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

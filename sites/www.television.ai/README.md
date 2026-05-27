@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Name
 
-![Score 39/100 — Grade D](../../docs/badge/www.television.ai.svg)
+![Score 39/100 · Grade D](../../docs/badge/www.television.ai.svg)
 
 Category: **billing** · [Live llms.txt](https://www.television.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

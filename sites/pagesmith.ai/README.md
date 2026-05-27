@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pagesmith
 
-![Score 67/100 — Grade B](../../docs/badge/pagesmith.ai.svg)
+![Score 67/100 · Grade B](../../docs/badge/pagesmith.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://pagesmith.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

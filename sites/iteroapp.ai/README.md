@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Iteroapp
 
-![Score 62/100 — Grade C](../../docs/badge/iteroapp.ai.svg)
+![Score 62/100 · Grade C](../../docs/badge/iteroapp.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://iteroapp.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

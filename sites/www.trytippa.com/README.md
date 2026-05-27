@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Tippa
 
-![Score 57/100 — Grade C](../../docs/badge/www.trytippa.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.trytippa.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.trytippa.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

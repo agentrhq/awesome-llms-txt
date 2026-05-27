@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Hono
 
-![Score 65/100 — Grade B](../../docs/badge/hono.dev.svg)
+![Score 65/100 · Grade B](../../docs/badge/hono.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://hono.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

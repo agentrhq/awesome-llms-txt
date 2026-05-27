@@ -15,7 +15,7 @@ freshness_age_days: 477
 
 # Aerospacedomain
 
-![Score 42/100 — Grade D](../../docs/badge/www.aerospacedomain.com.svg)
+![Score 42/100 · Grade D](../../docs/badge/www.aerospacedomain.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.aerospacedomain.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

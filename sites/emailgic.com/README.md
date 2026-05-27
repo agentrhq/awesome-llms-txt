@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Emailgic
 
-![Score 61/100 — Grade C](../../docs/badge/emailgic.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/emailgic.com.svg)
 
 Category: **comms** · [Live llms.txt](https://emailgic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

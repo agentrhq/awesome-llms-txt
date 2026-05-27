@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Angel Cruz Dev
 
-![Score 63/100 — Grade C](../../docs/badge/www.angelcruz.dev.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.angelcruz.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.angelcruz.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

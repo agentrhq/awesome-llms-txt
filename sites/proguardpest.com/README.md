@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Proguardpest
 
-![Score 56/100 — Grade C](../../docs/badge/proguardpest.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/proguardpest.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://proguardpest.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

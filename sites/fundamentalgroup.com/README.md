@@ -15,7 +15,7 @@ freshness_age_days: 41
 
 # Fundamental Group
 
-![Score 52/100 — Grade C](../../docs/badge/fundamentalgroup.com.svg)
+![Score 52/100 · Grade C](../../docs/badge/fundamentalgroup.com.svg)
 
 Category: **observability** · [Live llms.txt](https://fundamentalgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

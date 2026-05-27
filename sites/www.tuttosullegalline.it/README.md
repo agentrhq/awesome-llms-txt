@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tuttosullegalline
 
-![Score 43/100 — Grade D](../../docs/badge/www.tuttosullegalline.it.svg)
+![Score 43/100 · Grade D](../../docs/badge/www.tuttosullegalline.it.svg)
 
 Category: **content** · [Live llms.txt](https://www.tuttosullegalline.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 477
 
 # Stackedindustrials
 
-![Score 42/100 — Grade D](../../docs/badge/www.stackedindustrials.com.svg)
+![Score 42/100 · Grade D](../../docs/badge/www.stackedindustrials.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.stackedindustrials.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

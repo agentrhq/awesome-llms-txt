@@ -15,7 +15,7 @@ freshness_age_days: 44
 
 # Answer
 
-![Score 57/100 — Grade C](../../docs/badge/www.answer.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.answer.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.answer.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

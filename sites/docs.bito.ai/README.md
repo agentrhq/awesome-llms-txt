@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bito Docs
 
-![Score 61/100 — Grade C](../../docs/badge/docs.bito.ai.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.bito.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bito.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

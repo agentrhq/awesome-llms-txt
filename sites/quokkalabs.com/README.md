@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Quokkalabs
 
-![Score 33/100 — Grade F](../../docs/badge/quokkalabs.com.svg)
+![Score 33/100 · Grade F](../../docs/badge/quokkalabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

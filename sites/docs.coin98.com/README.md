@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Coin98
 
-![Score 57/100 — Grade C](../../docs/badge/docs.coin98.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.coin98.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.coin98.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

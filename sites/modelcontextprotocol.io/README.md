@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Model Context Protocol
 
-![Score 70/100 — Grade B](../../docs/badge/modelcontextprotocol.io.svg)
+![Score 70/100 · Grade B](../../docs/badge/modelcontextprotocol.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://modelcontextprotocol.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

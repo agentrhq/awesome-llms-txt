@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Didoo
 
-![Score 56/100 — Grade C](../../docs/badge/didoo.ai.svg)
+![Score 56/100 · Grade C](../../docs/badge/didoo.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://didoo.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

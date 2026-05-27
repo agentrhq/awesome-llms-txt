@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vald
 
-![Score 44/100 — Grade D](../../docs/badge/www.vald.com.svg)
+![Score 44/100 · Grade D](../../docs/badge/www.vald.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.vald.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

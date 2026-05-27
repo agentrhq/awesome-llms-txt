@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Turso
 
-![Score 57/100 — Grade C](../../docs/badge/turso.tech.svg)
+![Score 57/100 · Grade C](../../docs/badge/turso.tech.svg)
 
 Category: **data** · [Live llms.txt](https://turso.tech/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

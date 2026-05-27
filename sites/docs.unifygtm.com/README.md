@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Unify
 
-![Score 76/100 — Grade B+](../../docs/badge/docs.unifygtm.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/docs.unifygtm.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.unifygtm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

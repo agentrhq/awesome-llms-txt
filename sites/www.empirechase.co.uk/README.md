@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Empirechase
 
-![Score 41/100 — Grade D](../../docs/badge/www.empirechase.co.uk.svg)
+![Score 41/100 · Grade D](../../docs/badge/www.empirechase.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.empirechase.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

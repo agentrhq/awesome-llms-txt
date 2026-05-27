@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fabric
 
-![Score 72/100 — Grade B](../../docs/badge/developer.fabric.inc.svg)
+![Score 72/100 · Grade B](../../docs/badge/developer.fabric.inc.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developer.fabric.inc/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

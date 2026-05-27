@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ideogram
 
-![Score 58/100 — Grade C](../../docs/badge/docs.ideogram.ai.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.ideogram.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.ideogram.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

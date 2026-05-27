@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # OneTrust Developer Portal Documentation
 
-![Score 69/100 — Grade B](../../docs/badge/developer.onetrust.com.svg)
+![Score 69/100 · Grade B](../../docs/badge/developer.onetrust.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developer.onetrust.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

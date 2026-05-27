@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Doc2lang
 
-![Score 51/100 — Grade C](../../docs/badge/doc2lang.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/doc2lang.com.svg)
 
 Category: **content** · [Live llms.txt](https://doc2lang.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

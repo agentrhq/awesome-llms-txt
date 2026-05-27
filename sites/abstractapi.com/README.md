@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Abstract API
 
-![Score 66/100 — Grade B](../../docs/badge/abstractapi.com.svg)
+![Score 66/100 · Grade B](../../docs/badge/abstractapi.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.abstractapi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

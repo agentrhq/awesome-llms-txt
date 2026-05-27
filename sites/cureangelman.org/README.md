@@ -15,7 +15,7 @@ freshness_age_days: 63
 
 # Cureangelman
 
-![Score 60/100 — Grade C](../../docs/badge/cureangelman.org.svg)
+![Score 60/100 · Grade C](../../docs/badge/cureangelman.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cureangelman.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Replicate
 
-![Score 46/100 — Grade D](../../docs/badge/replicate.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/replicate.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://replicate.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

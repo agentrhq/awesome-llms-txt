@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Docs
 
-![Score 49/100 — Grade D](../../docs/badge/zap-ts.alexandretrotel.org.svg)
+![Score 49/100 · Grade D](../../docs/badge/zap-ts.alexandretrotel.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.zapstudio.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

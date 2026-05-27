@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chakra UI
 
-![Score 55/100 — Grade C](../../docs/badge/www.chakra-ui.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/www.chakra-ui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.chakra-ui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

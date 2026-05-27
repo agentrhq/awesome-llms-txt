@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Documentation
 
-![Score 71/100 — Grade B](../../docs/badge/vercel.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/vercel.com.svg)
 
 Category: **infra** · [Live llms.txt](https://vercel.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

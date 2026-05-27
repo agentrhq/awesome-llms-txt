@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Clouve
 
-![Score 51/100 — Grade C](../../docs/badge/www.clouve.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/www.clouve.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.clouve.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

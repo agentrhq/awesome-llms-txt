@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # LogLayer
 
-![Score 60/100 — Grade C](../../docs/badge/loglayer.dev.svg)
+![Score 60/100 · Grade C](../../docs/badge/loglayer.dev.svg)
 
 Category: **comms** · [Live llms.txt](https://loglayer.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

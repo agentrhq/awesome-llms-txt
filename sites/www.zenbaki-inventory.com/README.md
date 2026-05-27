@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zenbaki Inventory
 
-![Score 60/100 — Grade C](../../docs/badge/www.zenbaki-inventory.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.zenbaki-inventory.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.zenbaki-inventory.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

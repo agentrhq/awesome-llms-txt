@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # app
 
-![Score 52/100 — Grade C](../../docs/badge/lmstudio.ai.svg)
+![Score 52/100 · Grade C](../../docs/badge/lmstudio.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://lmstudio.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

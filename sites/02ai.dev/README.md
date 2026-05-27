@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 02ai
 
-![Score 49/100 — Grade D](../../docs/badge/02ai.dev.svg)
+![Score 49/100 · Grade D](../../docs/badge/02ai.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://02ai.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

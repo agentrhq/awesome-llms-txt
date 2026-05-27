@@ -15,7 +15,7 @@ freshness_age_days: 388
 
 # Positrixpower
 
-![Score 26/100 — Grade F](../../docs/badge/www.positrixpower.com.svg)
+![Score 26/100 · Grade F](../../docs/badge/www.positrixpower.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.positrixpower.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

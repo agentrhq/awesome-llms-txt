@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Global Chat
 
-![Score 57/100 — Grade C](../../docs/badge/global-chat.io.svg)
+![Score 57/100 · Grade C](../../docs/badge/global-chat.io.svg)
 
 Category: **comms** · [Live llms.txt](https://global-chat.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

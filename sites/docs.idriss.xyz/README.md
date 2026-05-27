@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 54/100 — Grade C](../../docs/badge/docs.idriss.xyz.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.idriss.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.idriss.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

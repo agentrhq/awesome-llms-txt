@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # StarDream Cruises -
 
-![Score 51/100 — Grade C](../../docs/badge/games.stardreamcruises.com.svg)
+![Score 51/100 · Grade C](../../docs/badge/games.stardreamcruises.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://games.stardreamcruises.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

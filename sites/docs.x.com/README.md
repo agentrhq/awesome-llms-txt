@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # X Developer Platform
 
-![Score 80/100 — Grade A-](../../docs/badge/docs.x.com.svg)
+![Score 80/100 · Grade A-](../../docs/badge/docs.x.com.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.x.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

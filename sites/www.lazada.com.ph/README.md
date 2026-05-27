@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lazada
 
-![Score 43/100 — Grade D](../../docs/badge/www.lazada.com.ph.svg)
+![Score 43/100 · Grade D](../../docs/badge/www.lazada.com.ph.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.lazada.com.ph/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

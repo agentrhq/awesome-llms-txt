@@ -15,7 +15,7 @@ freshness_age_days: 139
 
 # Protonxmedia
 
-![Score 33/100 — Grade F](../../docs/badge/protonxmedia.com.svg)
+![Score 33/100 · Grade F](../../docs/badge/protonxmedia.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://protonxmedia.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

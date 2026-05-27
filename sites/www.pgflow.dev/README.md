@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pgflow
 
-![Score 52/100 — Grade C](../../docs/badge/www.pgflow.dev.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.pgflow.dev.svg)
 
 Category: **data** · [Live llms.txt](https://www.pgflow.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

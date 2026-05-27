@@ -15,7 +15,7 @@ freshness_age_days: 98
 
 # Codeant
 
-![Score 27/100 — Grade F](../../docs/badge/www.codeant.ai.svg)
+![Score 27/100 · Grade F](../../docs/badge/www.codeant.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.codeant.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

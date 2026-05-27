@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # WorkOS
 
-![Score 77/100 — Grade B+](../../docs/badge/workos.com.svg)
+![Score 77/100 · Grade B+](../../docs/badge/workos.com.svg)
 
 Category: **auth** · [Live llms.txt](https://workos.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

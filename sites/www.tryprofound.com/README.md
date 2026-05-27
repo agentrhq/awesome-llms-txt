@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Profound
 
-![Score 58/100 — Grade C](../../docs/badge/www.tryprofound.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/www.tryprofound.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.tryprofound.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

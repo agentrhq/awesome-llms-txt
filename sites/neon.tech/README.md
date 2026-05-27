@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Neon
 
-![Score 89/100 — Grade A](../../docs/badge/neon.tech.svg)
+![Score 89/100 · Grade A](../../docs/badge/neon.tech.svg)
 
 Category: **data** · [Live llms.txt](https://neon.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

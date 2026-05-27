@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Metabar Wise Nutrition
 
-![Score 56/100 — Grade C](../../docs/badge/www.metabarwise.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/www.metabarwise.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.metabarwise.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

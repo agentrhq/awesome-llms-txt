@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 退職あんしん代行
 
-![Score 57/100 — Grade C](../../docs/badge/taishoku-anshin-daiko.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/taishoku-anshin-daiko.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://taishoku-anshin-daiko.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

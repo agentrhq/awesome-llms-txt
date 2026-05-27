@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # PrompTessor
 
-![Score 55/100 — Grade C](../../docs/badge/promptessor.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/promptessor.com.svg)
 
 Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

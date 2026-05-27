@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Catizen Docs
 
-![Score 57/100 — Grade C](../../docs/badge/docs.catizen.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.catizen.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.catizen.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

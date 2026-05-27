@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # AI Squared
 
-![Score 74/100 — Grade B](../../docs/badge/docs.squared.ai.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.squared.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.squared.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

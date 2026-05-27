@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # IoTeX Documentation
 
-![Score 65/100 — Grade B](../../docs/badge/docs.iotex.io.svg)
+![Score 65/100 · Grade B](../../docs/badge/docs.iotex.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.iotex.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

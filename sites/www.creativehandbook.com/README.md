@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Creativehandbook
 
-![Score 30/100 — Grade F](../../docs/badge/www.creativehandbook.com.svg)
+![Score 30/100 · Grade F](../../docs/badge/www.creativehandbook.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.creativehandbook.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

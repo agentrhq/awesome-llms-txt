@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Baseten
 
-![Score 75/100 — Grade B+](../../docs/badge/docs.baseten.co.svg)
+![Score 75/100 · Grade B+](../../docs/badge/docs.baseten.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.baseten.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

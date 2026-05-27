@@ -15,7 +15,7 @@ freshness_age_days: 134
 
 # Jedox
 
-![Score 57/100 — Grade C](../../docs/badge/www.jedox.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.jedox.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.jedox.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pydantic Validation (Latest)
 
-![Score 68/100 — Grade B](../../docs/badge/docs.pydantic.dev.svg)
+![Score 68/100 · Grade B](../../docs/badge/docs.pydantic.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pydantic.dev/docs/validation/latest/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

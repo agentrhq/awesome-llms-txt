@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../docs/badge/www.clbconsult.com.svg)
+![Score 41/100 · Grade D](../../docs/badge/www.clbconsult.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.clbconsult.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

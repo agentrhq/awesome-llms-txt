@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Finch
 
-![Score 76/100 — Grade B+](../../docs/badge/developer.tryfinch.com.svg)
+![Score 76/100 · Grade B+](../../docs/badge/developer.tryfinch.com.svg)
 
 Category: **data** · [Live llms.txt](https://developer.tryfinch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

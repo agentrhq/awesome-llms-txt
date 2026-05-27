@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Across Protocol Documentation
 
-![Score 67/100 — Grade B](../../docs/badge/docs.across.to.svg)
+![Score 67/100 · Grade B](../../docs/badge/docs.across.to.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.across.to/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

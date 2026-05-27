@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Preact Documentation
 
-![Score 49/100 — Grade D](../../docs/badge/preactjs.com.svg)
+![Score 49/100 · Grade D](../../docs/badge/preactjs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://preactjs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cardless ID
 
-![Score 66/100 — Grade B](../../docs/badge/cardlessid.org.svg)
+![Score 66/100 · Grade B](../../docs/badge/cardlessid.org.svg)
 
 Category: **auth** · [Live llms.txt](https://cardlessid.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

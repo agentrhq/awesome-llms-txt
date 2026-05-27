@@ -15,7 +15,7 @@ freshness_age_days: 474
 
 # Website Information
 
-![Score 31/100 — Grade F](../../docs/badge/www.superskills.co.uk.svg)
+![Score 31/100 · Grade F](../../docs/badge/www.superskills.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.superskills.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Adyen Docs
 
-![Score 78/100 — Grade B+](../../docs/badge/docs.adyen.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/docs.adyen.com.svg)
 
 Category: **billing** · [Live llms.txt](https://docs.adyen.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zenml
 
-![Score 59/100 — Grade C](../../docs/badge/www.zenml.io.svg)
+![Score 59/100 · Grade C](../../docs/badge/www.zenml.io.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.zenml.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

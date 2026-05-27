@@ -74,7 +74,7 @@ function probeHttp(url, redirectsLeft = 3) {
       res.resume();
       // Some servers reject HEAD; treat 405/501 specially.
       if (res.statusCode === 405 || res.statusCode === 501) {
-        return resolve(probeHttp(url, 0)); // not very useful — but we mark inconclusive
+        return resolve(probeHttp(url, 0)); // not very useful, but we mark inconclusive
       }
       resolve({ status: res.statusCode });
     });
@@ -158,7 +158,7 @@ async function probe(url) {
     pump();
   });
 
-  // 3) Same-page anchors — verify against rendered headings.
+  // 3) Same-page anchors. Verify against rendered headings.
   function slugify(s) {
     return s.toLowerCase()
       .replace(/[^a-z0-9\s-]/g, '')

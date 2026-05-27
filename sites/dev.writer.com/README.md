@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Writer AI Studio
 
-![Score 71/100 — Grade B](../../docs/badge/dev.writer.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/dev.writer.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dev.writer.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -6,7 +6,7 @@ const path = require('path');
 const { score, RUBRIC } = require('../lib/score');
 const { fetchText, checkLinkSample } = require('../lib/fetch');
 
-const HELP = `llms-txt-score — score an llms.txt file against the public rubric.
+const HELP = `llms-txt-score · score an llms.txt file against the public rubric.
 
 Usage:
   llms-txt-score <url-or-file> [options]

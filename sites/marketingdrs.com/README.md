@@ -15,7 +15,7 @@ freshness_age_days: 337
 
 # Marketingdrs
 
-![Score 28/100 — Grade F](../../docs/badge/marketingdrs.com.svg)
+![Score 28/100 · Grade F](../../docs/badge/marketingdrs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://marketingdrs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

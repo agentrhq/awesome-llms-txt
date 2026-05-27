@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Boehs
 
-![Score 37/100 — Grade D](../../docs/badge/boehs.org.svg)
+![Score 37/100 · Grade D](../../docs/badge/boehs.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://boehs.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

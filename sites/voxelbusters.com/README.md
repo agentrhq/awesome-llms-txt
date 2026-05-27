@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Voxelbusters
 
-![Score 46/100 — Grade D](../../docs/badge/voxelbusters.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/voxelbusters.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.voxelbusters.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

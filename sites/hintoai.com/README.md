@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Hinto AI
 
-![Score 62/100 — Grade C](../../docs/badge/hintoai.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/hintoai.com.svg)
 
 Category: **comms** · [Live llms.txt](https://hintoai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Lugg
 
-![Score 62/100 — Grade C](../../docs/badge/lugg.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/lugg.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

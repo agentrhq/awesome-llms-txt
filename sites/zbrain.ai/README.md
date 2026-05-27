@@ -15,7 +15,7 @@ freshness_age_days: 215
 
 # Zbrain
 
-![Score 60/100 — Grade C](../../docs/badge/zbrain.ai.svg)
+![Score 60/100 · Grade C](../../docs/badge/zbrain.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://zbrain.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

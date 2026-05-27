@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Silicon Friendly
 
-![Score 59/100 — Grade C](../../docs/badge/siliconfriendly.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/siliconfriendly.com.svg)
 
 Category: **auth** · [Live llms.txt](https://siliconfriendly.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

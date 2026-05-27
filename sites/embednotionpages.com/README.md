@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Embednotionpages
 
-![Score 45/100 — Grade D](../../docs/badge/embednotionpages.com.svg)
+![Score 45/100 · Grade D](../../docs/badge/embednotionpages.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.embednotionpages.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

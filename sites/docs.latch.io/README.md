@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Latch Docs
 
-![Score 54/100 — Grade C](../../docs/badge/docs.latch.io.svg)
+![Score 54/100 · Grade C](../../docs/badge/docs.latch.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.latch.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

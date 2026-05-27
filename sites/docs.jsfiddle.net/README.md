@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # JSFiddle Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.jsfiddle.net.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.jsfiddle.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.jsfiddle.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Opik Documentation
 
-![Score 46/100 — Grade D](../../docs/badge/www.comet.com.svg)
+![Score 46/100 · Grade D](../../docs/badge/www.comet.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.comet.com/docs/opik/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

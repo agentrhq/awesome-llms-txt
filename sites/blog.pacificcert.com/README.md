@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # About
 
-![Score 43/100 — Grade D](../../docs/badge/blog.pacificcert.com.svg)
+![Score 43/100 · Grade D](../../docs/badge/blog.pacificcert.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://blog.pacificcert.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

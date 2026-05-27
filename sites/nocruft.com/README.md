@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # No Cruft
 
-![Score 64/100 — Grade C](../../docs/badge/nocruft.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/nocruft.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nocruft.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

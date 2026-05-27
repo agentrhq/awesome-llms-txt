@@ -15,7 +15,7 @@ freshness_age_days: 32
 
 # Sgnl
 
-![Score 57/100 — Grade C](../../docs/badge/sgnl.ai.svg)
+![Score 57/100 · Grade C](../../docs/badge/sgnl.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sgnl.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

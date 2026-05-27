@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kitazawa Portfolio
 
-![Score 58/100 — Grade C](../../docs/badge/kitazawa.dev.svg)
+![Score 58/100 · Grade C](../../docs/badge/kitazawa.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kitazawa.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

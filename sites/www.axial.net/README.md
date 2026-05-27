@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Axial - LLM Orientation File
 
-![Score 63/100 — Grade C](../../docs/badge/www.axial.net.svg)
+![Score 63/100 · Grade C](../../docs/badge/www.axial.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.axial.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

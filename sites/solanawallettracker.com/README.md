@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sol Wallet Tracker
 
-![Score 54/100 — Grade C](../../docs/badge/solanawallettracker.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/solanawallettracker.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.solwallettracker.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Lavita AI
 
-![Score 66/100 — Grade B](../../docs/badge/docs.lavita.ai.svg)
+![Score 66/100 · Grade B](../../docs/badge/docs.lavita.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.lavita.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

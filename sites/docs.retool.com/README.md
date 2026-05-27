@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Retool Documentation
 
-![Score 73/100 — Grade B](../../docs/badge/docs.retool.com.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.retool.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.retool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

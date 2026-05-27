@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cartography
 
-![Score 57/100 — Grade C](../../docs/badge/www.cartography.capital.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.cartography.capital.svg)
 
 Category: **billing** · [Live llms.txt](https://www.cartography.capital/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

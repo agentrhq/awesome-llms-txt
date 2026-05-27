@@ -15,7 +15,7 @@ freshness_age_days: 455
 
 # Pastaclean
 
-![Score 36/100 — Grade D](../../docs/badge/www.pastaclean.tv.svg)
+![Score 36/100 · Grade D](../../docs/badge/www.pastaclean.tv.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.pastaclean.tv/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

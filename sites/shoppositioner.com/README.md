@@ -15,7 +15,7 @@ freshness_age_days: 314
 
 # Shop Positioner LLC
 
-![Score 50/100 — Grade C](../../docs/badge/shoppositioner.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/shoppositioner.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://shoppositioner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

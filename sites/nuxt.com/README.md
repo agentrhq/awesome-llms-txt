@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Nuxt Docs
 
-![Score 78/100 — Grade B+](../../docs/badge/nuxt.com.svg)
+![Score 78/100 · Grade B+](../../docs/badge/nuxt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nuxt.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

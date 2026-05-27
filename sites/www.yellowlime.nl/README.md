@@ -15,7 +15,7 @@ freshness_age_days: 320
 
 # Yellowlime
 
-![Score 29/100 — Grade F](../../docs/badge/www.yellowlime.nl.svg)
+![Score 29/100 · Grade F](../../docs/badge/www.yellowlime.nl.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.yellowlime.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DadSEO
 
-![Score 54/100 — Grade C](../../docs/badge/getdadseo.com.svg)
+![Score 54/100 · Grade C](../../docs/badge/getdadseo.com.svg)
 
 Category: **observability** · [Live llms.txt](https://getdadseo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

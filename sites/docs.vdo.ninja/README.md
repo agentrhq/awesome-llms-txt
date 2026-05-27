@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ninja Docs
 
-![Score 59/100 — Grade C](../../docs/badge/docs.vdo.ninja.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.vdo.ninja.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vdo.ninja/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

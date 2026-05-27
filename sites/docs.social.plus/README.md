@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Social Docs
 
-![Score 59/100 — Grade C](../../docs/badge/docs.social.plus.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.social.plus.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.social.plus/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

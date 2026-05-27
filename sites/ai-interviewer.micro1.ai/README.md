@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # micro1 API
 
-![Score 70/100 — Grade B](../../docs/badge/ai-interviewer.micro1.ai.svg)
+![Score 70/100 · Grade B](../../docs/badge/ai-interviewer.micro1.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ai-recruiter.micro1.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

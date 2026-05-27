@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bitcoin
 
-![Score 61/100 — Grade C](../../docs/badge/www.bitcoin.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.bitcoin.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.bitcoin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

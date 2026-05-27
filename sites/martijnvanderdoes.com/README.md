@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LLM Index
 
-![Score 47/100 — Grade D](../../docs/badge/martijnvanderdoes.com.svg)
+![Score 47/100 · Grade D](../../docs/badge/martijnvanderdoes.com.svg)
 
 Category: **infra** · [Live llms.txt](https://martijnvanderdoes.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

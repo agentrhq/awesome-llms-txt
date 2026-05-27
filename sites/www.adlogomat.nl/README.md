@@ -15,7 +15,7 @@ freshness_age_days: 202
 
 # Adlogomat
 
-![Score 28/100 — Grade F](../../docs/badge/www.adlogomat.nl.svg)
+![Score 28/100 · Grade F](../../docs/badge/www.adlogomat.nl.svg)
 
 Category: **comms** · [Live llms.txt](https://www.adlogomat.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

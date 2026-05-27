@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cybernoz
 
-![Score 61/100 — Grade C](../../docs/badge/cybernoz.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/cybernoz.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cybernoz.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

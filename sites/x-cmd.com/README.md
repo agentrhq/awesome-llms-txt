@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # X-CMD
 
-![Score 50/100 — Grade C](../../docs/badge/x-cmd.com.svg)
+![Score 50/100 · Grade C](../../docs/badge/x-cmd.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.x-cmd.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

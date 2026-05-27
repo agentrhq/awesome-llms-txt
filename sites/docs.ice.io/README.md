@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ice Open Network
 
-![Score 55/100 — Grade C](../../docs/badge/docs.ice.io.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.ice.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.ice.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

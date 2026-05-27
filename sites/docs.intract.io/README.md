@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Community Guide
 
-![Score 61/100 — Grade C](../../docs/badge/docs.intract.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.intract.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.intract.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

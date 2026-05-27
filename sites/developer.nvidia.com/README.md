@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # NVIDIA Developer
 
-![Score 68/100 — Grade B](../../docs/badge/developer.nvidia.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/developer.nvidia.com.svg)
 
 Category: **infra** · [Live llms.txt](https://developer.nvidia.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 371
 
 # Tagshop
 
-![Score 55/100 — Grade C](../../docs/badge/tagshop.ai.svg)
+![Score 55/100 · Grade C](../../docs/badge/tagshop.ai.svg)
 
 Category: **content** · [Live llms.txt](https://tagshop.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

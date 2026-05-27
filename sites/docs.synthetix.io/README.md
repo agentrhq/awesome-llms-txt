@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Synthetix
 
-![Score 61/100 — Grade C](../../docs/badge/docs.synthetix.io.svg)
+![Score 61/100 · Grade C](../../docs/badge/docs.synthetix.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.synthetix.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

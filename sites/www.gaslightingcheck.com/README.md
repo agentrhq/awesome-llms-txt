@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Gaslighting Check
 
-![Score 60/100 — Grade C](../../docs/badge/www.gaslightingcheck.com.svg)
+![Score 60/100 · Grade C](../../docs/badge/www.gaslightingcheck.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gaslightingcheck.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

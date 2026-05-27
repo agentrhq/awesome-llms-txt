@@ -15,7 +15,7 @@ freshness_age_days: 112
 
 # Bighub
 
-![Score 50/100 — Grade C](../../docs/badge/bighub.ai.svg)
+![Score 50/100 · Grade C](../../docs/badge/bighub.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://cdn.prod.website-files.com/6826e1215f604a777c6ba5bc/6981d70f256f508367cee072_llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

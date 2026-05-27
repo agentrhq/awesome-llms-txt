@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # SpacePrompts
 
-![Score 70/100 — Grade B](../../docs/badge/www.spaceprompts.com.svg)
+![Score 70/100 · Grade B](../../docs/badge/www.spaceprompts.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.spaceprompts.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

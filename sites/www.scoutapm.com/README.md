@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Scout Monitoring
 
-![Score 62/100 — Grade C](../../docs/badge/www.scoutapm.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/www.scoutapm.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

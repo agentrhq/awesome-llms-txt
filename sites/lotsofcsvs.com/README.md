@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lotsofcsvs
 
-![Score 44/100 — Grade D](../../docs/badge/lotsofcsvs.com.svg)
+![Score 44/100 · Grade D](../../docs/badge/lotsofcsvs.com.svg)
 
 Category: **data** · [Live llms.txt](https://lotsofcsvs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

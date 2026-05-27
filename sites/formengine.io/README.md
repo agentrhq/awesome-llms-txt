@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # FormEngine LLM Index
 
-![Score 70/100 — Grade B](../../docs/badge/formengine.io.svg)
+![Score 70/100 · Grade B](../../docs/badge/formengine.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://formengine.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Demex Docs
 
-![Score 55/100 — Grade C](../../docs/badge/docs.carbon.network.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.carbon.network.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://guide.dem.exchange:443/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Rimward
 
-![Score 54/100 — Grade C](../../docs/badge/rimward.ai.svg)
+![Score 54/100 · Grade C](../../docs/badge/rimward.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://rimward.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

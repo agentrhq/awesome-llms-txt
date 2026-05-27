@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # jobdata API
 
-![Score 64/100 — Grade C](../../docs/badge/jobdataapi.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/jobdataapi.com.svg)
 
 Category: **observability** · [Live llms.txt](https://jobdataapi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

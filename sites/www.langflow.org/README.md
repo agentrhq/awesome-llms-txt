@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Langflow
 
-![Score 40/100 — Grade D](../../docs/badge/www.langflow.org.svg)
+![Score 40/100 · Grade D](../../docs/badge/www.langflow.org.svg)
 
 Category: **infra** · [Live llms.txt](https://www.langflow.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

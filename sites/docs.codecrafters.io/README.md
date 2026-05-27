@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # CodeCrafters
 
-![Score 67/100 — Grade B](../../docs/badge/docs.codecrafters.io.svg)
+![Score 67/100 · Grade B](../../docs/badge/docs.codecrafters.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.codecrafters.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

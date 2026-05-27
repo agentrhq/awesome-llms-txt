@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Truststvincent
 
-![Score 61/100 — Grade C](../../docs/badge/truststvincent.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/truststvincent.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://truststvincent.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

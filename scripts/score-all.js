@@ -70,7 +70,7 @@ freshness_age_days: ${freshness && freshness.age_days != null ? freshness.age_da
 
 # ${display_name}
 
-![Score ${result.score}/${100} — Grade ${result.grade}](${badgeURL})
+![Score ${result.score}/${100} · Grade ${result.grade}](${badgeURL})
 
 Category: **${category}** · [Live llms.txt](${verifiedUrl}) · Snapshot: [\`llms.txt\`](./llms.txt) · Machine-readable: [\`score.json\`](./score.json)
 
@@ -130,7 +130,7 @@ function main() {
   const accepted = results.filter(r => r.accepted);
   console.error(`scoring ${accepted.length} accepted sites…`);
 
-  // De-dupe by domain (keep the highest size_bytes — usually the most complete copy).
+  // De-dupe by domain (keep the highest size_bytes, which is usually the most complete copy).
   const byDomain = new Map();
   for (const r of accepted) {
     const prior = byDomain.get(r.domain);

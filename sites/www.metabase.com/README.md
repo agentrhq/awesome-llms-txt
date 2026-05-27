@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Metabase
 
-![Score 77/100 — Grade B+](../../docs/badge/www.metabase.com.svg)
+![Score 77/100 · Grade B+](../../docs/badge/www.metabase.com.svg)
 
 Category: **data** · [Live llms.txt](https://www.metabase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

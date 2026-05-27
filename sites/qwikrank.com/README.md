@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Qwikrank
 
-![Score 58/100 — Grade C](../../docs/badge/qwikrank.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/qwikrank.com.svg)
 
 Category: **infra** · [Live llms.txt](https://qwikrank.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

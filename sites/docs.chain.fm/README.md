@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 55/100 — Grade C](../../docs/badge/docs.chain.fm.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.chain.fm.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chain.fm/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

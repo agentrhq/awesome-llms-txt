@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Circleci
 
-![Score 36/100 — Grade D](../../docs/badge/circleci.com.svg)
+![Score 36/100 · Grade D](../../docs/badge/circleci.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://circleci.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

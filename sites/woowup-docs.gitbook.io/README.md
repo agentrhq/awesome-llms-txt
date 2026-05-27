@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # WoowUp Developer Docs
 
-![Score 55/100 — Grade C](../../docs/badge/woowup-docs.gitbook.io.svg)
+![Score 55/100 · Grade C](../../docs/badge/woowup-docs.gitbook.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://woowup-docs.gitbook.io/woowup-developer-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

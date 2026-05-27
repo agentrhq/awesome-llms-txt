@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Amplitude
 
-![Score 59/100 — Grade C](../../docs/badge/amplitude.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/amplitude.com.svg)
 
 Category: **observability** · [Live llms.txt](https://amplitude.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

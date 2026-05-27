@@ -15,7 +15,7 @@ freshness_age_days: 275
 
 # Carolmcewan
 
-![Score 42/100 — Grade D](../../docs/badge/www.carolmcewan.scot.svg)
+![Score 42/100 · Grade D](../../docs/badge/www.carolmcewan.scot.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.carolmcewan.scot/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

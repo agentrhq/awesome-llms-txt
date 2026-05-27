@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # SourceForge
 
-![Score 65/100 — Grade B](../../docs/badge/docs.sourceforge.net.svg)
+![Score 65/100 · Grade B](../../docs/badge/docs.sourceforge.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.sourceforge.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

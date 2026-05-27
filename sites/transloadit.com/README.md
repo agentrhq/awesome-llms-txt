@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Transloadit
 
-![Score 68/100 — Grade B](../../docs/badge/transloadit.com.svg)
+![Score 68/100 · Grade B](../../docs/badge/transloadit.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://transloadit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 169
 
 # MeetCalc
 
-![Score 55/100 — Grade C](../../docs/badge/meetcalc.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/meetcalc.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://meetcalc.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

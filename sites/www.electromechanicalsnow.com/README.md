@@ -15,7 +15,7 @@ freshness_age_days: 218
 
 # Electromechanicalsnow
 
-![Score 43/100 — Grade D](../../docs/badge/www.electromechanicalsnow.com.svg)
+![Score 43/100 · Grade D](../../docs/badge/www.electromechanicalsnow.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.electromechanicalsnow.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

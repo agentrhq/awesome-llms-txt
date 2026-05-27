@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # De Docs
 
-![Score 56/100 — Grade C](../../docs/badge/docs.de.fi.svg)
+![Score 56/100 · Grade C](../../docs/badge/docs.de.fi.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.de.fi/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Upstaff
 
-![Score 62/100 — Grade C](../../docs/badge/upstaff.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/upstaff.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://upstaff.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

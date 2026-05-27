@@ -15,7 +15,7 @@ freshness_age_days: 24
 
 # Heykel
 
-![Score 48/100 — Grade D](../../docs/badge/www.heykel.org.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.heykel.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.heykel.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

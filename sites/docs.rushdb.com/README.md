@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # RushDB Docs
 
-![Score 63/100 — Grade C](../../docs/badge/docs.rushdb.com.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.rushdb.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.rushdb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

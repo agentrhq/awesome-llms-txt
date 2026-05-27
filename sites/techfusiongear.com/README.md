@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Techfusiongear
 
-![Score 62/100 — Grade C](../../docs/badge/techfusiongear.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/techfusiongear.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://techfusiongear.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

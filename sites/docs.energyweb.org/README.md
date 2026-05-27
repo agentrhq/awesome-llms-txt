@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Energy Web Documentation
 
-![Score 63/100 — Grade C](../../docs/badge/docs.energyweb.org.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.energyweb.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.energyweb.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

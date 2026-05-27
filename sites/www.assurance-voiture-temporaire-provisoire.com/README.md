@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Assurance Voiture Temporaire Provisoire
 
-![Score 26/100 — Grade F](../../docs/badge/www.assurance-voiture-temporaire-provisoire.com.svg)
+![Score 26/100 · Grade F](../../docs/badge/www.assurance-voiture-temporaire-provisoire.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.assurance-voiture-temporaire-provisoire.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

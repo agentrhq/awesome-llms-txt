@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Petitebox
 
-![Score 53/100 — Grade C](../../docs/badge/www.petitebox.it.svg)
+![Score 53/100 · Grade C](../../docs/badge/www.petitebox.it.svg)
 
 Category: **auth** · [Live llms.txt](https://www.petitebox.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

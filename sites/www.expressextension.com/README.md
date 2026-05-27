@@ -15,7 +15,7 @@ freshness_age_days: 61
 
 # Expressextension
 
-![Score 61/100 — Grade C](../../docs/badge/www.expressextension.com.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.expressextension.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.expressextension.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Llmgenerator
 
-![Score 55/100 — Grade C](../../docs/badge/llmgenerator.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/llmgenerator.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://llmgenerator.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

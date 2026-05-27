@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Chainbase Docs
 
-![Score 77/100 — Grade B+](../../docs/badge/docs.chainbase.com.svg)
+![Score 77/100 · Grade B+](../../docs/badge/docs.chainbase.com.svg)
 
 Category: **data** · [Live llms.txt](https://docs.chainbase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

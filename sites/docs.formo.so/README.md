@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Formo Docs
 
-![Score 78/100 — Grade B+](../../docs/badge/docs.formo.so.svg)
+![Score 78/100 · Grade B+](../../docs/badge/docs.formo.so.svg)
 
 Category: **observability** · [Live llms.txt](https://docs.formo.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

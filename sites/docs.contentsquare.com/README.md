@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Contentsquare Tech Docs
 
-![Score 74/100 — Grade B](../../docs/badge/docs.contentsquare.com.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.contentsquare.com.svg)
 
 Category: **observability** · [Live llms.txt](https://docs.contentsquare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

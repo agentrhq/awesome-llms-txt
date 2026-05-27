@@ -6832,20 +6832,6 @@
     "last_scored": "2026-05-27"
   },
   {
-    "domain": "www.manifest.ly",
-    "display_name": "Manifestly Checklists",
-    "category": "dev-tools",
-    "score": 59,
-    "grade": "C",
-    "file_size_bytes": 2458,
-    "link_count": 25,
-    "value_link_count": 25,
-    "section_count": 2,
-    "freshness_age_days": 7,
-    "verified_url": "https://www.manifest.ly/llms.txt",
-    "last_scored": "2026-05-27"
-  },
-  {
     "domain": "docs.mantrachain.io",
     "display_name": "MANTRA Chain Documentation",
     "category": "dev-tools",
@@ -7403,6 +7389,20 @@
     "section_count": 1,
     "freshness_age_days": null,
     "verified_url": "https://docs.lottielab.com/llms.txt",
+    "last_scored": "2026-05-27"
+  },
+  {
+    "domain": "www.manifest.ly",
+    "display_name": "Manifestly Checklists",
+    "category": "dev-tools",
+    "score": 58,
+    "grade": "C",
+    "file_size_bytes": 2458,
+    "link_count": 25,
+    "value_link_count": 25,
+    "section_count": 2,
+    "freshness_age_days": 7,
+    "verified_url": "https://www.manifest.ly/llms.txt",
     "last_scored": "2026-05-27"
   },
   {

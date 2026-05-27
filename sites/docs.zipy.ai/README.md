@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zipy
 
-![Score 58/100 — Grade C](../../docs/badge/docs.zipy.ai.svg)
+![Score 58/100 · Grade C](../../docs/badge/docs.zipy.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zipy.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

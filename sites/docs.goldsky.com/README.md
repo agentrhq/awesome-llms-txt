@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Goldsky
 
-![Score 71/100 — Grade B](../../docs/badge/docs.goldsky.com.svg)
+![Score 71/100 · Grade B](../../docs/badge/docs.goldsky.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.goldsky.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

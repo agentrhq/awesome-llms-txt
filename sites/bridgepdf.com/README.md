@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # Bridgepdf
 
-![Score 55/100 — Grade C](../../docs/badge/bridgepdf.com.svg)
+![Score 55/100 · Grade C](../../docs/badge/bridgepdf.com.svg)
 
 Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

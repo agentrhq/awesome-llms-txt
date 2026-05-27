@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Nitro
 
-![Score 78/100 — Grade B+](../../docs/badge/nitro.build.svg)
+![Score 78/100 · Grade B+](../../docs/badge/nitro.build.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nitro.build/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

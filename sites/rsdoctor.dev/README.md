@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Rsdoctor
 
-![Score 60/100 — Grade C](../../docs/badge/rsdoctor.dev.svg)
+![Score 60/100 · Grade C](../../docs/badge/rsdoctor.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://rsdoctor.rs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

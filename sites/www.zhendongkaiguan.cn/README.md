@@ -15,7 +15,7 @@ freshness_age_days: 378
 
 # Zhendongkaiguan
 
-![Score 47/100 — Grade D](../../docs/badge/www.zhendongkaiguan.cn.svg)
+![Score 47/100 · Grade D](../../docs/badge/www.zhendongkaiguan.cn.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.zhendongkaiguan.cn/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

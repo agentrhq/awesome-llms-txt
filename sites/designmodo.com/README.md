@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Designmodo
 
-![Score 42/100 — Grade D](../../docs/badge/designmodo.com.svg)
+![Score 42/100 · Grade D](../../docs/badge/designmodo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://designmodo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

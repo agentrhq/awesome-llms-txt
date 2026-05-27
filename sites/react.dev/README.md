@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # React
 
-![Score 69/100 — Grade B](../../docs/badge/react.dev.svg)
+![Score 69/100 · Grade B](../../docs/badge/react.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://react.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

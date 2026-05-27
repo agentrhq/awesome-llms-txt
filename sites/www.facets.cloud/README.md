@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Facets
 
-![Score 52/100 — Grade C](../../docs/badge/www.facets.cloud.svg)
+![Score 52/100 · Grade C](../../docs/badge/www.facets.cloud.svg)
 
 Category: **infra** · [Live llms.txt](https://www.facets.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

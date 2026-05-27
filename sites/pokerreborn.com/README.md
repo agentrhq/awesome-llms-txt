@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Poker Reborn
 
-![Score 62/100 — Grade C](../../docs/badge/pokerreborn.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/pokerreborn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pokerreborn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

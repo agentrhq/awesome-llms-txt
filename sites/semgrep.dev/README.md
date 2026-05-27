@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Semgrep
 
-![Score 62/100 — Grade C](../../docs/badge/semgrep.dev.svg)
+![Score 62/100 · Grade C](../../docs/badge/semgrep.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://semgrep.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DuckDB
 
-![Score 60/100 — Grade C](../../docs/badge/duckdb.org.svg)
+![Score 60/100 · Grade C](../../docs/badge/duckdb.org.svg)
 
 Category: **data** · [Live llms.txt](https://duckdb.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

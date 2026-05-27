@@ -15,7 +15,7 @@ freshness_age_days: 340
 
 # Greece Vacation Search
 
-![Score 53/100 — Grade C](../../docs/badge/www.greecevacationsearch.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/www.greecevacationsearch.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.greecevacationsearch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

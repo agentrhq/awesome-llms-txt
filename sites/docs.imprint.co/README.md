@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Imprint Docs
 
-![Score 73/100 — Grade B](../../docs/badge/docs.imprint.co.svg)
+![Score 73/100 · Grade B](../../docs/badge/docs.imprint.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imprint.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

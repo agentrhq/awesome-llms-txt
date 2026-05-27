@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Site
 
-![Score 53/100 — Grade C](../../docs/badge/workbookly.app.svg)
+![Score 53/100 · Grade C](../../docs/badge/workbookly.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://workbookly.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

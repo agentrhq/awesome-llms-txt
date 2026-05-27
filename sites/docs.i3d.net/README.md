@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # I3d Docs
 
-![Score 62/100 — Grade C](../../docs/badge/docs.i3d.net.svg)
+![Score 62/100 · Grade C](../../docs/badge/docs.i3d.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.i3d.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ave Docs
 
-![Score 55/100 — Grade C](../../docs/badge/docs.ave.ai.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.ave.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.ave.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Claw-Stack
 
-![Score 58/100 — Grade C](../../docs/badge/claw-stack.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/claw-stack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://claw-stack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

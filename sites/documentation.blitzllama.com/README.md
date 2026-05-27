@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Blitzllama Documentation
 
-![Score 56/100 — Grade C](../../docs/badge/documentation.blitzllama.com.svg)
+![Score 56/100 · Grade C](../../docs/badge/documentation.blitzllama.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://documentation.blitzllama.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

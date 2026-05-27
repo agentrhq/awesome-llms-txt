@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../docs/badge/akademicevre.com.svg)
+![Score 39/100 · Grade D](../../docs/badge/akademicevre.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://akademicevre.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

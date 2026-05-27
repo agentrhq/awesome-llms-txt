@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # OmniAI Docs
 
-![Score 63/100 — Grade C](../../docs/badge/docs.getomni.ai.svg)
+![Score 63/100 · Grade C](../../docs/badge/docs.getomni.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.getomni.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

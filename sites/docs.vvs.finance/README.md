@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VVS Finance
 
-![Score 57/100 — Grade C](../../docs/badge/docs.vvs.finance.svg)
+![Score 57/100 · Grade C](../../docs/badge/docs.vvs.finance.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vvs.finance/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

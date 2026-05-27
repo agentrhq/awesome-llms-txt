@@ -15,7 +15,7 @@ freshness_age_days: 43
 
 # Quodat
 
-![Score 62/100 — Grade C](../../docs/badge/quodat.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/quodat.com.svg)
 
 Category: **content** · [Live llms.txt](https://quodat.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

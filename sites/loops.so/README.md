@@ -15,7 +15,7 @@ freshness_age_days: 169
 
 # Loops
 
-![Score 66/100 — Grade B](../../docs/badge/loops.so.svg)
+![Score 66/100 · Grade B](../../docs/badge/loops.so.svg)
 
 Category: **comms** · [Live llms.txt](https://loops.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

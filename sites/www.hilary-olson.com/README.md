@@ -15,7 +15,7 @@ freshness_age_days: 73
 
 # Hilary Olson
 
-![Score 58/100 — Grade C](../../docs/badge/www.hilary-olson.com.svg)
+![Score 58/100 · Grade C](../../docs/badge/www.hilary-olson.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.hilary-olson.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

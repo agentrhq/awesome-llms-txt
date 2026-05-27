@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Conductor Docs
 
-![Score 74/100 — Grade B](../../docs/badge/docs.conductor.is.svg)
+![Score 74/100 · Grade B](../../docs/badge/docs.conductor.is.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.conductor.is/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

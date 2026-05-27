@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ChainGPT Documentation
 
-![Score 62/100 — Grade C](../../docs/badge/docs.chaingpt.org.svg)
+![Score 62/100 · Grade C](../../docs/badge/docs.chaingpt.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chaingpt.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

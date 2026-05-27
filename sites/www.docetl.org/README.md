@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Docetl
 
-![Score 61/100 — Grade C](../../docs/badge/www.docetl.org.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.docetl.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.docetl.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

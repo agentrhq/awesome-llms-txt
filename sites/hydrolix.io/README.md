@@ -15,7 +15,7 @@ freshness_age_days: 57
 
 # Hydrolix
 
-![Score 67/100 — Grade B](../../docs/badge/hydrolix.io.svg)
+![Score 67/100 · Grade B](../../docs/badge/hydrolix.io.svg)
 
 Category: **data** · [Live llms.txt](https://hydrolix.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

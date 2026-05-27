@@ -15,7 +15,7 @@ freshness_age_days: 74
 
 # Beeventure
 
-![Score 61/100 — Grade C](../../docs/badge/www.beeventure.de.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.beeventure.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.beeventure.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

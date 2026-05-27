@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Product Documentation
 
-![Score 59/100 — Grade C](../../docs/badge/docs.e6data.com.svg)
+![Score 59/100 · Grade C](../../docs/badge/docs.e6data.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.e6data.com/product-documentation/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

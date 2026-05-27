@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # KiloEx
 
-![Score 55/100 — Grade C](../../docs/badge/docs.kiloex.io.svg)
+![Score 55/100 · Grade C](../../docs/badge/docs.kiloex.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kiloex.io/kiloex/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

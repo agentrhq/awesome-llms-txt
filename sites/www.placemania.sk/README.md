@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Placemania
 
-![Score 31/100 — Grade F](../../docs/badge/www.placemania.sk.svg)
+![Score 31/100 · Grade F](../../docs/badge/www.placemania.sk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.placemania.sk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

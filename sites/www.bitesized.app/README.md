@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Help Center
 
-![Score 48/100 — Grade D](../../docs/badge/www.bitesized.app.svg)
+![Score 48/100 · Grade D](../../docs/badge/www.bitesized.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.bitesized.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

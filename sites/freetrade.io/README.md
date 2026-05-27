@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Freetrade
 
-![Score 65/100 — Grade B](../../docs/badge/freetrade.io.svg)
+![Score 65/100 · Grade B](../../docs/badge/freetrade.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://freetrade.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

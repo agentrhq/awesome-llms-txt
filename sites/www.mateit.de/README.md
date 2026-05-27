@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Mate iT GmbH — Digital Architects
 
-![Score 50/100 — Grade C](../../docs/badge/www.mateit.de.svg)
+![Score 50/100 · Grade C](../../docs/badge/www.mateit.de.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.mateit.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Promptfoo
 
-![Score 61/100 — Grade C](../../docs/badge/www.promptfoo.dev.svg)
+![Score 61/100 · Grade C](../../docs/badge/www.promptfoo.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.promptfoo.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # xmcp
 
-![Score 72/100 — Grade B](../../docs/badge/xmcp.dev.svg)
+![Score 72/100 · Grade B](../../docs/badge/xmcp.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://xmcp.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

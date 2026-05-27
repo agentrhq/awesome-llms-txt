@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # IRC Sales Solutions
 
-![Score 53/100 — Grade C](../../docs/badge/ircsalessolutions.com.svg)
+![Score 53/100 · Grade C](../../docs/badge/ircsalessolutions.com.svg)
 
 Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

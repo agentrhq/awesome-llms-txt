@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 34/100 — Grade F](../../docs/badge/neuronup.com.svg)
+![Score 34/100 · Grade F](../../docs/badge/neuronup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://neuronup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

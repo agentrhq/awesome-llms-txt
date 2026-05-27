@@ -15,7 +15,7 @@ freshness_age_days: 341
 
 # Nextevogroup
 
-![Score 41/100 — Grade D](../../docs/badge/nextevogroup.com.svg)
+![Score 41/100 · Grade D](../../docs/badge/nextevogroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nextevogroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zodori
 
-![Score 62/100 — Grade C](../../docs/badge/zodoristudio.com.svg)
+![Score 62/100 · Grade C](../../docs/badge/zodoristudio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zodoristudio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

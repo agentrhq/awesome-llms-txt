@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mailmodo
 
-![Score 64/100 — Grade C](../../docs/badge/www.mailmodo.com.svg)
+![Score 64/100 · Grade C](../../docs/badge/www.mailmodo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mailmodo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Tidio
 
-![Score 35/100 — Grade D](../../docs/badge/www.tidio.com.svg)
+![Score 35/100 · Grade D](../../docs/badge/www.tidio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tidio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # US
 
-![Score 57/100 — Grade C](../../docs/badge/www.signagebuzz.com.svg)
+![Score 57/100 · Grade C](../../docs/badge/www.signagebuzz.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.signagebuzz.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
