@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # New Relic
 
-![Score 63/100 — Grade C](../../web/badge/newrelic.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/newrelic.com.svg)
 
 Category: **observability** · [Live llms.txt](https://newrelic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://newrelic.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/newrelic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/newrelic.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/newrelic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/newrelic.com)
 ```
 
 ## Reproduce this score

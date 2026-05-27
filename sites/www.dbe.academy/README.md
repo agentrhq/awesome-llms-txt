@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Dbe
 
-![Score 43/100 — Grade D](../../web/badge/www.dbe.academy.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.dbe.academy.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.dbe.academy/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.dbe.academy/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.dbe.academy.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dbe.academy)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dbe.academy.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dbe.academy)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Butlr Developer Docs
 
-![Score 61/100 — Grade C](../../web/badge/docs.butlr.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.butlr.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.butlr.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.butlr.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.butlr.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.butlr.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.butlr.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.butlr.io)
 ```
 
 ## Reproduce this score

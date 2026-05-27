@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Purav Parab's personal website
 
-![Score 59/100 — Grade C](../../web/badge/www.purav.co.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.purav.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.purav.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.purav.co/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.purav.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.purav.co)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.purav.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.purav.co)
 ```
 
 ## Reproduce this score

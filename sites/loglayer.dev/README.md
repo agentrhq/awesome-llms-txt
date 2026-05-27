@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # LogLayer
 
-![Score 60/100 — Grade C](../../web/badge/loglayer.dev.svg)
+![Score 60/100 — Grade C](../../docs/badge/loglayer.dev.svg)
 
 Category: **comms** · [Live llms.txt](https://loglayer.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://loglayer.dev/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/loglayer.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/loglayer.dev)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/loglayer.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/loglayer.dev)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pagesmith
 
-![Score 67/100 — Grade B](../../web/badge/pagesmith.ai.svg)
+![Score 67/100 — Grade B](../../docs/badge/pagesmith.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://pagesmith.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://pagesmith.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/pagesmith.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pagesmith.ai)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pagesmith.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pagesmith.ai)
 ```
 
 ## Reproduce this score

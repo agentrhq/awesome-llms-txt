@@ -15,7 +15,7 @@ freshness_age_days: 41
 
 # Fundamental Group
 
-![Score 52/100 — Grade C](../../web/badge/fundamentalgroup.com.svg)
+![Score 52/100 — Grade C](../../docs/badge/fundamentalgroup.com.svg)
 
 Category: **observability** · [Live llms.txt](https://fundamentalgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://fundamentalgroup.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/fundamentalgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fundamentalgroup.com)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/fundamentalgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fundamentalgroup.com)
 ```
 
 ## Reproduce this score

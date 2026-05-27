@@ -15,7 +15,7 @@ freshness_age_days: 439
 
 # Cloudfix
 
-![Score 49/100 — Grade D](../../web/badge/cloudfix.com.svg)
+![Score 49/100 — Grade D](../../docs/badge/cloudfix.com.svg)
 
 Category: **search** · [Live llms.txt](https://cloudfix.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **search** · [Live llms.txt](https://cloudfix.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cloudfix.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudfix.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cloudfix.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudfix.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bika
 
-![Score 67/100 — Grade B](../../web/badge/bika.ai.svg)
+![Score 67/100 — Grade B](../../docs/badge/bika.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://bika.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://bika.ai/llms.txt) · Snapshot: [`
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bika.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bika.ai)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bika.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bika.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Maplebridge
 
-![Score 35/100 — Grade D](../../web/badge/maplebridge.io.svg)
+![Score 35/100 — Grade D](../../docs/badge/maplebridge.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://maplebridge.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://maplebridge.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/maplebridge.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/maplebridge.io)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/maplebridge.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/maplebridge.io)
 ```
 
 ## Reproduce this score

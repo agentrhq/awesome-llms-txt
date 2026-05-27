@@ -15,7 +15,7 @@ freshness_age_days: 24
 
 # Heykel
 
-![Score 48/100 — Grade D](../../web/badge/www.heykel.org.svg)
+![Score 48/100 — Grade D](../../docs/badge/www.heykel.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.heykel.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.heykel.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.heykel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.heykel.org)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.heykel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.heykel.org)
 ```
 
 ## Reproduce this score

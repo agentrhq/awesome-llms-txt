@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # GeeMco – Götz Müller Consulting
 
-![Score 58/100 — Grade C](../../web/badge/www.geemco.de.svg)
+![Score 58/100 — Grade C](../../docs/badge/www.geemco.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.geemco.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.geemco.de/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.geemco.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.geemco.de)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.geemco.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.geemco.de)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Slack
 
-![Score 58/100 — Grade C](../../web/badge/slack.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/slack.com.svg)
 
 Category: **comms** · [Live llms.txt](https://slack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **comms** · [Live llms.txt](https://slack.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/slack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slack.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/slack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slack.com)
 ```
 
 ## Reproduce this score

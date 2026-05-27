@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DadSEO
 
-![Score 54/100 — Grade C](../../web/badge/getdadseo.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/getdadseo.com.svg)
 
 Category: **observability** · [Live llms.txt](https://getdadseo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://getdadseo.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/getdadseo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getdadseo.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/getdadseo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getdadseo.com)
 ```
 
 ## Reproduce this score

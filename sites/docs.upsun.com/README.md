@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Upsun
 
-![Score 73/100 — Grade B](../../web/badge/docs.upsun.com.svg)
+![Score 73/100 — Grade B](../../docs/badge/docs.upsun.com.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.upsun.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://docs.upsun.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.upsun.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.upsun.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.upsun.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.upsun.com)
 ```
 
 ## Reproduce this score

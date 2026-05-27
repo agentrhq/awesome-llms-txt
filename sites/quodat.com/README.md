@@ -15,7 +15,7 @@ freshness_age_days: 43
 
 # Quodat
 
-![Score 62/100 — Grade C](../../web/badge/quodat.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/quodat.com.svg)
 
 Category: **content** · [Live llms.txt](https://quodat.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **content** · [Live llms.txt](https://quodat.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/quodat.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quodat.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/quodat.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quodat.com)
 ```
 
 ## Reproduce this score

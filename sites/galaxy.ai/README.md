@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Galaxy
 
-![Score 59/100 — Grade C](../../web/badge/galaxy.ai.svg)
+![Score 59/100 — Grade C](../../docs/badge/galaxy.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://galaxy.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://galaxy.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/galaxy.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/galaxy.ai)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/galaxy.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/galaxy.ai)
 ```
 
 ## Reproduce this score

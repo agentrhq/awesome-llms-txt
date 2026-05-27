@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ruletaa
 
-![Score 54/100 — Grade C](../../web/badge/ruletaa.net.svg)
+![Score 54/100 — Grade C](../../docs/badge/ruletaa.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ruletaa.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://ruletaa.net/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ruletaa.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ruletaa.net)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ruletaa.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ruletaa.net)
 ```
 
 ## Reproduce this score

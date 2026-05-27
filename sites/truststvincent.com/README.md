@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Truststvincent
 
-![Score 61/100 — Grade C](../../web/badge/truststvincent.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/truststvincent.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://truststvincent.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **commerce** · [Live llms.txt](https://truststvincent.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/truststvincent.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/truststvincent.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/truststvincent.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/truststvincent.com)
 ```
 
 ## Reproduce this score

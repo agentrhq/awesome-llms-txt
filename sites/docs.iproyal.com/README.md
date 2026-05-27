@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # IPRoyal Documentation
 
-![Score 60/100 — Grade C](../../web/badge/docs.iproyal.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.iproyal.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.iproyal.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.iproyal.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.iproyal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.iproyal.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.iproyal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.iproyal.com)
 ```
 
 ## Reproduce this score

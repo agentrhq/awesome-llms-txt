@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Daytona Documentation
 
-![Score 61/100 — Grade C](../../web/badge/www.daytona.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/www.daytona.io.svg)
 
 Category: **infra** · [Live llms.txt](https://www.daytona.io/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://www.daytona.io/docs/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.daytona.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.daytona.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.daytona.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.daytona.io)
 ```
 
 ## Reproduce this score

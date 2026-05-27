@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # GitBook Docs
 
-![Score 71/100 — Grade B](../../web/badge/docs.gitbook.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/docs.gitbook.com.svg)
 
 Category: **docs-platform** · [Live llms.txt](https://gitbook.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **docs-platform** · [Live llms.txt](https://gitbook.com/docs/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.gitbook.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.gitbook.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.gitbook.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.gitbook.com)
 ```
 
 ## Reproduce this score

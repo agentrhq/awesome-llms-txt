@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # PlayAI Docs
 
-![Score 74/100 — Grade B](../../web/badge/docs.play.ai.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.play.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.play.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.play.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.play.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.play.ai)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.play.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.play.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Embednotionpages
 
-![Score 45/100 — Grade D](../../web/badge/embednotionpages.com.svg)
+![Score 45/100 — Grade D](../../docs/badge/embednotionpages.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.embednotionpages.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.embednotionpages.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/embednotionpages.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/embednotionpages.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/embednotionpages.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/embednotionpages.com)
 ```
 
 ## Reproduce this score

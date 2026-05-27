@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # PaperGraderPro Documentation
 
-![Score 51/100 — Grade C](../../web/badge/papergraderpro.com.svg)
+![Score 51/100 — Grade C](../../docs/badge/papergraderpro.com.svg)
 
 Category: **billing** · [Live llms.txt](https://papergraderpro.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://papergraderpro.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/papergraderpro.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/papergraderpro.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/papergraderpro.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/papergraderpro.com)
 ```
 
 ## Reproduce this score

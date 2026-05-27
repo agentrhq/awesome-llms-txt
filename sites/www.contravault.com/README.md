@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Contravault
 
-![Score 61/100 — Grade C](../../web/badge/www.contravault.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/www.contravault.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.contravault.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://www.contravault.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.contravault.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.contravault.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.contravault.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.contravault.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Visioforge
 
-![Score 74/100 — Grade B](../../web/badge/www.visioforge.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/www.visioforge.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.visioforge.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **content** · [Live llms.txt](https://www.visioforge.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.visioforge.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.visioforge.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.visioforge.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.visioforge.com)
 ```
 
 ## Reproduce this score

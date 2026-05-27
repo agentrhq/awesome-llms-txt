@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 36/100 — Grade D](../../web/badge/convertcake.com.svg)
+![Score 36/100 — Grade D](../../docs/badge/convertcake.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://convertcake.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://convertcake.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/convertcake.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/convertcake.com)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/convertcake.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/convertcake.com)
 ```
 
 ## Reproduce this score

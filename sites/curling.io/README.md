@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Curling IO Documentation
 
-![Score 72/100 — Grade B](../../web/badge/curling.io.svg)
+![Score 72/100 — Grade B](../../docs/badge/curling.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://curling.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://curling.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/curling.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/curling.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/curling.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/curling.io)
 ```
 
 ## Reproduce this score

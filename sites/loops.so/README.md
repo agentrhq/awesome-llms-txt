@@ -15,7 +15,7 @@ freshness_age_days: 169
 
 # Loops
 
-![Score 66/100 — Grade B](../../web/badge/loops.so.svg)
+![Score 66/100 — Grade B](../../docs/badge/loops.so.svg)
 
 Category: **comms** · [Live llms.txt](https://loops.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://loops.so/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/loops.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/loops.so)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/loops.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/loops.so)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ketch
 
-![Score 66/100 — Grade B](../../web/badge/www.ketch.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/www.ketch.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.ketch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.ketch.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.ketch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ketch.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.ketch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ketch.com)
 ```
 
 ## Reproduce this score

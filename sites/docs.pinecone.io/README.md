@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pinecone Docs
 
-![Score 72/100 — Grade B](../../web/badge/docs.pinecone.io.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.pinecone.io.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.pinecone.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.pinecone.io/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.pinecone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pinecone.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pinecone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pinecone.io)
 ```
 
 ## Reproduce this score

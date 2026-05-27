@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Formwerk Documentation
 
-![Score 59/100 — Grade C](../../web/badge/formwerk.dev.svg)
+![Score 59/100 — Grade C](../../docs/badge/formwerk.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://formwerk.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://formwerk.dev/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/formwerk.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/formwerk.dev)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/formwerk.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/formwerk.dev)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # TestingBot Documentation
 
-![Score 76/100 — Grade B+](../../web/badge/testingbot.com.svg)
+![Score 76/100 — Grade B+](../../docs/badge/testingbot.com.svg)
 
 Category: **billing** · [Live llms.txt](https://testingbot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://testingbot.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/testingbot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/testingbot.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/testingbot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/testingbot.com)
 ```
 
 ## Reproduce this score

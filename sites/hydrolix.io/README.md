@@ -15,7 +15,7 @@ freshness_age_days: 57
 
 # Hydrolix
 
-![Score 67/100 — Grade B](../../web/badge/hydrolix.io.svg)
+![Score 67/100 — Grade B](../../docs/badge/hydrolix.io.svg)
 
 Category: **data** · [Live llms.txt](https://hydrolix.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://hydrolix.io/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/hydrolix.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hydrolix.io)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hydrolix.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hydrolix.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 421
 
 # Multiplier
 
-![Score 57/100 — Grade C](../../web/badge/www.usemultiplier.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.usemultiplier.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.usemultiplier.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.usemultiplier.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.usemultiplier.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.usemultiplier.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.usemultiplier.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.usemultiplier.com)
 ```
 
 ## Reproduce this score

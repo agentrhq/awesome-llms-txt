@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../web/badge/novilabs.com.svg)
+![Score 39/100 — Grade D](../../docs/badge/novilabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://novilabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://novilabs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/novilabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/novilabs.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/novilabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/novilabs.com)
 ```
 
 ## Reproduce this score

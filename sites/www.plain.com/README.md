@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Plain
 
-![Score 55/100 — Grade C](../../web/badge/www.plain.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.plain.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.plain.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://www.plain.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.plain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.plain.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.plain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.plain.com)
 ```
 
 ## Reproduce this score

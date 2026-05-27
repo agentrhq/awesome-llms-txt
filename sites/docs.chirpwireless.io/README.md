@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chirp Platform
 
-![Score 60/100 — Grade C](../../web/badge/docs.chirpwireless.io.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.chirpwireless.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chirpwireless.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chirpwireless.io/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.chirpwireless.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chirpwireless.io)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chirpwireless.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chirpwireless.io)
 ```
 
 ## Reproduce this score

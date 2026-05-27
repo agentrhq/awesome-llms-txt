@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Norwegian4x4
 
-![Score 46/100 — Grade D](../../web/badge/norwegian4x4.com.svg)
+![Score 46/100 — Grade D](../../docs/badge/norwegian4x4.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://norwegian4x4.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://norwegian4x4.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/norwegian4x4.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/norwegian4x4.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/norwegian4x4.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/norwegian4x4.com)
 ```
 
 ## Reproduce this score

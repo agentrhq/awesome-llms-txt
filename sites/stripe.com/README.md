@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Stripe
 
-![Score 69/100 — Grade B](../../web/badge/stripe.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/stripe.com.svg)
 
 Category: **billing** · [Live llms.txt](https://stripe.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://stripe.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/stripe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/stripe.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/stripe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/stripe.com)
 ```
 
 ## Reproduce this score

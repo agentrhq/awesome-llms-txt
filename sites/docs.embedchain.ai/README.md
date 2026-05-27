@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Embedchain
 
-![Score 72/100 — Grade B](../../web/badge/docs.embedchain.ai.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.embedchain.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.embedchain.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.embedchain.ai/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.embedchain.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.embedchain.ai)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.embedchain.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.embedchain.ai)
 ```
 
 ## Reproduce this score

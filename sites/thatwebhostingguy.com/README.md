@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Thatwebhostingguy
 
-![Score 46/100 — Grade D](../../web/badge/thatwebhostingguy.com.svg)
+![Score 46/100 — Grade D](../../docs/badge/thatwebhostingguy.com.svg)
 
 Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **auth** · [Live llms.txt](https://thatwebhostingguy.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatwebhostingguy.com)
 ```
 
 ## Reproduce this score

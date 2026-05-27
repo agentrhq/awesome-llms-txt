@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Installation
 
-![Score 53/100 — Grade C](../../web/badge/www.apibara.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.apibara.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.apibara.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.apibara.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.apibara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.apibara.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.apibara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.apibara.com)
 ```
 
 ## Reproduce this score

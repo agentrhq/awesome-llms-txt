@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # Devart
 
-![Score 34/100 — Grade F](../../web/badge/www.devart.com.svg)
+![Score 34/100 — Grade F](../../docs/badge/www.devart.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.devart.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.devart.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.devart.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.devart.com)
+[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.devart.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.devart.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 13
 
 # Altostrat Studio
 
-![Score 61/100 — Grade C](../../web/badge/altostrat.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/altostrat.io.svg)
 
 Category: **comms** · [Live llms.txt](https://altostrat.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://altostrat.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/altostrat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/altostrat.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/altostrat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/altostrat.io)
 ```
 
 ## Reproduce this score

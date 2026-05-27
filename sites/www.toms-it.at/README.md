@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # Toms It
 
-![Score 26/100 — Grade F](../../web/badge/www.toms-it.at.svg)
+![Score 26/100 — Grade F](../../docs/badge/www.toms-it.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tomoris.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tomoris.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.toms-it.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.toms-it.at)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.toms-it.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.toms-it.at)
 ```
 
 ## Reproduce this score

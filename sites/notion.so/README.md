@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Notion
 
-![Score 29/100 — Grade F](../../web/badge/notion.so.svg)
+![Score 29/100 — Grade F](../../docs/badge/notion.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.notion.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.notion.so/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/notion.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/notion.so)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/notion.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/notion.so)
 ```
 
 ## Reproduce this score

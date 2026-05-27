@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Jam Documenation
 
-![Score 62/100 — Grade C](../../web/badge/jam.dev.svg)
+![Score 62/100 — Grade C](../../docs/badge/jam.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jam.dev/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://jam.dev/docs/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/jam.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jam.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jam.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jam.dev)
 ```
 
 ## Reproduce this score

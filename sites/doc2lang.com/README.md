@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Doc2lang
 
-![Score 51/100 — Grade C](../../web/badge/doc2lang.com.svg)
+![Score 51/100 — Grade C](../../docs/badge/doc2lang.com.svg)
 
 Category: **content** · [Live llms.txt](https://doc2lang.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://doc2lang.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/doc2lang.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/doc2lang.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/doc2lang.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/doc2lang.com)
 ```
 
 ## Reproduce this score

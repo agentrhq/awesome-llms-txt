@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zenbaki Inventory
 
-![Score 60/100 — Grade C](../../web/badge/www.zenbaki-inventory.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/www.zenbaki-inventory.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.zenbaki-inventory.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.zenbaki-inventory.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.zenbaki-inventory.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zenbaki-inventory.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.zenbaki-inventory.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zenbaki-inventory.com)
 ```
 
 ## Reproduce this score

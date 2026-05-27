@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Transloadit
 
-![Score 68/100 — Grade B](../../web/badge/transloadit.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/transloadit.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://transloadit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://transloadit.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/transloadit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/transloadit.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/transloadit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/transloadit.com)
 ```
 
 ## Reproduce this score

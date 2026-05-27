@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # Callback Technologies
 
-![Score 63/100 — Grade C](../../web/badge/www.callback.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.callback.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.callback.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.callback.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.callback.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.callback.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.callback.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.callback.com)
 ```
 
 ## Reproduce this score

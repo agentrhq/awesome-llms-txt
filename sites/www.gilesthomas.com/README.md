@@ -15,7 +15,7 @@ freshness_age_days: 8
 
 # Giles' Blog
 
-![Score 68/100 — Grade B](../../web/badge/www.gilesthomas.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/www.gilesthomas.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.gilesthomas.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://www.gilesthomas.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gilesthomas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gilesthomas.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gilesthomas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gilesthomas.com)
 ```
 
 ## Reproduce this score

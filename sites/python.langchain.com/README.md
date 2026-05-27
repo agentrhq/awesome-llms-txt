@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # LangChain (Python)
 
-![Score 75/100 — Grade B+](../../web/badge/python.langchain.com.svg)
+![Score 75/100 — Grade B+](../../docs/badge/python.langchain.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.langchain.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.langchain.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/python.langchain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/python.langchain.com)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/python.langchain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/python.langchain.com)
 ```
 
 ## Reproduce this score

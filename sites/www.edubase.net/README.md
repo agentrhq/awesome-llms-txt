@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # EduBase
 
-![Score 57/100 — Grade C](../../web/badge/www.edubase.net.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.edubase.net.svg)
 
 Category: **observability** · [Live llms.txt](https://www.edubase.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **observability** · [Live llms.txt](https://www.edubase.net/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.edubase.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.edubase.net)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.edubase.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.edubase.net)
 ```
 
 ## Reproduce this score

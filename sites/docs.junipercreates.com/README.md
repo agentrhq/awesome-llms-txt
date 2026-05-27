@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Juniper Creates Guide
 
-![Score 56/100 — Grade C](../../web/badge/docs.junipercreates.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.junipercreates.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.junipercreates.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.junipercreates.com/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.junipercreates.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.junipercreates.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.junipercreates.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.junipercreates.com)
 ```
 
 ## Reproduce this score

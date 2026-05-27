@@ -15,7 +15,7 @@ freshness_age_days: 215
 
 # Zbrain
 
-![Score 60/100 — Grade C](../../web/badge/zbrain.ai.svg)
+![Score 60/100 — Grade C](../../docs/badge/zbrain.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://zbrain.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://zbrain.ai/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zbrain.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zbrain.ai)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zbrain.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zbrain.ai)
 ```
 
 ## Reproduce this score

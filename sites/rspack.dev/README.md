@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Rspack
 
-![Score 66/100 — Grade B](../../web/badge/rspack.dev.svg)
+![Score 66/100 — Grade B](../../docs/badge/rspack.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://rspack.rs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://rspack.rs/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/rspack.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rspack.dev)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rspack.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rspack.dev)
 ```
 
 ## Reproduce this score

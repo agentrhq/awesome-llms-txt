@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Detailed Content
 
-![Score 38/100 — Grade D](../../web/badge/www.noboadvantage.gr.svg)
+![Score 38/100 — Grade D](../../docs/badge/www.noboadvantage.gr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.noboadvantage.gr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.noboadvantage.gr/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 38 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.noboadvantage.gr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.noboadvantage.gr)
+[![llms.txt score 38 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.noboadvantage.gr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.noboadvantage.gr)
 ```
 
 ## Reproduce this score

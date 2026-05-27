@@ -15,7 +15,7 @@ freshness_age_days: 420
 
 # Sylvaindelaporte
 
-![Score 34/100 — Grade F](../../web/badge/www.sylvaindelaporte.com.svg)
+![Score 34/100 — Grade F](../../docs/badge/www.sylvaindelaporte.com.svg)
 
 Category: **infra** · [Live llms.txt](https://cdn.prod.website-files.com/5f97e61b7768c18d6a2b2eb4/67ecbc7457b905018920e958_bd25343c8deffce965352534ba5baa54_llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://cdn.prod.website-files.com/5f97e6
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.sylvaindelaporte.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sylvaindelaporte.com)
+[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sylvaindelaporte.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sylvaindelaporte.com)
 ```
 
 ## Reproduce this score

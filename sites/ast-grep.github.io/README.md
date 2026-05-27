@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # AST-GREP
 
-![Score 72/100 — Grade B](../../web/badge/ast-grep.github.io.svg)
+![Score 72/100 — Grade B](../../docs/badge/ast-grep.github.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ast-grep.github.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://ast-grep.github.io/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ast-grep.github.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ast-grep.github.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ast-grep.github.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ast-grep.github.io)
 ```
 
 ## Reproduce this score

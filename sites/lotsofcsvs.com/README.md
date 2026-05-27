@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lotsofcsvs
 
-![Score 44/100 — Grade D](../../web/badge/lotsofcsvs.com.svg)
+![Score 44/100 — Grade D](../../docs/badge/lotsofcsvs.com.svg)
 
 Category: **data** · [Live llms.txt](https://lotsofcsvs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://lotsofcsvs.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/lotsofcsvs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lotsofcsvs.com)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lotsofcsvs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lotsofcsvs.com)
 ```
 
 ## Reproduce this score

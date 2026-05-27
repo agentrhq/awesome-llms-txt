@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Liveblocks
 
-![Score 68/100 — Grade B](../../web/badge/liveblocks.io.svg)
+![Score 68/100 — Grade B](../../docs/badge/liveblocks.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://liveblocks.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://liveblocks.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/liveblocks.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/liveblocks.io)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/liveblocks.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/liveblocks.io)
 ```
 
 ## Reproduce this score

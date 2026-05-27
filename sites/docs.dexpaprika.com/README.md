@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # DexPaprika API
 
-![Score 77/100 — Grade B+](../../web/badge/docs.dexpaprika.com.svg)
+![Score 77/100 — Grade B+](../../docs/badge/docs.dexpaprika.com.svg)
 
 Category: **content** · [Live llms.txt](https://docs.dexpaprika.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **content** · [Live llms.txt](https://docs.dexpaprika.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.dexpaprika.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.dexpaprika.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.dexpaprika.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.dexpaprika.com)
 ```
 
 ## Reproduce this score

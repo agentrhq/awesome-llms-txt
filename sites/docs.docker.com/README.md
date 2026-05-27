@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Docker Docs
 
-![Score 74/100 — Grade B](../../web/badge/docs.docker.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.docker.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.docker.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://docs.docker.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.docker.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.docker.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.docker.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.docker.com)
 ```
 
 ## Reproduce this score

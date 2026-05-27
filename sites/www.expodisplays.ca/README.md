@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Default Store View
 
-![Score 56/100 — Grade C](../../web/badge/www.expodisplays.ca.svg)
+![Score 56/100 — Grade C](../../docs/badge/www.expodisplays.ca.svg)
 
 Category: **content** · [Live llms.txt](https://www.expodisplays.ca/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://www.expodisplays.ca/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.expodisplays.ca.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.expodisplays.ca)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.expodisplays.ca.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.expodisplays.ca)
 ```
 
 ## Reproduce this score

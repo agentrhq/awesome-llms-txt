@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Gaslighting Check
 
-![Score 60/100 — Grade C](../../web/badge/www.gaslightingcheck.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/www.gaslightingcheck.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gaslightingcheck.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.gaslightingcheck.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gaslightingcheck.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gaslightingcheck.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gaslightingcheck.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gaslightingcheck.com)
 ```
 
 ## Reproduce this score

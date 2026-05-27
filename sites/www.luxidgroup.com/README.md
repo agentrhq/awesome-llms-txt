@@ -15,7 +15,7 @@ freshness_age_days: 257
 
 # Luxid | Accelerating digital growth
 
-![Score 54/100 — Grade C](../../web/badge/www.luxidgroup.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/www.luxidgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.luxidgroup.com/hubfs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.luxidgroup.com/hubfs/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.luxidgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.luxidgroup.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.luxidgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.luxidgroup.com)
 ```
 
 ## Reproduce this score

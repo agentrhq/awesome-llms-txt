@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Rainbowkit
 
-![Score 54/100 — Grade C](../../web/badge/rainbowkit.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/rainbowkit.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://rainbowkit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://rainbowkit.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/rainbowkit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rainbowkit.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rainbowkit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rainbowkit.com)
 ```
 
 ## Reproduce this score

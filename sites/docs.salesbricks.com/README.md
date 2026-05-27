@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Salesbricks
 
-![Score 74/100 — Grade B](../../web/badge/docs.salesbricks.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.salesbricks.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.salesbricks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.salesbricks.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.salesbricks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.salesbricks.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.salesbricks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.salesbricks.com)
 ```
 
 ## Reproduce this score

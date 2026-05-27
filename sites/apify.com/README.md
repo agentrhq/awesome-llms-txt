@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Apify
 
-![Score 79/100 — Grade B+](../../web/badge/apify.com.svg)
+![Score 79/100 — Grade B+](../../docs/badge/apify.com.svg)
 
 Category: **infra** · [Live llms.txt](https://apify.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://apify.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/apify.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/apify.com)
+[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/apify.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/apify.com)
 ```
 
 ## Reproduce this score

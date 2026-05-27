@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Hyperline
 
-![Score 77/100 — Grade B+](../../web/badge/docs.hyperline.co.svg)
+![Score 77/100 — Grade B+](../../docs/badge/docs.hyperline.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.hyperline.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.hyperline.co/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.hyperline.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.hyperline.co)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.hyperline.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.hyperline.co)
 ```
 
 ## Reproduce this score

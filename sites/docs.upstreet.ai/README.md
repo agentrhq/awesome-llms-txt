@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Upstreet Docs
 
-![Score 51/100 — Grade C](../../web/badge/docs.upstreet.ai.svg)
+![Score 51/100 — Grade C](../../docs/badge/docs.upstreet.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.upstreet.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://docs.upstreet.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.upstreet.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.upstreet.ai)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.upstreet.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.upstreet.ai)
 ```
 
 ## Reproduce this score

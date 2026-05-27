@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # FlowRunner
 
-![Score 68/100 — Grade B](../../web/badge/flow-runner.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/flow-runner.com.svg)
 
 Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://flow-runner.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/flow-runner.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/flow-runner.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/flow-runner.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/flow-runner.com)
 ```
 
 ## Reproduce this score

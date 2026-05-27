@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Keito
 
-![Score 80/100 — Grade A-](../../web/badge/keito.ai.svg)
+![Score 80/100 — Grade A-](../../docs/badge/keito.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://keito.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://keito.ai/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/keito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/keito.ai)
+[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/keito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/keito.ai)
 ```
 
 ## Reproduce this score

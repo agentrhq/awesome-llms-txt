@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # REGAL | Voice AI Agent Platform
 
-![Score 69/100 — Grade B](../../web/badge/www.regal.ai.svg)
+![Score 69/100 — Grade B](../../docs/badge/www.regal.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.regal.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.regal.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.regal.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.regal.ai)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.regal.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.regal.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 74
 
 # Bladder Journal
 
-![Score 55/100 — Grade C](../../web/badge/www.bladderjournal.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.bladderjournal.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.bladderjournal.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://www.bladderjournal.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.bladderjournal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bladderjournal.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bladderjournal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bladderjournal.com)
 ```
 
 ## Reproduce this score

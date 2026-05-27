@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Simplepdf
 
-![Score 35/100 — Grade D](../../web/badge/simplepdf.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/simplepdf.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://simplepdf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://simplepdf.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/simplepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/simplepdf.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/simplepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/simplepdf.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Coin98
 
-![Score 57/100 — Grade C](../../web/badge/docs.coin98.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.coin98.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.coin98.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.coin98.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.coin98.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.coin98.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.coin98.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.coin98.com)
 ```
 
 ## Reproduce this score

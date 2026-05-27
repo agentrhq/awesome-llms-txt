@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Upstaff
 
-![Score 62/100 — Grade C](../../web/badge/upstaff.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/upstaff.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://upstaff.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://upstaff.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/upstaff.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upstaff.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/upstaff.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upstaff.com)
 ```
 
 ## Reproduce this score

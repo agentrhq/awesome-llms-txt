@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Openfort
 
-![Score 82/100 — Grade A-](../../web/badge/www.openfort.io.svg)
+![Score 82/100 — Grade A-](../../docs/badge/www.openfort.io.svg)
 
 Category: **auth** · [Live llms.txt](https://www.openfort.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://www.openfort.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 82 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.openfort.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.openfort.io)
+[![llms.txt score 82 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.openfort.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.openfort.io)
 ```
 
 ## Reproduce this score

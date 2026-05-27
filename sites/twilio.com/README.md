@@ -15,7 +15,7 @@ freshness_age_days: 15
 
 # Twilio
 
-![Score 27/100 — Grade F](../../web/badge/twilio.com.svg)
+![Score 27/100 — Grade F](../../docs/badge/twilio.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.twilio.com:443/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://www.twilio.com:443/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/twilio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/twilio.com)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/twilio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/twilio.com)
 ```
 
 ## Reproduce this score

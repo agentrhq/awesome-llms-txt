@@ -15,7 +15,7 @@ freshness_age_days: 73
 
 # Hilary Olson
 
-![Score 58/100 — Grade C](../../web/badge/www.hilary-olson.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/www.hilary-olson.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.hilary-olson.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.hilary-olson.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.hilary-olson.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.hilary-olson.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.hilary-olson.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.hilary-olson.com)
 ```
 
 ## Reproduce this score

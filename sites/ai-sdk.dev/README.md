@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AI SDK
 
-![Score 66/100 — Grade B](../../web/badge/ai-sdk.dev.svg)
+![Score 66/100 — Grade B](../../docs/badge/ai-sdk.dev.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://ai-sdk.dev/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ai-sdk.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai-sdk.dev)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ai-sdk.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai-sdk.dev)
 ```
 
 ## Reproduce this score

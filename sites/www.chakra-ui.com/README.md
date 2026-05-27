@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chakra UI
 
-![Score 55/100 — Grade C](../../web/badge/www.chakra-ui.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.chakra-ui.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.chakra-ui.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.chakra-ui.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.chakra-ui.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.chakra-ui.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.chakra-ui.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.chakra-ui.com)
 ```
 
 ## Reproduce this score

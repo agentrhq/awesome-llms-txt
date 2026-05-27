@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Xfunnel
 
-![Score 62/100 — Grade C](../../web/badge/www.xfunnel.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.xfunnel.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.xfunnel.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.xfunnel.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.xfunnel.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.xfunnel.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.xfunnel.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.xfunnel.ai)
 ```
 
 ## Reproduce this score

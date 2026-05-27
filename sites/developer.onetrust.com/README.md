@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # OneTrust Developer Portal Documentation
 
-![Score 69/100 — Grade B](../../web/badge/developer.onetrust.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/developer.onetrust.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developer.onetrust.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developer.onetrust.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developer.onetrust.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.onetrust.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.onetrust.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.onetrust.com)
 ```
 
 ## Reproduce this score

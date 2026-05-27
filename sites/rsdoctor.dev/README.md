@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Rsdoctor
 
-![Score 60/100 — Grade C](../../web/badge/rsdoctor.dev.svg)
+![Score 60/100 — Grade C](../../docs/badge/rsdoctor.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://rsdoctor.rs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://rsdoctor.rs/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/rsdoctor.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rsdoctor.dev)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rsdoctor.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rsdoctor.dev)
 ```
 
 ## Reproduce this score

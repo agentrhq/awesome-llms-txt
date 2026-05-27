@@ -15,7 +15,7 @@ freshness_age_days: 117
 
 # 7eads
 
-![Score 48/100 — Grade D](../../web/badge/7eads.com.svg)
+![Score 48/100 — Grade D](../../docs/badge/7eads.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://7eads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://7eads.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/7eads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/7eads.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/7eads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/7eads.com)
 ```
 
 ## Reproduce this score

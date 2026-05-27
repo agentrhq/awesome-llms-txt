@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Prisma Website
 
-![Score 57/100 — Grade C](../../web/badge/prisma.io.svg)
+![Score 57/100 — Grade C](../../docs/badge/prisma.io.svg)
 
 Category: **data** · [Live llms.txt](https://www.prisma.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.prisma.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/prisma.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prisma.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/prisma.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prisma.io)
 ```
 
 ## Reproduce this score

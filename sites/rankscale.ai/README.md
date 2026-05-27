@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Rankscale
 
-![Score 64/100 — Grade C](../../web/badge/rankscale.ai.svg)
+![Score 64/100 — Grade C](../../docs/badge/rankscale.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://rankscale.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://rankscale.ai/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/rankscale.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rankscale.ai)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/rankscale.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/rankscale.ai)
 ```
 
 ## Reproduce this score

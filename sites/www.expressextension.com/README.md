@@ -15,7 +15,7 @@ freshness_age_days: 61
 
 # Expressextension
 
-![Score 61/100 — Grade C](../../web/badge/www.expressextension.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/www.expressextension.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.expressextension.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.expressextension.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.expressextension.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.expressextension.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.expressextension.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.expressextension.com)
 ```
 
 ## Reproduce this score

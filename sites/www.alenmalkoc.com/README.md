@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Alenmalkoc
 
-![Score 60/100 — Grade C](../../web/badge/www.alenmalkoc.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/www.alenmalkoc.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.alenmalkoc.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.alenmalkoc.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.alenmalkoc.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.alenmalkoc.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.alenmalkoc.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.alenmalkoc.com)
 ```
 
 ## Reproduce this score

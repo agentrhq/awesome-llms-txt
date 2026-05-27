@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Helius
 
-![Score 69/100 — Grade B](../../web/badge/www.helius.dev.svg)
+![Score 69/100 — Grade B](../../docs/badge/www.helius.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://www.helius.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.helius.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.helius.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helius.dev)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.helius.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helius.dev)
 ```
 
 ## Reproduce this score

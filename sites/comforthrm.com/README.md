@@ -15,7 +15,7 @@ freshness_age_days: 188
 
 # ComfortHRM
 
-![Score 55/100 — Grade C](../../web/badge/comforthrm.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/comforthrm.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://comforthrm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://comforthrm.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/comforthrm.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/comforthrm.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/comforthrm.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/comforthrm.com)
 ```
 
 ## Reproduce this score

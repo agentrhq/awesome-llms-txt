@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Blocksscan Docs
 
-![Score 55/100 — Grade C](../../web/badge/docs.blocksscan.io.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.blocksscan.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.blocksscan.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.blocksscan.io/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.blocksscan.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.blocksscan.io)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.blocksscan.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.blocksscan.io)
 ```
 
 ## Reproduce this score

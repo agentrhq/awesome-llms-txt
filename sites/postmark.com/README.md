@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Postmark
 
-![Score 69/100 — Grade B](../../web/badge/postmark.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/postmark.com.svg)
 
 Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **comms** · [Live llms.txt](https://postmarkapp.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/postmark.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/postmark.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/postmark.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/postmark.com)
 ```
 
 ## Reproduce this score

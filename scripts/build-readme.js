@@ -5,8 +5,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'web', 'leaderboard.json'), 'utf8'));
-const stats = JSON.parse(fs.readFileSync(path.join(ROOT, 'web', 'stats.json'), 'utf8'));
+const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'leaderboard.json'), 'utf8'));
+const stats = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'stats.json'), 'utf8'));
 
 const CATEGORY_LABELS = {
   'ai-platform':   'AI platforms',
@@ -56,7 +56,7 @@ function categoryBlock(cat) {
   if (list.length === 0) return '';
   const rows = list.map((e, i) => `| ${i + 1} | [${e.display_name}](${siteFolder(e.domain)}) | \`${e.domain}\` | ${e.score} | **${e.grade}** |`).join('\n');
   const total = byCategory[cat].length;
-  const more = total > 15 ? `\n\n_See [\`leaderboard.json\`](./web/leaderboard.json) for the full ${total}._` : '';
+  const more = total > 15 ? `\n\n_See [\`leaderboard.json\`](./docs/leaderboard.json) for the full ${total}._` : '';
   return `### ${label} (${total})\n\n| # | Site | Domain | Score | Grade |\n|---|------|--------|------:|:-----:|\n${rows}${more}\n`;
 }
 
@@ -73,7 +73,7 @@ const intro = `# Awesome \`llms.txt\` [![Awesome](https://awesome.re/badge.svg)]
 
 > The scored leaderboard of \`llms.txt\` quality. Like [Lighthouse](https://developer.chrome.com/docs/lighthouse/), but for the file that tells agents what your site can do.
 
-[![Sites scored](https://img.shields.io/badge/sites_scored-${stats.total}-blue.svg)](./web/leaderboard.json)
+[![Sites scored](https://img.shields.io/badge/sites_scored-${stats.total}-blue.svg)](./docs/leaderboard.json)
 [![Avg score](https://img.shields.io/badge/avg_score-${stats.avg}-yellow.svg)](./RUBRIC.md)
 [![A grades](https://img.shields.io/badge/A_grades-${aGraded.length}-brightgreen.svg)](#top-25)
 [![License: CC0-1.0](https://img.shields.io/badge/data-CC0--1.0-lightgrey.svg)](./LICENSE)
@@ -138,7 +138,7 @@ const top25section = `## Top 25
 |---|------|--------|------:|:-----:|----------|-----:|
 ${top25.map(row).join('\n')}
 
-[Full table (${stats.total.toLocaleString()} rows) →](./web/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
+[Full table (${stats.total.toLocaleString()} rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
 
 `;
 
@@ -222,7 +222,7 @@ Zero runtime dependencies. Node ≥ 18. Tool source: [\`tools/llms-txt-score/\`]
 Every scored site has its own SVG badge at \`web/badge/<domain>.svg\`. Drop this in your project README:
 
 \`\`\`markdown
-[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
+[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
 \`\`\`
 
 The badge color tracks the grade (green for A, red for F). Re-scored monthly — your badge updates automatically.

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Openvpn
 
-![Score 34/100 — Grade F](../../web/badge/openvpn.net.svg)
+![Score 34/100 — Grade F](../../docs/badge/openvpn.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://openvpn.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://openvpn.net/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/openvpn.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/openvpn.net)
+[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/openvpn.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/openvpn.net)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pandaci
 
-![Score 51/100 — Grade C](../../web/badge/pandaci.com.svg)
+![Score 51/100 — Grade C](../../docs/badge/pandaci.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pandaci.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://pandaci.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/pandaci.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pandaci.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pandaci.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pandaci.com)
 ```
 
 ## Reproduce this score

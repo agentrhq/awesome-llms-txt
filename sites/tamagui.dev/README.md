@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tamagui Complete Documentation
 
-![Score 56/100 — Grade C](../../web/badge/tamagui.dev.svg)
+![Score 56/100 — Grade C](../../docs/badge/tamagui.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://tamagui.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://tamagui.dev/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/tamagui.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tamagui.dev)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tamagui.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tamagui.dev)
 ```
 
 ## Reproduce this score

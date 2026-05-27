@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # PlanetScale
 
-![Score 70/100 — Grade B](../../web/badge/planetscale.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/planetscale.com.svg)
 
 Category: **data** · [Live llms.txt](https://planetscale.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://planetscale.com/docs/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/planetscale.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/planetscale.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/planetscale.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/planetscale.com)
 ```
 
 ## Reproduce this score

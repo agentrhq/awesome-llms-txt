@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Respond
 
-![Score 57/100 — Grade C](../../web/badge/respond.io.svg)
+![Score 57/100 — Grade C](../../docs/badge/respond.io.svg)
 
 Category: **comms** · [Live llms.txt](https://respond.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://respond.io/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/respond.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/respond.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/respond.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/respond.io)
 ```
 
 ## Reproduce this score

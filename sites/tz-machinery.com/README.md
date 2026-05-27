@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 36/100 — Grade D](../../web/badge/tz-machinery.com.svg)
+![Score 36/100 — Grade D](../../docs/badge/tz-machinery.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://tz-machinery.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://tz-machinery.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/tz-machinery.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tz-machinery.com)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tz-machinery.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tz-machinery.com)
 ```
 
 ## Reproduce this score

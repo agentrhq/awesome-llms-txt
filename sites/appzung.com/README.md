@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # AppZung
 
-![Score 61/100 — Grade C](../../web/badge/appzung.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/appzung.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://appzung.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://appzung.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/appzung.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/appzung.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/appzung.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/appzung.com)
 ```
 
 ## Reproduce this score

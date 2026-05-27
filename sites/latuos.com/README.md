@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Latuos
 
-![Score 62/100 — Grade C](../../web/badge/latuos.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/latuos.com.svg)
 
 Category: **billing** · [Live llms.txt](https://latuos.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://latuos.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/latuos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/latuos.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/latuos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/latuos.com)
 ```
 
 ## Reproduce this score

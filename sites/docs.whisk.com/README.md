@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Whisk Docs
 
-![Score 63/100 — Grade C](../../web/badge/docs.whisk.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/docs.whisk.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.whisk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.whisk.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.whisk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.whisk.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.whisk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.whisk.com)
 ```
 
 ## Reproduce this score

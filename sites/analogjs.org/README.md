@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Analog
 
-![Score 59/100 — Grade C](../../web/badge/analogjs.org.svg)
+![Score 59/100 — Grade C](../../docs/badge/analogjs.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://analogjs.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://analogjs.org/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/analogjs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/analogjs.org)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/analogjs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/analogjs.org)
 ```
 
 ## Reproduce this score

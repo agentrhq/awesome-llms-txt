@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Coin Exchange
 
-![Score 55/100 — Grade C](../../web/badge/ajaib.gitbook.io.svg)
+![Score 55/100 — Grade C](../../docs/badge/ajaib.gitbook.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ajaib.gitbook.io/coin-exchange/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://ajaib.gitbook.io/coin-exchang
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ajaib.gitbook.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ajaib.gitbook.io)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ajaib.gitbook.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ajaib.gitbook.io)
 ```
 
 ## Reproduce this score

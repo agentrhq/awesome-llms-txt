@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Founder Scene
 
-![Score 57/100 — Grade C](../../web/badge/www.founderscene.tech.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.founderscene.tech.svg)
 
 Category: **comms** · [Live llms.txt](https://www.founderscene.tech/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://www.founderscene.tech/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.founderscene.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.founderscene.tech)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.founderscene.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.founderscene.tech)
 ```
 
 ## Reproduce this score

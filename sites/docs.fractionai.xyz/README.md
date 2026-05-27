@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fraction AI Product Docs
 
-![Score 54/100 — Grade C](../../web/badge/docs.fractionai.xyz.svg)
+![Score 54/100 — Grade C](../../docs/badge/docs.fractionai.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://fraction-ai.gitbook.io/fraction-ai-product-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://fraction-ai.gitbook.io/fracti
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.fractionai.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fractionai.xyz)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.fractionai.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fractionai.xyz)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Customer Success Center
 
-![Score 57/100 — Grade C](../../web/badge/docs.imagin.studio.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.imagin.studio.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imagin.studio/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imagin.studio/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.imagin.studio.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imagin.studio)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imagin.studio.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imagin.studio)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fireproof Database API
 
-![Score 45/100 — Grade D](../../web/badge/use-fireproof.com.svg)
+![Score 45/100 — Grade D](../../docs/badge/use-fireproof.com.svg)
 
 Category: **data** · [Live llms.txt](https://use-fireproof.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://use-fireproof.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/use-fireproof.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/use-fireproof.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/use-fireproof.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/use-fireproof.com)
 ```
 
 ## Reproduce this score

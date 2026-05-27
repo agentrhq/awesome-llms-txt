@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Braintrust Community
 
-![Score 54/100 — Grade C](../../web/badge/docs.usebraintrust.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/docs.usebraintrust.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.usebraintrust.com/communitydocs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.usebraintrust.com/commun
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.usebraintrust.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.usebraintrust.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.usebraintrust.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.usebraintrust.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # KYO FINANCE
 
-![Score 55/100 — Grade C](../../web/badge/docs.kyo.finance.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.kyo.finance.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kyo.finance/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kyo.finance/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.kyo.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kyo.finance)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kyo.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kyo.finance)
 ```
 
 ## Reproduce this score

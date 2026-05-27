@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ShipStatic
 
-![Score 65/100 — Grade B](../../web/badge/www.shipstatic.com.svg)
+![Score 65/100 — Grade B](../../docs/badge/www.shipstatic.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.shipstatic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://www.shipstatic.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.shipstatic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.shipstatic.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.shipstatic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.shipstatic.com)
 ```
 
 ## Reproduce this score

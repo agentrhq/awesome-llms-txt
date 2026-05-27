@@ -15,7 +15,7 @@ freshness_age_days: 275
 
 # Carolmcewan
 
-![Score 42/100 — Grade D](../../web/badge/www.carolmcewan.scot.svg)
+![Score 42/100 — Grade D](../../docs/badge/www.carolmcewan.scot.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.carolmcewan.scot/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.carolmcewan.scot/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.carolmcewan.scot.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.carolmcewan.scot)
+[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.carolmcewan.scot.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.carolmcewan.scot)
 ```
 
 ## Reproduce this score

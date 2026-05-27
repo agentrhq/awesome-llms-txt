@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Databuddy Documentation
 
-![Score 75/100 — Grade B+](../../web/badge/www.databuddy.cc.svg)
+![Score 75/100 — Grade B+](../../docs/badge/www.databuddy.cc.svg)
 
 Category: **observability** · [Live llms.txt](https://www.databuddy.cc/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.databuddy.cc/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.databuddy.cc.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.databuddy.cc)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.databuddy.cc.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.databuddy.cc)
 ```
 
 ## Reproduce this score

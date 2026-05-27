@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Video SDK
 
-![Score 61/100 — Grade C](../../web/badge/docs.videosdk.live.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.videosdk.live.svg)
 
 Category: **content** · [Live llms.txt](https://docs.videosdk.live/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **content** · [Live llms.txt](https://docs.videosdk.live/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.videosdk.live.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.videosdk.live)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.videosdk.live.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.videosdk.live)
 ```
 
 ## Reproduce this score

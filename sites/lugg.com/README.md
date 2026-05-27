@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Lugg
 
-![Score 62/100 — Grade C](../../web/badge/lugg.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/lugg.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://lugg.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/lugg.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lugg.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lugg.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lugg.com)
 ```
 
 ## Reproduce this score

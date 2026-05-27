@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Beregne
 
-![Score 58/100 — Grade C](../../web/badge/beregne.app.svg)
+![Score 58/100 — Grade C](../../docs/badge/beregne.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://beregne.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://beregne.app/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/beregne.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/beregne.app)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/beregne.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/beregne.app)
 ```
 
 ## Reproduce this score

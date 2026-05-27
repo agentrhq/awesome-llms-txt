@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # X-CMD
 
-![Score 50/100 — Grade C](../../web/badge/x-cmd.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/x-cmd.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.x-cmd.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.x-cmd.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/x-cmd.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/x-cmd.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/x-cmd.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/x-cmd.com)
 ```
 
 ## Reproduce this score

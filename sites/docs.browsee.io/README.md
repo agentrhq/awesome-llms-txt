@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Browsee
 
-![Score 56/100 — Grade C](../../web/badge/docs.browsee.io.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.browsee.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.browsee.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.browsee.io/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.browsee.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.browsee.io)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.browsee.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.browsee.io)
 ```
 
 ## Reproduce this score

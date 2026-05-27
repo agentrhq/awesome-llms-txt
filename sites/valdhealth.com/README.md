@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Valdhealth
 
-![Score 48/100 — Grade D](../../web/badge/valdhealth.com.svg)
+![Score 48/100 — Grade D](../../docs/badge/valdhealth.com.svg)
 
 Category: **infra** · [Live llms.txt](https://valdhealth.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://valdhealth.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/valdhealth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/valdhealth.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/valdhealth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/valdhealth.com)
 ```
 
 ## Reproduce this score

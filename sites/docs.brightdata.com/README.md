@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Bright Data Docs
 
-![Score 74/100 — Grade B](../../web/badge/docs.brightdata.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.brightdata.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.brightdata.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://docs.brightdata.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.brightdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.brightdata.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.brightdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.brightdata.com)
 ```
 
 ## Reproduce this score

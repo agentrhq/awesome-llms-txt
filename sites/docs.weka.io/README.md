@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # W E K A
 
-![Score 61/100 — Grade C](../../web/badge/docs.weka.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.weka.io.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.weka.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://docs.weka.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.weka.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.weka.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.weka.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.weka.io)
 ```
 
 ## Reproduce this score

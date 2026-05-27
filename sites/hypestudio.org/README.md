@@ -15,7 +15,7 @@ freshness_age_days: 379
 
 # Hypestudio
 
-![Score 50/100 — Grade C](../../web/badge/hypestudio.org.svg)
+![Score 50/100 — Grade C](../../docs/badge/hypestudio.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://hypestudio.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://hypestudio.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/hypestudio.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hypestudio.org)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hypestudio.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hypestudio.org)
 ```
 
 ## Reproduce this score

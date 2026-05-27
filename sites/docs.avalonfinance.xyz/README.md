@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Avalon Labs Documentation
 
-![Score 56/100 — Grade C](../../web/badge/docs.avalonfinance.xyz.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.avalonfinance.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.avalonfinance.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.avalonfinance.xyz/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.avalonfinance.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.avalonfinance.xyz)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.avalonfinance.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.avalonfinance.xyz)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Redpanda Documentation
 
-![Score 74/100 — Grade B](../../web/badge/docs.redpanda.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.redpanda.com.svg)
 
 Category: **data** · [Live llms.txt](https://docs.redpanda.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://docs.redpanda.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.redpanda.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.redpanda.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.redpanda.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.redpanda.com)
 ```
 
 ## Reproduce this score

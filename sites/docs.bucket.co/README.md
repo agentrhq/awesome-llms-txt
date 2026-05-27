@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Reflag docs
 
-![Score 56/100 — Grade C](../../web/badge/docs.bucket.co.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.bucket.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.reflag.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.reflag.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.bucket.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bucket.co)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.bucket.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bucket.co)
 ```
 
 ## Reproduce this score

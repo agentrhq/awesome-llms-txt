@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Appsecure
 
-![Score 36/100 — Grade D](../../web/badge/www.appsecure.security.svg)
+![Score 36/100 — Grade D](../../docs/badge/www.appsecure.security.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.appsecure.security/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.appsecure.security/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.appsecure.security.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.appsecure.security)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.appsecure.security.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.appsecure.security)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Naturelliving
 
-![Score 45/100 — Grade D](../../web/badge/naturelliving.com.svg)
+![Score 45/100 — Grade D](../../docs/badge/naturelliving.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://naturelliving.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://naturelliving.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/naturelliving.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/naturelliving.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/naturelliving.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/naturelliving.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Journify Docs
 
-![Score 57/100 — Grade C](../../web/badge/docs.journify.io.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.journify.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.journify.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.journify.io/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.journify.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.journify.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.journify.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.journify.io)
 ```
 
 ## Reproduce this score

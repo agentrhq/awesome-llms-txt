@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Angular
 
-![Score 66/100 — Grade B](../../web/badge/angular.dev.svg)
+![Score 66/100 — Grade B](../../docs/badge/angular.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://angular.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://angular.dev/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/angular.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/angular.dev)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/angular.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/angular.dev)
 ```
 
 ## Reproduce this score

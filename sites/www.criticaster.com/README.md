@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Criticaster
 
-![Score 66/100 — Grade B](../../web/badge/www.criticaster.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/www.criticaster.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.criticaster.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://www.criticaster.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.criticaster.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.criticaster.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.criticaster.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.criticaster.com)
 ```
 
 ## Reproduce this score

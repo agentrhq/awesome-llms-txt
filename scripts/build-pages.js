@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const WEB = path.join(ROOT, 'web');
+const WEB = path.join(ROOT, 'docs');
 const SITE_PAGES = path.join(WEB, 'site');
 const OG = path.join(WEB, 'og');
 
@@ -112,7 +112,7 @@ function sitePageBody(entry, scoreJson) {
   <section>
     <h2>Embed the badge</h2>
     <p>Paste this in your project README. The badge updates when we re-score monthly.</p>
-    <pre><code>[![llms.txt score ${entry.score} (${esc(entry.grade)})](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/${esc(entry.domain)}.svg)](https://agentrhq.github.io/awesome-llms-txt/site/${esc(entry.domain)}.html)</code></pre>
+    <pre><code>[![llms.txt score ${entry.score} (${esc(entry.grade)})](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/${esc(entry.domain)}.svg)](https://agentrhq.github.io/awesome-llms-txt/site/${esc(entry.domain)}.html)</code></pre>
     <p>Renders as: <img src="../badge/${esc(entry.domain)}.svg" alt="llms.txt badge" /></p>
   </section>
 
@@ -389,7 +389,7 @@ function main() {
     count++;
   }
   console.error(`wrote ${count} per-site HTML pages + ${count} OG cards`);
-  console.error('also wrote: web/index.html, web/style.css, web/app.js');
+  console.error('also wrote: docs/index.html, docs/style.css, docs/app.js');
 }
 
 main();

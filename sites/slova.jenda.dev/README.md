@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Slovohled — Vyhledávač českých slov
 
-![Score 42/100 — Grade D](../../web/badge/slova.jenda.dev.svg)
+![Score 42/100 — Grade D](../../docs/badge/slova.jenda.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://slovohled.cz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://slovohled.cz/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/slova.jenda.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slova.jenda.dev)
+[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/slova.jenda.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/slova.jenda.dev)
 ```
 
 ## Reproduce this score

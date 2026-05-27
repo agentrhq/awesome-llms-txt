@@ -15,7 +15,7 @@ freshness_age_days: 323
 
 # Demotime
 
-![Score 62/100 — Grade C](../../web/badge/demotime.elio.dev.svg)
+![Score 62/100 — Grade C](../../docs/badge/demotime.elio.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://demotime.elio.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://demotime.elio.dev/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/demotime.elio.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/demotime.elio.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/demotime.elio.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/demotime.elio.dev)
 ```
 
 ## Reproduce this score

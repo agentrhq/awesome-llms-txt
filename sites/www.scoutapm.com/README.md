@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Scout Monitoring
 
-![Score 62/100 — Grade C](../../web/badge/www.scoutapm.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.scoutapm.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.scoutapm.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.scoutapm.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.scoutapm.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.scoutapm.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.scoutapm.com)
 ```
 
 ## Reproduce this score

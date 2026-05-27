@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Abstract API
 
-![Score 63/100 — Grade C](../../web/badge/docs.abstractapi.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/docs.abstractapi.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.abstractapi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.abstractapi.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.abstractapi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.abstractapi.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.abstractapi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.abstractapi.com)
 ```
 
 ## Reproduce this score

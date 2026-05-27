@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Nuxt Docs
 
-![Score 78/100 — Grade B+](../../web/badge/nuxt.com.svg)
+![Score 78/100 — Grade B+](../../docs/badge/nuxt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nuxt.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://nuxt.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nuxt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nuxt.com)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nuxt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nuxt.com)
 ```
 
 ## Reproduce this score

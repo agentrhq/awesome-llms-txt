@@ -15,7 +15,7 @@ freshness_age_days: 232
 
 # IG Exporter
 
-![Score 54/100 — Grade C](../../web/badge/igexporter.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/igexporter.com.svg)
 
 Category: **comms** · [Live llms.txt](https://igexporter.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://igexporter.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/igexporter.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/igexporter.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/igexporter.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/igexporter.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 437
 
 # LLMs Metadata File (Light Version)
 
-![Score 40/100 — Grade D](../../web/badge/onagents.org.svg)
+![Score 40/100 — Grade D](../../docs/badge/onagents.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://onagents.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://onagents.org/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/onagents.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/onagents.org)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/onagents.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/onagents.org)
 ```
 
 ## Reproduce this score

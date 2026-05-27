@@ -15,7 +15,7 @@ freshness_age_days: 202
 
 # Adlogomat
 
-![Score 28/100 — Grade F](../../web/badge/www.adlogomat.nl.svg)
+![Score 28/100 — Grade F](../../docs/badge/www.adlogomat.nl.svg)
 
 Category: **comms** · [Live llms.txt](https://www.adlogomat.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://www.adlogomat.nl/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.adlogomat.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.adlogomat.nl)
+[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.adlogomat.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.adlogomat.nl)
 ```
 
 ## Reproduce this score

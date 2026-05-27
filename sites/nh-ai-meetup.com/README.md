@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # NH AI Meetup
 
-![Score 57/100 — Grade C](../../web/badge/nh-ai-meetup.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/nh-ai-meetup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nh-ai-meetup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://nh-ai-meetup.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nh-ai-meetup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nh-ai-meetup.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nh-ai-meetup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nh-ai-meetup.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # StarDream Cruises -
 
-![Score 51/100 — Grade C](../../web/badge/games.stardreamcruises.com.svg)
+![Score 51/100 — Grade C](../../docs/badge/games.stardreamcruises.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://games.stardreamcruises.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://games.stardreamcruises.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/games.stardreamcruises.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/games.stardreamcruises.com)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/games.stardreamcruises.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/games.stardreamcruises.com)
 ```
 
 ## Reproduce this score

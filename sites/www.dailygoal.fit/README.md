@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Dailygoal
 
-![Score 66/100 — Grade B](../../web/badge/www.dailygoal.fit.svg)
+![Score 66/100 — Grade B](../../docs/badge/www.dailygoal.fit.svg)
 
 Category: **observability** · [Live llms.txt](https://www.dailygoal.fit/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **observability** · [Live llms.txt](https://www.dailygoal.fit/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.dailygoal.fit.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dailygoal.fit)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dailygoal.fit.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dailygoal.fit)
 ```
 
 ## Reproduce this score

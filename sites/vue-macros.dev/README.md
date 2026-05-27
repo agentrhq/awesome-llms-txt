@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Vue Macros
 
-![Score 64/100 — Grade C](../../web/badge/vue-macros.dev.svg)
+![Score 64/100 — Grade C](../../docs/badge/vue-macros.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vue-macros.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://vue-macros.dev/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vue-macros.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vue-macros.dev)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vue-macros.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vue-macros.dev)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Anthropic Docs
 
-![Score 68/100 — Grade B](../../web/badge/docs.anthropic.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/docs.anthropic.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://platform.claude.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://platform.claude.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.anthropic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.anthropic.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.anthropic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.anthropic.com)
 ```
 
 ## Reproduce this score

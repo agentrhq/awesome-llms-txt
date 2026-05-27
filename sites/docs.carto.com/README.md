@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # CARTO Documentation
 
-![Score 61/100 — Grade C](../../web/badge/docs.carto.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.carto.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.carto.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.carto.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.carto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carto.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.carto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carto.com)
 ```
 
 ## Reproduce this score

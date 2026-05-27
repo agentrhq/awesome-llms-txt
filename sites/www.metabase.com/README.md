@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Metabase
 
-![Score 77/100 — Grade B+](../../web/badge/www.metabase.com.svg)
+![Score 77/100 — Grade B+](../../docs/badge/www.metabase.com.svg)
 
 Category: **data** · [Live llms.txt](https://www.metabase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://www.metabase.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.metabase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.metabase.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.metabase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.metabase.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ImagineArt Help Center
 
-![Score 70/100 — Grade B](../../web/badge/docs.imagine.art.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.imagine.art.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imagine.art/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imagine.art/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.imagine.art.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imagine.art)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imagine.art.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imagine.art)
 ```
 
 ## Reproduce this score

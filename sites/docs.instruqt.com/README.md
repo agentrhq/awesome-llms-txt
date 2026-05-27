@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Instruqt Docs
 
-![Score 60/100 — Grade C](../../web/badge/docs.instruqt.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.instruqt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.instruqt.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.instruqt.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.instruqt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.instruqt.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.instruqt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.instruqt.com)
 ```
 
 ## Reproduce this score

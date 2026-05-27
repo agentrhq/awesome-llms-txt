@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Resend
 
-![Score 85/100 — Grade A](../../web/badge/resend.com.svg)
+![Score 85/100 — Grade A](../../docs/badge/resend.com.svg)
 
 Category: **comms** · [Live llms.txt](https://resend.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **comms** · [Live llms.txt](https://resend.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 85 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/resend.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/resend.com)
+[![llms.txt score 85 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/resend.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/resend.com)
 ```
 
 ## Reproduce this score

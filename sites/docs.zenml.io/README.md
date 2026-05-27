@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zenml Docs
 
-![Score 70/100 — Grade B](../../web/badge/docs.zenml.io.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.zenml.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zenml.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.zenml.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.zenml.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zenml.io)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.zenml.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zenml.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 139
 
 # Protonxmedia
 
-![Score 33/100 — Grade F](../../web/badge/protonxmedia.com.svg)
+![Score 33/100 — Grade F](../../docs/badge/protonxmedia.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://protonxmedia.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://protonxmedia.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 33 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/protonxmedia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/protonxmedia.com)
+[![llms.txt score 33 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/protonxmedia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/protonxmedia.com)
 ```
 
 ## Reproduce this score

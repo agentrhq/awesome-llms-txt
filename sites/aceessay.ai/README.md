@@ -15,7 +15,7 @@ freshness_age_days: 342
 
 # Aceessay
 
-![Score 59/100 — Grade C](../../web/badge/aceessay.ai.svg)
+![Score 59/100 — Grade C](../../docs/badge/aceessay.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://aceessay.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://aceessay.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/aceessay.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/aceessay.ai)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/aceessay.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/aceessay.ai)
 ```
 
 ## Reproduce this score

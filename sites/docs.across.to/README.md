@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Across Protocol Documentation
 
-![Score 67/100 — Grade B](../../web/badge/docs.across.to.svg)
+![Score 67/100 — Grade B](../../docs/badge/docs.across.to.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.across.to/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.across.to/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.across.to.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.across.to)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.across.to.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.across.to)
 ```
 
 ## Reproduce this score

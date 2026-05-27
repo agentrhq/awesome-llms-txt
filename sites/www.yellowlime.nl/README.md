@@ -15,7 +15,7 @@ freshness_age_days: 320
 
 # Yellowlime
 
-![Score 29/100 — Grade F](../../web/badge/www.yellowlime.nl.svg)
+![Score 29/100 — Grade F](../../docs/badge/www.yellowlime.nl.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.yellowlime.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.yellowlime.nl/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.yellowlime.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.yellowlime.nl)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.yellowlime.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.yellowlime.nl)
 ```
 
 ## Reproduce this score

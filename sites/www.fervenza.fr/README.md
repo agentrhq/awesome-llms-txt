@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fervenza
 
-![Score 51/100 — Grade C](../../web/badge/www.fervenza.fr.svg)
+![Score 51/100 — Grade C](../../docs/badge/www.fervenza.fr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.fervenza.fr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.fervenza.fr/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.fervenza.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fervenza.fr)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.fervenza.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fervenza.fr)
 ```
 
 ## Reproduce this score

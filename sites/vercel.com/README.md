@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Documentation
 
-![Score 71/100 — Grade B](../../web/badge/vercel.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/vercel.com.svg)
 
 Category: **infra** · [Live llms.txt](https://vercel.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://vercel.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vercel.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vercel.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vercel.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vercel.com)
 ```
 
 ## Reproduce this score

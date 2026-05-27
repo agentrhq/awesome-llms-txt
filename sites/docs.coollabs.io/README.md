@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # coolLabs
 
-![Score 72/100 — Grade B](../../web/badge/docs.coollabs.io.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.coollabs.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.coollabs.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.coollabs.io/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.coollabs.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.coollabs.io)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.coollabs.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.coollabs.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Default Store View
 
-![Score 57/100 — Grade C](../../web/badge/www.customtentswithlogo.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.customtentswithlogo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.customtentswithlogo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.customtentswithlogo.com/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.customtentswithlogo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.customtentswithlogo.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.customtentswithlogo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.customtentswithlogo.com)
 ```
 
 ## Reproduce this score

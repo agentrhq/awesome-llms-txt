@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Dualmark
 
-![Score 65/100 — Grade B](../../web/badge/dualmark.dev.svg)
+![Score 65/100 — Grade B](../../docs/badge/dualmark.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://dualmark.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://dualmark.dev/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/dualmark.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dualmark.dev)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/dualmark.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dualmark.dev)
 ```
 
 ## Reproduce this score

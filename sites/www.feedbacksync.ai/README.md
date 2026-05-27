@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Feedbacksync
 
-![Score 56/100 — Grade C](../../web/badge/www.feedbacksync.ai.svg)
+![Score 56/100 — Grade C](../../docs/badge/www.feedbacksync.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.feedbacksync.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.feedbacksync.ai/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.feedbacksync.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.feedbacksync.ai)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.feedbacksync.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.feedbacksync.ai)
 ```
 
 ## Reproduce this score

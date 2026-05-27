@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Videowise
 
-![Score 71/100 — Grade B](../../web/badge/docs.videowise.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/docs.videowise.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.videowise.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.videowise.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.videowise.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.videowise.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.videowise.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.videowise.com)
 ```
 
 ## Reproduce this score

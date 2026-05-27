@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Vibetuner
 
-![Score 63/100 — Grade C](../../web/badge/vibetuner.alltuner.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/vibetuner.alltuner.com.svg)
 
 Category: **data** · [Live llms.txt](https://vibetuner.alltuner.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://vibetuner.alltuner.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vibetuner.alltuner.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vibetuner.alltuner.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vibetuner.alltuner.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vibetuner.alltuner.com)
 ```
 
 ## Reproduce this score

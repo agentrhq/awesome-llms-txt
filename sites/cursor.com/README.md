@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cursor Documentation
 
-![Score 71/100 — Grade B](../../web/badge/cursor.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/cursor.com.svg)
 
 Category: **billing** · [Live llms.txt](https://cursor.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://cursor.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cursor.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cursor.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cursor.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cursor.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cohere
 
-![Score 67/100 — Grade B](../../web/badge/cohere.com.svg)
+![Score 67/100 — Grade B](../../docs/badge/cohere.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://cohere.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **ai-platform** · [Live llms.txt](https://cohere.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cohere.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cohere.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cohere.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cohere.com)
 ```
 
 ## Reproduce this score

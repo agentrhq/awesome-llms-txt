@@ -15,7 +15,7 @@ freshness_age_days: 72
 
 # Qeeebo
 
-![Score 56/100 — Grade C](../../web/badge/qeeebo.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/qeeebo.com.svg)
 
 Category: **content** · [Live llms.txt](https://qeeebo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **content** · [Live llms.txt](https://qeeebo.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/qeeebo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/qeeebo.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/qeeebo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/qeeebo.com)
 ```
 
 ## Reproduce this score

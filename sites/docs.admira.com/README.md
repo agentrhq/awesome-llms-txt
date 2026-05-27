@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Admira Docs
 
-![Score 60/100 — Grade C](../../web/badge/docs.admira.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.admira.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.admira.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.admira.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.admira.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.admira.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.admira.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.admira.com)
 ```
 
 ## Reproduce this score

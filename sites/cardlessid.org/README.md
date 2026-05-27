@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cardless ID
 
-![Score 66/100 — Grade B](../../web/badge/cardlessid.org.svg)
+![Score 66/100 — Grade B](../../docs/badge/cardlessid.org.svg)
 
 Category: **auth** · [Live llms.txt](https://cardlessid.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://cardlessid.org/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cardlessid.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cardlessid.org)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cardlessid.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cardlessid.org)
 ```
 
 ## Reproduce this score

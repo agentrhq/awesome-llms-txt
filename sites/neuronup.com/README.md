@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 34/100 — Grade F](../../web/badge/neuronup.com.svg)
+![Score 34/100 — Grade F](../../docs/badge/neuronup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://neuronup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://neuronup.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/neuronup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/neuronup.com)
+[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/neuronup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/neuronup.com)
 ```
 
 ## Reproduce this score

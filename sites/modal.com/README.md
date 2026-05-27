@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Modal
 
-![Score 70/100 — Grade B](../../web/badge/modal.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/modal.com.svg)
 
 Category: **infra** · [Live llms.txt](https://modal.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://modal.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/modal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/modal.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/modal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/modal.com)
 ```
 
 ## Reproduce this score

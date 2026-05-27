@@ -15,7 +15,7 @@ freshness_age_days: 48
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../web/badge/pixonstudio.com.svg)
+![Score 39/100 — Grade D](../../docs/badge/pixonstudio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://pixonstudio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://pixonstudio.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/pixonstudio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pixonstudio.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pixonstudio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pixonstudio.com)
 ```
 
 ## Reproduce this score

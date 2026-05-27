@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — WE IN STYLE
 
-![Score 53/100 — Grade C](../../web/badge/we-in-style.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/we-in-style.com.svg)
 
 Category: **auth** · [Live llms.txt](https://we-in-style.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://we-in-style.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/we-in-style.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/we-in-style.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/we-in-style.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/we-in-style.com)
 ```
 
 ## Reproduce this score

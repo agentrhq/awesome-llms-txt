@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../web/badge/adsbravo.com.svg)
+![Score 41/100 — Grade D](../../docs/badge/adsbravo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://adsbravo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://adsbravo.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/adsbravo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/adsbravo.com)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/adsbravo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/adsbravo.com)
 ```
 
 ## Reproduce this score

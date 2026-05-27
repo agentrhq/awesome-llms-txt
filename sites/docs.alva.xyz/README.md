@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alva Docs
 
-![Score 54/100 — Grade C](../../web/badge/docs.alva.xyz.svg)
+![Score 54/100 — Grade C](../../docs/badge/docs.alva.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.alva.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.alva.xyz/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.alva.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.alva.xyz)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.alva.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.alva.xyz)
 ```
 
 ## Reproduce this score

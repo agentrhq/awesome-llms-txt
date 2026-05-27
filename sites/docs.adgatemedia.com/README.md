@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Adgatemedia Docs
 
-![Score 54/100 — Grade C](../../web/badge/docs.adgatemedia.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/docs.adgatemedia.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.prodegeads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.prodegeads.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.adgatemedia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.adgatemedia.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.adgatemedia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.adgatemedia.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 18
 
 # Performance Plus Tire
 
-![Score 66/100 — Grade B](../../web/badge/www.performanceplustire.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/www.performanceplustire.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.performanceplustire.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.performanceplustire.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.performanceplustire.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.performanceplustire.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.performanceplustire.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.performanceplustire.com)
 ```
 
 ## Reproduce this score

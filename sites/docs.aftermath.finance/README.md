@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Aftermath
 
-![Score 60/100 — Grade C](../../web/badge/docs.aftermath.finance.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.aftermath.finance.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.aftermath.finance/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.aftermath.finance/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.aftermath.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.aftermath.finance)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.aftermath.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.aftermath.finance)
 ```
 
 ## Reproduce this score

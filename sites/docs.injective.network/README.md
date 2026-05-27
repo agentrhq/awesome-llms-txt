@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Injective Docs
 
-![Score 70/100 — Grade B](../../web/badge/docs.injective.network.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.injective.network.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.injective.network/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://docs.injective.network/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.injective.network.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.injective.network)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.injective.network.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.injective.network)
 ```
 
 ## Reproduce this score

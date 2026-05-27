@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Vectorsgroup
 
-![Score 35/100 — Grade D](../../web/badge/vectorsgroup.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/vectorsgroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vectorsgroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://vectorsgroup.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vectorsgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vectorsgroup.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vectorsgroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vectorsgroup.com)
 ```
 
 ## Reproduce this score

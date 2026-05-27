@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Proguardpest
 
-![Score 56/100 — Grade C](../../web/badge/proguardpest.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/proguardpest.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://proguardpest.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://proguardpest.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/proguardpest.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/proguardpest.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/proguardpest.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/proguardpest.com)
 ```
 
 ## Reproduce this score

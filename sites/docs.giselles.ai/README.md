@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 45/100 — Grade D](../../web/badge/docs.giselles.ai.svg)
+![Score 45/100 — Grade D](../../docs/badge/docs.giselles.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.giselles.ai/en/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.giselles.ai/en/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.giselles.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.giselles.ai)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.giselles.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.giselles.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 51
 
 # Briteksolar
 
-![Score 53/100 — Grade C](../../web/badge/briteksolar.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/briteksolar.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://briteksolar.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://briteksolar.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/briteksolar.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/briteksolar.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/briteksolar.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/briteksolar.com)
 ```
 
 ## Reproduce this score

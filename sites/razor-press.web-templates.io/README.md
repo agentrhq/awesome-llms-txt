@@ -15,7 +15,7 @@ freshness_age_days: 169
 
 # Razor Press
 
-![Score 60/100 — Grade C](../../web/badge/razor-press.web-templates.io.svg)
+![Score 60/100 — Grade C](../../docs/badge/razor-press.web-templates.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://razor-press.web-templates.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://razor-press.web-templates.io/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/razor-press.web-templates.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/razor-press.web-templates.io)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/razor-press.web-templates.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/razor-press.web-templates.io)
 ```
 
 ## Reproduce this score

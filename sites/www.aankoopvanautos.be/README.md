@@ -15,7 +15,7 @@ freshness_age_days: 119
 
 # Aankoopvanautos
 
-![Score 39/100 — Grade D](../../web/badge/www.aankoopvanautos.be.svg)
+![Score 39/100 — Grade D](../../docs/badge/www.aankoopvanautos.be.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.aankoopvanautos.be/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.aankoopvanautos.be/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.aankoopvanautos.be.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.aankoopvanautos.be)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.aankoopvanautos.be.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.aankoopvanautos.be)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # X Developer Platform
 
-![Score 80/100 — Grade A-](../../web/badge/docs.x.com.svg)
+![Score 80/100 — Grade A-](../../docs/badge/docs.x.com.svg)
 
 Category: **comms** · [Live llms.txt](https://docs.x.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://docs.x.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.x.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.x.com)
+[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.x.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.x.com)
 ```
 
 ## Reproduce this score

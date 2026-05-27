@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Claw-Stack
 
-![Score 58/100 — Grade C](../../web/badge/claw-stack.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/claw-stack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://claw-stack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://claw-stack.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/claw-stack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/claw-stack.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/claw-stack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/claw-stack.com)
 ```
 
 ## Reproduce this score

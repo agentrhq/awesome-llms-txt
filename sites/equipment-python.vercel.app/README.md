@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Equipment Python
 
-![Score 66/100 — Grade B](../../web/badge/equipment-python.vercel.app.svg)
+![Score 66/100 — Grade B](../../docs/badge/equipment-python.vercel.app.svg)
 
 Category: **data** · [Live llms.txt](https://equipment-python.vercel.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://equipment-python.vercel.app/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/equipment-python.vercel.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/equipment-python.vercel.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/equipment-python.vercel.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/equipment-python.vercel.app)
 ```
 
 ## Reproduce this score

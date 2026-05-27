@@ -15,7 +15,7 @@ freshness_age_days: 62
 
 # Froggyads
 
-![Score 57/100 — Grade C](../../web/badge/froggyads.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/froggyads.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://froggyads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://froggyads.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/froggyads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/froggyads.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/froggyads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/froggyads.com)
 ```
 
 ## Reproduce this score

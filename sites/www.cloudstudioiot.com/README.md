@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cloud Studio IoT
 
-![Score 62/100 — Grade C](../../web/badge/www.cloudstudioiot.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.cloudstudioiot.com.svg)
 
 Category: **observability** · [Live llms.txt](https://cloudstudioiot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://cloudstudioiot.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cloudstudioiot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cloudstudioiot.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cloudstudioiot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cloudstudioiot.com)
 ```
 
 ## Reproduce this score

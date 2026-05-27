@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # TwicPics Documentation
 
-![Score 67/100 — Grade B](../../web/badge/www.twicpics.com.svg)
+![Score 67/100 — Grade B](../../docs/badge/www.twicpics.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.twicpics.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.twicpics.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.twicpics.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.twicpics.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.twicpics.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.twicpics.com)
 ```
 
 ## Reproduce this score

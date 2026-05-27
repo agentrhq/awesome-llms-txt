@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Captivaterecipes
 
-![Score 27/100 — Grade F](../../web/badge/www.captivaterecipes.com.svg)
+![Score 27/100 — Grade F](../../docs/badge/www.captivaterecipes.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://captivaterecipes.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://captivaterecipes.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.captivaterecipes.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.captivaterecipes.com)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.captivaterecipes.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.captivaterecipes.com)
 ```
 
 ## Reproduce this score

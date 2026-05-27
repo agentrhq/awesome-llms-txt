@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # VAT Sense
 
-![Score 75/100 — Grade B+](../../web/badge/vatsense.com.svg)
+![Score 75/100 — Grade B+](../../docs/badge/vatsense.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vatsense.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://vatsense.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vatsense.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vatsense.com)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vatsense.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vatsense.com)
 ```
 
 ## Reproduce this score

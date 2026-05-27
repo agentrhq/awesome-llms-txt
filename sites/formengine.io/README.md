@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # FormEngine LLM Index
 
-![Score 70/100 — Grade B](../../web/badge/formengine.io.svg)
+![Score 70/100 — Grade B](../../docs/badge/formengine.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://formengine.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://formengine.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/formengine.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/formengine.io)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/formengine.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/formengine.io)
 ```
 
 ## Reproduce this score

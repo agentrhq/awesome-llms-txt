@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Acurast Documentation
 
-![Score 59/100 — Grade C](../../web/badge/docs.acurast.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/docs.acurast.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.acurast.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://docs.acurast.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.acurast.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.acurast.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.acurast.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.acurast.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 55
 
 # Cm3
 
-![Score 55/100 — Grade C](../../web/badge/www.cm3.com.au.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.cm3.com.au.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cm3.com.au/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.cm3.com.au/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cm3.com.au.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cm3.com.au)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cm3.com.au.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cm3.com.au)
 ```
 
 ## Reproduce this score

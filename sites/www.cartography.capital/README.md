@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cartography
 
-![Score 57/100 — Grade C](../../web/badge/www.cartography.capital.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.cartography.capital.svg)
 
 Category: **billing** · [Live llms.txt](https://www.cartography.capital/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **billing** · [Live llms.txt](https://www.cartography.capital/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cartography.capital.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cartography.capital)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cartography.capital.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cartography.capital)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 71
 
 # OneV's Den
 
-![Score 64/100 — Grade C](../../web/badge/onevcat.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/onevcat.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://onevcat.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://onevcat.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/onevcat.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/onevcat.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/onevcat.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/onevcat.com)
 ```
 
 ## Reproduce this score

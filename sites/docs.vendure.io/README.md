@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vendure Docs
 
-![Score 65/100 — Grade B](../../web/badge/docs.vendure.io.svg)
+![Score 65/100 — Grade B](../../docs/badge/docs.vendure.io.svg)
 
 Category: **commerce** · [Live llms.txt](https://docs.vendure.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://docs.vendure.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.vendure.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vendure.io)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vendure.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vendure.io)
 ```
 
 ## Reproduce this score

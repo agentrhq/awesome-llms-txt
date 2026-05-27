@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Ikangai
 
-![Score 35/100 — Grade D](../../web/badge/www.ikangai.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/www.ikangai.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.ikangai.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.ikangai.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.ikangai.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ikangai.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.ikangai.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ikangai.com)
 ```
 
 ## Reproduce this score

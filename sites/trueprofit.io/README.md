@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Trueprofit
 
-![Score 65/100 — Grade B](../../web/badge/trueprofit.io.svg)
+![Score 65/100 — Grade B](../../docs/badge/trueprofit.io.svg)
 
 Category: **commerce** · [Live llms.txt](https://trueprofit.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://trueprofit.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/trueprofit.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/trueprofit.io)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/trueprofit.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/trueprofit.io)
 ```
 
 ## Reproduce this score

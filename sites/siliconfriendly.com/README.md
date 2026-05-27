@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Silicon Friendly
 
-![Score 59/100 — Grade C](../../web/badge/siliconfriendly.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/siliconfriendly.com.svg)
 
 Category: **auth** · [Live llms.txt](https://siliconfriendly.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://siliconfriendly.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/siliconfriendly.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/siliconfriendly.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/siliconfriendly.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/siliconfriendly.com)
 ```
 
 ## Reproduce this score

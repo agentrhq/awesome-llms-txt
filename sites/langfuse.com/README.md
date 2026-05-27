@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Langfuse
 
-![Score 60/100 — Grade C](../../web/badge/langfuse.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/langfuse.com.svg)
 
 Category: **observability** · [Live llms.txt](https://langfuse.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://langfuse.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/langfuse.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/langfuse.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/langfuse.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/langfuse.com)
 ```
 
 ## Reproduce this score

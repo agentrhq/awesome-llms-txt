@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Venice API
 
-![Score 80/100 — Grade A-](../../web/badge/docs.venice.ai.svg)
+![Score 80/100 — Grade A-](../../docs/badge/docs.venice.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.venice.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.venice.ai/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.venice.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.venice.ai)
+[![llms.txt score 80 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.venice.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.venice.ai)
 ```
 
 ## Reproduce this score

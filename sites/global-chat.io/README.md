@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Global Chat
 
-![Score 57/100 — Grade C](../../web/badge/global-chat.io.svg)
+![Score 57/100 — Grade C](../../docs/badge/global-chat.io.svg)
 
 Category: **comms** · [Live llms.txt](https://global-chat.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **comms** · [Live llms.txt](https://global-chat.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/global-chat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/global-chat.io)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/global-chat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/global-chat.io)
 ```
 
 ## Reproduce this score

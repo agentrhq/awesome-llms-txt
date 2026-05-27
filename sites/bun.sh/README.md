@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Bun
 
-![Score 68/100 — Grade B](../../web/badge/bun.sh.svg)
+![Score 68/100 — Grade B](../../docs/badge/bun.sh.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bun.sh/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://bun.sh/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bun.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bun.sh)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bun.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bun.sh)
 ```
 
 ## Reproduce this score

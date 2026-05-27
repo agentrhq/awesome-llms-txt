@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Llmstxt
 
-![Score 60/100 — Grade C](../../web/badge/llmstxt.org.svg)
+![Score 60/100 — Grade C](../../docs/badge/llmstxt.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://llmstxt.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://llmstxt.org/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/llmstxt.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmstxt.org)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llmstxt.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmstxt.org)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Hericoll
 
-![Score 45/100 — Grade D](../../web/badge/hericoll.com.svg)
+![Score 45/100 — Grade D](../../docs/badge/hericoll.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://hericoll.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://hericoll.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/hericoll.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hericoll.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/hericoll.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/hericoll.com)
 ```
 
 ## Reproduce this score

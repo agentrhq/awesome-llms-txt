@@ -2,12 +2,12 @@
 
 > The scored leaderboard of `llms.txt` quality. Like [Lighthouse](https://developer.chrome.com/docs/lighthouse/), but for the file that tells agents what your site can do.
 
-[![Sites scored](https://img.shields.io/badge/sites_scored-1023-blue.svg)](./web/leaderboard.json)
+[![Sites scored](https://img.shields.io/badge/sites_scored-1016-blue.svg)](./docs/leaderboard.json)
 [![Avg score](https://img.shields.io/badge/avg_score-58-yellow.svg)](./RUBRIC.md)
 [![A grades](https://img.shields.io/badge/A_grades-3-brightgreen.svg)](#top-25)
 [![License: CC0-1.0](https://img.shields.io/badge/data-CC0--1.0-lightgrey.svg)](./LICENSE)
 
-The public leaderboard of `llms.txt` quality. We scored **1,023 production files**. Stripe scored **69**. Vercel scored **71**. Anthropic Docs scored **68**. Only **3** sites earned an **A**. What's your score?
+The public leaderboard of `llms.txt` quality. We scored **1,016 production files**. Stripe scored **69**. Vercel scored **71**. Anthropic Docs scored **68**. Only **3** sites earned an **A**. What's your score?
 
 ## Contents
 
@@ -53,11 +53,11 @@ Grade bands borrowed from Mozilla HTTP Observatory and capped at 100: **A+** ≥
 
 ## Headline numbers
 
-- **1,023** accepted `llms.txt` files. We attempted **1,275** and rejected the rest for 404, HTML body, redirect chains, or auth walls.
+- **1,016** accepted `llms.txt` files. We attempted **1,275** and rejected the rest for 404, HTML body, redirect chains, or auth walls.
 - **3** sites earned an **A** grade. Top of the leaderboard: **[Neon](./sites/neon.tech/)** at **89**.
 - Average score: **58 / 100**. Median: **58**.
-- Grade distribution: A=3 · A-=8 · B+=51 · B=233 · C=539 · D=144 · F=45.
-- Real `Last-Modified` data on **554 / 1023** sites (54%). The rest score the neutral 5 / 10 default on Freshness until they emit the header.
+- Grade distribution: A=3 · A-=7 · B+=51 · B=231 · C=535 · D=144 · F=45.
+- Real `Last-Modified` data on **553 / 1016** sites (54%). The rest score the neutral 5 / 10 default on Freshness until they emit the header.
 
 ## Top 25
 
@@ -70,26 +70,26 @@ Grade bands borrowed from Mozilla HTTP Observatory and capped at 100: **A+** ≥
 | 5 | [Zapier Docs](./sites/docs.zapier.com/) | `docs.zapier.com` | 82 | **A-** | Developer tools | 38.6 KB |
 | 6 | [Apify Documentation](./sites/docs.apify.com/) | `docs.apify.com` | 81 | **A-** | Infra | 84.5 KB |
 | 7 | [PostHog](./sites/posthog.com/) | `posthog.com` | 81 | **A-** | Observability | 277.6 KB |
-| 8 | [Speakeasy](./sites/www.speakeasy.com/) | `www.speakeasy.com` | 81 | **A-** | Developer tools | 14.8 KB |
-| 9 | [Keito](./sites/keito.ai/) | `keito.ai` | 80 | **A-** | AI platforms | 8.0 KB |
-| 10 | [Venice API](./sites/docs.venice.ai/) | `docs.venice.ai` | 80 | **A-** | AI platforms | 15.0 KB |
-| 11 | [X Developer Platform](./sites/docs.x.com/) | `docs.x.com` | 80 | **A-** | Comms | 3.1 KB |
-| 12 | [Apify](./sites/apify.com/) | `apify.com` | 79 | **B+** | Infra | 11.8 KB |
-| 13 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** | Developer tools | 9.2 KB |
-| 14 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** | Developer tools | 26.1 KB |
-| 15 | [Adyen Docs](./sites/docs.adyen.com/) | `docs.adyen.com` | 78 | **B+** | Billing | 389.4 KB |
-| 16 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** | Auth | 21.7 KB |
-| 17 | [Deployhq](./sites/www.deployhq.com/) | `www.deployhq.com` | 78 | **B+** | Infra | 117.4 KB |
-| 18 | [Formo Docs](./sites/docs.formo.so/) | `docs.formo.so` | 78 | **B+** | Observability | 25.9 KB |
-| 19 | [Mangopay docs](./sites/docs.mangopay.com/) | `docs.mangopay.com` | 78 | **B+** | Billing | 54.9 KB |
-| 20 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** | Developer tools | 9.7 KB |
-| 21 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** | Developer tools | 50.7 KB |
-| 22 | [Parallel](./sites/docs.parallel.ai/) | `docs.parallel.ai` | 78 | **B+** | AI platforms | 19.7 KB |
-| 23 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** | Developer tools | 69.3 KB |
-| 24 | [Redis Documentation](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
-| 25 | [Scrapfly Documentation](./sites/docs.scrapfly.io/) | `docs.scrapfly.io` | 78 | **B+** | Infra | 22.5 KB |
+| 8 | [Keito](./sites/keito.ai/) | `keito.ai` | 80 | **A-** | AI platforms | 8.0 KB |
+| 9 | [Venice API](./sites/docs.venice.ai/) | `docs.venice.ai` | 80 | **A-** | AI platforms | 15.0 KB |
+| 10 | [X Developer Platform](./sites/docs.x.com/) | `docs.x.com` | 80 | **A-** | Comms | 3.1 KB |
+| 11 | [Apify](./sites/apify.com/) | `apify.com` | 79 | **B+** | Infra | 11.8 KB |
+| 12 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** | Developer tools | 9.2 KB |
+| 13 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** | Developer tools | 26.1 KB |
+| 14 | [Adyen Docs](./sites/docs.adyen.com/) | `docs.adyen.com` | 78 | **B+** | Billing | 389.4 KB |
+| 15 | [Better Auth](./sites/better-auth.com/) | `better-auth.com` | 78 | **B+** | Auth | 21.7 KB |
+| 16 | [Deployhq](./sites/www.deployhq.com/) | `www.deployhq.com` | 78 | **B+** | Infra | 117.4 KB |
+| 17 | [Formo Docs](./sites/docs.formo.so/) | `docs.formo.so` | 78 | **B+** | Observability | 25.9 KB |
+| 18 | [Mangopay docs](./sites/docs.mangopay.com/) | `docs.mangopay.com` | 78 | **B+** | Billing | 54.9 KB |
+| 19 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** | Developer tools | 9.7 KB |
+| 20 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** | Developer tools | 50.7 KB |
+| 21 | [Parallel](./sites/docs.parallel.ai/) | `docs.parallel.ai` | 78 | **B+** | AI platforms | 19.7 KB |
+| 22 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** | Developer tools | 69.3 KB |
+| 23 | [Redis Documentation](./sites/redis.io/) | `redis.io` | 78 | **B+** | Data | 45.8 KB |
+| 24 | [Scrapfly Documentation](./sites/docs.scrapfly.io/) | `docs.scrapfly.io` | 78 | **B+** | Infra | 22.5 KB |
+| 25 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** | Developer tools | 31.5 KB |
 
-[Full table (1,023 rows) →](./web/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) <!-- pages -->
+[Full table (1,016 rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) <!-- pages -->
 
 ## Lowest scorers (each is a 5-minute fix)
 
@@ -144,7 +144,7 @@ The rubric is identical for every site. Categories exist so an agent builder loo
 | 14 | [Giles' Blog](./sites/www.gilesthomas.com/) | `www.gilesthomas.com` | 68 | **B** |
 | 15 | [Cohere](./sites/cohere.com/) | `cohere.com` | 67 | **B** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 37._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 37._
 
 ### Data (30)
 
@@ -166,7 +166,7 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 37._
 | 14 | [Upstash](./sites/upstash.com/) | `upstash.com` | 65 | **B** |
 | 15 | [Pinecone](./sites/pinecone.io/) | `pinecone.io` | 64 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 30._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 30._
 
 ### Auth (31)
 
@@ -188,9 +188,9 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 30._
 | 14 | [Keeper Documentation Portal](./sites/docs.keeper.io/) | `docs.keeper.io` | 67 | **B** |
 | 15 | [Cardless ID](./sites/cardlessid.org/) | `cardlessid.org` | 66 | **B** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 31._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 31._
 
-### Observability (29)
+### Observability (28)
 
 | # | Site | Domain | Score | Grade |
 |---|------|--------|------:|:-----:|
@@ -201,18 +201,18 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 31._
 | 5 | [LangWatch](./sites/docs.langwatch.ai/) | `docs.langwatch.ai` | 70 | **B** |
 | 6 | [Datadog](./sites/datadog.com/) | `datadog.com` | 69 | **B** |
 | 7 | [Dailygoal](./sites/www.dailygoal.fit/) | `www.dailygoal.fit` | 66 | **B** |
-| 8 | [Grafana documentation](./sites/grafana.com/) | `grafana.com` | 65 | **B** |
-| 9 | [Cloud Studio IoT](./sites/cloudstudioiot.com/) | `cloudstudioiot.com` | 64 | **C** |
-| 10 | [jobdata API](./sites/jobdataapi.com/) | `jobdataapi.com` | 64 | **C** |
-| 11 | [Rankscale](./sites/rankscale.ai/) | `rankscale.ai` | 64 | **C** |
-| 12 | [New Relic](./sites/newrelic.com/) | `newrelic.com` | 63 | **C** |
-| 13 | [Cloud Studio IoT](./sites/www.cloudstudioiot.com/) | `www.cloudstudioiot.com` | 62 | **C** |
-| 14 | [Helicone](./sites/www.helicone.ai/) | `www.helicone.ai` | 62 | **C** |
-| 15 | [Scout Monitoring](./sites/www.scoutapm.com/) | `www.scoutapm.com` | 62 | **C** |
+| 8 | [Cloud Studio IoT](./sites/cloudstudioiot.com/) | `cloudstudioiot.com` | 64 | **C** |
+| 9 | [jobdata API](./sites/jobdataapi.com/) | `jobdataapi.com` | 64 | **C** |
+| 10 | [Rankscale](./sites/rankscale.ai/) | `rankscale.ai` | 64 | **C** |
+| 11 | [New Relic](./sites/newrelic.com/) | `newrelic.com` | 63 | **C** |
+| 12 | [Cloud Studio IoT](./sites/www.cloudstudioiot.com/) | `www.cloudstudioiot.com` | 62 | **C** |
+| 13 | [Helicone](./sites/www.helicone.ai/) | `www.helicone.ai` | 62 | **C** |
+| 14 | [Scout Monitoring](./sites/www.scoutapm.com/) | `www.scoutapm.com` | 62 | **C** |
+| 15 | [Langfuse](./sites/langfuse.com/) | `langfuse.com` | 60 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 29._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 28._
 
-### Infra (59)
+### Infra (58)
 
 | # | Site | Domain | Score | Grade |
 |---|------|--------|------:|:-----:|
@@ -232,7 +232,7 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 29._
 | 14 | [Cloudflare](./sites/cloudflare.com/) | `cloudflare.com` | 70 | **B** |
 | 15 | [Injective Docs](./sites/docs.injective.network/) | `docs.injective.network` | 70 | **B** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 59._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 58._
 
 ### Comms (42)
 
@@ -254,7 +254,7 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 59._
 | 14 | [Inbox SuperPilot](./sites/inboxsuperpilot.com/) | `inboxsuperpilot.com` | 63 | **C** |
 | 15 | [Automatio](./sites/automatio.ai/) | `automatio.ai` | 62 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 42._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 42._
 
 ### Docs platforms (1)
 
@@ -282,9 +282,9 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 42._
 | 14 | [Latuos](./sites/latuos.com/) | `latuos.com` | 62 | **C** |
 | 15 | [About](./sites/blog.zithara.com/) | `blog.zithara.com` | 60 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 28._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 28._
 
-### Commerce (24)
+### Commerce (23)
 
 | # | Site | Domain | Score | Grade |
 |---|------|--------|------:|:-----:|
@@ -304,7 +304,7 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 28._
 | 14 | [Handbook](./sites/handbook.exemplar.dev/) | `handbook.exemplar.dev` | 60 | **C** |
 | 15 | [Zenbaki Inventory](./sites/www.zenbaki-inventory.com/) | `www.zenbaki-inventory.com` | 60 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 24._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 23._
 
 ### Content (17)
 
@@ -326,7 +326,7 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 24._
 | 14 | [Tagshop](./sites/tagshop.ai/) | `tagshop.ai` | 55 | **C** |
 | 15 | [Doc2lang](./sites/doc2lang.com/) | `doc2lang.com` | 51 | **C** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 17._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 17._
 
 ### Search (6)
 
@@ -339,27 +339,27 @@ _See [`leaderboard.json`](./web/leaderboard.json) for the full 17._
 | 5 | [Pixaura](./sites/www.pixaura.com/) | `www.pixaura.com` | 52 | **C** |
 | 6 | [Cloudfix](./sites/cloudfix.com/) | `cloudfix.com` | 49 | **D** |
 
-### Developer tools (719)
+### Developer tools (715)
 
 | # | Site | Domain | Score | Grade |
 |---|------|--------|------:|:-----:|
 | 1 | [Zapier Docs](./sites/docs.zapier.com/) | `docs.zapier.com` | 82 | **A-** |
-| 2 | [Speakeasy](./sites/www.speakeasy.com/) | `www.speakeasy.com` | 81 | **A-** |
-| 3 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** |
-| 4 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** |
-| 5 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** |
-| 6 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** |
-| 7 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** |
-| 8 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** |
-| 9 | [Datafold](./sites/docs.datafold.com/) | `docs.datafold.com` | 77 | **B+** |
-| 10 | [Docs](./sites/docs.flowx.ai/) | `docs.flowx.ai` | 77 | **B+** |
-| 11 | [GitHub](./sites/github.com/) | `github.com` | 77 | **B+** |
-| 12 | [Hyperline](./sites/docs.hyperline.co/) | `docs.hyperline.co` | 77 | **B+** |
-| 13 | [Perplexity](./sites/docs.perplexity.ai/) | `docs.perplexity.ai` | 77 | **B+** |
-| 14 | [Side Copilot](./sites/sidespace.app/) | `sidespace.app` | 77 | **B+** |
-| 15 | [Coinbase Developer Documentation](./sites/docs.cdp.coinbase.com/) | `docs.cdp.coinbase.com` | 76 | **B+** |
+| 2 | [Linear](./sites/linear.app/) | `linear.app` | 79 | **B+** |
+| 3 | [Remult](./sites/remult.dev/) | `remult.dev` | 79 | **B+** |
+| 4 | [Nitro](./sites/nitro.build/) | `nitro.build` | 78 | **B+** |
+| 5 | [Nuxt Docs](./sites/nuxt.com/) | `nuxt.com` | 78 | **B+** |
+| 6 | [Plan Harmony](./sites/planharmony.com/) | `planharmony.com` | 78 | **B+** |
+| 7 | [Uithing](./sites/uithing.com/) | `uithing.com` | 78 | **B+** |
+| 8 | [Datafold](./sites/docs.datafold.com/) | `docs.datafold.com` | 77 | **B+** |
+| 9 | [Docs](./sites/docs.flowx.ai/) | `docs.flowx.ai` | 77 | **B+** |
+| 10 | [GitHub](./sites/github.com/) | `github.com` | 77 | **B+** |
+| 11 | [Hyperline](./sites/docs.hyperline.co/) | `docs.hyperline.co` | 77 | **B+** |
+| 12 | [Perplexity](./sites/docs.perplexity.ai/) | `docs.perplexity.ai` | 77 | **B+** |
+| 13 | [Side Copilot](./sites/sidespace.app/) | `sidespace.app` | 77 | **B+** |
+| 14 | [Coinbase Developer Documentation](./sites/docs.cdp.coinbase.com/) | `docs.cdp.coinbase.com` | 76 | **B+** |
+| 15 | [Expo Docs](./sites/docs.expo.dev/) | `docs.expo.dev` | 76 | **B+** |
 
-_See [`leaderboard.json`](./web/leaderboard.json) for the full 719._
+_See [`leaderboard.json`](./docs/leaderboard.json) for the full 715._
 
 
 ## Methodology in detail
@@ -389,7 +389,7 @@ Zero runtime dependencies. Node ≥ 18. Tool source: [`tools/llms-txt-score/`](.
 Every scored site has its own SVG badge at `web/badge/<domain>.svg`. Drop this in your project README:
 
 ```markdown
-[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
+[![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/your-site.com)
 ```
 
 The badge color tracks the grade (green for A, red for F). Re-scored monthly — your badge updates automatically.

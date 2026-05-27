@@ -15,7 +15,7 @@ freshness_age_days: 97
 
 # BuiltWith
 
-![Score 50/100 — Grade C](../../web/badge/builtwith.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/builtwith.com.svg)
 
 Category: **infra** · [Live llms.txt](https://builtwith.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://builtwith.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/builtwith.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/builtwith.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/builtwith.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/builtwith.com)
 ```
 
 ## Reproduce this score

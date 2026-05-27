@@ -15,7 +15,7 @@ freshness_age_days: 455
 
 # Tatildenince
 
-![Score 43/100 — Grade D](../../web/badge/www.tatildenince.com.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.tatildenince.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tatildenince.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tatildenince.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tatildenince.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tatildenince.com)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tatildenince.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tatildenince.com)
 ```
 
 ## Reproduce this score

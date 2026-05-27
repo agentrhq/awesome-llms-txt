@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Supabase Docs
 
-![Score 64/100 — Grade C](../../web/badge/supabase.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/supabase.com.svg)
 
 Category: **data** · [Live llms.txt](https://supabase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://supabase.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/supabase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/supabase.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/supabase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/supabase.com)
 ```
 
 ## Reproduce this score

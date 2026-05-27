@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Aevo Documentation
 
-![Score 61/100 — Grade C](../../web/badge/docs.aevo.xyz.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.aevo.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.aevo.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.aevo.xyz/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.aevo.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.aevo.xyz)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.aevo.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.aevo.xyz)
 ```
 
 ## Reproduce this score

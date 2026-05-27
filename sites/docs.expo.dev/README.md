@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Expo Docs
 
-![Score 76/100 — Grade B+](../../web/badge/docs.expo.dev.svg)
+![Score 76/100 — Grade B+](../../docs/badge/docs.expo.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.expo.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.expo.dev/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.expo.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.expo.dev)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.expo.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.expo.dev)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 58
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../web/badge/www.webhostingpk.com.svg)
+![Score 39/100 — Grade D](../../docs/badge/www.webhostingpk.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.webhostingpk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.webhostingpk.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.webhostingpk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.webhostingpk.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.webhostingpk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.webhostingpk.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lazada
 
-![Score 43/100 — Grade D](../../web/badge/www.lazada.sg.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.lazada.sg.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.lazada.sg/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.lazada.sg/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.lazada.sg.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.lazada.sg)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.lazada.sg.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.lazada.sg)
 ```
 
 ## Reproduce this score

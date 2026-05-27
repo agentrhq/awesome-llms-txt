@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zipchat
 
-![Score 56/100 — Grade C](../../web/badge/docs.zipchat.ai.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.zipchat.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zipchat.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.zipchat.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.zipchat.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zipchat.ai)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.zipchat.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zipchat.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Next.js
 
-![Score 60/100 — Grade C](../../web/badge/nextjs.org.svg)
+![Score 60/100 — Grade C](../../docs/badge/nextjs.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nextjs.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://nextjs.org/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nextjs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nextjs.org)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nextjs.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nextjs.org)
 ```
 
 ## Reproduce this score

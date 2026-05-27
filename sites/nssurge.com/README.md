@@ -15,7 +15,7 @@ freshness_age_days: 16
 
 # Surge Documentation – LLM Unified Entry
 
-![Score 54/100 — Grade C](../../web/badge/nssurge.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/nssurge.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nssurge.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://nssurge.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nssurge.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nssurge.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nssurge.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nssurge.com)
 ```
 
 ## Reproduce this score

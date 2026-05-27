@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # UPCGen
 
-![Score 60/100 — Grade C](../../web/badge/upcgen.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/upcgen.com.svg)
 
 Category: **billing** · [Live llms.txt](https://upcgen.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://upcgen.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/upcgen.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upcgen.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/upcgen.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/upcgen.com)
 ```
 
 ## Reproduce this score

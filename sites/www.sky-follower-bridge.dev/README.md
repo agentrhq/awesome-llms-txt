@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sky Follower Bridge
 
-![Score 56/100 — Grade C](../../web/badge/www.sky-follower-bridge.dev.svg)
+![Score 56/100 — Grade C](../../docs/badge/www.sky-follower-bridge.dev.svg)
 
 Category: **infra** · [Live llms.txt](https://www.sky-follower-bridge.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://www.sky-follower-bridge.dev/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.sky-follower-bridge.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sky-follower-bridge.dev)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sky-follower-bridge.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sky-follower-bridge.dev)
 ```
 
 ## Reproduce this score

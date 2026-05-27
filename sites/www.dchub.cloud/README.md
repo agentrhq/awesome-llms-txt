@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Dchub
 
-![Score 51/100 — Grade C](../../web/badge/www.dchub.cloud.svg)
+![Score 51/100 — Grade C](../../docs/badge/www.dchub.cloud.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://dchub.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://dchub.cloud/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.dchub.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dchub.cloud)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dchub.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dchub.cloud)
 ```
 
 ## Reproduce this score

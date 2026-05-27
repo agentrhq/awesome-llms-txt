@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Glide
 
-![Score 70/100 — Grade B](../../web/badge/www.glideapps.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/www.glideapps.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.glideapps.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.glideapps.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.glideapps.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.glideapps.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.glideapps.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.glideapps.com)
 ```
 
 ## Reproduce this score

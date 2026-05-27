@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sketch To
 
-![Score 49/100 — Grade D](../../web/badge/www.sketchto.com.svg)
+![Score 49/100 — Grade D](../../docs/badge/www.sketchto.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.sketchto.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://www.sketchto.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.sketchto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sketchto.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sketchto.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sketchto.com)
 ```
 
 ## Reproduce this score

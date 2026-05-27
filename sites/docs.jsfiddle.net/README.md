@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # JSFiddle Docs
 
-![Score 56/100 — Grade C](../../web/badge/docs.jsfiddle.net.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.jsfiddle.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.jsfiddle.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.jsfiddle.net/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.jsfiddle.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.jsfiddle.net)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.jsfiddle.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.jsfiddle.net)
 ```
 
 ## Reproduce this score

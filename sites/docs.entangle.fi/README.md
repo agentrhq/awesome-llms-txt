@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Entangle Documentation
 
-![Score 57/100 — Grade C](../../web/badge/docs.entangle.fi.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.entangle.fi.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.entangle.fi/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.entangle.fi/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.entangle.fi.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.entangle.fi)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.entangle.fi.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.entangle.fi)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mdutil
 
-![Score 62/100 — Grade C](../../web/badge/mdutil.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/mdutil.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mdutil.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://mdutil.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mdutil.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mdutil.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mdutil.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mdutil.com)
 ```
 
 ## Reproduce this score

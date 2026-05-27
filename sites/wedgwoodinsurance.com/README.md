@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Wedgwoodinsurance
 
-![Score 35/100 — Grade D](../../web/badge/wedgwoodinsurance.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/wedgwoodinsurance.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wedgwoodinsurance.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://wedgwoodinsurance.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/wedgwoodinsurance.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wedgwoodinsurance.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/wedgwoodinsurance.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wedgwoodinsurance.com)
 ```
 
 ## Reproduce this score

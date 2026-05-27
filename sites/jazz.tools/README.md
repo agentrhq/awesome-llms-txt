@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Documentation
 
-![Score 48/100 — Grade D](../../web/badge/jazz.tools.svg)
+![Score 48/100 — Grade D](../../docs/badge/jazz.tools.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://jazz.tools/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://jazz.tools/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/jazz.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jazz.tools)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jazz.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jazz.tools)
 ```
 
 ## Reproduce this score

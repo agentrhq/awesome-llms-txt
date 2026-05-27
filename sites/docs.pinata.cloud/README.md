@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pinata Docs
 
-![Score 72/100 — Grade B](../../web/badge/docs.pinata.cloud.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.pinata.cloud.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.pinata.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.pinata.cloud/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.pinata.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pinata.cloud)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pinata.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pinata.cloud)
 ```
 
 ## Reproduce this score

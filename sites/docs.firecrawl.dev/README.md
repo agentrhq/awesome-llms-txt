@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Firecrawl Docs
 
-![Score 75/100 — Grade B+](../../web/badge/docs.firecrawl.dev.svg)
+![Score 75/100 — Grade B+](../../docs/badge/docs.firecrawl.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.firecrawl.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.firecrawl.dev/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.firecrawl.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.firecrawl.dev)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.firecrawl.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.firecrawl.dev)
 ```
 
 ## Reproduce this score

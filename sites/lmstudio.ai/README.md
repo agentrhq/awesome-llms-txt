@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # app
 
-![Score 52/100 — Grade C](../../web/badge/lmstudio.ai.svg)
+![Score 52/100 — Grade C](../../docs/badge/lmstudio.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://lmstudio.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://lmstudio.ai/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/lmstudio.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lmstudio.ai)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lmstudio.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lmstudio.ai)
 ```
 
 ## Reproduce this score

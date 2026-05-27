@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Quokkalabs
 
-![Score 33/100 — Grade F](../../web/badge/quokkalabs.com.svg)
+![Score 33/100 — Grade F](../../docs/badge/quokkalabs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://quokkalabs.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 33 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/quokkalabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quokkalabs.com)
+[![llms.txt score 33 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/quokkalabs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/quokkalabs.com)
 ```
 
 ## Reproduce this score

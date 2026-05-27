@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # De Docs
 
-![Score 56/100 — Grade C](../../web/badge/docs.de.fi.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.de.fi.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.de.fi/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.de.fi/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.de.fi.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.de.fi)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.de.fi.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.de.fi)
 ```
 
 ## Reproduce this score

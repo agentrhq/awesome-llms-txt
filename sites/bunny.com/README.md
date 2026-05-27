@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bunny
 
-![Score 53/100 — Grade C](../../web/badge/bunny.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/bunny.com.svg)
 
 Category: **billing** · [Live llms.txt](https://bunny.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://bunny.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bunny.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bunny.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bunny.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bunny.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Scripnote
 
-![Score 30/100 — Grade F](../../web/badge/scripnote.com.svg)
+![Score 30/100 — Grade F](../../docs/badge/scripnote.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://scripnote.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://scripnote.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 30 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/scripnote.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/scripnote.com)
+[![llms.txt score 30 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/scripnote.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/scripnote.com)
 ```
 
 ## Reproduce this score

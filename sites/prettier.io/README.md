@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Prettier
 
-![Score 53/100 — Grade C](../../web/badge/prettier.io.svg)
+![Score 53/100 — Grade C](../../docs/badge/prettier.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://prettier.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://prettier.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/prettier.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prettier.io)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/prettier.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/prettier.io)
 ```
 
 ## Reproduce this score

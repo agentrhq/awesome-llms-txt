@@ -15,7 +15,7 @@ freshness_age_days: 389
 
 # Appointo
 
-![Score 40/100 — Grade D](../../web/badge/www.appointo.me.svg)
+![Score 40/100 — Grade D](../../docs/badge/www.appointo.me.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cdn.prod.website-files.com/6555e79256c1657a9a2e92c3/681501d67e1d7b8883303395_llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://cdn.prod.website-files.com/65
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.appointo.me.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.appointo.me)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.appointo.me.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.appointo.me)
 ```
 
 ## Reproduce this score

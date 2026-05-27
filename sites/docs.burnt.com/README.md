@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # XION
 
-![Score 58/100 — Grade C](../../web/badge/docs.burnt.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/docs.burnt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.burnt.com/xion/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.burnt.com/xion/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.burnt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.burnt.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.burnt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.burnt.com)
 ```
 
 ## Reproduce this score

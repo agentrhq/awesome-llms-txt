@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ZEP Guidebook (EN)
 
-![Score 58/100 — Grade C](../../web/badge/docs.zep.us.svg)
+![Score 58/100 — Grade C](../../docs/badge/docs.zep.us.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.zep.us/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.zep.us/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.zep.us.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zep.us)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.zep.us.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.zep.us)
 ```
 
 ## Reproduce this score

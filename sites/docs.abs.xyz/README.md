@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Abstract
 
-![Score 77/100 — Grade B+](../../web/badge/docs.abs.xyz.svg)
+![Score 77/100 — Grade B+](../../docs/badge/docs.abs.xyz.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.abs.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://docs.abs.xyz/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.abs.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.abs.xyz)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.abs.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.abs.xyz)
 ```
 
 ## Reproduce this score

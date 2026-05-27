@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # OmniAI Docs
 
-![Score 63/100 — Grade C](../../web/badge/docs.getomni.ai.svg)
+![Score 63/100 — Grade C](../../docs/badge/docs.getomni.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.getomni.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.getomni.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.getomni.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.getomni.ai)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.getomni.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.getomni.ai)
 ```
 
 ## Reproduce this score

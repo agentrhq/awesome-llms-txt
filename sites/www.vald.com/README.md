@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vald
 
-![Score 44/100 — Grade D](../../web/badge/www.vald.com.svg)
+![Score 44/100 — Grade D](../../docs/badge/www.vald.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.vald.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.vald.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.vald.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.vald.com)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.vald.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.vald.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # Akool
 
-![Score 69/100 — Grade B](../../web/badge/akool.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/akool.com.svg)
 
 Category: **content** · [Live llms.txt](https://akool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://akool.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/akool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/akool.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/akool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/akool.com)
 ```
 
 ## Reproduce this score

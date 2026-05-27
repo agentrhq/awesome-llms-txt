@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Medusa
 
-![Score 63/100 — Grade C](../../web/badge/medusajs.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/medusajs.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://medusajs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://medusajs.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/medusajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/medusajs.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/medusajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/medusajs.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 479
 
 # Emergentaviation
 
-![Score 43/100 — Grade D](../../web/badge/www.emergentaviation.com.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.emergentaviation.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.emergentaviation.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.emergentaviation.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.emergentaviation.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.emergentaviation.com)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.emergentaviation.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.emergentaviation.com)
 ```
 
 ## Reproduce this score

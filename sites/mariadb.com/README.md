@@ -15,7 +15,7 @@ freshness_age_days: 66
 
 # Mariadb
 
-![Score 60/100 — Grade C](../../web/badge/mariadb.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/mariadb.com.svg)
 
 Category: **billing** · [Live llms.txt](https://mariadb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **billing** · [Live llms.txt](https://mariadb.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mariadb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mariadb.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mariadb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mariadb.com)
 ```
 
 ## Reproduce this score

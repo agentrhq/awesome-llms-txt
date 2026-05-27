@@ -15,7 +15,7 @@ freshness_age_days: 104
 
 # Achurch
 
-![Score 62/100 — Grade C](../../web/badge/achurch.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/achurch.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://achurch.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://achurch.ai/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/achurch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/achurch.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/achurch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/achurch.ai)
 ```
 
 ## Reproduce this score

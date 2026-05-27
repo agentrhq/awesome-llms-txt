@@ -13,7 +13,7 @@ const ROOT = path.resolve(__dirname, '..');
 const RESEARCH = path.join(ROOT, 'research');
 const RAW_DIR = path.join(RESEARCH, 'raw');
 const SITES_DIR = path.join(ROOT, 'sites');
-const WEB_DIR = path.join(ROOT, 'web');
+const WEB_DIR = path.join(ROOT, 'docs');
 const BADGE_DIR = path.join(WEB_DIR, 'badge');
 
 const LABELS = {
@@ -48,8 +48,8 @@ function siteReadme({ domain, display_name, category, result, fetched, freshness
     if (pct >= 0.95) exceptional.push(`${labelFor(c.id)} (${c.points}/${c.max})`);
     if (pct <= 0.4)  weak.push(`${labelFor(c.id)} (${c.points}/${c.max})${c.reasons && c.reasons.length ? ': ' + c.reasons.slice(0, 3).join(', ') : ''}`);
   }
-  const badgeURL = `../../web/badge/${domain}.svg`;
-  const embedURL = `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/${domain}.svg`;
+  const badgeURL = `../../docs/badge/${domain}.svg`;
+  const embedURL = `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/${domain}.svg`;
   const fresh = freshness && freshness.last_modified
     ? `${freshness.age_days} day${freshness.age_days === 1 ? '' : 's'} (per \`Last-Modified\`)`
     : `unknown (no \`Last-Modified\` header)`;
@@ -137,6 +137,21 @@ function main() {
     if (!prior || (r.size_bytes || 0) > (prior.size_bytes || 0)) byDomain.set(r.domain, r);
   }
   console.error(`after de-dupe: ${byDomain.size} unique domains`);
+
+  // Drop sites whose live URL now returns 4xx/5xx (per the most recent
+  // freshness probe). We don't want the leaderboard linking to dead URLs.
+  const droppedDead = [];
+  for (const [d, r] of [...byDomain.entries()]) {
+    const fr = freshness[d];
+    if (fr && fr.head_status && (fr.head_status >= 400 && fr.head_status < 600)) {
+      byDomain.delete(d);
+      droppedDead.push({ domain: d, status: fr.head_status });
+    }
+  }
+  if (droppedDead.length > 0) {
+    console.error(`dropped ${droppedDead.length} sites whose live llms.txt now 4xx/5xx:`);
+    for (const d of droppedDead) console.error(`  ${d.status}  ${d.domain}`);
+  }
 
   const manifest = [];
   let written = 0;

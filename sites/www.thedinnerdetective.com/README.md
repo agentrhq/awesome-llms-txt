@@ -15,7 +15,7 @@ freshness_age_days: 302
 
 # Thedinnerdetective
 
-![Score 52/100 — Grade C](../../web/badge/www.thedinnerdetective.com.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.thedinnerdetective.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.thedinnerdetective.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.thedinnerdetective.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.thedinnerdetective.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thedinnerdetective.com)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.thedinnerdetective.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thedinnerdetective.com)
 ```
 
 ## Reproduce this score

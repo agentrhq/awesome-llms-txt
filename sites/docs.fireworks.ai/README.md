@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Fireworks AI Docs
 
-![Score 71/100 — Grade B](../../web/badge/docs.fireworks.ai.svg)
+![Score 71/100 — Grade B](../../docs/badge/docs.fireworks.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.fireworks.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.fireworks.ai/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.fireworks.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fireworks.ai)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.fireworks.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.fireworks.ai)
 ```
 
 ## Reproduce this score

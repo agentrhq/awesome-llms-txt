@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alphagate Docs
 
-![Score 56/100 — Grade C](../../web/badge/docs.alphagate.io.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.alphagate.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.alphagate.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.alphagate.io/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.alphagate.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.alphagate.io)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.alphagate.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.alphagate.io)
 ```
 
 ## Reproduce this score

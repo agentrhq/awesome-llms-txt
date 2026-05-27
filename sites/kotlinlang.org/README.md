@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Kotlin
 
-![Score 55/100 — Grade C](../../web/badge/kotlinlang.org.svg)
+![Score 55/100 — Grade C](../../docs/badge/kotlinlang.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://kotlinlang.org/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/kotlinlang.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kotlinlang.org)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/kotlinlang.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kotlinlang.org)
 ```
 
 ## Reproduce this score

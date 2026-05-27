@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Thomas Duplessis
 
-![Score 57/100 — Grade C](../../web/badge/thdu.dev.svg)
+![Score 57/100 — Grade C](../../docs/badge/thdu.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://thdu.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://thdu.dev/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/thdu.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thdu.dev)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thdu.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thdu.dev)
 ```
 
 ## Reproduce this score

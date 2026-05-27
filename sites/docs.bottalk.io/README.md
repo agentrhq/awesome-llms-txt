@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # BotTalk Docs
 
-![Score 56/100 — Grade C](../../web/badge/docs.bottalk.io.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.bottalk.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bottalk.io/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.bottalk.io/docs/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.bottalk.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bottalk.io)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.bottalk.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bottalk.io)
 ```
 
 ## Reproduce this score

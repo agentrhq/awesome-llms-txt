@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Gladly
 
-![Score 55/100 — Grade C](../../web/badge/www.gladly.ai.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.gladly.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gladly.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.gladly.ai/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gladly.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gladly.ai)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gladly.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gladly.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zenml
 
-![Score 59/100 — Grade C](../../web/badge/www.zenml.io.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.zenml.io.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.zenml.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://www.zenml.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.zenml.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zenml.io)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.zenml.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.zenml.io)
 ```
 
 ## Reproduce this score

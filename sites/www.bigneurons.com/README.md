@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Big Neurons
 
-![Score 56/100 — Grade C](../../web/badge/www.bigneurons.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/www.bigneurons.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.bigneurons.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.bigneurons.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.bigneurons.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bigneurons.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bigneurons.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bigneurons.com)
 ```
 
 ## Reproduce this score

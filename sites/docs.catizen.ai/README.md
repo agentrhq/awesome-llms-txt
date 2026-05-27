@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Catizen Docs
 
-![Score 57/100 — Grade C](../../web/badge/docs.catizen.ai.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.catizen.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.catizen.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.catizen.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.catizen.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.catizen.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.catizen.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.catizen.ai)
 ```
 
 ## Reproduce this score

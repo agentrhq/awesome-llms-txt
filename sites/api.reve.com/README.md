@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Reve API
 
-![Score 55/100 — Grade C](../../web/badge/api.reve.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/api.reve.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://api.reve.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://api.reve.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/api.reve.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/api.reve.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/api.reve.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/api.reve.com)
 ```
 
 ## Reproduce this score

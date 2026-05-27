@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Upsun Fixed
 
-![Score 72/100 — Grade B](../../web/badge/docs.platform.sh.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.platform.sh.svg)
 
 Category: **comms** · [Live llms.txt](https://fixed.docs.upsun.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://fixed.docs.upsun.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.platform.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.platform.sh)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.platform.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.platform.sh)
 ```
 
 ## Reproduce this score

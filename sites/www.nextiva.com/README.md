@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Nextiva
 
-![Score 62/100 — Grade C](../../web/badge/www.nextiva.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.nextiva.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.nextiva.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://www.nextiva.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.nextiva.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nextiva.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.nextiva.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nextiva.com)
 ```
 
 ## Reproduce this score

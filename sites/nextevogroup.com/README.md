@@ -15,7 +15,7 @@ freshness_age_days: 341
 
 # Nextevogroup
 
-![Score 41/100 — Grade D](../../web/badge/nextevogroup.com.svg)
+![Score 41/100 — Grade D](../../docs/badge/nextevogroup.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nextevogroup.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://nextevogroup.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nextevogroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nextevogroup.com)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nextevogroup.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nextevogroup.com)
 ```
 
 ## Reproduce this score

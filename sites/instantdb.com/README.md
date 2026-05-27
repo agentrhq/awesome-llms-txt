@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # InstantDB
 
-![Score 69/100 — Grade B](../../web/badge/instantdb.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/instantdb.com.svg)
 
 Category: **data** · [Live llms.txt](https://www.instantdb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.instantdb.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/instantdb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/instantdb.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/instantdb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/instantdb.com)
 ```
 
 ## Reproduce this score

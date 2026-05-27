@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LangChain (JS)
 
-![Score 70/100 — Grade B](../../web/badge/js.langchain.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/js.langchain.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.langchain.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.langchain.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/js.langchain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/js.langchain.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/js.langchain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/js.langchain.com)
 ```
 
 ## Reproduce this score

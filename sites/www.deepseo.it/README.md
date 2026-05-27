@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DeepSEO Corso SEO Online
 
-![Score 54/100 — Grade C](../../web/badge/www.deepseo.it.svg)
+![Score 54/100 — Grade C](../../docs/badge/www.deepseo.it.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.deepseo.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.deepseo.it/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.deepseo.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.deepseo.it)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.deepseo.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.deepseo.it)
 ```
 
 ## Reproduce this score

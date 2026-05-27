@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # PostHog
 
-![Score 81/100 — Grade A-](../../web/badge/posthog.com.svg)
+![Score 81/100 — Grade A-](../../docs/badge/posthog.com.svg)
 
 Category: **observability** · [Live llms.txt](https://posthog.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://posthog.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 81 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/posthog.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/posthog.com)
+[![llms.txt score 81 (A-)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/posthog.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/posthog.com)
 ```
 
 ## Reproduce this score

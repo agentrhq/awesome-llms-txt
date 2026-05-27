@@ -15,7 +15,7 @@ freshness_age_days: 474
 
 # Website Information
 
-![Score 31/100 — Grade F](../../web/badge/www.superskills.co.uk.svg)
+![Score 31/100 — Grade F](../../docs/badge/www.superskills.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.superskills.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.superskills.co.uk/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 31 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.superskills.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.superskills.co.uk)
+[![llms.txt score 31 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.superskills.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.superskills.co.uk)
 ```
 
 ## Reproduce this score

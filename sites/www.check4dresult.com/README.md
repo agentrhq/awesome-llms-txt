@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Check4DResult
 
-![Score 63/100 — Grade C](../../web/badge/www.check4dresult.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.check4dresult.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.check4dresult.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.check4dresult.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.check4dresult.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.check4dresult.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.check4dresult.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.check4dresult.com)
 ```
 
 ## Reproduce this score

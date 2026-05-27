@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Citability
 
-![Score 56/100 — Grade C](../../web/badge/citability.ai.svg)
+![Score 56/100 — Grade C](../../docs/badge/citability.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://citability.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://citability.ai/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/citability.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/citability.ai)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/citability.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/citability.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — Gloo Books
 
-![Score 53/100 — Grade C](../../web/badge/gloobooks.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/gloobooks.com.svg)
 
 Category: **auth** · [Live llms.txt](https://gloobooks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://gloobooks.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/gloobooks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gloobooks.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/gloobooks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gloobooks.com)
 ```
 
 ## Reproduce this score

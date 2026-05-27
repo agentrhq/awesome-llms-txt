@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sardine
 
-![Score 60/100 — Grade C](../../web/badge/docs.sardine.ai.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.sardine.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.sardine.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://docs.sardine.ai/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.sardine.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.sardine.ai)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.sardine.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.sardine.ai)
 ```
 
 ## Reproduce this score

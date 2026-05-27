@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Linear
 
-![Score 79/100 — Grade B+](../../web/badge/linear.app.svg)
+![Score 79/100 — Grade B+](../../docs/badge/linear.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://linear.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://linear.app/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/linear.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/linear.app)
+[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/linear.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/linear.app)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ChainGPT Documentation
 
-![Score 62/100 — Grade C](../../web/badge/docs.chaingpt.org.svg)
+![Score 62/100 — Grade C](../../docs/badge/docs.chaingpt.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chaingpt.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chaingpt.org/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.chaingpt.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chaingpt.org)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chaingpt.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chaingpt.org)
 ```
 
 ## Reproduce this score

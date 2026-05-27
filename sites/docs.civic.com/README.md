@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Civic Docs
 
-![Score 77/100 — Grade B+](../../web/badge/docs.civic.com.svg)
+![Score 77/100 — Grade B+](../../docs/badge/docs.civic.com.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://docs.civic.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.civic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.civic.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.civic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.civic.com)
 ```
 
 ## Reproduce this score

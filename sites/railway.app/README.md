@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Railway
 
-![Score 62/100 — Grade C](../../web/badge/railway.app.svg)
+![Score 62/100 — Grade C](../../docs/badge/railway.app.svg)
 
 Category: **infra** · [Live llms.txt](https://railway.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **infra** · [Live llms.txt](https://railway.com/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/railway.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/railway.app)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/railway.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/railway.app)
 ```
 
 ## Reproduce this score

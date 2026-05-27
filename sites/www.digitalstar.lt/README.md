@@ -15,7 +15,7 @@ freshness_age_days: 304
 
 # Digitalstar
 
-![Score 22/100 — Grade F](../../web/badge/www.digitalstar.lt.svg)
+![Score 22/100 — Grade F](../../docs/badge/www.digitalstar.lt.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.digitalstar.lt/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.digitalstar.lt/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 22 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.digitalstar.lt.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.digitalstar.lt)
+[![llms.txt score 22 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.digitalstar.lt.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.digitalstar.lt)
 ```
 
 ## Reproduce this score

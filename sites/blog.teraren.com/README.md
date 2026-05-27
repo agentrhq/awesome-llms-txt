@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Matsubo Tech Blog
 
-![Score 56/100 — Grade C](../../web/badge/blog.teraren.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/blog.teraren.com.svg)
 
 Category: **infra** · [Live llms.txt](https://blog.teraren.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://blog.teraren.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/blog.teraren.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blog.teraren.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/blog.teraren.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blog.teraren.com)
 ```
 
 ## Reproduce this score

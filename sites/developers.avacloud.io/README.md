@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Avalanche APIs & SDKs Documentation
 
-![Score 74/100 — Grade B](../../web/badge/developers.avacloud.io.svg)
+![Score 74/100 — Grade B](../../docs/badge/developers.avacloud.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developers.avacloud.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developers.avacloud.io/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developers.avacloud.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.avacloud.io)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.avacloud.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.avacloud.io)
 ```
 
 ## Reproduce this score

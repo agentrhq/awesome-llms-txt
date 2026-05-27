@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LaunchFast
 
-![Score 50/100 — Grade C](../../web/badge/www.launchfa.st.svg)
+![Score 50/100 — Grade C](../../docs/badge/www.launchfa.st.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.launchfa.st/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.launchfa.st/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.launchfa.st.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.launchfa.st)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.launchfa.st.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.launchfa.st)
 ```
 
 ## Reproduce this score

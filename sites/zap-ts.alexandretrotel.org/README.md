@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Docs
 
-![Score 49/100 — Grade D](../../web/badge/zap-ts.alexandretrotel.org.svg)
+![Score 49/100 — Grade D](../../docs/badge/zap-ts.alexandretrotel.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.zapstudio.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.zapstudio.dev/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zap-ts.alexandretrotel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zap-ts.alexandretrotel.org)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zap-ts.alexandretrotel.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zap-ts.alexandretrotel.org)
 ```
 
 ## Reproduce this score

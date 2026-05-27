@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Retainful
 
-![Score 53/100 — Grade C](../../web/badge/www.retainful.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.retainful.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.retainful.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.retainful.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.retainful.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.retainful.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.retainful.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.retainful.com)
 ```
 
 ## Reproduce this score

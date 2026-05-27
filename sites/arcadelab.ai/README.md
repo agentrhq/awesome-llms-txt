@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ArcadeLab
 
-![Score 59/100 — Grade C](../../web/badge/arcadelab.ai.svg)
+![Score 59/100 — Grade C](../../docs/badge/arcadelab.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://arcadelab.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **auth** · [Live llms.txt](https://arcadelab.ai/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/arcadelab.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/arcadelab.ai)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/arcadelab.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/arcadelab.ai)
 ```
 
 ## Reproduce this score

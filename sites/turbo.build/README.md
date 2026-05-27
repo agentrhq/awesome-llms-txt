@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Turborepo documentation
 
-![Score 58/100 — Grade C](../../web/badge/turbo.build.svg)
+![Score 58/100 — Grade C](../../docs/badge/turbo.build.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://turborepo.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://turborepo.dev/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/turbo.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turbo.build)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/turbo.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turbo.build)
 ```
 
 ## Reproduce this score

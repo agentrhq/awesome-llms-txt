@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Tiny
 
-![Score 68/100 — Grade B](../../web/badge/www.tiny.cloud.svg)
+![Score 68/100 — Grade B](../../docs/badge/www.tiny.cloud.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tiny.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tiny.cloud/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tiny.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tiny.cloud)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tiny.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tiny.cloud)
 ```
 
 ## Reproduce this score

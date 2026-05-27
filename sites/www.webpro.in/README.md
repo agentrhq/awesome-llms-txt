@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Detailed Content
 
-![Score 41/100 — Grade D](../../web/badge/www.webpro.in.svg)
+![Score 41/100 — Grade D](../../docs/badge/www.webpro.in.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.webpro.in/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.webpro.in/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.webpro.in.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.webpro.in)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.webpro.in.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.webpro.in)
 ```
 
 ## Reproduce this score

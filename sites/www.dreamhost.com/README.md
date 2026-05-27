@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # DreamHost
 
-![Score 67/100 — Grade B](../../web/badge/www.dreamhost.com.svg)
+![Score 67/100 — Grade B](../../docs/badge/www.dreamhost.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.dreamhost.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://www.dreamhost.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.dreamhost.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dreamhost.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.dreamhost.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.dreamhost.com)
 ```
 
 ## Reproduce this score

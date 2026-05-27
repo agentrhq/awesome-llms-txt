@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Axial - LLM Orientation File
 
-![Score 63/100 — Grade C](../../web/badge/www.axial.net.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.axial.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.axial.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.axial.net/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.axial.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.axial.net)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.axial.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.axial.net)
 ```
 
 ## Reproduce this score

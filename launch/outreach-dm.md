@@ -13,7 +13,7 @@ Two extremes drive shares. Message both: the A-graders (so they tweet the badge)
 > [Site] scored **[N]** ([grade]). You're [rank #] of 1,023.
 >
 > Per-site permalink: `agentrhq.github.io/awesome-llms-txt/site/[domain].html`
-> Badge to drop in your README: `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/[domain].svg`
+> Badge to drop in your README: `https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/[domain].svg`
 >
 > Re-scored monthly. The badge updates automatically when your score changes.
 >

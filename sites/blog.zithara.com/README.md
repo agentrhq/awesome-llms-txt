@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # About
 
-![Score 60/100 — Grade C](../../web/badge/blog.zithara.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/blog.zithara.com.svg)
 
 Category: **billing** · [Live llms.txt](https://blog.zithara.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://blog.zithara.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/blog.zithara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blog.zithara.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/blog.zithara.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blog.zithara.com)
 ```
 
 ## Reproduce this score

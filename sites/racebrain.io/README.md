@@ -15,7 +15,7 @@ freshness_age_days: 90
 
 # RaceBrain
 
-![Score 44/100 — Grade D](../../web/badge/racebrain.io.svg)
+![Score 44/100 — Grade D](../../docs/badge/racebrain.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://racebrain.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://racebrain.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/racebrain.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/racebrain.io)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/racebrain.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/racebrain.io)
 ```
 
 ## Reproduce this score

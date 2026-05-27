@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Underrun Customer Onboarding Plans
 
-![Score 60/100 — Grade C](../../web/badge/underrun.io.svg)
+![Score 60/100 — Grade C](../../docs/badge/underrun.io.svg)
 
 Category: **billing** · [Live llms.txt](https://underrun.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://underrun.io/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/underrun.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/underrun.io)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/underrun.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/underrun.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # SpacetimeDB
 
-![Score 66/100 — Grade B](../../web/badge/spacetimedb.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/spacetimedb.com.svg)
 
 Category: **data** · [Live llms.txt](https://spacetimedb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://spacetimedb.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/spacetimedb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/spacetimedb.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/spacetimedb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/spacetimedb.com)
 ```
 
 ## Reproduce this score

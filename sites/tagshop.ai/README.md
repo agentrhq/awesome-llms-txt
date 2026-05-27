@@ -15,7 +15,7 @@ freshness_age_days: 371
 
 # Tagshop
 
-![Score 55/100 — Grade C](../../web/badge/tagshop.ai.svg)
+![Score 55/100 — Grade C](../../docs/badge/tagshop.ai.svg)
 
 Category: **content** · [Live llms.txt](https://tagshop.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://tagshop.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/tagshop.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tagshop.ai)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tagshop.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tagshop.ai)
 ```
 
 ## Reproduce this score

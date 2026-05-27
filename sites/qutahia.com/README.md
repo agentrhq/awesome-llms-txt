@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — Qutahia Jewelry
 
-![Score 53/100 — Grade C](../../web/badge/qutahia.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/qutahia.com.svg)
 
 Category: **auth** · [Live llms.txt](https://qutahia.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://qutahia.com/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/qutahia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/qutahia.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/qutahia.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/qutahia.com)
 ```
 
 ## Reproduce this score

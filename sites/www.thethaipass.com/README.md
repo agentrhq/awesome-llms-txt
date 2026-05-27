@@ -15,7 +15,7 @@ freshness_age_days: 38
 
 # Thethaipass
 
-![Score 35/100 — Grade D](../../web/badge/www.thethaipass.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/www.thethaipass.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.thethaipass.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.thethaipass.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.thethaipass.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thethaipass.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.thethaipass.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thethaipass.com)
 ```
 
 ## Reproduce this score

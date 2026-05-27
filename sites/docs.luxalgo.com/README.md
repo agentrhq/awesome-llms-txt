@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # LuxAlgo
 
-![Score 68/100 — Grade B](../../web/badge/docs.luxalgo.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/docs.luxalgo.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.luxalgo.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.luxalgo.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.luxalgo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.luxalgo.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.luxalgo.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.luxalgo.com)
 ```
 
 ## Reproduce this score

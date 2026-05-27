@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Caldera Docs
 
-![Score 70/100 — Grade B](../../web/badge/docs.caldera.xyz.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.caldera.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.caldera.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.caldera.xyz/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.caldera.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.caldera.xyz)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.caldera.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.caldera.xyz)
 ```
 
 ## Reproduce this score

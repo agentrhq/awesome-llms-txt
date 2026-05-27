@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Imprint Docs
 
-![Score 73/100 — Grade B](../../web/badge/docs.imprint.co.svg)
+![Score 73/100 — Grade B](../../docs/badge/docs.imprint.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imprint.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imprint.co/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.imprint.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imprint.co)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imprint.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imprint.co)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Dynamic Documentation
 
-![Score 73/100 — Grade B](../../web/badge/docs.dynamic.xyz.svg)
+![Score 73/100 — Grade B](../../docs/badge/docs.dynamic.xyz.svg)
 
 Category: **auth** · [Live llms.txt](https://www.dynamic.xyz/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://www.dynamic.xyz/docs/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.dynamic.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.dynamic.xyz)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.dynamic.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.dynamic.xyz)
 ```
 
 ## Reproduce this score

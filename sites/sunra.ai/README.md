@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sunra
 
-![Score 54/100 — Grade C](../../web/badge/sunra.ai.svg)
+![Score 54/100 — Grade C](../../docs/badge/sunra.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://sunra.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **ai-platform** · [Live llms.txt](https://sunra.ai/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sunra.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sunra.ai)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sunra.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sunra.ai)
 ```
 
 ## Reproduce this score

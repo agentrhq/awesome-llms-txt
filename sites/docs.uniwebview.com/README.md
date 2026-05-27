@@ -15,7 +15,7 @@ freshness_age_days: 9
 
 # UniWebView
 
-![Score 71/100 — Grade B](../../web/badge/docs.uniwebview.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/docs.uniwebview.com.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.uniwebview.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://docs.uniwebview.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.uniwebview.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.uniwebview.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.uniwebview.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.uniwebview.com)
 ```
 
 ## Reproduce this score

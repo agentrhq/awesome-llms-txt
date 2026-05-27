@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # A2Reviews
 
-![Score 57/100 — Grade C](../../web/badge/docs.a2rev.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.a2rev.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.a2rev.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.a2rev.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.a2rev.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.a2rev.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.a2rev.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.a2rev.com)
 ```
 
 ## Reproduce this score

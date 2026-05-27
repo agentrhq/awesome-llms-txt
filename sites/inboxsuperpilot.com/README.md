@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Inbox SuperPilot
 
-![Score 63/100 — Grade C](../../web/badge/inboxsuperpilot.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/inboxsuperpilot.com.svg)
 
 Category: **comms** · [Live llms.txt](https://inboxsuperpilot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://inboxsuperpilot.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/inboxsuperpilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inboxsuperpilot.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/inboxsuperpilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inboxsuperpilot.com)
 ```
 
 ## Reproduce this score

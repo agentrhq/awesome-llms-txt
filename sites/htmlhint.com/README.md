@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # HTMLHint
 
-![Score 50/100 — Grade C](../../web/badge/htmlhint.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/htmlhint.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://htmlhint.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://htmlhint.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/htmlhint.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/htmlhint.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/htmlhint.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/htmlhint.com)
 ```
 
 ## Reproduce this score

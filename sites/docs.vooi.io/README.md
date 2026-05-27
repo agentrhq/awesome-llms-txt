@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VOOI
 
-![Score 56/100 — Grade C](../../web/badge/docs.vooi.io.svg)
+![Score 56/100 — Grade C](../../docs/badge/docs.vooi.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vooi.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vooi.io/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.vooi.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vooi.io)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vooi.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vooi.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # Fragbin
 
-![Score 62/100 — Grade C](../../web/badge/www.fragbin.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.fragbin.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.fragbin.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.fragbin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fragbin.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.fragbin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.fragbin.com)
 ```
 
 ## Reproduce this score

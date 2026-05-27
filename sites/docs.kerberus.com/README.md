@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Kerberus Sentinel3
 
-![Score 55/100 — Grade C](../../web/badge/docs.kerberus.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.kerberus.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.kerberus.com/kerberus/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.kerberus.com/kerberus/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.kerberus.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kerberus.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.kerberus.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.kerberus.com)
 ```
 
 ## Reproduce this score

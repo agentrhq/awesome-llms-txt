@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VVS Finance
 
-![Score 57/100 — Grade C](../../web/badge/docs.vvs.finance.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.vvs.finance.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vvs.finance/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vvs.finance/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.vvs.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vvs.finance)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vvs.finance.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vvs.finance)
 ```
 
 ## Reproduce this score

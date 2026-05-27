@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zapier
 
-![Score 71/100 — Grade B](../../web/badge/zapier.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/zapier.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zapier.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://zapier.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zapier.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zapier.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zapier.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zapier.com)
 ```
 
 ## Reproduce this score

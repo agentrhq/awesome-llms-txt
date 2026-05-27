@@ -15,7 +15,7 @@ freshness_age_days: 98
 
 # Codeant
 
-![Score 27/100 — Grade F](../../web/badge/www.codeant.ai.svg)
+![Score 27/100 — Grade F](../../docs/badge/www.codeant.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.codeant.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.codeant.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.codeant.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.codeant.ai)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.codeant.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.codeant.ai)
 ```
 
 ## Reproduce this score

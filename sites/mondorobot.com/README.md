@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mondorobot
 
-![Score 50/100 — Grade C](../../web/badge/mondorobot.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/mondorobot.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mondorobot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.mondorobot.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mondorobot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mondorobot.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mondorobot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mondorobot.com)
 ```
 
 ## Reproduce this score

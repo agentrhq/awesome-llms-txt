@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Brandefense
 
-![Score 62/100 — Grade C](../../web/badge/brandefense.io.svg)
+![Score 62/100 — Grade C](../../docs/badge/brandefense.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://brandefense.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://brandefense.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/brandefense.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/brandefense.io)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/brandefense.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/brandefense.io)
 ```
 
 ## Reproduce this score

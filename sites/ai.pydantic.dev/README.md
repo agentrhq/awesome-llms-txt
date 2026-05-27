@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pydantic AI
 
-![Score 73/100 — Grade B](../../web/badge/ai.pydantic.dev.svg)
+![Score 73/100 — Grade B](../../docs/badge/ai.pydantic.dev.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://pydantic.dev/docs/ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://pydantic.dev/docs/ai/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ai.pydantic.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai.pydantic.dev)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ai.pydantic.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ai.pydantic.dev)
 ```
 
 ## Reproduce this score

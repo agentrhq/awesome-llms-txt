@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # BaseHub
 
-![Score 64/100 — Grade C](../../web/badge/docs.basehub.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/docs.basehub.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.basehub.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.basehub.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.basehub.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.basehub.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.basehub.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.basehub.com)
 ```
 
 ## Reproduce this score

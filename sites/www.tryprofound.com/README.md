@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Profound
 
-![Score 58/100 — Grade C](../../web/badge/www.tryprofound.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/www.tryprofound.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.tryprofound.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.tryprofound.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tryprofound.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryprofound.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tryprofound.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryprofound.com)
 ```
 
 ## Reproduce this score

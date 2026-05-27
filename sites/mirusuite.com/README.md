@@ -15,7 +15,7 @@ freshness_age_days: 16
 
 # Mirusuite
 
-![Score 59/100 — Grade C](../../web/badge/mirusuite.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/mirusuite.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mirusuite.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://mirusuite.de/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mirusuite.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mirusuite.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mirusuite.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mirusuite.com)
 ```
 
 ## Reproduce this score

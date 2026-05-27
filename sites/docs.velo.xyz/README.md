@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Velo
 
-![Score 55/100 — Grade C](../../web/badge/docs.velo.xyz.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.velo.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.velo.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.velo.xyz/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.velo.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.velo.xyz)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.velo.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.velo.xyz)
 ```
 
 ## Reproduce this score

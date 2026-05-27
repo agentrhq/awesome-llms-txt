@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # PrompTessor
 
-![Score 55/100 — Grade C](../../web/badge/promptessor.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/promptessor.com.svg)
 
 Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **content** · [Live llms.txt](https://promptessor.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/promptessor.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/promptessor.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/promptessor.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/promptessor.com)
 ```
 
 ## Reproduce this score

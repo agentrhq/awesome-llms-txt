@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tuttosullegalline
 
-![Score 43/100 — Grade D](../../web/badge/www.tuttosullegalline.it.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.tuttosullegalline.it.svg)
 
 Category: **content** · [Live llms.txt](https://www.tuttosullegalline.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **content** · [Live llms.txt](https://www.tuttosullegalline.it/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tuttosullegalline.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tuttosullegalline.it)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tuttosullegalline.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tuttosullegalline.it)
 ```
 
 ## Reproduce this score

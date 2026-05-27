@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Awesome llms.txt — the scored leaderboard</title>
+  <meta name="description" content="1,016 llms.txt files scored against a public rubric. Stripe scored 69. Vercel scored 71. 10 sites got an A or A-." />
+  <meta property="og:title" content="Awesome llms.txt — the scored leaderboard" />
+  <meta property="og:description" content="1,016 llms.txt files scored against a public rubric. Stripe scored 69. Vercel scored 71. 10 sites got an A or A-." />
+  <meta property="og:type" content="website" />
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+
+<header class="home-header">
+  <h1>Awesome <code>llms.txt</code></h1>
+  <p class="tagline">The scored leaderboard. Like Lighthouse, but for the file that tells agents what your site can do.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="stat-num">1,016</div><div class="stat-lbl">sites scored</div></div>
+    <div class="stat"><div class="stat-num">58</div><div class="stat-lbl">avg score</div></div>
+    <div class="stat"><div class="stat-num">10</div><div class="stat-lbl">A grades</div></div>
+    <div class="stat"><div class="stat-num">45</div><div class="stat-lbl">F grades</div></div>
+  </div>
+
+  <div class="callout">
+    <p><strong>Stripe scored 69. Vercel scored 71. 10 sites earned an A.</strong> Top of the leaderboard: <a href="./site/neon.tech.html">Neon</a> at <strong>89</strong>.</p>
+  </div>
+
+  <div class="scan-bar">
+    <code>npx llms-txt-score https://your-site.com/llms.txt</code>
+  </div>
+</header>
+
+<main>
+  <div class="top10">
+    <h2>Top 10</h2>
+    <ol class="top10-list">
+      <li><a href="./site/neon.tech.html"><span class="t10-name">Neon</span><span class="t10-domain">neon.tech</span><span class="t10-grade" style="background:#22c55e">A</span><span class="t10-score">89</span></a></li><li><a href="./site/docs.convex.dev.html"><span class="t10-name">Convex Documentation</span><span class="t10-domain">docs.convex.dev</span><span class="t10-grade" style="background:#22c55e">A</span><span class="t10-score">86</span></a></li><li><a href="./site/resend.com.html"><span class="t10-name">Resend</span><span class="t10-domain">resend.com</span><span class="t10-grade" style="background:#22c55e">A</span><span class="t10-score">85</span></a></li><li><a href="./site/www.openfort.io.html"><span class="t10-name">Openfort</span><span class="t10-domain">www.openfort.io</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">82</span></a></li><li><a href="./site/docs.zapier.com.html"><span class="t10-name">Zapier Docs</span><span class="t10-domain">docs.zapier.com</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">82</span></a></li><li><a href="./site/docs.apify.com.html"><span class="t10-name">Apify Documentation</span><span class="t10-domain">docs.apify.com</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">81</span></a></li><li><a href="./site/posthog.com.html"><span class="t10-name">PostHog</span><span class="t10-domain">posthog.com</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">81</span></a></li><li><a href="./site/keito.ai.html"><span class="t10-name">Keito</span><span class="t10-domain">keito.ai</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">80</span></a></li><li><a href="./site/docs.venice.ai.html"><span class="t10-name">Venice API</span><span class="t10-domain">docs.venice.ai</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">80</span></a></li><li><a href="./site/docs.x.com.html"><span class="t10-name">X Developer Platform</span><span class="t10-domain">docs.x.com</span><span class="t10-grade" style="background:#4ade80">A-</span><span class="t10-score">80</span></a></li>
+    </ol>
+  </div>
+
+  <div class="filters">
+    <h2>Full leaderboard</h2>
+    <div class="controls">
+      <input id="q" type="search" placeholder="domain or name…" />
+      <select id="cat"><option value="">All categories</option></select>
+      <select id="grade">
+        <option value="">All grades</option>
+        <option>A+</option><option>A</option><option>A-</option>
+        <option>B+</option><option>B</option>
+        <option>C</option><option>D</option><option>F</option>
+      </select>
+      <span id="count" class="count"></span>
+    </div>
+    <table id="board">
+      <thead>
+        <tr>
+          <th data-key="rank" class="num">#</th>
+          <th data-key="display_name">Site</th>
+          <th data-key="domain">Domain</th>
+          <th data-key="score" class="num">Score</th>
+          <th data-key="grade">Grade</th>
+          <th data-key="category">Category</th>
+          <th data-key="freshness_age_days" class="num">Age</th>
+          <th data-key="file_size_bytes" class="num">Size</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</main>
+
+<script src="./app.js"></script>
+
+<footer>
+  <p><a href="https://github.com/agentrhq/awesome-llms-txt">GitHub</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/RUBRIC.md">Rubric</a> · <a href="https://github.com/agentrhq/awesome-llms-txt/blob/main/CONTRIBUTING.md">Contributing</a></p>
+</footer>
+</body>
+</html>

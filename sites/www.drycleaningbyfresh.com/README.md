@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Drycleaningbyfresh
 
-![Score 55/100 — Grade C](../../web/badge/www.drycleaningbyfresh.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/www.drycleaningbyfresh.com.svg)
 
 Category: **billing** · [Live llms.txt](https://www.drycleaningbyfresh.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://www.drycleaningbyfresh.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.drycleaningbyfresh.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.drycleaningbyfresh.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.drycleaningbyfresh.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.drycleaningbyfresh.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Datadog
 
-![Score 69/100 — Grade B](../../web/badge/datadog.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/datadog.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.datadoghq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **observability** · [Live llms.txt](https://www.datadoghq.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/datadog.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/datadog.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/datadog.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/datadog.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bitcoin
 
-![Score 61/100 — Grade C](../../web/badge/www.bitcoin.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/www.bitcoin.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.bitcoin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://www.bitcoin.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.bitcoin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bitcoin.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bitcoin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bitcoin.com)
 ```
 
 ## Reproduce this score

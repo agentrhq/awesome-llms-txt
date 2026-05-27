@@ -15,7 +15,7 @@ freshness_age_days: 218
 
 # Industrial Central
 
-![Score 43/100 — Grade D](../../web/badge/www.industrial-central.com.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.industrial-central.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.industrial-central.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.industrial-central.com/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.industrial-central.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.industrial-central.com)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.industrial-central.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.industrial-central.com)
 ```
 
 ## Reproduce this score

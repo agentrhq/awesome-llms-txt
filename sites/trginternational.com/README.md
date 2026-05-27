@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # TRG International - Site Content
 
-![Score 62/100 — Grade C](../../web/badge/trginternational.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/trginternational.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://trginternational.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://trginternational.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/trginternational.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/trginternational.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/trginternational.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/trginternational.com)
 ```
 
 ## Reproduce this score

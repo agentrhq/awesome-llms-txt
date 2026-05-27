@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Birds
 
-![Score 55/100 — Grade C](../../web/badge/docs.birds.dog.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.birds.dog.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.birds.dog/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.birds.dog/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.birds.dog.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.birds.dog)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.birds.dog.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.birds.dog)
 ```
 
 ## Reproduce this score

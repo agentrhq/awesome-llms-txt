@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # EliteReads
 
-![Score 57/100 — Grade C](../../web/badge/elitereads.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/elitereads.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://elitereads.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://elitereads.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/elitereads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/elitereads.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/elitereads.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/elitereads.com)
 ```
 
 ## Reproduce this score

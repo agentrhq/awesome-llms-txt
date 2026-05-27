@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mux
 
-![Score 73/100 — Grade B](../../web/badge/www.mux.com.svg)
+![Score 73/100 — Grade B](../../docs/badge/www.mux.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.mux.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **content** · [Live llms.txt](https://www.mux.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.mux.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mux.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.mux.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mux.com)
 ```
 
 ## Reproduce this score

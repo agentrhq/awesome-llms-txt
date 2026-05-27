@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # bHosted
 
-![Score 57/100 — Grade C](../../web/badge/www.bhosted.nl.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.bhosted.nl.svg)
 
 Category: **comms** · [Live llms.txt](https://www.bhosted.nl/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://www.bhosted.nl/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.bhosted.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bhosted.nl)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.bhosted.nl.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.bhosted.nl)
 ```
 
 ## Reproduce this score

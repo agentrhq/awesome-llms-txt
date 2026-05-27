@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Wellnessforaustin
 
-![Score 35/100 — Grade D](../../web/badge/www.wellnessforaustin.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/www.wellnessforaustin.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.wellnessforaustin.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.wellnessforaustin.com/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.wellnessforaustin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.wellnessforaustin.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.wellnessforaustin.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.wellnessforaustin.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Assurance Voiture Temporaire Provisoire
 
-![Score 26/100 — Grade F](../../web/badge/www.assurance-voiture-temporaire-provisoire.com.svg)
+![Score 26/100 — Grade F](../../docs/badge/www.assurance-voiture-temporaire-provisoire.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.assurance-voiture-temporaire-provisoire.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.assurance-voiture-tempora
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.assurance-voiture-temporaire-provisoire.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.assurance-voiture-temporaire-provisoire.com)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.assurance-voiture-temporaire-provisoire.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.assurance-voiture-temporaire-provisoire.com)
 ```
 
 ## Reproduce this score

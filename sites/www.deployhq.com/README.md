@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Deployhq
 
-![Score 78/100 — Grade B+](../../web/badge/www.deployhq.com.svg)
+![Score 78/100 — Grade B+](../../docs/badge/www.deployhq.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.deployhq.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **infra** · [Live llms.txt](https://www.deployhq.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.deployhq.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.deployhq.com)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.deployhq.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.deployhq.com)
 ```
 
 ## Reproduce this score

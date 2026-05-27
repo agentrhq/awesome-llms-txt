@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # tradicted
 
-![Score 65/100 — Grade B](../../web/badge/tradicted.com.svg)
+![Score 65/100 — Grade B](../../docs/badge/tradicted.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tradicted.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tradicted.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/tradicted.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tradicted.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tradicted.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tradicted.com)
 ```
 
 ## Reproduce this score

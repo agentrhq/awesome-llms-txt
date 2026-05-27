@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Products
 
-![Score 64/100 — Grade C](../../web/badge/docs.ionos.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/docs.ionos.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.ionos.com/cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://docs.ionos.com/cloud/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.ionos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.ionos.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.ionos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.ionos.com)
 ```
 
 ## Reproduce this score

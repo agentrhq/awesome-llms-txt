@@ -15,7 +15,7 @@ freshness_age_days: 438
 
 # ZAPHYR PHP Framework
 
-![Score 41/100 — Grade D](../../web/badge/zaphyr.org.svg)
+![Score 41/100 — Grade D](../../docs/badge/zaphyr.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zaphyr.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://zaphyr.org/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zaphyr.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zaphyr.org)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zaphyr.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zaphyr.org)
 ```
 
 ## Reproduce this score

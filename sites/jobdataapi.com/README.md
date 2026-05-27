@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # jobdata API
 
-![Score 64/100 — Grade C](../../web/badge/jobdataapi.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/jobdataapi.com.svg)
 
 Category: **observability** · [Live llms.txt](https://jobdataapi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **observability** · [Live llms.txt](https://jobdataapi.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/jobdataapi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jobdataapi.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/jobdataapi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/jobdataapi.com)
 ```
 
 ## Reproduce this score

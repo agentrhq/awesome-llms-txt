@@ -15,7 +15,7 @@ freshness_age_days: 194
 
 # Blueshift
 
-![Score 44/100 — Grade D](../../web/badge/blueshift.com.svg)
+![Score 44/100 — Grade D](../../docs/badge/blueshift.com.svg)
 
 Category: **comms** · [Live llms.txt](https://blueshift.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://blueshift.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/blueshift.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blueshift.com)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/blueshift.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/blueshift.com)
 ```
 
 ## Reproduce this score

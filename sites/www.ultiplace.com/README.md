@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Ultiplace
 
-![Score 64/100 — Grade C](../../web/badge/www.ultiplace.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/www.ultiplace.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.ultiplace.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://www.ultiplace.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.ultiplace.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ultiplace.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.ultiplace.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ultiplace.com)
 ```
 
 ## Reproduce this score

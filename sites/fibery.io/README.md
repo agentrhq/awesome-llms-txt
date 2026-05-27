@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fibery
 
-![Score 61/100 — Grade C](../../web/badge/fibery.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/fibery.io.svg)
 
 Category: **data** · [Live llms.txt](https://fibery.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **data** · [Live llms.txt](https://fibery.com/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/fibery.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fibery.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/fibery.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fibery.io)
 ```
 
 ## Reproduce this score

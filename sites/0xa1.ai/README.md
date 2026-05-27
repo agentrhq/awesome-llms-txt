@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # 0xa1
 
-![Score 54/100 — Grade C](../../web/badge/0xa1.ai.svg)
+![Score 54/100 — Grade C](../../docs/badge/0xa1.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://0xa1.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **observability** · [Live llms.txt](https://0xa1.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/0xa1.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/0xa1.ai)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/0xa1.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/0xa1.ai)
 ```
 
 ## Reproduce this score

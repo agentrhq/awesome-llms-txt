@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Craft API Documentation
 
-![Score 61/100 — Grade C](../../web/badge/docs.craft.co.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.craft.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.craft.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.craft.co/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.craft.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.craft.co)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.craft.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.craft.co)
 ```
 
 ## Reproduce this score

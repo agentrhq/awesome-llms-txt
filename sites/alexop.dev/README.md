@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Alexop
 
-![Score 64/100 — Grade C](../../web/badge/alexop.dev.svg)
+![Score 64/100 — Grade C](../../docs/badge/alexop.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://alexop.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://alexop.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/alexop.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/alexop.dev)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/alexop.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/alexop.dev)
 ```
 
 ## Reproduce this score

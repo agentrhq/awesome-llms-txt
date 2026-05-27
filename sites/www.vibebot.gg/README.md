@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # VibeBot
 
-![Score 71/100 — Grade B](../../web/badge/www.vibebot.gg.svg)
+![Score 71/100 — Grade B](../../docs/badge/www.vibebot.gg.svg)
 
 Category: **billing** · [Live llms.txt](https://www.vibebot.gg/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://www.vibebot.gg/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.vibebot.gg.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.vibebot.gg)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.vibebot.gg.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.vibebot.gg)
 ```
 
 ## Reproduce this score

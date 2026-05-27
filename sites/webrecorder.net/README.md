@@ -15,7 +15,7 @@ freshness_age_days: 36
 
 # Webrecorder
 
-![Score 58/100 — Grade C](../../web/badge/webrecorder.net.svg)
+![Score 58/100 — Grade C](../../docs/badge/webrecorder.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://webrecorder.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://webrecorder.net/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/webrecorder.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/webrecorder.net)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/webrecorder.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/webrecorder.net)
 ```
 
 ## Reproduce this score

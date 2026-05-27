@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Front-Commerce Developers
 
-![Score 67/100 — Grade B](../../web/badge/developers.front-commerce.com.svg)
+![Score 67/100 — Grade B](../../docs/badge/developers.front-commerce.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://developers.front-commerce.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **commerce** · [Live llms.txt](https://developers.front-commerce.com/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developers.front-commerce.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.front-commerce.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.front-commerce.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.front-commerce.com)
 ```
 
 ## Reproduce this score

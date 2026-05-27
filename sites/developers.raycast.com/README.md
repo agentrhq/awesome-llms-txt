@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Raycast API
 
-![Score 60/100 — Grade C](../../web/badge/developers.raycast.com.svg)
+![Score 60/100 — Grade C](../../docs/badge/developers.raycast.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developers.raycast.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developers.raycast.com/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developers.raycast.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.raycast.com)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.raycast.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.raycast.com)
 ```
 
 ## Reproduce this score

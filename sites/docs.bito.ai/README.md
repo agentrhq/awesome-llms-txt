@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bito Docs
 
-![Score 61/100 — Grade C](../../web/badge/docs.bito.ai.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.bito.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.bito.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.bito.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.bito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bito.ai)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.bito.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.bito.ai)
 ```
 
 ## Reproduce this score

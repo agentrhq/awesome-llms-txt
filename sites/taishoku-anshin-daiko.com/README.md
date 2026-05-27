@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 退職あんしん代行
 
-![Score 57/100 — Grade C](../../web/badge/taishoku-anshin-daiko.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/taishoku-anshin-daiko.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://taishoku-anshin-daiko.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://taishoku-anshin-daiko.com/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/taishoku-anshin-daiko.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/taishoku-anshin-daiko.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/taishoku-anshin-daiko.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/taishoku-anshin-daiko.com)
 ```
 
 ## Reproduce this score

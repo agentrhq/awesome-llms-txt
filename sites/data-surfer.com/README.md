@@ -15,7 +15,7 @@ freshness_age_days: 10
 
 # Data Surfer
 
-![Score 40/100 — Grade D](../../web/badge/data-surfer.com.svg)
+![Score 40/100 — Grade D](../../docs/badge/data-surfer.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://data-surfer.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://data-surfer.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/data-surfer.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/data-surfer.com)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/data-surfer.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/data-surfer.com)
 ```
 
 ## Reproduce this score

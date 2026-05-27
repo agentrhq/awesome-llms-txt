@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Perplexity
 
-![Score 77/100 — Grade B+](../../web/badge/docs.perplexity.ai.svg)
+![Score 77/100 — Grade B+](../../docs/badge/docs.perplexity.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.perplexity.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.perplexity.ai/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.perplexity.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.perplexity.ai)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.perplexity.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.perplexity.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Papayaqatar
 
-![Score 35/100 — Grade D](../../web/badge/www.papayaqatar.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/www.papayaqatar.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.papayaqatar.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.papayaqatar.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.papayaqatar.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.papayaqatar.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.papayaqatar.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.papayaqatar.com)
 ```
 
 ## Reproduce this score

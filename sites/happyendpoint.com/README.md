@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Happyendpoint
 
-![Score 47/100 — Grade D](../../web/badge/happyendpoint.com.svg)
+![Score 47/100 — Grade D](../../docs/badge/happyendpoint.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://happyendpoint.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://happyendpoint.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/happyendpoint.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/happyendpoint.com)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/happyendpoint.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/happyendpoint.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Bucky Body Center
 
-![Score 63/100 — Grade C](../../web/badge/buckybodycenter.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/buckybodycenter.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://buckybodycenter.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://buckybodycenter.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/buckybodycenter.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/buckybodycenter.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/buckybodycenter.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/buckybodycenter.com)
 ```
 
 ## Reproduce this score

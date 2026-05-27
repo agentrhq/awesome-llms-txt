@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Junction
 
-![Score 71/100 — Grade B](../../web/badge/docs.tryvital.io.svg)
+![Score 71/100 — Grade B](../../docs/badge/docs.tryvital.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.junction.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.junction.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.tryvital.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.tryvital.io)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.tryvital.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.tryvital.io)
 ```
 
 ## Reproduce this score

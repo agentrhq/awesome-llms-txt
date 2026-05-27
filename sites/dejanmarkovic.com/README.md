@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Dejanmarkovic
 
-![Score 59/100 — Grade C](../../web/badge/dejanmarkovic.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/dejanmarkovic.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://dejanmarkovic.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/dejanmarkovic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dejanmarkovic.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/dejanmarkovic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dejanmarkovic.com)
 ```
 
 ## Reproduce this score

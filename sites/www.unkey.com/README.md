@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Unkey
 
-![Score 76/100 — Grade B+](../../web/badge/www.unkey.com.svg)
+![Score 76/100 — Grade B+](../../docs/badge/www.unkey.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.unkey.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **auth** · [Live llms.txt](https://www.unkey.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.unkey.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.unkey.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.unkey.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.unkey.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Agent
 
-![Score 58/100 — Grade C](../../web/badge/agent.ai.svg)
+![Score 58/100 — Grade C](../../docs/badge/agent.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://agent.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://agent.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/agent.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agent.ai)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/agent.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agent.ai)
 ```
 
 ## Reproduce this score

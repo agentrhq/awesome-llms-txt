@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Weather
 
-![Score 68/100 — Grade B](../../web/badge/weather.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/weather.com.svg)
 
 Category: **content** · [Live llms.txt](https://weather.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **content** · [Live llms.txt](https://weather.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/weather.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/weather.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/weather.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/weather.com)
 ```
 
 ## Reproduce this score

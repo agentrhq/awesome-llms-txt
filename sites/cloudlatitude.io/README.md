@@ -15,7 +15,7 @@ freshness_age_days: 14
 
 # Cloud Latitude
 
-![Score 50/100 — Grade C](../../web/badge/cloudlatitude.io.svg)
+![Score 50/100 — Grade C](../../docs/badge/cloudlatitude.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cloudlatitude.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://cloudlatitude.io/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cloudlatitude.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudlatitude.io)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cloudlatitude.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cloudlatitude.io)
 ```
 
 ## Reproduce this score

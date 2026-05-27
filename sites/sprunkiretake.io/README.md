@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Sprunkiretake
 
-![Score 44/100 — Grade D](../../web/badge/sprunkiretake.io.svg)
+![Score 44/100 — Grade D](../../docs/badge/sprunkiretake.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sprunkiretake.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://sprunkiretake.io/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sprunkiretake.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sprunkiretake.io)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sprunkiretake.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sprunkiretake.io)
 ```
 
 ## Reproduce this score

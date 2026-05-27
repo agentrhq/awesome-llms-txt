@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LikeC4 Documentation
 
-![Score 47/100 — Grade D](../../web/badge/likec4.dev.svg)
+![Score 47/100 — Grade D](../../docs/badge/likec4.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://likec4.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://likec4.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/likec4.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/likec4.dev)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/likec4.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/likec4.dev)
 ```
 
 ## Reproduce this score

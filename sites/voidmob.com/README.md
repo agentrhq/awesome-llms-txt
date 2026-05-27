@@ -15,7 +15,7 @@ freshness_age_days: 39
 
 # VoidMob
 
-![Score 63/100 — Grade C](../../web/badge/voidmob.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/voidmob.com.svg)
 
 Category: **billing** · [Live llms.txt](https://voidmob.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://voidmob.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/voidmob.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/voidmob.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/voidmob.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/voidmob.com)
 ```
 
 ## Reproduce this score

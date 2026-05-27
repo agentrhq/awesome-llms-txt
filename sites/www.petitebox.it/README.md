@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Petitebox
 
-![Score 53/100 — Grade C](../../web/badge/www.petitebox.it.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.petitebox.it.svg)
 
 Category: **auth** · [Live llms.txt](https://www.petitebox.it/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://www.petitebox.it/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.petitebox.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.petitebox.it)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.petitebox.it.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.petitebox.it)
 ```
 
 ## Reproduce this score

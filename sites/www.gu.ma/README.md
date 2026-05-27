@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Guma - Wellness Programs Platform
 
-![Score 50/100 — Grade C](../../web/badge/www.gu.ma.svg)
+![Score 50/100 — Grade C](../../docs/badge/www.gu.ma.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gu.ma/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.gu.ma/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gu.ma.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gu.ma)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gu.ma.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gu.ma)
 ```
 
 ## Reproduce this score

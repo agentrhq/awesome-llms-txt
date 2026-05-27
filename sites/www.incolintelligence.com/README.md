@@ -15,7 +15,7 @@ freshness_age_days: 99
 
 # InCol Intelligence© (InCol Limited)
 
-![Score 52/100 — Grade C](../../web/badge/www.incolintelligence.com.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.incolintelligence.com.svg)
 
 Category: **data** · [Live llms.txt](https://incolintelligence.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://incolintelligence.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.incolintelligence.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.incolintelligence.com)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.incolintelligence.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.incolintelligence.com)
 ```
 
 ## Reproduce this score

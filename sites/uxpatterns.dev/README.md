@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Uxpatterns
 
-![Score 62/100 — Grade C](../../web/badge/uxpatterns.dev.svg)
+![Score 62/100 — Grade C](../../docs/badge/uxpatterns.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://uxpatterns.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://uxpatterns.dev/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/uxpatterns.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/uxpatterns.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/uxpatterns.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/uxpatterns.dev)
 ```
 
 ## Reproduce this score

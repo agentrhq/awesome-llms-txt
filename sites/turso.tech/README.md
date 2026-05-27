@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Turso
 
-![Score 57/100 — Grade C](../../web/badge/turso.tech.svg)
+![Score 57/100 — Grade C](../../docs/badge/turso.tech.svg)
 
 Category: **data** · [Live llms.txt](https://turso.tech/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **data** · [Live llms.txt](https://turso.tech/llms.txt) · Snapshot: 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/turso.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turso.tech)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/turso.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/turso.tech)
 ```
 
 ## Reproduce this score

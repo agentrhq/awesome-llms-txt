@@ -15,7 +15,7 @@ freshness_age_days: 13
 
 # MongoDB
 
-![Score 52/100 — Grade C](../../web/badge/mongodb.com.svg)
+![Score 52/100 — Grade C](../../docs/badge/mongodb.com.svg)
 
 Category: **data** · [Live llms.txt](https://www.mongodb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://www.mongodb.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mongodb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mongodb.com)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mongodb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mongodb.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Maersk
 
-![Score 48/100 — Grade D](../../web/badge/www.maersk.com.svg)
+![Score 48/100 — Grade D](../../docs/badge/www.maersk.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.maersk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.maersk.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.maersk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.maersk.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.maersk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.maersk.com)
 ```
 
 ## Reproduce this score

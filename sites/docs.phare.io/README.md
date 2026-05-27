@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Phare Documentation
 
-![Score 73/100 — Grade B](../../web/badge/docs.phare.io.svg)
+![Score 73/100 — Grade B](../../docs/badge/docs.phare.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.phare.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.phare.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.phare.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.phare.io)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.phare.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.phare.io)
 ```
 
 ## Reproduce this score

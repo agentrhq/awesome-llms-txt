@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Illuvium Staking Docs
 
-![Score 54/100 — Grade C](../../web/badge/docs.illuvium.io.svg)
+![Score 54/100 — Grade C](../../docs/badge/docs.illuvium.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.illuvium.io/staking-v2/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.illuvium.io/staking-v2/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.illuvium.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.illuvium.io)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.illuvium.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.illuvium.io)
 ```
 
 ## Reproduce this score

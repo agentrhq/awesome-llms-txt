@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Inbed
 
-![Score 57/100 — Grade C](../../web/badge/inbed.ai.svg)
+![Score 57/100 — Grade C](../../docs/badge/inbed.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://inbed.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://inbed.ai/llms.txt) · Snapshot: [`
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/inbed.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inbed.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/inbed.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/inbed.ai)
 ```
 
 ## Reproduce this score

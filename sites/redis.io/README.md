@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Redis Documentation
 
-![Score 78/100 — Grade B+](../../web/badge/redis.io.svg)
+![Score 78/100 — Grade B+](../../docs/badge/redis.io.svg)
 
 Category: **data** · [Live llms.txt](https://redis.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **data** · [Live llms.txt](https://redis.io/llms.txt) · Snapshot: [`
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/redis.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/redis.io)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/redis.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/redis.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mastra
 
-![Score 71/100 — Grade B](../../web/badge/mastra.ai.svg)
+![Score 71/100 — Grade B](../../docs/badge/mastra.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://mastra.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://mastra.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mastra.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mastra.ai)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mastra.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mastra.ai)
 ```
 
 ## Reproduce this score

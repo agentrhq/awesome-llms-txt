@@ -15,7 +15,7 @@ freshness_age_days: 169
 
 # MeetCalc
 
-![Score 55/100 — Grade C](../../web/badge/meetcalc.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/meetcalc.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://meetcalc.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://meetcalc.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/meetcalc.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/meetcalc.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/meetcalc.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/meetcalc.com)
 ```
 
 ## Reproduce this score

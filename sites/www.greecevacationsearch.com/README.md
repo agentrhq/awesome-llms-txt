@@ -15,7 +15,7 @@ freshness_age_days: 340
 
 # Greece Vacation Search
 
-![Score 53/100 — Grade C](../../web/badge/www.greecevacationsearch.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.greecevacationsearch.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.greecevacationsearch.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.greecevacationsearch.com/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.greecevacationsearch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.greecevacationsearch.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.greecevacationsearch.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.greecevacationsearch.com)
 ```
 
 ## Reproduce this score

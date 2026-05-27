@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LLMrefs
 
-![Score 63/100 — Grade C](../../web/badge/llmrefs.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/llmrefs.com.svg)
 
 Category: **search** · [Live llms.txt](https://llmrefs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **search** · [Live llms.txt](https://llmrefs.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/llmrefs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmrefs.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llmrefs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llmrefs.com)
 ```
 
 ## Reproduce this score

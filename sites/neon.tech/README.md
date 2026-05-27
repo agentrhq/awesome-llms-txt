@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Neon
 
-![Score 89/100 — Grade A](../../web/badge/neon.tech.svg)
+![Score 89/100 — Grade A](../../docs/badge/neon.tech.svg)
 
 Category: **data** · [Live llms.txt](https://neon.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://neon.com/llms.txt) · Snapshot: [`
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 89 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/neon.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/neon.tech)
+[![llms.txt score 89 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/neon.tech.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/neon.tech)
 ```
 
 ## Reproduce this score

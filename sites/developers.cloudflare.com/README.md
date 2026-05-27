@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Cloudflare Developers
 
-![Score 62/100 — Grade C](../../web/badge/developers.cloudflare.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/developers.cloudflare.com.svg)
 
 Category: **infra** · [Live llms.txt](https://developers.cloudflare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://developers.cloudflare.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developers.cloudflare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.cloudflare.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.cloudflare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.cloudflare.com)
 ```
 
 ## Reproduce this score

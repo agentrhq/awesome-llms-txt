@@ -15,7 +15,7 @@ freshness_age_days: 19
 
 # Gumlet
 
-![Score 63/100 — Grade C](../../web/badge/www.gumlet.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.gumlet.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.gumlet.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.gumlet.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gumlet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gumlet.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gumlet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gumlet.com)
 ```
 
 ## Reproduce this score

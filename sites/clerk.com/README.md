@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Clerk
 
-![Score 65/100 — Grade B](../../web/badge/clerk.com.svg)
+![Score 65/100 — Grade B](../../docs/badge/clerk.com.svg)
 
 Category: **auth** · [Live llms.txt](https://clerk.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://clerk.com/llms.txt) · Snapshot: [
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/clerk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/clerk.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/clerk.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/clerk.com)
 ```
 
 ## Reproduce this score

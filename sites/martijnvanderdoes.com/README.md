@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LLM Index
 
-![Score 47/100 — Grade D](../../web/badge/martijnvanderdoes.com.svg)
+![Score 47/100 — Grade D](../../docs/badge/martijnvanderdoes.com.svg)
 
 Category: **infra** · [Live llms.txt](https://martijnvanderdoes.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://martijnvanderdoes.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/martijnvanderdoes.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/martijnvanderdoes.com)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/martijnvanderdoes.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/martijnvanderdoes.com)
 ```
 
 ## Reproduce this score

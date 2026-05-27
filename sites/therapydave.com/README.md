@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Therapydave
 
-![Score 47/100 — Grade D](../../web/badge/therapydave.com.svg)
+![Score 47/100 — Grade D](../../docs/badge/therapydave.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://therapydave.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://therapydave.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/therapydave.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/therapydave.com)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/therapydave.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/therapydave.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Agent Skills
 
-![Score 62/100 — Grade C](../../web/badge/agentskills.io.svg)
+![Score 62/100 — Grade C](../../docs/badge/agentskills.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://agentskills.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://agentskills.io/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/agentskills.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agentskills.io)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/agentskills.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/agentskills.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Metabar Wise Nutrition
 
-![Score 56/100 — Grade C](../../web/badge/www.metabarwise.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/www.metabarwise.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.metabarwise.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.metabarwise.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.metabarwise.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.metabarwise.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.metabarwise.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.metabarwise.com)
 ```
 
 ## Reproduce this score

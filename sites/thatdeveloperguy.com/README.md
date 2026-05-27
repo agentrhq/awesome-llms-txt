@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ThatDeveloperGuy
 
-![Score 68/100 — Grade B](../../web/badge/thatdeveloperguy.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/thatdeveloperguy.com.svg)
 
 Category: **auth** · [Live llms.txt](https://thatdeveloperguy.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **auth** · [Live llms.txt](https://thatdeveloperguy.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/thatdeveloperguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatdeveloperguy.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thatdeveloperguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thatdeveloperguy.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../web/badge/daitoku0110.net.svg)
+![Score 39/100 — Grade D](../../docs/badge/daitoku0110.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://daitoku0110.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://daitoku0110.net/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/daitoku0110.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/daitoku0110.net)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/daitoku0110.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/daitoku0110.net)
 ```
 
 ## Reproduce this score

@@ -84,7 +84,7 @@ Zero deps. Node 18+. 17 tests in the repo. Monthly re-crawl auto-opens a PR; sco
 **9/10** Every site gets an SVG badge. Drop this in your README:
 
 ```markdown
-![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/your-site.com.svg)
+![llms.txt score](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/your-site.com.svg)
 ```
 
 Color updates with the grade. Re-scored monthly.

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # XRPSCAN
 
-![Score 57/100 — Grade C](../../web/badge/docs.xrpscan.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.xrpscan.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.xrpscan.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.xrpscan.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.xrpscan.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.xrpscan.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.xrpscan.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.xrpscan.com)
 ```
 
 ## Reproduce this score

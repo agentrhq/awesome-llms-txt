@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Thehorriblebosses
 
-![Score 43/100 — Grade D](../../web/badge/thehorriblebosses.com.svg)
+![Score 43/100 — Grade D](../../docs/badge/thehorriblebosses.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://thehorriblebosses.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://thehorriblebosses.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/thehorriblebosses.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thehorriblebosses.com)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thehorriblebosses.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thehorriblebosses.com)
 ```
 
 ## Reproduce this score

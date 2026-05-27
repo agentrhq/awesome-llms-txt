@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Maxim AI Documentation
 
-![Score 57/100 — Grade C](../../web/badge/getmaxim.ai.svg)
+![Score 57/100 — Grade C](../../docs/badge/getmaxim.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://www.getmaxim.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://www.getmaxim.ai/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/getmaxim.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getmaxim.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/getmaxim.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getmaxim.ai)
 ```
 
 ## Reproduce this score

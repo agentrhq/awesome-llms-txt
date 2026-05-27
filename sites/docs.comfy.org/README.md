@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # ComfyUI
 
-![Score 74/100 — Grade B](../../web/badge/docs.comfy.org.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.comfy.org.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://docs.comfy.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://docs.comfy.org/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.comfy.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.comfy.org)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.comfy.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.comfy.org)
 ```
 
 ## Reproduce this score

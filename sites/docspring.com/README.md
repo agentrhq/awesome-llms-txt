@@ -15,7 +15,7 @@ freshness_age_days: 12
 
 # DocSpring Integration Guide
 
-![Score 50/100 — Grade C](../../web/badge/docspring.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/docspring.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docspring.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docspring.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docspring.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docspring.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docspring.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docspring.com)
 ```
 
 ## Reproduce this score

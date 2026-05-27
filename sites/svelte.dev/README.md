@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Svelte
 
-![Score 60/100 — Grade C](../../web/badge/svelte.dev.svg)
+![Score 60/100 — Grade C](../../docs/badge/svelte.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://svelte.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://svelte.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/svelte.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/svelte.dev)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/svelte.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/svelte.dev)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Wonderchat Documentation
 
-![Score 58/100 — Grade C](../../web/badge/docs.wonderchat.io.svg)
+![Score 58/100 — Grade C](../../docs/badge/docs.wonderchat.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.wonderchat.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.wonderchat.io/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.wonderchat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.wonderchat.io)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.wonderchat.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.wonderchat.io)
 ```
 
 ## Reproduce this score

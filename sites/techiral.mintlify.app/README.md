@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # OmniMind
 
-![Score 63/100 — Grade C](../../web/badge/techiral.mintlify.app.svg)
+![Score 63/100 — Grade C](../../docs/badge/techiral.mintlify.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://techiral.mintlify.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://techiral.mintlify.app/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/techiral.mintlify.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/techiral.mintlify.app)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/techiral.mintlify.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/techiral.mintlify.app)
 ```
 
 ## Reproduce this score

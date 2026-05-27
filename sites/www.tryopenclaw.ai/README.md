@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tryopenclaw
 
-![Score 47/100 — Grade D](../../web/badge/www.tryopenclaw.ai.svg)
+![Score 47/100 — Grade D](../../docs/badge/www.tryopenclaw.ai.svg)
 
 Category: **infra** · [Live llms.txt](https://www.tryopenclaw.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://www.tryopenclaw.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tryopenclaw.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryopenclaw.ai)
+[![llms.txt score 47 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tryopenclaw.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tryopenclaw.ai)
 ```
 
 ## Reproduce this score

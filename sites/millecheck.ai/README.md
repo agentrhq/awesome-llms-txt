@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Millecheck
 
-![Score 51/100 — Grade C](../../web/badge/millecheck.ai.svg)
+![Score 51/100 — Grade C](../../docs/badge/millecheck.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://millecheck.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://millecheck.ai/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/millecheck.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/millecheck.ai)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/millecheck.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/millecheck.ai)
 ```
 
 ## Reproduce this score

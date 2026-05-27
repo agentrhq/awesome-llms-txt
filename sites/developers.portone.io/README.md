@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # 포트원 개발자센터 문서
 
-![Score 78/100 — Grade B+](../../web/badge/developers.portone.io.svg)
+![Score 78/100 — Grade B+](../../docs/badge/developers.portone.io.svg)
 
 Category: **billing** · [Live llms.txt](https://developers.portone.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://developers.portone.io/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developers.portone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.portone.io)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developers.portone.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developers.portone.io)
 ```
 
 ## Reproduce this score

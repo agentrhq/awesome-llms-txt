@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kraemer & Kraemer
 
-![Score 69/100 — Grade B](../../web/badge/kraemerlaw.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/kraemerlaw.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://kraemerlaw.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **commerce** · [Live llms.txt](https://kraemerlaw.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/kraemerlaw.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kraemerlaw.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/kraemerlaw.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kraemerlaw.com)
 ```
 
 ## Reproduce this score

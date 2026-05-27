@@ -15,7 +15,7 @@ freshness_age_days: 123
 
 # WorthyVibe
 
-![Score 57/100 — Grade C](../../web/badge/worthyvibe.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/worthyvibe.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://worthyvibe.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://worthyvibe.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/worthyvibe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/worthyvibe.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/worthyvibe.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/worthyvibe.com)
 ```
 
 ## Reproduce this score

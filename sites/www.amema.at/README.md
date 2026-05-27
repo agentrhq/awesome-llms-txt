@@ -15,7 +15,7 @@ freshness_age_days: 274
 
 # Amema
 
-![Score 27/100 — Grade F](../../web/badge/www.amema.at.svg)
+![Score 27/100 — Grade F](../../docs/badge/www.amema.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.amema.at/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.amema.at/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.amema.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.amema.at)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.amema.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.amema.at)
 ```
 
 ## Reproduce this score

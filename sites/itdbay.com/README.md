@@ -15,7 +15,7 @@ freshness_age_days: 88
 
 # Itdbay
 
-![Score 53/100 — Grade C](../../web/badge/itdbay.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/itdbay.com.svg)
 
 Category: **commerce** · [Live llms.txt](https://itdbay.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **commerce** · [Live llms.txt](https://itdbay.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/itdbay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/itdbay.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/itdbay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/itdbay.com)
 ```
 
 ## Reproduce this score

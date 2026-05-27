@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mystery O Matic
 
-![Score 46/100 — Grade D](../../web/badge/mystery-o-matic.com.svg)
+![Score 46/100 — Grade D](../../docs/badge/mystery-o-matic.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://mystery-o-matic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://mystery-o-matic.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mystery-o-matic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mystery-o-matic.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mystery-o-matic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mystery-o-matic.com)
 ```
 
 ## Reproduce this score

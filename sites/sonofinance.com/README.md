@@ -15,7 +15,7 @@ freshness_age_days: 396
 
 # Sonofinance
 
-![Score 44/100 — Grade D](../../web/badge/sonofinance.com.svg)
+![Score 44/100 — Grade D](../../docs/badge/sonofinance.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sonofinance.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://sonofinance.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sonofinance.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sonofinance.com)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sonofinance.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sonofinance.com)
 ```
 
 ## Reproduce this score

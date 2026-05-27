@@ -15,7 +15,7 @@ freshness_age_days: 455
 
 # Pastaclean
 
-![Score 36/100 — Grade D](../../web/badge/www.pastaclean.tv.svg)
+![Score 36/100 — Grade D](../../docs/badge/www.pastaclean.tv.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.pastaclean.tv/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.pastaclean.tv/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.pastaclean.tv.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.pastaclean.tv)
+[![llms.txt score 36 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.pastaclean.tv.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.pastaclean.tv)
 ```
 
 ## Reproduce this score

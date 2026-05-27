@@ -15,7 +15,7 @@ freshness_age_days: 468
 
 # CICH Packaging - LLMS
 
-![Score 49/100 — Grade D](../../web/badge/cichpack.com.svg)
+![Score 49/100 — Grade D](../../docs/badge/cichpack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cichpack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://cichpack.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cichpack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cichpack.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cichpack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cichpack.com)
 ```
 
 ## Reproduce this score

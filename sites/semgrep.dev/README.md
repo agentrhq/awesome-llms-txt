@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Semgrep
 
-![Score 62/100 — Grade C](../../web/badge/semgrep.dev.svg)
+![Score 62/100 — Grade C](../../docs/badge/semgrep.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://semgrep.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **dev-tools** · [Live llms.txt](https://semgrep.dev/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/semgrep.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semgrep.dev)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/semgrep.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semgrep.dev)
 ```
 
 ## Reproduce this score

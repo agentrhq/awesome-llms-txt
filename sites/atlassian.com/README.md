@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Atlassian
 
-![Score 69/100 — Grade B](../../web/badge/atlassian.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/atlassian.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.atlassian.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.atlassian.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/atlassian.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/atlassian.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/atlassian.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/atlassian.com)
 ```
 
 ## Reproduce this score

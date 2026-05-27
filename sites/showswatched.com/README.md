@@ -15,7 +15,7 @@ freshness_age_days: 104
 
 # ShowsWatched
 
-![Score 55/100 — Grade C](../../web/badge/showswatched.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/showswatched.com.svg)
 
 Category: **content** · [Live llms.txt](https://showswatched.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **content** · [Live llms.txt](https://showswatched.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/showswatched.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/showswatched.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/showswatched.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/showswatched.com)
 ```
 
 ## Reproduce this score

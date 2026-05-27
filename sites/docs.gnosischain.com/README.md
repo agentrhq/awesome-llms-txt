@@ -15,7 +15,7 @@ freshness_age_days: 46
 
 # Introducing Gnosis Chain
 
-![Score 61/100 — Grade C](../../web/badge/docs.gnosischain.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.gnosischain.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.gnosischain.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://docs.gnosischain.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.gnosischain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.gnosischain.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.gnosischain.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.gnosischain.com)
 ```
 
 ## Reproduce this score

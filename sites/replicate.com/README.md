@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Replicate
 
-![Score 46/100 — Grade D](../../web/badge/replicate.com.svg)
+![Score 46/100 — Grade D](../../docs/badge/replicate.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://replicate.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **ai-platform** · [Live llms.txt](https://replicate.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/replicate.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/replicate.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/replicate.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/replicate.com)
 ```
 
 ## Reproduce this score

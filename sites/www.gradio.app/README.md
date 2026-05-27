@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Gradio
 
-![Score 50/100 — Grade C](../../web/badge/www.gradio.app.svg)
+![Score 50/100 — Grade C](../../docs/badge/www.gradio.app.svg)
 
 Category: **infra** · [Live llms.txt](https://www.gradio.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://www.gradio.app/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gradio.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gradio.app)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gradio.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gradio.app)
 ```
 
 ## Reproduce this score

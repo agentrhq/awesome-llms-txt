@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Tavus
 
-![Score 74/100 — Grade B](../../web/badge/docs.tavus.io.svg)
+![Score 74/100 — Grade B](../../docs/badge/docs.tavus.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.tavus.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.tavus.io/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.tavus.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.tavus.io)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.tavus.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.tavus.io)
 ```
 
 ## Reproduce this score

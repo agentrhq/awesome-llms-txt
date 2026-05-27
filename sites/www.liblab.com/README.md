@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # liblab
 
-![Score 65/100 — Grade B](../../web/badge/www.liblab.com.svg)
+![Score 65/100 — Grade B](../../docs/badge/www.liblab.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.liblab.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.liblab.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.liblab.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.liblab.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.liblab.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.liblab.com)
 ```
 
 ## Reproduce this score

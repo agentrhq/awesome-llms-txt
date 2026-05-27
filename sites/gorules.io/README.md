@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # GoRules
 
-![Score 71/100 — Grade B](../../web/badge/gorules.io.svg)
+![Score 71/100 — Grade B](../../docs/badge/gorules.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://gorules.io/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/gorules.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gorules.io)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/gorules.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/gorules.io)
 ```
 
 ## Reproduce this score

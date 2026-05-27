@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Bartendingschool
 
-![Score 54/100 — Grade C](../../web/badge/bartendingschool.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/bartendingschool.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bartendingschool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://bartendingschool.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bartendingschool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bartendingschool.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bartendingschool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bartendingschool.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Uploadcare
 
-![Score 35/100 — Grade D](../../web/badge/uploadcare.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/uploadcare.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://uploadcare.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://uploadcare.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/uploadcare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/uploadcare.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/uploadcare.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/uploadcare.com)
 ```
 
 ## Reproduce this score

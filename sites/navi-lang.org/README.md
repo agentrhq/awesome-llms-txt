@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # LLMs Documentation
 
-![Score 65/100 — Grade B](../../web/badge/navi-lang.org.svg)
+![Score 65/100 — Grade B](../../docs/badge/navi-lang.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://navi-lang.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://navi-lang.org/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/navi-lang.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/navi-lang.org)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/navi-lang.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/navi-lang.org)
 ```
 
 ## Reproduce this score

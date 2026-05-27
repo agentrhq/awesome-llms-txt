@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mistral AI
 
-![Score 57/100 — Grade C](../../web/badge/mistral.ai.svg)
+![Score 57/100 — Grade C](../../docs/badge/mistral.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://mistral.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://mistral.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/mistral.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mistral.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/mistral.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/mistral.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vapi
 
-![Score 66/100 — Grade B](../../web/badge/docs.vapi.ai.svg)
+![Score 66/100 — Grade B](../../docs/badge/docs.vapi.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vapi.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vapi.ai/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.vapi.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vapi.ai)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vapi.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vapi.ai)
 ```
 
 ## Reproduce this score

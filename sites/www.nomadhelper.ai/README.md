@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Nomadhelper
 
-![Score 46/100 — Grade D](../../web/badge/www.nomadhelper.ai.svg)
+![Score 46/100 — Grade D](../../docs/badge/www.nomadhelper.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.nomadhelper.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.nomadhelper.ai/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.nomadhelper.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nomadhelper.ai)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.nomadhelper.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nomadhelper.ai)
 ```
 
 ## Reproduce this score

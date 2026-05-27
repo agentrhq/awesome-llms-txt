@@ -15,7 +15,7 @@ freshness_age_days: 5
 
 # TiDB Documentation
 
-![Score 65/100 — Grade B](../../web/badge/docs.pingcap.com.svg)
+![Score 65/100 — Grade B](../../docs/badge/docs.pingcap.com.svg)
 
 Category: **data** · [Live llms.txt](https://docs.pingcap.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **data** · [Live llms.txt](https://docs.pingcap.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.pingcap.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pingcap.com)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pingcap.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pingcap.com)
 ```
 
 ## Reproduce this score

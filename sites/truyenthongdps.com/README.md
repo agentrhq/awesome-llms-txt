@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Detailed Content
 
-![Score 40/100 — Grade D](../../web/badge/truyenthongdps.com.svg)
+![Score 40/100 — Grade D](../../docs/badge/truyenthongdps.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dps.media/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://dps.media/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/truyenthongdps.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/truyenthongdps.com)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/truyenthongdps.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/truyenthongdps.com)
 ```
 
 ## Reproduce this score

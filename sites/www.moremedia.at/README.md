@@ -15,7 +15,7 @@ freshness_age_days: 8
 
 # Moremedia
 
-![Score 48/100 — Grade D](../../web/badge/www.moremedia.at.svg)
+![Score 48/100 — Grade D](../../docs/badge/www.moremedia.at.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.moremedia.at/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.moremedia.at/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.moremedia.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.moremedia.at)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.moremedia.at.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.moremedia.at)
 ```
 
 ## Reproduce this score

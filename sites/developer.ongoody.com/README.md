@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Goody
 
-![Score 73/100 — Grade B](../../web/badge/developer.ongoody.com.svg)
+![Score 73/100 — Grade B](../../docs/badge/developer.ongoody.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://developer.ongoody.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://developer.ongoody.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/developer.ongoody.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.ongoody.com)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/developer.ongoody.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/developer.ongoody.com)
 ```
 
 ## Reproduce this score

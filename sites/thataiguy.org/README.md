@@ -15,7 +15,7 @@ freshness_age_days: 16
 
 # That AI Guy
 
-![Score 69/100 — Grade B](../../web/badge/thataiguy.org.svg)
+![Score 69/100 — Grade B](../../docs/badge/thataiguy.org.svg)
 
 Category: **infra** · [Live llms.txt](https://thataiguy.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://thataiguy.org/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/thataiguy.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thataiguy.org)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/thataiguy.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/thataiguy.org)
 ```
 
 ## Reproduce this score

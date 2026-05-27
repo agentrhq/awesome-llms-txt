@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Detailed Content
 
-![Score 39/100 — Grade D](../../web/badge/akademicevre.com.svg)
+![Score 39/100 — Grade D](../../docs/badge/akademicevre.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://akademicevre.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://akademicevre.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/akademicevre.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/akademicevre.com)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/akademicevre.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/akademicevre.com)
 ```
 
 ## Reproduce this score

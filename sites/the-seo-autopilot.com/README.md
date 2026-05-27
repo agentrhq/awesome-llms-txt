@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # The SEO Autopilot
 
-![Score 66/100 — Grade B](../../web/badge/the-seo-autopilot.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/the-seo-autopilot.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://the-seo-autopilot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://the-seo-autopilot.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/the-seo-autopilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/the-seo-autopilot.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/the-seo-autopilot.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/the-seo-autopilot.com)
 ```
 
 ## Reproduce this score

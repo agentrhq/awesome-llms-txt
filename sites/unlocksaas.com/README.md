@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Unlock SaaS
 
-![Score 74/100 — Grade B](../../web/badge/unlocksaas.com.svg)
+![Score 74/100 — Grade B](../../docs/badge/unlocksaas.com.svg)
 
 Category: **billing** · [Live llms.txt](https://unlocksaas.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **billing** · [Live llms.txt](https://unlocksaas.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/unlocksaas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/unlocksaas.com)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/unlocksaas.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/unlocksaas.com)
 ```
 
 ## Reproduce this score

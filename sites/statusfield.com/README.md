@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Statusfield
 
-![Score 58/100 — Grade C](../../web/badge/statusfield.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/statusfield.com.svg)
 
 Category: **billing** · [Live llms.txt](https://statusfield.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **billing** · [Live llms.txt](https://statusfield.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/statusfield.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/statusfield.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/statusfield.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/statusfield.com)
 ```
 
 ## Reproduce this score

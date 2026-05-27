@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Demex Docs
 
-![Score 55/100 — Grade C](../../web/badge/docs.carbon.network.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.carbon.network.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://guide.dem.exchange:443/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://guide.dem.exchange:443/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.carbon.network.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carbon.network)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.carbon.network.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.carbon.network)
 ```
 
 ## Reproduce this score

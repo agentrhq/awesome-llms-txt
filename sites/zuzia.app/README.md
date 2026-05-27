@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Zuzia
 
-![Score 66/100 — Grade B](../../web/badge/zuzia.app.svg)
+![Score 66/100 — Grade B](../../docs/badge/zuzia.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zuzia.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://zuzia.app/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zuzia.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zuzia.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zuzia.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zuzia.app)
 ```
 
 ## Reproduce this score

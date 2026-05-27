@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # DevHub API Documentation
 
-![Score 61/100 — Grade C](../../web/badge/api-docs.devhub.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/api-docs.devhub.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://api-docs.devhub.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://api-docs.devhub.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/api-docs.devhub.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/api-docs.devhub.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/api-docs.devhub.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/api-docs.devhub.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Concept Designs
 
-![Score 29/100 — Grade F](../../web/badge/www.concept-designs.com.au.svg)
+![Score 29/100 — Grade F](../../docs/badge/www.concept-designs.com.au.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.concept-designs.com.au/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.concept-designs.com.au/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.concept-designs.com.au.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.concept-designs.com.au)
+[![llms.txt score 29 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.concept-designs.com.au.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.concept-designs.com.au)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Preact Documentation
 
-![Score 49/100 — Grade D](../../web/badge/preactjs.com.svg)
+![Score 49/100 — Grade D](../../docs/badge/preactjs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://preactjs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://preactjs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/preactjs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/preactjs.com)
+[![llms.txt score 49 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/preactjs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/preactjs.com)
 ```
 
 ## Reproduce this score

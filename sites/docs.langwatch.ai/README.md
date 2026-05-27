@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LangWatch
 
-![Score 70/100 — Grade B](../../web/badge/docs.langwatch.ai.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.langwatch.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://langwatch.ai/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **observability** · [Live llms.txt](https://langwatch.ai/docs/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.langwatch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.langwatch.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.langwatch.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.langwatch.ai)
 ```
 
 ## Reproduce this score

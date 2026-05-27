@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Mixo
 
-![Score 52/100 — Grade C](../../web/badge/www.mixo.io.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.mixo.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.mixo.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.mixo.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.mixo.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mixo.io)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.mixo.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.mixo.io)
 ```
 
 ## Reproduce this score

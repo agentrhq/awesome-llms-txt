@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Empirechase
 
-![Score 41/100 — Grade D](../../web/badge/www.empirechase.co.uk.svg)
+![Score 41/100 — Grade D](../../docs/badge/www.empirechase.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.empirechase.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.empirechase.co.uk/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.empirechase.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.empirechase.co.uk)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.empirechase.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.empirechase.co.uk)
 ```
 
 ## Reproduce this score

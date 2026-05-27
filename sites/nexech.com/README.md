@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Nexech
 
-![Score 35/100 — Grade D](../../web/badge/nexech.com.svg)
+![Score 35/100 — Grade D](../../docs/badge/nexech.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://nexech.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://nexech.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/nexech.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nexech.com)
+[![llms.txt score 35 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/nexech.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/nexech.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Scrapfly Documentation
 
-![Score 78/100 — Grade B+](../../web/badge/docs.scrapfly.io.svg)
+![Score 78/100 — Grade B+](../../docs/badge/docs.scrapfly.io.svg)
 
 Category: **infra** · [Live llms.txt](https://scrapfly.io/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://scrapfly.io/docs/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.scrapfly.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.scrapfly.io)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.scrapfly.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.scrapfly.io)
 ```
 
 ## Reproduce this score

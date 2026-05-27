@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Documentation
 
-![Score 53/100 — Grade C](../../web/badge/docs.autentique.com.br.svg)
+![Score 53/100 — Grade C](../../docs/badge/docs.autentique.com.br.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.autentique.com.br/api/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.autentique.com.br/api/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.autentique.com.br.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.autentique.com.br)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.autentique.com.br.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.autentique.com.br)
 ```
 
 ## Reproduce this score

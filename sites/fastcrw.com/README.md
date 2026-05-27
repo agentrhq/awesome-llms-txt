@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Fastcrw
 
-![Score 72/100 — Grade B](../../web/badge/fastcrw.com.svg)
+![Score 72/100 — Grade B](../../docs/badge/fastcrw.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://fastcrw.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://fastcrw.com/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/fastcrw.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fastcrw.com)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/fastcrw.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/fastcrw.com)
 ```
 
 ## Reproduce this score

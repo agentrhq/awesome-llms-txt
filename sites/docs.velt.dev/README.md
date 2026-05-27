@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Velt
 
-![Score 70/100 — Grade B](../../web/badge/docs.velt.dev.svg)
+![Score 70/100 — Grade B](../../docs/badge/docs.velt.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://velt.dev/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://velt.dev/docs/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.velt.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.velt.dev)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.velt.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.velt.dev)
 ```
 
 ## Reproduce this score

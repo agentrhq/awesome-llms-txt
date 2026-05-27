@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Llm
 
-![Score 73/100 — Grade B](../../web/badge/llm.skydeck.ai.svg)
+![Score 73/100 — Grade B](../../docs/badge/llm.skydeck.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://llm.skydeck.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://llm.skydeck.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/llm.skydeck.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llm.skydeck.ai)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/llm.skydeck.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/llm.skydeck.ai)
 ```
 
 ## Reproduce this score

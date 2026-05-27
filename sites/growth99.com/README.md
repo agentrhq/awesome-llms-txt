@@ -15,7 +15,7 @@ freshness_age_days: 347
 
 # Growth99
 
-![Score 28/100 — Grade F](../../web/badge/growth99.com.svg)
+![Score 28/100 — Grade F](../../docs/badge/growth99.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://growth99.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://growth99.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/growth99.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/growth99.com)
+[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/growth99.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/growth99.com)
 ```
 
 ## Reproduce this score

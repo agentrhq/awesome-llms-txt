@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tele Assistance Senior
 
-![Score 27/100 — Grade F](../../web/badge/www.tele-assistance-senior.fr.svg)
+![Score 27/100 — Grade F](../../docs/badge/www.tele-assistance-senior.fr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.tele-assistance-senior.fr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.tele-assistance-senior.fr
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.tele-assistance-senior.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tele-assistance-senior.fr)
+[![llms.txt score 27 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.tele-assistance-senior.fr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.tele-assistance-senior.fr)
 ```
 
 ## Reproduce this score

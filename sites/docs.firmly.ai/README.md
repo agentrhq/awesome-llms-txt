@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Firmly Docs
 
-![Score 57/100 — Grade C](../../web/badge/docs.firmly.ai.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.firmly.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.firmly.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.firmly.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.firmly.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.firmly.ai)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.firmly.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.firmly.ai)
 ```
 
 ## Reproduce this score

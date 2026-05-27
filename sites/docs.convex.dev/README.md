@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Convex Documentation
 
-![Score 86/100 — Grade A](../../web/badge/docs.convex.dev.svg)
+![Score 86/100 — Grade A](../../docs/badge/docs.convex.dev.svg)
 
 Category: **data** · [Live llms.txt](https://docs.convex.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **data** · [Live llms.txt](https://docs.convex.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 86 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.convex.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.convex.dev)
+[![llms.txt score 86 (A)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.convex.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.convex.dev)
 ```
 
 ## Reproduce this score

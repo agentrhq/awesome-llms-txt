@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Yuzool
 
-![Score 59/100 — Grade C](../../web/badge/www.yuzool.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.yuzool.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.yuzool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.yuzool.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.yuzool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.yuzool.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.yuzool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.yuzool.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Convex
 
-![Score 58/100 — Grade C](../../web/badge/www.convex.dev.svg)
+![Score 58/100 — Grade C](../../docs/badge/www.convex.dev.svg)
 
 Category: **auth** · [Live llms.txt](https://www.convex.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://www.convex.dev/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.convex.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.convex.dev)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.convex.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.convex.dev)
 ```
 
 ## Reproduce this score

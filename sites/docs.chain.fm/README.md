@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Docs
 
-![Score 55/100 — Grade C](../../web/badge/docs.chain.fm.svg)
+![Score 55/100 — Grade C](../../docs/badge/docs.chain.fm.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chain.fm/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chain.fm/docs/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.chain.fm.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chain.fm)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chain.fm.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chain.fm)
 ```
 
 ## Reproduce this score

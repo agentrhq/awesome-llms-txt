@@ -15,7 +15,7 @@ freshness_age_days: 398
 
 # Semalt
 
-![Score 48/100 — Grade D](../../web/badge/semalt.com.svg)
+![Score 48/100 — Grade D](../../docs/badge/semalt.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://semalt.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://semalt.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/semalt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semalt.com)
+[![llms.txt score 48 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/semalt.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/semalt.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Mangopay docs
 
-![Score 78/100 — Grade B+](../../web/badge/docs.mangopay.com.svg)
+![Score 78/100 — Grade B+](../../docs/badge/docs.mangopay.com.svg)
 
 Category: **billing** · [Live llms.txt](https://docs.mangopay.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://docs.mangopay.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.mangopay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.mangopay.com)
+[![llms.txt score 78 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.mangopay.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.mangopay.com)
 ```
 
 ## Reproduce this score

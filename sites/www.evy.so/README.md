@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # EVY
 
-![Score 59/100 — Grade C](../../web/badge/www.evy.so.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.evy.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://evy.so/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://evy.so/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.evy.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.evy.so)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.evy.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.evy.so)
 ```
 
 ## Reproduce this score

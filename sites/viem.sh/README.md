@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Viem
 
-![Score 55/100 — Grade C](../../web/badge/viem.sh.svg)
+![Score 55/100 — Grade C](../../docs/badge/viem.sh.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://viem.sh/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://viem.sh/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/viem.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/viem.sh)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/viem.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/viem.sh)
 ```
 
 ## Reproduce this score

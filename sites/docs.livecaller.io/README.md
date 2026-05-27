@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Livecaller Guides
 
-![Score 58/100 — Grade C](../../web/badge/docs.livecaller.io.svg)
+![Score 58/100 — Grade C](../../docs/badge/docs.livecaller.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.livecaller.io/livecaller/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.livecaller.io/livecaller
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.livecaller.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.livecaller.io)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.livecaller.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.livecaller.io)
 ```
 
 ## Reproduce this score

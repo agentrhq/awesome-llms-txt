@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Heritage Hardwood Floors
 
-![Score 62/100 — Grade C](../../web/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://heritagehardwoodfloorsnwa.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://heritagehardwoodfloorsnwa.com
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heritagehardwoodfloors.thatwebhostingguy.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/heritagehardwoodfloors.thatwebhostingguy.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heritagehardwoodfloors.thatwebhostingguy.com)
 ```
 
 ## Reproduce this score

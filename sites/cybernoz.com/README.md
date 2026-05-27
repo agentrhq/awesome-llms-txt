@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cybernoz
 
-![Score 61/100 — Grade C](../../web/badge/cybernoz.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/cybernoz.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cybernoz.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://cybernoz.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cybernoz.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cybernoz.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cybernoz.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cybernoz.com)
 ```
 
 ## Reproduce this score

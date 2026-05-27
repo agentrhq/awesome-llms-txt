@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Vite
 
-![Score 65/100 — Grade B](../../web/badge/vite.dev.svg)
+![Score 65/100 — Grade B](../../docs/badge/vite.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://vite.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://vite.dev/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/vite.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vite.dev)
+[![llms.txt score 65 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/vite.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/vite.dev)
 ```
 
 ## Reproduce this score

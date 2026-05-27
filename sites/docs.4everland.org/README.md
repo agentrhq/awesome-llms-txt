@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # 4EVERLAND Documents
 
-![Score 60/100 — Grade C](../../web/badge/docs.4everland.org.svg)
+![Score 60/100 — Grade C](../../docs/badge/docs.4everland.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.4everland.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.4everland.org/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.4everland.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.4everland.org)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.4everland.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.4everland.org)
 ```
 
 ## Reproduce this score

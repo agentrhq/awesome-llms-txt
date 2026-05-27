@@ -15,7 +15,7 @@ freshness_age_days: 337
 
 # Marketingdrs
 
-![Score 28/100 — Grade F](../../web/badge/marketingdrs.com.svg)
+![Score 28/100 — Grade F](../../docs/badge/marketingdrs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://marketingdrs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://marketingdrs.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/marketingdrs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/marketingdrs.com)
+[![llms.txt score 28 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/marketingdrs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/marketingdrs.com)
 ```
 
 ## Reproduce this score

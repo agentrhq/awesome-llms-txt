@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Overview
 
-![Score 55/100 — Grade C](../../web/badge/zagjs.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/zagjs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zagjs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://zagjs.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zagjs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zagjs.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zagjs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zagjs.com)
 ```
 
 ## Reproduce this score

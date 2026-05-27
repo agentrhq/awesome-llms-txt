@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Stormkit
 
-![Score 63/100 — Grade C](../../web/badge/www.stormkit.io.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.stormkit.io.svg)
 
 Category: **infra** · [Live llms.txt](https://www.stormkit.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://www.stormkit.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.stormkit.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.stormkit.io)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.stormkit.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.stormkit.io)
 ```
 
 ## Reproduce this score

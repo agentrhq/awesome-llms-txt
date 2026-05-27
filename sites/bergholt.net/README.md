@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kasper Bergholt
 
-![Score 59/100 — Grade C](../../web/badge/bergholt.net.svg)
+![Score 59/100 — Grade C](../../docs/badge/bergholt.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://bergholt.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://bergholt.net/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bergholt.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bergholt.net)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bergholt.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bergholt.net)
 ```
 
 ## Reproduce this score

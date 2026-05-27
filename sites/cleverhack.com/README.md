@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Cleverhack
 
-![Score 62/100 — Grade C](../../web/badge/cleverhack.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/cleverhack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://cleverhack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://cleverhack.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/cleverhack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cleverhack.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/cleverhack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/cleverhack.com)
 ```
 
 ## Reproduce this score

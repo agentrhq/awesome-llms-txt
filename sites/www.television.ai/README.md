@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Name
 
-![Score 39/100 — Grade D](../../web/badge/www.television.ai.svg)
+![Score 39/100 — Grade D](../../docs/badge/www.television.ai.svg)
 
 Category: **billing** · [Live llms.txt](https://www.television.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://www.television.ai/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.television.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.television.ai)
+[![llms.txt score 39 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.television.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.television.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Amplemarket
 
-![Score 53/100 — Grade C](../../web/badge/amplemarket.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/amplemarket.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.amplemarket.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.amplemarket.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/amplemarket.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/amplemarket.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/amplemarket.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/amplemarket.com)
 ```
 
 ## Reproduce this score

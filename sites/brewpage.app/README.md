@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # BrewPage
 
-![Score 56/100 — Grade C](../../web/badge/brewpage.app.svg)
+![Score 56/100 — Grade C](../../docs/badge/brewpage.app.svg)
 
 Category: **infra** · [Live llms.txt](https://brewpage.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://brewpage.app/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/brewpage.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/brewpage.app)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/brewpage.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/brewpage.app)
 ```
 
 ## Reproduce this score

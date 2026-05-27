@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Together AI
 
-![Score 70/100 — Grade B](../../web/badge/together.ai.svg)
+![Score 70/100 — Grade B](../../docs/badge/together.ai.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://www.together.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **ai-platform** · [Live llms.txt](https://www.together.ai/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/together.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/together.ai)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/together.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/together.ai)
 ```
 
 ## Reproduce this score

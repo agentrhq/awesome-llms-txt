@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Baseten
 
-![Score 75/100 — Grade B+](../../web/badge/docs.baseten.co.svg)
+![Score 75/100 — Grade B+](../../docs/badge/docs.baseten.co.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.baseten.co/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.baseten.co/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.baseten.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.baseten.co)
+[![llms.txt score 75 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.baseten.co.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.baseten.co)
 ```
 
 ## Reproduce this score

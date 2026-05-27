@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # TheirStack
 
-![Score 71/100 — Grade B](../../web/badge/theirstack.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/theirstack.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://theirstack.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://theirstack.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/theirstack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/theirstack.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/theirstack.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/theirstack.com)
 ```
 
 ## Reproduce this score

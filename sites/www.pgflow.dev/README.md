@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Pgflow
 
-![Score 52/100 — Grade C](../../web/badge/www.pgflow.dev.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.pgflow.dev.svg)
 
 Category: **data** · [Live llms.txt](https://www.pgflow.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **data** · [Live llms.txt](https://www.pgflow.dev/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.pgflow.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.pgflow.dev)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.pgflow.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.pgflow.dev)
 ```
 
 ## Reproduce this score

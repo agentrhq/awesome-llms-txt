@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Gaminator Casino
 
-![Score 52/100 — Grade C](../../web/badge/www.gamsystem.org.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.gamsystem.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.gamsystem.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.gamsystem.org/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.gamsystem.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gamsystem.org)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.gamsystem.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.gamsystem.org)
 ```
 
 ## Reproduce this score

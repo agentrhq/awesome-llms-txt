@@ -15,7 +15,7 @@ freshness_age_days: 187
 
 # SEO para empresas
 
-![Score 55/100 — Grade C](../../web/badge/seolevante.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/seolevante.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://seolevante.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://seolevante.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/seolevante.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/seolevante.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/seolevante.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/seolevante.com)
 ```
 
 ## Reproduce this score

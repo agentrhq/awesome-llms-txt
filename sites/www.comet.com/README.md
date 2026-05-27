@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Opik Documentation
 
-![Score 46/100 — Grade D](../../web/badge/www.comet.com.svg)
+![Score 46/100 — Grade D](../../docs/badge/www.comet.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.comet.com/docs/opik/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.comet.com/docs/opik/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.comet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.comet.com)
+[![llms.txt score 46 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.comet.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.comet.com)
 ```
 
 ## Reproduce this score

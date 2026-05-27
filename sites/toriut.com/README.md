@@ -15,7 +15,7 @@ freshness_age_days: 446
 
 # Toriut
 
-![Score 26/100 — Grade F](../../web/badge/toriut.com.svg)
+![Score 26/100 — Grade F](../../docs/badge/toriut.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://toriut.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://toriut.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/toriut.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/toriut.com)
+[![llms.txt score 26 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/toriut.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/toriut.com)
 ```
 
 ## Reproduce this score

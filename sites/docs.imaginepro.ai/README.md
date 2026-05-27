@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # ImaginePro
 
-![Score 62/100 — Grade C](../../web/badge/docs.imaginepro.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/docs.imaginepro.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.imaginepro.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.imaginepro.ai/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.imaginepro.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imaginepro.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.imaginepro.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.imaginepro.ai)
 ```
 
 ## Reproduce this score

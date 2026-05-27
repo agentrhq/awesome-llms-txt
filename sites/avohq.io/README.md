@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Avohq
 
-![Score 51/100 — Grade C](../../web/badge/avohq.io.svg)
+![Score 51/100 — Grade C](../../docs/badge/avohq.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://avohq.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://avohq.io/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/avohq.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/avohq.io)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/avohq.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/avohq.io)
 ```
 
 ## Reproduce this score

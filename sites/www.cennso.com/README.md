@@ -15,7 +15,7 @@ freshness_age_days: 2
 
 # Cennso
 
-![Score 42/100 — Grade D](../../web/badge/www.cennso.com.svg)
+![Score 42/100 — Grade D](../../docs/badge/www.cennso.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.cennso.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -58,7 +58,7 @@ Category: **comms** · [Live llms.txt](https://www.cennso.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cennso.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cennso.com)
+[![llms.txt score 42 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cennso.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cennso.com)
 ```
 
 ## Reproduce this score

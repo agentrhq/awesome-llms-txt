@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Swarm
 
-![Score 53/100 — Grade C](../../web/badge/www.ethswarm.org.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.ethswarm.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.ethswarm.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.ethswarm.org/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.ethswarm.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ethswarm.org)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.ethswarm.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.ethswarm.org)
 ```
 
 ## Reproduce this score

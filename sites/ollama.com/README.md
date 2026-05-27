@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Ollama
 
-![Score 58/100 — Grade C](../../web/badge/ollama.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/ollama.com.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://ollama.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **ai-platform** · [Live llms.txt](https://ollama.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ollama.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ollama.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ollama.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ollama.com)
 ```
 
 ## Reproduce this score

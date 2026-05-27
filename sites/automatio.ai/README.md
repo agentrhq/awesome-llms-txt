@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Automatio
 
-![Score 62/100 — Grade C](../../web/badge/automatio.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/automatio.ai.svg)
 
 Category: **comms** · [Live llms.txt](https://automatio.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://automatio.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/automatio.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/automatio.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/automatio.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/automatio.ai)
 ```
 
 ## Reproduce this score

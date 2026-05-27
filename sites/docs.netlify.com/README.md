@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Netlify Docs
 
-![Score 67/100 — Grade B](../../web/badge/docs.netlify.com.svg)
+![Score 67/100 — Grade B](../../docs/badge/docs.netlify.com.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.netlify.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **infra** · [Live llms.txt](https://docs.netlify.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.netlify.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.netlify.com)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.netlify.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.netlify.com)
 ```
 
 ## Reproduce this score

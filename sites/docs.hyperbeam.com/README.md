@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Hyperbeam
 
-![Score 66/100 — Grade B](../../web/badge/docs.hyperbeam.com.svg)
+![Score 66/100 — Grade B](../../docs/badge/docs.hyperbeam.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.hyperbeam.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.hyperbeam.com/llms.txt) 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.hyperbeam.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.hyperbeam.com)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.hyperbeam.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.hyperbeam.com)
 ```
 
 ## Reproduce this score

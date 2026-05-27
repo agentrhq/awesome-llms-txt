@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sherlock Domains
 
-![Score 53/100 — Grade C](../../web/badge/www.sherlockdomains.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.sherlockdomains.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.sherlockdomains.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.sherlockdomains.com/llms.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.sherlockdomains.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sherlockdomains.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.sherlockdomains.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.sherlockdomains.com)
 ```
 
 ## Reproduce this score

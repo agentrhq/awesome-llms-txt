@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Langflow
 
-![Score 40/100 — Grade D](../../web/badge/www.langflow.org.svg)
+![Score 40/100 — Grade D](../../docs/badge/www.langflow.org.svg)
 
 Category: **infra** · [Live llms.txt](https://www.langflow.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **infra** · [Live llms.txt](https://www.langflow.org/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.langflow.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.langflow.org)
+[![llms.txt score 40 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.langflow.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.langflow.org)
 ```
 
 ## Reproduce this score

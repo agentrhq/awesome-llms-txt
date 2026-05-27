@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # LightLink Protocol
 
-![Score 53/100 — Grade C](../../web/badge/docs.lightlink.io.svg)
+![Score 53/100 — Grade C](../../docs/badge/docs.lightlink.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.lightlink.io/lightlink-protocol/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.lightlink.io/lightlink-p
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.lightlink.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.lightlink.io)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.lightlink.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.lightlink.io)
 ```
 
 ## Reproduce this score

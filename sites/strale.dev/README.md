@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Strale
 
-![Score 57/100 — Grade C](../../web/badge/strale.dev.svg)
+![Score 57/100 — Grade C](../../docs/badge/strale.dev.svg)
 
 Category: **ai-platform** · [Live llms.txt](https://strale.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **ai-platform** · [Live llms.txt](https://strale.dev/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/strale.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/strale.dev)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/strale.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/strale.dev)
 ```
 
 ## Reproduce this score

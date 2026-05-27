@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Primev Documentation
 
-![Score 64/100 — Grade C](../../web/badge/docs.primev.xyz.svg)
+![Score 64/100 — Grade C](../../docs/badge/docs.primev.xyz.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.primev.xyz/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **infra** · [Live llms.txt](https://docs.primev.xyz/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.primev.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.primev.xyz)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.primev.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.primev.xyz)
 ```
 
 ## Reproduce this score

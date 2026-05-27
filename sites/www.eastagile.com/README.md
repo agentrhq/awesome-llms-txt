@@ -15,7 +15,7 @@ freshness_age_days: 42
 
 # Eastagile
 
-![Score 32/100 — Grade F](../../web/badge/www.eastagile.com.svg)
+![Score 32/100 — Grade F](../../docs/badge/www.eastagile.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.eastagile.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.eastagile.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 32 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.eastagile.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.eastagile.com)
+[![llms.txt score 32 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.eastagile.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.eastagile.com)
 ```
 
 ## Reproduce this score

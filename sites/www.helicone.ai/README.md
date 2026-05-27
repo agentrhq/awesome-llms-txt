@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Helicone
 
-![Score 62/100 — Grade C](../../web/badge/www.helicone.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/www.helicone.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://www.helicone.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **observability** · [Live llms.txt](https://www.helicone.ai/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.helicone.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helicone.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.helicone.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.helicone.ai)
 ```
 
 ## Reproduce this score

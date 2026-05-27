@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Iteroapp
 
-![Score 62/100 — Grade C](../../web/badge/iteroapp.ai.svg)
+![Score 62/100 — Grade C](../../docs/badge/iteroapp.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://iteroapp.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://iteroapp.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/iteroapp.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/iteroapp.ai)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/iteroapp.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/iteroapp.ai)
 ```
 
 ## Reproduce this score

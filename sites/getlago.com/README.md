@@ -15,7 +15,7 @@ freshness_age_days: 15
 
 # Lago (GetLago)
 
-![Score 54/100 — Grade C](../../web/badge/getlago.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/getlago.com.svg)
 
 Category: **billing** · [Live llms.txt](https://getlago.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **billing** · [Live llms.txt](https://getlago.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/getlago.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getlago.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/getlago.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/getlago.com)
 ```
 
 ## Reproduce this score

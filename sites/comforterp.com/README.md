@@ -15,7 +15,7 @@ freshness_age_days: 188
 
 # ComfortERP
 
-![Score 54/100 — Grade C](../../web/badge/comforterp.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/comforterp.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://comforterp.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://comforterp.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/comforterp.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/comforterp.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/comforterp.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/comforterp.com)
 ```
 
 ## Reproduce this score

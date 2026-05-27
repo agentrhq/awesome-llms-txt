@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Elysiajs
 
-![Score 71/100 — Grade B](../../web/badge/elysiajs.com.svg)
+![Score 71/100 — Grade B](../../docs/badge/elysiajs.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://elysiajs.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://elysiajs.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/elysiajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/elysiajs.com)
+[![llms.txt score 71 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/elysiajs.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/elysiajs.com)
 ```
 
 ## Reproduce this score

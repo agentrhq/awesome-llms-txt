@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Workflow Help Center
 
-![Score 45/100 — Grade D](../../web/badge/docs.workflow.design.svg)
+![Score 45/100 — Grade D](../../docs/badge/docs.workflow.design.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.workflow.design/help/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.workflow.design/help/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.workflow.design.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.workflow.design)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.workflow.design.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.workflow.design)
 ```
 
 ## Reproduce this score

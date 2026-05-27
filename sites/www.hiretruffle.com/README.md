@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Truffle
 
-![Score 58/100 — Grade C](../../web/badge/www.hiretruffle.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/www.hiretruffle.com.svg)
 
 Category: **content** · [Live llms.txt](https://www.hiretruffle.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **content** · [Live llms.txt](https://www.hiretruffle.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.hiretruffle.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.hiretruffle.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.hiretruffle.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.hiretruffle.com)
 ```
 
 ## Reproduce this score

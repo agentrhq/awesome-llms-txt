@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Birdie
 
-![Score 64/100 — Grade C](../../web/badge/docs.birdie.so.svg)
+![Score 64/100 — Grade C](../../docs/badge/docs.birdie.so.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.birdie.so/birdie-docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -51,7 +51,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.birdie.so/birdie-docs/ll
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.birdie.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.birdie.so)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.birdie.so.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.birdie.so)
 ```
 
 ## Reproduce this score

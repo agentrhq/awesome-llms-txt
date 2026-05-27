@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # VeChain Docs
 
-![Score 59/100 — Grade C](../../web/badge/docs.vechain.org.svg)
+![Score 59/100 — Grade C](../../docs/badge/docs.vechain.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.vechain.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.vechain.org/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.vechain.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vechain.org)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.vechain.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.vechain.org)
 ```
 
 ## Reproduce this score

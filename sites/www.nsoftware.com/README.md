@@ -15,7 +15,7 @@ freshness_age_days: 49
 
 # /n software
 
-![Score 70/100 — Grade B](../../web/badge/www.nsoftware.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/www.nsoftware.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.nsoftware.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://www.nsoftware.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.nsoftware.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nsoftware.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.nsoftware.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.nsoftware.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # About Remotion
 
-![Score 44/100 — Grade D](../../web/badge/www.remotion.dev.svg)
+![Score 44/100 — Grade D](../../docs/badge/www.remotion.dev.svg)
 
 Category: **content** · [Live llms.txt](https://www.remotion.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **content** · [Live llms.txt](https://www.remotion.dev/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.remotion.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.remotion.dev)
+[![llms.txt score 44 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.remotion.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.remotion.dev)
 ```
 
 ## Reproduce this score

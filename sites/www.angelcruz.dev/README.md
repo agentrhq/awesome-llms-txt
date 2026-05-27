@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Angel Cruz Dev
 
-![Score 63/100 — Grade C](../../web/badge/www.angelcruz.dev.svg)
+![Score 63/100 — Grade C](../../docs/badge/www.angelcruz.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.angelcruz.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.angelcruz.dev/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.angelcruz.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.angelcruz.dev)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.angelcruz.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.angelcruz.dev)
 ```
 
 ## Reproduce this score

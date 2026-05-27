@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # IRC Sales Solutions
 
-![Score 53/100 — Grade C](../../web/badge/ircsalessolutions.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/ircsalessolutions.com.svg)
 
 Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/uploads/2026/02/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -49,7 +49,7 @@ Category: **infra** · [Live llms.txt](https://ircsalessolutions.com/wp-content/
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ircsalessolutions.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ircsalessolutions.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ircsalessolutions.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ircsalessolutions.com)
 ```
 
 ## Reproduce this score

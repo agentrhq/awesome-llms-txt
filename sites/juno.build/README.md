@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Juno
 
-![Score 74/100 — Grade B](../../web/badge/juno.build.svg)
+![Score 74/100 — Grade B](../../docs/badge/juno.build.svg)
 
 Category: **infra** · [Live llms.txt](https://juno.build/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **infra** · [Live llms.txt](https://juno.build/llms.txt) · Snapshot:
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/juno.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/juno.build)
+[![llms.txt score 74 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/juno.build.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/juno.build)
 ```
 
 ## Reproduce this score

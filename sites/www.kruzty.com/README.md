@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Kruzty
 
-![Score 57/100 — Grade C](../../web/badge/www.kruzty.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.kruzty.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.kruzty.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.kruzty.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.kruzty.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.kruzty.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.kruzty.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.kruzty.com)
 ```
 
 ## Reproduce this score

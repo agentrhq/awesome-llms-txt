@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # CodeCrafters
 
-![Score 67/100 — Grade B](../../web/badge/docs.codecrafters.io.svg)
+![Score 67/100 — Grade B](../../docs/badge/docs.codecrafters.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.codecrafters.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.codecrafters.io/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.codecrafters.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.codecrafters.io)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.codecrafters.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.codecrafters.io)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # Facets
 
-![Score 52/100 — Grade C](../../web/badge/www.facets.cloud.svg)
+![Score 52/100 — Grade C](../../docs/badge/www.facets.cloud.svg)
 
 Category: **infra** · [Live llms.txt](https://www.facets.cloud/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://www.facets.cloud/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.facets.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.facets.cloud)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.facets.cloud.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.facets.cloud)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Pulumi
 
-![Score 69/100 — Grade B](../../web/badge/pulumi.com.svg)
+![Score 69/100 — Grade B](../../docs/badge/pulumi.com.svg)
 
 Category: **infra** · [Live llms.txt](https://www.pulumi.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **infra** · [Live llms.txt](https://www.pulumi.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/pulumi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pulumi.com)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/pulumi.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/pulumi.com)
 ```
 
 ## Reproduce this score

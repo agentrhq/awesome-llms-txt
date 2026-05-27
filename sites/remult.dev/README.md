@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Remult
 
-![Score 79/100 — Grade B+](../../web/badge/remult.dev.svg)
+![Score 79/100 — Grade B+](../../docs/badge/remult.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://remult.dev/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/remult.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/remult.dev)
+[![llms.txt score 79 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/remult.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/remult.dev)
 ```
 
 ## Reproduce this score

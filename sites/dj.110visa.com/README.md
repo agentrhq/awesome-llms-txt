@@ -15,7 +15,7 @@ freshness_age_days: 341
 
 # 短剧演员集中营微信公众号
 
-![Score 43/100 — Grade D](../../web/badge/dj.110visa.com.svg)
+![Score 43/100 — Grade D](../../docs/badge/dj.110visa.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://dj.110visa.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://dj.110visa.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/dj.110visa.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dj.110visa.com)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/dj.110visa.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/dj.110visa.com)
 ```
 
 ## Reproduce this score

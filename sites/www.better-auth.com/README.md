@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Better Auth
 
-![Score 76/100 — Grade B+](../../web/badge/www.better-auth.com.svg)
+![Score 76/100 — Grade B+](../../docs/badge/www.better-auth.com.svg)
 
 Category: **auth** · [Live llms.txt](https://better-auth.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -49,7 +49,7 @@ Category: **auth** · [Live llms.txt](https://better-auth.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.better-auth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.better-auth.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.better-auth.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.better-auth.com)
 ```
 
 ## Reproduce this score

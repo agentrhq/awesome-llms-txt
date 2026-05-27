@@ -15,7 +15,7 @@ freshness_age_days: 4
 
 # Acemoneytransfer
 
-![Score 34/100 — Grade F](../../web/badge/acemoneytransfer.com.svg)
+![Score 34/100 — Grade F](../../docs/badge/acemoneytransfer.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://acemoneytransfer.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://acemoneytransfer.com/llms.txt
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/acemoneytransfer.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/acemoneytransfer.com)
+[![llms.txt score 34 (F)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/acemoneytransfer.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/acemoneytransfer.com)
 ```
 
 ## Reproduce this score

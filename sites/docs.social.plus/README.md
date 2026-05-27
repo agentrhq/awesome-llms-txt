@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Social Docs
 
-![Score 59/100 — Grade C](../../web/badge/docs.social.plus.svg)
+![Score 59/100 — Grade C](../../docs/badge/docs.social.plus.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.social.plus/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.social.plus/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.social.plus.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.social.plus)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.social.plus.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.social.plus)
 ```
 
 ## Reproduce this score

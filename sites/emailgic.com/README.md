@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Emailgic
 
-![Score 61/100 — Grade C](../../web/badge/emailgic.com.svg)
+![Score 61/100 — Grade C](../../docs/badge/emailgic.com.svg)
 
 Category: **comms** · [Live llms.txt](https://emailgic.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **comms** · [Live llms.txt](https://emailgic.com/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/emailgic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/emailgic.com)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/emailgic.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/emailgic.com)
 ```
 
 ## Reproduce this score

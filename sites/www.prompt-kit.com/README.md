@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # prompt-kit
 
-![Score 59/100 — Grade C](../../web/badge/www.prompt-kit.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.prompt-kit.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.prompt-kit.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **comms** · [Live llms.txt](https://www.prompt-kit.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.prompt-kit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.prompt-kit.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.prompt-kit.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.prompt-kit.com)
 ```
 
 ## Reproduce this score

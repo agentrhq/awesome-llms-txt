@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Tauri Full Documentation
 
-![Score 66/100 — Grade B](../../web/badge/tauri.app.svg)
+![Score 66/100 — Grade B](../../docs/badge/tauri.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://tauri.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://tauri.app/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/tauri.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tauri.app)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/tauri.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/tauri.app)
 ```
 
 ## Reproduce this score

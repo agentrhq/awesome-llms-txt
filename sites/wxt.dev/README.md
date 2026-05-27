@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # WXT
 
-![Score 68/100 — Grade B](../../web/badge/wxt.dev.svg)
+![Score 68/100 — Grade B](../../docs/badge/wxt.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wxt.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://wxt.dev/llms.txt) · Snapshot
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/wxt.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wxt.dev)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/wxt.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wxt.dev)
 ```
 
 ## Reproduce this score

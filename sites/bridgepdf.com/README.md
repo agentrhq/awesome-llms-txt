@@ -15,7 +15,7 @@ freshness_age_days: 89
 
 # Bridgepdf
 
-![Score 55/100 — Grade C](../../web/badge/bridgepdf.com.svg)
+![Score 55/100 — Grade C](../../docs/badge/bridgepdf.com.svg)
 
 Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **observability** · [Live llms.txt](https://bridgepdf.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/bridgepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bridgepdf.com)
+[![llms.txt score 55 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/bridgepdf.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/bridgepdf.com)
 ```
 
 ## Reproduce this score

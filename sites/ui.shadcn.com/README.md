@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # shadcn/ui
 
-![Score 70/100 — Grade B](../../web/badge/ui.shadcn.com.svg)
+![Score 70/100 — Grade B](../../docs/badge/ui.shadcn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://ui.shadcn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://ui.shadcn.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ui.shadcn.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ui.shadcn.com)
+[![llms.txt score 70 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ui.shadcn.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ui.shadcn.com)
 ```
 
 ## Reproduce this score

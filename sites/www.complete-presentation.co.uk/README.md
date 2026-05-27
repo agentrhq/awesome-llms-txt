@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Detailed Content
 
-![Score 38/100 — Grade D](../../web/badge/www.complete-presentation.co.uk.svg)
+![Score 38/100 — Grade D](../../docs/badge/www.complete-presentation.co.uk.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.complete-presentation.co.uk/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.complete-presentation.co.
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 38 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.complete-presentation.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.complete-presentation.co.uk)
+[![llms.txt score 38 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.complete-presentation.co.uk.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.complete-presentation.co.uk)
 ```
 
 ## Reproduce this score

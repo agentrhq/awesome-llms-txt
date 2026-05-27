@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Chiliz Chain Developer Docs
 
-![Score 57/100 — Grade C](../../web/badge/docs.chiliz.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.chiliz.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.chiliz.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.chiliz.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.chiliz.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chiliz.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.chiliz.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.chiliz.com)
 ```
 
 ## Reproduce this score

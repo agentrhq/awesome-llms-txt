@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Icorner
 
-![Score 37/100 — Grade D](../../web/badge/icorner.net.svg)
+![Score 37/100 — Grade D](../../docs/badge/icorner.net.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://icorner.net/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://icorner.net/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 37 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/icorner.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/icorner.net)
+[![llms.txt score 37 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/icorner.net.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/icorner.net)
 ```
 
 ## Reproduce this score

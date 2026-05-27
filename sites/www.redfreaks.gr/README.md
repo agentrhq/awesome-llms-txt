@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Redfreaks
 
-![Score 53/100 — Grade C](../../web/badge/www.redfreaks.gr.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.redfreaks.gr.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.redfreaks.gr/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.redfreaks.gr/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.redfreaks.gr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.redfreaks.gr)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.redfreaks.gr.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.redfreaks.gr)
 ```
 
 ## Reproduce this score

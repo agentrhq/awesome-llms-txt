@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Side Copilot
 
-![Score 77/100 — Grade B+](../../web/badge/sidespace.app.svg)
+![Score 77/100 — Grade B+](../../docs/badge/sidespace.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.sidecopilot.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.sidecopilot.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sidespace.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sidespace.app)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sidespace.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sidespace.app)
 ```
 
 ## Reproduce this score

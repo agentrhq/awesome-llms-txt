@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Trackingplan
 
-![Score 59/100 — Grade C](../../web/badge/www.trackingplan.com.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.trackingplan.com.svg)
 
 Category: **observability** · [Live llms.txt](https://www.trackingplan.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://www.trackingplan.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.trackingplan.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.trackingplan.com)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.trackingplan.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.trackingplan.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Giga
 
-![Score 50/100 — Grade C](../../web/badge/giga.tools.svg)
+![Score 50/100 — Grade C](../../docs/badge/giga.tools.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://giga.tools/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://giga.tools/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/giga.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/giga.tools)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/giga.tools.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/giga.tools)
 ```
 
 ## Reproduce this score

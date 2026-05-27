@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Inrō
 
-![Score 66/100 — Grade B](../../web/badge/www.inro.social.svg)
+![Score 66/100 — Grade B](../../docs/badge/www.inro.social.svg)
 
 Category: **commerce** · [Live llms.txt](https://www.inro.social/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **commerce** · [Live llms.txt](https://www.inro.social/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.inro.social.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.inro.social)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.inro.social.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.inro.social)
 ```
 
 ## Reproduce this score

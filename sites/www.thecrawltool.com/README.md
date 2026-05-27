@@ -15,7 +15,7 @@ freshness_age_days: 26
 
 # The Crawl Tool
 
-![Score 50/100 — Grade C](../../web/badge/www.thecrawltool.com.svg)
+![Score 50/100 — Grade C](../../docs/badge/www.thecrawltool.com.svg)
 
 Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **comms** · [Live llms.txt](https://www.thecrawltool.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.thecrawltool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thecrawltool.com)
+[![llms.txt score 50 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.thecrawltool.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.thecrawltool.com)
 ```
 
 ## Reproduce this score

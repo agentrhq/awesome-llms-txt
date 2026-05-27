@@ -15,7 +15,7 @@ freshness_age_days: 6
 
 # Community Charts
 
-![Score 73/100 — Grade B](../../web/badge/community-charts.github.io.svg)
+![Score 73/100 — Grade B](../../docs/badge/community-charts.github.io.svg)
 
 Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://community-charts.github.io/llms.t
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/community-charts.github.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/community-charts.github.io)
+[![llms.txt score 73 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/community-charts.github.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/community-charts.github.io)
 ```
 
 ## Reproduce this score

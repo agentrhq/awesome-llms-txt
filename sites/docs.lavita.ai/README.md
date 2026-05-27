@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Lavita AI
 
-![Score 66/100 — Grade B](../../web/badge/docs.lavita.ai.svg)
+![Score 66/100 — Grade B](../../docs/badge/docs.lavita.ai.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.lavita.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.lavita.ai/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.lavita.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.lavita.ai)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.lavita.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.lavita.ai)
 ```
 
 ## Reproduce this score

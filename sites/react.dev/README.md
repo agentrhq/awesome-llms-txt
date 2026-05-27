@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # React
 
-![Score 69/100 — Grade B](../../web/badge/react.dev.svg)
+![Score 69/100 — Grade B](../../docs/badge/react.dev.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://react.dev/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://react.dev/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/react.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/react.dev)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/react.dev.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/react.dev)
 ```
 
 ## Reproduce this score

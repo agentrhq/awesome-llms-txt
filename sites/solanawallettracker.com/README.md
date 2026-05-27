@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sol Wallet Tracker
 
-![Score 54/100 — Grade C](../../web/badge/solanawallettracker.com.svg)
+![Score 54/100 — Grade C](../../docs/badge/solanawallettracker.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.solwallettracker.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.solwallettracker.com/llms
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/solanawallettracker.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/solanawallettracker.com)
+[![llms.txt score 54 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/solanawallettracker.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/solanawallettracker.com)
 ```
 
 ## Reproduce this score

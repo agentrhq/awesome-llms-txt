@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # GitHub
 
-![Score 77/100 — Grade B+](../../web/badge/github.com.svg)
+![Score 77/100 — Grade B+](../../docs/badge/github.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://github.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://github.com/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/github.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/github.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/github.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/github.com)
 ```
 
 ## Reproduce this score

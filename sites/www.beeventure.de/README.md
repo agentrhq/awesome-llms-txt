@@ -15,7 +15,7 @@ freshness_age_days: 74
 
 # Beeventure
 
-![Score 61/100 — Grade C](../../web/badge/www.beeventure.de.svg)
+![Score 61/100 — Grade C](../../docs/badge/www.beeventure.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.beeventure.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.beeventure.de/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.beeventure.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.beeventure.de)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.beeventure.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.beeventure.de)
 ```
 
 ## Reproduce this score

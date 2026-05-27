@@ -15,7 +15,7 @@ freshness_age_days: 7
 
 # Manifestly Checklists
 
-![Score 59/100 — Grade C](../../web/badge/www.manifest.ly.svg)
+![Score 59/100 — Grade C](../../docs/badge/www.manifest.ly.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.manifest.ly/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.manifest.ly/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.manifest.ly.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.manifest.ly)
+[![llms.txt score 59 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.manifest.ly.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.manifest.ly)
 ```
 
 ## Reproduce this score

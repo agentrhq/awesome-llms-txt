@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Flows
 
-![Score 62/100 — Grade C](../../web/badge/flows.sh.svg)
+![Score 62/100 — Grade C](../../docs/badge/flows.sh.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://flows.sh/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://flows.sh/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/flows.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/flows.sh)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/flows.sh.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/flows.sh)
 ```
 
 ## Reproduce this score

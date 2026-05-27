@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Glucn
 
-![Score 57/100 — Grade C](../../web/badge/glucn.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/glucn.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://glucn.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://glucn.com/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/glucn.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/glucn.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/glucn.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/glucn.com)
 ```
 
 ## Reproduce this score

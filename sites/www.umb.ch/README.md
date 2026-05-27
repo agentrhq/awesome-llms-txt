@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # UMB AG
 
-![Score 60/100 — Grade C](../../web/badge/www.umb.ch.svg)
+![Score 60/100 — Grade C](../../docs/badge/www.umb.ch.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.umb.ch/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.umb.ch/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.umb.ch.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.umb.ch)
+[![llms.txt score 60 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.umb.ch.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.umb.ch)
 ```
 
 ## Reproduce this score

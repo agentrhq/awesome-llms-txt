@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Krystal Docs
 
-![Score 57/100 — Grade C](../../web/badge/docs.krystal.app.svg)
+![Score 57/100 — Grade C](../../docs/badge/docs.krystal.app.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.krystal.app/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.krystal.app/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.krystal.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.krystal.app)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.krystal.app.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.krystal.app)
 ```
 
 ## Reproduce this score

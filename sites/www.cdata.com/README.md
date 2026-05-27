@@ -15,7 +15,7 @@ freshness_age_days: 28
 
 # CData Software
 
-![Score 57/100 — Grade C](../../web/badge/www.cdata.com.svg)
+![Score 57/100 — Grade C](../../docs/badge/www.cdata.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.cdata.com/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.cdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cdata.com)
+[![llms.txt score 57 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.cdata.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.cdata.com)
 ```
 
 ## Reproduce this score

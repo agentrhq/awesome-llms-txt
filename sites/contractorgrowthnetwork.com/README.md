@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Contractor Growth Network
 
-![Score 64/100 — Grade C](../../web/badge/contractorgrowthnetwork.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/contractorgrowthnetwork.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://contractorgrowthnetwork.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://contractorgrowthnetwork.com/l
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/contractorgrowthnetwork.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/contractorgrowthnetwork.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/contractorgrowthnetwork.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/contractorgrowthnetwork.com)
 ```
 
 ## Reproduce this score

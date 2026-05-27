@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Parseable Documentation
 
-![Score 45/100 — Grade D](../../web/badge/www.parseable.com.svg)
+![Score 45/100 — Grade D](../../docs/badge/www.parseable.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.parseable.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **auth** · [Live llms.txt](https://www.parseable.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.parseable.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.parseable.com)
+[![llms.txt score 45 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.parseable.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.parseable.com)
 ```
 
 ## Reproduce this score

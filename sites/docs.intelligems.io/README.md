@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Intelligems Docs
 
-![Score 61/100 — Grade C](../../web/badge/docs.intelligems.io.svg)
+![Score 61/100 — Grade C](../../docs/badge/docs.intelligems.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.intelligems.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.intelligems.io/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.intelligems.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.intelligems.io)
+[![llms.txt score 61 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.intelligems.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.intelligems.io)
 ```
 
 ## Reproduce this score

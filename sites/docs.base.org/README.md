@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Base Documentation
 
-![Score 72/100 — Grade B](../../web/badge/docs.base.org.svg)
+![Score 72/100 — Grade B](../../docs/badge/docs.base.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.base.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.base.org/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.base.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.base.org)
+[![llms.txt score 72 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.base.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.base.org)
 ```
 
 ## Reproduce this score

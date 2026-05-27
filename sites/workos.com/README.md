@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # WorkOS
 
-![Score 77/100 — Grade B+](../../web/badge/workos.com.svg)
+![Score 77/100 — Grade B+](../../docs/badge/workos.com.svg)
 
 Category: **auth** · [Live llms.txt](https://workos.com/docs/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://workos.com/docs/llms.txt) · Snaps
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/workos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/workos.com)
+[![llms.txt score 77 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/workos.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/workos.com)
 ```
 
 ## Reproduce this score

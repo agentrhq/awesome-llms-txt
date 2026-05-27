@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Agent Instructions — Plastic Books
 
-![Score 53/100 — Grade C](../../web/badge/www.plasticbooks.com.svg)
+![Score 53/100 — Grade C](../../docs/badge/www.plasticbooks.com.svg)
 
 Category: **auth** · [Live llms.txt](https://www.plasticbooks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **auth** · [Live llms.txt](https://www.plasticbooks.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.plasticbooks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.plasticbooks.com)
+[![llms.txt score 53 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.plasticbooks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.plasticbooks.com)
 ```
 
 ## Reproduce this score

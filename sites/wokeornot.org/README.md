@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Woke Or Not
 
-![Score 56/100 — Grade C](../../web/badge/wokeornot.org.svg)
+![Score 56/100 — Grade C](../../docs/badge/wokeornot.org.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://wokeornot.org/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://wokeornot.org/llms.txt) · Sn
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/wokeornot.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wokeornot.org)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/wokeornot.org.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/wokeornot.org)
 ```
 
 ## Reproduce this score

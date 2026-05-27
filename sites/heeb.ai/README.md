@@ -15,7 +15,7 @@ freshness_age_days: 61
 
 # heeb
 
-![Score 52/100 — Grade C](../../web/badge/heeb.ai.svg)
+![Score 52/100 — Grade C](../../docs/badge/heeb.ai.svg)
 
 Category: **observability** · [Live llms.txt](https://heeb.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **observability** · [Live llms.txt](https://heeb.ai/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/heeb.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heeb.ai)
+[![llms.txt score 52 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/heeb.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/heeb.ai)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Milesker
 
-![Score 43/100 — Grade D](../../web/badge/www.milesker.xyz.svg)
+![Score 43/100 — Grade D](../../docs/badge/www.milesker.xyz.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://static1.squarespace.com/static/6700d0edd8bf53568be5b232/t/691b8778e68b295c5c8f29f3/1763411832491/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://static1.squarespace.com/stati
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.milesker.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.milesker.xyz)
+[![llms.txt score 43 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.milesker.xyz.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.milesker.xyz)
 ```
 
 ## Reproduce this score

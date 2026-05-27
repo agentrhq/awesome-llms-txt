@@ -15,7 +15,7 @@ freshness_age_days: 1
 
 # RushDB Docs
 
-![Score 63/100 — Grade C](../../web/badge/docs.rushdb.com.svg)
+![Score 63/100 — Grade C](../../docs/badge/docs.rushdb.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.rushdb.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -53,7 +53,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.rushdb.com/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.rushdb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.rushdb.com)
+[![llms.txt score 63 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.rushdb.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.rushdb.com)
 ```
 
 ## Reproduce this score

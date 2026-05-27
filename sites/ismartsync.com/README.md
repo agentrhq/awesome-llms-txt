@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # iSmartSync
 
-![Score 64/100 — Grade C](../../web/badge/ismartsync.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/ismartsync.com.svg)
 
 Category: **billing** · [Live llms.txt](https://ismartsync.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **billing** · [Live llms.txt](https://ismartsync.com/llms.txt) · Sna
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/ismartsync.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ismartsync.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/ismartsync.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/ismartsync.com)
 ```
 
 ## Reproduce this score

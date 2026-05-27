@@ -15,7 +15,7 @@ freshness_age_days: 47
 
 # Beratung Rheinbach
 
-![Score 51/100 — Grade C](../../web/badge/www.beratung-rheinbach.de.svg)
+![Score 51/100 — Grade C](../../docs/badge/www.beratung-rheinbach.de.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://www.beratung-rheinbach.de/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://www.beratung-rheinbach.de/llm
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/www.beratung-rheinbach.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.beratung-rheinbach.de)
+[![llms.txt score 51 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/www.beratung-rheinbach.de.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/www.beratung-rheinbach.de)
 ```
 
 ## Reproduce this score

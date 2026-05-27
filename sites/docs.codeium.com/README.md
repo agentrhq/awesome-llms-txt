@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Codeium Docs
 
-![Score 68/100 — Grade B](../../web/badge/docs.codeium.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/docs.codeium.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.windsurf.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.windsurf.com/llms.txt) �
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.codeium.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.codeium.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.codeium.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.codeium.com)
 ```
 
 ## Reproduce this score

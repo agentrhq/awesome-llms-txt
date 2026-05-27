@@ -15,7 +15,7 @@ freshness_age_days: 3
 
 # Pimlico
 
-![Score 69/100 — Grade B](../../web/badge/docs.pimlico.io.svg)
+![Score 69/100 — Grade B](../../docs/badge/docs.pimlico.io.svg)
 
 Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **infra** · [Live llms.txt](https://docs.pimlico.io/llms.txt) · Snap
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.pimlico.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pimlico.io)
+[![llms.txt score 69 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.pimlico.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.pimlico.io)
 ```
 
 ## Reproduce this score

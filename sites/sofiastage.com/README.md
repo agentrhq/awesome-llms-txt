@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # SofiaStage Agent API
 
-![Score 68/100 — Grade B](../../web/badge/sofiastage.com.svg)
+![Score 68/100 — Grade B](../../docs/badge/sofiastage.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://sofiastage.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://sofiastage.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sofiastage.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sofiastage.com)
+[![llms.txt score 68 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sofiastage.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sofiastage.com)
 ```
 
 ## Reproduce this score

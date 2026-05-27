@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Zodori
 
-![Score 62/100 — Grade C](../../web/badge/zodoristudio.com.svg)
+![Score 62/100 — Grade C](../../docs/badge/zodoristudio.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://zodoristudio.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://zodoristudio.com/llms.txt) ·
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/zodoristudio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zodoristudio.com)
+[![llms.txt score 62 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/zodoristudio.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/zodoristudio.com)
 ```
 
 ## Reproduce this score

@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Title
 
-![Score 66/100 — Grade B](../../web/badge/docs.complyt.io.svg)
+![Score 66/100 — Grade B](../../docs/badge/docs.complyt.io.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.complyt.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.complyt.io/llms.txt) · 
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.complyt.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.complyt.io)
+[![llms.txt score 66 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.complyt.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.complyt.io)
 ```
 
 ## Reproduce this score

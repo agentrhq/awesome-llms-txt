@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Coinbase Developer Documentation
 
-![Score 76/100 — Grade B+](../../web/badge/docs.cdp.coinbase.com.svg)
+![Score 76/100 — Grade B+](../../docs/badge/docs.cdp.coinbase.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://docs.cdp.coinbase.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -57,7 +57,7 @@ Category: **dev-tools** · [Live llms.txt](https://docs.cdp.coinbase.com/llms.tx
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.cdp.coinbase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.cdp.coinbase.com)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.cdp.coinbase.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.cdp.coinbase.com)
 ```
 
 ## Reproduce this score

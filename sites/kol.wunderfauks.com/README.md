@@ -15,7 +15,7 @@ freshness_age_days: 343
 
 # Kol
 
-![Score 41/100 — Grade D](../../web/badge/kol.wunderfauks.com.svg)
+![Score 41/100 — Grade D](../../docs/badge/kol.wunderfauks.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://kol.wunderfauks.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -55,7 +55,7 @@ Category: **dev-tools** · [Live llms.txt](https://kol.wunderfauks.com/llms.txt)
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/kol.wunderfauks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kol.wunderfauks.com)
+[![llms.txt score 41 (D)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/kol.wunderfauks.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/kol.wunderfauks.com)
 ```
 
 ## Reproduce this score

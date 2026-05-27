@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Lifewithai
 
-![Score 76/100 — Grade B+](../../web/badge/lifewithai.ai.svg)
+![Score 76/100 — Grade B+](../../docs/badge/lifewithai.ai.svg)
 
 Category: **auth** · [Live llms.txt](https://lifewithai.ai/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://lifewithai.ai/llms.txt) · Snapsho
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/lifewithai.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lifewithai.ai)
+[![llms.txt score 76 (B+)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/lifewithai.ai.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/lifewithai.ai)
 ```
 
 ## Reproduce this score

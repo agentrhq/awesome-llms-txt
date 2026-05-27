@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Sendameal
 
-![Score 64/100 — Grade C](../../web/badge/sendameal.com.svg)
+![Score 64/100 — Grade C](../../docs/badge/sendameal.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://storage.googleapis.com/bc-index-now.firebasestorage.app/odebi8ye4k/llmstxt/1/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -54,7 +54,7 @@ Category: **dev-tools** · [Live llms.txt](https://storage.googleapis.com/bc-ind
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/sendameal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sendameal.com)
+[![llms.txt score 64 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/sendameal.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/sendameal.com)
 ```
 
 ## Reproduce this score

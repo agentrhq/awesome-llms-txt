@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Retail Media Platform
 
-![Score 56/100 — Grade C](../../web/badge/help.citrusad.com.svg)
+![Score 56/100 — Grade C](../../docs/badge/help.citrusad.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://help.citrusad.com/retail-media-interface/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **dev-tools** · [Live llms.txt](https://help.citrusad.com/retail-medi
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/help.citrusad.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/help.citrusad.com)
+[![llms.txt score 56 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/help.citrusad.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/help.citrusad.com)
 ```
 
 ## Reproduce this score

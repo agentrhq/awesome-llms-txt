@@ -15,7 +15,7 @@ freshness_age_days: 0
 
 # Memeasylum
 
-![Score 58/100 — Grade C](../../web/badge/memeasylum.com.svg)
+![Score 58/100 — Grade C](../../docs/badge/memeasylum.com.svg)
 
 Category: **dev-tools** · [Live llms.txt](https://memeasylum.com/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -56,7 +56,7 @@ Category: **dev-tools** · [Live llms.txt](https://memeasylum.com/llms.txt) · S
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/memeasylum.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/memeasylum.com)
+[![llms.txt score 58 (C)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/memeasylum.com.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/memeasylum.com)
 ```
 
 ## Reproduce this score

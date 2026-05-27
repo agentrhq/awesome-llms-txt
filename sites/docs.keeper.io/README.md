@@ -15,7 +15,7 @@ freshness_age_days: null
 
 # Keeper Documentation Portal
 
-![Score 67/100 — Grade B](../../web/badge/docs.keeper.io.svg)
+![Score 67/100 — Grade B](../../docs/badge/docs.keeper.io.svg)
 
 Category: **auth** · [Live llms.txt](https://docs.keeper.io/llms.txt) · Snapshot: [`llms.txt`](./llms.txt) · Machine-readable: [`score.json`](./score.json)
 
@@ -52,7 +52,7 @@ Category: **auth** · [Live llms.txt](https://docs.keeper.io/llms.txt) · Snapsh
 ## Embed the badge
 
 ```markdown
-[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/web/badge/docs.keeper.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.keeper.io)
+[![llms.txt score 67 (B)](https://raw.githubusercontent.com/agentrhq/awesome-llms-txt/main/docs/badge/docs.keeper.io.svg)](https://github.com/agentrhq/awesome-llms-txt/tree/main/sites/docs.keeper.io)
 ```
 
 ## Reproduce this score
