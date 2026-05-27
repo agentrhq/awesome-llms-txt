@@ -4,6 +4,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const { HOUSEHOLD_NAMES } = require('./household-names');
+
 const ROOT = path.resolve(__dirname, '..');
 const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'leaderboard.json'), 'utf8'));
 const stats = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'stats.json'), 'utf8'));
@@ -142,62 +144,6 @@ ${top25.map(row).join('\n')}
 [Full table (${stats.total.toLocaleString()} rows) →](./docs/leaderboard.json) · [Sortable web view →](https://agentrhq.github.io/awesome-llms-txt/) ${'<!-- pages -->'}
 
 `;
-
-// HOUSEHOLD_NAMES drives the "Names you know" section near the top of the README.
-// Readers scrolling for 5 seconds want to see brands they recognise, not the long
-// tail of niche SaaS or random submission-driven entries. Curation is editorial.
-// To propose adding or removing a brand, open an issue with the "household-names"
-// label.
-//
-// One entry per brand: we pick whichever domain (apex vs docs) the brand uses
-// as their primary llms.txt location, to avoid double-counting them in the table.
-const HOUSEHOLD_NAMES = new Set([
-  'docs.stripe.com',
-  'vercel.com',
-  'docs.anthropic.com',
-  'cohere.com',
-  'cloudflare.com',
-  'github.com',
-  'resend.com',
-  'linear.app',
-  'cal.com',
-  'clerk.com',
-  'workos.com',
-  'auth0.com',
-  'posthog.com',
-  'neon.tech',
-  'docs.convex.dev',
-  'supabase.com',
-  'datadog.com',
-  'mongodb.com',
-  'redis.io',
-  'netlify.com',
-  'twilio.com',
-  'notion.so',
-  'python.langchain.com',
-  'docs.zapier.com',
-  'docs.expo.dev',
-  'docs.adyen.com',
-  'docs.docker.com',
-  'prisma.io',
-  'planetscale.com',
-  'nextjs.org',
-  'react.dev',
-  'svelte.dev',
-  'vuejs.org',
-  'ui.shadcn.com',
-  'amplitude.com',
-  'newrelic.com',
-  'elevenlabs.io',
-  'replicate.com',
-  'better-auth.com',
-  'www.unkey.com',
-  'mistral.ai',
-  'together.ai',
-  'ollama.com',
-  'docs.gitbook.com',
-  'www.mux.com',
-]);
 
 const householdRows = sorted.filter(e => HOUSEHOLD_NAMES.has(e.domain));
 

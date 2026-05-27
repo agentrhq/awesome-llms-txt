@@ -4,6 +4,8 @@
 const fs = require('fs');
 const path = require('path');
 
+const { HOUSEHOLD_NAMES } = require('./household-names');
+
 const ROOT = path.resolve(__dirname, '..');
 const WEB = path.join(ROOT, 'docs');
 const SITE_PAGES = path.join(WEB, 'site');
@@ -11,6 +13,7 @@ const OG = path.join(WEB, 'og');
 
 const manifest = JSON.parse(fs.readFileSync(path.join(WEB, 'leaderboard.json'), 'utf8'));
 const stats = JSON.parse(fs.readFileSync(path.join(WEB, 'stats.json'), 'utf8'));
+const householdSorted = [...manifest].filter(e => HOUSEHOLD_NAMES.has(e.domain)).sort((a, b) => b.score - a.score);
 
 const LABELS = {
   spec_compliance: 'Spec compliance',
@@ -154,8 +157,26 @@ function indexPageBody() {
 </header>
 
 <main>
+  <div class="household">
+    <h2>Names you know</h2>
+    <p class="section-blurb">How the most-recognised dev tools and SaaS scored. Sorted by score within this curated list. Curation is editorial; the rankings are not.</p>
+    <table class="compact">
+      <thead><tr><th>#</th><th>Site</th><th>Domain</th><th class="num">Score</th><th>Grade</th><th>Category</th></tr></thead>
+      <tbody>
+        ${householdSorted.map((e, i) => `<tr>
+          <td class="num">${i + 1}</td>
+          <td><a href="./site/${esc(e.domain)}.html">${esc(e.display_name)}</a></td>
+          <td class="domain">${esc(e.domain)}</td>
+          <td class="num"><strong>${e.score}</strong></td>
+          <td><span class="grade-pill" style="background:${GRADE_COLORS[e.grade]}">${esc(e.grade)}</span></td>
+          <td><span class="cat">${esc(e.category)}</span></td>
+        </tr>`).join('')}
+      </tbody>
+    </table>
+  </div>
+
   <div class="top10">
-    <h2>Top 10</h2>
+    <h2>Top 10 (strict leaderboard)</h2>
     <ol class="top10-list">
       ${top10.map(e => `<li><a href="./site/${esc(e.domain)}.html"><span class="t10-name">${esc(e.display_name)}</span><span class="t10-domain">${esc(e.domain)}</span><span class="t10-grade" style="background:${GRADE_COLORS[e.grade]}">${esc(e.grade)}</span><span class="t10-score">${e.score}</span></a></li>`).join('')}
     </ol>
@@ -289,6 +310,11 @@ h1 code { color: var(--accent); background: none; padding: 0; }
 .callout { background: var(--surface); border-left: 3px solid var(--accent); padding: 16px 20px; margin: 0 0 24px; border-radius: 0 8px 8px 0; }
 .callout p { margin: 0; font-size: 16px; }
 .scan-bar { background: #000; border: 1px solid var(--border); border-radius: 6px; padding: 14px 18px; font-family: 'Geist Mono', monospace; color: var(--accent); overflow-x: auto; }
+.household { margin: 48px 0 32px; }
+.household .section-blurb { color: var(--muted); font-size: 13px; max-width: 720px; margin: 0 0 16px; }
+.household table.compact { font-size: 13px; }
+.household table.compact th { padding: 8px 6px; }
+.household table.compact td { padding: 8px 6px; }
 .top10 { margin: 48px 0 32px; }
 .top10 h2, .filters h2 { font-size: 18px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; font-weight: 500; margin-bottom: 12px; }
 .top10-list { list-style: none; padding: 0; margin: 0; counter-reset: rank; }

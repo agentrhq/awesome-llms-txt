@@ -19,6 +19,11 @@ h1 code { color: var(--accent); background: none; padding: 0; }
 .callout { background: var(--surface); border-left: 3px solid var(--accent); padding: 16px 20px; margin: 0 0 24px; border-radius: 0 8px 8px 0; }
 .callout p { margin: 0; font-size: 16px; }
 .scan-bar { background: #000; border: 1px solid var(--border); border-radius: 6px; padding: 14px 18px; font-family: 'Geist Mono', monospace; color: var(--accent); overflow-x: auto; }
+.household { margin: 48px 0 32px; }
+.household .section-blurb { color: var(--muted); font-size: 13px; max-width: 720px; margin: 0 0 16px; }
+.household table.compact { font-size: 13px; }
+.household table.compact th { padding: 8px 6px; }
+.household table.compact td { padding: 8px 6px; }
 .top10 { margin: 48px 0 32px; }
 .top10 h2, .filters h2 { font-size: 18px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; font-weight: 500; margin-bottom: 12px; }
 .top10-list { list-style: none; padding: 0; margin: 0; counter-reset: rank; }
