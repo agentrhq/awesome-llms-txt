@@ -237,7 +237,7 @@ Maintainers: see [\`MAINTAINERS.md\`](./MAINTAINERS.md). Code of conduct: see [\
 
 ## What this is and isn't
 
-- This is a **scored** leaderboard. It is not a pass / fail validator — try [llmstxtchecker.net](https://llmstxtchecker.net/) for that.
+- This is a **scored** leaderboard. It is not a pass / fail validator — the [llms.txt spec](https://llmstxt.org/) covers what a valid file looks like.
 - This is not a directory. [\`directory.llmstxt.cloud\`](https://directory.llmstxt.cloud/) and [\`llms-txt-hub\`](https://github.com/thedaviddias/llms-txt-hub) do that.
 - This is not an opinion on whether \`llms.txt\` should exist. We grade what's published.
 - This is not endorsed by Answer.AI, Jeremy Howard, or any of the listed sites.
